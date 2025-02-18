@@ -3,7 +3,9 @@
 # Number of times to run the command
 num_iterations=1200  # Change as needed
 number_of_pages=250
-wait_time=15
+wait_time=6
+wait_time2=2
+
 
 for ((i=0; i<=num_iterations; i++))
 do
@@ -28,4 +30,7 @@ do
 
         echo -e "\tCommit and push complete. Continuing the loop..."
     fi
+
+    sleep $wait_time2
+
 done
