@@ -24,7 +24,7 @@ do
         git commit -m "Iteration $i : Automatic commit"
 
         # Push the changes to the remote repository
-        git push origin main
+        git push 
 
         echo -e "\tCommit and push complete. Continuing the loop..."
     fi
