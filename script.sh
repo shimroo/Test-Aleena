@@ -12,4 +12,20 @@ do
     
     echo -e "\tIteration $i complete. Waiting for $wait_time seconds..."
     sleep $wait_time
+
+    # After every 10 iterations, commit and push to Git
+    if ((i % 10 == 0)); then
+        echo "Iteration $i: Committing and pushing to Git..."
+
+        # Add all changes to staging
+        git add .
+
+        # Commit the changes
+        git commit -m "Iteration $i: Automating commit after $i iterations"
+
+        # Push the changes to the remote repository
+        git push origin main
+
+        echo -e "\tCommit and push complete. Continuing the loop..."
+    fi
 done
