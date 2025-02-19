@@ -1,0 +1,450 @@
+
+
+
+
+hrčak portal hrvatskih znanstvenih i stručnih časopisa - hrčak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    skoči na glavni sadržaj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+english
+
+
+
+
+
+
+
+
+
+prijava i registracija
+
+
+
+
+
+
+
+
+prijava
+
+
+
+promjena načina autentikacije
+
+
+
+registracija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+navigation
+
+
+1
+početna
+
+
+o hrčku
+
+
+ o hrčku 
+
+
+
+
+o hrčku
+
+
+interoperabilnost
+
+
+politike korištenja
+
+
+savjet hrčka
+
+
+kontakt
+
+
+redovne nadogradnje
+
+
+
+
+
+ časopisi 
+
+
+
+
+abecedno
+
+
+po područjima
+
+
+
+
+
+ za uredništva 
+
+
+
+
+posjećenost časopisa
+
+
+statusi časopisa
+
+
+upute za administratore časopisa
+
+
+izjava o otvorenom pristupu
+
+
+kriteriji uvrštavanja časopisa
+
+
+prijava časopisa u hrčak
+
+
+alati
+
+
+
+
+
+ za autore 
+
+
+
+
+prijava radova
+
+
+orcid identifikator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+portal hrvatskih znanstvenih i stručnih časopisa
+
+
+
+
+ 
+
+
+napredno pretraživanje   
+                                upute za pretraživanje
+
+
+pristupite covid-19 člancima
+
+hrčak je centralni portal koji na jednom mjestu okuplja hrvatske znanstvene i stručne časopise koji nude otvoreni pristup svojim radovima (više).
+
+
+
+
+
+
+552
+časopisa
+
+
+23.544
+sveščića
+
+
+305.468
+radova s cjelovitim tekstom
+
+
+90.644
+orcid identifikatora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+obavijest
+
+
+nova funkcionalnost u hrčku - automatizirana izrada jats xml-a
+početkom rujna 2023. na hrčku je pokrenuta nova važna funkcionalnost kojom je urednicima i izdavačima časopisa omogućeno automatizirano kreiranje jats xml-a iz word (docx) dokumenata radova. funkcionalnost je bazirana na korištenju dvaju alata koja su integrirana u sučelje hrčka. alati su pandoc – a universal document converter te anystyle, alat koji prepoznaje reference u tekstu i razdvaja ih na sastavne elemente. anystyle je alat koji radi po principu strojnog učenja (engl. machine learning) stoga se očekuje da je dodatnim usavršavanjem istog moguće ostvariti još bolje rezultate.
+                                            u svrhu upoznavanja uredništava s novom funkcionalnosti, 7.9. je održan webinar na kojem je funkcionalnost prezentirana, a snimka webinara i popratni .pptx objavljeni su u digitalnom repozitoriju srca.
+na wiki stranici hrčka objavljene su i video upute za korištenje ove funkcionalnosti.
+s obzirom na važnost funkcionalnosti i objavljivanja xml-a, tim hrčka planira periodički održavati radionice uživo, a jednom mjesečno se održavaju i online konzultacije o ovoj temi. urednici i izdavači će o svim novostima i obavijestima pravovremeno biti obavješteni putem hrčak mailing liste.
+
+
+
+
+
+
+
+
+
+
+10 najnovijih online first radova u hrčku
+                                
+
+
+
+                                                        dešifriranje mode: kulturne vrijednosti i teorijsk...
+                                                    
+                                                    , tekstil
+                                            
+
+
+                                                        ispitivanja toplinskih svojstava odjevnih kompozit...
+                                                    
+                                                    , tekstil
+                                            
+
+
+                                                        učinak simulacije ubrzanog starenja na svojstva po...
+                                                    
+                                                    , tekstil
+                                            
+
+
+                                                        o povijesnome razvoju hrvatskoga pravnog jezika: r...
+                                                    
+                                                    , rasprave instituta za hrvatski jezik
+                                            
+
+
+                                                        rječnička raznolikost slikovnica namijenih djeci r...
+                                                    
+                                                    , rasprave instituta za hrvatski jezik
+                                            
+
+
+                                                        doma doma je najljepše – kontrastivna leksička rep...
+                                                    
+                                                    , rasprave instituta za hrvatski jezik
+                                            
+
+
+                                                        ac-rzecz biorąc tj. ac-mówiąc na pol...
+                                                    
+                                                    , rasprave instituta za hrvatski jezik
+                                            
+
+
+                                                        deontička modalnost u statutu sveučilišta u zagreb...
+                                                    
+                                                    , rasprave instituta za hrvatski jezik
+                                            
+
+
+                                                        leagile manufacturing in a medium-sized air compre...
+                                                    
+                                                    , transactions of famena
+                                            
+
+
+                                                        wandering monuments of zenica
+                                                    
+                                                    , geoadria
+                                            
+
+
+
+
+
+
+
+
+
+10 najnovijih sveščića po datumu izdavanja
+                                
+
+
+veterinarska stanica, 56(5), 2025
+
+
+tehnički glasnik, 19(1), 2025
+
+
+medijske studije, 15(30), 2024
+
+
+explorations in english language and linguistics, 12(2), 2024
+
+
+interdisciplinary description of complex systems, 23(1), 2025
+
+
+southeastern european medical journal, 8(2), 2024
+
+
+acta iadertina, 21(2), 2024
+
+
+diacovensia, 32(4), 2024
+
+
+rudarsko-geološko-naftni zbornik, 40(1), 2025
+
+
+efzg working paper series, 2025(02), 2025
+
+
+
+
+
+
+
+
+10 zadnje objavljenih sveščića na hrčku
+
+
+medijske studije, 15(30), 2024
+
+
+cross cultural studies review, 1(1-2), 2019
+
+
+strategos, 8(2), 2024
+
+
+strategos, 8(1), 2024
+
+
+southeastern european medical journal, 8(2), 2024
+
+
+interdisciplinary description of complex systems, 23(1), 2025
+
+
+rudarsko-geološko-naftni zbornik, 40(1), 2025
+
+
+explorations in english language and linguistics, 12(2), 2024
+
+
+fizika, 1, supplement(), 1969
+
+
+fizika, 10(2), 1978
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                2021 © portal hrvatskih znanstvenih i stručnih časopisa - hrčak
+                            
+
+izjava o pristupačnosti
+                            |
+
+                                                            politika privatnosti
+                                                            |
+                            kontakt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

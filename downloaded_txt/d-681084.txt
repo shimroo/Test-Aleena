@@ -1,0 +1,385 @@
+
+
+
+
+	lindo mar resort
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation 
+
+
+
+
+
+
+
+
+
+
+overview
+rooms
+specials
+gallery
+la playita restaurant
+sales
+owners
+
+
+owners
+
+
+
+
+
+pay maintenance fees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation 
+
+
+
+
+
+
+
+
+
+overview
+rooms
+specials
+gallery
+la playita restaurant
+sales
+owners
+
+
+owners
+pay maintenance fees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+book your room now!
+
+
+
+
+
+                                        check in
+
+
+
+
+                                        check out
+
+
+
+
+                                        adults
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+
+
+                                        children (2-17)
+
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+
+
+                                    search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about lindo mar resort
+lindo mar wants you to relax in the beautiful and exotic landscape of puerto vallarta. whether you’re dining at our romantic la playita on the water, soaking up the sun through the many activities around vallarta, or even just taking in the scenic view from your villas balcony—lindo mar has the ultimate vacation experience.
+resort highlights:
+
+
+
+activity desk
+auto rental
+bar/lounge
+beachfront resort
+fitness center
+24-hour security
+ocean front restaurant
+
+
+
+
+taxi service
+outdoor pool
+restaurant
+concierge
+whirlpool
+designated smoking area
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resort specials
+great deals and
+            last-minute specials
+save now!
+
+
+
+
+travel services
+one-stop shop for
+            everything travel
+browse exclusive benefits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resort specials
+
+exclusive savings & offers
+
+
+view specials
+
+*some restrictions apply.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        lindo mar resort
+                                        k 2.5 carretera a barra de navidad
+                                        48399 puerto vallarta, jalisco mexico
+                                        front desk: 011-52-322-22-15511
+                                    
+
+
+
+
+
+
+stay in touch!
+
+
+
+
+
+
+
+
+home | contact us | privacy policy | sitemap
+
+
+
+
+
+                                        copyright © 2025
+                                        trading places international
+                                        cst# 1008862-10
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+×
+member login
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- <script type="text/javascript">
+        $(document).ready(function () {
+            var loc = location.href;
+            var str = loc.tolowercase();
+            var expression = /https?:\/\/[-a-za-z0-9@:%._\+~#=]{0,256}(lindomarresort\.com\/)(?![-a-za-z0-9@:%._\+~#=])$/g
+            var regex = new regexp(expression);
+            if (str.match(regex)) {
+                $('#emergencyinfo').modal('show');
+            } else {
+                console.log("no match");
+            }
+        });
+    
+
+
+

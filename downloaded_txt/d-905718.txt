@@ -1,0 +1,1596 @@
+
+
+
+
+
+aldis - austrian lightning detection and information system - aldis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            netzwerk
+                        
+
+
+
+                                            geschichte
+                                        
+
+
+
+                                            national
+                                        
+
+
+
+                                            international
+                                        
+
+
+
+                                            funktionsweise
+                                        
+
+
+
+                                            ortungsqualität
+                                        
+
+
+
+
+
+                            produkte
+                        
+
+
+
+                                            blitz-einzelabfrage
+                                        
+
+
+
+                                                        einzelabfrage formular
+                                                        
+
+
+
+
+
+                                            aldisaktuell - blidsaktuell
+                                        
+
+
+
+                                            aldisexpert - blidsexpert
+                                        
+
+
+
+                                            aldisalarm - blidsalarm
+                                        
+
+
+
+                                            aldisprotokoll - blidsprotokoll
+                                        
+
+
+
+                                            aldisspion - blidsspion
+                                        
+
+
+
+                                            expertisen und studien
+                                        
+
+
+
+
+
+                            forschung
+                        
+
+
+
+                                            blitzphysik
+                                        
+
+
+
+                                            blitzforschungsstation gaisberg
+                                        
+
+
+
+                                                        allgemeines
+                                                        
+
+
+
+                                                        blitzstrommessung
+                                                        
+
+
+
+                                                        feldmessung
+                                                        
+
+
+
+                                                        high speed kameraaufnahmen
+                                                        
+
+
+
+
+
+                                            publikationen
+                                        
+
+
+
+                                            vorträge und videos
+                                        
+
+
+
+                                                        blitzschutz und aktuelle blitzforschung
+                                                        
+
+
+
+                                                        unveiling the mistery of lightning
+                                                        
+
+
+
+
+
+
+
+                            blitzschutz
+                        
+
+
+
+                                            verhalten bei gewitter
+                                        
+
+
+
+                                            meldung von blitzunfällen
+                                        
+
+
+
+                                                        formular
+                                                        
+
+
+
+
+
+                                            gebäudeblitzschutz
+                                        
+
+
+
+                                                        vorschriften
+                                                        
+
+
+
+                                                        einschlagswahrscheinlichkeit
+                                                        
+
+
+
+
+
+                                            blitzdichte für risikobewertung nach ove/önorm en62305-2
+                                        
+
+
+
+                                                        abfrage
+                                                        
+
+
+
+
+
+
+
+                            blitzstatistik
+                        
+
+
+
+                                            blids statistik (de, ch)
+                                        
+
+
+
+                                            diagramme
+                                        
+
+
+
+                                                        entladungen (at) - heuer
+                                                        
+
+
+
+                                                        entladungen (at) - gestern
+                                                        
+
+
+
+                                                        entladungen (at) - heute
+                                                        
+
+
+
+                                                        entladungen (eu) - heute
+                                                        
+
+
+
+                                                        entladungen (at) - 10 tage
+                                                        
+
+
+
+                                                        entladungen (at) - 24h
+                                                        
+
+
+
+                                                        entladungen (eu) - 24h
+                                                        
+
+
+
+                                                        flashes (bundesländer) - bis gestern
+                                                        
+
+
+
+                                                        flashes (bundesländer) - jahresstatistik
+                                                        
+
+
+
+
+
+                                            tabellen
+                                        
+
+
+
+                                                        gegenüberstellung bis zum heutigen tag
+                                                        
+
+
+
+                                                        jahresblitzzahlen - übersicht
+                                                        
+
+
+
+                                                        monatsübersicht - österreich
+                                                        
+
+
+
+                                                        monatsübersicht - wien
+                                                        
+
+
+
+                                                        monatsübersicht - niederösterreich
+                                                        
+
+
+
+                                                        monatsübersicht - oberösterreich
+                                                        
+
+
+
+                                                        monatsübersicht - burgenland
+                                                        
+
+
+
+                                                        monatsübersicht - steiermark
+                                                        
+
+
+
+                                                        monatsübersicht - salzburg
+                                                        
+
+
+
+                                                        monatsübersicht - kärnten
+                                                        
+
+
+
+                                                        monatsübersicht - tirol & osttirol
+                                                        
+
+
+
+                                                        monatsübersicht - vorarlberg
+                                                        
+
+
+
+
+
+                                            blitzdichte
+                                        
+
+
+
+                                                        tabelle bundesländer
+                                                        
+
+
+
+                                                        tabelle bezirke
+                                                        
+
+
+
+                                                        tabelle gemeinden
+                                                        
+
+
+
+                                                        karte bundesländer
+                                                        
+
+
+
+                                                        karte bezirke
+                                                        
+
+
+
+
+
+                                            amplituden
+                                        
+
+
+
+                                            polarität
+                                        
+
+
+
+                                            folgeblitze
+                                        
+
+
+
+
+
+                            aldismobile
+                        
+
+
+
+                                            live gewitterkarte at
+                                        
+
+
+
+                                            informationen
+                                        
+
+
+
+                                                        über aldismobile
+                                                        
+
+
+
+                                                        gewitter und blitze
+                                                        
+
+
+
+                                                        wie verhalte ich mich bei gewitter
+                                                        
+
+
+
+                                                        blitzortung
+                                                        
+
+
+
+                                                        widgets
+                                                        
+
+
+
+                                                        feedback
+                                                        
+
+
+
+                                                        nutzungsbedingungen
+                                                        
+
+
+
+                                                        demo gewitterkarte
+                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+                        netzwerk
+                    
+
+
+
+                                        geschichte
+                                    
+
+
+
+                                        national
+                                    
+
+
+
+                                        international
+                                    
+
+
+
+                                        funktionsweise
+                                    
+
+
+
+                                        ortungsqualität
+                                    
+
+
+
+
+
+                        produkte
+                    
+
+
+
+                                        blitz-einzelabfrage
+                                    
+
+
+
+                                                        einzelabfrage formular
+                                                    
+
+
+
+
+
+                                        aldisaktuell - blidsaktuell
+                                    
+
+
+
+                                        aldisexpert - blidsexpert
+                                    
+
+
+
+                                        aldisalarm - blidsalarm
+                                    
+
+
+
+                                        aldisprotokoll - blidsprotokoll
+                                    
+
+
+
+                                        aldisspion - blidsspion
+                                    
+
+
+
+                                        expertisen und studien
+                                    
+
+
+
+
+
+                        forschung
+                    
+
+
+
+                                        blitzphysik
+                                    
+
+
+
+                                        blitzforschungsstation gaisberg
+                                    
+
+
+
+                                                        allgemeines
+                                                    
+
+
+
+                                                        blitzstrommessung
+                                                    
+
+
+
+                                                        feldmessung
+                                                    
+
+
+
+                                                        high speed kameraaufnahmen
+                                                    
+
+
+
+
+
+                                        publikationen
+                                    
+
+
+
+                                        vorträge und videos
+                                    
+
+
+
+                                                        blitzschutz und aktuelle blitzforschung
+                                                    
+
+
+
+                                                        unveiling the mistery of lightning
+                                                    
+
+
+
+
+
+
+
+                        blitzschutz
+                    
+
+
+
+                                        verhalten bei gewitter
+                                    
+
+
+
+                                        meldung von blitzunfällen
+                                    
+
+
+
+                                                        formular
+                                                    
+
+
+
+
+
+                                        gebäudeblitzschutz
+                                    
+
+
+
+                                                        vorschriften
+                                                    
+
+
+
+                                                        einschlagswahrscheinlichkeit
+                                                    
+
+
+
+
+
+                                        blitzdichte für risikobewertung nach ove/önorm en62305-2
+                                    
+
+
+
+                                                        abfrage
+                                                    
+
+
+
+
+
+
+
+                        blitzstatistik
+                    
+
+
+
+                                        blids statistik (de, ch)
+                                    
+
+
+
+                                        diagramme
+                                    
+
+
+
+                                                        entladungen (at) - heuer
+                                                    
+
+
+
+                                                        entladungen (at) - gestern
+                                                    
+
+
+
+                                                        entladungen (at) - heute
+                                                    
+
+
+
+                                                        entladungen (eu) - heute
+                                                    
+
+
+
+                                                        entladungen (at) - 10 tage
+                                                    
+
+
+
+                                                        entladungen (at) - 24h
+                                                    
+
+
+
+                                                        entladungen (eu) - 24h
+                                                    
+
+
+
+                                                        flashes (bundesländer) - bis gestern
+                                                    
+
+
+
+                                                        flashes (bundesländer) - jahresstatistik
+                                                    
+
+
+
+
+
+                                        tabellen
+                                    
+
+
+
+                                                        gegenüberstellung bis zum heutigen tag
+                                                    
+
+
+
+                                                        jahresblitzzahlen - übersicht
+                                                    
+
+
+
+                                                        monatsübersicht - österreich
+                                                    
+
+
+
+                                                        monatsübersicht - wien
+                                                    
+
+
+
+                                                        monatsübersicht - niederösterreich
+                                                    
+
+
+
+                                                        monatsübersicht - oberösterreich
+                                                    
+
+
+
+                                                        monatsübersicht - burgenland
+                                                    
+
+
+
+                                                        monatsübersicht - steiermark
+                                                    
+
+
+
+                                                        monatsübersicht - salzburg
+                                                    
+
+
+
+                                                        monatsübersicht - kärnten
+                                                    
+
+
+
+                                                        monatsübersicht - tirol & osttirol
+                                                    
+
+
+
+                                                        monatsübersicht - vorarlberg
+                                                    
+
+
+
+
+
+                                        blitzdichte
+                                    
+
+
+
+                                                        tabelle bundesländer
+                                                    
+
+
+
+                                                        tabelle bezirke
+                                                    
+
+
+
+                                                        tabelle gemeinden
+                                                    
+
+
+
+                                                        karte bundesländer
+                                                    
+
+
+
+                                                        karte bezirke
+                                                    
+
+
+
+
+
+                                        amplituden
+                                    
+
+
+
+                                        polarität
+                                    
+
+
+
+                                        folgeblitze
+                                    
+
+
+
+
+
+                        aldismobile
+                    
+
+
+
+                                        live gewitterkarte at
+                                    
+
+
+
+                                        informationen
+                                    
+
+
+
+                                                        über aldismobile
+                                                    
+
+
+
+                                                        gewitter und blitze
+                                                    
+
+
+
+                                                        wie verhalte ich mich bei gewitter
+                                                    
+
+
+
+                                                        blitzortung
+                                                    
+
+
+
+                                                        widgets
+                                                    
+
+
+
+                                                        feedback
+                                                    
+
+
+
+                                                        nutzungsbedingungen
+                                                    
+
+
+
+                                                        demo gewitterkarte
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+                    faq
+                
+
+
+
+                    links
+                
+
+
+
+                    aktuell
+                
+
+
+
+                    presse
+                
+
+
+
+
+
+ en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sie befinden sich hieraldis
+
+
+
+
+
+
+aldis - austrian lightning detection and information system
+
+
+
+
+aldis (austrian lightning detection & information system) ist ein gemeinschaftsprojekt von ove österreichischer verband für elektrotechnik  und der apg austrian power grid ag  zur blitzortung und blitzdokumentation im zentraleuropäischen raum.
+aldis liefert exakte blitzdaten an wetterdienste, energieversorgungsunternehmen, versicherungen und sachverständige und ist darüber hinaus weltweit anerkannte blitzforschungsstelle. forschungsergebnisse werden laufend in renommierten fachzeitschriften und bei internationalen konferenzen präsentiert.   aldis ist mitglied in der europäischen kooperation euclid (european cooperation for lightning detection), dem zusammenschluss mehrerer nationaler blitzortungssysteme zu einem europaweiten ortungssystem. euclid webseite .
+
+
+
+
+
+
+
+
+
+
+
+blids - blitz informations dienst
+
+
+
+
+blids (blitz informations dienst) wurde jahrzehnte lang von siemens deutschland betrieben und im oktober 2023 von aldis übernommen.
+da es bereits vor der übernahme eine enge zusammenarbeit zwischen aldis und blids gab ändert sich durch die zusammenlegung nichts an den zur verfügung stehenden historischen und aktuellen blitzdaten.
+
+
+
+
+
+
+
+
+
+
+
+                                    aldismobile
+                                
+
+aldismobile zeigt ihnen die gewitteraktivität (blitze) der letzten stunden über österreich in echtzeit. über eine interaktive gewitterkarte sehen sie genau, wo es gerade blitze und gewitter gibt.
+neben der desktop version gibt es auch eine app, die sie für ihr mobiles gerät herunterladen können.
+
+
+
+
+                                        informieren
+                                    
+
+
+
+
+
+
+                                    verhalten bei gewitter
+                                
+
+ gewitterinformation und gewitterwarnung (pdf-datei) merkblatt zum richtigen "verhalten bei gewitter" (pdf-datei) "donner-wetter" – wissen für kids zu donner und blitz (pdf-datei) blitzschutz 
+
+
+
+
+
+
+                                    schnellzugriff
+                                
+
+ meldung blitzunfall: melde-formular blitzdichteabfrage für risikoanalyse nach ove/önorm en62305-2 	mit aktualisierten blitzdaten öve/önorm en 62305 das gesamtkonzept zum blitzschutz  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            aldis partner
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            kooperationen
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            forschungspartner
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        aldismobile
+                                    
+
+
+                                        mehr erfahren
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+                                        werbung
+                                    
+
+
+                                        mehr erfahren
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+                                        überspannungsschutz, blitzschutz/erdung, arbeitsschutz
+                                    
+
+
+                                        mehr erfahren
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aldis / blids
+
+kahlenberger straße 2a
+1190 wien
+
+
+
+
+aldis@ove.at
+                                
+
+
+
+                                anfahrt planen
+                            
+
+
+
+produkte
+
+
+
+
+aldis partner
+
+
+
+
+                    ove
+                
+
+
+
+                    apg
+                
+
+
+
+
+
+aktuelle blitzdaten
+
+
+
+
+                    aldismobile
+                
+
+
+
+                    euclid
+                
+
+
+
+                    geosphere
+                
+
+
+
+                    orf
+                
+
+
+
+
+
+
+
+
+
+                    kontakt
+                
+
+
+
+                    impressum
+                
+
+
+
+                    datenschutz
+                
+
+
+
+
+folgen sie uns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © 2025 ove service gmbh
+        
+
+
+
+
+
+
+
+
+das element kann nicht angezeigt werden. um das element zu sehen, akzeptieren sie die marketing-cookies.
+cookie-einstellungen öffnen
+
+
+
+
+
+
+
+
+
+                    faq
+                
+
+
+
+                    links
+                
+
+
+
+                    aktuell
+                
+
+
+
+                    presse
+                
+
+
+
+
+
+
+
+ en
+
+
+
+
+
+
+datenschutzeinstellungen
+
+auf unserer webseite werden cookies verwendet. einige davon werden zwingend benötigt, während es uns andere ermöglichen, ihre nutzererfahrung auf unserer webseite zu verbessern.
+
+
+alle akzeptieren
+
+
+
+                 	mehr über die genutzten cookies erfahren
+                	
+
+
+
+
+
+don't fill this field!
+essentiell aldis
+
+
+
+marketing aldis
+
+
+
+kundendisplay
+
+
+
+
+
+nur essentielle cookies akzeptieren
+speichern und schließen
+
+
+
+essentiell aldis
+
+
+
+
+essentielle cookies werden für grundlegende funktionen der webseite benötigt. dadurch ist gewährleistet, dass die webseite einwandfrei funktioniert.
+
+
+
+name
+
+                                                    omcookieconsent
+                                                
+
+
+beschr.
+
+speichert die vom benutzer gewählten cookie-einstellungen.
+
+
+
+speicherdauer
+
+                                                    365 tage
+                                                
+
+
+provider
+
+                                                    oliver pfaff - olli macht's
+                                                
+
+
+
+
+
+
+marketing aldis
+
+
+
+
+marketingcookies umfassen tracking und statistikcookies
+
+
+
+name
+
+                                                    _ga, _gid, _gat, __utma, __utmb, __utmc, __utmd, __utmz
+                                                
+
+
+beschr.
+
+diese cookies werden von google analytics verwendet, um verschiedene arten von nutzungsinformationen zu sammeln, einschließlich persönlicher und nicht-personenbezogener informationen. weitere informationen finden sie in den datenschutzbestimmungen von google analytics unter https://policies.google.com/privacy. gesammelte nicht personenbezogene daten werden verwendet, um berichte über die nutzung der website zu erstellen, die uns helfen, unsere websites / apps zu verbessern. diese informationen werden auch an unsere kunden / partner weitergegeben.
+
+
+
+speicherdauer
+
+                                                    mehrere - variieren zwischen 2 jahren und 6 monaten oder noch kürzer.
+                                                
+
+
+provider
+
+                                                    google llc
+                                                
+
+
+
+
+name
+
+                                                    youtube
+                                                
+
+
+beschr.
+
+werden zur anzeige von youtube videos und speicherung von user-einstellungen genutzt.
+
+
+
+speicherdauer
+
+                                                    aktuelle browsersitzung
+                                                
+
+
+provider
+
+                                                    youtube
+                                                
+
+
+
+
+name
+
+                                                    google tag manager
+                                                
+
+
+beschr.
+
+
+
+
+speicherdauer
+
+
+
+
+provider
+
+                                                    google llc
+                                                
+
+
+
+
+
+
+kundendisplay
+
+
+
+
+bei unserem flash display blidsaktuell für unsere kunden werden folgende essentielle cookies verwendet, die für die funktion der anzeige erfoderlich sind.
+
+
+
+name
+
+                                                    awsalb, awsalbtg, awsalbtgcors, awsalbcors
+                                                
+
+
+beschr.
+
+aws load balancer für blidsaktuell (kundendisplay).
+
+
+
+speicherdauer
+
+                                                    7 tage
+                                                
+
+
+provider
+
+                                                    aws
+                                                
+
+
+
+
+name
+
+                                                    blids_session
+                                                
+
+
+beschr.
+
+blidsaktuell (kundendisplay) session cookie
+
+
+
+speicherdauer
+
+                                                    bis sitzungsende
+                                                
+
+
+provider
+
+                                                    ove service gmbh
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+

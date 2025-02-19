@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+sec consult - a leading consultant in application and cybersecurity as well as it security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navbarcareerabout uscontact
+                            en
+                        desearch
+                            compliance & regulations
+                        
+                                        nis2
+                                    
+                                        digital operational resilience act (dora)
+                                    
+                                        cyber resilience act
+                                    
+                            security testing
+                        
+                                        web application security
+                                    
+                                        penetration testing
+                                    
+                                        mobile security
+                                    
+                                        cloud security
+                                    
+                                        it infrastructure security
+                                    
+                                        security for sap services
+                                    
+                                        iot and embedded systems security
+                                    
+                                        red teaming
+                                    
+                            processes & organisation
+                        
+                                        information security management (ism)
+                                    
+                                        ot security
+                                    
+                                        secure software development consulting
+                                    
+                                        red teaming
+                                    
+                                        sec trainings
+                                    
+                                        project- und program management
+                                    
+                            incident response
+                        
+                                        sec defence
+                                    
+                            vulnerability lab
+                        
+                            blog
+                        incident?
+                                
+                                    breached?report an incident
+                                
+                            a reliable partner for long-term cybersecurity
+                        a robust cybersecurity strategy is essential for companies operating in sensitive sectors. that is why swiss space company beyond gravity chose to work with our cybersecurity experts.
+                    
+                            read more
+                        your global cyber security partnerget in touch with your local experts and make a personal appointment.victim of a cyber attack?the sec defence-team is there for your company 24/7. contact us now!latest advisoriesclick here to check out the latest advisories from our leading researchers.
+                concerned about your cyber security status?
+            
+    
+
+
+
+            contact us now and get advice from our experts.
+        
+                contact us
+            
+                latest advisories
+            multiple vulnerabilities in wattsense bridge
+                    11. feb 2025
+                wind river software vxworks rtos weak password hashing algorithms
+                    27. jan 2025
+                reflected cross-site scripting in numerix license server administration system login
+                    11. dec 2024
+                
+                sec consult blog
+            how beyond gravity, a leading swiss aerospace company, is fortifying cybersecurity: a real-life success story
+                    18.02.2025
+                newsin the highly sensitive aerospace industry, a comprehensive and proactive security strategy is paramount for companies to meet long-term security…
+                read more
+            ransomhub ransomware: double-extortion attack and how to defend
+                    29.01.2025
+                defencecyberattacks are constantly evolving, and ransomware remains a critical threat. we recently encountered the ransomhub ransomware group, which…
+                read more
+            join us at the swiss cyber security days!
+                    28.01.2025
+                the swiss cyber security days will take place in bern from 18 - 19 february. the largest swiss expo in the field of cyber security presents over 90…
+                read more
+            legal noticeprivacy statementjobs
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        sec consult is one of the leading consultancies in the field of cyber and application security. the company specializes in information security management, nis security audits, penetration testing, iso 27001 certification support, cyber defence and secure software certification. sec consult is part of eviden.
+                    
+
+
+
+
+
+
+
+
+we use cookies
+
+we use cookies to offer you a perfect visit experience. these include cookies that are necessary for the operation of the site and for the control of our commercial corporate goals, as well as those that are only used for anonymous statistical purposes, for convenience settings or to display personalized content. decide for yourself which categories you want to allow. please note that based on your settings, not all functions of the site may be available.
+legal notice  •  privacy statement
+
+
+
+
+
+
+
+                                            technically required
+                                        
+
+                                            (
+                                                0
+                                                service
+                                            )
+                                        
+
+
+
+
+no
+
+
+
+                                                technically required (
+                                                0
+                                                service
+                                                )
+                                            
+
+
+
+yes
+
+
+
+
+
+
+
+
+
+                                            analysis / statistics
+                                        
+
+                                            (
+                                                1
+                                                service
+                                            )
+                                        
+
+anonymous evaluation for troubleshooting and further development
+
+
+
+no
+
+
+
+                                                analysis / statistics (
+                                                1
+                                                service
+                                                )
+                                            
+
+
+
+yes
+
+
+
+
+
+
+matomo
+
+no
+
+matomo
+
+
+yes
+
+
+
+matomo.org
+
+
+                                                            show details
+                                                        
+
+                                                            hide details
+                                                        
+
+
+
+purpose: error analysis, statistical evaluation of our website accesses, campaign analysis, conversion tracking. processing operations: collection of access data, data from your browser and data about the content accessed; execution of analysis software and storage of data on your terminal device, anonymization of the data collected; evaluation of the anonymous data in the form of statistics. storage period: 1 year. joint controller: limesoda interactive marketing gmbh. legal basis for data processing: art. 6 para. 1 lit. f of the dsgvo. consequences of non-consent: this basic tracking is absolutely necessary for the operation of our website. data transfer: the data collected with matomo is stored on our own servers. it is not passed on to third parties.
+
+
+
+
+
+
+
+
+
+                    accept selected
+                
+
+                    reject all
+                
+
+                    accept all
+                
+
+
+
+
+
+

@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+the openwebmail project
+
+
+
+
+
+
+
+
+
+
+introduction
+
+
+      openwebmail is a full-featured webmail, addressbook, calendar, and webdisk system that is designed to manage very large mail folder files in a quick and memory efficient way.
+      
+
+      started in 2001, it is written in perl and available for free under an open source bsd license.
+      
+
+links
+
+
+
+download                    
+
+
+
+
+official release versions
+              (2.53 january 23, 2008 rev 287)
+            
+|
+
+current development version
+              (august 6, 2014 rev 79bb7cc)
+            
+
+
+
+
+
+openwebmail 3.00 beta 4!
+                openwebmail 3.00 beta 4 is the current development version. get it here!
+                we need translators. give it a try, it's easy.
+
+
+
+
+
+
+ 
+
+installation
+
+
+
+              
+            
+
+              
+            
+
+              
+            
+
+              
+            
+
+
+ 
+
+test drive
+
+official release demo |
+          current development demo
+
+
+ 
+
+project
+
+changelog |
+          bug tracker |
+          languages
+
+
+
+support
+
+search |
+          mailing list |
+          help
+
+
+
+documentation
+
+readme |
+          faq |
+          license
+
+
+
+publicity
+
+ohloh |
+          freshmeat |
+          sourceforge
+
+
+
+
+
+
+developers
+
+roadmap |
+          
+debugging |
+          metrics
+
+
+
+tech specs
+
+file structure |
+          webmail |
+          addressbook |
+          calendar |
+          webdisk
+authorization |
+          virtual users |
+          customizing |
+          debugging
+
+
+
+
+statistics
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+$id: index.html 692 2013-01-21 09:32:16z ateslik $copyright © 2001-2012 the openwebmail project
+
+
+

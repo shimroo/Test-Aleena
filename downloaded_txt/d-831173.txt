@@ -1,0 +1,132 @@
+
+
+
+i just found out
+
+
+
+
+
+
+itâs time
+
+
+
+
+
+
+
+
+would you misplace the deed to your house?
+how about the title to your car?
+important documents like house deeds, car titles, mortgage papers.. these are important documents that we keep in safe places. some people even go as far as placing them in fire safes or safety deposit boxes to make sure nothing happens to themâ¦ they are that important!
+letâs apply that concept to your home on the web. ask yourself this:
+if i needed to access my domain registration account right this minute - am i able to?
+surprisingly, for many, the answer to that question is : no.
+why? iâve heard various responses:
+i donât remember where i registered my domain
+i donât have the custom account number from www.chaturbaterooms.com to login
+i dontâ have the password for my domain account
+the email i used to register my domain no longer exists - so i canât reset the password in order to login
+someone (a developer, a designer, a host) registered the domain for me and itâs not under my own name, and now i canât get in touch with them in order to renew/edit/update it
+would you misplace the deed to your house?letâs back up here for a secondâ¦
+when you register a domain name you go through the process of providing the registrar (i.e. godaddy, network solutions, etc) some essential contact information, including your name, address, phone number and email address. this information is vital in case the registrar needs to get in contact with you regarding your domain registration. for instance, if your domain is set to expire - your registrar will email you at that email address you provided to them when you registered. if you no longer have access to that email address - - you will never get the notification
+immediately after youâve registered your domain name, the registrar sends you an email with the essential information like your customer account number, your account password and where you can go to access your domain account.
+i cannot say this strongly enough: save the email and put it in a safe place
+for the life of me, i cannot understand why this information does not get saved and stored in a safe place. your domain is your âhomeâ on the web - and in this day and age, domains are a lucrative business.. the more you use your domain and build it, the more valuable it becomes to you, and to those folks out there who shop around for newly expired/used domains to purchase and make money off of.
+too often, clients of mine lose their domain because they did not keep their registrar information on file - - and did not update their registrar account when theyâve changed their contact information. if your domain name is important to you, then treat the documents given to you by your registrar like you would treat any other important document in your life. save it. store it. make sure no unauthorized persons have access to it.
+looking back at my list of reasons why people lose control of thei domains
+letâs take a look of some of these reasons i listed:
+i donât remember where i registered my domain
+this one, i donât really get. i guess i can understand that, sometimes, the process of registering a domain can be a confusing process - especially if you are purchasing several web/domain related items all during the same time frame. the best thing you can do for yourself is to save every single piece of communication you receive from your registrar and your web host. keep a copy in a folder in your email program; make a folder on your desktop that says âsaved domain itemsâ and print out a copy of the email(s) and put there somewhere safe where you, and anyone else authorized by you, can access them if you need to.
+i donât have the custom account number to login
+again, if you had saved the email communications from your registrar - you would have this information handy. usually, you can go to the registrars website, click the login link and you will usually find a link to help you recover account number and password information - - - provided that the email address you used to register the domain is still active (see #4)
+i dontâ have the password for my domain account
+same as above - - consult the email that was sent to you by the registrar at the time of jasmin live registration. if you dont have it - use the tools the registrar provides on their website to retrieve that information
+the email i used to register my domain no longer exists - so i canât reset the password in order to login
+for this, you have no one to blame but yourselfâ¦.you need to keep that contact information up to date - - it is vital! quite a few times, iâve had clients who have had their domain names expire on them because the registrar was sending out renewal notices to a dead email account. usually, as it happens, the clients come back to me very upset and wanting to know what i can do for them. usually, nothing. once a domain expires and is sold to someone else - it is very hard to get that domain back. this is why your contact email address needs to be current.
+also - choose a contact email that has nothing to do with your domain. for example - if your domain name is: mydomain.com.. then do not use an email address like: user@mydomain.com. why? if something happens to your domain.. or if your hosting service happens to have email server problems at the time the registrar is attempting to send email.. you wontâ receive it. itâs best to use an email address that is not related to your domain name (like gmail, for instance) so that you receive the emails no matter what might be going on with your domain at the time.
+someone (a developer, a designer, a host) registered the domain for me and itâs not under my own name, and now i canât get in touch with them in order to renew/edit/update it
+again, i do understand that registering a domain can be a confusing process for some. however, do not, under any circumstances allow someone else to have control over your domain name. this is your website and your identity on the web. if that certain person were to step off a curb and get hit by a bus in the morning - you are outta luck, chuck! the only person that should have access to your domain registration account is you. the only contact information listed within your domain registration account should be yours. if not, then you will be wholly dependant on that other person to acess this vital record for you. thatâs like handing over the title to your car to your next door neighbor and asking them to keep it safe for you. what if your neighbor moves and leaves no forwarding address??? itâs too risky to leave in the hands of a third party.
+what can i do???
+go to your registrar right now â login and make sure all of your contact information is up to date. you can thank me later.
+if you donât have access to the email address you used to register your domain with - - get on the phone with your registrar and find out the steps you need to take to re-gain control. this usually involves faxing the registrar company some identifying information like a copy of your drivers license or passport. do it now, after reading this post, before you forget and you get stuck when you really have to have that acess
+all domain registration services offer you the ability to set your domains to âautorenewâ - - if you are comfortable with this option, your domain registrar will automatically renew your domain once it is due to expire. please beware: if you choose this option you need to make sure the credit card you use on this account is current and not expired.. otherwise the auto-renewal will not work
+if a third party currently has control over your doamin - contact them immediately and take the necessary steps to regain control over your own domain. if you find the process confusingâ¦ then invest the time it takes to learn. google is a great resource - - google a few keywords to start learning about how domain registrations are done.
+in the end - if something goes awry with your domain registration, 95% of the time you have no one to blame but yourself. i know this because i have been in the shoes of someone who has lost a long-held domain name through my own actions that, only in retrospect, did i realize the steps that i, personally, could have taken to prevent in the first place.
+do yourself a favor and check those domain registration items today. take the 10-20 minutes it will take to update your information in your account. take whatever time in necessary to take to gain full control and access to your domain registration account today before you put me in the position of âi told ya soâ sometime in the future.
+losing a domain name that youâve worked very hard on, one that potentially brands your business and one that garners good traffic is a painful process, causing you to start from scratch and rebuild.
+isnât it a much better idea to take a few minutes today to prevent that? instead of the months it will take in the future to rebuild all that you have achieved so far?
+yea, i thought so too :)
+
+
+
+back and buried
+just a quick note to say iâm finally back from my trip to nyc and florida - - and am literally buried over my head in e-mails. i know exactly how the rest of my day will be spentâ¦ responding to and returning emails that have come in over the last several days. my internet connection was sketchy, at best, as i travelled.
+the future of web design conference was pretty much a bust. i thought it would be a bit more âmeatierâ than it turned out to be. maybe iâll write more about why later, when i have more time, in the meantime - beckley echos my thoughts on the matter. i left, dissapointed.
+after my week in ny - chris and i spent a short two days with friends in florida. we spent most of the time on a boat and went deep-sea fishing. between the 6 of us, we reeled in about 225lbs of fish - mostly grouper and red snapper. chris caught the biggest catch of the day with a 30-inch black grouper. it was relaxing fun.
+the crossroad
+what if nothing exists and we're all in somebody's dream? or what's worse, what if only that fat guy in the third row exists? woody allen
+i 3 the people i work with and how i hired some great talent in 48 hours through social networking
+i wrote this on february 8th, 2008 at: 1:54 am and its been viewed 727 times
+how many people truly mean it when they say they love their jasminelive job? as a former employee, i can say i certainly know the feeling of waking up every morning and heading off to a job that i just did not like, but had to go to. i had many years of that and it really is very satisfying, now, to wake up in the morning to a job that i really enjoy.
+the past couple of months have been just a tad bit hairy. business has picked up at an unimaginable rate - which is good, donât get me wrongâ¦but it brought me to a cross roads again. a cross roads that i come to a couple of times per year - and iâm getting much better at dealing with.
+the crossroad is this: grow with the flow.. or scale back.
+every single time, iâve decided to grow, and i havenât regretted it once. iâve learned quite a few lessons along the way and made my share of mistakes, as well - but still cannot say that iâve regretted my decision, ever.
+i need to take a moment and give a shout out to some of the phenomenal people that work with me. things have been so crazy busy in recent months, i feel like i have not taken the time i should have to really let these folks know how very much i appreciate what they do:
+lindsey hardegree - lindsey is a long-time client turned e.webscapes employee. i hired lindsey on last year as a virtual assistant, after years of being hired by her to design her blog sites. this virtual assistant thing was a totally new concept to me - - but i knew i needed help if i was going to maintain my business, and my sanity! having never worked with an assistant before, virtual or otherwise, i really didnât have much of an idea of how that position would be structured. however, with the vast growth in business, it became apparent to me that i just could not do everything myself and really needed to let go of some of the reigns of control and hire on someone that i could truly trust to manage some of the more administrative duties surrounding my business. enter: lindsey. not only is this girl a bundle of energy and southern sweetness - she is organized to boot! she has defined that role in many ways and just stepped in and made it hers. she has become my right arm (and probably my right foot) - - recently, she had to take a full week off due to personal issues.. and during that week, i had to step into her role and let me just say â i realized in that week how very much i appreciate her presence on our team more than ever! ever want to show your boss exactly how much they need you? take a week off and check their fingernails to see if theyâve bitten them all off! lindsey is lucky this is a virtual position - - lord knows how much i would abuse her excellent services if this position was in an actual brick and mortar office building! sheâs worth it, though - i value her input as well as her role at e.webscapes
+becca wei - many of you already know becca through her fantastic free wordpress themes seen all over the web, including in the themes selection of wordpress.com. becca has been working with me at e.webscapes since 2005. she is a phenomenal designer - very skilled and talented in the area of color, design, css and all things design related. i am continually learning and inspired by beccaâs work! becca lives in hong kong and that makes the virtual work relationship somewhat of a challenge - over the years, weâve worked through the time zones and international calling rates and have developed a working relationship, and friendship, that i treasure.
+leanne wildermuth - leanneâs been working with me at e.webscapes since 2005 and has become indispensable, to me. her determination is impressive. when i first met leanne, she didnât really know much about design or css or how to work with some of the popular content management systems out there. as a matter of fact, i first met leanne because she hired me to design her site for her. so intrigued was she by the process of design - - and being an artist by nature herself - - she set out to learn how to do itâ¦and she did! in 2004 she began telling me âone day, youâll hire me as a designer at e.webscapes.â and i would tell her to keep working at itâ¦ and she put nose to the grindstone and she impressed my socks off with the way she picked it all up so quickly and iâve enjoyed watching her growth and skills grow over the years. she is now a designer to be reckoned with, no doubt and iâm very happy to have her as part of the team!
+joni ang - joni has been working with me at e.webscapes since 2006. she hails from the philippines and is, quite possibly, the sweetest person i know! joni is another one whose determination to improve her skill set never ceases to amaze me! when she first answered one of my job postings for a designer, she had some wordpress experience - but not a whole lot. she was very determined to show me her skills, however, and created a design to submit to me as an example of what she can do. i was immediately impressed with her attitude, her resolve and confidence that i hired her on.. with the promise to help coach her along in areas she was to sure of. as it turns out, i didnât need to do a whole lot of coaching. joni immediately picked up on the task at hand and has been creating some amazing stuff for e.webscapes - - with each new design project she completes, iâm impressed and inspired! joni also has the most positive and sunny disposition - - sheâs a joy to have around the âvirtual officeâ
+dino latoga- when dino first joined e.webscapes, he didnât want to put his picture up on our designer profiles page because he felt a little weird about being the only guy among a group of girls (girls have cooooties, donât ya know??). in very short order, though - dino proved himself to be just as good as any of the girls out there and iâm planning in sneaking his picture in there just as soon as iâm done writing this! (haha). dino has a quiet way about him, iâve foundâ¦ he takes on new assignments like a pro and then quietly goes about his way of creating dynamic products for our clients with an innate sense of service that creates happy and satisfied clients every single time! always very pleasant and polite - he is incredible to work with. his ability to handle projects from start to finish independently is a huge plus and heâs just so darned nice!
+what i can say about the group, as a whole, is that i trust each and every single one of them - beyond a shadow of a doubt. they are also some of the most friendly and supportive people i have come across - and iâm afraid i donât say that often enough because weâre all so wrapped up and busy with the work weâre doingâ¦ itâs easy to forget to stop and just say âhey, i really appreciate youâ â¦ so, today - iâm stopping to say it. i appreciate the hell outta you guys!
+it hasnât always been so easy, though. hiring on new help has taken me down a road of new and different experiences. iâve learned some hard lessons in trust along the way. iâve had designers who just didnât work out, for various reasons - and iâve had some.. not so nice designers, whose only motivation, it seemed, was to take advantage and try to get a lot for doing a little bit of nothing. iâve been betrayed in the past and it is something that makes you stop and think every single time you consider bringing on new people into the inner circle.
+however, i made a decision a long time ago - actually, i think it was one of my new yearâs resolutions, to realize that i canât let old baggage affect the way i accept new people into my life. just because youâve been burned once or twice - - if you allow that to stifle the opportunity to build new relationships.. then youâre likely to be rather lonely. i try and use that in my personal, as well as my business life.
+to that end, iâm very very happy and excited to say that in the next few days, i will be announcing the arrival of definitely one - and quite possibly two, members of the e.webscapes team as we continue to grow at a rapid rate! itâs never easy to make the decision to grow and bring on new team membersâ¦ because every single new team member affects the dynamics already set within the organization. but i have found, more often than not - the new additions bring with them opportunities to learn, grow and succeed - -and overall, itâs a very positive thing! the pros definitely outweigh the cons, no doubt about it!
+as with every other time of growth for e.webscapes - iâm doing it during a time where business is crazy busy and iâm usually in the middle of balancing 3 million things all at once. i need to learn to foresee these things coming, and do the hiring before it gets to a point where itâs almost unmanageable, right? i need a psychicâ¦ anyone got a good one to recommend?? ha!
+i also have to mention a few things that really helped me recruit for this position - and you may be surprised at the result. the two things that gave my job posting the most exposure, and as a result, the most response were two social network sites out there - - in order of success:
+twitter
+linkedin
+iâve received approximately 85 applications for the job posting i placed - all within 24 hours of placing it. imagine my surprise?? i wasnât expecting that kind of response - wow!
+how did it happen?
+well - - hereâs the process:
+i posted the job ad at linkedin
+this did two things:
+notified my linkedin connections that i needed help finding a new associate
+listed the job posting in a high profile spot on linkedins job board (because i paid for it)
+then i returned to my blog and did a small post about the job posting over in my âon the sideâ announcement area
+i use twitter tools, which automatically twitters any new posts i made on my blog to twitter â so the job posting info was immediately broadcast to my twitter followers
+within, literally - 5 minutes, i had 10 replies to the job postingâ¦ just from twitter alone
+almost all of my linkedin connections emailed me with introductions and referrals to people they knew who would fit the bill
+my assistant, linsdey saw the twitter post and took it upon herself to make a post on the freelance switch job boards
+by morning, i had about 50 responsesâ¦ by noon , i had a full 85 and they are still coming in. one designer that iâm 99% sure is going to join our team was one of the contacts made via twitter. as for the other - - i have not made that decision yet, but will probably be one of the ones made through the freelance switch job board.
+it took me quite some time to respond to each and every applicant - - which is something i feel is very important whenever you place a help wanted ad for any industry. iâm still working on getting through them all (so if any of you are reading this and havenât heard from me yet, as of this evening iâve gotten through about 85% of them and will get the rest done in the morning) - and some of the talent out there is just phenomenal and inspiring!
+if you havenât thought of using social networking tools that are out there, like linkedin, twitter, facebook, etc, - consider giving it a try - the networking benefits are truly amazing!
+in the beginning, when i began to use twitter, my husband laughed and called it a âhuge glorified chat room that doubled as a total time vacuumâ - - and in some cases, he is right. however, i cannot discount some of the great connections and networking that iâve benefited fromâ¦ which truly helps this âworking at homeâ vacuum i live in so much easier. these are truly virtual office tools that should be used by any home-officer.
+ok - itâs 2am now.. i think iâll sign off. iâm hoping, with the addition of two new associates at e.webscapes - i can start doing things like sleeping â¦. that would be so nice. i really do like sleep and miss it very much!
+
+
+
+
+
+
+last ones
+
+wordpress girl
+wordpress for dummies
+in stock
+sxsw - see you there?
+globally recognized avatars
+
+
+
+
+
+ 
+
+
+
+campfreddy.net - all rights reserved.
+
+
+

@@ -1,0 +1,730 @@
+
+
+
+
+  
+
+
+
+
+codesmith tools
+
+
+
+
+
+
+
+
+
+
+skip to navigation
+skip to content
+skip to sidebar
+
+
+
+
+
+
+codesmith tools
+
+
+
+login
+(0)
+
+
+
+
+
+
+home
+
+products
+
+exceptionless
+generator
+frameworks
+online store
+
+
+
+company
+
+about us
+news
+contact us
+our customers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+try generator for free
+watch overview video
+purchase generator today
+
+codesmith generator
+your code. your way. faster.
+codesmith generator is a software development tool to help you get your job done faster. technically speaking it is a template driven source code generator that automates the creation of common application source code for any language.
+
+
+overview
+download
+pricing
+upgrade
+features
+templates
+support
+
+
+
+
+	what is codesmith generator?
+
+	codesmith generator is a software development tool to help you get your job done faster. technically speaking it is a template driven source code generator that automates the creation of common application source code for any language (c#, java, vb, php, asp.net, sql, etc.). codesmith generator includes many useful templates as well as entire sets of templates for generating proven architectures. you can easily modify any templates or write your own to generate your code exactly the way you want it.
+
+	codesmith generator's syntax is almost identical to asp.net. so if you are familiar with asp.net then you should be able to quickly learn the template syntax. you can use the c# or vb.net languages in your templates and your templates can output any ascii-based (text based) language.
+
+	what can codesmith generator do for you?
+
+	codesmith generator can help you produce higher-quality, more consistent code in less time and enables software developers to efficiently:
+
+
+		reduce repetitive coding.
+
+		generate your code in less time with fewer bugs.
+
+		produce consistent code that adheres to your standards.
+
+		create your own custom templates for any language.
+
+
+	 
+
+
+
+	awards
+
+          
+additional awards
+
+what our customers say...
+
+
+"codesmith is the .net codegen tool that i wish i'd invented."
+
+                            ~ chris sells
+                            genx creator
+
+
+
+"thanks to codesmith, i remain a god in the eyes of my peers."
+
+                            ~ tim peterson
+                            ftd
+
+
+
+"unbelievable!  codesmith coupled with the .nettiers templates has made my job a breeze!"
+
+                            ~ tim
+                            jellyweb
+
+
+
+"codesmith revolutionized the way we code!"
+
+                            ~ ryan emerle
+                            interactive design solutions, inc.
+
+
+
+"codesmith is a dream!while true   messagebox.show("thanks for codesmith!")end while"
+
+                            ~ lotfali khoshnafs
+                            vte
+                        
+
+
+
+
+
+
+
+download
+to download codesmith generator, please visit the downloads page.
+
+    when downloading for the first time you will be asked to register for a trial of generator.
+    if you are already registered, you may login to skip this step and go straight to the download!
+
+current version
+
+                version: 8.5.0
+release notes
+
+
+
+
+
+	generator licenses
+
+	a generator license includes batch code generation, template caching, visual studio integration, activesnippets, the ability to use the generator api in custom internal applications, and merging support. from small to large complex code generation scenarios generator is the perfect tool.
+
+generator, $299
+
+	for use by a single developer.
+
+server, $499
+
+	use the api, msbuild tasks, or console client on a server or build machine. does not include a gui client.
+
+	sdk products
+
+	the sdk edition enables distribution of custom applications that use the generator api (including schemaexplorer). these applications can make use of the full power of the generator engine in a programmatic fashion. you will be able to distribute the generator assemblies with your application and include a runtime sdk license either in your application folder or shared license folder.
+
+sdk license, $1,499
+
+	a sdk license allows access to the generator engine for an internal application.
+
+commercial sdk license, $2,999
+
+	the commercial sdk license allows access to the generator engine to be used in an approved commercial application royalty free.
+
+	the full codesmith sdk license agreement can be viewed here. instructions on integrating the sdk can be viewed here.
+
+	please contact sales for sdk restrictions and pricing.
+
+	enterprise products
+
+	enterprise licensing for codesmith generator is available for large companies who want to give all of the developers access to the generator.
+
+site license, $2,999
+
+	the site license provides you with a license for 25 developers for use at a single location of your enterprise.
+
+enterprise license, $4,999
+
+	the enterprise license provides you with unlimited licenses for use at any location within your enterprise.
+
+	for a complete feature chart that describes the differences between professional and standard, please view our features section.
+
+
+
+	online store
+
+	you can purchase codesmith generator from our online store via credit card or purchase order.
+
+visit the online store
+
+	volume discounts
+
+	when placing an order for 3 or more licenses of codesmith professional or codesmith standard, you automatically qualify for the following discount rates. your discount will automatically appear on your codesmith tools store quote / purchase price:
+
+15% discount for 3 or more licenses
+20% discount for 5 or more licenses
+30% discount for 10 or more licenses
+
+	specials
+
+	please follow us on facebook or twitter where we announce our special offers.
+
+
+
+
+
+	upgrade pricing
+
+	codesmith generator customers who have premier support are eligible for a free upgrade to the latest version. for customers without premier support, the upgrade fees are as follows:
+
+
+		generator 6.5 to generator 8.5, $149
+
+		professional 3.x or 4.x or 5.x or 6.0 legacy to generator 8.5, $209
+
+		standard 5.x to generator 8.0, $249
+
+		standard 3.x or 4.x legacy to generator 8.x, $259
+
+
+	why upgrade?
+
+	major versions of codesmith generator always include bug fixes, performance enhancements, and new features. keeping your copy of the generator updated always ensures you will be getting the fastest, most reliable, and feature complete experience that we have to offer. using the latest version also enables our support team to assist you with any problems that you may experience more quickly.
+
+	also, some of the official generator frameworks require the latest version of the generator. this means that keeping up to date with the generator allows you to stay up to date with your templates, and provides you with access to their fixes and enhancements as well.
+
+
+	upgrade today!
+
+	don't wait to get access to the latest bug fixes, performance enhancements, and new features!
+
+visit the upgrade page
+
+
+
+
+
+	feature comparison
+
+	this table shows the features included in the different versions of codesmith generator. please use this as a guide to determine which version is most suitable for your needs.
+
+
+
+
+				feature
+
+				generator
+
+				generator sdk
+
+				generator server
+
+
+
+				simple template syntax the template syntax is almost identical to asp.net. so if you are familiar with asp.net then you should be able to quickly learn the template syntax.
+
+
+
+
+
+
+
+
+
+				execute custom templates create your own templates and execute them.
+
+
+
+
+
+
+
+
+
+				auto sql script execution templates that generate sql scripts can be auto-executed after generation allowing for easy deployment of generated sql code.
+
+
+
+
+
+
+
+
+
+				extensible metadata generate from any data source.
+
+
+
+
+
+
+
+
+
+				schemaexplorer schema discovery api an api that makes it very easy to work with database objects.
+
+
+
+
+
+
+
+
+
+				rich xml support the xmlproperty directive allows you to easily use xml to drive your templates. if an xsd schema is provided, a strongly typed xml object model will automatically be generated and makes working with xml simple. if an xsd schema is not provided generator will allow you to work directly with an xmldocument instance instead. combined with the intellisense capabilities, this feature makes working with complex xml a breeze.
+
+
+
+
+
+
+
+
+
+				sub template support save time by putting common code in a sub template.
+
+
+
+
+
+
+
+
+
+				useful sample templates sample templates that show you how easy it is to create your custom templates.
+
+
+
+				 
+
+				 
+
+
+
+				console client the console client allows you to easily automate your code generation process and can execute templates one at a time or in batches.
+
+
+
+				 
+
+
+
+
+
+				template explorer client explorer client allows for quick generation of a template.
+
+
+
+				 
+
+				 
+
+
+
+				template editor a visual studio integrated editor that allows you to quickly create or edit a template. it features intellisense and many other features.
+
+
+
+				 
+
+				 
+
+
+
+				template intellisense generator template editor includes statement completion for your custom templates.
+
+
+
+				 
+
+				 
+
+
+
+				generator map support reduces the amount of plumbing code in their templates and increase the readability and re usability at the same time. maps provide a named dictionary like semantic to template development.
+
+
+
+
+
+
+
+
+
+				visual studio integration generator integration for template execution within visual studio is a first class concept with support for codesmith project integration, generate onbuild features, ms-build integration, and drag and drop templates onto the code surface.
+
+
+
+				 
+
+				 
+
+
+
+				generator api direct access to the api for generating outside of codesmith's various integration points.
+
+
+
+
+
+
+
+
+
+				template caching caches the compiled templates which cuts down on the time it takes to generate.
+
+
+
+
+
+
+
+
+
+				template debugging generator makes it easy to debug your templates by providing the template developer with the line number in the template where the problem occurred.
+
+
+
+
+
+
+
+
+
+				merge capabilities the merging capabilities in generator allow you to merge generated and hand written code within a single file
+
+
+
+
+
+
+
+
+
+				generator project support whether you are working with visual studio, msbuild, windows explorer, a command line / batch file, or generator itself, generator projects makes automating your code generation process easy and consistent.
+
+
+
+
+
+
+
+
+
+				msbuild support generate your templates during your build process.
+
+
+
+				 
+
+
+
+
+
+				activesnippet support imagine visual studio 2013 snippets, but with the full power of generator available to execute any logic or access any complex metadata (including database schema and xml data) to control the output of your snippets.
+
+
+
+				 
+
+				 
+
+
+
+generator
+
+$299
+
+$1,499
+
+$499.00
+
+
+
+
+	 
+
+
+	visual studio integration
+
+	the tight integration with visual studio allows you to fully manage template execution right from visual studio! this means you can maintain a high code generation presence right within visual studio and not have to switch applications to run code generation.
+
+
+
+	codesmith generator integrates with visual studio
+
+watch visual studio integration video
+
+	xml property
+
+	the xmlproperty directive gives you a strongly-typed object model and statement completion for metadata stored in xml files. generator allows you to store metadata in external xml files. to incorporate xml metadata into your templates, you use an xmlproperty directive. watch as we show some cool ways to get the most out of xml properties.
+
+xml properties video
+
+	merge strategies
+
+	generate your code while preserving custom code. generator supports both preserve and merge functionality on any text based output using regions.
+
+merge strategies video
+
+
+
+
+
+	generator templates
+
+	codesmith generator ships with a complete template set that helps you get up and running in no time flat. these template sets include activesnippet templates, database templates, example templates, framework templates and various other templates. why waste time with repetitive tasks? use activesnippets and focus on other parts of your application.
+
+	activesnippet templates
+
+activesnippet's allow you to quickly reduce the amount of time it takes to get your job done. any template can be used as an activesnippet. codesmith generator ships with active snippets that will speed up the process of creating custom events and exceptions. also you can quickly generate an enumeration or properties from database meta data.
+
+	learn more by watching the activesnippet overview video.
+
+	database templates
+
+	whether you are looking for an easier ways to create a business object, document your database, script your table data, execute or create stored procedures, generator is here to save you time and headaches.
+
+	the business object template is a template that is a great template to use if your looking to quickly create an entity for your project. many developers also use this template as a base template when they need to create a new poco (plain old clr object), data transfer object or domain class template.
+
+	the script table data and extended properties template allows you to generate a sql script that can be used to migrate your data between database servers or import existing data into newly created databases.
+
+	the dbdocumenter template will create a nicely formatted html document of your entire database.
+
+	the stored procedure template will create (insert, update, delete, select) stored procedures based on a database table. everything is configurable to fit your unique requirements.
+
+	the command wrapper template will create a wrapper around any sql stored procedure or sql function. an easy to use api allows you to execute a stored procedure or function by calling execute() which will return get back a strongly typed object or result. when used in conjunction with the stored procedure templates, you can quickly get data from your database.
+
+	example templates
+
+	we provide a set of example templates that demonstrate how to use various generator features in your own custom template.
+
+	the asp.net folder contains a template that will show you how to use master templates that will generate an asp.net default.aspx page. (watch the master templates video)
+
+	the basic samples folder contains templates that display the use of master templates, partial templates and linq to objects in your templates.
+
+	the maps folder is a great example on how and when to use codesmith generator maps.
+
+	the merge folder contains templates that will show you how to use preserve region and insert region merge strategies across different file types and languages. (watch the merge strategies video)
+
+	the photo gallery folder contains templates combine using a master templates and code behind to create a generic photo gallery from a directory of image files.
+
+	the xml folder contains templates that show you how to generate from an xml data source using the xmlproperty. (watch the xmlproperty video)
+
+	other templates
+
+	the other templates folder contains various templates that ease the use working with ajax, custom collections (arraylist, hashtable, queues, sortedlist and more) and wix (windows installer xml toolset).
+
+
+	framework templates
+
+
+
+	plinqo is an enhanced alternative for the most popular object relational mapping frameworks. it is a set of codesmith templates designed to simplify the creation and maintenance of data models, as well as provide you with an easy to use data access layer that adhears to best practices.
+
+learn more
+
+
+
+	the csla templates are a set of templates built around rockford lhotka's csla framework. featuring the most complete set of templates on the market!
+
+learn more
+
+
+
+	the .nettiers architecture is built upon the microsoft enterprise library application blocks.
+
+learn more
+
+
+
+	our nhibernate templates will get any new or existing nhibernate project running in minutes.
+
+learn more
+
+
+
+	the kinetic framework is an extensible business and data layer framework targeting the microsoft technologies.
+
+learn more
+
+
+
+
+
+premier support
+
+	premier support is our support service agreement and can be purchased for $99/user/year for generator.
+
+	premier support entitles you to the following:
+
+
+		free product enhancement updates.
+
+		guaranteed free upgrade to the next version of codesmith generator.
+
+		ability to renew the support subscription.
+
+		access to bug fixes and nightly builds without waiting for official releases
+
+		access to technical support help from the codesmith support staff with a guaranteed response time of 48hrs*.
+
+
+	each purchase of a generator license comes with 30 days of premier support and can be upgraded to a year. if you renew you premier support within that 30 days there are no catch-up costs!
+
+	users without premier support will be charged a $75 support fee per incident.
+
+	you can contact support using the contact us page. any support emails that we receive from users who have purchased premier support will be automatically redirected to the premier support queue.
+
+*technical support for the open source .nettiers templates is provided by the .nettiers team on the .nettiers github page.
+
+	support renewal
+
+	if you have already purchased codesmith generator you can add or renew premier support for your codesmith generator license. if you would like to add or renew support for your license, please use this form.
+
+
+renew today!
+be sure you get placed in our priority support queue, and get free upgrades between major versions.
+visit the support renewal page
+
+	contact us
+
+	email: support@codesmithtools.com
+
+	for additional options, please visit the contact us page.
+online help
+
+                codesmith generator offers online help documentation. this documentation includes a generator user's guide, as well as coverage of the generator api documentation.
+
+codesmith generator documentation
+
+codesmith generator api
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+products
+news
+
+
+company
+privacy
+contact us
+
+
+
+connect with us:
+
+
+
+
+copyright © 2025 codesmith tools, llc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

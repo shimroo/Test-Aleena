@@ -1,0 +1,513 @@
+
+
+
+
+
+
+
+portal home - || phoenix hosting & voip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ remember me • forgot password?
+
+
+
+
+
+
+ view cart (0)
+
+
+
+
+
+
+
+ph: 602-553-8966
+m-f 9:00 am to 5:00 pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+voip services
+web hosting
+
+shared hosting
+
+
+personal
+perfect for a blog or hobby website. &rqaomore
+
+
+shared hosting is the most cost-effective hosting. your site shares server space and resources with many others, allowing your hosting company to have one machine that delivers hundreds of websites simultaneously.
+
+
+reseller hosting
+
+
+reseller hosting
+colocation
+vps
+domain registrations
+
+
+
+
+p: 
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+                        home
+                                
+
+
+
+                        services
+                          
+
+
+
+                                                browse all
+                                            
+
+
+
+                                                -----
+                                            
+
+
+
+                                                web hosting
+                                            
+
+
+
+                                                register a new domain
+                                            
+
+
+
+                                                transfer domains to us
+                                            
+
+
+
+
+
+                        announcements
+                                
+
+
+
+                        knowledgebase
+                                
+
+
+
+                        network status
+                                
+
+
+
+                        affiliates
+                                
+
+
+
+                        contact us
+                                
+
+
+
+
+
+                        account
+                          
+
+
+
+                                                webmail
+                                            
+
+
+
+                                                login
+                                            
+
+
+
+                                                -----
+                                            
+
+
+
+                                                forgot password?
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yet to come this year
+we are planning a complete redesign of our website, uprades to our hosting servers and, hopefully, some new additions to our staff. our voip phone business continues to expand - we currently support almost 50 businesses and 300 users. thank you for being a phoenix hosting & voip loyal customer.
+
+
+
+ 
+
+
+
+                        how can we help today?
+                    
+
+
+
+
+
+
+
+                                        buy a domain »
+
+
+
+
+
+
+
+                                    order hosting »
+
+
+
+
+
+
+
+                                    make payment »
+
+
+
+
+
+
+
+                                    get support »
+
+
+
+
+
+
+
+
+
+
+we are experiencing network issues. please see our facebook page for details
+introducing voip!
+
+our voip network offers superior voice quality and unparalleled service uptime. lose the telco closet and the high cost of traditional phone systems. you also get:
+
+unlimited minutes
+web and video conferencing
+voice & data
+smart phone app
+complete messaging control
+get details here
+ 
+
+colocation
+
+we have colocation space available from a single 1u to a full rack. or more than one. whether you need server space for your online application or simply for offsite backup we have both the space and the bandwidth to meet all your requirements in the phoenix area. 
+  
+
+1u - (starting at) $49.99/mo
+1/4 rack (10u) - $400/mo
+half rack + - call for price
+more info... »"
+
+ 
+
+virtual private servers
+
+get the benefits of owning your own server without the ownership portion of the headaches.  you get ssh access (root login), all the hardware resources you need, and the ability to upgrade easily at any time as your business grows.
+  
+
+bare bones (2 procs, 4gb ram, 350gb sas drive) - $24.99/mo.
+hosting starter (licensed cpanel, 2 procs, 4gb ram, 500gb sas) - $59.99/mo
+
+more options... »
+
+ 
+
+web hosting
+
+looking for hosting? our hosting servers run on linux using cpanel as the customer control panel interface to your website(s). what does that mean for you? reliability. stability. ease of access. all the tools you need to manage your website. 
+  
+
+the hostling - $4.99/mo
+the firebird - $8.49/mo
+the thunderbird - $14.99/mothe phoenix - $24.99/mo
+compare plans
+ 
+
+hosting addons
+
+preconfigured hosting packages work well for a small site, or a new business. but forcing you to pick an entirely new plan because you've outgrown a particuler setting is like punishing you for being successful. be it more space, more email addresses, or more security we've got you covered.
+  
+
+ssl certificate - $3.85/mo
+dedicated ipv4 - $2.00/mo
++10 email addresses - $14.99/mo
+see all addon options
+
+ 
+
+affiliate program
+
+earn extra income reselling phoenix hosting products and services. join our affiliate program and get paid for referring new clients to us. hosting plans, domain registrations, vps and colocation services are all eligible for resale by our affiliates.
+  
+
+domain names - 
+web hosting - 
+security - 
+all the details... »
+
+
+
+
+
+
+
+
+
+
+
+the domain name i'm looking for is...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please enter the characters you see in the image below into the text box provided. this is required to prevent automated submissions.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+.com$12.45
+.net$15.62
+.rocks$16.52
+.org$13.45
+.info$16.00
+.tv$48.13
+
+
+
+
+
+
+
+
+
+news & updates
+
+
+
+                        jul 9th
+                    
+texas outage causing wide-spread internet issues
+
+
+
+                                                    a major texas internet provider is down at the moment. this is causing a cascade effect on other carriers services.
+
+update: 7/9/24 @1:30pm mst
+it looks like things are coming back up and functioning as they are expected to do. there may be some temporary residual effects but we expect these to clear up on their own. my thanks to the crews at ...
+                            read more »
+
+
+
+
+
+
+                        jan 25th
+                    
+fastq mail, latest
+
+
+
+to get an idea of where we are at with the email reset, we have more information here:
+update: 7/25/22 - 6:30pm
+amanda and barry will be back on the phones tomorrow (wednesday) for most of the day and michael will be handling the remote sessions again.
+
+
+
+phoenix hosting on twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us
+
+our story
+contact us
+affiliate program
+techtalk blog
+ 
+
+legal
+
+terms of service
+domain agreements
+
+
+
+services
+
+voip
+colocation
+vps
+web hosting
+hosting add-ons
+ 
+
+copyright © 2015 - 2025 phoenix hosting & voip. all rights reserved.
+
+
+
+
+
+
+
+

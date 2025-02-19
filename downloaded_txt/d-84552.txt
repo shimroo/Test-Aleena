@@ -1,0 +1,912 @@
+
+
+
+
+
+
+
+
+
+
+the deaf resource library
+
+
+
+
+  [home page] 
+  [deaf resources] [gps]  [photoethnography] 
+   
+the deaf resource library
+
+
+
+
+
+ 
+
+
+what is the deaf resource library?
+the deaf resource library (http://www.deaflibrary.org)
+is a virtual library -- an online collection of reference material
+and links intended to educate and inform people about deaf cultures in
+japan and the united states; as well as deaf and hard of hearing related
+topics. while i have a bias towards cultural deaf models, i have tried 
+to include more material about hard of hearing issues as well.
+the information is collected here as a service to the deaf, hard of hearing, 
+  and hearing communities. i gladly welcome contributions to this online library 
+  by e-mail (contributions <at> deaflibrary.org). however, i am unfortunately not 
+  able to respond to e-mailed questions about deaf culture or deaf society. i would kindly suggest asking the research 
+  librarian at your local college for assistance. 
+ you'll get an auto-reply back
+when you send me e-mail, you might want to read it here first! 
+another great source of everything to do about deafness can be found at the laurent clerc national deaf education center information on deafness web site. please check it out if you think i'm missing anything.
+please, please notify me (brokenlinks <at> deaflibrary.org) if you notice any 
+  broken, moved, or outdated links. it's only with the help of others that i'm 
+  able to keep track of these many links. please note that if it's not listed 
+  here or if the link is broken, i don't know where it moved to. 
+  please try google 
+  and if you find the link, please e-mail me it to me. please note that i might not be able to update the site or respond to your e-mail immediately, but i'll do my best to remove dead links and add any new information that comes in.
+  
+
+
+
+
+
+
+
+
+
+
+
+ search www  search deaflibrary.org 
+
+
+
+
+who am i?
+the deaf resource library was created in 1995 and is being maintained by myself, karen nakamura. i'm  
+  an associate professor of anthropology and east asian studies at yale university. i've 
+  been studying disability culture, history, and political/social movements in japan 
+  and the united states for the past decade. please visit my 
+  academic home page at yale  for more information about my academic background 
+  and courses that i teach. 
+
+deaf bibliographies
+ these bibliographies were mainly for my own research purposes way, way back in 1995-98. i 
+recoded the general bibliography to include a general reading list. i also strongly
+recommend visiting amazon.com
+and typing in "deaf" as a search topic.
+ i haven't added to these bibliographies in the past several years decade, so they're a bit (quite? severely?) out of date. 
+
+general deaf bibliography (non-japan) 
+ with "top ten best reads" on the deaf community    
+	
+japanese deaf bibliography 
+
+
+deaf community resources
+these are some community resources for deaf, hard-of-hearing, their
+relatives, friends, etc.
+
+
+
+about american sign language (asl) 
+
+
+
+about  japanese sign language (jsl)
+
+
+
+  letters to the editor (me) about the deaf community
+		 includes a series about fire safety and interconnecting ttys and modems
+	
+
+
+ deaf magazines and newsletters from all across the u.s. (includes telephone (tdd) directories as well)
+	
+
+
+  mail order catalogues and companies that cater to deaf/deaf/hoh communities, their family, friends, terps, and so forth
+	
+
+
+about deaf-blind issues and links to deaf-blind resources
+	
+
+
+keeping www pages accessible -- a http programmer's guide
+	
+
+
+deaf related network resources
+quickie index
+
+national/state organizations of the deaf
+deaf culture / cultural deaf www pages
+schools and universities for the deaf (u.s.)
+schools and universities for the deaf (japan)
+schools and universities for the deaf (other)
+organizations of/for the deaf
+deaf/asl clubs
+
+other deaf www resources
+linguistics / sociolinguistics of asl
+deaf kids and their parents
+churches/ministries/synagogues of the deaf, for the deaf
+deaf gays, lesbians, and bisexuals
+interpreting 
+captioning
+americans with disabilities act (ada)
+technological innovations / educational software for the deaf
+news articles re: the deaf community
+resources for the hard of hearing and late deafened
+gopher sites and ftp resources for the deaf 
+deaf mailing lists, newsgroups, and online magazines
+home pages of members of the deaf community
+deaf owned businesses
+
+
+
+national/state organizations of the deaf, for the deaf
+
+
+australia: australian association of the deaf
+
+australia: victorian council of deaf people 
+
+canada: canadian association of the deaf
+	finland: finnish association of the deaf (finnish only)
+	hong kong, china: hong kong association of the deaf
+	iceland :icelandic deaf organization
+jamaica: jamaica association of the deaf 
+japan: japanese federation of the deaf
+korean:  seoul national school for the deaf alumni association
+latvia: latvian association of the deaf
+malaysia: malaysia federation of the deaf
+malaysia: kuala lumpur (malaysia) society of the deaf home page
+malta: malta national association for the young deaf
+netherlands:  dovenschap
+norway: norwegian deaf federation
+singapore: singapore association of the deaf
+spain: federacio de sords de catalunya (fesoca)
+			-- "our federation is at the city of barcelona (spain, europe) and gives different services to deaf
+				people of the spaniard province called catalunya (spain)."
+	spain: arans-bur -- a "parents of 
+			deaf people's organisation" in burgos (spain)  
+	sweden: swedish national association of the deaf
+taiwan: taipei deaf association
+taiwan: the national women's league foundation for the hearing impaired in taiwan (chinese language only)
+	united kingdom: british deaf association
+usa: national association of the deaf (nad) -- the national organization for deaf in the u.s.
+	usa: u.s. deaf skier's association
+usa: deaf and hard of hearing in government (dhhig) -- organization of deaf and hard of
+					hearing employees of the federal government
+	usa:  national asian deaf congress - represents deaf asian-americans
+	usa-hi: hawaii center for the deaf and blind
+usa-il:  west suburban association of the deaf -- deaf organziation in chicago, illinois
+	usa-nc/sc:deafcarolina home page
+usa-ny: ithaca hearing loss resources
+usa-pa: york-h-burg - deafcentral pennsylvania non-profit organization.    
+	usa-ut: utah assocation of the deaf
+usa-wi: wisconsin deaf sports club
+world:  international martial arts federation of the deaf (imafd)
+	world: world recreation association of the deaf (wrad)
+world: http://www.deaflympics.com/ - international committee of sports for the deaf, or the deaf olympics, formerly called  comitã© international des sports des sourds, ciss (the international committee of sports for the deaf).    
+      
+
+
+
+deaf culture / cultural deaf www sites
+
+canada:canadian cultural society of the deaf
+canada: deafconnect -- another deaf directory
+	china/hong kong/taiwan: chinese deaf homepage
+hong kong: hong kong deaf homepage
+israel: omer zak's deaf-l faq -- required reading for the hard-of-deaf among us
+japan:deaf union home page  -- from japan, a new cultural deaf resource
+	japan:tokuda masaaki's japanese sl & deaf resources
+korea:korean deaf www -- in english and korean -- neat!
+	korea:plaza of deaf
+netherlands: dutch homepage for the deaf
+switzerland: pisourd.ch -- " un site destinã© aux sourds, aux parents d'enfants sourds, aux professionnels de la surditã© ainsi qu'ã  toute personne concernã©e ou/et interessã©e par la surditã©"            switzerland: www.mains-dire.org- - les mains pour le dire     
+    uk: deafclub.co.uk - list of uk deaf/bsl related sites
+    usa: deafzone
+usa: deaf professional network - "an independent group which seeks to empower its subscribers to achive their professional and business goals" 
+    usa: national theatre of the deaf
+usa:  deaf joke of the month
+usa:  deafology 101 -- comedy entertainment by "prof. glick" 
+	usa: deafspot.net - the only real deaf web portal
+usa: deafie.com  -  deaf events & classified listings    
+  usa: deafpassions.com - dating advice, social networking, partner finding, etc for deaf    
+  usa: deafwebsites.com - link list    
+  usa: gallypost.com  - forum for gallaudet students    
+  usa: audism.org  - site that explores concept of prejudice based upon hearing status    
+  usa: http://en.wikipedia.org/wiki/deaf  
+  - -  the constantly evolving definition of "deaf" on wikipedia
+  usa-tx: dallas fort worth deaf home page
+usa-wa: deafweb washington -- detailed info regarding government, business,  and services available for the deaf and hard of hearing in washington state   	
+	usa: deaf directory -- where to find your friends
+    usa: chiromeme: illuminating deaf perspectives - news and info affecting the deaf community 
+
+
+
+schools and universities (u.s.)
+
+general: list of schools for the deaf from the national deaf education network and clearinghouse
+	general:  laurent clerc national deaf education center
+al: alabama institute for deaf and blind (talladega, al)
+   	az:  phoenix day school for the deaf -- phoenix
+   	az: arizona state university -- asl courses
+    az: arizona state schools for the deaf and the blind -- student developed site! see also 
+			their related outreach services
+ca:  california state university, northridge -- an extremely deaf-friendly university with a large deaf population
+  	ca:  calif. school for the deaf, riverside
+ca:  orange county department of education regional deaf and hard of hearing program
+  			-- mainstreaming program for deaf/hoh students in deerfield - venado - university area schools
+  	ca:  cal. school for the deaf at fremont -- sign
+ 	ca:   cal. school for the deaf at riverside -- sign
+ 	ca:  cchat center sacramento  -- oral
+ 	ca:  cchat center san diego -- oral
+  	co: magnet school for the deaf (colorado)
+co: colorado school for the deaf and blind
+ct:  american school for the deaf -- the first school for the deaf in the united states (k-12)
+	dc: gallaudet university --  the world's only liberal arts university for the deaf
+	dc: kendall demonstration elementary school
+
+dc: model secondary school for the deaf (a part of gallaudet university)
+	de: delaware school for the deaf and blind
+fl: florida school for the deaf and the blind
+fl: saint petersburg junior college in clearwater
+			-- established in 1966, and one of the first postsecondary institutions serving deaf students
+	fl: clark school for the deaf -- jacksonville, oral
+	fl:  the charter school of tampa bay academy -- riverview
+	ga: atlanta speech school -- oral
+    id: idaho school for the deaf
+il: center on deafness - northbrook     
+    il: illinois school for the deaf
+il: child's voice -- metropolitan chicago, oral
+	il:  saint joseph institute for the deaf  -- branches at st. louis, urbana, overland park
+	in: indiana school for the deaf
+ks: kansas school for the deaf
+la: louisiana school for the deaf
+la: chinchuba institute -- marrero, oral    
+	ma: the learning center for deaf children homepage
+ma: beverly school for the deaf -- see/oral/asl school for the deaf in beverly, ma
+		 
+		-- (unofficial) history of the beverly school for the deaf
+ma: clark school for the deaf -- branches in northhampton and canton ma, oral
+  ma: horace mann school for the deaf -- boston, sign
+  ma: perkins school for the blind -- watertown, deaf-blind
+  md: maryland school for the deaf
+md:  montgomery county public schools
+mi:  michigan school for the deaf -- flint  
+  mn: apollo high school
+mn: metro school for the deaf -- st. paul
+  mn:  minnesota state academy for the deaf  -- faribault
+  mo: central institute for the deaf (a strongly oral school that counts heather whitestone as an alumn)
+  mo: missouri school for the deaf
+mo:  saint joseph institute for the deaf  -- branches at st. louis, urbana, overland park
+  ms:  mississippi school for the deaf -- jackson
+  mt:  montanta school for the deaf  -- great falls
+  nc: north carolina school for the deaf -- morganton
+  nc: central north carolina school for the deaf -- raleigh
+  nj: marie katzenbach school for the deaf
+nj:  lake drive school for deaf and hard of hearing children --  mountain lakes
+  nj:  passaic county technical institute in new jersey:  north jersey's regional center for the deaf & hearing impaired
+
+nm:  new mexico school for the deaf --  santa fe
+  ny: national technical institute for the deaf (ntid) -- part of rochester institute for technology
+  ny: ntid high technology center for electronic publishing and imaging
+  ny: cleary school for the deaf -- nesconset 
+  ny:  lexington school for the deaf -- jackson heights nyc
+  ny:  mill neck manor school for the deaf -- mill neck
+  ny: new york school for the deaf -- white plains
+  ny: rochester school for the deaf -- rochester
+  ny: st. francis de sales - brooklyn
+  ny: st. mary's school for the deaf -- buffalo
+  oh: ohio school for the deaf -- columbus, ohio
+			
+oh:  st. rita school for the deaf in cincinnati, ohio (founded 1915)
+  ok:  oklahoma school for the deaf -- sulphur
+  or: oregon school for the deaf -- salem
+  pa: pennsylvania school for the deaf 
+pa: de paul insitute  -- pittsburgh, oral
+  pa: scranton state school for the deaf -- scranton
+  pa: western pennsylvania school for the deaf   -- pittsburgh
+  ri: rhode island school for the deaf 
+sc: south carolina school for the deaf and blind -- spartanburg
+  sd: south dakota school for the deaf
+tn: tennessee school for the deaf
+tn: west tennessee school for the deaf -- jackson
+  tx: sunshine cottage school for the deaf -- in san antonio
+  tx: jean massieu academy - first charter school for deaf in tx (arlington)
+  tx: texas school for the deaf
+tx:  regional day school for the deaf -- amarillo
+  tx: hearing school of the southwest - dallas 
+  ut: utah schools for the deaf
+va: virginia school for the deaf and the blind
+vt:  austine school for the deaf -- brattleboro
+  wa: washington school for the deaf -- also try this link
+wi: wisconsin school for the deaf   -- delevan  
+
+misc. u.s. education related sites
+
+ international deaf education and advancement fund -- a scholarship fund deaf and hard of
+		hearing students from developing countries who demonstrate financial
+		need, maintain an above-average grade point average, and are committed
+		to returning home to help their deaf communities in educational or
+		social advancement 
+
+	council on the education of the deaf web site  at kent state
+	college and career programs for deaf students (9th edition) -- by gallaudet research institute
+	outreach services -- the educational outreach component of gallaudet's pre-college programs
+
+schools offering graduate deaf education programs
+i am much indebted to monica vance for sending this information -- karen
+
+usa: directory of deaf ed. teacher preparation programs
+higher education programs for personnel preparation in hearing impairments/deafness in the united states
+ listing of graduate schools -- "here you have to search by the topic "special education" and then by the
+desired region of the u.s. you are interested in. i don't recommend this one
+b/c not all the schools list that they offer a deaf ed. program. i only found
+8 in the u.s. on this site and that was way off" -- monica vance
+
+
+
+schools and universities (japan)
+
+chiba: tsukuba technical college for the deaf
+kobe: kobe school for the deaf (with english summary)
+   osaka: osaka city school for the deaf
+tokyo: tsubuku university school for the deaf
+tokyo:  nihon rouwa gakkou -- the oldest private, oral school for the deaf in japan
+  
+
+
+schools and universities (other)
+
+australia: prince edward junior school for the deaf -- victoria, australia
+	canada: newfoundland school for the deaf web page
+india:  mgr school and home for the speech and hearing impaired - chennai (madras), india
+	malaysia: list of malaysian schools for the deaf -- provided by the malaysian federation of the deaf
+    south africa: deaf ed at university of the witwatersrand, johannesburg sa 
+s. korea:  seoul national school for the deaf (alumni association)
+   	singapore: singapore school for the deaf
+u.k.:  yorkshire residential school for the deaf / doncaster college for the deaf
+
+
+scholarships
+
+coda: the millie brother scholarship
+deaf: nad scholaships
+deaf: agbell scholarship
+deaf: gallaudet national essay contest 
+usa-oh: dorothy e. ann fund -- supports deaf activities in the ohio area
+   
+
+these are  the only scholarships that i know of. (please don't e-mail me asking if i know of
+any others because if i knew about them, i'd put them here). if you know of a scholarship that isn't listed,
+please e-mail and let me know. 
+
+
+deaf/asl clubs and asl related
+
+usa-az:  university of arizona's sign language association (sla) only
+		has an e-mail address for now: 
+ rmaliszeu.arizona.edu
+usa-ca:  cal state @ hayward's sada (student advocates for deaf awareness) only
+		has an e-mail address for now: 
+sadacsuhayward.edu
+usa-wa: 
+
+
+      asluw.html
+       
+      -- asl
+						club at university of washington (seattle, wa)
+
+
+
+
+organizations for the deaf
+
+canada: canadian hearing society -- for deaf, deaf, hoh	
+  india:  maharashtra deaf fellowship of india
+uk: deaflingual.com - "communication and translation, deaf awareness training, british sign language tutoring and media services"
+  usa: ascdeaf.com - "alternative solutions center is a deaf-owned and operated psychotherapy and consulting practice staffed by licensed professional therapists."  
+   usa: international hearing dog - " we train dogs to assist people that are deaf and hearing impaired at no cost to them.â  our organization places dogs all over the united states.â  the dogs help assist with alerting a person to sounds in their home and working environment."
+  usa: national center to improve practice (ncip) in special education through technology, media and materials -- "promotes the effective use of technology to enhance education outcomes for students with sensory, cognitive, physical, and social/emotional disabilities
+  usa: institute for disabilities, research, and training (idrt) -- "?innovative research and development for people with special needs"
+  usa: dogs for the deaf -- non-profit organization that professionally trains rescued dogs to assist hard of hearing and deaf individuals
+  usa:  mn chemical dependency program for deaf and hard of hearing individuals -- treats people from all over the u.s., not just minnesotans
+  usa:  center for diseases control and prevention national aids hotline's tty service (click on national aids hotline link to get to the tty service page)
+  usa:  center for the prevention of sexual and domestic violence has released 
+   					broken vows-religious perspectives on domestic violence in open caption format
+  usa: deaf empowerment's mission is to empower deaf and hard of hearing individuals to lead more productive lives through advocacy, education and community involvement
+  usa:alldeaf.com  - forum for the deaf 
+  usa: adara is the american deafness and rehabilitation association. they publish a professional journal called the journal of the american deafness and rehabilitation association or jadara.  
+  usa: http://www.k12academics.com/ushers_syndrome.htm - a website devoted to providing resourceful information for a number of topics in education and disabilities and disorders ... with an information page for usher syndrome including signs & symptoms, history & cause, usher syndrome i, ii & iii, support services, special education schools & books for the genetic impairment.
+  usa-ak: university of arkansas rehabilitation research and training center
+for persons who are deaf or hard of hearing
+usa-az: arizona council for the hearing impaired home
+  usa-ca: los angeles metropolitan committee on deafness
+usa-ca: abilities network -- needs outreach - d/hh website providing local, state, and national resourcesb  
+  usa-ga: gachi - georgia council for the hearing impaired
+usa-fl: national deaf academy -- " a unique residential treatment facility for deaf and hard of hearing children, adolescents and adults"
+  usa-il: illinois service resource center -- " the coordination center for services for children throughout the state of illinois who are deaf or hard of hearing and exhibit behavioral and mental health challenges"        usa-ks: kpahic -- kansas parents association for deaf and hard of hearing children 
+ 	usa-ma: promoting awareness in healthcare, medical & deaf (p.a.h., m.d.)
+    usa-ma: boston center for independent living, has just been awarded a contract that allows us to offer free specialized telecommunications equipment to all eligible applicants in massachusetts.     
+    usa-mi: michigan association for deaf, hearing and speech services
+usa-mn: department of human services / deaf and hard of hearing services
+usa-nd: north dakota cpd realtime online captioning
+usa-ny: the new york city access resource guide for the deaf, deaf-blind and hard of hearing "provides a comprehensive listing of resources throughout the five boroughs available for deaf, deaf-blind, and hard of hearing people, their families, and service providers." 
+usa-ny: promoting awareness in healthcare, medical & deaf (p.a.h., m.d.; university of rochester chapter)
+    usa-ny: western new york deaf adult services
+usa-tx: deaf action center
+usa-va: northern virginia resource center for deaf and hard of hearing persons -- provides information & referral, education, advocacy and training for deaf and hoh folks in  northern va
+	usa-va: veditz chapter of american sign language teachers association (vaslta) --  northern virginia
+usa-wa: hearing, speech & deafness center
+usa-wy: cathedral home for children in laramie runs a residential treatment program for troubled deaf and hard-of-hearing children
+
+
+
+other world wide web resources
+
+disabled people's international
+canada: the signer's network --
+   			"news, info & support for canadians who use american sign language"
+	japan: handicap information resources in japan
+japan: access resource group in japan -- not much deaf/deaf resources, mostly other physical handicaps
+singapore: singapore's project hiit (internet for the hearing impaired) www site
+	usa: gallaudet research institute
+usa: gallaudet's center for assessment and demographic studies
+usa:  gallaudet's technology access program
+usa: national institute on deafness and other communication disorders (nidcd) hereditary hearing impairment resource registry
+usa: mrdeaf-l network for mentally retarded and deaf people    
+   	usa: evan kemp associates'  disabilities  resource page
+usa: dr. dave's deaf links
+usa:  about.com: deafness/hard of hearing -- by jamie berke
+	usa: the rockefeller university study of the genetics of non-syndromic hearing loss -- contains information on the etiology and
+genetics of non-syndromic hearing loss
+
+	usa: real world success --
+		"professional development and success motivation services for the deaf and hard of hearing individuals"
+	
+	usa: handycrap -- "special needs" resource appears to be a tongue-in-cheek
+		listing of disability resource pages
+	usa-co: western disabilities network -- a colorado based disabilities consulting/information service
+usa-fl:  cindy's tampa homepage of asl and deaf culture
+usa-md: wyndholme village -- a deaf and hard of hearing senior community located in
+baltimore maryland
+
+  usa-mi: deaf community's web pageincluding the 
+		deaf michigander
+
+
+
+linguistics / sociolinguistics of sign languages
+please see my own pages on american sign language and
+japanese sign language
+
+sign language assessment web site -- "review on different sign language assessments and provides information on test development and testing"
+   international bibliography of sign languages
+deaf sign language from ethnologue
+  signstream is a database tool for analysis of linguistic data captured on video and a product of the asllrp (above).
+  australia: auswrite -- notation system for auslan
+  france: research on french sign language (lsf) at university lyon ii
+  france: cybersigns project -- online sign language dictionary! -- and a link for frames compatible viewers here
+germany:  hamborg notation for sign language (hamnosys)
+japan: shuwa jiten -- online japanese sign language dictionary
+  new zealand: sign linguistics resource index 
+spain: biblioteca de signos -- online spanish sign language library
+  sweden: department of sign language at stockholm university
+usa: asl: fact and fancy -- "text and pictures are copied from an out-of-print booklet that dispells seven common myths about asl"
+		
+usa: aslquest.com - a resource for asl literature 
+  usa: sign writing is a way of writing sign languages down on paper
+  usa: asl fonts
+usa: handspeak: an online asl dictionary
+usa: a basic asl dictionary -- by the master's tech  -- emphasis on *basic 
+usa: alysse rasmussen's excellent list of asl resources
+usa: american sign language linguistic research project (asllrp) ---  a
+			collaborative research project, involving researchers at boston
+			university, dartmouth college, gallaudet university, and rutgers
+			university.
+  usa: signing online 
+also see slling-l mailing list below.
+
+asl/fingerspelling guides
+note that most sign language teachers do not recommend learning fingerspelling by individual letters and
+	also remember that fingerspelling is not the same as asl
+
+usa: i love languages has the best guide to programs on the web
+	usa: chris niemeyer fingerspelling
+	-- "read text as if it were being fingerspelled"    
+	usa: gg wiz's fingerspeller (requires netscape 4.0 or internet explorer 4.0 & 5.0)
+
+
+
+resources for deaf kids (and their parents)
+
+internet resources for special children
+usa: kwdn family involvement weblink resource library
+usa: kidsworld deaf net weblink library on transition
+usa:  signing time -- a fun resource for teaching asl to hearing and deaf kids	
+	usa: brainpop produces captioned online, animated educational films for children in grades k-12
+    
+	usa: irdt has a new sign language cd-rom for kids
+usa: sign with your baby is a new book by joseph garcia that recommends teaching
+			sign language to both hearing and deaf babies, quite interesting!
+	usa: kidscore.com -- open captioned books on video
+    usa: rosie's walk -- a new cd-rom educational software package for deaf/hoh children (in both asl and see, cool!)
+  usa: where do we go from hear? -- created by parents of deaf and hard-of-hearing children to provide information and support to other parents    
+  usa: signit2 -- promotes idea of spreading sign language to all kids (hearing and deaf, disabled and non-disabled alike)
+  usa:  english materials for deaf and esl students
+usa-il: illinois service resource center -- " the coordination center for services for children throughout the state of illinois who are deaf or hard of hearing and exhibit behavioral and mental health challenges"
+  usa-nc:  beginnings -- for parents of children who are deaf or hard of hearing, inc.
+
+
+
+resources for deaf gays, lesbians, and bisexuals
+
+
+usa: rainbow alliance of the deaf -- national deaf gay and lesbian organization
+   usa: deaf queer resource center
+usa-northwest: northwest deaf gay and lesbian club
+
+
+
+churches/ministries/synagogues of the deaf, for the deaf
+
+
+canada:  canadian deaf ministries
+india:  maharashtra deaf fellowship of india
+
+japan: japanese deaf evangel mission
+usa: commissioned believers deaf ministry
+usa: national catholic organization of the deaf
+usa: deaf reformed ministries -- religious deaf organization lead by deaf leaders.
+  
+  usa: deaf friends international -- part of workers for jesus
+  
+  usa: mighty deaf warriors ministry
+usa: signing his praises
+usa-il: hebrew seminary for the deaf (illionois)   
+  usa-ms: lutheran church missouri synod deaf missions
+usa-ny:  beth el synagogue in new rochelle offers services, classes, and
+			programs to jewish deaf people in westchester county. contact
+			 jonathan meyer (
+jdmjdm.net; fax 914-699-6954) for details.
+
+
+
+interpreting / relaying
+
+usa: registry of interpreters for the deaf (rid) home page
+   	  
+this should be the first place to check if you're interested in becoming a terp.
+      
+usa: sign language associates -- sign language interpreters agency
+   usa: sign language connections, inc -- sign language interpreters agency and closed-captioning
+     usa: i711 - internet relay service     
+	 usa-co: asl master tutor - asl tutoring and evaluation service in colorado
+	 usa-dc: partners in sign -- a sign language interpreting agency located in washington, d.c
+    usa-dc: viscom interpreting - washington dc         
+    usa-il/mo: deaf way interpreting servics (st. louis)
+    usa-md: maryland relay -- tty relay service
+	usa-md:  visual language interpreting -- interpreting agency in the d.c. metro area and beyond
+	usa-md: birnbaum interpreting services
+usa-nc: deaf access, inc. -- interpreter agency in raleigh
+	usa-ny: deaf & hard of hearing interpreting services, inc.  -- terp service in long island, ny
+ 	usa-sc: communication access network, inc. -- 
+   		"sign language interpreter services company headquartered in charleston, sc"
+   also see terps-l mailing list below
+
+
+
+captioning 
+
+usa: asl access -- organization promoting
+				video resources in public libraries
+    usa: vicaps - a guide to closed captioning technology
+
+usa: nationalcourt reporters association (ncra)    	    
+    usa: brainpop produces online, animated educational films for children in grades k-12    
+    usa: captioned media program 
+   				-- "provides free-loan captioned films/videos service to deaf/hoh,
+					parents, teachers, and others working with deaf/hoh; provides free
+					captioning information to media producers/distributors and others;
+					provides listings of captioning agencies; and evaluates captioning
+					agencies who perform open-captioned work for the u.s. department of
+   education."    
+    usa: captioned films/videos program -- loans captioned films and videos to deaf/hoh
+  
+  usa: open captioned classics -- captioned videos on dvd   
+  usa: sign language connections, inc -- sign language interpreters agency and closed-captioning
+  usa: closed captioning web
+usa: the verbatim court reporters center contains a searchable database of competent, professional court reporting, realtime, captioning and other related support services.
+				     vrc also serves as a world-wide resource for members 
+				     of the deaf, hard of hearing, and late-deafened communities seeking 
+				     to locate realtime and/or captioning services.
+  usa: wgbh educational foundation which includes
+        the caption center
+usa: si video open captioning -- sells open captioned videos
+  usa:  g&g video - ccmaker -- adds captions to videos
+  usa-oh: in touch services, inc -- realtime and video captioning for the central/southwestern ohio
+area
+
+
+
+americans with disabilities act (ada)
+
+usa: ada document center
+
+
+
+technological innovations
+
+apple assistive technologies home page
+    www.windmillworks.com - created several software programs for deaf and hard of hearing students  that employ matching games to reinforce vocabulary and syntactic  structures.
+     omer zak's tty faq -- including info on how to connect a pc to a tty (last updated in 1997....)
+    http://www.signgenius.com - a software company specializing in the development of educational sign language software.
+japan: itec has started an online japanese sign language course
+
+
+
+news articles
+
+bella online --
+   	weekly feature articles and links, primarily on educational issues but also includes deaf culture, technology, etc....
+   nurseweek's hearing loss: the hidden epidemic
+   		-- written by two rn's who are hearing impaired (their terminology); the article gives
+   		a good description of adult onset hearing loss; although is scant on the concept
+   		of being culturally deaf.
+   christian science monitor article on 
+   asl gaining in foreign language classrooms
+	-- very nicely written
+   article on asl as a foreign language
+
+
+
+resources for the hard-of-hearing (hoh) & late-deafened
+
+
+auditory-verbal international
+the deaf education option web
+league for the hard of hearing
+international federation for the hard of hearing
+healthy hearing -- "information on hearing aids, hearing loss and hearing healthcare"
+		
+audiology online -- "information on hearing aids, hearing loss and hearing healthcare"
+		
+beauty of hearing aids chat group -- hosted by yahoo!
+   italy: audies web
+		-- brought to you by the national association for 
+		the fight against deafness and the defence of hard of hearing and late deafened people
+ united kingdom: hearing concern
+   		 (the british association of the hard of hearing) is
+		the national organisation in the uk run by and for hard of hearing,
+		partially deaf and late deafened people
+	usa:  shhh- self-help for the hard of hearing -- one of the largest and best organizations
+		for the hard of hearing in the u.s.
+	usa:  association of late deafened adults, inc. (alda)
+usa:   beyond-hearing web site
+usa:  the deafened people page
+usa: i see what you say -- an instructional video to help people with hearing loss learn how to lip read
+ 	usa-dc: alexander graham bell association
+usa-mo: st. joseph institute for the deaf
+usa-nc:  nc-shhh web site
+usa-tn: nashville shhh
+
+
+cued speech info
+
+
+cued speech info
+listen up
+ alternatives in education for the hearing 
+impaired -- cued speech center in the mid-west
+    cued language network of america
+dailycues.com
+cuetah
+cued speech products and materials
+cued speech information
+language matters, inc.
+testing, evaluation and certification unit (tecunit)
+
+
+
+gopher pages and ftp sites
+
+australia: deafness resources australia gopher
+ 	usa: the social sciences gopher at marvel.loc.gov 
+usa: the olivetti disability gopher
+usa: the handicapped news archive (ftp)
+  	usa-dc: the gopher at gallaudet university 
+usa-mi: the deaf gopher at michigan state university
+ 	usa-va: the green gopher at ecosys.drdr.virginia.edu
+
+
+
+mailing lists, newsgroups, and online magazines
+
+barry strassler produces deafdigest and deafsportzine, to subscribe send him an 
+barryclark.net.
+   	-- informed consent warning: there have been some complaints of mr. stassler involuntarily adding ("spamming") people onto  his e-mail list and refusing to
+   		take them off.
+nathan prugh is the editor of 
+	deaf magazine.
+	 it has a 
+	www page, 
+	ftp site, 
+	and mailing list (to subscribe: mail to 
+	
+
+	listservlistserv.deaf-magazine.org, 
+	leave subject blank, in body, type 
+	"sub deaf-magazine firstname lastname").
+   the usenet newsgroup and mailing list deaf-l (http://groups.yahoo.com/group/deaf-l/
+)   the sign language linguistics list (slling-l) can be accessed either
+			through its 
+			web archive page or by 
+			
+			subscribing online.
+	teachasl ... a listserv for teachers of asl. to subscribe  
+listservadmin.humberc.on.ca
+		no subject needed, body: sub teachasl yourfirstname yourlastname.
+		it also has a webpage:  http://members.aol.com/alysser/teachasl.htm
+edudeaf is for deaf, teachers of the deaf, and other professionals 
+		working with the deaf.  also there are many parents of deaf children 
+		online. to subscribe send a request to 
+
+		listservukcc.uky.edu and then in the body of the letter type
+		subscribe edudeaf. -- courtesy of ted mcdonald
+   the terps-l mailing list (for interpreters whose working languages include a signed language) can be accessed by sending an e-mail message to 
+listservadmin.humberc.on.ca with the message body saying "subscribe terps-l firstname lastname". leave the subject blank.
+   "beyond hearing" appears to be a mailing list for hard of hearing,
+       late deaf, and other folks. there are a bunch of professional people
+       on it and many of the members belong to shhh (self-help for the hard
+       of hearing). if you think this fits your interests, you
+       can subscribe by mailing to "
+majordomoacpub.duke.edu" with a blank 
+       subject line and the message "subscribe beyond-hearing".  -- 
+	thanks to arnold saslavsky
+ deaf jokes  (www.deafvision.com/lists/deafjokes/) -- get a new deaf joke in your email box once a month!
+	flash (www.deafvision.com/lists/flash) -- national news and announcement 'zine for the deaf lesbian, gay, bi and transgendered community.  published electronically since 1994.
+	noise (network for overcoming increased silence effectively) is intended as a forum 
+		to discuss topics of concern to hard of hearing/ deaf medical professionals (human 
+		medicine, dental, nursing, veterinary, veterinary technicians, etc)
+		world-wide.  it is also intended to be a means of support by linking hard of
+		hearing/deaf medical professionals from various backgrounds and geographical
+		regions.  noise will also be open to professionals closely affiliated to
+		such individuals (i.e.: disability offices and schools of education) in
+		order to allow these professionals a means of collecting information in
+		order to assist hard of hearing/deaf medical professionals.  noise will also
+		be open to hard of hearing/deaf students of at least fifteen (15) years of
+		age, who are interested in a medical career.  this will allow such students
+		a means for collecting information so they may make an educated decision
+		about the feasibility of pursuing a medical career. to subscribe the noise mailing list, the interested party should send an
+		e-mail message  to the administrative address: 
+listserverlists.acs.ohio-state.edu with the body of the mail consisting of the following: 
+ 		subscribe noise firstname lastname -- thanks danielle n. rastetter
+	the deaf uk mailing list is for all deaf uk people and is for
+	discussion about deaf issues as well as stories, jokes, arguments,
+	and other things related to the deaf community. to subscribe, mail to
+	
+deaf-uk-subscribemakelist.com.
+	spain:infosord newsletter
+		contains news about the spanish deaf community
+   
+
+
+home pages of members of the deaf community
+
+
+canada: kathryn woodcock, ph.d., o.m.c., p.eng. --
+		first deaf woman phd in engineering (!!)
+   germany: markus maurer's home page -- german only
+   japan: hidekatsu's home page
+japan: seiji's home page --
+            japan's famous  deaf motorbike champion! (japanese language)
+   japan: k. sakai's home page 
+   japan: sugawara's home page
+   	
+south africa: anton nel's home page in bedfordview, sa
+   ukraine: slava's deaf page
+usa:  ken arcia  -- beer and deafness pages ("not related" :)
+   usa: omer zak's home
+	page--a deaf electrical engineer in israel
+   usa: dragonsani renteria --a deaf queer latina activist
+   usa: plato's homepage --
+	a pipe-wielding, basketball bouncing, ancient, deaf arizonan
+   
+friends of the deaf community
+
+ tom brennan's sonic page -- audiologist who is blind
+
+
+
+deaf-owned businesses
+
+
+usa: deafnation -- store, online magazine, isp, and more
+   	usa: deafvision, inc.  - professional web design and hosting services.  free hosting for deaf nonprofits.  deaf latina owned and operated.
+   	usa: hearing aid online
+usa: signsforintelligence
+usa: the hearing stop    
+   	
+usa: www.buyasl.com  - sells many asl products such as asl dictionary dvds, and books, deaf education, and many more.    
+   	usa: deaf resources    
+   	- a family-owned online retailer of deaf and hoh products.... offer an extensive selection of assistive devices, educational materials, books, videos, clothing, jewelry, baby items, stationery, tote bags, and holiday-based gift baskets.usa-ca:  los angeles rubber works -- deaf culture & sign language rubber stamps
+   	usa-md:  schwarz financial concepts
+usa-md:  deafworks manufactures ttyscreener and low-cost ttys
+	usa-ny: hand expressions -- custom clothing with transfers and embroidery; other deaf items
+	usa-oh: deaf initiatives -- makes keepsake theme quilts from t-shirts
+	usa-tx: magnix solutions --web designs, e-commerce
+
+
+
+bonus: weird sites that have me crosslinked!
+
+
+quebec's unofficial scuba page--- ?????
+   seasigns -- asl for underwater communication
+   web cafe's review of this site -- didn't even know about it!
+   www virtual library anthropology -- as a "new direction" (phew!)
+   
+
+boring research orientated anthro url's
+the deaf resource library is proud to be an anthrotech site of the week.
+here are some anthropology resources for all of you out there:
+
+anthropology virtual web
+university of tokyo institute of social sciences web page 
+www virtual library's list of social science webs
+www virtual library's list of anthropology network resources
+www virtual library's list of japanese network resources.
+yahoo's web page of anthro (including archaeological) resources.
+yahoo's web page of general social sciences resources.
+ntt's list of www servers in japan.
+
+
+little comments in italics are from the peanut
+  gallery (me). the painting of two women is by renoir.
+  
+
+  the deaf resource library
+  is a not-for-profit project that i've been running in my spare time since 1995 and i 
+  receive no outside funding for its maintenance. 
+  
+
+
+  
+
+
+
+
+
+this site deliberately netscape/explorer unenhanced for maximum accessibility.
+to your right is the web access symbol (for people with disabilities)
+
+
+
+ 
+ since february 11, 2005.
+
+this page last updated on dec 21, 2014. 
+copyright (c) 1995-2014 by karen nakamura. all rights reserved.
+
+
+
+
+
+the deaf resource library is a winner of the deaf watch gold award as
+well as  anthrotech site of the week
+and as a "three star site" at the abc's of parenting.
+
+
+
+
+
+

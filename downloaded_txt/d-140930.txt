@@ -1,0 +1,784 @@
+
+
+
+
+gameboy advance development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+main
+about
+search
+submit news
+news archive
+forum
+contact us
+
+tools
+games/demos
+sourcecode
+documentation
+hardware
+developers
+
+
+
+
+
+
+
+mgba 0.10.4
+by endrift [monday december 9th 11:40:40 utc 2024]
+tools : emulator
+
+permalink
+
+
+
+
+mgba is an emulator for running game boy advance games. it aims to be faster and more accurate than many existing game boy advance emulators, as well as adding features that other emulators lack. it also supports game boy and game boy color games.
+
+the project started in april 2013 with the goal of being fast enough to run on lower end hardware than other emulators support, without sacrificing accuracy or portability. even in the initial version, games generally played without problems. mgba has only gotten better since then, and now boasts being the most accurate gba emulator around.
+
+other goals include accurate enough emulation to provide a development environment for homebrew software, a good workflow for tool-assist runners, and a modern feature set for emulators that older emulators may not support.
+
+mgba is licensed under the mozilla public license 2.0, and the code can be found on github.
+
+up-to-date news and more downloads can be found at mgba.io.
+
+a new release of mgba, version 0.10.4 is available. this version is a bugfix release, which contains several important fixes. important fixes include the wii version being unable to launch in some cases, and an multiple issue with the updater. if you are running on windows and have used the installer (instead of the portable version), you will need to update manually as a bug that prevents the built-in updater from working properly has only been identified and fixed after the release of 0.10.3. this will be the last release before 0.11 unless a major issue is discovered, and may be the last release to support windows 7 – 8.1 and macos 10.9 – 10.12. an extensive list of changes follows after the cut.
+
+features:
+• highly accurate game boy advance hardware support[1].
+• game boy/game boy color hardware support.
+• fast emulation. known to run at full speed even on low end hardware, such as netbooks.
+• qt and sdl ports for a heavy-weight and a light-weight frontend.
+• local (same computer) link cable support.
+• save type detection, even for flash memory size[2].
+• support for cartridges with motion sensors and rumble (only usable with game controllers).
+• real-time clock support, even without configuration.
+• solar sensor support for boktai games.
+• game boy camera and game boy printer support.
+• a built-in bios implementation, and ability to load external bios files.
+• scripting support using lua.
+• turbo/fast-forward support by holding tab.
+• rewind by holding backquote.
+• frameskip, configurable up to 10.
+• screenshot support.
+• cheat code support.
+• 9 savestate slots. savestates are also viewable as screenshots.
+• video, gif, webp, and apng recording.
+• e-reader support.
+• remappable controls for both keyboards and gamepads.
+• loading from zip and 7z files.
+• ips, ups and bps patch support.
+• game debugging via a command-line interface and gdb remote support, compatible with ghidra and ida pro.
+• configurable emulation rewinding.
+• support for loading and exporting gameshark and action replay snapshots.
+• cores available for retroarch/libretro and openemu.
+• community-provided translations for several languages via weblate.
+• many, many smaller things.
+
+game boy mappers:
+the following mappers are fully supported:
+• mbc1
+• mbc1m
+• mbc2
+• mbc3
+• mbc3+rtc
+• mbc30
+• mbc5
+• mbc5+rumble
+• mbc7
+• wisdom tree (unlicensed)
+• nt "old type" 1 and 2 (unlicensed multicart)
+• nt "new type" (unlicensed mbc5-like)
+• pokémon jade/diamond (unlicensed)
+• sachen mmc1 (unlicensed)
+
+the following mappers are partially supported:
+• mbc6 (missing flash memory write support)
+• mmm01
+• pocket cam
+• tama5 (incomplete rtc support)
+• huc-1 (missing ir support)
+• huc-3 (missing ir support)
+• sachen mmc2 (missing alternate wiring support)
+• bbd (missing logo switching)
+• hitek (missing logo switching)
+• ggb-81 (missing logo switching)
+• li cheng (missing logo switching)
+
+planned features:
+• networked multiplayer link cable support.
+• dolphin/joy bus link cable support.
+• mp2k audio mixing, for higher quality sound than hardware.
+• re-recording support for tool-assist runs.
+• a comprehensive debug suite.
+• wireless adapter support.
+
+supported platforms:
+• windows 7 or newer
+• os x 10.9 (mavericks)[3] or newer
+• linux
+• freebsd
+• nintendo 3ds
+• nintendo switch
+• wii
+• playstation vita
+
+emulation fixes:
+• gb audio: fix audio envelope timing resetting too often (fixes #3164)
+• gb i/o: fix stat writing irq trigger conditions (fixes #2501)
+• gba gpio: fix gyro read-out start (fixes #3141)
+• gba i/o: fix haltcnt access behavior (fixes #2309)
+• gba i/o: fix audio register 8-bit write behavior (fixes #3086)
+• gba serialize: properly restore gpio register state (fixes #3294)
+• gba sio: fix multi mode siocnt bit 7 writes on secondary gbas (fixes #3110)
+
+other fixes:
+• core: fix patch autoloading leaking the file handle
+• gb: fix uninitialized save data when loading undersized temporary saves
+• gb, gba core: fix memory leak if reloading debug symbols
+• gb serialize: prevent loading invalid states where ly >= 144 in modes other than 1
+• gba audio: fix crash if audio fifos and timers get out of sync
+• gba audio: fix crash in audio subsampling if timing lockstep breaks
+• gba core: fix loading symbols from elf files if the file doesn’t end with .elf
+• gba memory: let raw access read high mmio addresses
+• qt: fix crash when applying changes to gb i/o registers in i/o view
+• qt: fix lcdc background priority/enable bit being mis-mapped in i/o view
+• qt: fix saving named states breaking when screenshot states disabled (fixes #3320)
+• qt: fix potential crash on wayland with opengl (fixes #3276)
+• qt: fix installer updates if a version number is in the filename (fixes #3109)
+• updater: fix updating appimage across filesystems
+
+miscellaneous fixes:
+• qt: make window corners square on windows 11 (fixes #3285)
+• switch: add bilinear filtering option (closes #3111)
+• vita: add imc0 and xmc0 mount point support
+
+get it now in the downloads section. binaries are available for windows, ubuntu, other linux distros (via appimage), macos, nintendo switch, 3ds, wii, and playstation vita, and the source code is available for all other platforms.
+
+if you enjoy using mgba and wish to give back, there is a list of ways to donate on the donations page, including an mgba patreon.download: mgba-0.10.4-win64.zip
+
+
+ 
+
+
+gba jam 2024 results
+by krom [sunday september 22nd 21:55:24 utc 2024]
+news : general
+
+permalink
+
+
+
+
+the gba jam 2024 has come to an end! we are proud to say it was our most successful event yet, with a total of 52 (!!) final submitted entries.
+
+the event was hosted by the the gbadev.net community. we're promoting the development of new gba homebrew games, development tools and documentation. join us on discord and check out our curated collection of gbadev resources.
+
+a huge thank you and congrats to everyone who participated! we hope you had fun and picked up something new along the way.
+
+we'd also like to extend our gratitude to our sponsors, whose support made this event possible:
+
+insidegadgets, bitmap soft, zedlabz, incube8 games, the exp, the retro room, gbdev.io
+
+and thanks to everyone who donated, our fellow organisers and judges, and of course everyone who's played & enjoyed the entries so far (if you haven't yet, what are you waiting for!!)
+
+results:
+prize winners are in bold. open-source bonus is denoted by +.
+
+a five-way tie break was required for 4th place due to the physical prize, other ties have been left as-is.
+
+full detailed results for all 52 entries can be found on the itch.io results page.
+
+overall (top 20):
+1. beatbeast + by afska, lu, synthenia
+2. discrete orange by tardigrade
+3. getting around it with pheasant birdy by hell labs
+4. dungeon tactics advance by setsquare, lostimmortal
+5. space evangelion + by fixxiefixx
+    sys*crusher by outofsync
+    detective monroe: murder at sea + by eragnarok, hummushustler
+    aereven advance by dreamnoid
+9. sleep paradox by staticlinkage, reyoruga, nikku4211
+    zipline zapper by 3dsage
+    world of zoink by colonelsalt, beatscribe
+12. work life by jeffzzq
+      toll runner by jenka lab
+14. hex advance by ax
+      gematrix by issung
+      happy dawn by luife
+      globlins! by jeremy elkayam, pollyannawog, arcobaleno97, dot maetrix
+      galactic quest by origamiscienceguy, potatoteto, n67094
+      bata dubnos by fralacticus
+20. sekhmet's playground by pyro_pyro, reyoruga, mooon.bit
+
+technical:
+1. getting around it with pheasant birdy by hell labs
+2. zipline zapper by 3dsage
+3. sleep paradox by staticlinkage, reyoruga, nikku4211
+4. project: pag - tech demo by gronis93
+5. bata dubnos by fralacticus
+    beatbeast by afska, lu, synthenia
+
+originality:
+1. bata dubnos by fralacticus
+    world of zoink by colonelsalt, beatscribe
+    discrete orange by tardigrade
+    beatbeast by afska, lu, synthenia
+    work life by jeffzzq
+
+graphics:
+1. sekhmet's playground by pyro_pyro, reyoruga, mooon.bit
+2. discrete orange by tardigrade
+    beatbeast by afska, lu, synthenia
+4. zipline zapper by 3dsage
+    toll runner by jenka lab
+
+audio:
+1. beatbeast by afska, lu, synthenia
+2. gba grand prix by dippy0615
+    getting around it with pheasant birdy by hell labs
+    discrete orange by tardigrade
+5. sekhmet's playground by pyro_pyro, reyoruga, mooon.bit
+
+polish:
+1. discrete orange by tardigrade
+2. dungeon tactics advance by setsquare, lostimmortal
+3. sys*crusher by outofsync
+    2048 advance by basil termini
+5. detective monroe: murder at sea by eragnarok, hummushustler
+    getting around it with pheasant birdy by hell labslink: https://gbadev.net/gbajam24.html
+
+
+ 
+
+
+aunt flora's mansion
+by velipso [thursday september 12th 11:37:53 utc 2024]
+games : puzzle
+
+permalink
+
+
+
+
+
+aunt flora's mansion ported to gba:
+we ported a fun little block-pushing puzzle game, aunt flora's mansion, to the gba.
+
+the game is a fun little adventure where you must make your way through your aunt's mansion to meet her for tea.
+
+our port has new graphics and music, along with settings to use the original graphics.
+https://pocket-pulp.itch.io/aunt-floras-mansion-gba-port
+
+the source code is available under 0bsd license, here:
+https://github.com/velipso/auntflora
+
+we hope it's a fun game for everyone, and a nice self-contained project people can hack at. enjoy!download: auntflorasmansion.zip
+
+
+ 
+
+
+gba jam 2024
+by krom [sunday may 26th 09:12:14 utc 2024]
+news : general
+
+permalink
+
+
+
+
+the full-scale gba game jam is back after a two-year hiatus!
+
+you have 3 months to make something cool that runs on the game boy advance, using whatever tools you like!
+
+come join us on discord or irc for help getting started, chat with other participants (maybe even team up!) and head over to gbadev.net for useful links & resources!
+
+the game boy advance is a wonderfully unique, fun and accessible machine to develop for. it upholds the graphical techniques of the 8/16-bit era, such as hardware-accelerated tilemaps, sprites and palettes. yet its 32-bit cpu is powerful enough that you can program for it in high level languages such as c, c++, rust, zig and nim.
+
+this blend of capability and limitations, in addition to being highly portable and widely emulated, makes gba development a very rewarding experience!
+
+sponsors:
+incube8 games
+gbdev community
+insidegadgets
+bitmap soft
+zed labz
+the retro room
+
+join us as a sponsor, showcase your product/services and help the scene!.
+
+prizes:
+the current prize pool is $1349 and will be split among the top ranked entries (details). anyone can contribute by donating.
+
+the top 3 winners will also receive a gbxcart rw courtesy of insidegadgets!
+
+rules:
+1. your submission must include a .gba file! you can also attach screenshots, readmes, game manuals, etc.
+
+2. it should run on real hardware or an accurate emulator such as mgba or nanoboyadvance.
+
+3. ports from other platforms are allowed, emulated games are not.
+
+4. it must feature a substantial amount of new & original work (i.e. not something you were already working on for months).
+
+5. only use code and assets that you have explicit permission to use, giving appropriate credit.
+
+6. no nsfw or offensive content.
+
+for more information head over to the gba jam 2024 page:
+https://itch.io/jam/gbajam24
+
+
+ 
+
+
+pump it up gba v1.10.0
+by rodrigo alfonso / afska [sunday may 26th 08:43:17 utc 2024]
+games : arcade
+
+permalink
+
+
+
+
+
+a pump it up simulator for the game boy advance that uses stepmania ssc charts.
+
+features:
+• full .ssc support (including hold/fake notes, bpm/scroll changes, stop/delays, warps)
+• several game modes (campaign, arcade, challenges)
+• multiplayer support via link cable / wireless adapter
+• dynamic speed multipliers
+• multiple mods
+• hardware integrations (video/audio streaming from microsd cards, rumble, sram/io led sync, ps/2 input)
+• ~70 songs per .gba rom
+
+new features:
+• the game can now play background videos and high-quality audio by reading uncompressed video/pcm files from the flash cart's sd card!
+• added support for everdrive and ez flash omega flash carts when using hq mode
+• added modern theme
+• added rewind functionality to training mode, useful to practice difficult parts
+• added rumble options
+• added global offset option
+
+graphical improvements:
+• important sprite rework, supporting multiple themes
+• added scaling effect to in-game score
+• added scaling effect to stage break animation
+• added scaling effect to s grades
+
+misc. changes:
+• improved handling of select key to quit multiplayer sessions
+• adjusted fade time when confirming songs
+• background blink can now be disabled in multiplayer
+• multiplayer battles can now be tied
+
+bugfixes:
+• fixed an audio glitch on page cross after confirming a song
+
+project page: https://r-labs.io/#piugba
+source code: https://github.com/afska/piugba
+discord server / download links: https://discord.com/invite/je33cc2link: https://github.com/afska/piugba
+
+
+ 
+
+
+nanoboyadvance 1.8.1
+by fleroviux [sunday may 26th 08:21:59 utc 2024]
+tools : emulator
+
+permalink
+
+
+
+
+nanoboyadvance is a cycle-accurate game boy advance emulator.
+it aims to be as accurate as possible, while also offering enhancements such as improved audio quality.
+
+features:
+• very high compatibility and accuracy (see accuracy)
+• hq audio mixer (for games which use nintendo's musicplayer2000 sound engine)
+• post-processing options (color correction, xbrz upscaling and lcd ghosting simulation)
+• save state support (10x save slots available)
+• game controller support (buttons and axises can be remapped)
+• loading roms from archives (zip, 7z, tar and limited rar support)
+• rtc emulation
+• solar sensor emulation (for example: for boktai - the sun is in your hand)
+• debug tools: ppu palette, tile, background and sprite viewers
+
+running:
+download a recent development build or the last stable release.
+
+upon loading a rom for the first time you will be prompted to assign the game boy advance bios file.
+you can dump it from a real console (accurate) or use an unofficial bios (less accurate).
+
+accuracy:
+a lot of research and attention to detail has been put into developing this core and making it accurate.
+
+• cycle-accurate emulation of most components, including: cpu, dma, timers, ppu and game pak prefetch
+• passes all ags aging cartridge tests (nba was the first public emulator to achieve this)
+• passes most tests in the mgba test suite (see mgba suite comparison for more details)
+• passes armwrestler, gba-suite and fuzzarm cpu tests
+• very high compatibility, including games that require emulation of peculiar hardware edge-cases (see game compatibility)
+
+compiling:
+see compiling.md in the docs folder.
+
+acknowledgements:
+• martin korth: for gbatek, a good piece of hardware documentation.
+• endrift: for prior research and hardware tests.
+• destoer, noumi, zayd and sky: for hardware research and tests, countless discussions and being good friends.
+• pokefan531 and hunterk: for the default gba color correction algorithm
+• talarubi and near: for higan's gba color correction algorithm
+• desmume team and hyllian: xbrz upscaling code
+
+changelog:
+• ui: implement an option to pause the emulator when the window is inactive
+• ui: improve lack of response to input changes in the sprite viewer when the emulator is paused
+• ui: replace qopenglwidget with qwidget (thanks @granminigun)
+• ui: fix solar sensor level menu that has been broken in 1.8.0 (fixes #370)
+• gpio: fix broken deserialization of port directions
+• apu: mp2k hle: handle corrupted wave info addresses (fixes #362)
+• apu: psg l/r volume must be remapped from 0-7 to 1-8
+• gamedb: japanese boktai releases have a solar sensor (thanks @raphaelr)
+• redirect stdout on windows (thanks @granminigun)download: nanoboyadvance-1.8.1-win64.zip
+
+
+ 
+
+
+3dsage game engine demo
+by 3dsage [thursday march 28th 14:01:55 utc 2024]
+demos : tech demo
+
+permalink
+
+
+
+
+
+watch the full youtube video to learn more about this on my channel: https://www.youtube.com/c/3dsage
+
+i have been working a long time to code the fastest 3d game engine i could on the gba. and this is just the game running. the next version will have the grid and ui so you can create your own custom levels just like i show in the video!
+
+thank you for your support! let me know what you think of this in the video comments! i will be reading and responding. and let me know what you want me to add or adjust for the next version! thank you for your support!
+(the save file must be next to the rom. if you use a flashcart, place the save file in the proper folder)
+-sagedownload: 3dsage_game_engine_demo.zip
+
+
+ 
+
+
+pump it up gba v1.8.4
+by rodrigo alfonso / afska [monday february 5th 21:20:45 utc 2024]
+news : general
+
+permalink
+
+
+
+
+
+a pump it up emulator for the game boy advance that uses stepmania ssc charts.
+
+features:
+• full .ssc support (including hold/fake notes, bpm/scroll changes, stop/delays, warps)
+• several game modes (campaign, arcade, impossible)
+• multiplayer support via link cable / wireless adapter
+• dynamic speed multipliers
+• multiple mods
+• hardware integrations (rumble, sram/io led sync)
+• ~70 songs per .gba rom
+
+new features:
+• added a new challenge mode when completing the campaign mode
+• arcade modes now store dance grades by index instead of by level. this allows saving different scores for charts that have the same numeric level (e.g. s19-a, s19-b)
+
+misc. changes:
+• stage break = death will now display the life bar at minimum level and ignore bads in the judgement phase
+• now the game remembers the page/song when switching between campaign and the challenge (e.g. impossible) modes
+• bubbles in the home screen will 'regenerate' when leaving a submenu
+• removed pixel blinking effect from the home screen
+
+optimizations:
+• now charts use static ewram to prevent crashes due to allocation failures
+• updated gba-link-connection to v6.0.3, which fixes potential autopairing issues (e.g. two couples trying to create two separate sessions via wireless adapter)
+
+bugfixes:
+• fixed a small memory leak after playing a song
+• fixed a bug with the random number generator that was causing the last value of a range to be ignored
+• fixed a glitch where the user could enter the "audio lag" option and navigate to the previous/next option during the transition
+• (v1.8.1) added small fixes and adjustments to the new challenge mode
+• (v1.8.2) the wireless adapter is now put in low consumption mode when not in use
+• (v1.8.3) general system stability improvements to enhance the user's experience
+• (v1.8.3) fixed rate = +1 mod in impossible mode (v1.8.0 regression)
+• (v1.8.3) fixed 'mark as defective' combo being enabled during challenge mode
+• (v1.8.3) the challenge mode now displays the current song
+• (v1.8.3) if the arcade library matches the selected difficulty level of the campaign mode (most common case), the game now remembers the selected song when switching between modes
+• (v1.8.3) the importer is now provided as a portable windows executable
+• (v1.8.4) huh... all this time prefetch was disabled. well, free performance boost!
+• (v1.8.4) the sprite limit was increased from 50 to 90
+• (v1.8.4) the bounce mod now uses a slightly less aggressive curve
+
+project page: https://r-labs.io/#piugba
+source code: https://github.com/afska/piugba
+discord server / download links: https://discord.com/invite/je33cc2link: https://github.com/afska/piugba
+
+
+ 
+
+
+mgba 0.10.3
+by endrift [wednesday january 10th 06:03:50 utc 2024]
+news : general
+
+permalink
+
+
+
+
+mgba is an emulator for running game boy advance games. it aims to be faster and more accurate than many existing game boy advance emulators, as well as adding features that other emulators lack. it also supports game boy and game boy color games.
+
+the project started in april 2013 with the goal of being fast enough to run on lower end hardware than other emulators support, without sacrificing accuracy or portability. even in the initial version, games generally played without problems. mgba has only gotten better since then, and now boasts being the most accurate gba emulator around.
+
+other goals include accurate enough emulation to provide a development environment for homebrew software, a good workflow for tool-assist runners, and a modern feature set for emulators that older emulators may not support.
+
+mgba is licensed under the mozilla public license 2.0, and the code can be found on github.
+
+up-to-date news and more downloads can be found at mgba.io.
+
+a new release of mgba, version 0.10.3 is available. this version is a bugfix release, which contains several important fixes. important fixes include multiplayer windows always going too fast, and an issue with the updater that prevented switching to the development branch. an extensive list of changes follows after the cut.
+
+features:
+• highly accurate game boy advance hardware support[1].
+• game boy/game boy color hardware support.
+• fast emulation. known to run at full speed even on low end hardware, such as netbooks.
+• qt and sdl ports for a heavy-weight and a light-weight frontend.
+• local (same computer) link cable support.
+• save type detection, even for flash memory size[2].
+• support for cartridges with motion sensors and rumble (only usable with game controllers).
+• real-time clock support, even without configuration.
+• solar sensor support for boktai games.
+• game boy camera and game boy printer support.
+• a built-in bios implementation, and ability to load external bios files.
+• scripting support using lua.
+• turbo/fast-forward support by holding tab.
+• rewind by holding backquote.
+• frameskip, configurable up to 10.
+• screenshot support.
+• cheat code support.
+• 9 savestate slots. savestates are also viewable as screenshots.
+• video, gif, webp, and apng recording.
+• e-reader support.
+• remappable controls for both keyboards and gamepads.
+• loading from zip and 7z files.
+• ips, ups and bps patch support.
+• game debugging via a command-line interface and gdb remote support, compatible with ghidra and ida pro.
+• configurable emulation rewinding.
+• support for loading and exporting gameshark and action replay snapshots.
+• cores available for retroarch/libretro and openemu.
+• community-provided translations for several languages via weblate.
+• many, many smaller things.
+
+game boy mappers:
+the following mappers are fully supported:
+• mbc1
+• mbc1m
+• mbc2
+• mbc3
+• mbc3+rtc
+• mbc30
+• mbc5
+• mbc5+rumble
+• mbc7
+• wisdom tree (unlicensed)
+• nt "old type" 1 and 2 (unlicensed multicart)
+• nt "new type" (unlicensed mbc5-like)
+• pokémon jade/diamond (unlicensed)
+• sachen mmc1 (unlicensed)
+
+the following mappers are partially supported:
+• mbc6 (missing flash memory write support)
+• mmm01
+• pocket cam
+• tama5 (incomplete rtc support)
+• huc-1 (missing ir support)
+• huc-3 (missing ir support)
+• sachen mmc2 (missing alternate wiring support)
+• bbd (missing logo switching)
+• hitek (missing logo switching)
+• ggb-81 (missing logo switching)
+• li cheng (missing logo switching)
+
+planned features:
+• networked multiplayer link cable support.
+• dolphin/joy bus link cable support.
+• mp2k audio mixing, for higher quality sound than hardware.
+• re-recording support for tool-assist runs.
+• a comprehensive debug suite.
+• wireless adapter support.
+
+supported platforms:
+• windows 7 or newer
+• os x 10.9 (mavericks)[3] or newer
+• linux
+• freebsd
+• nintendo 3ds
+• nintendo switch
+• wii
+• playstation vita
+
+emulation fixes:
+• arm: remove obsolete force-alignment in bx pc (fixes #2964)
+• arm: fake bpkt instruction should take no cycles (fixes #2551)
+• gb audio: fix channels 1/2 staying muted if restarted after long silence
+• gb audio: fix channel 1 restarting if sweep applies after stop (fixes #2965)
+• gb audio: fix restarting envelope when writing to register (fixes #3067)
+• gb audio: improve “zombie mode” emulation in cgb mode (fixes #2029)
+• gb i/o: read back proper svbk value after writing 0 (fixes #2921)
+• gb sio: disabling sio should cancel pending transfers (fixes #2537)
+• gba audio: fix sample timing drifting when changing sample interval
+• gba audio: fix initial channel 3 wave ram (fixes #2947)
+• gba audio: fix sample position issues when rate changes (fixes #3006)
+• gba gpio: fix tilt scale and orientation (fixes #2703)
+• gba bios: fix clobbering registers with word-sized cpuset
+• gba sio: fix normal mode si/so semantics (fixes #2925)
+
+other fixes:
+• gb: fix applying a patch that changes the cartridge mapper (fixes #3077)
+• gba savedata: fix crash when resizing flash save games for rtc data
+• mgui: fix cases where an older save state screenshot would be shown (fixes #2183)
+• qt: re-enable sync for multiplayer windows that aren’t connected (fixes #2974)
+• qt: fix mute settings not being loaded on setting screen (fixes #2990)
+• qt: fix screen freezing on macos after closing save state window (fixes #2885)
+• vita: fix camera setting not appearing (fixes #3012)
+
+miscellaneous fixes:
+• mgui: persist fast forwarding after closing menu (fixes #2414)
+• qt: add exporting of sav + rtc saves from save converter to strip rtc data
+• vfs: use anonymousmemorymap for large 7z allocations (fixes #3013)
+
+get it now in the downloads section. binaries are available for windows, ubuntu, other linux distros (via appimage), macos, nintendo switch, 3ds, wii, and playstation vita, and the source code is available for all other platforms.
+
+if you enjoy using mgba and wish to give back, there is a list of ways to donate on the donations page, including an mgba patreon.download: mgba-0.10.3-win32.zip
+
+
+ 
+
+
+gba-link-connection v6
+by rodrigo alfonso / afska [monday november 27th 01:47:24 utc 2023]
+games : tool
+
+permalink
+
+
+
+
+a set of game boy advance (gba) c++ libraries to interact with the serial port. its main purpose is providing multiplayer support to homebrew games.
+
+• linkcable.hpp: the classic 16-bit multi-play mode (up to 4 players) using a gba link cable!
+
+• linkcablemultiboot.hpp: send multiboot software (small 256kib roms) to other gbas with no cartridge!
+
+• linkgpio.hpp: use the link port however you want to control any device (like leds, rumble motors, and that kind of stuff)!
+
+• linkspi.hpp: connect with a pc (like a raspberry pi) or another gba (with a gbc link cable) using this mode. transfer up to 2mbit/s!
+
+• linkwireless.hpp: connect up to 5 consoles with the wireless adapter!
+
+• linkuniversal.hpp: add multiplayer support to your game, both with link cables and wireless adapters, using the same api.
+
+github repo: https://github.com/afska/gba-link-connectionlink: https://github.com/afska/gba-link-connection
+
+
+ 
+6843134
+
+
+
+
+top games
+
+
+
+1. 2004mbit compo game2. another world gba v2.13. xmen v streetfighter j edition4. mariobreak!5. bust a move gba
+
+ 
+
+
+
+top demos
+
+
+
+1. smash bros. advance2. half life3. gbacraft v1.04. jespa3d engine ver 1.395. bulletgba 5.0
+
+ 
+
+
+
+search
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+gbadev.org stats
+
+
+
+visitors: 6843134days online: 9020articles: 550games: 410demos: 246tools: 180
+
+
+ 
+
+
+
+forum stats
+
+
+
+top posters:
+
+1. tepples (12205)2. sgeos (2421)3. hyperhacker (2404)4. sajiimori (2226)5. keldon (2158)members: 11113topics: 17034posts: 175577
+
+
+
+
+
+
+

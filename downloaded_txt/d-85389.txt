@@ -1,0 +1,599 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+casa360 | gestione visite immobiliari da remoto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+continua senza accettare 
+
+consenso 
+informazioni sui cookie
+
+
+
+
+
+
+qui potrai gestire la "cookie compliance" del nostro sito web.
+				e' necessario prendere visione  dei termini e condizioni  di utilizzo.
+				in un qualsiasi momento potrai rivedere ed aggiornare le tue scelte.
+				un cookie è una piccola stringa di testo che un sito web invia al browser e salva sul tuo computer quando visiti dei siti internet.
+				i cookie sono utilizzati per far funzionare i siti web in maniera più efficiente, per migliorarne le prestazioni, ma anche per fornire informazioni ai proprietari del sito.
+				visualizza la cookie policy completa.
+				
+
+
+i cookie necessari contribuiscono a rendere fruibile il nostro sito web abilitando  funzionalità di base quali la navigazione sulle pagine, l'accesso alle aree protette del sito e il funzionamento di questo stesso modulo per la gestione cookie.
+				il sito web non è in grado di funzionare correttamente senza questi cookie pertanto, a norma di legge, vengono memorizzati di default sul tuo dispositivo.
+				questo sito utilizza diversi tipi di cookie. alcuni provengono da servizi di terzi inseriti all'interno delle nostre pagine.
+				scopra di più su chi siamo, come può contattarci e come trattiamo i dati personali nella nostra informativa sulla privacy.
+				in qualsiasi momento è possibile modificare o revocare il proprio consenso dalla dichiarazione dei cookie sul nostro sito web.
+				potrà in un qualsiasi momento richiedere la cancellazione del suo consenso specificando l’id che le è stato attribuito l'ultima volta che lo ha configurato tramite questo modulo.
+
+
+
+tecnici - necessari3
+info
+
+
+lista cookie necessarii cookie necessari contribuiscono a rendere fruibile il sito web abilitandone funzionalità di base quali la navigazione sulle pagine e l'accesso alle aree protette del sito. il sito web non è in grado di funzionare correttamente senza questi cookie.
+
+ casa360_cookiepolicy_v3
+memorizza lo stato del consenso ai cookie dell'utente per il dominio corrente
+dominio: casa360.nettipo: httpscadenza:  1 anno
+
+core360_session
+cookie di sessione del browser e preserva gli stati dell'utente nelle diverse pagine del sito. viene eliminato automaticamente alla chiusura del browser o della pagina.
+dominio: casa360.nettipo: httpscadenza: session
+
+dashboard_session
+cookie di sessione del browser e preserva gli stati dell'utente nelle diverse pagine della dashboard. viene eliminato automaticamente alla chiusura del browser o della pagina.
+dominio: casa360.nettipo: httpscadenza: session
+
+
+
+
+
+preferenze0
+info
+
+
+
+
+
+lista cookie preferenzei cookie di preferenza consentono al sito web di memorizzare informazioni che ne influenzano il comportamento o l'aspetto, quali la lingua preferita o la località nella quale ti trovi.
+
+
+
+
+statistiche3
+info
+
+
+
+
+
+lista cookie statistiche/analyticsi cookie statistici aiutano i proprietari del sito web a capire come i visitatori interagiscono con i siti raccogliendo e trasmettendo informazioni in forma anonima.
+
+_ga
+il cookie _ga, installato da google analytics, calcola i dati di visitatori, sessioni e campagne e tiene anche traccia dell'utilizzo del sito per il rapporto di analisi del sito. il cookie memorizza le informazioni in modo anonimo e assegna un numero generato casualmente per riconoscere i visitatori unici.
+dominio: casa360.nettipo: httpscadenza:  2 anni
+
+_gid
+installato da google analytics, il cookie _gid memorizza informazioni su come i visitatori utilizzano un sito web, creando anche un rapporto analitico delle prestazioni del sito web. alcuni dei dati che vengono raccolti includono il numero dei visitatori, la loro origine e le pagine che visitano in modo anonimo.
+dominio: casa360.nettipo: httpscadenza:  1 giorno
+
+_ga_051g3l6dq7
+questo cookie è installato da google analytics.
+dominio: casa360.nettipo: httpscadenza:  2 anni
+
+
+
+
+
+
+marketing1
+info
+
+
+
+
+
+lista cookie marketingi cookie di marketing vengono utilizzati per tracciare i visitatori sui siti web. la finalità è quella di presentare annunci pubblicitari che siano rilevanti e coinvolgenti per il singolo utente e quindi di maggior valore per editori e inserzionisti di terze parti.
+
+_fbp
+questo cookie è impostato da facebook per visualizzare annunci pubblicitari su facebook o su una piattaforma digitale alimentata dalla pubblicità di facebook, dopo aver visitato il sito web.
+dominio: casa360.nettipo: httpscadenza:  3 mesi
+
+
+
+
+
+
+non classificati0
+info
+
+
+
+
+
+lista cookie non classificatii cookie non classificati sono i cookie che sono in fase di classificazione, insieme ai fornitori di cookie individuali.
+
+
+
+
+consenso interdominio
+info
+
+
+
+lista dei domini a cui si applica il tuo consenso:
+.casa360.net
+								www.casa360.net
+								media.casa360.net
+								
+					
+					
+
+
+
+
+
+accetta tutti
+
+			configura le preferenze				
+salva preferenze
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+login
+registrati
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+prezzi
+contatti
+guide - f.a.q.
+
+f.a.q.popolare
+pubblicare vr360 sul webnew
+errori da evitare nel 360new
+formato foto panoramichenew
+
+
+news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+visite immobiliariin remoto
+gestisci a distanza gli appuntamenti per la visita del tuo immobile in vendita.
+approfondisci
+
+
+
+
+
+
+
+
+
+
+
+
+
+a cosa serve un virtual tour immobiliare?
+con il nostro "virtual tour immobiliare" potrai mostrare la tua casa alle persone interessate e gestire le richieste informazioni provenienti dagli annunci di vendita on-linetutto a distanza e senza appuntamento!
+
+
+
+
+
+
+
+
+
+
+
+esperienza di vista
+ecco un esempio di una visita virtuale a distanza.
+					vista subito l'immobile qui sotto:
+
+
+
+
+
+
+
+
+
+
+
+
+
+entra in contatto
+ richiedi informazioni sui servizi
+					
+
+verrai ricontattato , senza nessun impegno da parte tua, e ti verranno mostrati tutti i vantaggi di utilizzare una visita in remoto nella gestione della vendita del tuo immobile.
+                
+
+
+
+
+
+nome
+
+
+
+email
+
+
+
+
+
+telefono
+
+
+
+
+prendere visione della privacy
+
+
+
+
+
+
+messaggio
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ invia richiesta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+progetti realizzati
+
+
+
+
+
+  
+
+ambienti fotografati
+
+
+
+
+
+  
+
+linee di codice
+
+
+
+
+
+  
+
+tazze di caffe'
+
+
+
+
+
+
+
+
+
+
+sei un fotografo?sei un agente immobiliare?
+abbiamo un servizio dedicato e ottimizzato per i professionisti del settore immobiliare.
+
+
+
+
+  
+pannello di controllo
+gestione completa del sistema tramite pannello di controllo dedicato.
+
+
+
+
+  
+interfaccia utente
+sistema di navigazione all'interno dell'immobile semplice e fluida.
+
+
+
+
+  
+updates & support
+piattaforma in continuo sviluppo con aggiornamenti e miglioramenti. supporto dedicato tramite ticket richiesta assistenza.
+
+
+
+
+  
+gestione richieste
+gestione tramite chat-email delle richieste informazioni direttamente dal pannello di controllo.
+
+
+
+
+  
+lead bar
+barra integrata per la generazione di contatti tramite email, telefonata e chat whatsapp.
+
+
+
+
+  
+grafica personalizzata
+personalizzazione dell'interfaccia utente con foto, loghi, riferimenti e colori personali.
+
+
+
+
+
+contattaci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+casa360
+
+chi siamo
+
+
+condizioni generali
+privacy policy
+cookie policy
+
+
+
+
+
+
+ultimi post
+
+
+
+
+come pubblicare virtual tour sul web
+ guide
+
+
+
+
+
+errori da evitare nel 360
+ guide
+
+
+
+
+
+formato foto panoramiche equirettangolari
+ guide
+
+
+
+
+
+
+
+
+
+
+
+
+contatti
+email:
+info@casa360.net
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copyright © 2001 - 2024 casa360. all rights reserved. | p. iva 01979440383 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

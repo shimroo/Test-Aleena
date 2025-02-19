@@ -1,0 +1,719 @@
+
+
+
+
+
+
+
+
+power line systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ power line systems is now a part of bentley systems. learn more >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+
+resources
+
+
+            library files
+          
+
+classes
+
+
+            careers
+          
+
+about
+
+
+            contact us
+          
+
+        m
+      
+
+
+
+
+
+
+
+back
+
+
+            all products
+          
+
+            pls-cadd
+          
+
+            pls-grid
+          
+
+            pls-cadd/lite
+          
+
+            pls-cadd/ultralite
+          
+
+            tower
+          
+
+            pls-pole
+          
+
+            saps
+          
+
+            sagsec
+          
+
+            caisson
+          
+
+
+
+back
+
+
+              news
+            
+
+            videos
+          
+
+            technical notes
+          
+
+            past events
+          
+
+            who uses our software
+          
+
+            privacy policy
+          
+
+            codes & standards
+          
+
+            current versions
+          
+
+
+
+back
+
+
+            hands-on training classes
+          
+
+            online training classes
+          
+
+
+
+back
+
+
+            about
+          
+
+            visiting
+          
+
+            bentley systems
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+all products
+pls-cadd
+pls-grid
+pls-cadd/lite
+pls-cadd/ultralite
+tower
+pls-pole
+saps
+sagsec
+caisson
+
+
+resources
+
+news
+videos
+technical notes
+past events
+who uses our software
+privacy policy
+codes & standards
+current versions
+
+library files
+classes
+
+hands-on training classes
+online training classes
+
+careers
+about
+
+about
+visiting
+bentley systems
+
+contact usm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scroll
+
+
+
+
+
+
+
+
+do you care about the integrity of your grid?if so, you’re in the right place. 
+
+
+
+power line systems develops, sells and supports software for the design of overhead electric power transmission, distribution, and communication lines and their structures.
+
+
+
+
+    pls-grid
+  
+
+
+
+
+    atug 2024
+  
+
+
+
+
+    executive summary overview
+  
+
+
+
+
+    watch the video
+  
+
+  
+
+
+
+
+
+
+
+
+
+ about us.we are the creators of the industry standard line design programs:pls-grid, pls­­-cadd, pls­­-pole and tower. power line systems was founded in 1984 to provide consulting services and develop engineering software for the structural and geometric design of electric power lines. since then power line systems has become the world-wide leader in software for transmission lines. we supply software to over 1600 organizations in more than 125 countries.
+
+
+
+
+    read more
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products.our software automates the calculation of design loads and the checking of strength according to most international standards (asce, nesc, iec, cenelec, etc.). this has been possible because of power line systems close involvement over the past 35 years with the organizations that developed these standards and the feedback from the electric companies that require their use.
+
+
+
+
+    read more
+  
+
+
+
+
+    who uses our software
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hero
+
+
+
+about us
+
+
+
+products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aug 4, 2023
+
+
+
+
+
+atug 2024 call for presentations & save the date
+
+
+
+aug 4, 2023
+
+
+
+
+read more →
+
+
+
+aug 4, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jun 9, 2023
+
+
+
+
+
+version 18.01 released!
+
+
+
+jun 9, 2023
+
+
+
+
+read more →
+
+
+
+jun 9, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nov 9, 2022
+
+
+
+
+
+pls-grid webinar
+
+
+
+nov 9, 2022
+
+
+
+
+read more →
+
+
+
+nov 9, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+power line systems
+5400 king james way,
+madison, wi, 53719,
+united states
+6082382171
+info@powline.com
+
+
+hours
+
+
+ 
+
+newsrecent developmentstraining classespls in the news
+
+
+
+products
+
+
+
+pls-gridpls-caddtowerpls-pole
+
+
+
+sapssagseccaisson
+
+
+
+committed to qualityno other company can match our breadth of experiencemodeling overhead lines.
+
+
+
+ 
+
+©2023 power line systems all rights reserved.     power line systems privacy policy    bentley privacy policy     bentley cookie policy     bentley terms of use 
+
+
+
+
+
+
+embed block
+
+        add an embed url or code.
+        
+          learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5400 king james way, suite 300madison, wi 53719, usa
+
+
+
+
+
+phone: (608) 238-2171info@powerlinesystems.com
+
+
+
+
+
+
+pls-cadd
+tower
+pls-pole
+saps
+sagsec
+caisson
+
+home
+about
+products
+news
+classes - hands-on
+classes - online
+videos
+files
+contact
+
+
+
+
+
+
+
+
+
+
+
+

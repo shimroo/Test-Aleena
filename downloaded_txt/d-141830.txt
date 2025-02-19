@@ -1,0 +1,105 @@
+
+
+
+
+ 
+
+
+
+biologic software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+biologic software
+tools for biosensor data analysis
+
+
+
+show menu
+hide menu
+
+
+home
+scrubber
+downloads
+purchase
+links
+contact
+ 
+
+ 
+ 
+
+
+
+
+
+
+biologic software specializes in the creation of
+						software for the simulation and analysis of molecular interactions
+						as recorded by spr biosensors.
+our latest product is scrubber, a program to
+						clean up biosensor data for analysis. it can zero and crop data,
+						align injection times, correct for dmso effects and fit binding
+						curves and offrates. 
+
+						the new version of scrubber extends the functions
+						of the program with the ability to analyse the kinetics of binding
+						to obtain rate constants.you can choose to fit a model for simple
+						binding to get values the association and dissociation rates or fit
+						a model for mass transport limited binding to also get the mass
+						transport rate. see the scrubber page for more
+						information.
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+biologic software
+abn 55 098 962 611
+			30 / 116 blamey crescent
+			canberra act 2612, australia
+			www.biologic.com.au
+
+
+navigate
+
+home
+scrubber
+downloads
+purchase
+links
+contact
+
+
+© copyright 2017 biologic software pty ltd.   design by styleshout.
+ 
+
+ 
+
+
+
+
+
+

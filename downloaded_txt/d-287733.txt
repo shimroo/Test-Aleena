@@ -1,0 +1,1397 @@
+
+
+
+
+
+
+
+
+
+brain research tm web page
+
+
+
+
+
+     brain research tm web page
+welcome, this site is an introduction to the brainresearch.com tm  effort to explore the fundamental nature of the brain and highlight applications that
+    provide insights for this research.
+external sense inputs:[ vision ] [ hearing ] [ smell ] [ touch ] [ taste ]
+sense signal communication: [ coded sense
+  information ]
+brain: [ memory ] [ consciousness ] [ cognition ] [ learning ] [ thought ] [ creativeness ]
+output actions: [ motor neurons ]
+background references: [ neuron cell anatomy and function ] [ dna protein sequences, neurotransmitter ][ biomolecular modeling, structure determination ] [ theoretical biophysics ] [ biological coding ]
+[ www.imetc.com - molecular
+  electronics ]
+
+
+
+
+
+external sense inputs: 
+
+
+                   vision sensing related hyperlinks:
+
+
+
+
+
+
+vision group publications
+
+
+the vision group at nasa ames research center
+
+
+stanford vision and imaging science and technology
+
+
+
+
+
+
+
+
+
+
+visual pathways in the brain
+
+
+
+
+
+
+
+
+
+computer vision home page
+
+vision science: the world-wide web virtual library
+
+
+computer vision home page
+
+
+how we see- the first steps of human vision
+
+
+visual system
+
+
+"webvision- the organization of the retina and visual
+              system"
+
+
+journal of vision
+
+
+hagfish research has found the “missing link” in the evolution of
+              the eye. see- nature reviews neuroscience.
+
+
+visionscience.com
+
+
+machine vision - the human vision model, one-dimensional
+              methods,...
+
+
+judging a color
+
+
+vision of a human compared to vision of
+              bee
+
+
+visual perception - wikipedia, the free encyclopedia
+
+
+the organization of the retina and visual system
+
+
+how do we see colors-
+
+
+sight theme page
+
+
+vision research resources
+
+
+
+
+
+
+
+
+
+
+computer vision home
+            page
+
+vision science: the world-wide web virtual library
+
+
+yahoo! - science:biology:vision
+
+
+computer vision home page
+
+
+pattern recognition information
+
+
+how we see- the first steps of human vision
+
+
+iase
+
+
+the physiology of the senses tutorial
+
+
+visual system
+
+
+"webvision- the organization of the retina and visual
+              system"
+
+
+journal of vision
+
+
+hagfish research has found the âmissing link??in the evolution of the eye.
+              see- nature reviews neuroscience.
+
+
+visionscience.com
+
+
+human-cap
+
+
+machine vision - the human vision model, one-dimensional
+              methods,...
+
+
+judging a color
+
+
+vision of a human compared to vision of
+              bee
+
+
+visual perception - wikipedia, the free encyclopedia
+
+
+the organization of the retina and visual system
+
+
+visual perception 3 - cultural and environmental factors
+
+
+how do we see colors-
+
+
+vision and colour
+
+
+human vision laboratory
+
+
+sight theme page
+
+
+vision research resources
+
+
+
+
+
+
+hearing ( auditory ) sensing related hyperlinks:
+
+
+
+
+ hearing and balance
+a brain map of
+          auditory space
+hearing
+          (sense)
+
+auditory system
+
+
+egopont hearing range test
+
+
+hearing theme page
+
+
+sense of hearing and balance - medical
+            look human anatomy
+
+
+elephant senses
+
+
+five sense of the human body poster series - sight, smell, touch
+            ...
+
+
+patts - anatomy of the ear
+
+
+neuroscience for kids - the ear
+
+
+
+
+smell ( olfactory ) sensing related hyperlinks:
+
+
+
+
+
+a taste of smell
+
+
+achems home page
+
+
+achems home page
+
+
+nasal ranger.com
+
+
+chirality & odour perception at leffingwell.com
+
+
+olfaction at leffingwell.com
+
+
+structure-odor relations- a modern perspective at flexitral.com
+
+
+olfaction at cf.ac.uk
+
+
+olfactory system
+
+
+olfaction - wikipedia, the free encyclopedia
+
+
+olfactory sense - medical look human anatomy
+
+
+the sense of smell- genomics of vertebrate odorant receptors
+          --...
+
+
+smell and taste and anosmia
+
+
+wpi hive- olfactory sense page
+
+
+jacobson's organ and the sixth sense
+
+
+the vivid world of odors
+
+
+smell - human versus animal smell
+
+
+how we smell | livescience
+
+
+how rats and mice and probably humans recognize odors
+
+
+
+
+touch ( tactile ) sensing  related hyperlinks:
+
+
+
+
+
+
+
+
+rirc u.s. laboratories
+
+
+tactile sensors
+
+
+a system for tactile sense through human sensory nerve
+              fiber
+
+
+3-dfinite-element models of human and monkey fingertips to
+              investigate ...
+
+
+nanotechnology skin to rival human touch
+
+
+army logistician (telepresence- harnessing the...
+
+
+neuroscience for kids - two point discrimination
+
+
+human auditory organs; their acoustic characteristics. ... tactile sense
+              of acoustical signals. ...
+
+
+clarifying the mechanism of tactile sense from an
+              engineering approach
+
+
+
+
+related hyperlinks: taste sensing 
+
+
+
+
+
+
+senselab home
+
+
+the sense of taste
+
+
+taste theme page
+
+
+researchers define molecular basis of human "sweet tooth" and
+          umami taste
+
+
+taste
+
+
+physiology of taste
+
+
+human taste thresholds are modulated by serotonin and
+          noradrenaline...
+
+
+neuroscience for kids - chemical senses
+
+
+the science of taste and smell
+
+
+digestive system - physiology of taste
+
+
+mit touch lab
+
+
+
+
+related hyperlinks: pheromone sensing
+
+
+ars | publication request- neurogenic and
+      neuroendocrine effects ... 
+    
+
+
+
+
+sense signal communication:
+coded sense information related hyperlinks:
+
+
+
+
+
+
+neural encoding laboratory
+
+
+modeling of orientation selectivity in the visual cortex 
+            
+
+
+
+
+
+
+
+
+
+laboratory of experimental and computational biology
+
+
+
+
+
+
+
+
+
+
+sense (molecular biology) - wikipedia, the free encyclopedia
+
+
+integrating information about movement
+
+
+information theory - wikipedia, the free encyclopedia
+
+
+human perception
+
+
+encoding and processing of sensory information
+
+
+natural sounds and neural coding laboratory
+
+
+rate coding and signal processing
+
+
+bu | bme | people | primary faculty | sen, kamal
+
+
+spike-based strategies for rapid processing
+
+
+optimal stimulus coding by neural populations using rate codes
+
+
+neural coding
+
+
+information-theoretic analysis of neural coding
+
+
+tutorial fhs hearing ii, sound localisation
+
+
+limits of population coding
+
+
+don h. johnson
+
+
+neuron
+
+
+optimization
+
+
+
+
+
+
+
+
+
+brain:
+
+
+
+
+memory
+brain memory books
+memory related hyperlinks:
+
+
+
+
+brain waves
+          predict successful memory for an event before it ...
+
+
+study skills memory principles
+
+
+researchers see brain memory
+
+
+memory and aging research center ucla
+
+
+mayo clinic - mayo clinic research shows that improving brain ...
+
+
+memory research group at nyu
+
+
+rat-brain controlled robot aids memory research | planetary gear ...
+
+
+science museum | your brain | memory
+
+
+bbc news | technology | rat-brain robot aids memory study
+
+
+brain memory
+
+
+memory and the brain
+
+
+the brain from top to bottom
+
+
+memory - mapping memory 3d interactive - national
+          geographic magazine
+
+
+memory matters
+
+
+
+a brief introduction to the brain-memory
+
+
+
+brainpictures
+
+
+the key institute for brain-mind research
+
+
+the whole brain atlas
+
+
+the brain as a neurocontroller:
+
+
+the world-wide
+          web virtual library: neuroscience (biosciences)
+
+
+the world-wide web virtual library: physiology & biophysics
+          (biosciences)
+
+
+the visible human project
+
+
+special section: mind/brain/ memory
+
+
+neuroscience for kids
+
+
+primate handedness and brain lateralization
+
+
+society for neuroscience
+
+
+decade of the brain home page (library of congress)
+
+
+brain connection: the brain and learning
+
+
+research on memory related to language acquisition
+
+
+research articles on memory related to language
+
+
+princeton - news - scientists create smart mouse
+
+
+whole brain catalog™
+
+
+
+
+ consciousness
+consciousness books
+  consciousness related
+  hyperlinks:
+
+
+consciousness research - neurotransmitter.net
+
+
+consciousness - wikipedia, the free encyclopedia
+
+
+consciousness (stanford encyclopedia of philosophy)
+
+
+brain and consciousness research - january 2009 archives
+
+
+center for consciousness center . tucson . arizona
+
+
+cognitive neuroimaging research unit - inserm 562 - unicog
+
+
+greatest mysteries- how does the brain work- | livescience
+
+
+strong ai - wikipedia, the free encyclopedia
+
+
+and corporation
+
+
+expanding frontiers of humanoid robots
+
+
+www.conscious-robots.com
+
+
+texai
+
+
+artificial general intelligence research institute
+
+
+www.eng.warwick.ac.uk
+
+
+the genesis group at mit's csail
+
+
+            cognition                            
+cognition books
+cognition related
+  hyperlinks:
+
+cognition and brain sciences unit
+max planck
+    society - cognition research
+leiden
+    institute for brain and cognition - research schools ...
+center for the neural basis of cognition - research in the
+    cnbc
+nia and mcknight brain research foundation
+    join forces to support ...
+donders institute for brain, cognition and behaviour - homepage
+    ...
+libc, leiden institute for brain and cognition
+information | bcbt - barcelona cognition, brain and technology
+    ...
+royal holloway, university of london -
+    department of psychology
+mit - brain and cognitive sciences -
+    research - cognitive science
+brain, cognition and development lab - dr. lisa s.
+    scott - the lab
+brain, cognition & behaviour - centre for
+    behaviour and evolution ...
+the importance of
+    neurological and cognitive research for reading ...
+ibm seeks to emulate
+    brain's cognitive abilities in a computer ...
+uc davis- center for mind and brain - cognitive
+    neurolinguistic ...
+perception/cognition
+the center for the neural basis of
+    cognition
+http://www.thymos.com
+metcalfe
+    lab
+cognition and brain sciences unit
+street map of the mind: mapping the
+    cortex with conventional mri
+
+          learning
+        learning books
+learning related hyperlinks:
+
+center for the neurobiology of learning &
+    memory
+astromind is a brain power focus and
+    memory improvement and iq test
+teachers.net releases new brain-based
+    learning chatboard and...
+
+mrc cbu, cambridge ? articles listed by year of publication
+
+
+evidence for a two-stage model of human perceptual learning found using
+      ...
+
+
+learning tools - selected sites toolkits
+
+
+human motor control section
+
+
+laboratory for action representation and learning
+
+
+the society for neuroscience
+
+
+braininfo for neuroanatomy
+
+
+the brain from top to bottom
+
+
+scientists have captured first-time images of the changes in
+      brain cell connections following a common form of learning.
+
+
+scientists are able to identify what a person is looking at by
+      monitoring brainscans.
+
+
+brain - wikipedia, the free encyclopedia
+
+
+brainconnection- the brain and learning
+
+
+neural networks, the human brain and learning ... how
+      the human brain learns?
+
+
+human brain works heavy statistics learning language
+
+
+how can research on the brain inform education-
+
+
+education & learning
+
+
+learning - wikipedia, the free encyclopedia
+
+
+ thought
+     thought books
+                thought related hyperlinks:
+
+
+hbcts9.html
+
+ brain basics- know your brain- national institute
+    of neurological ...
+
+
+brain, brain information,
+      facts, news, photos - national geographic
+
+
+the secret life of the brain
+
+
+university of cambridge
+
+
+jan. 3- carnegie mellon study identifies where thoughts of
+      familiar...
+
+
+number of neurons in a human brain
+
+ human brain can recognize objects much faster than some
+    have thought
+
+ brain
+
+
+ibm news - 2005-06-06 blue brain’ project explores thought
+      at...
+
+
+human brain appears "hard-wired" for hierarchy, april23, 2008
+      news...
+
+
+the human brain - more than a thinking machine.
+
+
+ 
+
+      
+    
+creativeness
+creativeness books
+
+creativeness related hyperlinks:
+
+
+creativity on the web
+
+
+the human nervous system - biology online
+
+
+creativity
+
+
+usc college of letters, arts, &amp; sciences -- brain and creativity
+          ...
+
+
+culture
+
+
+
+
+
+
+
+output actions:
+motor
+      neurons                      
+motor neurons books
+motor neurons related hyperlinks:
+
+
+
+
+theoretical biophysics technical report abstracts
+
+
+the neurons in the brain cannot implement symbolic
+              systems
+
+
+mind over matter teacher's guide introduction and
+              background
+
+
+theory of the locomotion of nematodes: control of the somatic motor neurons
+              by interneurons
+
+
+neurons
+
+
+motor neuron - wikipedia, the free encyclopedia
+
+
+human physiology - neurons & the nervous system ii
+
+
+science in motion (wtn news)
+
+
+common input to motor neurons innervating the same and
+              different...
+
+
+
+
+
+
+
+          genome bioinformatics links:
+
+
+simgene a free molecular biology and online bioinformatics tools
+portal multiple sequence alignment tools free sequence analysis tools free primer design
+      software online plasmid drawing tools
+
+
+complexity issues in bioinformatics
+
+
+bioinformatics- human genome research in
+      progress
+
+
+oxford journals | life sciences | bioinformatics
+
+
+bioinformatics news at unc charlotte bioinformatics@unc charlotte
+
+
+bioinformatics strategy and issues
+
+
+bioinformatics.org- the open-access institute
+
+
+bioinformatics team, cvs and cir, university of edinburgh- home
+
+
+bsp -- current bioinformatics home page
+
+
+bioinformatics at stanford
+
+
+bioinformatics & biological computing home
+
+
+bioinformatics research center- partnering
+
+
+background references:
+1. neuron cell anatomy and function
+related hyperlinks:
+
+
+neuroscience faculty and their research interests
+
+
+peter sterling, phd (10-dec-1995)
+
+ large scale analysis of neural
+    structures
+the molecular repair of the brain
+the world-wide web virtual library: neuroscience
+    (biosciences)
+
+5. the neuron
+
+
+neuron online
+
+
+whole brain catalog™
+
+
+2. dna, protein
+  sequences, neurotransmitter
+related hyperlinks:
+
+
+penn state chemistry faculty
+
+
+gene center faculty
+
+
+welcome to expasy
+
+http://www.ebi.ac.uk/databases/
+ scripps.edu
+
+
+saccharomyces cerevisiae - bacterial dna-packaging
+
+
+3. biomolecular modeling, structure determination, design
+related hyperlinks:
+
+
+nsf grand challenge application groups
+
+ grand challenge applications: molecular biology and biomedical
+    imaging
+
+nmr laboratory
+biochemistry, biophysics and molecular biology
+    faculty
+  webelements
+
+4. theoretical
+  biophysics related hyperlinks:
+
+theoretical biophysics group home page
+vmd home page
+ http://rutchem.rutgers.edu
+
+
+beckman institute theoretical biophysics computational
+      facilities
+
+
+theoretical biophysics collaborators
+
+ computational tools
+
+molecular evolution 
+
+5. biological
+  coding related hyperlinks:
+background references:
+1. neuron cell anatomy and function
+
+  2. dna, protein sequences, neurotransmitter
+
+  3. biomolecular modeling, structure determination, design
+
+4. theoretical biophysics
+5. biological coding
+
+solid state memory and computing: hyperlinks:
+
+
+what comes after hard drives
+
+
+16 gb samsung's flash solid state disk to replace hard drives
+
+
+toshiba develops new mram device which opens the way to giga-bits capacity
+
+
+epson and fujitsu announce joint development of next-generation
+technology for fram non-volatile memory
+
+
+samsung unveils world's first 16-gigabit nand flash memory chip
+
+
+new computer revolution is around the corner - the world's first 16-mbit magnetic ram
+      prototype
+
+
+sandisk ships flash memory cards with 64 gigabit x4 nand technology
+
+
+toshiba adds 32nm msata and half-slim solid state drive modules
+
+
+intel, micron achieve industry’s most efficient nand product using
+      3-bit-per-cell technology
+
+
+toshiba to launch first sdxc memory card
+
+
+intel delivers industry's first 34-nanometer nand flash solid-state drives
+
+
+toshiba and nec develop world's fastest, highest density mram
+
+
+toshiba and nec develop key technologies for high-density mram
+
+
+infineon presents cutting edge research results in non-volatile memory technologies
+
+
+researchers simplify fabrication of nano storage, chip-design tools
+
+
+a billion year ultra-dense memory chip (w-video)
+
+
+vise squad putting the squeeze on a crystal leads to novel electronics
+
+
+self-programming hybrid memristor-transistor circuit could continue moore's
+      law
+
+
+'colossal' magnetic effect under pressure
+
+
+researchers move closer to new class of memory
+
+
+graphene holds promise for spintronics
+
+
+remembering the future
+
+
+researchers improve ability to write and store information on electronic devices
+
+
+physicists find way to control individual bits in quantum computers
+
+
+working out a timescale for quantum operations
+
+
+elements reference and nanotechnology
+  science news: hyperlinks:
+
+
+ae notes
+
+
+human bionics: hyperlinks:
+
+ bionics - wikipedia, the free encyclopedia
+otto schmitt - wikipedia, the free encyclopedia
+the otto h. schmitt home page
+ ideas to be stolen
+main page otto schmitt foundation site
+the $6 billion (hu)man is becoming reality, as bionics
+    restores or expands humans' abilities
+ www.neuralsignals.com
+medical bionics conference 2008 medical bionics - a new paradigm for human
+    health
+
+human simulations: hyperlinks:
+
+
+teacherbot turing test simulation
+
+
+youtube - peter molyneux project natal e3 2009
+
+
+siliconera ? scea
+      experimenting with “laugh detecting”, emotional tracking software
+
+
+robotics applications: hyperlinks:
+
+
+the robotics institute of cmu
+
+
+nasa robotics - robotics alliance project
+
+
+ria - robotics online - your #1 online resource for industrial robotics ...
+
+
+robotics
+
+
+arrick robotics automation and mobile robots ...
+
+
+mobility and robotic systems ... welcome to the jpl robotics website
+
+
+stanford artificial intelligence laboratory
+
+
+industrial robots and factory automation equipment - epson
+      robotics
+
+university of california at berkeley. research topics include medical
+    robotics,
+adaptation and learning, micromechanical flying insects, micro-robotics, and aerobots. ...
+    robotics and intelligent machines research in eecs...
+
+robotics at the university of central florida
+
+
+robotics technology
+
+
+robotics : - lugnet: the international fan-created lego? users group
+      network.
+
+
+pyro, python robotics- pyro
+
+
+sciencedaily- robot news
+
+
+jpl robotics- home page
+
+
+http://mindstorms.lego.com/
+
+
+applications:
+www search engines
+blogging communities:
+related hyperlinks:
+
+
+artificial intelligence and robotics
+
+
+trossen robotics blog
+
+
+microsoft robotics blog
+
+
+robotics blog - news of the robot world
+
+
+robots -- engadget
+
+
+classroom robotics
+
+
+automaton- ieee spectrum's blog on robots and robotics technology
+
+
+robotics for all
+
+
+international aerial robotics competition
+
+
+robots.net - robot news and robotics info
+
+
+robotics technology | blogs
+
+
+institute for personal robots in education blog | a robot on every ...
+
+
+robotics technology blog - information, comments, reviews ...
+
+
+southwest robotics blog
+
+
+trossen robotics blog- information from answers.com
+
+
+cr4 - blog- robotics systems blog
+
+
+a must-have robot - freakonomics blog - nytimes.com
+
+
+robot blogs - blog flux blog directory
+
+
+singularity hub - a blog about longevity, nanotech, robotics ...
+
+
+robotics- blog - business exchange
+
+
+oomlout
+
+
+robot overlord
+
+
+if you can't beat 'em, join 'em- think robotics -
+      devx blog
+
+
+microsoft robotics video tutorials ~ eda blog
+
+
+new space robotics blog for students - challenger center teams up ...
+
+
+new scientist technology blog- wrestling
+      with robot snakes - new ...
+
+
+popular science blog - robot round-up
+
+
+robotics blog posts - blog top sites
+
+
+robotics planet - daily blog posts about robotics
+
+
+robotgrrl.com
+
+
+microsoft robotics
+
+
+curious cat science and engineering blog ? first
+      robotics in minnesota
+
+
+robotics - simple thoughts- java & web technology blog
+
+
+greg galitzine's voip authority blog- robotics archives
+
+
+embedded robotics - embedded processing - blog on edn - 1890000189
+
+
+blogs.com
+
+
+applications:
+theory and hypothesis:
+figure 1 - simplified
+  neural logic block diagram
+ figure 2- vision sense logic
+  diagram
+ figure 3 - memory logic
+  diagram
+ figure 4 - neural thought
+  and learning logic diagram
+ figure 5 - learning methodology
+  diagram
+ figure 6 - living system
+  organization chart
+ creative process
+www search engines
+weather reports:
+related hyperlinks:
+
+  um weather
+
+stock market research, charts and reports:
+related hyperlinks:
+
+us securities and exchange commission 
+the nasdaq stock market 
+reuters group plc home 
+stock-trak stock market game,investments options
+    futures 
+guide to stock
+    research 
+hoover's online - advanced search
+    stockscreener
+
+fool.com - stock investing advice
+
+stock research wizard - msn
+    money 
+stock market news - breaking stories and headlines at
+    cnnmoney.com 
+http://finance.yahoo.com/ 
+stock research center - yahoo! finance - company reports, analyst
+    ... 
+cohen independent research group - stock research, stock
+    market,... 
+morningstar stocks stock quotes and stock market
+    research 
+stock market- stock market research
+    & trading at sharebuilder.com 
+
+stock market research investment community & virtual trading
+      -...
+
+
+ 
+please volunteer your feedback for any improvements to admin@imetc.com
+
+,
+  this site was created on december 1, 1996. the last update was on january 29, 2023
+   
+  copyright 1996 - 2023   international molecular electronics technology corporation.
+  all rights reserved.
+
+
+registrant educational materials icann
+ 
+    
+registrants' benefits and responsibilities
+      icann
+
+hyperlinks to other sites, copyright and disclaimer notice
+privacy
+
+
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

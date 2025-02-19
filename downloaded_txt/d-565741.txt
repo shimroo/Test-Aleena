@@ -1,0 +1,542 @@
+
+
+
+
+
+
+
+
+
+cipherdyne.org | system and network security
+
+
+
+
+
+
+
+
+
+
+cipherdyne.org
+michael rash, security researcher
+
+
+
+
+home
+blog
+software
+author
+contact
+
+
+
+
+
+
+
+
+
+
+
+software release: fwknop-2.6.11
+
+06 february, 2024
+the 2.6.11 release of fwknop is available for
+download (or via the
+github release tag).
+here is the complete
+changelog:
+
+
+[server] (amin massad) fixed two bugs in pf handling code - one for
+indefinitely repeating error messages "did not find expire comment in
+rules list 0" in rule deletion code, and the second where min_exp was
+not computed correctly for min_exp equal to zero. see github issue #295.
+[server] add allow_any_user_agent for enable_spa_over_http mode so that
+fwknopd will accept any user-agent string coming from the client. by
+default this is disabled, so only spa packets with a user-agent string
+that begins with 'fwknop' will be accepted. just set this variable to
+'y' to override this. then, on the fwknop client command line, use the
+--user-agent option to specify any desired user-agent string. this
+feature was added to close issue #296 reported by github user
+@fishcreek.
+[apparmor] (francois marier) various fixes to the apparmor profile to
+support recent versions of debian and ubuntu.
+[test suite] add gpg.conf and gpg-agent.conf to set 'pinentry-mode
+loopback' to restore gpg full cycle tests. this works with gpg 2.2.27 on
+ubuntu 22.04 for example.
+[test suite] prefer the 'ip' command over the older 'ifconfig' command
+for interface operations and loopback detection.
+[test suite] update the 'spa_fuzzing.py' fuzzer to use python3.
+
+
+06 february, 2024
+| port knocking and spa
+| fwknop
+| software releases
+| by: michael rash
+
+wireguard, macos, and linux virtual machines
+
+06 october, 2018
+(the primary material for this blog post was
+released on github. i'm reproducing
+part it here as a blog post.)
+
+over the long term, the wireguard vpn is set to send shockwaves
+through the vpn community with its modern cryptographic design, performance, stealthiness against
+active network scanners, and commitment to security through a minimally complex code base. it is
+my belief that these characteristics firmly place wireguard among the best vpn options available.
+over time, it is likely that commercial solutions will be developed around wireguard similarly to
+commercial wrappers around openvpn.
+
+this repository is dedicated to deploying a wireguard vpn on macos via a linux vm running
+under a virtualization solution such as parallels. there are many alternatives to this
+approach - including omitting the linux piece altogether and using the cross-platform macos
+wireguard tools - but i'm interested in using the
+wireguard kernel module from a mac. this has to be done from a linux vm or container, and we'll
+talk about the vm route in this write up.
+
+the primary use case for running such a vpn solution is to provide security for network traffic
+emanating from a mac laptop that is connected to a potentially hostile wireless network. this
+includes the network at the local coffee shop among many others. nothing against coffee shops of
+course (i love coffee), but they are in the business of making wonderful caffeinated potions - not
+hardening their network infrastructure against adversaries. in terms of general threats to network
+traffic, a properly deployed vpn allows you to shift much of the security burden to the other side
+of the vpn. in this case, the remote wireguard end point will be deployed in a major cloud provider
+or isp network. the security of, say, google's gce network or amazon's aws network is far higher
+than the network of the local coffee shop.
+
+note macos security is a broad topic, and this repository is meant only to discuss a vpn
+solution based on wireguard. for a comprehensive treatment of macos security, including other
+vpn options, see the excellent
+macos security and privacy guide.
+
+prerequisites
+to fully implement wireguard in this manner, we'll assume the following:
+
+
+an ubuntu linux vm is running under parallels on a mac laptop. wireguard will run from
+    this vm, and will constitute the "client" side of the vpn.
+the mac laptop will be connected wirelessly to the network at the local coffee shop, and
+    have an ip assigned via dhcp as usual.
+the "server" side of the wireguard vpn is an ubuntu system running on a major cloud
+    provider with an internet-facing ip address.
+wireguard has been [installed](https://www.wireguard.com/install/) on both ubuntu vm's,
+    and key pairs have been [generated and shared](https://www.wireguard.com/quickstart/).
+wireguard client - mac laptop hostname and ip addresses:
+mac laptop hostname: maclaptop
+mac laptop wireless ip on the coffee shop network: 192.168.0.54, interface: en0
+mac laptop virtual nic ip (under parallels): 10.211.44.2, interface: vnic0
+mac laptop ubuntu vm wireguard hostname: wgclientvm, ip: 10.211.44.31
+mac laptop ubuntu vm wireguard ip: 10.33.33.2, interface: wg0
+wireguard server - ubuntu system hostname and ip addresses:
+hostname: wgserver
+ip: 1.1.1.1, interface: eth0
+wireguard ip: 10.33.33.1, interface: wg0
+
+graphically, the network setup looks like this:
+
+
+
+for the remainder of the writeup, head on over to the
+github repository.
+
+06 october, 2018
+| network security
+| by: michael rash
+
+software release: fwknop-2.6.10
+
+06 august, 2018
+the 2.6.10 release of fwknop is available for
+download (or via the
+github release tag).
+here is the complete
+changelog:
+
+
+[server] add max_fw_timeout to access.conf stanzas to allow a maximum
+number of seconds for client-specified timeouts in spa packets. this
+fixes issue #226 which was spotted by jeremiah rothschild.
+[server] bug fix in cmd_exec mode to make sure to call exit() upon any
+error from execvpe(). without this fix, additional fwknopd processes
+would be started upon a user specifying a command without the necessary
+permissions. this bug was reported by stephen isard.
+[build] jã©rã©mie courrã¨ges-anglas and ingo feinerer contributed a patch
+to fix endian detection on openbsd systems based on information
+contained here: https://www.opengroup.org/austin/docs/austin_514.txt
+[client/server] (michael stair) added client and server infrastructure
+written in erlang. see the erlang/ directory.
+
+
+06 august, 2018
+| port knocking and spa
+| fwknop
+| software releases
+| by: michael rash
+
+software release: psad-2.4.6 and fwsnort-1.6.8
+
+31 july, 2018
+a pair of software releases is available for download -
+psad-2.4.6 and fwsnort-1.6.8.
+the main change is that now both pieces of software support the snort 'metadata'
+keyword. this keyword and associated field is a common fixture of modern snort rule
+sets, and usually contains important data such as ips policy preferences, information
+about vulnerable target software or os, date created, and more.
+
+as an example, when fwsnort detects tcp traffic over port 21 that matches the snort rule
+"et attack_response ftp inaccessible directory access com2" (sid 2000500), the
+following syslog message is generated:
+
+jul 30 21:24:44 moria kernel: [650982.555939] [1] sid2000500 estab in=enx0014d1b0da65 out= mac=00:12:34:56:78:65:60:e3:27:39:12:34:56:00 src=192.168.10.11 dst=192.168.10.1 len=59 tos=0x00 prec=0x00 ttl=63 id=0 df proto=tcp spt=58801 dpt=21 window=4117 res=0x00 ack psh urgp=0 opt (0101080a4538966a09b20fbc)
+
+when psad monitors this out of the syslog data, an email alert is generated as usual.
+however, in this email alert the metadata 'created_at' and 'updated_at' fields are now
+included as defined in the original rule:
+
+   "et attack_response ftp inaccessible directory access com2"
+          dst port:  21 (no server bound to local port)
+          flags:     ack psh
+          content:   "/com2/"
+          content:   "/com2/"
+          sid:       2000500
+          chain:     fwsnort_input_estab
+          packets:   36
+          classtype: string-detect
+          reference: (url) http://doc.emergingthreats.net/bin/view/main/2000500
+          reference: (url) http://doc.emergingthreats.net/bin/view/main/2000500
+          created_at 2010_07_30
+          updated_at 2010_07_30
+
+
+31 july, 2018
+| software releases
+| by: michael rash
+
+software release: fwknop-2.6.9
+
+08 june, 2016
+the 2.6.9 release of fwknop is available for
+download (or via the
+github release tag).
+here is the complete
+changelog:
+
+
+(jonathan bennett) added support for the sha3 "keccak" algorithm
+(specifically sha3_256 and sha3_512) for spa hmac and digest checking.
+enabling sha3 from the fwknop client command line is done with the -m
+option for the embedded spa digest, or with the --hmac-digest-type
+argument for the hmac. on the server side, sha3_256 or sha3_512 can be
+required for the incoming spa packet hmac via the hmac_digest_type
+configuration variable in access.conf stanzas. the sha3 implementation
+is from, keyak and ketje teams, namely, guido bertoni, joan daemen,
+michael peeters, gilles van assche and ronny van keer - see:
+http://keyak.noekeon.org/
+(damien stuart) added support for libnetfilter_queue so that fwknopd can
+acquire spa packets via the nfq target. this feature is enabled with a
+new command line switch --enable-nfq-capture for the configure script,
+and libpcap is not required in this mode. in support of capturing spa
+packets via the nfq target, new configuration variables have been added
+to the fwknopd.conf file: enable_nfq_capture, nfq_interface, nfq_port,
+nfq_table, nfq_chain, nfq_queue_number, and nfq_loop_sleep.
+(vlad glagolev) added support for deriving the source ip from the
+x-forwarded-for http header when spa packets are sent over http
+connections.
+bug fix in command open/close cycle feature to ensure that the first
+successful match on a valid incoming spa packet finishes all access.conf
+stanza processing. that is, no other stanzas should be looked at after
+the first match, and this is consistent with other spa modes (such as
+basic access requests). this bug was reported by jonathan bennett.
+(jonathan bennett) various fixes and enhancements to the test suite to
+extend code coverage to new code, ensure valgrind bytes lost detection
+works for amount of memory less than 10 bytes, better timing strategy
+for fwknop client/server interactions, and more.
+
+
+08 june, 2016
+| port knocking and spa
+| fwknop
+| software releases
+| by: michael rash
+
+single packet authorization and third party devices
+
+23 december, 2015
+a major new feature in fwknop has been introduced today with the
+2.6.8 release
+(github tag) - the
+ability to integrate with third-party devices. this brings spa operations easily to
+any device or software that offers a command line interface. by default,
+the fwknop daemon supports four different firewalls: iptables, firewalld, ipfw, and pf.
+but, suppose you want to have fwknopd leverage
+ipset instead? or, suppose you have an
+ssh pre-shared key between a linux system and a cisco router, and you want fwknopd
+(running on the linux box) to control the acl on the router for the filtering portion of
+spa? finally, suppose that you want a stronger measure of protection for an ssh daemon
+that may have been backdoored, and that runs on a
+proprietary os where fwknopd can't be deployed natively? the sky is the limit, and
+i would be interested in hearing about other deployment scenarios.
+
+these scenarios and many others are now supported with a new "command open/close cycle"
+feature in fwknop-2.6.8. essentially, fwknopd has the ability to execute an arbitrary command
+upon receiving a valid spa packet (the "open"), and then execute a different command after a
+configurable timeout (the "close"). this allows fwknopd to integrate with any third-party
+device or software if open and close commands can be defined for how to interact. these
+commands are specified on a per-stanza basis in the access.conf file, and a set of variable
+substitutions are supported such as '$src', '$port',
+'$proto', and '$client_timeout'. naturally, the ip address, port, and
+protocol are authenticated and decrypted out a valid spa packet - i.e., spa packet headers
+are not trusted.
+
+let's see an example on a linux system ("spaserver"). here, we're going to have fwknopd interface with
+ipset instead of iptables. first, we'll create an ipset named fwknop_allow,
+and we'll link it into the local iptables policy. if a packet hits the
+fwknop_allow ipset and there is no matching source ip, then the drop rule at the
+end of the iptables policy implements the default-drop policy. no userspace daemon such
+as sshd can be scanned or otherwise attacked from remote ip addresses without first
+producing a valid spa packet.
+
+[spaserver]# ipset create fwknop_allow hash:ip,port timeout 30
+[spaserver]# iptables -a input -m conntrack --ctstate established,related -j accept
+[spaserver]# iptables -a input -m set --match-set fwknop_allow src,dst -j accept
+[spaserver]# iptables -a input -j drop
+
+
+now, we create a stanza in the fwknop /etc/fwknop/access.conf file and fire up
+fwknopd like this:
+
+[spaserver]# cat /etc/fwknop/access.conf
+source            any
+key_base64        <base64 string>
+hmac_key_base64   <base64 string>
+cmd_cycle_open    ipset add fwknop_allow $src,$proto:$port timeout $client_timeout
+cmd_cycle_close   none
+
+[spaserver]# service fwknopd start
+
+
+with fwknopd running and iptables configured to drop everything except for ip
+communications that match the fwknop_allow ipset, let's use the fwknop client
+from a remote system "spaclient" to gain access to sshd on the server for 30 seconds
+(note that the iptables conntrack module will keep the connection open after the spa
+client ip is removed from the ipset). we'll assume that the encryption and hmac keys
+have been previous shared between the two systems, and on the client these keys have
+been written to the "spaserver" stanza in the ~/.fwknoprc file:
+
+[spaclient]$ fwknop -a tcp/22 -a 1.1.1.1 -f 30 -n spaserver
+[spaclient]$ ssh user@spaserver
+[spaserver]$
+
+
+so, behind the scenes after the spa packet has been sent above, fwknopd on the server has
+authenticated and decrypted the spa packet, and has executed the following ipset command.
+in this case, there is no need for a corresponding close command because ipset implements
+the timer provided by the client itself, so the client ip is deleted from the ipset
+automatically. (in other scenarios, the close command can be fully specified instead of
+using the string 'none' as we have above.) here are the syslog messages that
+fwknopd has generated, along with the
+'ipset list' command output to show the 1.1.1.1 ip as a member of the set:
+
+[spaserver]# grep fwknopd /var/log/syslog |tail -n 2
+dec 23 15:38:06 ubuntu fwknopd[13537]: (stanza #1) spa packet from ip: 1.2.3.4 received with access source match
+dec 23 15:38:06 ubuntu fwknopd[13537]: [1.2.3.4] (stanza #1) running cmd_cycle_open command: /sbin/ipset add fwknop_allow 1.1.1.1,6:22 timeout 30
+
+[spaserver]# ipset list
+name: fwknop_allow
+type: hash:ip,port
+revision: 5
+header: family inet hashsize 1024 maxelem 65536 timeout 30
+size in memory: 224
+references: 0
+members:
+1.1.1.1,tcp:22 timeout 27
+
+
+in addition to the ability to swap out the existing firewall with a completely
+different filtering infrastructure, there are other notable features and fixes in the
+2.6.8 release. the most important of these is a new feature implemented by jonathan bennett
+(and suggested by hank leininger in github issue
+#62)
+that allows access.conf files to be imported via a new '%include' directive.
+this can be advantageous in some scenarios by letting non-privledged users define
+their own encryption and authentication keys for spa operations. this way, users do
+not need write permissions to the main /etc/fwknop/access.conf file to change keys
+around or define new ones.
+
+the complete changelog is available here, and the current test suite has achieved
+90.7% code coverage (measured by lines).
+
+23 december, 2015
+| port knocking and spa
+| fwknop
+| software releases
+| by: michael rash
+
+software release: fwknop-2.6.7
+
+24 august, 2015
+
+
+the 2.6.7 release of fwknop is available for
+download (or via the
+github release tag).
+this release adds significant support for running commands delivered by spa packets via
+'sudo' on the server, and this allows the powerful 'sudoers' syntax to filter commands
+that remote users are allowed to execute.
+
+in addition, the --key-gen (key generation) mode has been added to
+fwknopd. this will allow better integration with jonathan bennett's
+fwknop2 android client - particularly
+when only the fwknopd server is installed on a system (as is usually the case for embedded
+distributions such as openwrt). further, jonathan contributed a
+console qr code generator, so that fwknop encryption and hmac keys can be imported into
+the fwknop2 android client via the phone's camera. here is an example:
+
+
+$ fwknopd --key-gen | ./extras/console-qr/console-qr.sh
+
+
+
+in other news, jonathan and i will be giving a lengthy interview on
+single packet authorization with fwknop for the
+floss weekly show organized by the venerable
+randal schwartz
+of perl fame. tune in september 2nd at 11am eastern time.
+
+
+as usual, fwknop has a coverity scan score of zero,
+and the code coverage report achieved by the 2.6.7 test suite is available
+here. note that the fwknop test suite is now
+achieving 90% code coverage counted by lines, and 100% code coverage counted by
+functions. this reflects the commitment the fwknop project makes towards rigorous
+security and testing quality.
+
+here is the complete
+changelog for fwknop-2.6.7:
+
+
+[server] when command execution is enabled with enable_cmd_exec for an
+access.conf stanza, added support for running commands via sudo. this was
+suggested by github user 'freegigi' (issue #159) as a means to provide
+command filtering using the powerful sudoers syntax. this feature is
+implemented by prefixing any incoming command from a valid spa packet
+with the sudo command along with optional user and group requirements
+as defined by the following new access.conf variables:
+enable_cmd_sudo_exec, cmd_sudo_exec_user, and cmd_sudo_exec_group.
+[server] kevin layer reported a bug to the fwknop mailing list that
+simultaneous nat access for two different access.conf stanza was not
+functioning properly. after some diagnosis, this was a result of
+rule_exists() not properly detecting and differentiating existing dnat
+rules from new ones with different port numbers when 'iptables -c'
+support is not available. this was against iptables-1.4.7, and has been
+fixed in this release of fwknop (tracked as issue #162).
+[server] added --key-gen to fwknopd. this feature was suggested by
+jonathan bennett, and will help with ease of use efforts. the first
+platform to take advantage of this will likely be openwrt thanks to
+jonathan.
+[server] by default, fwknopd will now exit if the interface that it is
+sniffing goes down (patch contributed by github user 'sgh7'). if this
+happens, it is expected that the native process monitoring feature in
+things like systemd or upstart will restart fwknopd. however, if fwknopd
+is not being monitored by systemd, upstart, or anything else, this
+behavior can be disabled with the exit_at_intf_down variable in the
+fwknopd.conf file. if disabled, fwknopd will try to recover when a
+downed interface comes back up.
+[extras] added a script from jonathan bennett at
+extras/console-qr/console-qr.sh to generate qr codes from fwknopd
+access.conf keys.
+[build] added --with-firewalld to the autoconf configure script. this is
+a synonym for --with-firewall-cmd to avoid confusion. some package
+maintainers use --with-firewalld to build fwknop.
+
+
+24 august, 2015
+| port knocking and spa
+| fwknop
+| software releases
+| by: michael rash
+
+
+
+
+
+
+
+
+software
+
+fwknop
+afl-cov
+psad
+fwsnort
+gpgdir
+iptables::parse
+iptables::chainmgr
+
+
+
+
+
+
+
+
+
+linux firewalls book
+
+tweets by michaelrash 
+
+
+
+recent blog posts
+
+software release: fwknop-2.6.11
+wireguard, macos, and linux virtual machines
+software release: fwknop-2.6.10
+software release: psad-2.4.6 and fwsnort-1.6.8
+software release: fwknop-2.6.9
+single packet authorization and third party devices
+software release: fwknop-2.6.7
+android fwknop2 client and openwrt
+archives...
+
+categories
+
+port knocking and spa (49)
+ids and iptables (25)
+network security (3)
+publications (20)
+programming (10)
+dns (3)
+git (3)
+system administration (4)
+conference talks (22)
+software releases (130)
+in the news (27)
+trac (4)
+more...
+
+
+
+
+
+
+
+
+
+
+
+terms of use
+copyright © 2001-2012 michael rash.
+design by andreas viklund.
+
+
+
+
+
+
+

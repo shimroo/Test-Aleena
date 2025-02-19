@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+sos web services | forward into the future
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+about
+services
+
+web hosting
+internet and email access
+networking
+apple mac
+pc sales and support
+
+
+contact
+ 
+
+
+select page
+
+
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+webdevelopment – management – hosting – marketing – domains 
+
+
+
+
+
+
+
+
+internet access every internet access product 
+
+
+
+
+
+
+
+
+apple mac authorized apple reseller 
+
+
+
+
+
+
+
+
+pc sales – support – servicing 
+
+
+
+
+
+
+
+
+networking managed support solutions for any size network 
+
+
+
+
+
+
+
+
+
+
+sos support news board
+
+
+
+
+
+how to clear a pop mailbox using webmail
+if your pop mailbox is full you can delete old mail via the webmail interface. download the how to document here
+note if your mail program is leaving read mail on the server that will fill the mail box up. pop mailboxes are limited in size and all email needs to be saved or backed up from your pc as it is not kept on the server. you should set the days your mail client leaves the mail on the server accordingly and this document will help with the setting.
+
+sos support : email problem : ensure correct server settings
+please ensure that your pc email account server settings are not set as an ip address (41.222.34.204) as that ip will be removed and you will no longer receive email from that server. mail server settings need to be set as a name that is linked to your email address so for example:
+ bob@sos.co.za will have both the incoming and outgoing servers set to mail.sos.co.za, likewise fred@sosdns.co.za will need to have the servers set to mail.sosdns.co.za and so on.
+ please check and ensure that this is the case with your email settings to ensure you continue to receive email.
+
+sos support : email problem : unable to send email but am receiving ok.
+there is an understandable crackdown on mail sending via port 25 due to the proliferation of spam so if you experience this issue change your outgoing port from 25 to 587.
+account settings > change > more settings > advanced : outgoing server (smtp): 587
+(click on the image to enlarge)
+
+ 
+
+
+
+
+
+
+
+web
+
+domain name services, web development, website hosting, search engine optimisation, marketing
+
+sos is a zacr accredited registrar, offering free transfer for any existing domain names to our servers. in addition we provide competitively priced turnkey, professional website development and hosting, seo, and social media services. all of our hosting servers are locally based, and our focus is on the requirements of our customers.
+
+
+
+
+
+
+
+complete web site solutions
+
+register your domain name
+set your domain up on our server
+design and develop the website to your requirements (websites are compatible with all screen sizes and mobile devices)
+publish your website on our secure server
+connect your website to social media
+continue to host, maintain and update your website as needed
+
+
+
+
+
+
+
+
+
+
+internet access and email
+
+connecting you and your business to the internet
+
+sos supplies internet connectivity via all current mediums for any home and business application. we are constantly researching and testing the latest products as they come to market to ensure we provide the right solution for your requirements and will only offer a product we know will do what you expect of it.
+
+
+
+
+
+
+
+internet access:
+
+fibre to the home (ftth)
+business enterprise fibre (1:1, sla)
+broadband fibre
+airfibre
+wireless access
+lte
+5g
+
+email
+
+ms office 365 mail accounts
+pop3 local mailbox accounts
+soskeep 365 backup and archive solutions
+
+
+
+
+
+
+
+
+
+pc sales and support
+
+sales, support, servicing and maintenance of pc equipment and software
+
+sos has aligned itself with various major brands that meet our standards for quality, support and availability. we supply, install and provide ongoing support and maintenance to all our products on an ad-hoc or sla basis.
+
+
+
+
+
+
+
+
+servers
+
+linux servers
+microsoft servers
+
+computers 
+
+windows based pc, laptops, netbooks and mobile devices
+peripherals and accessories
+printers
+
+software
+
+microsoft operating systems
+microsoft office and office 365
+microsoft authorised education reseller
+adobe creative cloud
+adobe educational software
+
+antivirus
+
+eset nod antivirus for personal and business applications
+
+
+
+
+
+
+
+
+apple
+
+sales and support of apple tech and software
+
+sos is an authorized apple reseller. we supply all apple mac computing products and devices as well as provide on-site installation and support as required.
+
+
+
+
+
+
+
+we love apple! the reason apple is so awesome? the brand shows fanatical attention to detail, and steve jobs nailed it when he said: “quality is more important than quantity. one home run is much better than two doubles.” “details matter, it’s worth waiting to get it right.” “be a yardstick of quality. some people aren’t used to an environment where excellence is expected.” and our personal favorite: “i want to put a ding in the universe.”
+
+
+
+
+
+
+
+
+networking
+
+turnkey network solutions
+
+sos will supply, install and configure network hardware for both cable and wireless networks.
+
+
+
+
+
+
+
+
+networking 
+
+managed support solutions for any size network
+maintenance on a ad-hoc or sla basis
+network cabling
+wireless lan installations
+byod
+
+management 
+
+it management consultants
+network security
+network optimisation and upgrades
+it solutions
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+services
+apple mac
+domain name management
+domain name registration
+internet access and email
+networking
+pc sales and support
+web hosting
+ 
+ 
+
+
+
+about
+about us
+bee certification
+contact us
+privacy policy
+terms and conditions
+
+
+
+follow us
+ 
+
+
+
+
+
+
+
+
+
+website & it’s stuff sorted by da man. | hosted and powered by sos web services
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

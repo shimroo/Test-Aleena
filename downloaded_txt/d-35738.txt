@@ -1,0 +1,283 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public:home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unsupported
+    in order to provide the best platform for continued innovation, this application no longer supports your version of web browser    use recent versions of major browsers like chrome, firefox, safari, and edge.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+open
+close
+
+
+
+
+ user 
+
+
+
+
+
+
+
+
+g
+ 
+
+
+
+guest 
+
+
+
+
+
+
+
+
+
+
+
+ help
+
+ login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contrail
+ home
+ map
+ sites
+ news
+ dashboards
+ bookmarks
+
+shared
+stream levels
+rainfall totals
+sandbag information
+detailed forecast
+nws river forecasts
+precipitation forecast
+cw3e qpf
+cw3e ar scale forecast
+california water watch
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ home                    
+ 
+
+
+
+
+
+
+
+
+warning! before using information obtained from this website, special attention should be given to the date and time of the data and information being displayed. the data has not been verified for accuracy, and evaluation, interpretation and verification of alert data are the responsibility of the user. 
+ 
+
+
+welcome to the sacramento county rainfall and stream level information system
+alert is an acronym which stands for automated local evaluation in real time. the sacramento county's alert system consists of 2 base stations, and 50 gauging stations. the purpose of the county's alert website is to provide access to stage and rainfall information during storm events. please use this link to read the alert system website tutorial.
+
+
+
+stream level summaries
+
+> system wide
+> arcade creek
+> beach and stone lakes
+> chicken and strong ranch sloughs
+> cosumnes r/north delta
+> dry creek
+> morrison creek
+> robla and magpie creeks
+
+
+
+rainfall summaries
+
+> system wide
+> arcade creek
+> beach and stone lakes
+> chicken and strong ranch sloughs
+> cosumnes r/north delta
+> dry creek
+> morrison creek
+> robla and magpie creeks
+
+
+
+stream level maps
+
+> system wide
+> arcade creek
+> beach and stone lakes
+> chicken and strong ranch sloughs
+> cosumnes r/north delta
+> dry creek
+> morrison creek
+> robla and magpie creeks
+
+
+
+rainfall maps
+
+> system wide
+> arcade creek
+> beach and stone lakes
+> chicken and strong ranch sloughs
+> cosumnes r/north delta
+> dry creek
+> morrison creek
+> robla and magpie creeks
+
+
+
+
+
+
+disclaimer: data is only for general information and use is not intended to address particular requirements. the county makes no representations or warranties as to the accuracy, timeliness, or completeness of the data provided, and data may be linked from third party websites not controlled, monitored, or endorsed by the county. the data provided does not constitute any form of advice, recommendation, or certification by the county of sacramento. use of the data provided by this website is at one's sole risk. this website and all data contained within it are provided on as 'as is' and 'as available' basis and services and data may be delayed, interrupted, or withdrawn at any time and without notice. pages and/or data provided by this website may not be available or may be displaying out of date information when accessed.
+
+
+ 
+
+
+
+for your information
+
+
+
+  information for stormwater utility residents
+look under storm ready for information on flood safety, including sandbag information. to report flooding call 311.
+
+  california data exchange center (cdec)
+state of california hydrologic data collection network.
+
+  california nevada river forecast center (cnrfc)
+precipitation and river forecast information.
+
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+                contrail® © 2004 - 2025            if you have problems, comments or suggestions regarding this site, please contact the webmaster 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

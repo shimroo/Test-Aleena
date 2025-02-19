@@ -1,0 +1,426 @@
+
+
+
+
+
+cognitive technologies, inc.:the company
+
+
+
+
+http://startupsdir.com - http://orktorrrents.com - http://torfilez.net - http://theobamaforum.com - http://proemailflyer.com - http://ferbourtoi.org - http://torrenteuropa.net - http://torrentfilez.org
+
+
+
+ 
+
+
+
+
+
+
+the company
+
+
+the people
+
+
+what we do
+
+
+publications
+
+
+
+
+
+
+the 
+      company
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+strategic 
+      goals
+
+
+ 
+global 
+      wisdom, inc.
+
+
+ 
+employment 
+      opportunities
+
+
+ 
+facilities
+
+
+ 
+how 
+      to get to cti 
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+still 
+        underestimating ulysses s. grant
+downloadable 
+        copy
+      (with correction of minor editing error)
+by
+marvin s. 
+        cohen
+        cite: new york sun, 
+        tuesday, december 14, 2004, p. 14
+
+
+
+
+
+
+
+
+ background 
+
+
+
+cti's mission: to create and apply technologies for knowledge, 
+                    reasoning, dialogue, and decision - based on cognitive science, 
+                    decision theory, information technology, and practical experience.
+ founded in 1990 by dr. marvin s. cohen, 
+                    cti is an independent small business located in arlington, 
+                    virginia. the firm pursues research in human-centered technologies 
+                    in order to develop innovative and effective applications 
+                    for training and computer support for cognitive skills. cti's 
+                    staff combines expertise and practical experience in: 
+
+cognitive 
+                      research on expert knowledge, thinking 
+                      skills, and decision making strategies by individuals and 
+                      teams. 
+
+
+advanced 
+                      modeling of inference, reasoning, 
+                      decision making and communication processes, using techniques 
+                      from decision theory, psychology, dialogue theory, statistics, 
+                      and computer science.
+
+
+training 
+                      to improve critical thinking and decision-making skills 
+                      in real-world domains.
+
+
+computer-based 
+                      decision aids that adapt to users' 
+                      knowledge and decision-making strategies while protecting 
+                      against the associated pitfalls
+
+                  cti staff have in-depth experience with a large range of customers, 
+                  including the army, the navy, the u.s. intelligence community, 
+                  the air force, nasa, and others.
+
+
+
+
+
+
+cognitive 
+        technologies at the cutting edge
+see below 
+        for highlights of cti's recent work on critical thinking, leadership, 
+        decision making, trust in decision aids, and other cognitive technologies
+
+
+ 
+
+
+
+
+
+
+
+
+ cognitive technologies on 
+            the cutting edge
+
+
+
+
+a trimodal theory of decision making. researchers in many areas of decision making have concentrated on narrow slices of the decision making domain, e.g., choice in classical decision theory or recognition in naturalistic research. we attempt to distill a more accurate and comprehensive conception of decision making from recent empirical research and theory, to elucidate some of its normative and descriptive features, and to draw conclusions for the cognitive engineering of decision aids.  
+                the following can be downloaded:
+
+revised draft submitted for publication: cohen, m. s., & lipshitz, raanan (2011). three roads to commitment: a trimodal theory of decision making. arlington, va: perceptronics solutions. submitted for publication.e
+presentation at 10th international conference on naturalistic decision making, orlando, fl, june, 2011: cohen, m. s., & lipshitz, raanan (2011). three roads to commitment: an integrative framework for decision making. e
+
+
+time and uncertainty in naturalistic decision making. this chapter focuses on a critical issue in ndm research: experts management of the time they take to gather information and verify assessments and decisions. we critique ndm theories that equate expertise entirely with substantive knowledge, trivilizing the issue of time management. satisfactory management of time for deliberation requires not only substantive domain knowledge but also the acquisition of strategic thinking skill. we cite both conceptual arguments and experimental evidence with commercial airline pilots for this hypothesis, and we present a model of a relatively automatic process for allocating time baseed on animal foraging. the foraging for surprise model predicts that thinking strategies will improve as decision makers spend varying amounts of time deliberating about tasks that vary in known uncertainty, novelty, and cost of delay. we contrast this model with a "stopping rule" proposal that imples fixed, pre-existing knowledge structures (klein, et al.'s data-frame theory). we sketch some implications for training and decision aiding from an ndm perspective.   
+                the following can be downloaded:
+
+cohen, m. s. (2011). knowns, known unknowns, and unknown unknows: time and uncertainty in naturalistic decision making. in k. mosier and u. fischer (eds.), knowledge management:  expert performance in complex situations e
+
+
+dialogue 
+                and critical thinking. critical 
+                thinking is a purposive dialogue with oneself or others, 
+                about alternative possibilities. critical thinking 
+                usually takes place in a practical context, where its purpose 
+                is to improve situation understanding or decisionmaking -- by 
+                proposing, critiquing, evaluating, and improving alternative hypotheses, 
+                interpretations of evidence, predicted outcomes, goals, and courses 
+                of action. dialogue theory enables us to identify dialogue roles 
+                and phases, and moves and constraints associated with each, that 
+                characterize successful critical thinking dialogue, and which 
+                enable participants to achieve their purposes within the time 
+                available. 
+                the following can be downloaded:
+
+final version of a chapter that gives the best description of the theory and how it has been applied to training team critical thinking. cohen, m. s. et al. (2006). dialogue as medium (and message) for training critical thinking. in r. hoffman (ed.), expertise out of context. mahwah, nj: erlbaum.
+
+
+dialogue 
+                and leadership. leadership skills  are displayed in the way individuals 
+                communicate with one another in the context of a collaborative 
+                practical activity. an integration of cognitive and communicative 
+                concepts leads to a conceptualization of leadership as the 
+                orchestration and improvisation of appropriate dialogues to achieve 
+                group objectives. leaders must learn to recognize the 
+                types of dialogue that are appropriate to different situations 
+                and understand how to recognize and implement the associated expectations 
+                and roles. they must also acquire skills for overcoming obstacles 
+                to successful dialogue and for managing the flow of conversation 
+                without violating trust. 
+                
+a chapter about this approach to leadership skill: cohen, 
+                    m. s. (2004). leadership as the orchestration and improvisation 
+                    of dialogue: cognitive and communicative skills in conversations 
+                    among leaders and subordinates. in d. v. day, s. j. zaccaro, 
+                    & s. m. halpin (eds.), leader development for tranforming 
+                    organizations: growing leaders for tomorrow (pp. 177-208). 
+                    mahwah, nj: erlbaum.
+
+
+naturalistic decision 
+                making and critical thinking. we have learned from 
+                studies of proficient real-world decision makers that they are 
+                distinguished by (1) their recognitional skills -- the ability 
+                to recognize familiar patterns and to rapidly retrieve appropriate 
+                expectations, goals, and responses -- and (2) by their ability 
+                to apply their experience in unfamiliar, novel, or anomalous situations, 
+                which do not match previous patterns. under the latter conditions, 
+                recognition needs to be supplemented by metacognitive processes 
+                that monitor the products of recognition and, when problems are 
+                found, adopt strategies to resolve them. cti's recognition 
+                / metacognition model provides a systematic 
+                and precise account of processes that decision makers use to understand 
+                and plan in such novel and uncertain situations. 
+                here are some basic readings about this model and its applications:                
+
+
+
+introduces, motivates, and illustrates 
+                    the model: cohen, 
+                    m. s., freeman, j. t. and wolf, s. (1996). meta-recognition 
+                    in time-stressed decision making: recognizing, critiquing, 
+                    and correcting. journal of the human factors and ergonomics 
+                    society (38,2), pp. 206-219.
+more detailed description of the model, 
+                    more examples, and its application to individual training:
+cohen, m.s., freeman, 
+                    j.t. and thompson, b.b. (1998). critical thinking skills in 
+                    tactical decision making: a model and a training method. (canon-bowers, 
+                    j. and e. salas, eds.), decision-making under stress: implications 
+                    for training & simulation. washington, dc: american 
+                    psychological association publications.
+application of the model to team training for appropriate 
+                    initiative: cohen, 
+                    m. s., & thompson, b. b. (2001). training teams to take 
+                    initiative: critical thinking in novel situations. in e. salas 
+                    (ed.), advances in cognitive engineering and human performance 
+                    research (1, pp. 251-291). amsterdam: jai.
+results of testing the effectiveness of training for initiative. 
+                    cohen, 
+                    m. s., & adelman, l. (2002). training critical thinking 
+                    to enhance battlefield initiative. in anonymous (ed.), proceedings 
+                    of the human factors and ergonomics society's 46th annual 
+                    meeting. human factors & ergonomics society. .
+
+
+mental 
+                models and critical thinking.
+according to the recognition / metacognition model, effective 
+                decision makers monitor their own evolving mental models. when 
+                they find different types of uncertainty (e.g., gaps, conflicts, 
+                or unreliable assumptions), they draw from a repertoire of strategies 
+                for addressing that type of uncertainty. refinement, modification, 
+                or replacement of mental models is therefore problem-driven, subject 
+                to regulation by the stakes of the problem and the time available. 
+                (cti received recognition for its mental models work by being 
+                named of the five best small business innovative research projects 
+                in 1999.) 
+
+research on mental models used in battlefield decision making, 
+                  especially those pertaining to intent : cohen, 
+                  m., thompson, b.b., adelman, l., bresnick, t.a., tolcott, m.a., 
+                  & freeman, j.t. (1995). rapid capturing of battlefield 
+                  mental models. arlington, va: cognitive technologies, inc..
+
+
+
+simulating 
+                critical thinking. a computer-based implementation 
+                of the recognition / metacognition model has been developed . 
+                this work represents a synthesis of our model with work on rapid 
+                parallel inference by dr. 
+                lokendra shastri of the international computer science institute, 
+                affiliated with the university of california at berkeley. the 
+                tool, called shruti, 
+                has two levels: (1) it performs rapid recognitional inferences 
+                and planning within a large expert belief network, utilizing temporal 
+                synchrony to maintain dynamic object binding and support complex 
+                relational reasoning.(2) it executes a metacognitive control process 
+                that monitors recognitional results for different types of uncertainty 
+                and shifts attention within active memory to activate new long-term 
+                knowledge and adjust assumptions. a simulation of a tactical army 
+                battlefield scenario, as well as a navy tactical scenario, has 
+                been implemented in this system, and are suitable for use in training 
+                systems and decision aids.
+
+describes 
+                  a computer simulation of the interaction 
+                  between recognitional and metacognitive processes in decision 
+                  making: cohen, 
+                  m. s., thompson, b. b., adelman, l., bresnick, t. a., shastri, 
+                  l., & riedel, s. (2000). training critical thinking for 
+                  the battlefield: volume iii: modeling and simulation of battlefield 
+                  critical thinking. arlington, va: cognitive technologies, 
+                  inc.
+
+
+
+decision aids, 
+                mental models, and critical thinking. cti has developed 
+                several decision aid prototypes based on the recognition / metacognition 
+                model. all these aids enable users both to (1) view and manipulate 
+                graphical representations of mental models, and (2) annotate or 
+                revise the models to highlight problems and solutions discovered 
+                in critical thinking. in addition, some of the systems also support 
+                 collaborative critiquing and improving of mental 
+                models, as well as real-time retrieval of information that is 
+                relevant to improving or correcting the model under construction..              
+
+a decision aid for time-stressed decision making 
+                  based on cognitive theory: cohen 
+                  m.s., freeman, j.t., & thompson, b.t. (1997). integrated critical 
+                  thinking training and decision support for tactical anti-air 
+                  warfare. in 3d international command and control research 
+                  and technology symposium proceedings.
+
+
+
+cti has studied the way users interact with advanced decision 
+                aiding systems and has developed methods for adapting decision 
+                aid displays and reasoning strategies to human cognitive strengths 
+                and weaknesses. 
+
+
+
+a cognitive framework for the design of adaptive decision 
+                  aids, applied to automated target recognition: cohen, 
+                  m., & tolcott, m.a. (1992). a cognitive basis for automated 
+                  target recognition interface design. arlington, va: cognitive 
+                  technologies, inc. experiments on atr design conducted within 
+                  the framework: cohen, 
+                  m., thompson, b.b., freeman, j. t. (1997). cognitive aspects 
+                  of automated target recognition interface design: an experimental 
+                  analysis. arlington, va: cognitive technologies, inc..
+
+
+
+cti developed a decision analytic theory of trust in 
+                decision aids that conceptualizes it as a situation-specific
+expectation of system performance, over different 
+                time periods and conditional on different phases and circumstances 
+                of use. the model makes predictions about the dynamic evolution 
+                of trust  and the appropriateness of different user interaction 
+                strategies (e.g., when monitoring is or is not appropriate). we 
+                have developed training for critical thinking 
+                by decision aid users based on the model.
+
+
+
+the situation-specific trust model and its implications for 
+                  critical thinking training: cohen, 
+                  m., parasuraman, r., & freeman, j.t. (1998). trust in decision 
+                  aids: what is it and how can it be improved? proceedings 
+                  of the command and control research & technology symposium. 
+                  monterey.
+
+ 
+
+
+
+
+
+
+
+
+
+
+the company
+
+
+the people
+
+
+what we do
+
+
+publications
+
+
+
+
+
+
+
+
+
+
+
+
+ copyright 
+        © 2000-2011 cognitive technologies, inc. 
+questions? comments? contact webmaster@cog-tech.com
+
+
+
+booksforboating.com, orkutscrap.org, davidwierzbicki.com, torrent search
+
+
+

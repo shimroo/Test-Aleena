@@ -1,0 +1,86 @@
+   outlook and exchange solutions center                                                                          outlook usernew outlook appoutlook.comoutlook macoutlook & iclouddevelopermicrosoft 365 admincommon problemsmicrosoft 365outlook bcmutilities & addinsoutlook and exchange solutions centerslipstick systemsoutlook and exchange solutions center was last modified:  august 13th, 2024 by slipstick
+insert word document into email using vbahow to use a macro to reply to senders by inserting the text from a word document as the message text. there is also a macro to send a new message with the contents of a word document inserted.
+delete empty folders using powershelli tweaked the powershell that creates a list of folder names to list only the folders that are used for messages and if the folder is empty, it is deleted.
+classic outlook is not going away in 2026while new outlook s going to be the default outlook app beginning in early 2025, users can switch back to classic outlook. classic outlook will be supported until at least 2029.
+warn before deleting a contactuse a vba macro to warn before deleting (or moving) a contact in classic outlook.
+use powershell to delete attachmentshow to use powershell to delete large attachments from all messages in a classic outlook folder or all attachments from selected messages in any classic outlook folder.
+remove or change re: and fwd: prefixesa vba macro for classic outlook to change the prefix on messages when the reply and forward prefixes are different, such as aw: instead of re:.  it can also be used to remove or change other prefixes, such as external:.
+print classic outlook folder nameslearn how use powershell to create (and print) a text file containing a list of all folders in a classic outlook profile, or only the folders in a specific data file.
+change the mailing address using powershellhow to use powershell to bulk change the mailing address selector (or move the address to a different address field) in classic outlook's contacts.
+ads in new outlookwhen you have a microsoft 365 subscription, you should not see ads in your message list in new outlook if the account, if the account with the subscription is set as the primary account.
+outlook.com and modern authentication questionsquestions and answers on microsoft outlook.com disabling basic authentication and requiring modern authentication. what will work after september 16 2024?
+categorize @mentioned messagesa user wanted to know how to create a rule to add a category to messages he was @mentioned on. i'll show you how to use a run a script rule or an itemadd macro to set a category on a message you were @mentioned on in classic outlook.
+classic outlook missing from new computersafter purchasing a new computer, users discovered the office installation is missing outlook.
+removing suggested accounts in new outlookuntil microsoft adds a straightforward way to delete addresses from the suggested accounts list, you can try the steps below to remove addresses from the suggested accounts list.
+outlook.com connected accounts: goneas of july 1 2024, microsoft removed the connected accounts feature from accounts that were still using it.
+display teams calendars in outlookcalendars in a team are stored in the team’s group mailbox and the teams’ mailbox is hidden from exchange clients.  the calendar can be displayed in classic outlook under group calendars if the microsoft 365 administrator runs a powershell cmdlet to make it visible.
+
+
+
+visit slipstick forums.latest emo: vol. 30 issue 5support servicesdo you need help setting up outlook, moving your email to a new computer, migrating or configuring office 365, or just need some one-on-one assistance?
+schedule an appointmentsubscribe to exchange messaging outlook 
+name
+
+
+email
+
+hp
+
+
+
+our sponsorspopularlatest
+week
+month
+all
+use classic outlook, not new outlook
+
+how to remove the primary account from outlook
+
+this operation has been cancelled due to restrictions
+
+adjusting outlook's zoom setting in email
+
+how to hide or delete outlook's default folders
+
+reset the new outlook profile
+
+disable "always ask before opening" dialog
+
+save attachments to the hard drive
+
+remove a password from an outlook *.pst file
+
+maximum number of exchange accounts in an outlook profile
+
+insert word document into email using vba
+delete empty folders using powershell
+warn before deleting a contact
+classic outlook is not going away in 2026
+use powershell to delete attachments
+remove or change re: and fwd: prefixes
+print classic outlook folder names
+change the mailing address using powershell
+ads in new outlook
+outlook.com and modern authentication questionsrecent bugs listmicrosoft keeps a running list of issues affecting recently released updates at fixes or workarounds for recent issues in outlook for windows.
+
+outlook for mac recent issues: fixes or workarounds for recent issues in outlook for mac
+
+outlook.com recent issues: fixes or workarounds for recent issues on outlook.comoffice update history
+update history for supported office versions is at update history for officeoutlook suggestions and feedbackoutlook feedback covers outlook as an email client, including outlook android, ios, mac, and windows clients, as well as the browser extension (pwa) and outlook on the web.
+
+outlook (new) feedback. use this for feedback and suggestions for outlook (new).
+use outlook.com feedback for suggestions or feedback about outlook.com accounts.
+
+other microsoft 365 applications and services
+
+
+
+ new outlook articlesinsert word document into email using vbadelete empty folders using powershellwarn before deleting a contactclassic outlook is not going away in 2026use powershell to delete attachmentsremove or change re: and fwd: prefixesprint classic outlook folder nameschange the mailing address using powershellads in new outlookoutlook.com and modern authentication questionsnewest code samplesinsert word document into email using vbawarn before deleting a contactuse powershell to delete attachmentsremove or change re: and fwd: prefixeschange the mailing address using powershellcategorize @mentioned messagessend an email when you open outlookdelete old calendar events using vbause powershell or vba to get outlook folder creation daterename outlook attachmentsrepair pstconvert an ost to pstrepair damaged pst filerepair large pst fileremove password from pstmerge two data filessync & share outlook datashare calendar & contactssynchronize two computerssync calendar and contacts using outlook.comsync outlook & android devicessync google calendar with outlookaccess folders in other users mailboxes mail toolssending and retrieval toolsmass mail toolscompose toolsduplicate remover toolsmail tools for outlookonline servicescalendar toolsschedule management calendar printing toolscalendar reminder toolscalendar dates & datatime and billing toolsmeeting productivity toolsduplicate remover toolsproductivityproductivity toolsautomatic message processing toolsspecial function automatic processing toolshousekeeping and message managementtask toolsproject and business management toolschoosing the folder to save a sent message inrun rules on messages after readinghelp & suggestionssubmit outlook feature requestsslipstick support servicesbuy microsoft 365 office software and servicesvisit slipstick forums.
+what's new at slipstick.comhome | outlook user | exchange administrator | office 365 | outlook.com | outlook developer
+outlook for mac | common problems | utilities & addins | tutorials
+outlook & icloud issues |
+outlook apps
+emo archives | about slipstick | slipstick forums
+submit new or updated outlook and exchange server utilities
+send comments using our feedback pagecopyright © 2025  slipstick systems. all rights reserved.slipstick systems is not affiliated with microsoft corporation.                  
+

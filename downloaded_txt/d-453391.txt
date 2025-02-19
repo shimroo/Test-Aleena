@@ -1,0 +1,293 @@
+
+
+
+
+
+
+
+
+
+
+aramis research - das aramis-informationssystem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+aramis research
+das aramis-informationssystem
+
+
+
+
+
+
+
+
+
+
+
+
+
+quantentheorie
+january 4, 2023 nellie rodriguez main
+
+
+die quantentheorie ist die theoretische grundlage der modernen physik, die die natur und das verhalten von materie und energie auf atomarer und subatomarer ebene erklärt. die natur und das verhalten von materie und energie auf dieser ebene werden manchmal als quantenphysik und quantenmechanik bezeichnet.
+1900 stellte der physiker max planck seine quanten-theorie der deutschen physikalischen gesellschaft vor. planck hatte versucht, den grund zu entdecken, dass strahlung von einem glühenden körper in farbe von rot, orange, und schließlich zu blau wechselt, während seine temperatur steigt. er fand das, indem er die annahme machte, daß energie in einzelnen einheiten in der gleichen weise existierte, wie die materie, und nicht nur eine konstante elektromagnetische welle – wie früher angenommen wurde – und daher quantifizierbar war, konnte er die antwort auf seine frage finden. die existenz dieser einheiten wurde die erste annahme der quantentheorie.
+planck schrieb eine mathematische gleichung mit einer figur, um diese einzelnen einheiten der energie darzustellen, die er quanten nannte. die gleichung erklärte das phänomen sehr gut; planck stellte fest, dass bei bestimmten diskreten temperaturniveaus (genaue vielfache eines grundminimumwertes) die energie eines glühenden körpers unterschiedliche bereiche des farbspektrums einnimmt. planck nahm an, daß aus der entdeckung der quanten noch eine theorie auftauchte, aber in wirklichkeit bedeutete ihre existenz ein völlig neues und fundamentales verständnis der gesetze der natur. planck gewann 1918 den nobelpreis für physik für seine theorie, aber die entwicklungen verschiedener wissenschaftler über einen zeitraum von 30 jahren trugen zum modernen verständnis der quantentheorie bei.
+die entwicklung der quantentheorie
+im jahr 1900 machte planck die annahme, dass energie aus einzelnen einheiten oder quanten gemacht wurde.
+im jahre 1905 stellte albert einstein fest, dass nicht nur die energie, sondern die strahlung selbst in gleicher weise quantisiert wurde.
+im jahr 1924 schlug louis de broglie vor, dass es keinen grundlegenden unterschied in der verfassung und dem verhalten von energie und materie gibt; auf der atomaren und subatomaren ebene kann sich entweder so verhalten wie von partikeln oder wellen gemacht. diese theorie wurde als prinzip der wellenpartikel-dualität bekannt: elementarteilchen von energie und materie verhalten sich je nach den bedingungen wie partikel oder wellen.
+im jahre 1927 schlug werner heisenberg vor, dass eine genaue, gleichzeitige messung von zwei komplementären werten – wie position und impuls eines subatomaren teilchens – unmöglich ist. im gegensatz zu den prinzipien der klassischen physik ist ihre gleichzeitige messung unausweichlich fehlerhaft; je genauer ein wert gemessen wird, desto fehlerhafter wird die messung des anderen wertes sein. diese theorie wurde bekannt als das ungewissheitsprinzip, das albert einsteins berühmten kommentar veranlasste: “gott spielt keine würfel.”
+die beiden hauptinterpretationen der implikationen der quantentheorie für die natur der wirklichkeit sind die kopenhagener interpretation und die viel-welt-theorie. niels bohr schlug die kopenhagener interpretation der quantentheorie vor, die behauptet, daß ein teilchen, was auch immer es ist, gemessen wird (z. b. eine welle oder ein teilchen), aber es kann nicht davon ausgegangen werden, daß es spezifische eigenschaften hat oder gar existiert, bis es wird gemessen. kurz gesagt, bohr sagte, dass die objektive realität nicht existiert. das bedeutet ein prinzip namens superposition, das behauptet, dass, während wir nicht wissen, was der zustand eines objekts ist, es tatsächlich in allen möglichen zuständen gleichzeitig ist, solange wir nicht schauen, um zu überprüfen.
+um diese theorie zu veranschaulichen, können wir die berühmte und etwas grausame analogie von schrödingers katze benutzen. zuerst haben wir eine lebende katze und legen sie in eine dicke bleikiste. in diesem stadium gibt es keine frage, dass die katze am leben ist. dann werfen wir in eine phiole von cyanid und versiegeln die schachtel. wir wissen nicht, ob die katze lebt oder wenn die cyanidkapsel gebrochen ist und die katze gestorben ist. da wir nicht wissen, ist die katze nach dem quantengesetz tot und lebendig – in einer überlagerung von staaten. es ist nur, wenn wir die kiste aufbrechen und sehen, welche bedingung die katze ist, dass die überlagerung verloren ist, und die katze muss entweder lebendig oder tot sein.
+die zweite interpretation der quanten-theorie ist die viel-welt- (oder multiversortheorie), sobald ein potential für irgendeinen gegenstand in irgendeinem zustand existiert, verwandelt sich das universum dieses objekts in eine reihe von parallelen universen, die der zahl gleich sind von möglichen zuständen, in denen das objekt existieren kann, wobei jedes universum einen einzigartigen einzigen möglichen zustand dieses objekts enthält. darüber hinaus gibt es einen mechanismus für die interaktion zwischen diesen universen, der irgendwie erlaubt, dass alle staaten in irgendeiner weise und für alle möglichen zugänglich sind staaten, die in irgendeiner weise betroffen sind. stephen hawking und der verstorbene richard feynman gehören zu den wissenschaftlern, die eine vorliebe für die viel-welt-theorie geäußert haben.
+der einfluss der quantentheorie
+obwohl die wissenschaftler im laufe des vergangenen jahrhunderts über die implikationen der quantentheorie – planck und einstein unter ihnen – gestritten haben, wurden die prinzipien der theorie wiederholt durch experimente unterstützt, auch wenn die wissenschaftler sie zu widerlegen versuchten. quantentheorie und einsteins relativitätstheorie bilden die grundlage für die moderne physik. die prinzipien der quantenphysik werden in einer zunehmenden anzahl von bereichen angewendet, darunter quantenoptik, quantenchemie, quantencomputing und quantenkryptographie.
+siehe brian green’s einführung in die quantentheorie auf nova:
+
+
+
+
+
+
+
+was sind die gesundheitsrisiken, die mit mobiltelefonen und ihren basisstationen verbunden sind?
+june 5, 2022 nellie rodriguez main
+
+
+das ist eine frage, die who sehr ernst nimmt. angesichts der immensen anzahl von menschen, die mobiltelefone verwenden um anrufe zu machen, nachrichten zu senden und casino-spiele online zu spielen, könnte sogar eine kleine zunahme der inzidenz von nachteiligen auswirkungen auf die gesundheit erhebliche auswirkungen auf die öffentliche gesundheit haben.
+da die exposition gegenüber den von mobiltelefonen emittierten hochfrequenzfeldern im allgemeinen mehr als 1000 mal höher ist als von basisstationen und die größere wahrscheinlichkeit, dass irgendwelche nachteiligen auswirkungen auf handapparate zurückzuführen sind, wurde die forschung fast ausschließlich auf mögliche auswirkungen von mobiltelefonen durchgeführt telefon-exposition.
+die forschung konzentriert sich auf folgende bereiche:
+
+krebs
+andere gesundheitliche auswirkungen
+elektromagnetische interferenz
+verkehrsunfälle.
+
+krebs
+basierend auf gemischten epidemiologischen nachweisen über den menschen in bezug auf eine assoziation zwischen der exposition gegenüber hf-strahlung von drahtlosen telefonen und kopfkrebs (gliom und akustisches neuroma) wurden hf-felder von der internationalen agentur für krebsforschung als potentiell karzinogen für den menschen eingestuft (gruppe 2b) . bisherige studien geben keinen hinweis darauf, dass die umweltbelastung von hf-feldern, wie etwa von basisstationen, das risiko von krebs oder anderen krankheiten erhöht.
+andere gesundheitliche auswirkungen
+wissenschaftler haben andere gesundheitliche auswirkungen der verwendung von mobiltelefonen einschließlich änderungen in der gehirnaktivität, reaktionszeiten und schlafmuster berichtet. diese effekte sind geringfügig und haben keine offensichtliche gesundheitliche bedeutung. weitere studien sind im gange, um diese ergebnisse zu bestätigen.
+elektromagnetische interferenz
+wenn mobiltelefone sehr nah an einigen medizinischen geräten (einschließlich herzschrittmacher, implantierbare defibrillatoren und bestimmte hörgeräte) verwendet werden, besteht die möglichkeit, störungen in ihrem betrieb zu verursachen. das risiko ist für 3g telefone und neuere geräte deutlich reduziert. es besteht auch die möglichkeit der interferenz zwischen mobiltelefonsignalen und flugzeugelektronik. einige länder haben die nutzung des mobiltelefons auf flugzeugen während des fluges mit systemen, die die telefonausgangsleistung steuern, lizenziert.
+verkehrsunfälle
+die forschung hat gezeigt, ein erhöhtes risiko von verkehrsunfällen, etwa 3-4 mal größere chance auf einen unfall, wenn mobiltelefone (entweder handheld oder mit einem “freisprech” -kit) während der fahrt durch ablenkung verwendet werden.
+schlussfolgerungen
+während ein erhöhtes risiko von hirntumoren aus der nutzung von mobiltelefonen nicht festgestellt wird, rechtfertigen die zunehmende nutzung von mobiltelefonen und der mangel an daten für die mobiltelefonnutzung über zeiträume, die länger als 15 jahre sind, eine weitere untersuchung der mobiltelefonnutzung und des gehirnkrebsrisikos . insbesondere mit der jüngsten beliebtheit der mobiltelefonnutzung bei jüngeren menschen und damit einer potenziell längeren expositionsdauer hat die who weitere untersuchungen zu dieser gruppe gefördert und beurteilt derzeit die gesundheitlichen auswirkungen von rf-feldern auf alle untersuchten endpunkte.
+
+
+
+
+
+
+lots-dsc : long term stability of dye solar cells for large area power applications
+june 3, 2022 nellie rodriguez main
+
+
+alternative projektnummern
+(englisch)
+eu project number: jor3-ct98-0261
+forschungsprogramme
+(englisch)
+eu-programme: 4. frame research programme – 5.1 nonnuclear energies
+kurzbeschreibung
+(englisch)
+see abstract
+partner und internat. organisationen
+(englisch)
+ecn (nl); inap (d); fmf (d)
+abstract
+(englisch)
+the dye sensitized solar cell (dsc) technology uses the principles of the regenerative photoelectrochemical solar cell: a dye stained nanocristalline titanium oxide (tio2) electrode deposited on a conductive oxide coated glass forms the photoanode, which faces the platinum coated counter-electrode. the gap between the electrodes is filled with an organic electrolyte containing the redox couple iodide/tri-iodide (i-/i3-) necessary for the charge transport within the cell. a rim sealing encloses the system. the dsc technology could allow a significant cost reduction of solar energy as the materials and processing employed is rather simple and low cost compared to traditional technologies based on silicon.
+to be able to commercialize dye solar cells for large area power applications it needs to be clear what module lifetimes and efficiencies can be obtained. therefore there are two main objectives of this project:
+a) to demonstrate that a 10 year outdoors module lifetime is feasible
+b) to demonstrate that a module efficiency of 10 % is theoretically feasible
+in order to assess the stability, high intensity sulfur lamps and a uv-tester were built and distributed to the project partners, ovens and measurement systems completed the equipment. a particular design of dye solar cells was developed, so called masterplates having each 5 cells 5 x 0.8 cm in size and silver lines to collect the current alongside the cells. for the high efficiency task a modified masterplate design was used with cells only 5 mm wide (2.5 cm2 active area).
+the stability results can be summarized as following:
+in artificial high intensity irradiation (ca. 2500 w/m2) no degradation in the output power was observed after 8300 hours light exposure (it actually went up by ca. 5 %). when the temperature was elevated to 45°c, the maximal degradation was less than 10 % after 4000 hours at 1000 w/m2 irradiation.
+in pure uv irradiation at 10 mw/cm2 intensity (340-390 nm) and ca. 38°c, the stability behavior was strongly depending the electrolyte composition. best stability was obtained with electrolytes containing magnesium iodide or calcium iodide, with no degradation observed after 3300 hours without any uv-filter. the only drawback of those modified electrolytes is there lower performance (by ca. 30%) compared to the standard electrolyte containing no mgi2 or cai2.
+in thermal testing without light or uv irradiation, the cells remained stable overa period of 2200 hours at 60°c, the performance degraded only marginally, starting from 5.25 % efficiency (measured in artificial calibrated sun at 1000 w/m2) and ending at 5.1 % at the end of the thermal exposure. at 85°c, the output degradation was important with 30% after 875 hours of testing – using glass frit sealed cells.
+outdoors testing showed only minor degradation (ca. 10%) after 9 months outside, resp. no degradation after 12 montrhs for another set of cells (5 % efficient) protected behind a window against direct rain exposure.
+reverse biasing a dye solar cell is not critical on the stability, thus integrated modules are possible without protection diodes on each cell.
+efficiency task.
+only cells larger than 1 cm2 were built. routine efficiency was 5 % on 4 cm2 sized cells despite low fill-factors of only 0.63-0.65 due to (known) inadequate cell design. the reproducability within a masterplate was ca. 8 % deviation in average on the efficiency. the best efficiency measured was 8.18 % (1000 w/m2 am1.5 simulated at ise freiburg) with a improved masterplate of 2.5 cm2 size. the open-circuit voltage is 0.725 v, short-circuit current density is 15.76 ma/cm2 and the fill-factor was 0.716 for that cell with a white background and mask fitted to the active area of the cell. these good efficiency figures were obtained using industrial glass and a thin platinum layer as a counter-electrode and no anti-reflection coating on the front side.
+summary. good visible light stability was obtained. uv stable cells are possible with additives in the electrolyte. thermal stability is fine up to 60°c – securing ca. 5 years lifetime outdoors. best efficiency is 8 % for 2.5 cm2 sized cell with industrial low cost materials. no intrinsic *show-stopper’ was found for stable and efficient dye solar cells.
+the stability has to be improved for 85°c by using improved sealing techniques. combined tests (e.g. iec 1646) with light, uv and heat have to be undertaken including thermal cycling prior industrialization of this new solar cell technology. the promising lots-dsc results are the basis for new projects based on industrially manufactured dsc cell/modules testing to qualify for iec 1646.
+
+
+
+
+
+
+automatische nummernschilderkennung
+june 5, 2017 nellie rodriguez main
+
+
+automatische nummernschild-erkennung (oder so häufig genannt “nummernschild-erkennung”) ist eine spezielle form der optischen zeichenerkennung (ocr).
+die kennzeichenerkennung (lpr) ist eine art von technologie, vor allem software, die es computersystemen ermöglicht, automatisch die registriernummer (lizenznummer) von fahrzeugen aus digitalen bildern zu lesen.
+wenn man automatisch die registriernummer liest, bedeutet man, die pixel des digitalen bildes in den ascii-text des nummernschildes zu verwandeln.
+während die nummernschild-erkennung eine spezielle art von ocr-technologie hat, wird heute die optische zeichenerkennung (ocr) technologie streng genommen eine art von technologie – vor allem software -, mit der sie papierdokumente scannen und sie in elektronische, editierbare dateien umwandeln können.
+aus sicht der lpr / anpr ist die bildqualität immer wichtiger faktor. die erfassung von schnell fahrenden fahrzeugen erfordert spezielle technik, um bewegungsunschärfe zu vermeiden, die die erkennungsgenauigkeit drastisch verringern kann. um die richtige bildqualität zu gewährleisten, muss mit der kombination von hochleistungsbeleuchtung eine kurze verschlusszeit verwendet werden.
+die beste beleuchtung ist die ir, denn die retro-reflektierenden platten reflektieren diese art von licht sehr gut und es ist für das menschliche auge nicht nachweisbar. diese kombination funktioniert bei tag und nacht gut und bietet eine gleichbleibend gute bildqualität.
+nur dedizierte anpr-kameras erfüllen diese anforderungen, wie zb anpr-kameras, die eine flexible blendensteuerung mit eingebautem ir-blitz bieten und die fahrzeuge bis zu 250km / h fangen können, die für alle arten von lizenzen geeignet sind.
+
+
+
+
+
+
+methoden zur zusammensetzung einer liste der pflanzen quarantine krankheiten und pests
+june 5, 2017 nellie rodriguez main
+
+
+bei der erstellung des modells des pflanzenquarantänesystems in jugoslawien war es notwendig, eine methode zum komponieren einer liste von pflanzenquarantäneerkrankungen und schädlingen zu wählen. es gibt 3 arten von listen: all-inclusive, übergang und restriktiv. das schema, das das modifizierte schema von smith et al. (1933) gemacht worden ist. das schema 1 ist eine tabelle, die eine gruppe von kulturen und organismen in systematischen gruppen umfasst. nach diesem schema hat eine gruppe von forschern die analytischen studien von quarantäne-organismen gemacht. es wurden zwei weitere mögliche schemata für den inhalt von analytischen studien vorgeschlagen. quarantäne-organismen werden klassifiziert: aus dem rechtlichen aspekt, aus dem internationalen kooperationsaspekt, potenzielle quarantäne-organismen. alle 3 gruppen, die wir unter einen neuen begriff gestellt haben: quarantäne-typ krankheiten und schädlinge. es werden drei kompositionsmethoden beschrieben:
+1. kompilierungsmethode zur auswahl der einheiten gültiger listen anderer länder, vorgeschlagener listen regionaler organisationen und referenzliteratur.
+2. analytische assesstmena methode der verfügbaren ökologischen, faunistischen, biogeographischen, biometeorologischen, wirtschaftlichen und anderen informationen. diese methode wird als zufrieden stellend erachtet, bis der übergang zur thrid-methode möglich ist.
+3. direktierte forschungsmethode besteht aus der registrierung von interceptions und einer detaillierten experimentellen ökologischen forschung.
+es gibt 4 schritte in der prozedur des komponierens einer liste: für analytische studien auszuwählen, welche grundpflanzenproduktion geschützt werden soll; auswahl der art der liste; die potenzielle quarantäne-organismen-analyse; koordination mit regionalen organisationen und anderen ländern. genetische homogene pflanzenwirte, die auf großen gebieten wachsen, verursachten die gefahr, dass die möglichen genetischen variationen von schadorganismen und die entwicklung ihrer virulenteren populationen entstehen. die einführung von “populations quarantine” anstelle von “species quarantine” ist die verwendung der intuitiven strategie, die das problem nicht lösen kann, weil die plant quarantine ein dynamisches komplexes system mit ihrer kontraintuitiven charakteristik ist. watt (1970) zeigte auf eine kontraintuitive charakteristik des pflanzenschutzes im allgemeinen. die notwendigkeit des informationssystems und der pflanzenquarantäneforschung und der rechenzentren wurde ebenfalls hervorgehoben.
+
+
+
+
+
+
+ressourcen für quantum informationen
+june 5, 2017 nellie rodriguez main
+
+
+
+quantum computing für informatiker, von yanofsky & manucci ist ein lehrbuch, das von den grundlagen der linearen algebra und einem kleinen bisschen quantenmechanik beginnt und sie durch die meisten aspekte des grundlegenden quantencomputers führt. persönlich war es hart für mich, quantencomputing zu brechen, ohne die quantenmechanik zu verstehen. wenn du die quantenmechanik lernen willst, empfehle ich griffiths einführungstext.
+quantum info & quantum computation, von nielsen & chuang ist der goldstandard für quantencomputertexte. es liest an einem fortgeschrittenen underrad zu grad level buch und es ist ziemlich umfangreich, obwohl beachten sie, dass es fast ein jahrzehnt seit einer neuen version geschrieben wurde, und qc ist ein sehr schnell bewegter bereich, so dass sie sicherlich wollen, um ihre zu ergänzen lesen mit aktuellen papieren und so
+john preskill (@caltech iqi) hat einige gute vorlesungsunterlagen zusammengestellt (so wurde mir schon gesagt) für einen qc-kurs, den er schon seit langer zeit unterrichtet hat: http://www.theory.caltech.edu/pe
+eine liste aller institutionen, die quantencomputing durchführen (nicht sicher, wie aktuell es ist, scheint auch im moment zu sein): http: //www.vcpc.univie.ac.at/~ia
+ich bin mitten in diesem: klassische und quantenberechnung von kitaev, shen und vyalyi. es orientiert sich an der graduiertenebene mit einem fokus auf quantenalgorithmen, komplexität und fehlerkorrektur. ich denke, es ist eine großartige ausstellung, obwohl man sich vorher mit der theorie der berechnung vertraut machen sollte. es ist ein kurzes und süßes buch.
+quantum information wiki und portal (quantiki) ist eine gute ressource, ebenso wie wikipedia
+http://qubit.org/tutorials.html hat einige interessante ausstellungen zu einigen themen, die man sich interessieren könnte (obwohl einige auf das populäre publikum ausgerichtet sind)
+kein besserer weg, als direkt zu tauchen: http://arxiv.org/archive/quant-ph
+
+
+
+
+
+
+
+verhalten der goldenen hamster in vier verschiedenen käfig größen gehalten
+june 4, 2017 nellie rodriguez main
+
+
+das ziel dieser studie war es, verhaltensunterschiede von goldenen hamstern zu analysieren, die in unterschiedlich großen käfigen untergebracht und milden haltungsroutinen-stressoren unterworfen wurden und rückschlüsse auf ihr wohlergehen ziehen. größenbezogene unterschiede im draht-nagen, gebrauch des daches ihres schutzes als zusätzlicher raum, gebrauch des freien raumes und gewichtszunahme zeigten verringertes wohlergehen in den kleinen käfigen an. unsere untersuchungen zeigten, dass, obwohl die hamster in allen käfiggrößen draht-nagen zeigten, die hamster in kleinen käfigen häufiger und längere zeit draht-nagen. in kleinen käfigen nutzten mehr hamster das dach ihres schutzes, was darauf hindeuten könnte, dass zusätzlicher raum das wohlbefinden erhöht hat. die verwendung von freiflächen war in größeren käfigen viel ausgeprägter und die gesamte fläche der größeren käfige wurde regelmäßig verwendet.
+die käfiggröße beeinflusste die laufradaktivität von hamster nicht. dies wurde erwartet, weil nagetiere das radfahren sehr genau einschätzen, wie in einem operant-test mit mäusen gezeigt (sherwin 1998b). hamster nagten länger und häufiger auf den draht als auf andere gegenstände in ihrem käfig. das nagen auf papprohren, zweigen oder dem hölzernen unterstand dient verschiedenen zwecken, wie zum beispiel bei der abnutzung und reinigung der zähne und auch bei der herstellung von nestmaterial, der lebensmittelfaser usw. (fischer persönliche beobachtung 2004). einige hamster zerkleinerten das papprohr und nutzten seine stücke als nestmaterial. im gegensatz dazu schien das draht-nagen ineffektiv zu sein; es konnte nicht durch die bereitstellung von natürlichem material zum kauen verhindert werden, so dass draht-nagen und nagen an gegenständen vermutlich eine andere ursache und / oder funktion haben.
+wire-nndern könnte ein versuch sein, aus dem käfig zu entkommen (nevison et al 1999, würbel et al. 1998a, b), aber es kann auch als umgeleitetes verhalten an einem ersatzobjekt und damit als abnormales verhalten oder sogar als ein interpretiert werden stereotypie stereotypisches verhalten ist üblicherweise als sich wiederholende, unveränderliche verhaltensmuster ohne offensichtliches ziel oder funktion (ödberg 1987), bei tieren, die unter kargen wohnverhältnissen gehalten werden (mason 1991) definiert. stereotypen werden häufig bei gefangenen nagetieren beobachtet (würbel & stauffacher 1996, 1997, 1998, wiedenmayer 1997, waiblinger 1999) und sind gemeinsame indikatoren für schlechtes wohlergehen (zb review von mason 1991, würbel 2001)
+wire-nnn in hamster in der vorliegenden studie war repetitiv, invariant, an einem bestimmten ort auf dem draht oben des käfigs durchgeführt (würbel et al 1996), und ohne funktion. auch wenn dieses verhalten nicht als stereotypie betrachtet wird, sondern ein versuch, aus dem käfig zu entkommen, ist es immer noch ein hinweis darauf, dass die draht-nagenden hamster nicht mit ihrem gehäuse zufrieden waren. daher zeigten die ergebnisse dieser studie, dass das gehäuse in großen käfigen das wohlergehen der hamster verbesserte, weil es zu weniger draht-nagen führte. der größte käfig, mit einer größe von 10.000 cm2, war derjenige mit der kürzesten dauer des draht-nagels sowie der niedrigsten frequenz.
+die dauer und häufigkeit des draht-nagels in 10.000 cm2 war die hälfte davon in 5.000 cm2 käfigen, wenn auch nicht signifikant. jedoch, obwohl hamster in kleinen käfigen mehr drahtwärme als hamster in größeren käfigen untergebracht, führte drahtwrack in allen käfigen auf. dies deutet darauf hin, dass sogar ein käfig von 10.000 cm2 zu klein für weibliche goldene hamster war. wenn wir die natürliche territoriumgröße vom mindestabstand zwischen den besetzten grabstätten in syrien abschätzen, so haben unsere größten käfige nur 0,007% davon ausgeschöpft.
+die positive korrelation zwischen draht-nagen und klettern kann durch die präferenz von einigen hamster erklärt werden, um zu einem bestimmten punkt auf der vorderseite oder der oberseite des käfigs zu knebeln auf dem draht zu klettern. manche hamster kletterten beim pausen während des draht-nagels. sie kletterten gewöhnlich auf die vorderseite des drahtspitzens hin und her, kehrten dann aber wieder zum selben punkt zurück und starrten den draht-nagel. das klettern wurde als quellverhaltensmuster des stereotypen draht-nagens in labormäusen betrachtet (würbel et al. 1996). zusätzlich zu verhaltensbeobachtungen könnten physiologische parameter nützlich sein, um das wohlergehen der goldenen hamster zu beurteilen.
+die gesundheit der tiere ist ein wichtiger faktor für das wohlergehen. fettleibigkeit und ihre negativen konsequenzen sind bei haustieren üblich. deshalb ist es wichtig, den hamster die passende käfiggröße zu geben, wo das risiko der fettleibigkeit minimiert wird. mögliche gründe für die höhere gewichtszunahme in kleinen käfigen könnten geringerer energieaufwand und / oder größere nahrungsaufnahme sein. schnelleres laufen in großen käfigen, die mehr energie nutzt, würde den höheren energieverbrauch erklären. hamster in kleineren käfigen gewannen mehr gewicht und waren offensichtlich in der lage, mehr energie auf wachstum zu verbringen. in einem fortgeschrittenen alter wird keine übermäßige energie für das wachstum verwendet, an welcher stelle die adipose ein problem in kleinen käfigen werden könnte.
+das fehlen eines laufrades oder andere aktivitäten mit der möglichkeit für hohen energieaufwand könnte die adipose weiter erhöhen. daher scheinen die käfiggrößen 1 und 2 zu klein für das gehäuse der haustierhamster zu sein. der mangel an signifikanten unterschiede im hormonellen niveau könnte auf methodische probleme zurückzuführen sein (gebhardt-henrich et al.). aufgrund der empfindlichkeit von hormonellen messungen zu (manchmal unbekannten und unvermeidlichen) umgebungsfaktoren müssen interpretationen der stressniveaus von goldenen hamstern, die auf diesen hormonen basieren, mit vorsicht gemacht werden.
+es ist wahrscheinlich, dass mehrere probleme zum tierschutz 2007 beitragen, 16: 85-93 92 fischer und die schwierigkeiten, hormonelle messungen in bezug auf stress zu interpretieren, und diese wurden an anderer stelle ausreichend diskutiert (buchanan & goldsmith 2004, rushen 1991). allerdings deuten die messungen der nebennieren darauf hin, dass die stresswerte nicht zwischen den käfiggrößen unterschiedlich waren. der stress, der durch häufige störungen, die von unseren stress-behandlungen nachgeahmt wurden, erlebt wurde, kann nicht durch die größe des käfigs beeinflusst werden. alternativ könnten 13 wochen in den verschiedenen käfigen nicht ausreichen, um zu unterschiedlich großen nebennieren zu führen. das fehlen einer signifikanten wirkung von stressoren auf verhalten könnte auch bedeuten, dass die stressoren waren nicht stark genug, um eine antwort zu entlocken. allerdings erhöhte sich die stressbehandlung (kurzfristig) im rad. es gibt zahlreiche interpretationen der ursachen der laufradaktivität (siehe die rezension von sherwin 1998a).
+eine mögliche erklärung ist, dass die situation während der stress-behandlung war aversive für die hamster und sie versuchten, aus dem gebiet zu entkommen. das laufen im rad könnte die illusion gegeben haben, dass sie das gebiet verlassen konnten. die möglichkeit, dass das laufen im rad dazu beigetragen hat, erfahrenen stress zu reduzieren, ist eine, die über den rahmen dieses papiers hinausgeht und weiterhin gegenstand einer laufenden studie ist. im vergleich zu anderen studien wurden alle käfige in unserer studie bereichert. alle käfige wurden mit den gleichen strukturen (bereicherung) eingerichtet, aber es gab noch mehr freien platz in großen käfigen. in großen käfigen hatten hamster die möglichkeit, längere strecken zu führen, während anreicherungsgegenstände und die möglichkeit, andere verhaltensweisen durchzuführen, in allen käfigen gleich waren.
+es wäre interessant zu sehen, ob die stereotypen drahtwärme in großen käfigen mit mehr bereicherung bestehen würde. ödberg (1987) stellte fest, dass eine zunahme der käfiggröße das stereotype springen in den vollen nicht beeinflusste, während die anreicherung mit zweigen es reduzierte. obwohl das springen nicht analog zum draht-nagen in hamster ist, zeigt es, dass die struktur der umgebung für die eingesperrten tiere von größerer bedeutung sein kann als die größe des käfigs. spangenberg et al (2005) beherbergen ratten entweder einzeln in kleinen käfigen (1.092 cm2) mit nur einem schwarzen plastikröhrchen oder in gruppen in größeren käfigen (3.938 cm2), die mit mehr und verschiedenen anreicherungen versehen waren. ratten in größeren, mehr angereicherten käfigen zeigten ein vielfältigeres verhaltensrepertoire, das aus laufen, klettern und sozialen verhaltensweisen bestand. die größe eines käfigs und eine bereicherung sind nicht unabhängig. große käfige bieten mehr möglichkeiten und platz für anreicherung als kleine käfige. mehr anreicherungsposten könnten zu weniger stereotypen verhaltensweisen führen und das tierschutz verbessern (zb ödberg 1987, würbel et al 1998, kuhnen 1999b).
+die kombination eines großen käfigs mit einer entsprechenden anreicherung könnte eine noch größere verbesserung der wohlfahrt in goldenen hamster sein. das wohlergehen von käfigen ist von vielen faktoren betroffen (bantin & sanders 1989). weiss und schtick 1982 (in bantin & sanders 1989) zeigten, dass ratten lieber in großen, engen käfigen im vergleich zu großen, breiten käfigen leben. obwohl unsere käfige viel größer waren als die käfige in der erwähnten studie, könnte die form des käfigs auch für hamster wichtig sein. der freie platz wurde in allen käfiggrößen verwendet. hamster in den beiden größeren käfigen benutzten die ganze grundfläche und verbrachten mehr zeit im freiflächen als hamster in den beiden kleineren käfigen. doch die hamster in den beiden größeren käfigen gingen an den wänden entlang, so dass spuren gebildet wurden. thigmotaxis (dh in der nähe der wände und vermeidung der mitte eines gebietes) ist bei nagetieren üblich und wird manchmal als ein index der angst verwendet (simon et al 1994, syme & hughes 1972). deshalb ist eine erklärung dafür, dass hamster in größeren käfigen mehr als hamster in kleineren käfigen erforscht haben, trotz einer inhärenten angst vor freiflächen. ein weiterer faktor ist eine zusätzliche plattform im käfig.
+der schweizer tierschutz (sap) postuliert einen eingefügten boden in kleinen käfigen, um den vorhandenen platz zu vergrößern. der zusätzliche platz auf dem hölzernen unterstand wurde von fast jedem hamster in den beiden kleinsten käfigen benutzt. im gegenteil nur wenige hamster in den größeren käfigen benutzten die erhöhte plattform. obwohl dauer und häufigkeit sich nicht signifikant unterscheiden, deutet dies darauf hin, dass hamster in den beiden kleinsten käfiggrößen die oberseite des hölzernen schutzes als zusätzlichen platz genutzt haben konnten, während hamster in den größeren käfigen genügend platz hatten und lieber auf dem boden bleiben wollten .
+alle hamster benutzten das sandbad regelmäßig, aber nicht ausschließlich. die meisten hamster wälzten sich im sand. so scheint ein sandbad für das wohlergehen der goldenen hamster sehr wichtig zu sein, sei es in kleinen oder großen käfigen untergebracht. schlussfolgerungen und tierschutzangaben da die häufigkeit und dauer des draht-nagels in kleineren käfigen deutlich höher war als in den großen käfigen, konnte das wohlergehen von haustier-goldenen hamster durch die bereitstellung von angereicherten käfigen von mindestens 10.000 cm2 verbessert werden. weitere untersuchungen sollen das verhalten und die entwicklung des stereotypen draht-nagels von goldenen hamster in unterschiedlich angereicherten käfigen behandeln.
+
+
+
+
+
+
+
+
+
+
+search for:
+
+
+
+   search
+
+
+categories
+
+main
+
+
+
+
+recent posts
+
+
+quantentheorie
+
+
+was sind die gesundheitsrisiken, die mit mobiltelefonen und ihren basisstationen verbunden sind?
+
+
+lots-dsc : long term stability of dye solar cells for large area power applications
+
+
+automatische nummernschilderkennung
+
+
+methoden zur zusammensetzung einer liste der pflanzen quarantine krankheiten und pests
+
+
+
+
+
+
+
+
+
+		wordpress theme: poseidon by themezee.	
+
+
+
+
+
+
+
+
+
+
+
+

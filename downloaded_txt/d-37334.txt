@@ -1,0 +1,403 @@
+
+
+
+
+
+
+
+
+
+
+
+afridns - african domain names
+
+
+
+
+
+
+
+
+
+francais | people and organisations | demographics
+
+
+
+afridns is an aggregation of information about african domain names. 
+
+this site is administered by alan levin with an aim to further establish discussion between all interested parties, to understand the dns how it affects us, determine and articulate positions for mutual benefit. 
+
+note: aftld (http://aftld.org) is a membership organisation for cctld administrators. afridns is established for the entire internet community. hosted by vanilla
+
+some relevant subpages include - africans involved in icann and its various subdomains, domain numbers and activity for africa.
+
+the following three lists of african countries is arranged by country code, name and finally from north to south (unverified). the number of @large members from each country is indicated in the north to south list.
+
+
+
+
+alphabetical by country code:
+
+.ao, 
+.bf, 
+.bi, 
+.bj, 
+.bw, 
+.cd, 
+.cf, 
+.cg, 
+.ci,
+.cm,
+.cv, 
+.dj, 
+.dz, 
+.eg, 
+.eh, 
+.er, 
+.et, 
+.ga, 
+.gh, 
+.gm, 
+.gn, 
+.gq, 
+.gw, 
+.ke, 
+.km, 
+.lr, 
+.ls, 
+.ly, 
+.ma, 
+.mg, 
+.ml, 
+.mr, 
+.mu,
+.mw, 
+.mz, 
+.na, 
+.ne, 
+.ng, 
+.re, 
+.rw, 
+.sc, 
+.sd, 
+.sh, 
+.sl, 
+.sn, 
+.so, 
+.st, 
+.sz, 
+.td, 
+.tg, 
+.tn, 
+.tz, 
+.ug, 
+.za, 
+.zm, 
+.zw
+
+
+ 
+
+
+alphabetical by country: 
+
+algeria, 
+angola, 
+ascension island, 
+benin, 
+botswana,  
+burkina faso, 
+burundi, 
+cameroon, 
+cape verde, 
+central african republic, 
+chad, 
+comoros, 
+congo, democratic republic, 
+congo, republic of, 
+côte d'ivoire, 
+djibouti, 
+egypt, 
+equatorial guinea, 
+eritrea, 
+ethiopia, 
+gabon, 
+gambia, 
+ghana, 
+guinea, 
+guinea-bissau, 
+kenya, 
+lesotho, 
+liberia, 
+libyan arab jamahiriya, 
+madagascar, 
+malawi, 
+mali, 
+mauritania, 
+mauritius, 
+morocco, 
+mozambique, 
+namibia, 
+niger,  
+nigeria, 
+reunion island, 
+rwanda, 
+sao tome and principe, 
+senegal, 
+seychelles, 
+sierra leone, 
+somalia, 
+south africa, 
+st. helena, 
+sudan, 
+swaziland, 
+tanzania, 
+togo, 
+tunisia, 
+uganda, 
+western sahara, 
+zambia, 
+zimbabwe
+
+
+from north to south: 
+
+(listed with country code, country name, and icann @large registrants)
+
+
+
+
+
+
+
+
+.dz - algeria - 5
+http://www.nic.dz/ (english and french), requires a local presence, price 1000 da ht (~us$14.5)
+
+.tn - tunisia - 14
+http://www.ati.tn/nic
+must be a resident. 80 dt (~us$60) set up cost, 60 dt (~us43) annual fee, 48 dt (~us$35) annual hosting/management fee.
+
+.ma - morocco - 27
+http://www.anrt.net.ma/nic
+not functional. managed by the telecoms regulator.
+
+.ly - libyan arab jamahiriya - 1
+http://www.nic.ly/
+us$50 per year. open. 
+
+.eg - egypt - 34
+form is at egyptian universities network, name servers must be physically located in egypt, name must be related to the entity name and not be generic, registration is free.
+
+.mr - mauritania - 20
+http://www.univ-nkc.mr/nic_mr.html
+must be a resident. seems to be available at no cost.
+
+.ml - mali - 11
+http://www.point.ml/
+2017 - functional and free domain governed by policies listed at point ml content policy
+
+.sd - sudan - 2
+http://www.isoc.sd/
+2006: sudan internet society "sis" manages and maintains the cctld. various options are available, prices range from $50 - $100 per annum. appears to be healthy. 
+
+.ne - niger - 27
+http://www.intnet.ne/
+not clear from the url how to register a new domain. see here.
+
+.td - chad - 9
+http://www.tit.td/
+url not availalble
+
+.sn - senegal - 41
+http://www.ucad.sn/nic.html
+it must be sent by postal mail, signed by the administrative person in charge and stamp of the organisation. seems to be no charge at this time.
+
+
+.er - eritrea - 1
+url coming soon. meantime see here. 
+
+.cv - cap verde - 6
+ no url listed.
+
+.bf - burkina faso - 17
+ http://www.onatel.bf/domaine.htm
+ no such site?
+
+.et - ethiopia - 3
+http://www.telecom.net.et
+no clear route to registration.
+
+.dj - djibouti - 10 
+ http://www.intnet.dj/
+not all very clear yet.
+
+.gm - gambia - 4
+http://www.nic.gm
+administration updated in 2001. one-time registration fee of us$75 
+
+.ng - nigeria - 16
+http://psg.com/dns/ng/
+registrations must be from organizations with a real presence in the country and with a demonstrable intent to use the domain name on a regular basis on the internet. i.e. vanity, placemark, ... name registration is not appropriate. for trademark registration, see the trademark office. 
+
+.cm - cameroon
+http://www.camtel.cm/
+seems to be working although fairly complex manual registration process (please tell us if you have success).
+
+.gn - guinea - 7
+http://psg.com/dns/gn/
+seems to be working. must be resident. in jan 200 only one internet host carried this tld.
+
+.bj - benin - 48
+http://www.nic.bj/
+
+.so - somalia - 0
+http://www.wcd.so/
+no response from server.
+
+.gh - ghana - 112
+http://www.ghana.com
+company should be registered in ghana. us$50 per year.
+
+.tg - togo - 14
+http://www.nic.tg
+appears well supported yet very overpriced at us$270 for two years.
+
+
+.ci - côte d'ivoire - 3
+http://www.nic.ci - web enabled 2001 - not very clear on process.
+
+.sl - sierra leone - 1
+no url listed.
+
+.cf - central african republic - 7
+no url listed.
+
+.lr - liberia - 0
+no url listed. one host carrying this domain in jan 2000. handled by randy bush.
+
+.gq - equatorial guinea - 0
+http://www.getesa.gq/
+text email application form linked, unclear on cost 10,000 xaf (~us$18) is mentioned for monthly as is 150,000 xaf (~us$270). 
+
+.cd - congo, democratic republic -4
+http://www.cd
+localised (from network startup resource center to swiss based technology under ownership interpoint sarl, see more at http://www.nic.cd) in june 2001. interesting model for all cd (compact disk) related business. operating as a registry so prices are set by global market and vary by registrar.
+
+
+
+
+
+
+.ke - kenya - 21
+http://www.kenic.or.ke
+the .ke cctld is operated by kenic a not for profit organization with its members drawn from private and public sectors of the kenyan internet community. kenic has adopted a registry/registrar model with the registrars drawn from kenyan based companies. domain registration pricing is per annum at kshs 2320 (~us$30). registrations are closed to residents in kenya.
+ 
+
+.ug - uganda - 12
+http://www.registry.co.ug/
+the domain is administered by charles musisi under the following guiding policies: us$50.00 per annum, must be operating in uganda, must be used within 3 months: top level domain-ug, second level -ac(academic), co (corporate),or (organisation),go (government body).  
+
+.cg - congo, republic of - 0
+http://www.nic.cg/
+moved to localised (swiss based) control from nsrc in 2001. free for citizens and residents! 200 swiss francs registration and 350 swiss francs per annum for non-residents. 
+
+.ga - gabon - 19
+ no url listed.
+
+.st - sao tome and principe - 0
+http://www.nic.st
+ also called the 'site' domain - excellent commercial usage! 
+
+.tz - tanzania - 6
+ http://www.psg.com/dns/tz/
+registrations must be from organizations with a real presence in the country and with a demonstrable intent to use the domain name on a regular basis on the internet. free and managed by randy bush.
+
+ .rw - rwanda - 0
+ http://www.nic.cd/
+moved from us based network startup resource center to nic congo - interpoint sarl in 1999. price remained free for citizens/lawful residents of rwanda and for foreign entities: first year 550 swiss francs, next year 350 swiss francs.
+
+
+.bi - burundi - 3
+http://www.nic.bi/
+this was initially managed by us based network startup resource center. in mid 2002 it moved local under the leadership of victor ciza, with the cost changing to 100 euros per two years. i encourage registrars to contact victor for special pricing!
+
+ 
+
+ .ao - angola - 3
+http://www.dns.ao/ appears that first domain costs us$300.00 per annum, and additional names at us$450.00 per annum. only third levels available below co.ao -  for commercial institutions, seated in angola; ed.ao -  for educational institutions, seated in angola; gv.ao -  for governamental institutions, seated in angola; it.ao  -  for international institutions, seated outside angola; og.ao -  for any other organisations, seated in angola; pb.ao -  sub-domain for publishing, seated in angola; 
+
+.zm - zambia - 4
+http://www.zamnet.zm
+us$100 for 2 years.
+
+.sc - seychelles - 1
+http://www.nic.sc/
+
+.mw - malawi - 1
+ http://www.registrar.mw
+this was a long political story that had impact on the internet industry in malawi seems to have been stabilised by redelegation to malawi sustainable development network programme in october 2002. click here to see historic discussions.
+the current pricing is us$100 registration and $50 renewal per annum. register at http://www.registrar.mw, a site with well communicated detail.
+
+
+
+
+.mz - mozambique - 4
+no url listed.
+
+.km - comoros - 1
+ no url listed.
+
+.mg - madagascar - 31
+ no url listed.
+ 
+ .yt - mayotte - 0 
+http://www.nic.yt/
+
+.sh - st. helena - 0
+ http://www.nic.sh/
+same operator as ascension island. â£60 year 1, â£30/yr thereafter. residents (there are very few) are not charged.
+
+
+.zw - zimbabwe - 8
+no url listed.
+
+.na - namibia
+http://www.na-nic.com.na/
+
+.bw - botswana - 3
+ no url listed.
+
+.mu - mauritius - 8
+http://www.nic.mu/
+this is fully functional and registrations are growing.
+
+
+
+.re - reunion island - 4
+ http://www.afnic.re/
+
+.za - south africa - 201
+http://www.zadna.org.za
+this tld used to account for over 80% of domains registered in the region. it is highly structured and commercial domains can be registered at http://co.za
+
+
+.sz - swaziland - 2
+http://www.sispa.org.sz/
+established through the swaziland ispa in oct 2005.
+
+
+.ls - lesotho - 0
+  no url listed for .ls. see http://www.co.ls/ for .co.za available at m200 per year (lesotho malotis worth in total ~us$30) 
+
+
+
+
+
+hosted by vanilla
+contact: webmaster@afridns.org
+
+
+
+
+

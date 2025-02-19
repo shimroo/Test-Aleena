@@ -1,0 +1,146 @@
+
+
+
+clive's page
+
+clive's page
+last changed: 2020-12-23
+this is clive feather's home page.
+it isn't about work, but about my personal interests.
+since i'm a busy man, i don't have a lot of time to work on this page, and
+it isn't the best example of design in the world. however, here are some links
+to things i've done.
+
+
+
+
+i've written a book!
+this is my first book, published in october 2020 by crowood press.
+this page is not an electronic copy of the book that you can read for free;
+if you want the book, you'll have to buy it.
+rather, it contains some details of why and how the book was written,
+various things that i didn't have space to put in the book or were too detailed for the expected reader,
+a piece i wrote for modern railways,
+and - regrettably - errata.
+
+
+
+
+clive's underground line guides - a line-by-line guide to the features and
+history of london's underground. as well as being the oldest such system in the
+world, the underground remains one of the largest and most complex.
+
+
+
+ more
+railway material, including links to other sites. this isn't a
+trainspotters' site. my main interests are in signalling and safety, and this
+bias is reflected in the contents of the pages.
+
+
+
+
+
+information about the psion series 3, 3a, and 3c pocket computers, including
+the psionics files, which provide detailed
+information for those wanting to do more programming than the opl manual
+explains.
+these pages are no longer being maintained and are retained for historical
+interest only.
+
+
+
+
+c -
+the language and the standard.
+for many years i was a member of the uk panel on c, and
+took an active part in the development of the 1999 c standard ("c99").
+to this end, i made a number of proposals and wrote a number of other
+papers.
+
+
+
+
+
+telephones - information about telephones, telephone numbers, and call
+charging.
+
+
+
+ presentations that i have
+given.
+
+
+
+ notes from a meeting at the
+home office on 1996-01-19 to discuss the issues of regulating "adult
+material" on the internet. while the meeting itself reached little or no
+conclusions, it was the start of quite a lot of activity culminating in the
+formation of the
+internet watch foundation.
+
+
+
+
+my ll.m. essays -
+the essays and dissertation i wrote between 2007 and 2009 while taking
+an ll.m. at the university of edinburgh.
+
+
+
+
+legal issues, such as the
+interception of email.
+
+
+
+
+the romans and some oddities about them, such as a
+catalogue of the legions.
+
+
+
+science
+and mathematics; a collection of random articles about things.
+
+
+
+nominet and me - nominet runs the .uk domain space and i had various
+bits of involvement with it.
+
+
+
+
+miscellanea that don't deserve their own headings. for example, there is a
+description of the
+rules for easter, where they came from, and how
+to calculate the correct date.
+
+
+
+
+me
+email from me tends to come from a number of places due to the complexity of
+my networking arrangements. however, the best place to send mail to me
+is my home address
+<clive@davros.org>.
+my pgp public key block is available. the key can
+also be found on various public servers, with id 0xd3159ae1 and fingerprint 07b0
+c6fb 06ec 7da8  549c 8609 bced 4cd4.
+a declaration of interests.
+and finally there are at least three pages about me. just click on
+the pictures:
+
+
+(biography on the icra site)
+(page by jutta degener)
+(page by mike bristow)
+
+
+
+ this button will always
+return you to this page.
+
+
+(i don't normally do "awards", but i do like this one. i shall have to
+see about getting a higher score.)

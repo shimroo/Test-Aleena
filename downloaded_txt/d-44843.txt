@@ -1,0 +1,711 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+search for a property
+interactive map search
+find a realtor or company
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search for homes and properties
+
+
+
+
+
+quick search
+
+
+
+
+county:
+
+any county
+adams (10)
+barron (3)
+brown (13)
+buffalo (19)
+burnett (1)
+calumet (34)
+chippewa (4)
+clark (2)
+columbia (3)
+crawford (12)
+dane (25)
+delta (1)
+dodge (118)
+door (9)
+douglas (1)
+eau claire (3)
+fillmore (1)
+fond du lac (133)
+forest (5)
+grant (7)
+green (4)
+green lake (15)
+houston (36)
+iowa (1)
+iroquois (2)
+jackson (13)
+jefferson (158)
+juneau (6)
+kenosha (461)
+kewaunee (4)
+la crosse (313)
+langlade (3)
+lincoln (3)
+manitowoc (250)
+marinette (48)
+marquette (9)
+mchenry (1)
+menominee (3)
+menominee (mi) (2)
+milwaukee (1762)
+monroe (44)
+oconto (4)
+oneida (3)
+out of state (2)
+outagamie (3)
+ozaukee (305)
+pepin (2)
+pierce (1)
+polk (1)
+portage (1)
+price (1)
+racine (672)
+richland (6)
+rock (15)
+rusk (1)
+sauk (8)
+shawano (14)
+sheboygan (492)
+st.croix (1)
+taylor (4)
+trempealeau (40)
+vernon (91)
+vilas (2)
+walworth (649)
+washington (425)
+waukesha (1078)
+waupaca (5)
+waushara (4)
+winnebago (21)
+winona (18)
+wood (5)
+
+
+
+city:
+
+-- location --
+adell
+albany
+allenton
+allouez
+alma
+amberg
+amery
+antigo
+appleton
+arcadia
+arkansaw
+arkdale
+athelstane
+augusta
+bagley
+baldwin
+bangor
+baraboo
+bayside
+beaver dam
+belgium
+beloit
+berlin
+big bend
+birchwood
+black river falls
+blair
+blue river
+boscobel
+brillion
+bristol
+brookfield
+brown deer
+brownsville
+buffalo city
+burlington
+burnett
+butler
+caledonia
+cambridge
+cameron
+campbellsport
+cascade
+cashton
+cato
+cazenovia
+cedar grove
+cedarburg
+chilton
+chippewa falls
+cleveland
+clinton
+clintonville
+clyman
+cochrane
+colgate
+collins
+columbus
+conover
+conrath
+coon valley
+crandon
+crivitz
+cudahy
+dakota
+danbury
+darien
+de pere
+de soto
+delafield
+delavan
+dousman
+durand
+eagle
+east troy
+eastman
+eau claire
+eden
+egg harbor
+eitzen
+elkhart lake
+elkhorn
+elm grove
+elmwood park
+elroy
+ettrick
+fairchild
+fennimore
+ferryville
+fond du lac
+fontana
+fort atkinson
+fountain city
+fox lake
+fox point
+franklin
+franksville
+fredonia
+fremont
+friendship
+galesville
+gays mills
+genesee depot
+genoa
+genoa city
+germantown
+glenbeulah
+glendale
+goodman
+grafton
+green bay
+green lake
+greendale
+greenfield
+gresham
+hales corners
+harshaw
+hartford
+hartland
+helenville
+hillsboro
+hixton
+holmen
+honey creek
+horicon
+houston
+howards grove
+hubertus
+hustisford
+iron ridge
+ixonia
+jackson
+janesville
+jefferson
+johnson creek
+juneau
+kansasville
+kaukauna
+kellnersville
+kenosha
+keshena
+kewaskum
+kewaunee
+kiel
+kohler
+la crescent
+la crosse
+la farge
+la valle
+lac du flambeau
+lake geneva
+lake mills
+lake tomahawk
+lancaster
+lannon
+laona
+larsen
+lisbon
+lodi
+lomira
+luxemburg
+madison
+malone
+manitowoc
+marinette
+markesan
+marshall
+marshfield
+mauston
+mayville
+melrose
+menasha
+menominee
+menomonee falls
+mequon
+merrill
+merton
+middleton
+milton
+milwaukee
+mindoro
+mishicot
+monona
+montello
+mount calvary
+mount pleasant
+mountain
+mukwonago
+muskego
+nashotah
+necedah
+neenah
+neillsville
+nekoosa
+neopit
+neshkoro
+new berlin
+new franken
+new holstein
+newburg
+newton
+north fond du lac
+north prairie
+oak creek
+oakfield
+oconomowoc
+okauchee
+onalaska
+ontario
+oostburg
+oregon
+oshkosh
+oxford
+palmyra
+park falls
+pell lake
+pembine
+pewaukee
+platteville
+pleasant prairie
+plymouth
+poplar
+port washington
+portage
+porterfield
+prairie du chien
+princeton
+pulaski
+racine
+random lake
+readstown
+reedsburg
+reedsville
+reeseville
+rib lake
+richfield
+richland center
+ripon
+river falls
+river hills
+rochester
+rock
+royalton
+rubicon
+rudolph
+rushford
+saint charles
+saint cloud
+saint francis
+saint nazianz
+salem
+saukville
+sharon
+shawano
+sheboygan
+sheboygan falls
+sheldon
+sherwood
+shorewood
+silver cliff
+silver lake
+sister bay
+slinger
+soldiers grove
+somers
+south milwaukee
+sparta
+spring green
+spring grove
+springfield
+stephenson
+stockton
+stoddard
+sturgeon bay
+sturtevant
+suamico
+sullivan
+summit
+sun prairie
+suring
+sussex
+taylor
+theresa
+thiensville
+three lakes
+tomah
+trempealeau
+trevor
+twin lakes
+two rivers
+union grove
+valders
+verona
+viola
+viroqua
+wabeno
+waldo
+wales
+walworth
+warrens
+washington island
+waterford
+waterloo
+watertown
+waukesha
+waupaca
+waupun
+wausaukee
+wauwatosa
+wauzeka
+west allis
+west bend
+west milwaukee
+west salem
+westby
+westfield
+white lake
+whitefish bay
+whitehall
+whitelaw
+whitewater
+wild rose
+willard
+williams bay
+wilton
+wind lake
+wind point
+winneconne
+winona
+wisconsin dells
+wisconsin rapids
+wittenberg
+woodstock
+
+use the ctrl key to select multiple cities.
+
+
+
+
+mls numbers:
+
+
+
+property type
+
+property type
+single family home
+									
+townhome or condo
+									
+multi-family home
+									
+lots and land
+									
+commercial
+									
+duplex
+									
+rental
+									
+
+
+
+beds
+
+beds
+any
+1+
+2+
+3+
+4+
+
+baths
+
+baths
+any
+1+
+2+
+3+
+4+
+
+
+
+price range
+
+minimum
+any
+$25,000
+$50,000
+$75,000
+$100,000
+$125,000
+$150,000
+$175,000
+$200,000
+$225,000
+$250,000
+$275,000
+$300,000
+$350,000
+$400,000
+$450,000
+$500,000
+$550,000
+$600,000
+$650,000
+$700,000
+$750,000
+$800,000
+$850,000
+$900,000
+$950,000
+$1,000,000
+$1,500,000
+$2,000,000
+$2,500,000
+$3,000,000
+$3,500,000
+$4,000,000
+$4,500,000
+$5,000,000
+any
+
+
+maximum
+any
+$25,000
+$50,000
+$75,000
+$100,000
+$125,000
+$150,000
+$175,000
+$200,000
+$225,000
+$250,000
+$275,000
+$300,000
+$350,000
+$400,000
+$450,000
+$500,000
+$550,000
+$600,000
+$650,000
+$700,000
+$750,000
+$800,000
+$850,000
+$900,000
+$950,000
+$1,000,000
+$1,500,000
+$2,000,000
+$2,500,000
+$3,000,000
+$3,500,000
+$4,000,000
+$4,500,000
+$5,000,000
+any
+
+
+
+
+  show open houses only
+								
+
+
+
+
+  show virtual tours only
+								
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+metro/mls provides data services to realtor brokers and agents. one of the services is support of this website. the properties on this website are updated each night and photos are included as they become available.not all properties available for sale in a market are included on this site.
+    
+
+
+
+
+thiensville
+germantown
+mequon
+menomoneefalls
+brown deer
+bayside
+glendale
+whitefish bay
+shorewood
+brookfield
+elm grove
+wauwatosa
+west allis
+new berlin
+greenfield
+hales corners
+greendale
+muskego
+franklin
+st francis
+cudahy
+southmilwaukee
+oak creek
+milwaukee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+search for a property
+interactive map search
+find a realtor or company
+contact the webmaster
+
+© 2025 multiple listing service, inc. all rights reserved. - dmca notice
+built and powered by constellation web solutions
+
+
+
+
+
+
+

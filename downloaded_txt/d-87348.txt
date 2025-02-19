@@ -1,0 +1,1538 @@
+
+
+
+
+halliburton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle primary navigation
+
+
+
+
+
+
+
+
+
+
+subsurface
+
+
+
+
+
+
+
+back
+subsurface
+
+formation evaluation
+
+back
+formation evaluation
+
+surface data logging
+
+
+logging-while-drilling
+
+
+measurement-while-drilling
+
+
+wireline openhole logging
+
+
+wireline cased hole logging
+
+
+slickline
+
+
+borehole seismic
+
+
+digital rock analysis
+
+
+view all formation evaluation
+
+
+
+
+reservoir testing
+
+back
+reservoir testing
+
+drill stem testing
+
+
+surface well testing
+
+
+subsea safety systems
+
+
+view all reservoir testing
+
+
+
+
+data analysis & operations
+
+back
+data analysis & operations
+
+applied geoscience
+
+
+digital rock analysis
+
+
+coring services
+
+
+automation and remote operations
+
+
+integrated rock analysis
+
+
+view all data analysis & operations
+
+
+
+
+subsurface intelligence
+
+back
+subsurface intelligence
+
+global and regional screening
+
+
+basin and play fairway analysis
+
+
+prospects generation and evaluation
+
+
+appraise well results
+
+
+view all subsurface intelligence
+
+
+
+
+software
+
+
+
+                view all subsurface
+              
+
+
+
+
+
+
+
+logix® real-time virtual logging
+
+
+
+real-time, high-density data transfer from any wellsite location
+explore virtual logging
+
+
+
+
+floconnect® surface automation platform
+
+
+
+automated solutions for efficient and safe surface well testing operations
+explore floconnect
+
+
+
+
+automated choke manifold case study
+
+
+
+accurate set of well testing data achieved without disruption and benchmark created
+read case study
+
+
+
+
+
+
+
+
+
+
+well construction
+
+
+
+
+
+
+
+back
+well construction
+
+integrated well construction
+
+
+drilling and completion fluids
+
+back
+drilling and completion fluids
+
+drilling fluids solutions
+
+
+solids control
+
+
+separation and handling
+
+
+reservoir drilling fluids
+
+
+view all drilling and completion fluids
+
+
+
+
+drilling
+
+back
+drilling
+
+drill bits
+
+
+directional drilling
+
+
+drilling optimization
+
+
+measurement-while-drilling
+
+
+magnetic ranging solutions
+
+
+surface data logging
+
+
+managed pressure drilling services
+
+
+pipe recovery
+
+
+well control solutions
+
+
+view all drilling
+
+
+
+
+automation and remote operations
+
+
+formation evaluation
+
+back
+formation evaluation
+
+surface data logging
+
+
+logging-while-drilling
+
+
+measurement-while-drilling
+
+
+wireline openhole logging
+
+
+wireline cased hole logging
+
+
+slickline
+
+
+borehole seismic
+
+
+view all formation evaluation
+
+
+
+
+well cementing
+
+back
+well cementing
+
+cementing equipment
+
+
+cementing solutions
+
+
+cement evaluation
+
+
+cementing software
+
+
+cement systems and additives
+
+
+casing equipment
+
+
+view all well cementing
+
+
+
+
+well construction hardware
+
+back
+well construction hardware
+
+liner hangers
+
+
+multilateral systems
+
+
+cementing retainers and bridge plugs
+
+
+casing equipment
+
+
+frac/toe sleeves
+
+
+annular barrier packers
+
+
+view all well construction hardware
+
+
+
+
+agile field development
+
+back
+agile field development
+
+reservoir characterization
+
+
+engineering and start-up
+
+
+drilling and completions engineering
+
+
+drilling geomechanics
+
+
+real time as a service
+
+
+view all agile field development
+
+
+
+
+software
+
+
+
+                view all well construction
+              
+
+
+
+
+
+
+
+logix® automation and remote operations
+
+
+
+drive reliability and efficiency in well construction through automation
+explore logix
+
+
+
+
+drilling performance optimizer case study
+
+
+
+automation solutions reduce well delivery time
+read case study
+
+
+
+
+logix® automated cementing
+
+
+
+remote controlled, autonomous offshore cementing for operational efficiency.
+explore automated cementing
+
+
+
+
+
+
+
+
+
+
+completions
+
+
+
+
+
+
+
+back
+completions
+
+well completions
+
+back
+well completions
+
+intelligent completions
+
+
+isolation barrier valves
+
+
+liner hangers
+
+
+multilateral systems
+
+
+production packers
+
+
+subsurface flow controls
+
+
+subsurface safety valves
+
+
+sand control
+
+
+annular barrier packers
+
+
+frac / toe sleeves
+
+
+frac plugs
+
+
+cementing retainers and bridge plugs
+
+
+thru-tubing intervention tools
+
+
+perforating
+
+
+view all well completions
+
+
+
+
+wellbore service tools
+
+back
+wellbore service tools
+
+wellbore cleaning technology
+
+
+perforating
+
+
+service packers
+
+
+well suspension tools
+
+
+plug and abandonment tools
+
+
+view all wellbore service tools
+
+
+
+
+completion fluids
+
+back
+completion fluids
+
+cleanup chemicals
+
+
+corrosive environment
+
+
+stimulation chemicals
+
+
+well suspension tools
+
+
+wellbore cleaning technology
+
+
+filtercake removal technologies
+
+
+filtration
+
+
+packer fluids
+
+
+view all completion fluids
+
+
+
+
+stimulation
+
+back
+stimulation
+
+hydraulic fracturing
+
+
+fracture monitoring
+
+
+sand and logistics
+
+
+fracture modeling
+
+
+acidizing services
+
+
+stimulation chemicals
+
+
+stimulation vessels
+
+
+sand control
+
+
+microdeformation monitoring
+
+
+view all stimulation
+
+
+
+
+well intervention and diagnostics
+
+back
+well intervention and diagnostics
+
+coiled tubing
+
+
+hydraulic workover
+
+
+downhole tools
+
+
+pumping and nitrogen
+
+
+custom chemistry
+
+
+subsea interventions systems
+
+
+surface flowback equipment
+
+
+pipe recovery
+
+
+thru-tubing intervention tools
+
+
+wireline cased hole logging
+
+
+slickline
+
+
+well intervention software
+
+
+well control solutions
+
+
+view all well intervention and diagnostics
+
+
+
+
+
+                view all completions
+              
+
+
+
+
+
+
+
+octiv® intelligent fracturing platform
+
+
+
+making digital automation a reality across frac operations
+explore octiv
+
+
+
+
+world oil: when electric meets intelligence
+
+
+
+powering a new era in hydraulic fracturing
+read article
+
+
+
+
+sensori™ fracture monitoring system
+
+
+
+monitoring solution for continuous data of the subsurface
+explore sensori
+
+
+
+
+
+
+
+
+
+
+production
+
+
+
+
+
+
+
+back
+production
+
+integrated well interventions
+
+
+artificial lift
+
+back
+artificial lift
+
+electric submersible pumping systems
+
+
+horizontal pumping systems
+
+
+sagd pumping systems
+
+
+geothermal pumping systems
+
+
+mining pumping systems
+
+
+municipal pumping systems
+
+
+variable speed drives
+
+
+research & development
+
+
+digital solutions
+
+
+view all artificial lift
+
+
+
+
+specialty chemicals
+
+back
+specialty chemicals
+
+upstream
+
+
+midstream
+
+
+downstream
+
+
+contract manufacturing and wholesale
+
+
+view all specialty chemicals
+
+
+
+
+well intervention
+
+back
+well intervention
+
+coiled tubing
+
+
+hydraulic work over
+
+
+downhole tools
+
+
+pumping and nitrogen
+
+
+custom chemistry
+
+
+subsea interventions systems
+
+
+integrated intervention
+
+
+mature fields annular pressure
+
+
+slickline services
+
+
+well intervention software
+
+
+well control solutions
+
+
+view all well intervention
+
+
+
+
+pipeline & process
+
+back
+pipeline & process
+
+diagnostics
+
+
+chemicals
+
+
+engineered solutions
+
+
+view all pipeline & process
+
+
+
+
+reservoir and production consulting
+
+
+software
+
+
+
+                view all production
+              
+
+
+
+
+
+
+
+intelevate™ platform
+
+
+
+design and monitoring expertise to digitally transform esp performance
+explore intelevate
+
+
+
+
+apx™ digital platform
+
+
+
+manage specialty chemical programs through real-time performance reporting
+explore apx
+
+
+
+
+ innervue™ well diagnostics service
+
+
+
+decisive insight for optimal well intervention and integrity
+explore innvervue
+
+
+
+
+
+
+
+
+
+
+abandonment
+
+
+
+
+
+
+
+back
+abandonment
+
+integrated plug and abandonment
+
+
+plug and abandonment tools
+
+back
+plug and abandonment tools
+
+cleanup chemicals
+
+
+well cementing
+
+
+integrated plug and abandonment
+
+
+cementing retainers and bridge plugs
+
+
+wellbore service tools
+
+
+view all plug and abandonment tools
+
+
+
+
+slickline services
+
+back
+slickline services
+
+digital slickline
+
+
+thru-tubing intervention tools
+
+
+cased hole logging
+
+
+perforating
+
+
+powered mechanical cutters
+
+
+view all slickline services
+
+
+
+
+well intervention
+
+back
+well intervention
+
+thru-tubing intervention tools
+
+
+coiled tubing
+
+
+hydraulic workover
+
+
+subsea safety systems
+
+
+surface flowback equipment
+
+
+pipe recovery
+
+
+view all well intervention
+
+
+
+
+
+                view all abandonment
+              
+
+
+
+
+
+
+
+well assure™ monitoring and abandonment
+
+
+
+safely plug wells and help prevent carbon emissions
+explore well assure
+
+
+
+
+solution helps reduce rig time during p&a
+
+
+
+drill tech® and rtts® enable wellbore cleanout test in single trip
+read case study
+
+
+
+
+cleanwell® wellbore cleaning technology
+
+
+
+integrated approach for wellbore cleanup and displacement
+explore cleanwell
+
+
+
+
+
+
+
+
+
+
+integrated services
+
+
+
+
+
+
+
+back
+integrated services
+
+project management
+
+back
+project management
+
+integrated well construction
+
+
+integrated well intervention
+
+
+integrated plug and abandonment
+
+
+integrated asset management
+
+
+view all project management
+
+
+
+
+well control solutions
+
+back
+well control solutions
+
+emergency response subscription
+
+
+well control assessment
+
+
+well control design
+
+
+well control remediation
+
+
+view all well control solutions
+
+
+
+
+consulting
+
+back
+consulting
+
+subsurface intelligence
+
+
+agile field development
+
+
+reservoir and production consulting
+
+
+low carbon solutions
+
+
+view all consulting
+
+
+
+
+
+                view all integrated services
+              
+
+
+
+
+
+
+
+logix® automation and remote operations
+
+
+
+advanced digital applications to enable critical engineering and operations insights
+explore logix
+
+
+
+
+integrated virtual remote operations (ivro)
+
+
+
+real-time monitoring, modeling, and drilling performance analysis
+explore ivro
+
+
+
+
+emergency response subscription service
+
+
+
+subscription service solution for ultimate well control
+explore service
+
+
+
+
+
+
+
+
+
+
+software
+
+
+
+
+
+
+
+back
+software
+
+decisionspace® 365 enterprise
+
+back
+decisionspace® 365 enterprise
+
+subsurface
+
+
+well construction
+
+
+reservoir management & production
+
+
+agile asset management
+
+
+ds365.ai
+
+
+low carbon solutions
+
+
+view all decisionspace® 365 enterprise
+
+
+
+
+decisionspace® 365 essentials
+
+
+national digital resource
+
+
+ienergy®
+
+back
+ienergy®
+
+ienergy® stack
+
+
+view all ienergy®
+
+
+
+
+smartdigital®
+
+
+open subsurface data universe™ (osdu)
+
+
+c02 storage
+
+
+
+                view all software
+              
+
+
+
+
+
+
+
+decisionspace® 365 enterprise
+
+
+
+enterprise scale deployment of tried and tested e&p software
+explore decisionspace
+
+
+
+
+collaboration with wintershall dea
+
+
+
+providing unparalleled decision-making capabilities under uncertainty while drilling
+read press release
+
+
+
+
+ienergy® hybrid cloud
+
+
+
+deploy, integrate, and manage sophisticated e&p cloud applications
+explore ienergy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+low carbon solutions
+
+
+sustainability
+
+
+media hub
+
+
+careers
+
+
+investors
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+the future of energy
+we collaborate and engineer solutions to maximize asset value for our customers.
+
+      explore
+      
+
+
+
+
+
+
+collaboration
+we work together with customers and understand that everyone has a role in providing the best solution.
+
+
+
+
+
+
+
+safety
+priority number one. we are focused on our own personal safety as well as the safety of others.
+
+
+
+
+
+
+
+reliability
+we deliver what we promise. we believe the quality of our service defines who we are.
+
+
+
+
+
+
+
+creativity
+we are resourceful. we are innovative and strive to apply the right technology and solution every time.
+
+
+
+
+
+
+
+
+
+
+
+
+explore our latest innovations
+introducing ecostar® etrsv
+ecostar is the world’s first, field-proven electric tubing-retrievable safety valve. it builds on industry-leading safety valve technology to improve completion performance and maximize asset value for operators.
+
+read announcement
+hart energy - celebrating 75 years of the frac
+our innovation, continues to maximize and optimize oil and gas production in tight gas and shale environments through electronic fracturing, automation, and visualization of what can be done tomorrow.
+
+read article
+halliburton secures major offshore drilling contract with petrobras
+the contract scope includes drilling services for development and exploration wells over a three-year period, across several offshore fields in brazil.
+
+read press release
+see more
+
+
+
+
+
+
+
+
+
+
+
+
+
+prevnext
+ 
+
+halliburton announces fourth quarter 2024 results
+halliburton company announced today net income of $615 million, or $0.70 per diluted share, for the fourth quarter of 2024
+read press release
+
+
+
+
+
+
+
+
+
+
+
+
+news feed
+
+ introducing ecostar® etrsv
+ halliburton secures major offshore drilling contract with petrobras
+ halliburton announces fourth quarter 2024 results
+ coterra energy and halliburton launch first fully automated hydraulic fracturing program
+ halliburton labs welcomes five new companies to accelerate the future of energy
+see all news
+
+
+
+
+
+
+
+
+
+
+
+
+explore how we maximize asset value
+all-electric trsv improves reliability and efficiency
+discover how the ecostar® electric tubing-retrievable safety valve is key to electrification of completion systems.
+
+read case study
+intelevate™ monitors multiple wells in ecuador
+digital platform reduced field monitoring costs by 80%, capital costs by 74%, and production deferment by 67% in amazon wells.
+
+read case study
+plug setting tool saves operator seven days of rig time
+bhka™ plug setting disconnect tool increased operational efficiency as part of deepwater deviated well-abandonment operation.
+
+read case study
+see more
+
+
+
+
+
+
+
+
+
+
+
+
+own your career at halliburton 
+
+join halliburton
+
+
+
+
+
+
+
+halliburton career story
+own your career at halliburton
+play
+02:30
+
+
+
+
+
+
+
+
+
+
+
+
+about halliburton
+
+contact us
+company overview
+careers
+investors
+hse & service quality
+suppliers
+news & press releases
+community
+
+
+
+sustainability
+
+sustainability overview
+the future of energy
+guiding principles
+climate change
+
+
+
+discover & learn
+
+media hub
+resource center
+safety data sheets
+halliburton labs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+linkedin
+
+
+
+
+
+youtube
+
+
+
+
+
+instagram
+
+
+
+
+
+facebook
+
+
+
+
+
+
+
+
+© 2025
+
+
+privacy
+
+
+terms
+
+
+
+
+
+
+
+
+

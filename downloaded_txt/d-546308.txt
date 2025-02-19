@@ -1,0 +1,876 @@
+
+
+
+learning alliances
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                jan              
+
+                12              
+
+                2024              
+
+a buddypress forum as part of group configuration
+
+published by john david smith  under uncategorized 
+
+
+creating a cohesive and engaging online collaboration group using various digital platforms can be challenging work. in digital habitats, we called this a group or community’s configuration. thinking about  the configuration is necessary, can be rewarding, but needs to be intentional. here are some specific ideas to effectively integrate zoom meetings, google groups, google shared drive, and a buddypress forum:
+
+clarifying the purpose and function of each platform: for each one to play their appropriate role, think through what’s appropriate for each platform (or tool or channel, depending on how you think of them).
+
+zoom: real-time interaction with a free flow of conversation, structured or not. chat and screen-sharing can link to other resources. include video recording for later review and viewing by participants that could not attend. video or audio recordings go to google drive.
+google (shared) drive: store documents and files (such as zoom recordings or documents) in an organized, shareable, searchable, and secure location.
+google docs: interactive editing and publication of group products. includes commenting and inline edit suggestions for collaborating as well as revision histories to track changes in the document over time. individuals can be tagged or assigned tasks by using an @google_id convention.
+google group: group-wide announcements and conversations. membership can control access to google docs and google group.
+google calendar: schedule meetings of large and small groups.
+buddypress: supports small-group discussions and holds group history in an organized and visible manner. a group’s header page can have links to google resources (drive, calendar, group) and the standard link for zoom meetings. group headers should clearly state the purpose of the buddypress group. buddypress allows for closed, open and hidden groups.
+
+
+agenda and meeting integration: create a dedicated topic for each monthly zoom meeting on either a google doc or a buddypress topic. launch the agenda doc or topic early enough so that members can propose additional agenda items. after the meeting, gather the final agenda in buddypress with a summary, the zoom recording link, and a pdf of the meeting notes stored on google shared drive. encourage members to discuss and reflect on the meeting content in the thread.
+have a repository for resources & protocols: set up a buddypress topic titled “meeting resources and protocols”. include relevant documents from the google shared drive, and elsewhere categorizing them by meeting date or topic. this central repository makes it easier for members to find and reference materials.
+action item tracker: after each zoom meeting, create a topic in the buddypress group dedicated to tracking action items. include deadlines and responsible parties. update this topic as tasks are completed, linking to any relevant documents in the google shared drive.
+email digests: buddypress can send automatic digests each day or week showing all activity in the previous period. utilize google groups to send some kind of drum-beat message summarizing the latest discussions, resources, and updates from the buddypress forum. this keeps members who are less engaged informed. they are more likely to become more engaged if they are better informed.
+polls and surveys: use google forms or survey monkey to conduct polls or surveys before meetings to gather input on agenda items or after meetings to collect feedback. summarize the results and add to the buddypress meeting topic.
+collaborative document editing: for documents that require collaborative editing, create links in buddypress topics that direct members to google shared drive where they can work together in real-time.
+integration of google calendar: embed a google calendar in the buddypress group header page to display upcoming meeting dates, deadlines, and events. provide options for members to add these to their personal calendars. synchronizing schedules can be huge.
+member and platform spotlight: regularly mention member, platform, and small-group activities in group emails or in zoom meetings to encourage awareness of group activity and its distribution across platforms.
+real-time chat during meetings: encourage members to use a live chat feature during zoom meetings. this can be for side discussions, clarifications, or sharing instant reactions. save the chat and possibly summarize key chat points and add them to the post-meeting thread.
+use the ai tools:
+
+otter.ai does a good job of producing a transcript from a zoom or other recording.
+the zoom ai assistant can create the first draft of meeting minutes. it is part of a pro account
+the krisp ai service can produce a transcript and summaries at the same time
+
+
+
+remember, the key to successful integration is to ensure that each platform complements the others and provides a seamless experience for the members. regular feedback from the members about the system’s effectiveness and suggestions for improvements can also be invaluable.
+
+
+
+
+no responses yet 
+
+
+
+
+                jul              
+
+                24              
+
+                2022              
+
+musing about data analytics in faith-based organizations
+
+published by john david smith  under communities of practice,learning,r 
+
+
+i’m calling for a birds-of-a-feather session for faith-based organizations at the rstudio::conf this week.  i thought i should write down some of my musings to be clearer about where i’m coming from.  all of these issues come up in the context of creating a “societal mirror” for shambhala that combines administrative and survey data with a view toward community reflection and renewal.  i have been using r at every point in the process that i describe below.
+faith-based organizations (fbos) have some unique characteristics that have a bearing on data collection, analysis and use. a look at fbos as context for data analytics can help us:
+identify issues that enable us to see more deeply or can limit our effortsquestion the supposedly neutral “empirical” framing with world views that are path- or faith-orientedunderstand the power of a traditional “empirical” or even “corporate” orientation to accomplish the non-capitalist goals of an fborealize that we can’t just hop out of our point of view: we can only work toward being aware of it
+need to think about different phases of the entire process of data analytics:
+
+purpose of analyticsthe data collection and interpretation may be motivated by an general curiosity or in response to a specific purpose or situation in the fbothe explicit or tacit purpose of analytics colors the whole process.the purpose tends to evolve over time; theoretically there is a feedback loop so that more and better data impacts understanding of purposeresearch about “today” is contextualized or limited by long-standing traditions based on revered notions about self, society, the world, etc.one purpose for data collection is based on the reality that religious communities / fbos are in competition forattentionmoneyviabilityrelevancemaking a difference in the worldis the purpose clear enough to justify funding or motivate energy?data collectionsampling & scope of data collectionthere are different frames for understanding the populations and groups involvedreaching core members and those with different interests or degrees of peripherality is key to gathering data that will be meaningful to various audiences.the design of questions is a compromise between different purposes and cultures.data collection is subject to an implicit contract with subjects:who is the data for?what will happen with it?why would you care to participate in a data collection process?analysismultiple efforts to analyze the data are importantdiverse interpretations or approaches increase robustness but are costly.process of achieving convergence of interpretations matters takes a lot of time.different time frames are in competition: real-time responses  vs long-term inquiry. the “ancient ones” were empiricists on some level, too.use of analyticsdifferent audiences will use the results of data analysis in different ways.  those audiences can be in conflict.organization decision-makerscommunity leadership (elders)the rank and file – whatever that means.community periphery (same patterns as for data gathering)criticshow to design and publish findings?having productive conversations about results depends on the design and facilitation of conversions among different groupsthe skills involved in the entire process are extremely diverse.iteration is key
+
+need to think about different levels of scale:
+understanding individual experience: very important… an ethnographic project a different kind of data.group level (special interest groups, leadership groups, congregations) shapes perspectivesthe “subject” of study is squishy“individual” experience“relationships”social “environment”always need to watch for the “us” versus “them” trapfbos all say: “we stand in contrast to the larger society”looking at fbos from the outside, societal levelsecular decline in america and the rise of “nones”tendency for fbos and their communities to identify themselves as separate or “above” society as a whole
+other overarching  issues:
+often fbos recruit staff for (data gathering, analysis, etc.) from “inside” the community
+recruits from inside the community may have an interpretive advantage — or shared blind spotsdrawing from a smaller talent pool may limit the breadth or depth of expertise that’s available; very small groups / single individuals make the effort fragileefforts carried out by small groups can lack diversity or debate about purpose, methods, and usesespecially if leadership has a weak understanding of any part of the process, it becomes easy for that part to be “captured” by a fringe perspective
+the alignment between legacy institutions (“administrative or spiritual headquarters”) and the community of adherents is subject to
+identity vs community membership vs network participationmultiple meanings of “community” (how expressed & how imagined)orgs and communities that claim or identify membersfbos and religions can be pro-social or toxic depending on point of view, level of scale, and period of time.generational change and geographic diversity are centrifugal forces that can test legacy institutions.time dimension; evolutionunachievable aspirations
+community and org structure matters. (similar to issues in the “voluntary sector” / nonprofits.)  some traditions are more top-down and centrally controlled than others and that changes over time.
+
+
+
+
+no responses yet 
+
+
+
+
+                nov              
+
+                20              
+
+                2021              
+
+conference call practices to generate knowledge and record learning
+
+published by john david smith  under uncategorized 
+
+
+this is a re-post from an article posted in december 2007 that was retrieved from the wayback machine at sean murphy’s (https://www.skmurphy.com/) suggestion.
+by john d. smith (https://learningalliances.net ) and shawn callahan (http://www.anecdote.com.au) with comments from madelyn blair
+this practice note has seven parts:
+practice summaryaudience“before the call” methods“during the call” methods“after the call” methodsvariants and applicabilityhealth-check questions
+1. practice summary
+teleconferences are a fact of life in business and in the life of many communities. and many of us have instant messaging tools like aim, msn, or skype installed on our computers. yet few people are aware of the utility of combining the audio channel of a teleconference with the text of an online chats in a way that enhances the learning experience for everyone involved. the technology, along with attention to the collaborative spirit can make this form a powerful knowledge-generating process. a community of practice framework helps us bring out the value of this simple practice, whether it’s used by a large group or just two people at a time.this note describes how to take notes collaboratively while having a conversation on the phone. this collaborative note-taking approach is useful for several reasons:
+phone calls support synchronous “thinking together,” negotiation of meaning and turn-taking in familiar wayssynchronous note-taking allows people to share what they heard said or what they want to add (e.g., urls) without the turn-taking constraints of a phone callas an artifact, a chat transcript is an informal record of what was said that’s portable, easy to scan, a reliable memory jogger, and is a helpful first draft for more polished writing.an audio recording can be evocative of the original conversation if it’s portable and documented so that prospective listeners know what the recording contains.there are advantages of having an integrated chat and audio recording, but it’s most economical to have them separate.
+2. audience and relevance
+this method will interest you if you lead or participate in conversations in distributed groups that:
+generate new insights or knowledge,mix people with different perspectives so the outcomes may be uncertain,bring together people with different linguistic backgrounds (e.g., different mother tongues or different professional vocabularies),want both collective focus (say, on what one speaker is presenting) and fringe awareness (say, on what diverse reactions might bring to the conversation),have the possibility of referencing web or other resources to augment the voice conversation,need the exchange to be self-documenting because people can’t afford to take on much “follow-on” work.
+3. “before the call” methods
+a good teleconference requires some preparation to prepare for the social side as well as the technology side . here are several methods related to setting up a call.
+technical alternatives for meeting:
+up to 3 people can meet with phone conferencing available on a regular phonesmall groups can work with skype conferencing alone – currently there is a limit of 9 usersskype can mix people on skype with people a regular phone (but skype-out charges apply)a telephone bridge is most common / best for large groupsmany free ones with varying featureshttp://highspeedconferencing.com/ supports both skype and potsimportant to let people know exactly how the meeting will occur
+phone bridge as a point of control (using http://highspeedconferencing.com/ as an example here)
+moderator can see who’s participatingmoderator can mute people suspected of causing noisethe phone bridge can record the callthe phone bridge can serve up recordings
+access considerations
+skype seems somewhat unstable with wi-fi, particularly if wi-fi suffers from bandwidth constraintscommunities and groups typically are ‘unstable’ in terms of where people are calling from, what access issues they face, etc.low bandwidth users can use the chat facility of skype while calling in on a standard phone with the bridge
+recording the audio conversation (requires planning before the call)
+recordings extend the utility of a callneed to ask for permission beforehandpeople may be more sensitive to having their words recorded than to having chat notes quote themthere are several different strategies for producing audio recordingthe phone bridgesoftware like callrecorder or powergrammo for skype (callrecorder may link audio & text time stamps)a recorder attached to the telephonebecause text is much smaller, it can serve as an introduction to the audio recording which is richer in nuance
+agenda planning
+provide a familiar “launch-pad” page with phone number and related technical informationprovide an agenda and other resourcesprovide a link to information about a featured speakeruse a location where participants can post their pictures and profileshow to resolve time zone differences?always meet at the same date for consistencytake turns to share the discomfort of off-hoursmake an effort to support absentees
+4. “during the call” methods
+ensemble production
+audioaudio interaction on a phone bridge takes some skillusually need a designated leadertexttext interaction is also a skilleveryone who’s at a computer can participate in collective note taking in a skype or other chat room:all can write “at the same time”all can refer to previously entered text, such as agenda items called out at the beginning of the callgoing for “the meaning” (which is different for different people)quoting the “actual words”take notes when you are not talkingadding urls for discussion — clickableblend audio & text — that’s a further skill (“listen” to the chatroom)who takes the lead in audio & text?will someone “read into the record” — bring up the silent comments mentioned in the chat?how to create the desired ensemble production atmosphere?providing a “how to” guide?setting aside a moment to discuss protocolproduce a summary of the call afterwards — an index and invitation to listen
+5. “after the call” methods
+clean up the chat notes (e.g., remove time stamps, standardize or clean up names, correct spelling)include a very short summary (quote the verbal summary of to-do’s at the end of the call at a minimum)distribute the chat notes to everyone who was presentpost the notes where they can be referred to in the futurepull out key lines and put them in an editable place such as a google doc or a wikihave handy for “quoting” from the text during the next call
+6. variants and applicability
+capturing and publishing the chat-room notes from webex or elluminate sessions can serve a similar purposethis practice works from simple one-to-one calls to larger group events.notice that skype is not just one tool, but is a platform that collects several tools together:one-to-one telephony (skype-to-skype and skype-out)telephone conferencingvideo conferencingone-to-one chatmany-to-many chat“friends” directoryglobal subscriber directory & member profiling systemactivity history (calls, chats, etc.)presence awarenesshigh speed conferencing feature list (incomplete)connects skype and plain old telephone callscontrols mutingmakes recordingsserves them upsend out email announcements (email list capability)
+7. health-check questions
+is the group sharing the work of note-taking?does knowledge migrate from the raw notes into other group artifacts?does someone make an effort to weave written statements back into the phone conversation?how can you provide multiple pathways to participation?jumping in because you know you want to participate:get an email invitationcall into the phone bridgejoin in the talking and note-takingfollow-up on the notes
+gradual based on inspection of previous calls:
+look at other call summariesfind the next calljump in as above
+passive, peripheral, lurking
+permit listening with no obligation to inspect previous calls, as above
+the structure of this practice note is derived from an example by kate pugh and nancy dixon.
+
+
+
+
+
+no responses yet 
+
+
+
+
+                apr              
+
+                30              
+
+                2020              
+
+a conversation about chats and virtual events
+
+published by john david smith  under uncategorized 
+
+
+my friend caren and i recorded a conversation about an online (zoom) event that i hosted today.  i described my process and we explored topics such as:
+planing eventssetting up chat ice-breakersknitting together the different elements, tools, events across timecreating safe – and sacred – spacesand more
+here’s the video!  an un-edited 45 minute discussion. let me know if it’s useful…
+https://youtu.be/obql0zvumg0
+i wanted to demonstrate how to use the automatic youtube transcription to show a word cloud of our discussion, but for some reason i can’t  get at the transcription!
+
+                tags: chat, zoom 
+
+
+no responses yet 
+
+
+
+
+                apr              
+
+                20              
+
+                2020              
+
+chat for reflection and inquiry
+
+published by john david smith  under uncategorized 
+
+
+the coronavirus is offering more opportunities to facilitate online meetings and therefore reflect on how i use chat to bring people together and help them connect more deeply.  
+i have a little chat structure that i’m using again and again, with variations.  it involves a series of chat prompts, where everyone is instructed to reflect on a question, write a response, not hit enter till everyone else is done, and then hit enter simultaneously.  i give people a moment of silence to scan what the group has written.  then i ask one person to pick out a few of the posts  and read them out loud.  sometimes a discussion ensues.
+before a meeting i prepare a set of questions in a text editor that i can quickly copy paste into the chat.  having the questions written down like that provides a fence between sections of the chat and helps people see the question that they are responding to.  i find it’s best to start with a simple and straightforward question first and gradually move on to more consequential ones that set the stage for the work the group may be engaged in.
+'========================================
+easy warm up question: location, weather, etc.
+'========================================
+
+'========================================
+more substantive question: like "how are you feeling right now?"
+'========================================
+
+
+'========================================
+more challening question: like what is the big issue we are tackling?
+'========================================
+
+of course having the enhanced chat transcript to share afterwards is a bridge to future interactions and collaborations. i use tic marks (single quotes) so that the google spreadsheet that i use to set up the html table won’t throw an error because an initial equal sign usually indicates the start a formula.  multi-line chat entries always need a bit of extra attention to get them in the right column.
+all of this effort and protocol is because i think that:
+this way of using chat allows a group to “see itself” all at once, and the conversation can address individual (or diverging) views and widely held ones at once.chat records people’s “verbatim” thinking – in their own words, with the terms they use to think.chat is scannable – much faster than having people fumble to find the mute/unmute button.i think the people are able to get the gist from written statements in other languages better than they can listening to another language.and, finally, you can use a wordle afterwards!  (like the following one that represents the words on a wikipedia page about chat.)
+
+of course i usually can’t help myself, so i often take public notes right in the chat during a conversation  — with appropriate fences between sections so that the structure of the conversation is visible.
+
+                tags: chat 
+
+
+no responses yet 
+
+
+
+
+                apr              
+
+                16              
+
+                2020              
+
+putting chat transcripts to work
+
+published by john david smith  under uncategorized 
+
+
+i’ve been writing about how to get more from chat transcripts for a long time.  and a recent count in evernote shows chat history back to 2013 (105 of them containing notes from one-to-one conversations with learning partners). recently i’ve found a couple methods that make a chat even more useful.
+i want to throw away the chaff and keep the wheat.   (i’ll use a few lines from a recent chat in this example, showing only the things that i wrote; in most cases there would be postings from many people interleaved.)  here’s an example of what zoom saves:
+14:23:31	 from john david smith : https://fullcirc.com/2020/03/31/moving-online-in-pandemic-5-this-is-the-time-of-creative-destruction/
+14:26:15	 from john david smith : distributed leadership is more important!
+14:27:52	 from john david smith : transformation steps…
+14:27:52	 from john david smith : ==========================
+14:28:22	 from john david smith : being able to observe services…
+14:29:47	 from john david smith : emotional impact of being in a breakout with someone from bangkok
+here’s what i want to save:
+jds: 	https://fullcirc.com/2020/03/31/moving-online-in-pandemic-5-this-is-the-time-of-creative-destruction/
+jds: 	distributed leadership is more important!
+jds: 	transformation steps…
+jds: 	==========================
+jds: 	being able to observe services…
+jds: 	emotional impact of being in a breakout with someone from bangkok
+putting the same information in a table (e.g., in a google doc) makes it much more useful:
+chat in a table
+in a google doc several people might go through the chat and make comments, noting insights from different perspectives:
+chat in a table with comments after the fact
+sometimes i add a column to the table and gather comments in a third column:
+chat in a table with a 3rd column
+to do all of this, currently i use a textmate macro as follows:
+(     {   argument = {             action = 'replaceall';             findstring = '^[0-9\:]*\t from ';             regularexpression = :true;             replacestring = '';             wraparound = :true;         };         command = 'findwithoptions:';     },     {   argument = {             action = 'replaceall';             findstring = ' \: ';             regularexpression = :true;             replacestring = '\t';             wraparound = :true;         };         command = 'findwithoptions:';     },     {   argument = {             action = 'replaceall';             findstring = 'john david smith: ';             regularexpression = :true;             replacestring = 'jds: ';             wraparound = :true;         };         command = 'findwithoptions:';     }, )
+not so pretty.  and the formats for different chat systems have changed over the years.  🙁
+and that wont’ work for you if you don’t use my text editor.  i’ve struggled to figure out how to share this technique of saving and formatting the wheat of a chat transcript.  i found that the unix sed utility, for example, is not standard across platforms when it comes to inserting the tab you need to plop the text you want into a google spreadsheet.  then lo and behold, louis sweeny, a member of the liberating structures community, figured out how to implement a snippet that i’d shared in the  slack space! put the following snippet into a google sheet and copy it down as long as needed:
+=regexreplace(regexextract(regexreplace(b3,"^from ",),".*?: ")," : ",)
+when you put a zoom chat transcript in a spreadsheet, the above code cleans up your transcript and you have a table that you can cut and paste into a text file.  click here to get a copy of the magic spreadsheet to do this.  it comes with instructions and everything!
+
+                tags: chat 
+
+
+2 responses so far 
+
+
+
+
+                mar              
+
+                10              
+
+                2020              
+
+a field trip agenda – for better meetings
+
+published by john david smith  under uncategorized 
+
+
+i’m always inspired by nancy white, and this effort to respond to covid-19 is a perfect example of why.
+it reminded me that i’ve been sitting on a “field trip agenda” that i developed to help people on the shambhala process team hold better meetings on zoom.  i’m sharing it here, as is, since perfection is the enemy of the good.  it has a good dose of shambhala terminology, such as ground, path and fruition (roughly, the context, the process, and the outcome of whatever you are talking about). it owes a lot to conversations with susan skjei and liza smith.  they are the best thinking partners in my world.
+you may find the following material useful if you imagine it as notes to yourself — what to do during a 90 minute training and demonstration session.
+overall goal: (model setting a clear agenda)
+quick, easy boost for shambhala conveners of all sortsit also provides further resources (such as this document)
+agenda – 90 minute schedule: 
+model good practice, invitation: 
+(this is what i would send out to participants:)
+do you find yourself facilitating lots of online meetings without having received much training on how to do them?  are you anxious about making a meeting really fun and productive?  have you ever struggled to keep people engaged during an online meeting? have you experienced lots of silence or people talking, but not listening? (ground)join us for a 90 minute interactive training session that will explore design frameworks and techniques, do some exercises and demonstrate good practices for making meetings fun and productive. (path)join us on such and such a date.  this webinar will:build your skills to develop agendas and facilitate online meetings that lead to action.develop meeting designs that leave people feeling connected and wanting to connect more.put the technology (zoom and some other tools) to work for you rather than being a distraction or an obstacle. (fruition)
+consider the time zones of your participants and send out an invitation that includes:the topic and purpose of the meetingwho’s invited (and why you should attend)start and stop timethe zoom information and phone alternatives
+zoom schedule tips (especially for meetings that need to be private).
+model good practice: meditation – gathering the group and our minds purpose: help people settle and allow latecomers join without having to catch up.instruction: “turn away from your computer…” how: make it short. 3 minutes.  share a screen explaining what’s happening.  guided meditation is recommended so that anyone participating in audio-only mode is reassured that something is happening.model good practice: brief welcome purpose: welcome and explain the meeting purpose: “in this 90 minute session we are trying to model good practice, provide a framework for effective use of zoom, and gather some useful tips”.  could include an overview of the agenda.this session will be recorded (as announced). in most meetings it needs to be a formal agreement step.  recording would be shared within shambhala but can’t be restricted. note that recording to the cloud can become expensive very quickly. if you save the recording on your own machine you can upload it to youtube for free and you have more control over what’s recorded.we are taking notes in this google doc during the meeting.  multiple participants can help and all should be able to view. meeting notes template??important to assess people’s comfort with the tool (e.g., zoom) by one of these:have people self-assess and ask for help beforehand if they need itassume level of comfort and follow up afterward if necessarypoll in real time (good if the group has not met this way before)do people understand the difference between “speaker view” and “gallery view” — and can they swap when they want?do people know how to identify themselves (by clicking on their name on the lower-right-hand corner of their image)?model good practice: check-in purpose: get everyone’s voice & practice turning their microphone off and onannounce an arbitrary sequence & call on people; or each person invites the next person to go.set and enforce time limits. on-the-spot decision.check-in topic should connect to the meeting purpose and prime the conversation — without being too heavycheck-in question: “name, place, what kind of online meetings do you need to run?”for large groups, check-in might be in a breakoutmodel good practice: breakouts purpose: create small group conversations, give people more opportunities to talk and listen and get to know each otherpose the question as simply as possible, then repeat it and broadcast it during the breakouttiming 8 minutesgroups of 3 (consider different sizes for different purposes)reconvening & segue roles to consider in each breakout group: facilitator, timer, recorder, reporterquestion: “what has been your experience of online meetings? share some highlights and challenges”model good practice: chat debrief: we’re going to use one way of using the chat for group debrief and later we’ll explore another waypurpose: listen to everyone and create a group transcript that can be used later.wait to hit enter till everyone is finished writing and then all hit enter at the same time and use a gong to indicate “enter”) or free form.reading out some highlights & reflect.present: some tips on meeting design think of the meeting’s purpose and see how it sounds when you explain it to a partner.  model good practice: thinking back to the meetings that you talked about in your breakout session and chat, what were the different kinds of purposes of those meetings? why were people coming together?divergent thinking (brainstorming)convergent focus on agreement or a specific outcome (decision-making)the feeling of asserting cohesion or “we are a ____ group”the sense of “presencing” (resting in awareness of possible future) is important(add other goals here…)meeting organizers need a partner; you can take turns speaking and managing technical details or have specific rolesstick to the plan or improvise or respond to what comes up?model good practice: write out a script or an agenda and sharing it with participants so they know where they are in the process.  that’s what this google doc is.model good practice: use screen-sharing skillfully: briefly show a powerpoint or google doc or even a videoscreen capture to create a group portrait: can  be a nice record of “being together”easy way of taking attendanceremembering names and faces
+alternate between gallery and “speaker” (single-person) view – controlled by host and determines what’s recordedmodel good practice: liberating structures framework or discipline: how have we used these micro-structure design elements today? at each step, consider how to organizea structuring invitation (what a sequence or an individual step is for, what participants can expect);how the “space” is arranged and what materials are needed (“hollywood squares” vs. “speaker mode” vs screen-sharing; using chat; shared google doc);how participation is distributed (percentage of the time in different modes of participation — from passive listening, interacting, collaborating, gathering insights);how groups are configured (single speaker, breakouts of different sizes, assigning specific people to specific breakout rooms, sequential speaking like a check-in, speaking all at once, guided meditation or individual note-taking); and,a sequence of steps and time allocation (for the whole and for each chunk). your role as facilitator your contract with the group: you “protect the conversation” on behalf of the group; that gives you the right to exercise control.read the room means paying attention to participation verbally, in the chat, providing different ways for people to stay engaged, check points to express discomfort, (sometimes) interpret signals out loud.  having a partner for this part can be extremely helpful.the danger of being “too helpful” or playing the role of “summarizer” with unconscious power and unconscious biases.  issues of projection. mixing or switching between distinct roles (between facilitator, expert, elder, fool, etc.) can be confusing (to others and to ourselves).fundamental importance of mindfulness and transparency.any facilitator (or speaker) whose internet speed might be slow should consider using the phone audio option that zoom provides illustrated in this screen-shot: 
+
+some other tools to use with zoom:google docs for collective note-taking: https://docs.google.com/ google jamboard: https://jamboard.google.com/ google slidesdon’t be too ambitiousmodel good practice: breakout / whole group summary sequencereflection: what are meetings you organize about?  what are we really doing here?some moments of individual reflection & note-taking (silence): think about an upcoming meeting that you will take part in or facilitate. what is the meeting’s purpose? can you define it in 1-2 sentences?  pairs: share your meeting’s purpose.  is it clear?  does it make sense? share one thing you would do to improve the next meetinggroups of four: 1) share your purpose 2) your improvement goal and 3) how does that translate into an agenda? what choices might you make?back in the whole group. themes & patterns in what you’ve heard. feel free to speak or write in the chat or listenimages that have come upunmute & talk this is a sense-making practice: assessing where we are, gathering possibilities, imagining next stepsmore about using chatsmodel good practice: simultaneous responses and brainstorming organized around a specific question where everyone participates. facilitators pull out a few themes coming up in the chat.zoom chat can be a private backchannelinsert markers in the chat at the right time to indicate breaks or changes of topic or meeting format along the lines of: ======================================  core values brainstorm======================================process and publish the chat transcript afterwards.  can be the basis of meeting notes or a communiqué.  append to this agenda document.techniques for making the chat an effective meeting record (have a designated note-taker)leverage the zoom chat transcript for sharing or further use
+model good practice: check-out — everyone share:my key learnings, next steps, suggestions.question: what’s one practice that i’m going to experiment with? 
+some resources (annotated & shared during or after an event)
+skilled facilitatorpriya parker: art of gathering arnie mandel: deep democracy ls virtual sandbox log (use other people’s experience) ls virtual resources spreadsheetls virtual checklist spreadsheet design of liberated virtual meetings v2ls menu reading the virtual room
+
+
+
+
+one response so far 
+
+
+
+
+                nov              
+
+                22              
+
+                2019              
+
+reconnecting a community — in public
+
+published by john david smith  under uncategorized 
+
+
+i sat down with my friend howard silverman to talk about prototyping methods for connecting a community to itself.  the particular community of practice that i’m working with connects face-to-face (or doesn’t connect sometimes) but is also connecting via the internet: via the presencing institute‘s u.lab mooc, through a global network of similar meditation centers that are in conversations on zoom, and through these short  video interviews.  
+
+this word cloud gives a flavor of the 12 minute discussion.
+
+
+
+
+
+no responses yet 
+
+
+
+
+                dec              
+
+                05              
+
+                2018              
+
+community and organization intertwine
+
+published by john david smith  under communities of practice,stories 
+
+
+i’ve been thinking about how community and organization are intertwined, especially when they are interdependent like they are in churches, synagogues, or mission-driven organizations like amnesty international.  the formation of a process team that’s focused on governance in shambhala prompts me to write some of my thoughts down.
+community and organization are different social entities that represent different ways of participating in our human world.  one of them can do things that the other can’t.  for example, organizations can own assets like websites and other technologies, have payrolls, are bound by law, and have clear accountability. on the other hand, communities can be informal and don’t even exist unless we participate in them,  but they are personal and meaningful in ways that organizations rarely are. the two interact and we switch back and forth between an organizational and community view often without noticing.  i’ve thought about the interactions a lot and i get confused.  your mileage will vary.the most important point is that community and organization can support and augment each other, or can hobble each other.  therefore it’s worth thinking about their interactions and how they are intertwined.
+in his book on church governance, dan hotchkiss gives a simple and compelling argument for how organization and community interact:
+the most important factor in deciding how to organize a congregation for decision-making is its size because no fact about a group of human beings says more ab out it than its size.dan hotchkiss, governance and ministry: rethinking board leadership (lanham, md: rowman & littlefield pub inc, 2016), p 99.
+in the following table, i lay out some contrasts, describing how each side answers a general question like, “what is it?” in each cell i add in italics what that side can do to support the other.  afterwards i give some examples where community and organization seem to harm each other.
+ participating with an organizational perspectiveparticipating with a community perspectivewhat is it?an organization is a recognized legal person that has formal rules of operation. can provide venues and infrastructure for community gathering.a community is a history of clustered relationships and events. community interactions can keep alive the memories and values that make organizations honest — and valuable to society.what resources are required?organizations depend on a larger social or economic system, laws, money, and produce “outcomes”. organization can scale or extend community. communities depend on the larger society — a fabric of social relationships. community can validate organization life in (local) practice.how are roles defined?organizational roles are contracted or appointed. can recognize & formalize community values & provide focus.community roles evolve, are negotiated informally over time, are based on participation. community provides a reservoir of committed talent; members return to community after serving the organization.what separates the inside from the outside? can buy or sell assets; can sell or procure work externally. can extend community reach or protect it from external threats.legitimate peripheral participation enables outsiders to experience community norms and values gradually.  can bring new vitality into an organization including people, ideas, and resources. how does it visualize itself?organization charts and protocols codify relationships and power.  can simplify or close off intractable debates or conflicts that  suck energy from the community. stories, events, memories are part of individual sense-making and are shared in community life.  the community’s memory can keep an organization true to its purpose and its conversations can alert the organization to emerging needs.how is communication organized?messages go through formal, legitimate channels. can reduce the noise of community chatter and be purposeful about listening to widely separated perspectives.conversations are ad hoc, shaped by individual relationships, opportunity, and feeling of relevance. can provide a grapevine that tells truths that illuminate organizational blind spots.how does a collective “voice” express something to the world?formality enables “singing from the same song book.” can gather a community’s message and broadcast it.shapes multiple, opposing voices into a dialog. can add depth and breadth to an organization’s point of view.
+here are a few illustrative stories of negative interactions. 
+in a story about a young pastor who fired a church organist only to be fired himself, dan hotchkiss writes: “informal networks kill silently, so it is not easy to retrace their steps.  no doubt gladys, like most church staff members, had a political constituency all her own.  her supporters did not speak up in the deliberations of the formal church — the first board meeting, where the focus was on her competence as organist.  in that setting, it would have felt out of place to speak of personal affection or the fact that gladys had provided music for hundreds of funerals and weddings and had woven herself deep into the fabric of the church’s life.  but in the informal congregation, such considerations no doubt dominated the agenda. in this case it was the informal congregation whose priorities won out. gemeinschaft is more important in small congregations than in large ones, but it never quite goes away!” — dan hotchkiss, 2016, pp 100-101.pedophiles in the catholic church were bound to each other by codes of silence and enabled by an organization that provided a setting and cover for their activities.  when their activities were exposed and the organization’s complicity in the cover-up was also exposed, the cost to the organization was enormous.  we don’t know details of this story, but these elements must have been there and the costs were real.when an organization must draw leaders from the community that surrounds it, recruitment can’t be just a formal process to fill leadership positions.  in a leadership development project with juan carlos de la puente 2 years ago, we found that amnesty international’s leadership recruitment and development process had become too procedural and rule-bound, using only “organizational” logic.  their best leaders were deeply aligned with the ai community, but were also quite critical of organizational bureaucracy.  we recommended that they treat leaders in latin america as part of a community and become more purposeful about befriending prospective leaders to get to know them before proposing a specific organizational roles.
+if we participate in an organization or community that depends on the other way of participating, we need to alternate between the two perspectives.   i don’t think there is a formula for balancing community and organization.  you have to be there.
+
+
+
+
+no responses yet 
+
+
+
+
+                jun              
+
+                16              
+
+                2018              
+
+craggy 2018: design, feedback & reflections
+
+published by john david smith  under communities of practice,conferences,event design,r 
+
+
+this blog post describes the craggy event  at the june 2, 2018 cascadia r conf, its design, the logic behind its design, feedback from participants and reflections on how such an event might be better in the future.
+here’s the pith of the how we learn r: the r ecosystem is a marvel made up of a global cloud of people, their connections, their know-how, and their tools.  learning in this ecosystem involves choosing between specific pathways: a place and time, with certain people, using specific boundary objects — in some reasonable sequence of steps.  the best instructional, event, or conference design results in increased excitement, inspiration, enjoyment, personal connections, and know-how.  in a way, the event pieces that we string together to make up a conference are just like a bunch of r statements that aren’t useful till we put them together with human intention, skill, and passion.
+down on the ground craggy started with not much more than the half-baked idea depicted in this drawing:
+from the beginning i was thinking of craggy as a sequence of steps strung together to structure individual and collective experience, along the lines of liberating structures, with learning objective as the main goal.
+the craggy design process was itself a string of collaborations with the conference organizing committee.  they helped by validating the original idea and by building on it to produce the final event. chester ismay and ted laderas, in particular, had lots of of specific suggestions for datasets, which was a key element of the design.  chester mentioned that andrew bray’s students were doing a lot with local, civic data; and one of andrew’s suggestions was the biketown dataset which was the one we ended up using. chester also put me in touch with thomas mock, who’s been running the tidy tuesday events.  we borrowed a lot of ideas from tidy tuesday and email exchanges with thomas were very helpful in evolving the final design.  ted has written up some reflections about the overall conference design.
+this year’s craggy event
+we announced the craggy event in january, without very many specifics.  as the conference approached, we published a set of instructions for participants, calling it the craggy graphics show-and-tell.  here is the super-simple form that people completed when they submitted their entry on the day of the conference:
+
+craggy entries were all posted in one corner of the 360 person capacity room where the conference was held.  the beer and food were served in the same corner at the end of the day. people could stand around discussing the entries during the whole day.
+
+the three entries that received the most votes gave a 5 minute lighting talk at the end of the day:
+
+pierrette lo,  locations and numbers of rides ending outside a biketown hub
+charlotte wickham, when do rides start?
+kevin watanabe-smith, average biketown trips; median trajectory of weekday trips (2016-2018)
+
+design  to balance opposing factors
+during the design phase and on the conference day, i was aware that “design with social learning in mind” meant balancing two opposing forces.  this table to suggests how those forces alternated, more or less in chronological order, as a kind of learning peristalsis.
+
+
+
+concentrate, constrain, narrow it down
+open up, expand, broadcast
+
+
+gather design ideas and suggestions from many people to build on a half-baked idea
+
+
+
+
+announce the craggy event and then the rules early on
+
+
+
+identify hundreds of possible datasets that would be interesting.
+
+
+select one dataset that was local, topical, accessible, and the right size
+dataset is highly “mergeable” with other datasets because it has “universal keys” (time and place)
+
+
+produce a minimal example demonstrating how to access the data
+example is important for lowering the barrier to entry
+
+
+
+advertise the craggy dataset two weeks before the conference; encourage everyone to participate
+
+
+participants pose their own analytical question
+
+
+
+post entries in one corner before 9 am on conference day
+last minute entries are acceptable
+
+
+
+entries have contact info, github link
+
+
+
+entries posted near the food & beer
+
+
+
+time in conference schedule to browse entries; everyone invited to vote
+
+
+each person has one vote to “hear more” about one entry
+
+
+
+
+sticky notes and authors available to stimulate conversations
+
+
+three submitters contacted to give lighting talks
+
+
+
+
+lighting talks at the end of the day to share backstory, dead ends, next steps
+
+
+
+follow up on twitter: #tidytuesday
+
+
+
+overall feedback from conference participants
+in the conference feedback questionnaire, several people said that craggy was their favorite part of the conference.  some said that the lighting talks they liked most were the craggy talks. one said, “i didn’t participate in craggy this year, but i loved it! please do it again!”
+feedback from craggy participants
+i wrote to the twelve people who submitted an entry and got really thoughtful and interesting feedback from many of them.
+participants agreed that craggy was really fun.  sample comments were:
+ “it was a fun, no-pressure way to feel a bit more involved in the conference and see how other people approached the dataset.”
+ “i can’t think of anything more fun than exploring data and creating visualizations.”
+participants especially liked the biketown dataset because:
+ “[it] struck a wonderful balance of being interesting, big-but-not-too-big, in pretty good shape tidy-wise (but not perfect) and fun to explore.”
+they liked the fact that the dataset had both dates and geolocation features, which made it “really easy to join up with other sets.”
+part of craggy’s value was that the dataset forced people to work outside of their usual professional domain.  for example, two different respondents said,
+ “i work in anthropology, specifically archaeology, and so it was really fun to branch out to a very different kind of dataset that has time stamps in the minutes and not in the tens or hundreds of years.”
+ “i am a transportation professional and found myself overthinking what to do with the data set a lot [and that was good].”
+one participant summarized it,
+ “… a big value in the event is exposing people to ideas beyond those directly relating to r code they might not come across otherwise.”
+craggy was a way to encourage people to dive into the r ecosystem.  one participant was impressed with
+ “… how helpful and active the r community is in stack overflow, github, cran, reddit, etc. in essence, i am super grateful of r’s passionate developers and user base (in real life and online).“
+as a bit of an #rstats glutton, i was struck that one very interesting craggy entry was from someone who admitted that they weren’t even on twitter!  talk about diversity!
+suggestions for next time
+the original idea was to share and think about graphics, but clearly participants thought it could go further.  they thought that craggy focused “more on presentation and communication than on coding and data analysis.”  ed borasky put his finger on the fact that voting missed thoughtful examination of data problems that weren’t as recognizable as flashy graphics.  he said
+ “i spent a *lot* of time cleaning the data. see http://rpubs.com/znmeb/biketown.”
+other suggestions included:
+ “it would be cool to easily see links to github repos from the other entrants.”
+ “switch to a virtual format – the “paste on the wall” thing really doesn’t cut it.”
+charlotte wickham had several interesting suggestions:
+ “it might also be nice to somehow celebrate the learning side of the event, i.e. each entrant must also provide a sentence describing something new they learnt or tried in the process of entering, that could be displayed independently of the actual entries.”
+ “i’d love to see some more support for those who might be on the edge of entering.  i’m not sure what this might look like, but maybe a pre-conference hack event, a online forum (slack or something), or just a few more people posting starts they’ve made or questions they’d like to answer.  i’d imagine the primary focus would be on encouraging people to post something on the day regardless of where they get to.”
+ how can we keep the event approachable and comfortable for people across all sorts of skill levels?
+we wanted craggy to result in the selection of people who would give a lighting talk, but participants thought that the voting could be improved.
+ “i would suggest that voting not be publicly presented via stickers. i would use a ballot box or online kind of voting system that’s anonymous to the voters and participants. as a social network analyst, i would posit that there seemed to be a preferential attachment (i.e. “rich get richer”) effect with the stickers.”
+ “have more categories of winners, such as most creative, most artistic visual / graph, most last-minute (maybe), etc.”
+i had thought of having different categories of votes, but never quite figured out the logistics.  in the heat of the conference (after all i was a participant first and an organizer second!) i even forgot to record the number votes that each entry received.  next time i would display the entry form in advance so that people would expect to provide additional information such as
+
+how much time did you spend?
+what was your question?
+what packages did you use?
+what did you learn?
+what would you have done with more time?
+
+beyond that, the craggy idea could evolve by somehow mapping the steps people go through as participants to a model of the steps in a data analysis project, either hadley wickham’s model from r for data science or something along the lines of john tukey’s (1982) “introduction to styles of data analysis techniques” ( pdf) that proposes stringing data analysis steps together along the lines of:
+
+
+
+
+
+no responses yet 
+
+older entries »
+
+
+
+
+
+search for:
+
+
+
+
+find me here:
+
+
+github
+twitter
+mastodon
+
+
+
+recent posts
+
+
+a buddypress forum as part of group configuration
+
+
+musing about data analytics in faith-based organizations
+
+
+conference call practices to generate knowledge and record learning
+
+
+a conversation about chats and virtual events
+
+
+chat for reflection and inquiry
+
+
+site directoryhome
+contact
+references and contact information
+
+talks and publications
+
+
+services
+
+coaching
+consulting
+studies of and for communities of practice
+events
+foundations workshop story
+
+the story
+web-based conferencing
+workshop structure
+navigation bar
+community directory
+the front porch
+workshop index
+some conclusions
+
+
+
+
+background
+topics
+
+books
+
+business models
+
+coaching
+
+code
+
+communities of practice
+
+community data
+
+conferences
+
+consulting
+
+cp2tech01
+
+cpsquare members
+
+del.icio.us
+
+digital habitats
+
+education
+
+evaluation
+
+event design
+
+km
+
+learning
+
+pdxdata
+
+r
+
+research
+
+resources
+
+sna
+
+stories
+
+tagging
+
+talks
+
+technology
+
+technology_stewardship
+
+uncategorized
+
+
+tagschat
+chifoo
+cp2aoir09
+cpsquare
+epic2008
+ethnography
+experiments
+face-to-face
+flickr
+foundationsworkshop
+googleapps
+hacks
+interview
+intronetworks
+km4dev
+mashups
+meta-cops
+mvpooda
+nodexl
+openrefine
+projects
+skype
+social proof
+survey methods
+tagging
+technology_stewardship
+tools
+twemes
+twitter
+video
+wiki
+zoom
+ etienne wenger, nancy white, and john d. smith, digital habitats: stewarding technology for communities (portland, or: cpsquare, 2009). isbn: 9780982503607.
+archives
+
+january 2024
+july 2022
+november 2021
+april 2020
+march 2020
+november 2019
+december 2018
+june 2018
+february 2018
+june 2017
+february 2017
+december 2016
+september 2016
+august 2016
+march 2016
+september 2015
+january 2014
+december 2013
+november 2013
+october 2013
+july 2013
+june 2013
+april 2013
+december 2012
+october 2012
+july 2012
+june 2012
+march 2012
+january 2012
+december 2011
+july 2011
+march 2011
+december 2010
+october 2010
+september 2010
+july 2010
+june 2010
+may 2010
+march 2010
+january 2010
+october 2009
+september 2009
+august 2009
+july 2009
+june 2009
+march 2009
+february 2009
+january 2009
+december 2008
+october 2008
+september 2008
+august 2008
+july 2008
+june 2008
+may 2008
+april 2008
+february 2008
+january 2008
+december 2007
+november 2007
+october 2007
+september 2007
+august 2007
+july 2007
+june 2007
+may 2007
+april 2007
+march 2007
+february 2007
+january 2007
+december 2006
+november 2006
+october 2006
+september 2006
+august 2006
+july 2006
+
+
+
+
+
+
+
+site admin |
+	wordpress theme -- | home | resources | services
+learning alliances
+	copyright © 2025 all rights reserved .
+
+
+
+
+

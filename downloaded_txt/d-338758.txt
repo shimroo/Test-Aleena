@@ -1,0 +1,284 @@
+
+
+
+
+
+
+
+neuron laboratory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ scroll to top
+
+
+ 
+
+ 
+
+
+
+
+≡
+
+neuron lab
+
+opening screen
+1. cells and ions
+2. ionic currents
+3. neuronlab simulator
+4. synapse and dendrites
+5. soma
+6. axon
+7. neuron
+8. stdp
+development notes
+
+chapter 1
+chapter 2
+chapter 3
+chapter 4
+chapter 5
+chapter 6
+
+
+reference material
+
+
+readings
+
+secular buddhism
+things you thought you knew
+free will
+made of meat
+dragon crown
+a epiphany
+chess
+
+
+cosmic rays
+
+seti pixel
+cosmic watch
+cosmicpi
+ergo
+
+tools
+pixels
+
+
+
+
+breakthrough listen
+seti
+
+opening screen
+home
+
+new to seti net
+about seti net
+about the art
+contact information
+
+
+operations
+
+active block diagram
+sky map
+
+
+engineering
+
+seti hardware design
+
+interconnection
+seti kicad library
+head end 
+control box
+control box power supply
+control to rotor wiring
+rs-232_to_rs-485
+pic io
+pic servo
+pic servo sc
+
+
+seti database
+
+tools
+sml
+
+schema
+
+
+
+
+notebook 
+theads
+
+
+database
+
+open hits
+
+
+... on a sky map
+in depth
+
+history of seti
+its big
+lagrange points
+detection stratagy
+the waterhole
+wow
+calculators
+bruno award
+
+
+constellations
+targets (all)
+.. at ra00 to ra05
+
+ra 01
+ra 02
+ra 03
+ra 04
+ra 05
+
+
+at ra 06 to ra 12
+
+ra 06
+ra 07
+ra 08
+ra 09
+ra 10
+ra 11
+ra 12
+
+
+at ra 13 to ra 19
+
+ra 13
+ra 14
+ra 15
+ra 16
+ra 17
+ra 18
+ra 19
+
+
+at ra 20 to ra 23 and special handling
+
+ra 20
+ra 21
+ra 22
+ra 23
+special handeling
+
+
+
+
+
+
+
+
+
+
+
+
+neuron laboratory project
+sapere aude
+ 
+what process in the brain allows us to participate in the moment ?
+"more likely, we will take experience itself as a fundamental feature of the world, alongside mass, charge,and space-time. if we take experience as fundamental, then we can go about the business of constructing a theory of experience." 
+d.j. chalmers 1995
+neuroscience has a pretty good idea of how long term memories are created and stored in the brain (donald hebb's fire together/wire together), but this function requires an actual growth of interconnections in the brain and requires long periods of time - days to weeks to complete. learning to play a passage on the piano is this type of learning.
+short term or working memory is being studied but there doesn't seem to be an agreement on the mechanical apparatus that does the work. remembering a list of numbers read to you five minutes ago is an example of this type of learning.
+i want to understand the processes that allow us to be aware of our surroundings in the tens of milliseconds time frame. no one seems to have an idea on this, or at least i haven't run across it yet. needless to say - its complex. .
+along the way, i wanted to present what i have found in a format that is accessible to others like myself - interested in the subject but not expert in it. i decided publish my learning process as well in near real time and this web site is the result. it will be continuously updated as i work on the project. 
+i made the decision to move toward an understanding of the neuron using simulations rather than a exhaustive accounting of all neuron actions, bits and pieces. for this reason, the synapse topics like neural transmitters, rdna, re-uptake, etc are all ignored. they are completely covered in endless detail in other well written books and on-line classes many of which i used in this quest.
+i don't consider my effort will result in a solution to the question only a way for me to gain an understanding using the tools i have at hand.
+ 
+
+during this process i used several books and made use of on-line classes:
+books:
+
+principles of neural science - kandle and schwartz
+neuroscience - bear, conne and paradiso
+neuroscience - purvis et. al
+dynamical systems in neuroscience - izhikevich
+how to build a brain - ellasmith
+the neuron book - carnevale and hines
+from neuron to brain - wallace
+theoretical neuroscience - dayan and abott
+
+on-line classes
+
+computational neuroscience - u. washington via coursera
+simulation neuroscience - edx
+medical neuroscience - duke via coursera
+fundamental neuroscience - johns hopkins via coursera
+fundamentals of neuroscience 1,2 and 3 - harvard online
+cellular mechanisms of brain function epflx via brainx
+circuits and electronics - mit via mitx
+neuroscience - school of physics, university of sydney (ian.cooper@sydney.edu.au)
+
+
+        this project consists of:
+        
+the cell and ions - description of the cell membrane and its chemical makeup. the movement of charged ions across the lipid bilayer and what is an ion channel. 
+ionic currents - the electrical calculations of time and the effect of opening  an ion channel
+neuronlab simulator - description and download link for the simulator along with a video for installation and basic operation. the simulator is for windows only.
+synapse and dendrites - the synapse in this simulator adn the organization of the dendrite tree including calculations of the charge in the compartments. 
+soma - the makeup of this vital part of a neuron and a simulator setup that illustrates the generation of the action potential using izhikevich neuron calculations.
+axon - transmission of action potential down the axon compartments.
+complete neuron - the complete operation of a simulated neuron with dendrites, soma and axons all firing. includes several videos of the neuronlab simulator in action.
+neuron papers - a collection of publications on the subject
+notes: - collection of thoughts and notes as the simulator was being built
+
+
+my brain with neurons firing.
+
+
+
+... yes that is my actual brain
+would you want to live in a world like this?
+
+guess what - its your world
+
+dendrites 'growing' a memory
+ 
+next - cells and ions
+ 
+
+
+
+
+
+art by : stephan martiniere
+ 
+ 
+questions - comments email me i will respond..
+
+
+
+
+©2013 seti network
+
+
+

@@ -1,0 +1,803 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	altair | discover continuously. advance infinitely - only forward.
+
+
+
+
+
+
+
+
+
+
+
+
+        aktuelle informationen zur apache log4j 2 sicherheitslücke
+        
+mehr erfahren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+altair one
+lösungen
+produkte
+services
+ressourcen
+über
+anmelden
+kostenfreie testversion
+support
+neuigkeiten
+karriere
+deutsch | de
+
+
+
+trends
+branchen
+rollen
+
+
+
+moderne fertigung
+ki-getriebenes design
+autonome fahrzeuge & adas
+big data
+cloud & hybrid computing
+datentransformation
+digitaler zwilling
+elektromobilität
+exascale
+gpu-lösungen
+maschinelles lernen
+manufacturing analytics
+intelligente produktentwicklung
+nachhaltige lösungen
+5g
+
+
+
+luft- & raumfahrt
+architektur, engineering und bauwesen (aec)
+automobilindustrie
+konsumgüter
+elektronik
+energie
+finanzdienstleistungen
+regierungs- & bildungssektor
+gesundheitswesen
+schwermaschinen
+maschinenbau
+versicherung
+schiffbau
+anlagenbau
+schienenverkehr
+wetter & klima
+
+
+
+data scientists & data analysts
+designer
+softwareentwickler
+ingenieure
+führungskräfte
+facility manager
+it- & hpc-experten
+startups
+studierende & lehrkräfte
+
+
+
+datenanalyse & ki
+elektromagnetik
+electronic system design
+fluids & thermal
+hpc & cloud
+industriedesign
+internet der dinge
+simulation für die fertigung
+multiphysik
+strukturberechnung
+bauingenieurwesen - aec
+systemmodellierung
+ausgewählte beiträge
+
+
+
+data science
+industriedesign
+produktentwicklung
+maßgeschneiderte lösungen
+personal
+verknüpfte produkte
+
+
+
+anwenderberichte
+webinare
+ausgewählte beiträge
+downloads
+alle ressourcen anzeigen
+dokumentationen
+community & support
+training
+startup program
+akademisches programm
+
+
+
+unternehmen
+karriere
+nachhaltigkeit
+partner
+investoren
+lizenzmodell
+neuigkeiten
+veranstaltungen
+kontakt
+
+
+
+english | en
+deutsch | de
+español | es
+français | fr
+italiano | it
+日本語 | jp
+한국어 | kr
+
+中文-简体 | cn
+中文-繁体 | cn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+altair one
+
+
+                        lösungen
+                    
+
+
+
+trends
+
+
+
+
+
+
+
+
+
+branchen
+
+
+
+
+
+
+
+
+
+rollen
+
+
+
+
+
+
+
+
+
+                        produkte
+                    
+
+
+
+produktgruppen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        services
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        ressourcen
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        über
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anmelden
+kostenfreie testversion
+support
+neuigkeiten
+karriere
+
+
+                    deutsch | de
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+altair als führendes unternehmen im gartner® magic quadrant™ report 2024 eingestuft
+für data science und machine learning plattformen
+bericht herunterladen
+
+
+
+
+
+
+
+
+
+
+
+
+
+data science + rocket science™
+ein weltweit führendes unternehmen im bereich computational intelligence, das software- und cloud-lösungen für die bereiche simulation, hpc, data analytics und ki anbietet.
+mehr erfahren
+
+
+
+
+
+
+
+
+
+
+
+
+
+entwicklung & simulation ohne grenzen
+entwickeln sie mit altair hyperworks 2024: ihre all-in-one engineering plattform
+mehr erfahren
+
+
+
+
+
+
+
+
+
+
+
+
+
+altair one®
+cloud innovation gateway für kollaboratives engineering, digitales engineering und analytische anwendungsentwicklung
+mehr erfahren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								erweitere marktpräsenz im bereich eda
+							
+
+								altair übernimmt metrics design automation inc.
+							
+
+								das kernprodukt ist die erste eda-simulation-as-a-service-lösung ihrer art
+							
+erfahren sie mehr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12.-15. november
+												
+
+
+electronica | münchen
+
+
+
+
+
+
+
+19.-22. november
+												
+
+
+formnext | frankfurt am main
+
+
+
+
+alle veranstaltungen
+
+
+
+
+
+
+
+
+
+									altair wird im gartner® magic quadrant™ report für data science- und machine learning-plattformen im juni 2024 als führendes unternehmen eingestuft
+								
+erfahren sie mehr
+
+
+
+
+alle neuigkeiten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								staffel 5
+							
+
+								future says podcast
+							
+
+erforschen sie die sich stetig entwickelnde welt der daten, der ki und alles, was dazwischen liegt.der podcast wird auf englisch präsentiert.
+
+alle episoden ansehen
+
+
+									alle episoden ansehen
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+altair partner alliance
+verbessern und optimieren sie ihre entwicklung, simulationsprozesse und konstruktionen mit weiteren 65+ produkten, die bereits in ihrem altair angebot enthalten sind.
+mehr erfahren
+
+
+
+
+
+
+
+
+
+
+alles inklusive, allzeit bereit: altair units
+altair units geben unseren kunden die flexibilität, überall und jederzeit mit der benötigten software zu arbeiten. damit bieten altair units eine einzigartige nutzenmaximierung und kosteneffizienz.
+mehr erfahren
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								 wohin wollen sie gehen?welche richtung möchten sie einschlagen?
+							
+
+								gehen sie ihren weg mit uns!
+							
+
+								werden sie teil unseres teams
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+            in verbindung bleiben
+
+            bereit vorwärts zu gehen? dann sind sie hier genau richtig. melden sie sich an und erhalten sie die neuesten nachrichten von altair.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                altair und unsere vertriebspartner benötigen die kontaktinformationen, die sie uns zur verfügung stellen, um sie bezüglich unserer produkte und dienstleistungen zu kontaktieren. sie können diese mitteilungen jederzeit abbestellen. informationen zum abbestellen sowie zu unseren datenschutzpraktiken und unserer verpflichtung zum schutz ihrer privatsphäre finden sie in unserer  datenschutzrichtlinie 
+
+
+
+
+
+
+
+
+facebook
+
+
+
+instagram
+
+
+
+linkedin
+
+
+
+youtube
+
+blog
+
+wechat
+
+
+
+ressourcen
+
+anwenderberichte
+webinare
+ausgewählte beiträge
+downloads
+dokumentationen
+community & support
+training
+startup programm
+akademisches programm
+alle ressourcen anzeigen
+
+
+
+produkte
+
+datenanalyse
+elektromagnetik
+electronic system design
+fluids & thermal
+hpc & cloud
+industriedesign
+internet der dinge
+simulation für die fertigung
+multiphysik
+strukturberechnung
+bauingenieurwesen - aec
+systemmodellierung
+sehen sie sich unsere produkte an
+
+
+
+über uns
+
+
+
+unternehmen
+standorte
+karriere
+nachhaltigkeit
+
+
+
+
+partners
+investoren
+support
+
+
+
+
+neuigkeiten
+e-mail-newsletter
+kontakt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+datenschutz 
+            | website terms of use 
+            | impressum 
+            | cookie-zustimmung
+            © 2025 altair engineering inc. alle rechte vorbehalten. wir sind derzeit an der nasdaq als altr gelistet. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

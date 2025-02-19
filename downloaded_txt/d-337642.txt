@@ -1,0 +1,588 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+audio scientific - audio expertise for digital world
+
+
+ audio  scientific            
+audio   expertise   for  
+digital   world
+ telecommunications, digital and wireless engineers often add
+voice to their design.  it has been proven many times that sound quality depends on designer's approach & skills -
+and each product sounds differently. correct conversion of digital signals into analog and sound signals requires a set of critical skills, to ensure high voice quality in the entire chain, end to end,
+under all conditions and with all settings of software controls.
+
+
+audio scientific provides this critical set of skills.  we take care of all aspects of client design from dbm0 to dbv and db spl. we specialize in
+audio for telecom, wireless, digital, medical and hand portable products. we 
+cover
+bluetooth, cellular phones, cordless, telephone handsets,
+hands - free, headsets, speakerphones with a variety of accessories, echo cancellers, portable audio appliances, 
+electronic book readers, noise canceling microphones plus all products where a chain of sound, analog and digital signals involved or voice capability required.
+
+
+experience how easy and stress free will be your job when we take care of the 
+analog end and acoustics. do not slow down your engineers with audio & 
+acoustical tasks, delegate such tasks to audio scientific! let audio scientific 
+expertise in analog design and acoustics work for you. let us shorten your 
+design time, save you money and faster move your product to market. compare 
+voice & sound quality before and after we worked 
+with you. see  engineering service examples 
+below,  audio scientific -
+brochure (pdf 508kb),  
+prior
+accomplishments (or word doc 65 kb), ask 
+for a free initial consultation at your location or over the phone, learn about 
+our ultra low noise anechoic chamber, 
+learn how you can
+ rent acoustical anechoic chamber on daily basis.   contact peter sobczak, 
+audio principal engineer at   petersob@audioscientific.com.  
+audio scientific, 11463 tree hollow lane, san diego, ca 92128.
+
+
+ guestbook
+                         
+
+propose a link, report faulty link, send comments to  
+webmaster@audioscientific.com.
+
+acoustics animations sound interactive demos     
+audio test equipment
+manufacturers &
+sources
+
+acoustical anechoic chambers   
+auto
+calculators
+& references    audio measurement techniques  
+
+audio
+compression       acoustical
+treatment materials       audio marketplace    
+  
+ audio software 
+
+batteries    bioacoustics
+- ultrasound - underwater - wildlife     bluetooth
+audio   circuit simulators
+
+class
+d amplifiers            
+data loggers  
+           engineering resources            
+emf - electrosmog
+
+electronic circuits
+ -  schematics & tutorials           
+ interesting sound websites        
+  
+microphones
+
+microphone
+cables               
+noise            
+noise
+canceling headphones & active hearing protectors 
+
+
+noise
+reduction & intelligibility & voice quality & speech
+recognition      ultra high end devices
+
+
+echo
+cancellers suppressors hands  -
+ free   
+variable gain amplifiers 
+(vga)  
+ultra low distortion            
+ 
+
+ultra low
+noise     
+ultra low power      
+ultra
+low resistance       
+ultra fast devices    
+usb audio
+
+
+room
+acoustics           sound cards         
+sound meters         
+ special
+audio companies & products
+
+
+ speakers         
+transducers & headsets
+&
+suppliers           wireless
+audio &  telecommunications
+
+engineering service examples
+provide access to our san diego located sound anechoic chamber. lease terms
+available.
+design appliances with devices like microphones, speakers and buzzers
+conduct audio seminars
+setup audio lab at any location of client choice
+design review
+hardware design:   dbm0 - dbv - db spl - db pa
+documentation: specifications, procedures, design process, manufacturing 
+processtesting
+test fixtures
+calculations
+analog circuit simulationtransducer simulationelectronic circuitry design
+transducers selection
+dummy prototype - product with audio transducers, no electronics
+functioning prototype - product with audio transducers and electronics
+production support
+provide access to our san diego located sound anechoic chamber
+1. includes power line isolated setup, with all test setup components 
+powered with individual batteries. we record voice signals down to -3db spl "a", 
+1hz.2. your crew may bring equipment for testing in anechoic chamber and working
+on your problem. our mobile test setup allows automotive tasks like hands-free,
+speech recognition, echo canceller, echo return loss, audible noise
+and more.
+design appliances with devices like microphones, speakers and buzzers
+3. portable audio appliances, laptop, cellular and hands-free phones,
+speakerphone and more.
+4. build microphone and speaker into housing including computer monitor
+and car interior.
+5. all steps from concept to production: parts selection, documentation,
+schematics, drawings, procedures, testing, fixtures, prototypes and calibration
+references.
+consulting
+6. analyze your needs and prepare custom tailored seminar for your
+crew.
+7. general audio, analog circuitry, audio transducers, equipment or
+client interest areas presented.
+8. client site or specific case dependent location.
+9. practical tips and answers only audio expert can give.
+10. information about sound nature, sound sources, picking and producing
+sound, devices and tricks involved.
+11. problem solving skills at expert depth available on question and
+answer?basis.
+12. audio design, circuitry, transducers, parts selection, testing,
+troubleshooting, measurement, signal references, sound calibration, test
+signals, applying filters, test fixtures and equipment areas.
+setup audio lab at any location of client  choice
+13. select anechoic chamber, sound absorbing materials and equipment.
+deal with vendors.
+14. train your crew to use audio test equipment.
+15. design and build specialized test fixtures for general use and
+for specific application.
+design review
+16. review requirements and prepare detailed list of audio design steps
+from concept to production.
+17. evaluate design progress and propose steps needed to speed it up
+and move it in right direction.
+18. compare yours and your competitor products in performance and specification
+terms.
+19. analyze your problem, find what you need and propose detailed action
+list.
+20. review schematics, mechanical drawings and audio components?specifications.
+21. review environmental requirement for your product and audio components.
+22. confirm hearing aid compatibility? voice recognition compatibility?
+waterproof?and  weatherproof?requirement for product and components.
+hardware design:   dbm0 - dbv - db spl
+23. analyze end to end requirement, including mixed signal chips, codecs,
+sensors and audio transducers.
+24. make sure that signals flow properly, following rules.
+25. create requirement for gain, frequency response distribution for
+each functioning block in the chain.
+26. specify or evaluate existing circuit interface compatibility with
+end devices like speaker, microphone.
+27. create simulation and build devices like loopback fixture, time
+delay fixture and more.
+28. digital - analog - sound - microphone & speaker conversion
+calculations.
+29. specify, select and incorporate semiconductors to meet specific
+goal.
+30. evaluate, test, troubleshoot and calibrate any portion or entire
+existing design, end to end.
+documentation31. extract audio requirement from your documents, industry standards
+and customer needs.32. create requirement and buying list for requirement for engineering
+test equipment with fixtures.33. create requirement and buying list for production audio test equipment
+and production audio fixtures.34. create audio requirement and test procedure for production audio
+fixtures.
+35. create audio requirement and test procedure for production audio
+fixtures?transducers.36. create audio requirement and test procedure for product design
+verification.37. create audio requirement and test procedure for product 
+system verification.38. create level and frequency response limits envelopes, for design
+and system verification testing.testing and recording39. measure and record everything that carries sound or audible frequency
+signal.
+40. measure and compare yours and your competitor product, specific
+segment or end to end.
+41. measure audio transducers like microphones, speakers, ringers,
+buzzers, and receivers.
+42. measure directionality, distortion, response, level, noise, tolerance,
+echo, sidetone, many more terms.
+43. incoming inspection, qualification and environmental testing, production
+troubleshooting, engineering prototypes, vendor samples and more.
+44. sound exposure, correcting test results for noise involved, various
+filters and custom-made test signals.
+45. wide range of setup scenario, anechoic chamber to hands-free, from
+moving vehicle to flying aircraft.
+46. measure noise created by your product or fixture, evaluate noise 
+reduction progress, provide detailed comparison charts for each design.test fixtures
+47. analyze your product and estimate what fixtures are required.
+48. analyze your problem and propose custom design fixture.
+49. fixture design end to end, including mechanics, electronics, transducers
+selection, documentation.
+50. fixtures for testing and troubleshooting circuitry, measuring transducers
+and product testing.
+51. fixtures ranging from engineering testing, incoming inspection,
+part qualifications and production.
+52. specific problem solving fixtures. example: troubleshooting audible
+noise, hands-free loopback.
+53. wide range of fixture applications, from high altitude to underwater,
+freezing to hot weather, high level electromagnetic noise field to ultra
+low level audio signals and more.
+calculations
+54. translate your product requirement into transducer specifications.
+55. check circuitry compatibility with audio transducers you selected.
+56. evaluate product end to end level and frequency response distribution.
+57. compare and evaluate audio specifications written in different
+formats.
+simulations
+58. simulate end to end system for level, response, noise and distortion
+distribution.
+59. create transducers models for accurate simulation of real like
+conditions.
+60. simulate specific problem and specific solution.
+61. simulation files for circuit simulator of your choice.
+electronic circuit design
+62. translate product specification into circuitry requirement.
+63. create circuit requirement to match audio transducers.
+64. create requirement for power supply and pc board: space needed
+and design rules.
+65. simulate, analyze and modify existing circuitry, predict and solve
+performance problems.
+66. troubleshoot circuitry and propose available solutions, modifications
+to meet requirement.
+67. find available on market replacement parts to make your product
+work best.
+transducers selection
+68. find audio components for your application and deal with transducers?
+vendors.
+69. design and build transducers test fixtures for microphone, speaker,
+receiver, buzzer, and ringer.
+70. evaluate your audio components per manufacturer or/and your product
+requirement.
+71. evaluate how your audio components stand against another choices.
+72. prepare transducers replacement list.
+73. perform components qualification testing.
+74. select ? tolerance? max level?and min level?transducers for
+reference prototypes.
+75. evaluate transducers?compatibility with mechanical and electrical
+design, per product specification.
+76. analyze mechanics, transducers and electronics level tolerance
+build up.
+77. analyze mechanics, transducers and electronics frequency response
+build up.
+78. perform microphones?rf susceptibility testing.
+dummy prototype - product with audio transducers, no electronics
+79. create ? tolerance? "max level?and min level?prototypes.
+80. evaluate how prototypes stand against product audio specification.
+81. perform preliminary echo return loss test for all prototypes.
+82. assist with pc board layout design.
+functioning prototype ?product with audio transducers and electronics
+83. create ? tolerance? max level?and min level?prototypes.
+84. evaluate how prototypes stand against product audio specification.
+85. evaluate pc board design in the audio and transducers areas.
+86. perform preliminary echo return loss and side tone tests for all
+prototypes.
+87. perform prototypes?rf susceptibility testing.
+88. evaluate prototypes?voice quality with various scenarios. 
+89. perform design verification testing. perform system verification
+testing.
+90. assist with pc board layout changes.
+production
+91. select audio transducers for production audio fixtures.
+92. design and build production audio test fixtures.
+93. evaluate and calibrate audio fixtures connected to production testers
+with ? tolerance? max level?and min level?functioning prototypes.
+94. create level and frequency response limits envelopes for production
+testers with audio fixtures.
+95. measure 3 production units in audio lab (3 items) and on 3 production
+testers (9 items total). confirm testers?repetition. calibrate testers?
+limits envelopes.
+96. evaluate production testers?environment, including ambient noise
+and rf field.
+97. perform production testers?and production audio fixtures?rf susceptibility.
+98. evaluate testers?results in mass production to ensure proper yield.
+relax testers?envelope if justified.
+99. troubleshoot your product and fixtures to improve manufacturability.
+selected topics
+100. implement push to talk ptt feature into your product..
+101. implement hearing aid compatibility hac into your product.
+102. implement noise canceling microphone or directional microphone into 
+your product.
+103. implement micro speaker into limited space around your mechanical 
+design.
+104. reduce audible noise in your product.105. reduce echo - improve 
+echo return loss in your product. 
+audio seminar  questions
+1.    ac coupling capacitors: coupling frequency corner per design's
+frequency corner. differential input coupling.
+2.    ac coupling capacitors tolerance and final cmrr. how 80
+db cmrr turns into below 30 db.
+3.    why test results may not fit tolerance mask, yet tested object
+is fine.
+4.    tolerance mask: do you specify fixed mask or floating mask?
+mask types.
+5.    why tolerance masks for production tester and product
+specification are different.
+6.    why sine sweep belongs to the past in the audio testing area
+- level and noise dependent response, level dependent noise floor, a lot
+of  dsp, steady tone seen as noise or whistle signal to mute. when
+sine sweep is the best way to go.
+7.    why today high end audio analyzers may not tell the truth
+(calibration, repetition, side effects, test signal does not fit specific
+scenario).
+8.    b&k? audio precision? ...? which analyzer is best for you?
+why?
+9.    b&k? ? ...?  which reference microphones are best for
+you? why?
+10.  why would i spend hundred dollars for microphone calibration
+when my microphone works fine?
+11.  b&k sound meter? why? which sound meter is right for you? what
+is type 1 and type 2?
+12.  sound meters design flaws their manufactures do not want you to
+know.
+13.  why ringer sound testing with high end sound meter can be a very
+bad mistake.
+14.  do you properly select audio transducers for your application?
+microphone? receiver? buzzer? ringer? speaker? why your transducer may
+not be selected properly while it works ok in your product?
+15.  how do you select noise canceling microphone for your application?
+common mistakes in microphone selection and noise cancellation estimate.
+16.  what really is that noise canceling effect? end to end components
+of acoustical noise cancellation, electrical noise cancellation, simulations.
+17.  test techniques for noise canceling microphone: level, frequency
+response, directionality, cancellation effect.
+18.  how do you test your product with noise canceling microphone? many
+speakers around? frequency response at 0 deg & at 1"/2' or polar
+pattern? best test strategy for your application.
+19. can your microphone cancel noise up to average 15 db? explaining myth
+about average 15 db noise canceling effect?
+20.  why each test technique brings different results and how to
+compare such different results.
+21.  when  average?can substitute nominal?for audio transducers?
+common misconceptions.
+22.  do you have realistic expectation for audio transducer testing
+for production troubleshooting?
+23.  why software can adjust microphone nominal level only in some cases?
+24.  how you can change transducer level when no access to circuitry
+available.
+25.  why generic test fixture will not allow checking your audio part
+specification accurately.
+26.  environmental concern ?can you buy microphone for 90 deg c storage
+and 65 deg c operation?
+27.  why should you care about weatherproof screen for audio transducers.
+28.  weatherproof or waterproof? are your audio transducers meeting
+first or second requirement?
+29.  can weatherproof screen change frequency response or acoustical
+echo for your product?
+30.  ringer's volume control. ringer playing tunes. how do you turn
+volume down?
+31.  my ringer is too quiet and i have 1 week left. can extension tube
+solve my problem?
+32.  micropower operational amplifiers for audio ?mistakes with insufficient
+slew rate (band, cmrr).
+33.  why engineering prototypes meet requirement yet production yield
+will be poor.
+34.  you confirmed good echo performance in hands-free mode and complaints
+are coming. what do you do?
+35.  do you avoid audio transducers from vendors with unknown reputation?
+do you have peace of mind when buying more expensive microphone?
+36.  is custom made coupler from manufacturer a must for receiver transducer testing?
+37.  does noise from signal to noise ratio (snr) substitute noise from
+noise floor measurement? when?
+38.  can i test ringer sound of 2 khz with 5 khz analyzer? yes if?
+39.  techniques to control ringer output level and associated problems.
+40.  when ringer meets requirement but only at 0 deg...
+41.  hard drive noise attenuating enclosure does not work as expected.
+why?
+42.  when and why a?filter is a must, test detail not present on many
+specifications.
+43.  my  product does not meet requirement unless i turn off a?
+filter?
+44.  what are a, b, c, g, u, au filters?
+45.  my cellular phone meets specification but does not sound right.
+what do i do?
+46.  why puff (not pop) effect may ruin performance of otherwise well
+designed microphone.
+47.  how to test puff effect. test fixture for good repetition.
+48.  specific cases when puff effect can be eliminated with high pass
+filter.
+49.  nature of puff effect. can dsp fix poorly designed microphone
+housing?
+50.  why side tone does not always indicate puff effect.
+51.  when puff effect can degrade performance in hands free mode.
+52.  why 99% phones on market have puff effect and some are simple very
+bad.
+53.  which microphones exhibit best and worst puff effect and why.
+54.  puff effect and microphone directionality.
+55.  puff effect per weather proof screen in case when noise canceling
+microphone has two ports.
+56.  directional microphone designed for small enclosures.
+57.  can cardioid microphone be made from noise canceling microphone
+cartridge?
+58.  can noise canceling microphone have rear port more sensitive than
+front port?
+59.  how to modify front to rear port levels ratio with weather proof
+screen.
+60.  weatherproof screen per frequency response and polar pattern. can
+they be entirely independent?
+61.  directional microphones with two cartridges. advantages and
+disadvantages. design trade-offs.
+62.  can microphone cartridge be selected properly with no requirement
+prepared earlier?
+63.  when microphone cartridge can be a source of customer complaints
+after production cranks zillions...
+64.  common mistake with ignoring microphone self noise and why.
+65.  can 6 mm condenser electret microphone match performance of 10 mm
+microphone?
+65.  can 6 mm condenser electret microphone work well for speech
+recognition?
+66.  rare applications when 6 mm and 10 mm microphones work equally
+well.
+67.  spring contacts or flex circuit? how do they compare from
+microphone performance stand point.
+68.  possible horror scenarios for spring contacts, flex circuit and
+soldered wire connections.
+69.  can anyone solder microphone cartridges? why not? two horror
+stories and how to avoid them.70.  microphone housing: hard rubber? soft rubber? how do you tell
+which one performs better?71.  maximum sound that condenser electret microphones can handle.
+factors limiting high level signal.72.  which microphones accept high level best and worst. can you define
+highest sound level for your design?73.  can you influence microphone maximum level? do you do it without
+knowing?74.  condenser electret microphone load. what is behind supply 
+voltage range and load impedance.75.  can i use active load for condenser electret microphone? cases
+when yes applies.76.  bipolar transistor acting as simulated inductance for condenser
+electret microphone load.77.  can microphone load be utilized as frequency response network?
+trade-offs and dangers here.78.  differential input connected to electret microphone cartridge.
+common misconceptions.79.  what is memory effect for electret condenser microphone cartridge?
+how to improve production yield for level testing.80.  are condenser electret microphone electrostatic sensitive, when
+source - drain contacts have 1 kohm connection? why are microphones recommended
+to handle with static protection?81.  if static damages microphone cartridges, why are they shipped
+without proper electrostatic protection?82.  can soldering iron without static protection damage microphone
+cartridge?83.  how soldering operation can ruin level tolerance build-up
+calculations.84.  full list of level tolerances for every microphone project, 
+from microphone housing to amplifier output.85.  can level tolerance build-up calculations substitute frequency
+response tolerance build-up?86.  can frequency response for specific microphone element change
+because of microphone handling in production?87.  speakerphone acoustical testing scenarios and best reference
+microphones for each scenario.
+88.  test setup for speakerphone acoustical testing.89.  evolution of test signal for speakerphone testing. how do you
+design test signal for finding speakerphone side effects?
+90.  can voice quality be assessed properly with one working prototype?
+when?
+91.  what factors to include when assessing voice quality for your product.
+92.  is voice quality fixed for your product or is it varying with time?
+how to check, predict.
+93.  how to find voice quality problem source & differentiate voice
+quality between entire system per your product, product per audio transducers.
+94.  how poor echo or side tone can make voice quality worse.
+95.  is voice quality fixed for your product or is it varying with time?
+how to check, predict.
+96.  how do you determine bluetooth protection level on receive path?
+97.  can bluetooth audio gain distribution be different between products?
+98.  how do you measure bluetooth loudness rating on receive and transmit
+path?
+99.  can you use pink noise for bluetooth audio measurements?
+100.  should you be concerned about handset echo when working on bluetooth
+audio compatibility?
+101.  how do you prepare voice quality test setup for bluetooth audio?
+102.  should you expect updated, completed bluetooth audio specifications
+coming soon?
+103.  how long it takes to implement hearing aid compatibility - hac into 
+your product?
+104.  how do you check if your product is hearing aid compatible - hac?
+
+105.  where to start when implementing hearing aid compatibility hac.
+106.  should you be concerned about handset side tone (sidetone) when working on 
+hearing aid compatibility - hac?
+
+107.  the difference between meeting hearing aid compatibility - hac and 
+fully meeting hearing aid compatibility - hac.
+108.  how to resolve challenges with interpretation of hearing aid 
+compatibility standard - hac standard.
+109.  how to resolve challenges around equalization for various 
+measurements for hearing aid compatibility - hac.
+110.  can different probes be used for various measurements related to 
+hearing aid compatibility - hac?
+111.  how to calibrate hearing aid compatibility - hac probes.
+112.  can radial and axial hac probes be used at a time? can they affect 
+each other?
+113.  can presence of hac probes affect magnetic field? can it be 
+compensated? would such compensation always work?
+114.  hearing aid compatibility - hac compliance per various software 
+settings across entire volume control range.
+115.  how to calibrate hearing aid compatibility - hac probes.
+116.  build your probes for hearing aid compatibility - hac or purchase 
+them?
+117.  accuracy of various hearing aid compatibility - hac measurements.
+118.  how to resolve component tolerances against requirements for hearing 
+aid compatibility - hac.
+119.  how to resolve temperature changes around hac coil.
+120.  what products may require hearing aid compatibility - hac, presently 
+and in the future.
+121.  health issues around magnetic field associated with audio path of 
+hearing aid compatibility - hac.
+122.  how to resolve power consumption issues in hearing aid compatibility 
+- hac design.
+123.  hearing aid compatibility design with bluetooth.
+124.  axial and radial components of hearing aid compatibility - hac.
+125.  can audio and rf portions of hearing aid compatibility - hac be met 
+at different spots and still meet overall requirement?
+126.  fulfilling hearing aid compatibility - hac - listening test per 
+specification. practical valuation criteria and required measurements.
+127.  differences between passive and active probes for hearing aid 
+compatibility - hac measurements.
+
+128.  where active probes shine and where passive probes are a must.
+
+what you need is not listed here?   write to peter sobczak at
+ petersob@audioscientific.com.
+cellular phone  - performance evaluation, test results shown in table
+format.
+
+
+cellular phone - side tone test, plots shown with side tone weighting
+applied.
+
+
+cellular phone - receiver frequency response test, plots shown before and
+after circuit redesigned.
+
+
+cellular phone - echo return loss test, plots shown with erl weighting
+applied.
+
+
+condenser electret microphone cartridges, self noise comparison test - 3
+different models & vendors
+
+

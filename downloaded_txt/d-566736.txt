@@ -1,0 +1,5568 @@
+
+
+
+
+
+
+
+
+
+
+
+
+ eurex 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+markets
+
+
+
+trade
+
+
+
+clear
+
+data
+
+
+
+support
+
+
+
+rules & regs
+
+
+
+find
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featured
+
+
+product overview
+daily options
+three-month euro str futures
+credit index futures
+euro stoxx 50® index futures
+
+
+
+interest rate derivatives
+
+fixed income futures
+fixed income options
+stir futures & options
+credit index futures
+financing of futures ctds
+
+
+
+equity
+
+equity options
+single stock futures
+stock tracking futures
+equity & basket total return futures
+
+
+
+equity index 
+
+stoxx
+msci
+ftse
+dax
+mini-dax
+micro product suite
+daily options
+index total return futures
+esg index derivatives
+country indexes
+kospi
+
+
+
+dividends
+
+single stock dividend futures
+equity index dividend derivatives
+
+
+
+volatility
+
+vstoxx
+variance
+
+
+
+etf & etc
+
+equity index etf derivatives
+fixed income etf derivatives
+etc derivatives
+
+
+
+cryptocurrency
+
+
+
+
+commodity
+
+bloomberg commodity derivatives
+
+
+
+fx
+
+listed fx derivatives
+daily usd/krw futures
+
+
+
+eurex repo market
+
+special and gc repo
+special repo
+gc repo
+gc pooling repo
+gc pooling baskets
+hqlax
+etriparty
+indices
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featured
+
+
+product overview
+trading calendar
+trading hours
+production newsboard
+transaction fees
+
+
+
+trading calendar
+
+trading calendar archive
+holiday regulations
+
+
+
+trading hours
+
+trading phases
+trading hours statistics
+
+
+
+production newsboard
+
+
+
+
+transaction fees
+
+
+
+
+participant lists
+
+exchange participants
+market maker futures
+market maker options
+isv & service provider
+3rd party information provider
+market data vendors
+brokers
+
+
+
+exchange membership
+
+admission requirements
+trader admission
+clearing licenses
+
+
+
+market-making and liquidity provisioning
+
+
+
+
+market models
+
+eurex plp
+eurex improve 
+eurex enlight
+
+
+
+order book trading
+
+matching principles
+strategy trading
+order types
+order handling
+account structure
+
+
+
+eurex t7 entry services
+
+multilateral and brokerage functionality
+block trades
+delta tam
+t7 entry service via e-mail
+vola trades
+additional contract versions
+exchange for physicals
+trade at index close
+exchange for swaps
+non-disclosure facility
+
+
+
+trading tools
+
+optionmaster
+strategymaster
+variancecalculator
+
+
+
+margin calculators
+
+eurex clearing prisma margin calculators
+rbm calculator
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+statistics
+
+market statistics (online)
+trading statistics
+monthly statistics
+eurex repo statistics
+snapshot summary report
+
+
+
+trading files
+
+product parameter files
+t7 entry service parameters
+efs trades
+efp-fin trades
+efp-index trades
+mifid2 commodity derivatives instruments
+total return futures conversion parameters
+product and price report
+variance futures conversion parameters
+suspension reports
+position limits
+rdf files
+
+
+
+clearing files
+
+prices rolling spot future
+notified bonds | deliverable bonds and conversion factors
+risk parameters and initial margins
+securities margin groups and classes
+haircut and adjusted exchange rate
+
+
+
+real-time data
+
+
+
+
+historical data
+
+
+
+
+analytics data
+
+
+
+
+reference data api
+
+
+
+
+automatic file downloads
+
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+initiatives & releases
+
+cross-project-calendar
+readiness for projects
+t7 release 13.1
+t7 release 13.0
+t7 release 12.1
+t7 release 12.0
+member section releases
+simulation calendar
+archive
+
+
+
+onboarding
+
+
+
+
+technology
+
+t7
+t7 cloud simulation
+common report engine (cre)
+connectivity
+isv & service provider
+
+
+
+trading activity
+
+
+
+
+emergencies & safeguards
+
+volatility interruption functionality
+
+
+
+compliance
+
+
+
+
+information channels
+
+service status
+implementation news
+t7 weekend maintenance/activity overview
+circulars & newsflashes
+
+
+
+f7 trading system
+
+connectivity
+independent software vendors 
+implementation news
+simulation calender
+f7 general faq
+f7 mifid ii faq
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eurex rules & regulations
+
+
+
+
+eurex repo rules & regulations
+
+
+
+
+corporate actions
+
+corporate action information
+corporate actions procedures
+dividend adjustments
+
+
+
+eurex derivatives in the u.s.
+
+direct market access from the u.s.
+eligible options under sec class no-action relief
+eligible foreign security futures products under 2009 sec order and commodity exchange act
+u.s. introducing broker direct eurex access 
+
+
+
+regulations
+
+mifid ii/mifir
+priips/kids
+ibor reform
+order-to-trade ratio
+excessive system usage fee
+
+
+
+sanctions
+
+publication of sanctions
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featured
+
+
+product overview
+newsletter subscription
+hotlines
+
+
+
+newsletter subscription
+
+
+
+
+circulars & newsflashes subscription
+
+
+
+
+corporate action information subscription
+
+
+
+
+circulars & newsflashes
+
+
+
+
+news center
+
+ news
+videos
+webcasts on demand
+events
+publications
+forms
+
+
+
+derivatives forum
+
+
+
+
+contact us
+
+hotlines
+addresses
+whistleblowers
+eurex repo customer complaints
+
+
+
+about us
+
+eurex exchange
+eurex clearing
+eurex repo
+management boards
+sustainability
+
+
+
+education
+
+e-lectures
+ifm screencasts
+system training
+
+
+
+
+
+
+
+
+
+webcast (replay): focus day on msci & msci trf
+
+
+
+access to global markets using msci derivatives
+
+
+
+watch now
+
+
+
+
+ 
+
+
+
+
+
+focus day - daily options & vstoxx
+
+
+
+trading european volatility markets
+
+
+
+watch the recording
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ deutsch
+ 简体
+ 繁体
+ 한국어
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+markets
+
+
+
+
+
+
+
+trade
+
+
+
+
+
+
+clear
+
+
+
+data
+
+
+
+
+
+
+
+support
+
+
+
+
+
+
+
+rules & regs
+
+
+
+
+
+
+
+find
+
+
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+markets
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+
+interest rate derivatives
+
+
+
+
+
+
+
+equity
+
+
+
+
+
+
+
+equity index 
+
+
+
+
+
+
+
+dividends
+
+
+
+
+
+
+
+volatility
+
+
+
+
+
+
+
+etf & etc
+
+
+
+
+
+
+cryptocurrency
+
+
+
+commodity
+
+
+
+
+
+
+
+fx
+
+
+
+
+
+
+
+eurex repo market
+
+
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+interest rate derivatives
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+fixed income futures
+
+
+fixed income options
+
+
+stir futures & options
+
+
+credit index futures
+
+
+financing of futures ctds
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+equity
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+equity options
+
+
+single stock futures
+
+
+stock tracking futures
+
+
+equity & basket total return futures
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+equity index 
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+stoxx
+
+
+msci
+
+
+ftse
+
+
+dax
+
+
+mini-dax
+
+
+micro product suite
+
+
+daily options
+
+
+index total return futures
+
+
+esg index derivatives
+
+
+country indexes
+
+
+kospi
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+dividends
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+single stock dividend futures
+
+
+equity index dividend derivatives
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+volatility
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+vstoxx
+
+
+variance
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+etf & etc
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+equity index etf derivatives
+
+
+fixed income etf derivatives
+
+
+etc derivatives
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+commodity
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+bloomberg commodity derivatives
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+fx
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+listed fx derivatives
+
+
+daily usd/krw futures
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+eurex repo market
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+special and gc repo
+
+
+special repo
+
+
+gc repo
+
+
+gc pooling repo
+
+
+gc pooling baskets
+
+
+hqlax
+
+
+etriparty
+
+
+indices
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+daily options
+
+
+three-month euro str futures
+
+
+credit index futures
+
+
+euro stoxx 50® index futures
+
+
+
+
+
+
+
+
+trade
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+
+trading calendar
+
+
+
+
+
+
+
+trading hours
+
+
+
+
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+participant lists
+
+
+
+
+
+
+
+exchange membership
+
+
+
+
+
+
+market-making and liquidity provisioning
+
+
+
+market models
+
+
+
+
+
+
+
+order book trading
+
+
+
+
+
+
+
+eurex t7 entry services
+
+
+
+
+
+
+
+trading tools
+
+
+
+
+
+
+
+margin calculators
+
+
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+trading calendar
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+trading calendar archive
+
+
+holiday regulations
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+trading hours
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+trading phases
+
+
+trading hours statistics
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+participant lists
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+exchange participants
+
+
+market maker futures
+
+
+market maker options
+
+
+isv & service provider
+
+
+3rd party information provider
+
+
+market data vendors
+
+
+brokers
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+exchange membership
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+admission requirements
+
+
+trader admission
+
+
+clearing licenses
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+market models
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+eurex plp
+
+
+eurex improve 
+
+
+eurex enlight
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+order book trading
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+matching principles
+
+
+strategy trading
+
+
+order types
+
+
+order handling
+
+
+account structure
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+eurex t7 entry services
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+multilateral and brokerage functionality
+
+
+block trades
+
+
+delta tam
+
+
+t7 entry service via e-mail
+
+
+vola trades
+
+
+additional contract versions
+
+
+exchange for physicals
+
+
+trade at index close
+
+
+exchange for swaps
+
+
+non-disclosure facility
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+trading tools
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+optionmaster
+
+
+strategymaster
+
+
+variancecalculator
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+margin calculators
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+eurex clearing prisma margin calculators
+
+
+rbm calculator
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+trading calendar
+
+
+trading hours
+
+
+production newsboard
+
+
+transaction fees
+
+
+
+
+
+
+
+
+data
+
+
+
+
+statistics
+
+
+
+
+
+
+
+trading files
+
+
+
+
+
+
+
+clearing files
+
+
+
+
+
+
+real-time data
+
+
+historical data
+
+
+analytics data
+
+
+reference data api
+
+
+automatic file downloads
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+statistics
+
+
+
+market statistics (online)
+
+
+trading statistics
+
+
+monthly statistics
+
+
+eurex repo statistics
+
+
+snapshot summary report
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+trading files
+
+
+
+product parameter files
+
+
+t7 entry service parameters
+
+
+efs trades
+
+
+efp-fin trades
+
+
+efp-index trades
+
+
+mifid2 commodity derivatives instruments
+
+
+total return futures conversion parameters
+
+
+product and price report
+
+
+variance futures conversion parameters
+
+
+suspension reports
+
+
+position limits
+
+
+rdf files
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+clearing files
+
+
+
+prices rolling spot future
+
+
+notified bonds | deliverable bonds and conversion factors
+
+
+risk parameters and initial margins
+
+
+securities margin groups and classes
+
+
+haircut and adjusted exchange rate
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+support
+
+
+
+
+initiatives & releases
+
+
+
+
+
+
+onboarding
+
+
+
+technology
+
+
+
+
+
+
+trading activity
+
+
+
+emergencies & safeguards
+
+
+
+
+
+
+compliance
+
+
+
+information channels
+
+
+
+
+
+
+
+f7 trading system
+
+
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+initiatives & releases
+
+
+
+cross-project-calendar
+
+
+readiness for projects
+
+
+t7 release 13.1
+
+
+t7 release 13.0
+
+
+t7 release 12.1
+
+
+t7 release 12.0
+
+
+member section releases
+
+
+simulation calendar
+
+
+archive
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+technology
+
+
+
+t7
+
+
+t7 cloud simulation
+
+
+common report engine (cre)
+
+
+connectivity
+
+
+isv & service provider
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+emergencies & safeguards
+
+
+
+volatility interruption functionality
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+information channels
+
+
+
+service status
+
+
+implementation news
+
+
+t7 weekend maintenance/activity overview
+
+
+circulars & newsflashes
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+f7 trading system
+
+
+
+connectivity
+
+
+independent software vendors 
+
+
+implementation news
+
+
+simulation calender
+
+
+f7 general faq
+
+
+f7 mifid ii faq
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+rules & regs
+
+
+
+eurex rules & regulations
+
+
+eurex repo rules & regulations
+
+
+
+corporate actions
+
+
+
+
+
+
+
+eurex derivatives in the u.s.
+
+
+
+
+
+
+
+regulations
+
+
+
+
+
+
+
+sanctions
+
+
+
+
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+corporate actions
+
+
+
+corporate action information
+
+
+corporate actions procedures
+
+
+dividend adjustments
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+eurex derivatives in the u.s.
+
+
+
+direct market access from the u.s.
+
+
+eligible options under sec class no-action relief
+
+
+eligible foreign security futures products under 2009 sec order and commodity exchange act
+
+
+u.s. introducing broker direct eurex access 
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+regulations
+
+
+
+mifid ii/mifir
+
+
+priips/kids
+
+
+ibor reform
+
+
+order-to-trade ratio
+
+
+excessive system usage fee
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+sanctions
+
+
+
+publication of sanctions
+
+
+
+
+
+
+
+a hybrid world of opportunity
+
+
+
+the power of change in fx markets.
+
+
+
+read the article
+
+
+
+
+ 
+
+
+
+
+
+unleashing new possibilities for european markets
+
+
+
+
+download whitepaper
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+find
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+newsletter subscription
+
+
+circulars & newsflashes subscription
+
+
+corporate action information subscription
+
+
+circulars & newsflashes
+
+
+
+news center
+
+
+
+
+
+
+derivatives forum
+
+
+
+contact us
+
+
+
+
+
+
+
+about us
+
+
+
+
+
+
+
+education
+
+
+
+
+
+
+
+
+
+
+
+webcast (replay): focus day on msci & msci trf
+
+
+
+access to global markets using msci derivatives
+
+
+
+watch now
+
+
+
+
+ 
+
+
+
+
+
+focus day - daily options & vstoxx
+
+
+
+trading european volatility markets
+
+
+
+watch the recording
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+newsletter subscription
+
+
+hotlines
+
+
+
+
+
+
+
+
+news center
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+ news
+
+
+videos
+
+
+webcasts on demand
+
+
+events
+
+
+publications
+
+
+forms
+
+
+
+
+
+
+
+webcast (replay): focus day on msci & msci trf
+
+
+
+access to global markets using msci derivatives
+
+
+
+watch now
+
+
+
+
+ 
+
+
+
+
+
+focus day - daily options & vstoxx
+
+
+
+trading european volatility markets
+
+
+
+watch the recording
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+newsletter subscription
+
+
+hotlines
+
+
+
+
+
+
+
+
+contact us
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+hotlines
+
+
+addresses
+
+
+whistleblowers
+
+
+eurex repo customer complaints
+
+
+
+
+
+
+
+webcast (replay): focus day on msci & msci trf
+
+
+
+access to global markets using msci derivatives
+
+
+
+watch now
+
+
+
+
+ 
+
+
+
+
+
+focus day - daily options & vstoxx
+
+
+
+trading european volatility markets
+
+
+
+watch the recording
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+newsletter subscription
+
+
+hotlines
+
+
+
+
+
+
+
+
+about us
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+eurex exchange
+
+
+eurex clearing
+
+
+eurex repo
+
+
+management boards
+
+
+sustainability
+
+
+
+
+
+
+
+webcast (replay): focus day on msci & msci trf
+
+
+
+access to global markets using msci derivatives
+
+
+
+watch now
+
+
+
+
+ 
+
+
+
+
+
+focus day - daily options & vstoxx
+
+
+
+trading european volatility markets
+
+
+
+watch the recording
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+newsletter subscription
+
+
+hotlines
+
+
+
+
+
+
+
+
+education
+
+
+
+
+
+
+featured
+
+
+
+
+
+
+
+e-lectures
+
+
+ifm screencasts
+
+
+system training
+
+
+
+
+
+
+
+webcast (replay): focus day on msci & msci trf
+
+
+
+access to global markets using msci derivatives
+
+
+
+watch now
+
+
+
+
+ 
+
+
+
+
+
+focus day - daily options & vstoxx
+
+
+
+trading european volatility markets
+
+
+
+watch the recording
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+featured
+
+
+
+product overview
+
+
+newsletter subscription
+
+
+hotlines
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ deutsch
+ 简体
+ 繁体
+ 한국어
+
+ 
+
+
+
+
+
+
+ join the derivatives forum frankfurt
+
+secure your spot with 1,500+ peers for keynotes, industry discussions and network opportunities.
+  get your online or on-site tickets! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   get the latest product updates  
+
+statistics, highlights and new product launches
+
+  sign up for our newsletters 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+news
+
+
+
+all news
+
+
+
+
+
+
+focus
+17. feb 2025
+
+
+
+navigating volatility: trading european volatility markets in a year of macro events and elections 
+
+
+
+
+
+
+focus
+17. feb 2025
+
+
+
+the innovation imperative: balancing progress and stability in finance 
+
+
+
+
+
+
+focus
+14. feb 2025
+
+
+
+micro futures, broader trading possibilities 
+
+
+
+
+
+
+focus
+14. feb 2025
+
+
+
+dax derivatives: global exposure and anticipated volatility during the german elections 
+
+
+
+
+
+
+focus
+13. feb 2025
+
+
+
+futurization – trading dividend derivatives & total return futures 
+
+
+
+
+ 
+circulars & mailings
+
+
+
+all circulars & mailings
+
+
+
+
+
+
+circulars
+17. feb 2025
+
+
+
+eurex readiness newsflash | final step of the isv registration & software management initiative now live 
+
+
+
+
+
+
+circulars
+12. feb 2025
+
+
+
+annual eurex deutschland trading participant due diligence 
+
+
+
+
+
+
+circulars
+12. feb 2025
+
+
+
+equity index derivatives: change of the minimum price gradation in selected equity index derivatives as of 3 march 2025 
+
+
+
+
+
+
+circulars
+11. feb 2025
+
+
+
+eurex readiness newsflash | member section release february 2025 
+
+
+
+
+
+
+circulars
+10. feb 2025
+
+
+
+eurex maximum order value and transaction size limits: annual review of exchange limits 
+
+
+
+
+ 
+press releases
+
+
+
+all press releases
+
+
+
+
+
+
+press release
+06. feb 2025
+
+
+
+january 2025 figures at eurex 
+
+
+
+
+
+
+press release
+31. jan 2025
+
+
+
+changes to the executive board of eurex frankfurt ag 
+
+
+
+
+
+
+press release
+23. jan 2025
+
+
+
+eurex clearing paving the way for digital collateral mobilization 
+
+
+
+
+
+
+press release
+07. jan 2025
+
+
+
+full year and december 2024 figures at eurex 
+
+
+
+
+
+
+press release
+06. jan 2025
+
+
+
+eurex dividend options received cftc approval for trading in the u.s. 
+
+
+
+
+ 
+events
+
+
+
+all events
+
+
+
+
+
+
+event
+04. mar 2025
+
+
+
+join bvi frankfurt and eurex at our upcoming esg index derivatives seminar 
+
+
+
+
+
+
+event
+09. mar 2025
+
+
+
+meet us at fia boca 2025 
+
+
+
+
+
+
+event
+24. apr 2025
+
+
+
+meet us at the volatility investing conference 2025 
+
+
+
+
+
+
+event
+06. may 2025
+
+
+
+meet us at the options industry conference 2025 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+find it fast
+
+
+
+
+final settlement prices (benchmarks)
+
+
+
+
+
+trading calendar
+
+
+
+
+
+t7 entry service parameters
+
+
+
+
+
+production newsboard
+
+
+
+
+
+corporate action information
+
+
+
+
+
+eurex rules & regulations
+
+
+
+
+
+notified bonds | deliverable bonds and conversion factors
+
+
+
+
+
+hotlines
+
+
+
+ 
+
+
+
+
+
+
+
+
+why should all eyes be on europe in 2025?
+
+
+
+discover how global elections and macro events could shape european volatility. download our event calendar to stay ahead of key potential influences in 2025.
+
+
+
+find out more
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+german elections and dax derivatives
+
+
+
+global exposure and anticipated volatility during the german elections
+
+
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+questions on emir 3.0 aar?  get answers here!
+
+
+
+find answers to common questions.
+
+
+
+go to the faq
+
+
+
+
+ 
+
+
+
+
+ 
+prices
+
+
+
+
+
+
+
+
+rates
+
+
+index
+
+
+msci
+
+
+
+
+
+
+product
+diff. to prev. day last
+last price
+contracts
+time
+
+
+
+
+
+fmwo
++0.06%
+12,425.00
+4,748
+17:50:08
+
+
+fmwn
++0.07%
+606.85
+517
+17:35:00
+
+
+fmeu
++0.28%
+371.15
+2,525
+17:40:14
+
+
+fmep
++0.46%
+187.15
+75
+17:19:26
+
+
+fmem
++0.26%
+610.40
+44
+17:38:51
+
+
+fmea
++0.21%
+720.20
+3,501
+17:33:12
+
+
+
+
+ 
+
+ 
+
+
+products
+
+
+
+
+equity derivatives
+
+
+
+
+
+equity index
+
+
+
+
+
+interest rate derivatives
+
+
+
+
+
+listed fx derivatives
+
+
+
+
+
+volatility
+
+
+
+
+
+index total return futures
+
+
+
+
+
+msci
+
+
+
+
+
+esg index derivatives
+
+
+
+ 
+
+
+
+
+
+
+
+
+let’s explore the expanding universe of total return futures
+
+
+
+index total return futures whitepaper
+
+
+
+get your free copy now
+
+
+
+
+ 
+
+
+
+
+
+focus day (replay)  emir 3.0 active account requirement
+
+
+
+missed our virtual event? watch now on demand.
+
+
+
+watch now
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+join our esg index derivatives lunch seminar in frankfurt
+
+
+
+facts, funds and food event series in cooperation with bvi frankfurt on 4 march
+
+
+
+find out more
+
+
+
+
+ 
+
+
+
+
+
+navigate market volatility with micro and mini-dax futures
+
+
+
+enrique marti from ibroker and vincenzo zinna from eurex explain how the micro and mini-dax futures broaden trading possibilities for global investors.
+
+
+
+read the interview
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+renders a video!
+
+
+external videos
+please enable targeting cookies needed to view external videos. this includes all cookies in the category targeting which can be seen in our data privacy.
+activate external videos
+
+
+
+
+
+
+a powerful combination: home market settlement & option vola strategies
+
+
+
+
+
+
+
+
+
+
+
+
+
+renders a video!
+
+
+external videos
+please enable targeting cookies needed to view external videos. this includes all cookies in the category targeting which can be seen in our data privacy.
+activate external videos
+
+
+
+
+
+
+vstoxx panel with j.p. morgan, stoxx and eurex – asset tv
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 26-27 february 2025 | congress center messe frankfurt
+   join the derivatives forum frankfurt  
+
+secure your spot with 1,500+ peers for keynotes, industry discussions and network opportunities.
+
+  get your online or on-site ticket 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+trading calendar
+
+
+
+
+
+
+
+member section
+
+
+
+
+
+
+
+margin calculators
+
+
+
+
+
+
+
+education
+
+
+
+
+
+
+
+
+
+about us
+
+
+
+about us 
+
+
+
+management boards 
+
+
+
+careers 
+
+
+
+
+contacts
+
+
+
+contact us 
+
+
+
+hotlines 
+
+
+
+whistleblowers 
+
+
+
+
+follow us
+
+
+
+linkedin 
+
+
+
+eurex on youtube 
+
+
+
+
+news services
+
+
+
+news center 
+
+
+
+eurex member section 
+
+
+
+corporate action information subscription 
+
+
+
+
+
+
+
+
+a member of
+
+
+
+
+
+
+
+
+
+
+
+
+
+eurex 
+
+eurex clearing 
+
+eurex repo market 
+
+eex 
+
+360t 
+
+xetra 
+
+börse frankfurt 
+
+clearstream 
+
+stoxx 
+
+simcorp 
+
+iss stoxx 
+
+
+
+
+
+
+
+
+disclaimer 
+
+privacy notice 
+
+imprint 
+
+sitemap 
+
+
+
+
+
+
+
+
+market status
+
+ⓘ
+
+
+
+xeur
+
+
+
+
+
+
+
+
+
+
+production newsboard
+
+
+
+
+
+
+
+
+the market status window is an indication regarding the current technical availability of the trading system. it indicates whether news board messages regarding current technical issues of the trading system have been published or will be published shortly.please find further information about incident handling in the emergency playbook published on the eurex webpage under support --> emergencies and safeguards. detailed information about incident communication, market re-opening procedures and best practices for order and trade reconciliation can be found in the chapters 4.2, 4.3 and 4.5, respectively. concrete information for the respective incident will be published during the incident via newsboard message. we strongly recommend not to take any decisions based on the indications in the market status window but to always check the production news board for comprehensive information on an incident.an instant update of the market status requires an enabled up-to date java™ version within the browser.
+
+
+
+
+

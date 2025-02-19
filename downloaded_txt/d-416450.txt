@@ -1,0 +1,187 @@
+
+
+
+tux machines
+
+
+
+
+
+
+
+
+
+
+
+
+tux machines
+do you waddle the waddle?
+
+
+
+other sites
+
+9to5linux
+9to5linux weekly roundup: february 16th, 2025
+i want to thank everyone who sent us donations, your generosity is appreciated. i also want to thank all of you for your continued support by commenting, liking, sharing, and boosting the articles, following us on social media, and, last but not least, thank you for sending us feedback.
+gnome 48 beta is now available for public testing with adwaita fonts, more
+the beta version of gnome 48 is here with adwaita fonts, a new default wallpaper, improved screen time limit support, a new gnome display control (gdctl) utility, support for configuring hdr via the displayconfig d-bus api, support for updating cursors via the frame clock in virtual monitors, and the ability to track screen time history with no limit set.
+gnome 47.4 released with performance improvements for nautilus, bug fixes
+coming almost a month after gnome 47.3, the gnome 47.4 release is here to speed up batch file deletions and simple recursive search through mount monitors in the nautilus (files) file manager, and support synchronization of the enabled state for devices when adding a new device in the input-mapper of mutter.
+
+
+linuxgizmos.com
+openwrt one ap 24 xy brings open source networking to a custom router
+the openwrt one/ap-24.xy is a router board based on the mediatek mt7981b (filogic 820) soc, combined with the mediatek mt7976c dual-band wi-fi 6 chipset. developed in collaboration with banana pi, the openwrt one is the first official hardware platform supported by the openwrt open-source community, designed for openwrt learning, iot applications, and general networking use cases such as routing, nas, and wireless communication.
+openmv introduces the genx320 camera module for event-based vision
+openmv has introduced the prophesee genx320 camera module, bringing event-based vision sensing to its embedded platform. unlike traditional image sensors that capture entire frames at fixed intervals, the genx320 detects only changes in a scene, reducing data rates while improving efficiency in motion detection.
+
+
+
+
+
+
+home
+about
+irc
+gemini edition
+
+feed
+
+
+
+
+tux machines places great emphasis on covering both gnu and linux.
+we occasionally also cover other free and open source operating systems,
+as well as games, applications, instructional posts, and, very occasionally, relevant proprietary software.
+
+
+recent tux machines posts
+
+
+new tux machines at 2.5 [original]
+the site's transition also meant adding gemini protocol support
+gnome 48 beta is now available for public testing with adwaita fonts, more
+today, the gnome project announced the general availability of the beta version of the upcoming gnome 48 desktop environment series for public testing, bringing more new features and improvements.
+ 
+you can now install linux kernel 6.13 on ubuntu, here’s how
+linux 6.13 is now the latest stable kernel and ubuntu users can install it on their machines via the official ubuntu mainline kernel ppa archive. here’s a quick tutorial on how to do that via graphical or command-line methods.
+howtos, kde, gnome, and more
+today's remainder
+9to5linux weekly roundup: february 16th, 2025
+the 227th installment of the 9to5linux weekly roundup is here for the week ending on february 16th, 2025.
+free, libre, and open source software leftovers
+foss bits
+gnu/linux and bsd leftovers
+os news
+openssl does a quic api and top 5 uses of webassembly for web developers
+web browsers/web servers
+programming leftovers
+development picks
+windows tco and  recent advisories
+cisa and more
+videos/audiocasts/shows: this week in linux, tllts, and more
+mostly videos
+today's howtos
+idroot and more
+why linux mint is my main distro
+since i started using linux over a decade ago, i’ve been a mint fan
+why there are so many linux terminal emulators: 5 reasons
+one of the most striking things about linux is the sheer number of terminal emulators available
+android leftovers
+5 unique ways i use android 15's private space that aren't for porn or cheating
+5 linux distos built for creative work
+to the uninitiated, linux may be nothing but arcane console commands, but it offers a great desktop experience and a ton of powerful multimedia applications
+open hardware: openwrt, openmv, raspberry pi, arduino, and more
+hardware picks
+these 5 linux distros are optimized for gaming on nvidia gpus in 2025
+while some linux users find great satisfaction installing a distro on a handheld device to satisfy their gaming pleasure
+best free and open source software
+here’s our pick of the finest php web frameworks
+exherbo – linux distribution for developers, tinkerers, and more
+exherbo aims to be a stable and flexible distribution for developers
+review: rhino linux 2025.1 and mx linux 23.5 with xfce 4.20
+rhino linux is an ubuntu-based distribution which offers a rolling release model and a customized xfce desktop the project calls unicorn
+the power of open-source: history is evidence
+development by the community for a long long time now
+today in techrights
+some of the latest articles
+linux 6.14-rc3
+it all looks pretty small and normal
+someone got linux running inside a pdf file, because its users are something else
+every so often, we see a wave of activity around cramming something that shouldn't be running in a specific document or app into said document or app
+operating systems and hardware leftovers
+for end of sunday
+free, libre, and open source software leftovers
+foss links, db focus
+firefox add-on reviews and february patch set for tenfourfox
+some firefox news
+security leftovers
+security links, not many
+events: fosdem 2025 and pycon italia 2025, i love fs
+some special picks
+fedora / red hat / ibm leftovers
+red hat etc.
+applications: tlp 1.8.0, gthumb released 3.12.7, and more
+gnu/linux software in focus
+today's howtos
+many howtos for day's end
+more about asahi issue
+new apple hardware, asahi linux shakeup
+a call for unity
+for forty years, the free software movement has been a beacon of user freedom
+this week in gnome #187 triple buffered notifications
+update on what happened across the gnome project in the week from february 07 to february 14
+programming leftovers
+releases and more
+oreon, mesa, and more
+today's leftovers
+freebsd 13.5-beta2 now available
+from  distro watch also
+no more snakes: serpent os rebrands as aerynos
+ikey doherty, the leader of the serpent os project
+today's howtos
+many howtos for now
+postgresql 17.3, siren call of sqlite on the server, and more on databases
+database news/tips
+open hardware: fpga, raspberry, and more
+hardware picks
+gnome 47.4 released with performance improvements for nautilus, bug fixes
+the gnome project announced today the official availability of gnome 47.4, the fourth maintenance update to the latest gnome 47 “denver” desktop environment series with more bug fixes and improvements.
+android leftovers
+google confirms android xr will give apps access to your headset's cameras
+these are the 13 linux distros optimized for gaming in 2025
+relatively speaking, gaming in linux has matured
+chimera linux and linux devices
+device news mostly
+8 weird and wacky linux hardware devices
+you can stick linux in just about anything, and that's a big part of what makes it special
+free and open source software
+this is free and open source software
+kolibrios – tiny linux distribution
+kolibrios is a tiny yet incredibly powerful and fast operating system
+amarok 3.2.1 released and skrooge 25.1.0 released
+small releases
+gnu/linux and free software leftovers
+today's leftovers
+open hardware: crowpi, esp32, 3-d printing, and more
+on the physical side
+programming leftovers
+development related links
+gnome project launches revamped website
+gnome.org has relaunched with a minimalist and cleaner design
+today in techrights
+some of the latest articles
+
+
+
+
+home
+about
+irc
+
+feed
+
+
+
+

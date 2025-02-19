@@ -1,0 +1,864 @@
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institut für photogrammetrie und geoinformatik | universität stuttgart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+für die volle funktionalität dieser site ist javascript notwendig. hier finden sie eine anleitung zum aktivieren von javascript in ihrem browser.
+
+
+
+
+zum inhalt springen
+zum footer springen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institut für photogrammetrie und geoinformatik
+
+
+
+
+universität stuttgart 
+fakultät 06
+
+
+
+sprache dieser seite
+
+de
+en
+
+
+
+suche
+
+
+
+
+hauptnavigationspunkte
+
+
+
+
+
+
+
+
+
+suche
+
+
+
+
+
+suche
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+zurück
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institut
+forschung
+lehre
+publikationen
+links
+
+
+forschung
+photogrammetrische computer vision
+photogrammetrische systeme
+fernerkundung
+geoinformatik
+
+
+institut
+team
+kontakt
+historie
+ehemalige
+dissertationen
+aktuelles
+
+
+lehre
+geodäsie und geoinformatik
+luft- und raumfahrttechnik
+prüfungstermine
+richtlinien zur erstellung von bachelor- und masterarbeiten
+bachelorarbeiten
+masterarbeiten
+projekt geodäsie und geoinformation
+prüfungstermine
+
+
+geodäsie und geoinformatik
+einführung in geodäsie und geoinformatik (bsc)
+geoinformatik i (bsc)
+geoinformatik ii (bsc)
+fernerkundung (bsc)
+digitale signalverarbeitung für geodäten (bsc)
+bildverarbeitung (bsc)
+photogrammetrie (bsc)
+stadtplanung und bodenordnung (bsc)
+aerotriangulation (msc)
+computer vision zur bildbasierten geodatenerfassung (msc)
+algorithmische geometrie (msc)
+datenbanken und geoinformationssysteme (msc)
+digitale geländemodelle (msc)
+modellierung und visualisierung (msc)
+georeferenzierung photogrammetrischer systeme (msc)
+web-basierte gis (msc)
+stadtplanung und bodenordnung vertiefung (msc)
+wissenschaftliches vortragsseminar (msc)
+mustererkennung und bildverstehen (msc)
+ausgewählte kapitel der fernerkundung (msc)
+bildanalyse (bsc)
+slam (msc)
+
+
+luft- und raumfahrttechnik
+modul 62200138: digitale bildverarbeitung
+einführung in die projektive geometrie
+
+
+projekt geodäsie und geoinformation
+slam: ferngesteuertes fahrzeug
+
+
+publikationen
+nach jahrgang
+jahresberichte
+schriftenreihe
+dissertationen
+photogrammetrische wochen
+
+
+
+
+
+
+navigation schließen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institut für photogrammetrie und geoinformatik (ifp)
+
+
+													die bereiche photogrammetrie, fernerkundung, geoinformatik und computer vision sind grundlage für ein reihe aktueller, interessanter und relevanter themenfelder in forschung und lehre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+institut für photogrammetrieund geoinformatik
+
+
+
+direkt zu
+
+mitarbeiter
+lehrveranstaltungen
+forschung
+geodätisches kolloquium
+
+
+
+
+
+
+
+
+das institut für photogrammetrie und geoinformatik ist eine führende forschungsinstitution im bereich der computer vision, geoinformatik, photogrammetrie und fernerkundung. seit vielen jahren werden erfolgreich forschungsmittel von der deutschen forschungsgesellschaft (dfg), des bundesministerium für bildung und forschung (bmbf) und der europäischen union (eu) eingeworben. ergänzend wird eine vielzahl von projekten in zusammenarbeit mit der industrie im in- und ausland durchgeführt.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59th photogrammetric week
+1. - 4. april 2025, stuttgart
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+monitoring of construction sites is frequently based on dense and accurate 3d point clouds captured on a regular basis. this is realized by a mobile robot equipped with rgb-d cameras and a laser scanner.
+mehr informationen
+
+
+
+
+
+
+
+lidar_dim aims on an integrated airborne camera and lidar hard- and software system to generate textured and meshed 3d point clouds for semantic information extraction in urban areas.
+mehr informationen
+
+
+
+
+
+
+
+calibration and performance analysis of low-cost uav-based camera systems
+mehr informationen
+
+
+
+
+
+
+
+use and evaluation of multi-view-stereo algorithms for the generation of meshed 3d point clouds focusing at urban areas
+mehr informationen
+
+
+
+
+
+
+
+mehr informationen
+
+
+
+
+
+
+
+persistent scatterer interferometry (psi) detects and analyses ps points, which are characterized by strong, stable, and coherent radar signals throughout a time series of sar images.
+mehr informationen
+
+
+
+
+
+
+
+knowledge about the bathymetry of water bodies is of high economic, social, and ecologic importance.
+mehr informationen
+
+
+
+
+
+
+
+
+
+
+
+
+previous
+
+
+
+next
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+aktuelles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+slam integrated mobile platform
+
+video
+																						
+																							| youtube
+
+video: fachbereich geodäsie & geoinformatik / uni stuttgart
+
+
+
+
+
+
+
+alle meldungenalle veranstaltungen
+
+
+
+
+
+
+
+
+
+
+
+
+
+hier geht´s weiter
+
+
+
+
+
+institut für photogrammetrie und …
+
+
+																					photogrammetrie, fernerkundung und geoinformatik
+
+
+
+
+
+
+
+
+forschung
+
+
+																					forschungsschwerpunkte und projekte
+
+
+
+
+
+
+
+
+lehrangebote
+
+
+																					bachelor / master of science
+
+
+
+
+
+
+
+
+publikationen
+
+
+																					publikationen des instituts für photogrammetrie
+
+
+
+
+
+
+
+
+weiterführende links
+
+
+																					nachbarinstitute / universität stuttgart / ämter/ gesellschaften / vereine
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ihre ansprechpartner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																		uwe sörgel
+prof. dr.-ing.
+
+institutsleiter, fachstudienberater
+
+
+
+
+
+
+
+profil-seite
+
+
+
+
+
+
+
++49 711 685 83336
+
+
+
+
+
+
+
+																			e-mail schreiben
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																		norbert haala
+apl. prof. dr.-ing.
+
+stellvertretender institutsleiter
+
+
+
+
+
+
+
+profil-seite
+
+
+
+
+
+
+
++49 711 685 83383
+
+
+
+
+
+
+
+																			e-mail schreiben
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+so erreichen sie uns
+
+
+
+
+kontakt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+icon: facebookfacebook
+icon: instagraminstagram
+icon: blueskybluesky
+icon: mastodonmastodon
+icon: youtubeyoutube
+icon: linkedinlinkedin
+icon: usus-blogusus-blog
+
+
+
+
+
+
+
+
+
+zielgruppe
+
+
+studierende
+
+
+beschäftigte
+
+
+alumni und förderer
+
+
+wirtschaft
+
+
+
+
+
+
+
+
+formalia
+
+
+impressum
+
+
+datenschutz
+
+
+barrierefreiheit
+
+
+zertifikate
+
+
+
+
+
+
+
+
+services
+
+
+kontakt
+
+
+presse
+
+
+jobportal
+
+
+promotions- / postdoc-stellen
+
+
+uni-shop
+
+
+
+
+
+
+
+
+organisation
+
+
+fakultäten und institute
+
+
+einrichtungen
+
+
+zentrale verwaltung
+
+
+
+
+
+
+
+
+
+
+
+
+zum seitenanfang
+
+
+
+
+
+
+

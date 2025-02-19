@@ -1,0 +1,315 @@
+peter h. anderson - embedded processor control
+
+
+
+
+
+peter h. anderson - embedded processor control 
+
+pc parallel port, basicx, basic stamp®, 68hc11,
+pic®, picaxe, data acquisition and control
+
+peter h. anderson 1946-2012
+
+associate professor (retired), department of electrical & computer engineering,
+morgan state university
+
+e-mail
+eric@phanderson.com
+
+
+
+
+not for sale.
+
+picaxe
+
+the arduino
+
+
+sourceboost c programming
+
+update!!available
+
+serial lcd #117 kit & assembled text lcds
+
+serial control and measurement -- below are not for sale.
+
+
+serial eight 10-bit a/d - adc #180
+
+serial one wire controller owc #190
+
+serial eight output,six input, seven 10-bit a/d and
+eight dallas 1-w runs - iom #135e,
+serial iom #136.  eight output, six input, eight
+a/d (12-bit), four ds18s20 / ds18b20 / ds1822 / ds2438 / ds2423 runs..
+
+serial relay output and optoisolator input - iom #141,
+iom #142a - serial.  four relay, four optoisolator.  two dallas runs each of which may accommodate any mix of ds18s20, ds18b20, ds1822 thermometers, ds2438 thermometer and 10-bit a/d, ds2450 quad a/d converter amd ds2423 dual 32-bit counter; up to sixteen devices over a maximum of 200 feet of cable per run.
+
+
+
+
+relative humidity and temperature sender unit - rh #166
+
+serial k thermocouple - tm #80
+
+assembled serial temperature module, dual run and single output. tm #127a
+
+tm #128 - serial two dallas runs each of which may accommodate any mix of ds18s20 and ds18b20 thermometers and ds2438 thermometer and 10-bit a/d, up to sixteen devices over a maximum of 200 feet of cable per run.  apr 1, '05.  upgraded to add ds2423 dual counter and ds2450 quad a/d.
+
+
+tm #129 kit.  serial measurement kit.  dual run.  ds18s20 and ds18b20
+temperature sensor, ds2438 temperature and a/d, ds2450 quad a/d, ds2423 dual counter
+
+
+not for sale.
+
+assembled serial temperature, single relay, single a/d with local lcd - tm #145.
+tm #150 serial thermometer / thermostat with local lcd
+
+serial weather wx #175 kit.  atmospheric
+pressure, two relative humidity and temperature. five 12-bit a/d, two
+ds18s20 / ds18b20 runs, counter, two ttl outputs, two ttl inputs.
+
+dallas ds1821 thermostat programmer
+
+
+pic c routines for the ccs c
+compiler. 
+
+eleven frequency precision clock kit
+
+rs232 to dallas onewire controller
+
+infrared remote control decoder
+
+
+microchip pic
+
+programming in pic c
+
+netmedia basic-x and basic-x24
+basic-x
+
+siteplayer.com
+
+
+basicx mail list
+
+
+cubloc.  a far more powerful and yet much less expensive stamp type device.
+
+parallax basic stamp
+
+homebrew basic stamp 2 on a protoboard
+morgan basic stamp 2 starter
+packages
+my basic stamp 2 book
+
+basic atom
+
+atmel avr
+
+jk micro flashlite v25
+
+rabbit semiconductor.
+
+
+object oriented pic (oopic).
+
+
+ protean logic's tickit62 - this
+was a major focus by
+undergraduate student locksley haynes during the fall, '97 semester.
+locksley was funded and the materials he used were made possible by a
+grant from the xerox corporation.
+
+
+the tiny tiger - this appears
+to be an extremely powerful processor.  this effort was undertaken by
+undergraduate student krystal donald during the fall, '97 semester.
+
+
+
+use of a pc printer port for control and data acquisition - volume 1 
+
+
+
+
+links2go
+parallel port
+
+
+ general information 
+
+parallel port basics - a few pages from volume 1.  thanks to new mexico
+state university.
+ this manual vs bergsman's
+book
+ printer port cable for prototyping -
+$10.00
+ ordering information
+
+
+use of a pc printer port for control and data acquisition - volume 2
+volume 2 is a follow on effort by undergraduate electrical engineering
+students towanda malone, christine samuels and paul roach and myself.
+this became known as the rochanda project, where rochanda is a
+concatenation of roach, christine and towanda.  as you might guess, the
+name rochanda was towanda's idea!  
+
+ a listing of the content - cds, motion
+detection, 120vac, 8255, 74259, panel meters, lcd, melody ics, h_bridge,
+power fets, fluid detection, vector 2x compass, etc.
+
+
+ ordering information
+
+
+parallel port interfacing with 2, 3 and 4 wire serial devices
+
+ interfacing with an ltc1392
+data acquisition system (t, v_cc and v_diff)
+ interfacing with a 24c32 32k
+serial eeprom
+
+pc parallel port - interfacing
+with a ds1620 thermometer (3-wire)
+stretching a pc parallel port using
+pcf8574 8-bit i/o expanders, (i2c protocol)
+
+
+other parallel port resources
+
+(aug, '99).  borland has posted
+turbo c 2.01 for dos on their web site.  note that all programs in my
+parallel port manuals was written using this package.
+
+
+pacific c - a
+shareware dos c compiler.
+ jan axelson's home page. jan has a
+book related to parallel port control using visual basic.
+ian harries - imperial
+college.  ian has a good overview of other languages.
+
+ an excellent stepping
+motor tutorial
+typical relay driver
+
+
+68hc11 assembly language programming
+
+motorola hc11
+reference manual - $5.00
+ typical 68hc11 routines 
+68hc11 - interfacing with a pcf8574 8-bit i/o
+expander (i2c protocol)
+ roger's home page - a real nice
+collection of resources
+
+
+c programming
+
+ miscellaneous routines
+ file routines
+ graphics routines
+ complex number routines
+
+ how to read a cursor key
+ how to use the ftime function
+
+
+digital electronics - eegr-463
+
+ eprom tutorials 
+
+
+ miscellaneous
+
+  faq by interviewers 
+ personal finance 
+
+parallel equivalents of two resistors
+
+harford students
+
+
+ engineering ethics 
+
+ texas a&m 
+ mit 
+ national society of professional
+engineers
+
+
+ other links
+
+
+ search engines
+
+google
+yahoo
+
+
+newspapers
+
+newspaperlinks.com
+
+vermont digger
+
+new york times - includes book review.
+washington post - includes book review.
+the christian science monitor - includes book review.
+international herald tribune - paris
+the guardian - london
+al jazeera
+
+
+magazines
+
+
+the economist
+atlantic monthly
+the nation
+harper's magazine
+
+
+good reading
+
+the browser
+longform
+art & letters daily
+
+
+radio
+
+
+npr
+wypr
+cspan
+bbc
+radio netherlands
+cbc
+radio australia
+dw - germany
+
+
+organizations
+
+
+unitarian universalist association of congregations
+american civil liberties union
+freedom from religion
+naacp
+
+
+
+project guttenberg
+barnes & noble book review
+
+
+hiking harford county (md)
+

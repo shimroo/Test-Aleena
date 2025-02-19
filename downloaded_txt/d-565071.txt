@@ -1,0 +1,353 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+wizzy consulting | wizzy
+
+
+
+
+
+
+
+
+
+
+
+wizzy
+
+
+
+
+
+
+computers
+
+
+travel
+
+
+about
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+chpc national conference 2021
+
+
+by 
+        |  dec 7, 2021 
+        |  chpc, supercomputers, simd, forth, parallel-processing, thomas-sterling, yaniv-swiel
+
+
+
+            the chpc national conference took place in the first week of december, and it had some interesting talks. all the videos are viewable on youtube
+https://www.chpcconf2021.co.za/
+the last keynote was by prof thomas sterling, of indiana university, where in a wide-ranging retrospective of hpc technology, he talked at the end about :-
+https://events.chpc.ac.za/event/98/contributions/1535/
+“a brief discussion of early attempts of memory-centric computing such as simd and pim will motivate revolutionary concepts of the future.
+        
+
+continue reading...
+
+
+
+biology, electron microscopes and software
+
+
+by 
+        |  mar 1, 2021 
+        |  electron-microscope, ccp4, diamond-light-source
+
+
+
+            i have been assisting in a remote workshop for the next scientists in biology, ccp4 crystallographic school in south africa remotely taught from diamond light source.
+i work at the electron microscope unit, at the university of cape town. this uses electron microscopes, which are different instruments to the xray microscopy gear below.
+x-ray facilities require synchrotrons which are expensive enough to be national facilities. we are using the uk national facility at harwell.
+        
+
+continue reading...
+
+
+
+zenzeleni mesh networking in the transkei
+
+
+by 
+        |  feb 22, 2018 
+        |  zenzeleni, computers, education, internet
+
+
+
+            while backpacking across the transkei in south africa, i stayed at mdumbi backpackers close to coffee bay, in the mankosi administrative area, a rural traditional community within the nyandeni local municipality in the province of the eastern cape.
+i had been made aware of an innovative wireless mesh network called zenzeleni community telecoms by a friend in cape town, michael graaf, and took a look around. zenzeleni translates to “do it yourself” in isixhosa.
+        
+
+continue reading...
+
+
+
+2017 anc national conference - gauteng
+
+
+by 
+        |  nov 18, 2017 
+        |  politics, zuma, anc
+
+
+
+            i have written about polokwane - where zuma ascended to president of the anc, and branch meetings, and previous party splits before.
+the anc has no term limits for its president, but south africa’s constitution has a two term limit for the president of the country, and to avoid two centres of power the anc has kept their president, the de-facto president of the country, to two terms as well.
+        
+
+continue reading...
+
+
+
+tracking people vs tracking guns
+
+
+by 
+        |  oct 12, 2017 
+        |  guns, privacy
+
+
+
+            i have written about privacy before - richard stallman has words, and smartphones are not your friend.
+my local python conference had a talk called deep learning - a gentle dive that had a view on the level of image classification today.
+people the software that is written is ‘soft’ - it does little of the classification itself - but relies on a large ’training’ database to achieve some remarkabe stunts - like look at a crowded shop scene and classify people by gender and age.
+        
+
+continue reading...
+
+
+
+parallel processing today
+
+
+by 
+        |  mar 2, 2014 
+        | 
+
+
+
+            to get the benefit of today’s computer hardware, parallel processing is a must. the hardware can do it - the problem is programmers conveying their wishes through a programming language.
+i have spent 35 years in the area of parallel processing.
+i started in the late 1970’s with the massively-parallel, very low level systems built around associative parallel processing - intelligent memory.
+this required micro-code level understanding, and specialist hardware, but delivered parallelism limited only by the number of chips you could bolt together - an simd (single instruction, multiple data) offering that died through lack of hardware, among other things.
+        
+
+continue reading...
+
+
+
+richard stallman visits cape town
+
+
+by 
+        |  sep 8, 2013 
+        |  richard-stallman, rms, cape-town, clug, free-digital-society, stallman, eff
+
+
+
+            richard stallman visited cape town, and gave a talk at the university of cape town titled “a free digital society”
+on the 4th september i picked richard stallman up from the airport and we went to dinner with a number of people that had helped organise the event at brass bell, kalk bay.
+around cape town he stayed with me and my friend lerato in muizenberg, and he is a gracious and accommodating guest.
+        
+
+continue reading...
+
+
+
+thailand trip - 2012
+
+
+by 
+        |  apr 8, 2012 
+        | 
+
+
+
+            my first visit further east than india was an interesting trip, mostly to see my friend graham who lives there now. i spent two weeks in the northeast, and then we went to laos for a week.
+i took three weeks off to go visit graham and his thai girlfriend nattaya -and learn a little about thailand. i got a backpack, not too big, and resisted the urge to fill it.
+        
+
+continue reading...
+
+
+
+apple's ipad - a n00b experience
+
+
+by 
+        |  dec 21, 2011 
+        |  computers
+
+
+
+            two friends of mine recently purchased ipads - vernon asked me, as a computer fundi, to help him out on the installation. i always think it is" useful to document first-time experiences - one adapts and forgets so easily.
+old timer i have used linux pretty much exclusively for the last 20 years. i have a pragmatic approach to my friends who use windows - i have followed microsoft’s offerings from windows98 through xp - i have an xp user’s understanding of the later versions of windows.
+        
+
+continue reading...
+
+
+
+whisky live festival, cape town november 2011
+
+
+by 
+        |  nov 6, 2011 
+        | 
+
+
+
+            i went to the whisky live festival in cape town last friday evening - the last day of the festival - definitely a good choice.
+international convention centre emma, a visitor from scotland, persuaded a group of us to go, and we made our way to the international convention centre. we got a group rate, and 12 redeemable coupons for tasting. we decided that we would specialise on the single malts - a whisky made from the product of a single distillery rather than a blend between distilleries.
+        
+
+continue reading...
+
+
+
+
+
+««
+
+
+«
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+»
+
+
+»»
+
+
+
+
+
+top posts
+recent posts
+
+chpc national conference 2021
+biology, electron microscopes and software
+zenzeleni mesh networking in the transkei
+2017 anc national conference - gauteng
+tracking people vs tracking guns
+parallel processing today
+richard stallman visits cape town
+thailand trip - 2012
+
+tags
+
+
+        education
+        15
+
+
+        zululand
+        12
+
+
+        politics
+        11
+
+
+        nigeria
+        9
+
+
+        computers
+        8
+
+
+        anc
+        6
+
+
+        sangoma
+        6
+
+
+        aims
+        5
+
+
+        chpc
+        5
+
+
+        zimbabwe
+        5
+
+
+
+
+
+
+
+
+
+
+
+disclaimer
+opinions expressed here are my own and may not reflect those of the company i work for, or the people i work with.
+                    
+
+about this site
+this blog was created using the hugo static site generator, using
+bootstrap, using the silhouette hugo theme, created by
+matt button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+
+vonnieda.org – the story so far…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		skip to content	
+
+
+
+vonnieda.org
+the story so far…
+menu and widgets
+
+
+
+
+about me
+my software
+recent posts
+important booksjanuary 14, 2018
+china and kansas cityjanuary 25, 2017
+github thinks i’m a robotjune 4, 2016
+still hereseptember 21, 2015
+five days: a summaryjuly 22, 2015
+
+archives january 2018
+january 2017
+june 2016
+september 2015
+july 2015
+january 2015
+june 2013
+december 2012
+november 2012
+january 2012
+november 2011
+august 2011
+july 2011
+january 2011
+december 2010
+november 2010
+september 2010
+august 2010
+july 2010
+june 2010
+may 2010
+march 2010
+february 2010
+december 2009
+november 2009
+august 2009
+july 2009
+may 2009
+april 2009
+december 2008
+november 2008
+october 2008
+september 2008
+august 2008
+june 2008
+may 2008
+april 2008
+march 2008
+february 2008
+january 2008
+december 2007
+november 2007
+october 2007
+september 2007
+august 2007
+june 2007
+may 2007
+april 2007
+march 2007
+january 2007
+december 2006
+november 2006
+october 2006
+september 2006
+august 2006
+july 2006
+june 2006
+may 2006
+april 2006
+march 2006
+february 2006
+january 2006
+december 2005
+november 2005
+october 2005
+september 2005
+august 2005
+july 2005
+june 2005
+may 2005
+april 2005
+march 2005
+february 2005
+january 2005
+december 2004
+november 2004
+october 2004
+september 2004
+august 2004
+july 2004
+june 2004
+may 2004
+april 2004
+march 2004
+february 2004
+january 2004
+december 2003
+november 2003
+october 2003
+september 2003
+august 2003
+july 2003
+june 2003
+may 2003
+april 2003
+march 2003
+february 2003
+january 2003
+december 2002
+november 2002
+october 2002
+september 2002
+august 2002
+july 2002
+ 
+
+
+
+
+
+
+
+important books 
+
+when i was a kid, learning how to program, i would spend pretty much every dollar i made on computer books. it was the only way to get the absurdly specific kind of stuff i was trying to learn.
+several of those books i consider “formative” for everything i’ve done since then, and i still have them. i’ve been carrying them around for around 30 years and it’s time to say goodbye.
+i can’t bring myself to just get rid of them, because i know that at some point in the future i will be like “what was that dos book that i learned about interrupts and bios from?!” and i won’t be able to find it. so, instead of keeping them and moving them from house to house, i’m going to post pictures of them and call it good.
+so, without further ado, here are the most important books i’ve read in my life…
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+two books that are missing from this list, until i find them, are:
+* applied cryptography
+* a book about the sound blaster audio card that i can’t remember the title of. the sound blaster parts of the book weren’t that useful, but from that book i learned about dma, interrupts, and low level device interfaces.
+
+
+posted on january 14, 2018june 4, 2018categories uncategorized 
+
+
+posts pagination
+page 1
+page 2
+…
+page 624
+next page
+
+
+
+
+
+
+
+				proudly powered by wordpress			
+
+
+
+
+

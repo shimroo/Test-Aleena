@@ -1,0 +1,214 @@
+
+slot gacor terbaik
+slot gacor
+
+
+
+
+
+
+
+
+richland county gis |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+jump to content
+
+               resourcesuseful links:property infofaqstandardsemployee arcmap guidesmaps & dataprintable maps (pdf)county council districtsother boundaries and districtsemergency response aboutoperations:conservation easementsdelinquent propertiese911infrastructureland parcel maintenanceplanningrichland county home      titledescription ‹›                
+
+
+
+
+
+
+gis division completes program review 
+
+in 2020 the gis division conducted a review of richland county's gis program to establish an organizational baseline and identify priorities going into the next decade. working with geographic technologies group (gtg), the division conducted interviews with gtg personnel, recounting success stories and assessing standardized performance metrics. evaluations also included a gap analysis, which considered the state of the county's gis program relative to industry averages and best practices. the work culminated with the creation of a document detailing gtg's findings and documenting the current state of the program. this document has been made available online in pdf format. 
+
+
+read more
+
+
+
+
+
+richland county it/gis flood-related awards 
+
+over the past year, the gis division of the information technology department received two awards related to their contributions to disaster response/recovering during and in the aftermath of the 2015 flooding event.
+
+	richland county emergency services director’s award
+this award was given, ‘in recognition of dedication and outstanding contributions to richland county emergency management during the millennium flood event october 2015’ 
+
+
+read more
+
+
+
+
+
+richland county flood, october 2015 
+
+to help respond to the declared natural disaster in richland county, the county gis team has worked with numerous partners to provide recovery and assessment support.  as part of that effort, several geospatial tools have been developed and are available (below) for use by local authorities for coordination efforts and to the public for information.  we thank our corporate friends at woolpert and google for their support.
+flood inundation tool
+from their dayton, ohio headquarters, woolpert, inc. flew 1 foot aerial imagery the afternoon of tuesday, october 6, 2015 to assist in delineating the geographic extent of the flooding.  the imagery was collected over much of the city of columbia and forest acres areas.  woolpert then created a ‘before/after’ web application to compared imagery and assess damage.  richland county gis provided imagery resources with assistance from google. 
+woolpert image viewer
+rc geo flood data viewer
+the richland county gis team assembled an online assessment tool to assist county departments in their efforts to record and analyze flooding impact.  the application is built on open source technology and includes imagery from the county’s google contract and from flood imagery collected by woolpert.  this tool will be an evolving application as the weeks of recovery and assessment progress. 
+rc geo flood viewer
+road and dam status viewer
+to assist county staff, public safety personnel, and citizens, richland county gis is attempting to coordinate the status of road closures/failures and dam stability.  with this objective in mind, we have published a publicly available map that is being updated by field personnel from various departments.  if you have information of your local area that is more accurate or up-to-date than this map, please email a photo of the damage, with the street name and any landmark description to: rcgeoflood@rcgov.us  
+note - the road and dam status viewer is no longer available for use; google has discontinued the use of this technology. please see the rc geo flood viewer to view our most recent information. 
+
+
+read more
+
+
+
+
+
+automated vehicle location system to be updated 
+
+richland county has been leveraging automated vehicle location technologies to help manage its fleet of approximately 200 non-emergency vehicles since 2003 with the implementation of a home-grown vhf radio network and gps tracking technologies.  since then, avl solutions have matured significantly, allowing for consumer-centric cloud hosted software as a service (saas) platforms to become the norm.  
+
+
+read more
+
+
+
+
+
+the cheese gets moved again     (upcoming changes to some online mapping apps) 
+
+the evolution of gis and web technologies continues to move at a breakneck pace.  every change made by large technology corporations impacts millions of users worldwide.  technologies get developed and promoted then fall out of favor (eliminated/deprecated) for new technologies.  the most unfortunate part of that cycle is practitioners who are tasked with providing services are squeezed to support users.  displaying mapped data online is one of those sectors that has been greatly impacted by defacto standards being superseded by new technologies.  
+
+
+read more
+
+
+
+
+
+2010 contour lines 
+
+scdnr has updated 2010 lines available for download provided that you have the appropriate software. 
+
+	 
+
+	there are many sources where you can obtain free and open source (foss) desktop gis packages. see this link to view a forum discussion that lists many options and provides some user feedback about their experiences using this software. 
+
+
+read more
+
+
+
+
+
+new guide available: add locations from a table to a map using google 
+
+geocoding is the process of translating written addresses to physical locations on a map.  geocode your tabular address records using resources available to you through your google account.  click here to view instructions for getting started with this free geocoding service. 
+
+
+read more
+
+ 
+ 
+        
+
+
+application links
+
+
+
+
+
+  
+  
+  
+ https://www.richlandmaps.com/apps/dataviewer 
+
+  
+  
+ https://www.richlandmaps.com/apps/geoinfo 
+
+  
+  
+ https://www.richlandmaps.com/apps/compsales/ 
+
+  
+  
+ http://www.rcwinds.com/ 
+
+  
+  
+ https://www.richlandmaps.com/content/printable-maps 
+
+  
+  
+ https://communitycrimemap.com/?address=richland%20county%20sc 
+
+  
+  
+ https://sheriffalerts.com/cap_office_disclaimer.php?office=54084&fwd=ahr0cdovl3d3dy5zagvyawzmywxlcnrzlmnvbs9jyxbfbwfpbi5waha/b2zmawnlptu0mdg0 
+ 
+ 
+ 
+
+
+
+which it/gis web mapping application is your favorite?
+internet mapping
+
+
+
+
+  62%
+
+geo info.
+
+
+
+
+  17%
+
+comparative sales analysis
+
+
+
+
+  12%
+
+web map service (wms)
+
+
+
+
+  8%
+
+
+    total votes: 1026  
+
+older polls
+
+
+ 
+           

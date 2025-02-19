@@ -1,0 +1,344 @@
+
+
+
+
+cambridge clarion - independent reporting
+
+
+
+
+
+cambridge clarion:
+reporting
+photos
+analysis
+rss feed
+
+site map
+
+
+about cambridge clarion
+
+the purpose of clarion is to provide independent reporting and information from england
+for the benefit of good people everywhere.
+
+
+the emphasis is on objective information from reporting and from real-world observation.
+a classification of sources of information and the corresponding types of published
+article is in a reader's guide to clarion style and values
+.
+
+
+by policy there is no javascript on this website.
+it is non-commercial and does not attempt to make a financial return in any way.
+
+
+clarion started in 2001 as a group
+of friends in cambridge opposed to british involvement in bombing afghanistan and
+the proposed war of aggression against iraq in 2003, but it no longer
+campaigns or presents any editorial position.
+it is now maintained by stephen hewitt.
+
+
+what's new: a log of changes to this website
+
+this log lists every new article and every major change to an existing article.
+an rss feed
+is also available.
+
+
+the category of each article is shown in brackets next to it, for example “press cutting”, “firsthand accounts”.
+the category is based on the kind of the information in the article, explained in a reader's guide to clarion style and values
+.
+
+
+24 january 2025
+an insider's angle on usa's 1997 refusal to sign land mine treaty
+(book excerpt)
+
+5 december 2024
+youtube's fraudulent adverts for electric heaters
+(reporting)
+
+8 november 2024
+two figures of speech common to isaiah and the cyrus cylinder
+(analysis)
+
+2 october 2024
+the technique of injecting lies to discredit a story
+(analysis)
+
+1 september 2024
+disguised contract murders in a 2020 non-fiction book
+(book review)
+
+5 august 2024
+chronic diffuse cloud and haze over england in 2023 and 2024
+(photojournalism)  - update
+
+31 july 2024
+chronic diffuse cloud and haze over england in 2023 and 2024
+(photojournalism)
+
+17 june 2024
+ideas for a solar cooker with a conical concentrator
+(ideas)
+
+4 june 2024
+dissolved copper levels in a copper solar kettle
+(innovation and design)
+
+16 may 2024
+cambridge mowing conserving wildflowers
+(photojournalism)
+
+13 may 2024
+“herbicide free area” signs in a cambridge street in 2024
+(photojournalism)
+
+13 may 2024
+a letter corroborating that nazi-era writer h. powys greenwood was ‘john custance’, author of a 1951 book on experiences of his own madness
+(reporting)  - update
+
+15 march 2024
+authenticating a public key from just a name - a feasibility study with gpl code
+(innovation and design)
+
+7 february 2024
+a reader's guide to clarion style and values
+(about clarion)
+31 december 2023
+a way to use spare screen width on a website
+(ideas)
+2 november 2023
+mordecai vanunu, kidnapped after revealing atomic secrets - 1986 press cutting
+(press cutting)
+2 october 2023
+air pollution possibly reducing crop yields, 1978 press cutting
+(press cutting)
+4 september 2023
+former mi5 employees cathy massiter and another revealing telephone tapping and infiltration of unions and cnd in a 1985 press cutting
+(press cutting)
+31 august 2023
+a 1991 letter from john pilger on a newspaper's coverage of his documentary on cambodia
+(press cutting)
+31 july 2023
+a design for passwords with system-assigned randomness and user choice
+(innovation and design)
+30 june 2023
+making coffee from unground beans
+(firsthand accounts)
+25 may 2023
+measured efficiency of an induction hob and an electric kettle heating water
+(technical investigation)
+7 may 2023
+illustrating two causes of inefficiency in electric kettles sold in the 2020s
+(technical investigation)
+23 april 2023
+cape gooseberry plants with fruit under glass photographed in england in april
+(nature photography)
+16 april 2023
+notes on the radiation spectrum for solar heating and sky cooling
+(analysis)
+7 april 2023
+compilation of information on ‘strategic investment’ newsletter
+(analysis)
+29 march 2023
+higher net power from a solar kettle heating water in glass rather than copper
+(innovation and design)
+20 january 2023
+testing cheap insulators on a home-made parabolic trough solar kettle
+(innovation and design)
+8 january 2023
+trying bubble wrap as an insulator for a home-made solar kettle
+(innovation and design)
+23 december 2022
+trying silicone tubing as an insulator for a home-made solar kettle
+(innovation and design)
+18 december 2022
+a recipe for meals of natural ingredients cooked with only a kettle
+(firsthand accounts)
+9 december 2022
+lepron project part 4: pseudowords with entropy of 3.5 bits/letter from trigrams
+(innovation and design)
+2 december 2022
+a home-made catch-and-release mouse trap with no moving parts
+(technical investigation)
+24 november 2022
+filling and emptying a home-made parabolic trough solar kettle
+(innovation and design)
+17 november 2022
+an oak eggar moth caterpillar photographed in england in may
+(nature photography)
+10 november 2022
+experiences using a fruit-picker tool with a grabber claw for apples
+(firsthand accounts)
+3 november 2022
+the wildflower alexanders (smyrnium olusatrum) photographed in cornwall in may
+(nature photography)
+28 october 2022
+a home-made solar kettle, its performance and its problems
+(innovation and design)
+13 october 2022
+empirical explorations of faster fermat factorisation, part 9
+(innovation and design)
+6 october 2022
+empirical explorations of faster fermat factorisation, part 8
+(innovation and design)
+29 september 2022
+a garden spider (araneus diadematus) photographed in england in september
+(nature photography)
+26 september 2022
+which web search engines have their own index? evidence from website visits
+(technical investigation)
+22 september 2022
+a reader's guide to clarion style and values
+(about clarion)
+9 september 2022
+photographs of “extinction rebellion” demonstrators and police blocking a central cambridge street in 2019
+(reporting)
+2 september 2022
+empirical explorations of faster fermat factorisation, part 7
+(innovation and design)
+26 august 2022
+an idea for human-friendly hex strings in cryptographic key fingerprints
+(innovation and design)
+19 august 2022
+empirical explorations of faster fermat factorisation, part 6
+(innovation and design)
+12 august 2022
+empirical explorations of faster fermat factorisation, part 5
+(innovation and design)
+5 august 2022
+empirical explorations of faster fermat factorisation, part 4
+(innovation and design)
+29 july 2022
+“save our tree-lined avenues” on a banner in residential cambridge, 2017
+(photojournalism)
+22 july 2022
+a photograph of darwin college's 1964 foundation plaque
+(photojournalism)
+15 july 2022
+a police helicopter photographed over cambridge in 2017
+(photojournalism)
+8 july 2022
+silver y moths photographed in england in september
+(nature photography)
+1 july 2022
+the idea of moist air as a heat transfer fluid in energy-efficient home heating
+(ideas)
+24 june 2022
+a tachinid fly photographed in england in august
+(nature photography)
+17 june 2022
+a knot grass moth caterpillar photographed in england in june
+(nature photography)
+10 june 2022
+lackey moth cocoon and caterpillars photographed in england in may
+(nature photography)
+3 june 2022
+a well-tried way to make coffee without equipment
+(firsthand accounts)
+27 may 2022
+which web search engines have their own index? evidence from website visits
+(technical investigation)
+20 may 2022
+an oak eggar moth caterpillar photographed in england in november
+(nature photography)
+13 may 2022
+death of mp stephen milligan on front page of the guardian, 8 february 1994
+(press cutting)
+6 may 2022
+more on death of mp stephen milligan in the guardian of 11 february 1994
+(press cutting)
+29 april 2022
+computer work lying down comfortably with a home-made stand over the bed
+(innovation and design)
+22 april 2022
+metro bank in cambridge open after dark, photographed february 2019
+(photojournalism)
+15 april 2022
+reporter simon o'dwyer-russell's obituary in sunday telegraph, 16 december 1990
+(press cutting)
+8 april 2022
+a heron photographed in june in cambridge
+(nature photography)
+1 april 2022
+a common field grasshopper photographed in october in england
+(nature photography)
+25 march 2022
+a fox moth caterpillar photographed in october in england
+(nature photography)
+18 march 2022
+structures of a nut mould photographed through a cheap microscope
+(nature photography)
+14 march 2022
+empirical explorations of faster fermat factorisation, part 3
+(innovation and design)
+25 february 2022
+empirical explorations of faster fermat factorisation, part 2
+(innovation and design)
+13 february 2022
+empirical explorations of faster fermat factorisation, part 1
+(innovation and design)
+4 february 2022
+caterpillar parasitoids in cocoons photographed in england
+(nature photography)
+30 january 2022
+photograph of metallic gold on a chrysalis in england
+(nature photography)
+23 january 2022
+reporters protecting sources: in 2021 reuters removed a clause from its “standards and values” web page
+(analysis)
+14 january 2022
+photograph of a bust of osman kazazi in tirana, albania 2009
+(photojournalism)
+7 january 2022
+photograph of a man selling lighter refills on the street, albania 2009
+(photojournalism)
+
+for changes made in previous years see:
+
+
+
+2002
+2003
+2004
+2005
+2006
+2007-16
+2017
+2018
+2019
+2020
+2021
+
+related articles
+
+
+analysis
+16 apr 2021
+
+
+towards a philosophy, theory and practice of reporting, part 1
+16 april 2021, stephen hewitt
+
+about clarion
+22 sep 2022
+
+
+a reader's guide to clarion style and values
+the full meaning of a text depends on its reader and writer sharing a common understanding of its context.
+
+
+cambridge clarion:
+reporting
+photos
+analysis
+external articles
+rss feed
+
+site map
+
+
+

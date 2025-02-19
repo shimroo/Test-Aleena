@@ -1,0 +1,585 @@
+
+
+
+
+coco
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	coco
+	
+  
+constitutional code in the realm of culture
+
+
+
+
+
+saturday, december 17, 2005
+
+
+
+	 
+	 scientology v. xs4all: supreme court poops party
+	 
+    
+
+
+friday the dutch supreme court gave its long-awaited decision in the lawsuit between scientology and isp xs4all. the legal battle that had the (tense) relationship between copyright an freedom of expression at its centre, ended somewhat disappointing.  on the left is the "final victory"-shirt xs4all gave away to 5000 of its subscribers. the 0-4 refers to xs4all's legal victories over scientology. the latest (0-3) was in the court of appeals (2003), which recognized the copyright of scientology on the texts of its founder l. ron hubbard that were included in a witness account used in an american court. writer karin spaink published the account on her website, hosted by xs4all, leading to a copyright infringement claim by scientology in 1995. while recognizing scientology's copyright, the court of appeals found that spaink's publication should be allowed on the basis of article 10 echr (freedom of speech). especially since it has an informative, non-commercial character, and the church of scientology shows anti-democratic objectives. scientology appealed the decision to the supreme court.  the supreme court's legal counsel advised that the appeal should be rejected, not so much because copyright had to yield for the freedom of speech, but because with the initial submission of the contested texts to the american court's library, where it was available to the public, the church can no longer prohibit the "further communication to the public or reproduction" under provision 15b of the dutch copyright act [english version].  after this advice scientology asked the supreme court to grant a withdraw of the appeal, if not to avoid another condemnation . in a reaction xs4all wrote that "it's in line with scientology's strategy to withdraw itself from lawsuits it has started. xs4all hopes that the supreme court will not accept this tactic."  the supreme court has accepted the tactic, and dismissed the appeal as requested by scientology [decision, dutch]. while this means that the decision of the court of appeals stands, it also means that the case has not really  been judged by the highest instance. for xs4all this may not have brought the broadest "final victory" they hoped for, but final it is and its sweetness must take away some of the bitterness of the last ten years. 
+
+
+
+posted by rik lambers at 17.12.05
+8 comments
+
+
+
+
+
+
+friday, november 18, 2005
+
+
+
+	 
+	 fujitsu's drmed car network
+	 
+    
+
+
+this new fujitsu "in-vehicle information system network" is nicely locked-down, so you won't be able to upload the dukes of hazard when doing 100 miles per hour through a wifi-infected dessert: this product, for the first time in the industry, carries the physical and link layers conforming to the ieee1394b-2002 (*3) standard and the copyright protection function conforming to the dtcp (*4) standard. 
+
+
+
+posted by rik lambers at 18.11.05
+4 comments
+
+
+
+
+
+
+
+
+
+	 
+	 enemies of the internet best of
+	 
+    
+
+
+the world summit in tunesia is a great moment to market your opinion (and some facts): reporters without borders has published the 15 enemies of the internet and other countries to watch. a webpage of background on the good, the bad, and the ugly sans the good:the 15 “enemies” are the countries that crack down hardest on the internet, censoring independent news sites and opposition publications, monitoring the web to stifle dissident voices, and harassing, intimidating and sometimes imprisoning internet users and bloggers who deviate from the regime’s official line. the “countries to watch” do not have much in common with the "enemies of the internet." the plight of a chinese internet user, who risks prison by mentioning human rights in an online forum, does not compare with the situation of a user in france or the united states. yet many countries that have so far respected online freedom seem these days to want to control the internet more. their often laudable aims include fighting terrorism, paedophilia and internet-based crime, but the measures sometimes threaten freedom of expression.i guess fighting copyright infringement is an internet-based crime, or not considered laudable...- - - thru quicklinks
+
+
+
+posted by rik lambers at 18.11.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 bollywood's fashionable copyright
+	 
+    
+
+
+homeindia.com is a great site that has raised some fashionable discussion about copyright infringement on bollywood costumes. the site allows you, the bollywood-addict, to pick your favourite movie/actress/actor and order its/her/his costume from the movie for some $200. imagine, getting that wacky ewok-costume online, with no indian-style skywalker empire juicing out its intellectual property rights to let you bleed for a, well...$200? anyway, bollywood's finest may not be your average darth vader, but the hindutimes pops the question to homeindia.com and the bollywood costume designers: is this not entering the grey area of copyright violation? mehta says that the site has "not faced any problem so far." he adds, "the problem arises only when the dress is marketed as a separate entity and the producers themselves market the clothing that the characters are seen in. if it's not patented, it's open to the market." film designer vikram phadnis begs to differ. "i don't think it's right to make money off our work," he says. fellow designer rocky s agrees, "it is totally wrong to cash in on our creative work." but he adds, "there's only so much we can do. it's not possible for a fashion designer to patent each and every piece that he makes." - - -  in the picture above: satish  shah churidar kurta and his costume as seen in the movie "kal ho na ho" 
+
+
+
+posted by rik lambers at 18.11.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 time-shift  that private copy
+	 
+    
+
+
+an interesting take on fair use comes from the company behind ifill, which allows you to receive internet radio, send it directly to your ipod, where it is stored in separate song files: "ifill's main use is as a timeshift device, and as such it encourages private use of music within the legal limits of personal copies".i'm not so sure at all that this reasoning will hold. but expect the debate about internet radio as an alternative source for music to increase as the p2p saga winds down: how to (legally) define the selective recording of transmitted songs and the subsequent time-shifting for, probably, more than a little time.
+
+
+
+posted by rik lambers at 18.11.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 jot: skype v. verso row linklist
+	 
+    
+
+
+if you haven't followed the little skype - verso row (verso being the filtering company that provides software, which it claims  "blocks bandwidth drains such as skype, p2p messaging, streaming media and instant messaging), here's a short linklist:firm hits out at "critical" skype problemsskype in talks with chinese authoritiesverso responds to statements by skype
+
+
+
+posted by rik lambers at 18.11.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 filtering in tunesia 2005
+	 
+    
+
+
+while it's starting to become somewhat of a cliche to point out that tunesia's anti-democratic and anti-speech tendencies make it far from the right place to hold the world summit on the information society (q's: which country would be right, anyway? isn't tunesia representative for the information society to be?), the open net initiative has released its report internet filtering in tunesia 2005. nice timing, here's a small abstract:a country study documents tunisia's attempts to control internet information, including the filtering of web sites, blogs, and anonymizer services. drawing on open sources and a detailed year-long technical investigation, oni research describes tunisia's aggressive targeting and blocking of on-line content, including political opposition web sites, human rights groups, and sites that provide access to privacy-enhancing technologies.
+
+
+
+posted by rik lambers at 18.11.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 pc is finally spelled tv
+	 
+    
+
+
+those were the days, when you had to tinker with your pc for hours until you could finally watch that favourite tv show in ascii fashion on your matrix-style monitor. those were the days soon gone by. thanks to the great drive for convergence to the ultimate home hub your pc will soon be spelled tv:      microsoft and cablelabs, the u.s. cable industryâs nonprofit r&d unit, are working to document final approval of windows media digital rights management as a content protection technology in order to protect cable operators from copyright violation and content theft.       "this agreement carefully balances the need to preserve the flexibility of the personal computer for consumers with the need for cable operators to be confident that the hardware and software shipped with compliant media center pcs will function like a cablecard-enabled digital television," said glenn britt, chairman of cablelabs and chairman and ceo of time warner cable   i think this is one of the most beautiful sentences i've read in a long time. the obscenity of its wording is strangely attractive: agreement - balance - need - preserve- flexibility - personal - computer - consumers - need - cable - operators - hardware - software - compliant - media - center - pcs - function - television. that's tv poetry! be ready for the great televison era. be ready for flexibility within your own home hub. we're entering the state of preservation: the freedom that is, has to be preserved and protected by a fence of drm-wire.
+
+
+
+posted by rik lambers at 18.11.05
+1 comments
+
+
+
+
+
+
+thursday, november 17, 2005
+
+
+
+	 
+	 swiss ifpi: game over for p2p infringers
+	 
+    
+
+
+the swiss division of the international federation of the phonographic industry (ifpi) says it's all over for p2p- users that download copyright protected works. at least, that's the final aim of their anti-piracy campaign game over. ifpi swiss says (semi-)professional p2p-infringers are now under control, and that it does not exist anymore in switzerland.the focus of ifpi swiss' legal actions will now move to private infringers (so-called raubkopierer), concentrating on those who download the most for starters. the tactic is well-know: registrating ip-addresses, warning the user with instant messaging, offering a settlement, starting a civil lawsuit with fines between 3,000 and 10,000 swiss franks if no settlement is reached and in grave cases a criminal lawsuit.ifpi swiss says that until now it had "trusted on the principle of individual responsibility embodied in switzerland" but that this did not lead to he expected respect for intellectual property. so, now the swiss are putting some tradition back into the internet, the lack of which was deemed one of its values. the projection of incumbent legal and socio-economic structures continues. until the game is over. - - - ifpi swiss press release [german] (the picture above shows how "raubkopierer" will be tracked)thru institut fur medien- und urheberrecht [german]
+
+
+
+posted by rik lambers at 17.11.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 zittrain on the generative internet
+	 
+    
+
+
+this is the first paper i'm going to read as soon as i get trainload of work done: johnatan zittrain's the generative internet, now up for download at ssrn. i found his previous papers very insightful and readable, with a great analysis that's not blurred by ideological fog as (much as) you'll find with some other (harvard) über-cyberprofs.  here's the abstract:  the power and flexibility of the internet has ignited growth and innovation in information technology and in associated creative endeavors, its "generativity" soliciting contribution from varied audiences. this very power and flexibility projected across millions of mainstream users has also become a vehicle for security threats that endanger its many desired uses. this article describes how the intertwining of the highly generative personal computer and internet is creating an information technology "grid" that will find itself in grave crisis with no easy fix.    the most direct responses to the crisis, both by regulators and through market forces reflecting a shift in consumer attitudes about the importance of technology reliability, will enable the sort of locked-down internet that publishers and some regulators have so far favored but been unable to bring about.    those who treasure the internet's generative features must assess the prospects for sufficiently either satisfying or frustrating the forces in question so that a radically different technology configuration need not come about. i believe that a different-in-kind internet is likely quite difficult to avoid. it is precisely while the future is uncertain that those who care about openness and the positive disruption it generates should not sacrifice the good to the perfect by seeking simply to maintain a tenuous technological status quo in the face of inexorable change. rather, we should establish the principles that will blunt the most unappealing features of a more locked-down technological future while acknowledging that an unprecedented and, to many who work in technology, genuinely unthinkable level of enclosure is likely to be the rule from which we must negotiate and justify exceptions. - - - thru urs gasser, who's calling it groundbreaking and a must-read. 
+
+
+
+posted by rik lambers at 17.11.05
+0 comments
+
+
+
+
+
+
+friday, october 28, 2005
+
+
+
+	 
+	 makayama: dvd-to-ipod ripper...drm in review
+	 
+    
+
+
+ "the feature that everyone wants, but apple didn't give you."that's what makayama is giving to the world. it's a company that sounds like a japanese motorcycle manufacturer, and even has a little japanese flag on one of its web pages. but, to my surprise, it's actually located right here in amsterdam, in the old post office building, which also holds a (night) club and (temporarily) the museum of modern art. that's right here:   but what exactly is the dutch company makayama offering to us from their scruffy amsterdam office's that apple didn't from sunny california:the ipod media studio. this innovative software lets you watch home movies, feature films and tv-series on your video ipod in great quality, in full screen, zoomed mode. [...] the software installs an encoding package on a windows xp computer, users pick any video file from their harddrive, cd or dvd and with only three clicks, the software turns it into a compressed movie file, which will play on the mpeg4-mediaplayer on the ipod.  the press release presses the point that "a 60 gb ipod may store up to 200 hours of home movies and tv recordings or one hundred full length feature films." that sounds like a soon-to-be classic little dvd ripper. might their be a reason that apple didn't dive into this? the answer is probably in the company profile: makayama supports fair use and is reviewing several drm standards to incorporate in its products. fair use is certainly a feature that everybody wants, but apple doesn't give us. or can't give us, since it can't put a product on the market that rips content protected dvds, while still reviewing "several drm standards to incorporate". maybe i'm reading to much in this little sentence. or, maybe it's the small (circumvention) disclaimer with one of their other products, dvd to pocket pc, that gives some doubt about the legality of the software, at least under the us digital millennium copyright act circumvention provisions: this software was not designed or produced to circumvent technology that effectively protects access to, or restricts the duplication of, copyrighted material. it has a commercially significant purpose other than to circumvent and has major non-infringing uses; being primarily designed to transcode home movies, tv-programming, personal video and audio files, and feature films from a users harddrive and/or on removable media. it does not produce digitally identical copies, but transcodes into a lossy, strongly compressed file. its sole purpose is to enable a platform- and timeshift allowing playback of lawfully aquired content, under the fair use principle. that's fair use, alright. some might doubt that an old post office building near the harbour of amsterdam will also provide a safe harbour for fair use circumvention under the ever stronger enforcement of the european copyright directive. oh, i wasn't able to see if ipod media studio actually ripped away any drm: it runs on windows only, no mac supported.  - - -   ipod media studio product page (with trial version) 
+
+
+
+posted by rik lambers at 28.10.05
+21 comments
+
+
+
+
+
+
+
+
+
+	 
+	 iptv & digital piracy: keeping honest people honest
+	 
+    
+
+
+a small interview on "digital piracy" and iptv with steve oetegenn, executive vp global sales & marketing at verimatrix, which read like a sales pitch. it's about keeping honest people honest, again:one other problem which is often overlooked is theft of service. it is estimated that around 30% of cable and 50% of satellite programming is actually viewed without being paid for. our system provides excellent clone detection functionality, which ensures that only paying customers have access to services. the problem with iptv is to keep honest people honest. we’re going to be challenged by these type of hackers, if they can circumvent the system they will, but you need to provide a deterrent.
+
+
+
+posted by rik lambers at 28.10.05
+0 comments
+
+
+
+
+
+
+
+
+
+
+	 jot: copyright does bolster evolution
+	 
+
+
+
+from the new york times:two leading science organizations have denied the kansas board of education permission to use their copyrighted materials as part of the state’s proposed new science standards because of the standards’ critical approach to evolution.
+
+
+
+posted by rik lambers at 28.10.05
+0 comments
+
+
+
+
+
+
+friday, october 21, 2005
+
+
+
+	 
+	 trademark's zeitgeist
+	 
+    
+
+
+tired of ego-surfing on google? try the database of the benelux trademarks office to see who has trademarked your name. i could have guessed...coco has been accepted as a (figurative) trademark for a monkey. that's accepted again: left kellogg's new and right kellogg's old coco. the evolution of a trademark: dead by expiration, and lack of coolness. 
+
+
+
+posted by rik lambers at 21.10.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 verycd: death to all p2p pay sites
+	 
+    
+
+
+danwei has a short piece on the chinese p2p-site verycd, approved by the ministry of information industry and creative commons-licensed. what verycd lacks in thirst for money, it has all the more for some fresh, capitalisitc blood: every person shares three albums in order to establish the world's largest p2p mp3 music library.through the verycd website's search, allow all users convenient and quick downloads of mp3s.death to pay download sites. 
+
+
+
+posted by rik lambers at 21.10.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 germany: p2p prosecutions bring unacceptable workload
+	 
+    
+
+
+the public prosecutor of the german district karlsruhe fears getting crushed under the workload of (future) p2p-prosecutions presented to him by the german gaming industry:"20,000 announcements are said to have been received against game downloaders, which take the work time of five lawyers and three particularly policemen turned off for the sifting. the processing of the document mountains will [take] at least six months to take up. "the treatment of heavier offenses could suffer in the future under this substantial additional expenditure" the german gaming industry is using the swiss firm logistep, which says to registrate "which contents during which period and with which ip address" users downloaded. at least in the netherlands this kind of outsourcing of p2p-police work to a non-eu third-party has been deemed unacceptable.the public office in germany thinks the p2p-prosecution of minor uploaders would put an unacceptable pressure on its resources and is said to only proceed with criminal prosecutions against users that have been previously convicted and  have sold songs on a large scale. that would be in line with the so-called bagatellklausel from the reviewed german copyright law, which exempts the exchange of a small number of songs that are exclusively for private use from prosecution. if one still wonders wether the bagatellklausel was born out of practical considerations or legal charity, the prosecutor's practice seems to have given the answer.- - - thru institut for urheber- und medienrecht [german]
+
+
+
+posted by rik lambers at 21.10.05
+1 comments
+
+
+
+
+
+
+
+
+
+	 
+	 microsoft's anonymous lawyers
+	 
+    
+
+
+don't trust anonymous sources when it comes to anti-trust: microsoft tried it again and by contract "told manufacturers of ipod-like portable audio devices that they were not allowed to distribute rivals' music player software, but then pulled back after one company protested." there's a lot of outside amazement and little mea culpa about this good old microsoft muscle flexing, except from some anonymous lawyer:  the disputed contracts were drafts sent to manufacturers before microsoft's lawyers reviewed them, said one lawyer familiar with details of the incident. this lawyer spoke on condition of anonymity because this person was not authorized to make public statements about the antitrust case. since when does microsoft sent out drafts without legal review? this sounds like either a major glitch or authorized pr. i bet it's a twosome: anonymity and authorization. the more interesting question is in how microsoft seems to try to get at its rival by playing the trust card on software, where its the hardware (ipod) that's the killer. any anonymous sources on this one?
+
+
+
+posted by rik lambers at 21.10.05
+2 comments
+
+
+
+
+
+
+thursday, october 13, 2005
+
+
+
+	 
+	 belgium court confirms: private copying not a right
+	 
+    
+
+
+i'm pretty late on this one - as the blogging is generally slower due to a (great) change of work - but it still is interesting for the private copying debate. not that the following ruling of a belgium court of a appeals brings much news. it follows the general legal trend away from the 'private-copying-is-a-right'-mantra together in its confirmation of the ruling of a lower court that private copying is not a right, but a "legally granted immunity against prosecution." those are words from the confirmed ruling. if you want to read the latest one of the court of appeals, get out your dictionary and start reading the french judgment [pdf]. the tables are getting turned in a drmed world: now it is the user who has to secure his interests through an often costly procedure.- - -  related coco: german constitutional court: private copying unlikely a rightcoco: french court: private dvd protection incompatible with private copying exception 
+
+
+
+posted by rik lambers at 13.10.05
+0 comments
+
+
+
+
+
+
+wednesday, october 05, 2005
+
+
+
+	 
+	 botswana: manadatory payment for mandatory drm?
+	 
+    
+
+
+botswana is working on a bill to amend the copyright and neighbouring rights act. i'd like to get my hands on it, because its content seems like a plain violation of more than one fundamental right and just sounds plain weird:under the proposed law, every sound and audio-visual recording made available to the public by sale, rental, lending or distribution for commercial purpose in botswana will have a security device affixed to it. the copyright office will issue the device once the person who wants to make it available to the public has paid. the device will only be approved if the owner of the copyright has made authorisation. the device will be the only indication that it is not a pirated work. any person who contravenes the set requirements shall be liable upon conviction to a fine not exceeding p20, 000 or to an imprisonment for a term not exceeding two years. any person who reproduces the device without the authorisation of the copyright office shall be liable to a fine not exceeding p50, 000 or imprisonment for a term not exceeding five years.
+
+
+
+posted by rik lambers at 5.10.05
+3 comments
+
+
+
+
+
+
+
+
+
+	 
+	 coco.eu smells like chanel no. 5
+	 
+    
+
+
+finally! a date has been set for the registration of the .eu domain name. i'm so excited! at last the wait is over: here comes coco.eu, for all your insights from european soil. well, that is if a french fasion house and cosmetic concern, or some coconut manufacturer, doesn't get the idea to registrate before i get a chance. because, "to prevent that organisations and companies will be the victim of cybersquatters", the rules of commerce have been laid out to dominate the .eu domain.these so-colled sunrise rules devide the resistration in three phases:first phase: public organisations and trademark holders can apply for registrationsecond phase: others that have legal claims can apply (company name, artistic name)third phase: four months after the start of the first phase anyone can register (april 7th 2006)i'll let you know if i can beat commerce the french coconut farmers make it. till then, same or alternate place for a long time.- - - background paper sunrise rules [pdf]
+
+
+
+posted by rik lambers at 5.10.05
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 operator french lyric site gets fine and risks jail time
+	 
+    
+
+
+remember the days you had to spin your record ten times to write out the indistinguishable lyrics of your favorite artist, because all his psychedelic artwork did not leave any room for song texts on the sleeve? that old game may be back...in france. the criminal court of nanterre has sentenced the operator of a song lyrics website to a 20,000 euro fine and six months imprisonment on probation. additionally the operator has to pay damages to the plaintiffs: the music association of publishers csdem and three publishing houses. apparently the site, miditext.net, had mirrored the site miditext.com, which was shut down in may 2002 over copyright infringement charges.back in april i reported on cease and desist notices sent to german song lyrics sites. a website that resisted such notice did take its song texts offline after a german court ruled that the copyrightholders had case. that rightholders have a case is no surprise. that they actually make a case out of their copyright keeps surprising me somewhat. but then, maybe they just want to give the digital generation they joy of penning down their favourite chansons in the candle light of a cheese & wine diner. i'm not sure what they are: nostalgic or romantic. maybe just not from this time...- - -  thru institut fur urheber- und medienrecht [german]csdem press release [pdf, french] 
+
+
+
+posted by rik lambers at 5.10.05
+1 comments
+
+
+
+
+
+
+
+
+
+
+
+
+previous posts
+
+scientology v. xs4all: supreme court poops party
+fujitsu's drmed car network
+enemies of the internet best of
+bollywood's fashionable copyright
+time-shift  that private copy
+jot: skype v. verso row linklist
+filtering in tunesia 2005
+pc is finally spelled tv
+swiss ifpi: game over for p2p infringers
+zittrain on the generative internet
+
+archives
+
+august 2004
+september 2004
+october 2004
+november 2004
+december 2004
+january 2005
+february 2005
+march 2005
+april 2005
+may 2005
+june 2005
+july 2005
+august 2005
+september 2005
+october 2005
+november 2005
+december 2005
+
+hitlist
+
+balkin
+benkler
+boyle
+copyfight
+a copyfighter's musings
+froomkin
+freedom to tinker
+furdlog
+the importance of...
+indicare
+indicare blog
+legal theory blog
+lessig
+moglen
+scrivener's error
+techdirt
+vaidhyanathan
+
+content
+
+indicare report: drm and consumer acceptability [pdf]
+indicare monitor vol. 1 (2004/2005): a collection of 62 drm articles [pdf]
+
+contact
+
+rik at lambers dot org
+
+
+feed me
+ 
+
+
+ 
+
+technorati
+
+
+
+
+this work is licensed under a creative commons license.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+disclaimer: all postings are personal views and not affiliated with any organisation or person. 
+
+
+

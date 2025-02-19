@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+220v power strip, plug adapter, shop 220 volt european adapter | euro plugs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "store",
+        "url": "http://www.europlugs.com",
+        "name": "euro plugs",
+        "description": "world wide plug adapters | universal plugs for use in any country | euro plug adapter | asian plug adapter | us plug adapter",
+        "logo": "https://www.europlugs.com/wp-content/uploads/2016/05/euro-plugs-wonpro-ii.png",
+        "hasmap": "https://www.google.com/maps/place/3201+e+lynx+pl,+chandler,+az+85249/@33.2368775,-111.7882057,17z/data=!3m1!4b1!4m5!3m4!1s0x872a54ca72981621:0xe5ec2428739f4b6f!8m2!3d33.236873!4d-111.786017",
+        "email": "sales@europlugs.com",
+        "telephone": "480-298-0924",
+        "sameas": [
+            "https://www.facebook.com/wonproeuroplugs/",
+            "https://twitter.com/europlugswonpro",
+            "https://plus.google.com/b/117473273040171111836/+europlugs/about",
+            "https://www.youtube.com/channel/ucqlajer4ybvtd0j7fojgvgw/about",
+            "https://www.diigo.com/profile/europlugsaz",
+            ""
+        ],
+        "aggregaterating": {
+            "@type": "aggregaterating",
+            "ratingvalue": "5",
+            "ratingcount": "12"
+        },
+        "openinghours": [
+            "mo-fri 8:00 - 5:00"
+        ],
+        "address": {
+            "@type": "postaladdress",
+            "addresslocality": "chandler",
+            "addressregion": "az",
+            "postalcode": "85249",
+            "streetaddress": "3201 e. lynx place"
+        },
+        "geo": {
+            "@type": "geocoordinates",
+            "latitude": "33.236877",
+            "longitude": "-111.78493400000002"
+        }
+    }
+] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+480-298-0924
+sales@europlugs.com
+
+
+
+
+
+
+
+ 
+skip to content
+homepower stripstech summary tech details wes 10-20a power strips wonpro power bars fixed cord power strip extension power cords wes 10-20a power cords all 40+ power cords 6 ft power cords all us power cords uk power cords euro power cords iec 10a power strips iec c14 power bars iec 10a power cords iec c13 power cords pre configured wes.ea6 wes.ea5 wes.ea4 wes.ea3 wes.et6 wes.et5 pre configured iec iec.ea6 iec.ea5 iec.ea4 iec.et6 iec.et5 plug  adapterstech summary tech details wonpro2, up to 20amp eas white eas black ea white ea black de / all-in-one de (germany to other) ast black (all-in-one) ast white (all-in-one) wonpro wa black wa ivory 2 pin other wonpro was (shutter) was-gf (germany) was-l (s. africa) wa-sw (on/off) r4 socketstech summary tech details r4 universal socket (black) er4t, 20 amp, screw wiring er4, 10-16 amp, clip wiring socket frame r4 universal socket (white) er4t, 20 amp, screw wiring er4, 10-16 amp, clip wiring socket frame iec / misciec power cords iec c13 iec c5 iec c7 misc voltage converter uk / germany plug tech docscountry chart about us 4g universal power strip features 4g universal power strip innovations 1g we-4a6 vs. 4g wes.ea6 1g we-4a6 vs. 4g_iec.ea6 nextgen adapter features nextgen adapter innovations r4t sockets innovations eurapra innovations (50+ pgs) us innovation patent - us9484659 us innovation patent - us9647375b2 us innovation patent - us9647402b2 
+
+
+
+menu
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+eurapra/wonpro2 4g power strips and nextgen 20 amp plug adapters
+
+
+
+
+
+
+
+
+
+
+
+wes.ea6
+6 outlet universal power strip with schuko grounding (separate exchangeable power cord design)
+
+
+
+15,00 pcs sold
+
+
+
+
+iec.ea4
+6 outlet universal power strip with schuko grounding iec e13 power cord included
+
+
+
+14,000 pcs sold
+
+
+
+
+wes.et6
+6 outlet universal power strip with schuko grounding special tandem connector at rear (power cord is separate)
+
+
+
+16,000 pcs sold
+
+
+
+
+
+
+
+nextgen 4g universal power strips
+
+
+
+
+
+most compact (uk plug is too big)
+
+uk friendly (can take big uk plug side by side)
+
+
+
+two 4g universal power bars: wes model and iec model
+
+wsr power cords: 1.0mm ~ 1.5mm, support up to 20 amp, only available on europlugs
+iec power cord: 1.0mm cable, support 10 amp, easy to find iec power cord anywhere
+
+
+
+
+
+much better material and design compared to old or alternate products – extremely non-flammable
+
+
+
+
+
+technical details – tons of new innovations:
+
+ 4g power strip innovation summary
+eurapra 4g power strip innovation details
+1g we-4a6 vs 4g iec.ea6
+
+
+nextgen universal plug adapters
+
+
+
+nextgen truamp plug adapters are electrical amperage pipelines
+it’s an amperage freeway, can pump up 20amp of electricity
+it does not block electrical flow at 6amp like all old gen adapters do!!
+
+next gen wonpro ii plug adapter
+
+
+
+ea_white
+
+
+
+ea_black
+
+
+
+eas_white
+
+
+
+eas_black
+
+
+
+upa-4 (all-in-one)
+
+
+
+de (1 to 1)
+
+
+
+coming soon
+
+
+much better material and design compared to old or alternate products – extremely non-flammable
+
+technical details – tons of new innovations:
+
+true amp plug adapters summary
+true amp plug adapters innovation details
+
+
+nextgen universal sockets
+
+shop plug adapters
+wonpro (wonderful product) was established by mr. wonpro lee in taiwan in 1989. mr. wonpro lee is the inventor and manufacturer of all wonpro universal power adapters, including “universal power strips”, “universal plug adapters”, and “universal receptacles”, etc. wonpro’s patented universal outlet can accept any country specific electrical plug, i.e., from type a plug ~ type m plug. it is a universal-to-one, or many-to-one plug adaptation design. 
+europlugs / wonpro ii was established in us by mr. wonpro lee’s younger brother mr. rock lee in 2002. europlugs started as our wonpro family business’s sales office in the us. our initial mission was to promote and demonstrate how wonpro’s very unique and very creative design to solve the problem of cross-country power connectivity– and thus create a homogeneous world to help people get connected and get power! 
+euro plug adapter online
+as time passed by, the world has become more globally connected; it is not enough to simply provide bare bone universal products. these products have to be built to meet ever increasing demands for safety and quality. after mr. wonpro lee passed away, after 30 years of no change, no improvement, europlugs started wonpro ii revolution in 2012.
+on universal plug adapters we redesigned the entire internal structure to meet iec 60884-2 socket and plug standards – now socket, plug, and plug adapters can all meet iec 60884-2 standards. our amperage pipeline design can support up to 20 amp (for nema 6/20 outlet). all other wonpro and generic wonpro plug adapters can only support 6 amp – no matter what the amperage markings say (yes, it is a 30 yeas of old lie, sad to say). our ea adapters and new skross style eask-9 adapter are the only one can support real amperage for each country.
+on universal power strips we have switched to a double pole switch, added an intelligent pcb board to support up to 1,050 joules of surge protection.this ensures that electricity is truly cut off and that surge protection works100% as intended. without pcb board and its led light indicators, the user has no idea if surge protection is still active or not and unknowingly takes on the risk of mov explosion.europlugs’ 4g universal power strip is the only one to build a universal power strip like how a ul compliant us power strip is built. no more cutting corners and cutting features.
+across all products we have a new schuko/german ground support metal.this is to provide grounding for german plugs without blocking any other country’s plug. our patented new “slide in” safety shutters cut the size of was adapter by half, and truly “no single pole can be inserted” european safety requirement – accidental shocked by 220v electricity can be deadly.
+europlugs is both technology driven and market driven. we pay close attention to the change in market demand, e.g., increasing demand for specialized adapters, and oem/odm demand. this is why we now produce the new 1-to-1 schuko to other country de plug adapters and eask-9 to compete with skross’s patented universal plug adapter (every plug has its own power socket).
+our company offers the world’s highest quality next generation plug adapter and other products – “designed in us, manufactured in china” – a joint us-china effort similar to how apple designs and produces iphone.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+contact us
+
+480-298-0924 sales@europlugs.com chandler, az 
+this is our wonpro family business's sales office in the us. wonpro us's main mission is to promote all wonpro universal power adapter products in the us, in the middle east, and in all major european countries. 
+
+get to know usabout us
+contact us
+faq
+press
+ 
+
+categorieshome
+plug adapters
+power strips
+power cords
+er4t sockets
+ 
+
+looking for help?my account
+order tracking
+shipping and returns
+privacy policy
+europlugs sitemap
+ 
+ 
+
+ 
+
+
+
+
+							©europlugs 2020. all rights are reserved	
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

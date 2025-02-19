@@ -1,0 +1,393 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	end of day stock quote data and historical stock prices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    the worlds #1 website for end of day & historical stock data
+  
+
+		wide range of exchanges, data formats, tools and services
+  
+
+
+
+
+main navhomeproducts & serviceshow tosupportaboutmy account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sub navhome pagedownloadsymbol listsquote & chartdaily emailssymbol changessplitsregister
+
+
+
+
+
+
+
+download market data
+download end of day stock market quotes and historical data for many of the world's top stock exchanges.
+
+
+
+
+wide range of formats
+our stock data is compatible with most of the leading charting packages including: metastock ®, omnitrader ®, supercharts, advanced get ™, tradestation, aiq, ezychart, and many more.
+
+
+
+
+historical data
+20 years of historical data is available across a wide range of international exchanges, including: amex, nasdaq, nyse, otcbb, forex, tsx, asx, lse, hkex, comex, nymex, and many more...
+
+
+
+
+data quality
+eoddata brings you quality stock quotes and historical charting data to help set a solid foundation for your investment decisions.
+
+
+
+
+eoddata is a leading provider of quality historical market data with easy to use download facilities at exceptional prices.
+			 daily updates containing end of day quotes and intraday 1-minute bars can be downloaded automatically each day.
+			 extensive, easy to access and affordable.
+
+
+historical data
+download up to 20 years of historical market data.
+
+test your trading strategy
+
+
+download now!
+market data available from a wide range of markets.
+
+start analyzing
+
+
+browse symbols
+find the data you need for a specific symbol.
+
+find the data you need
+
+
+
+
+
+exchange list
+
+
+
+exchangenamedate 
+amexamerican stock exchange02/14/25 16:59
+asxaustralian securities exchange02/17/25
+cfechicago futures exchange02/14/25
+eurexeurex futures exchange02/17/25
+forexforeign exchange02/17/25 23:31
+indexglobal indices02/14/25 16:57
+liffeliffe futures and options02/17/25
+lselondon stock exchange02/17/25
+mgexminneapolis grain exchange02/14/25
+nasdaqnasdaq stock exchange02/14/25 16:59
+nybotnew york board of trade02/17/25
+nysenew york stock exchange02/14/25 16:59
+otcbbotc bulletin board02/14/25 16:59
+sgxsingapore stock exchange02/17/25
+tsxtoronto stock exchange02/14/25
+tsxvtoronto venture exchange02/14/25
+usmfmutual funds02/13/25
+wcewinnipeg commodity exchange02/14/25
+
+
+
+
+
+
+brilliant. great price and very extensive historical data. the new intraday historical data is the best priced i have found.
+allan, chicago
+
+
+thanks to eoddata i now have more information at my fingertips for less cost each month.
+john, sydney
+
+
+i got tired of scraping free websites to get unreliable data. after joining eoddata i have never looked back.
+daniel, beijing
+
+
+the range of data available for a single monthly fee is unbelievable. it works seamlessly with my software and saves me a fortune.
+dieter, berlin
+
+
+using your data i can scan the entire market and quickly find the buying opportunities rather than firing in the dark.
+alexandra, greece
+
+
+no other data vendor comes close to the amount of information at such a low price.
+hamish, edinburgh
+
+
+having futures, forex, indices, options and equities data all in one place helps me to get a better understanding of the markets.
+richard, london
+
+
+i used to get my data from a variety of sources and waste hours every week loading it in. eoddata saves me lots of time every month and gives me more data to play with.
+rob, new york
+
+
+
+
+
+
+
+230,000+ members worldwide
+wide range of exchanges and formats
+automated downloads
+save time
+maximize returns
+minimize risk
+
+
+
+
+
+member login
+
+
+
+
+
+
+email/username:
+
+
+
+password:
+
+
+
+
+remember me
+
+
+
+
+
+
+
+
+
+register
+resend confirmation
+forgot
+
+
+
+
+
+
+
+
+data types
+          end of day (ohlcv), intraday (1,5,10,15,30 and 60 minute bar data), fundamentals, technicals, symbol master files, symbol changes, and splits.
+        
+
+coverage
+equities, etf's, etn's, futures, forex, indices, mutual funds.
+        
+
+exchanges
+          we provide data for all symbols on amex, asx, cfe, eurex, euronext, forex, hkex, index, kcbt, liffe, lse, mgex, mlse, nasdaq, nybot, nyse, otcbb, sgx, tsx, tsxv, usmf and wce.
+        
+
+quality
+          our historical stock data has been carefully screened and put through a series of filters to ensure that it meets the high standard demanded by technical analysts
+        
+
+works with
+          our data works with most of the leading charting and technical analysis packages including: metastock®, omnitrader®, supercharts, advanced get™, tradestation, aiq, ezychart, and many more.
+        
+
+intraday bar data
+          we also have 1, 5, 10, 15, 30 and 60 minute bar data available for amex, cfe, forex, kcbt, mgex, nasdaq, nybot, nyse and otcbb exchanges
+        
+
+
+
+
+
+global indices
+
+
+
+codenamelastchange
+compnasdaq20,027810.41
+djidow jones44,546-1650.37
+sp500s&p 500 index6,11500.01
+daxfrankfurt dax22,513-990.44
+ftseftse 100 index7,488-50.07
+ni225nikkei 22521,848120.06
+cac40paris cac 405,354410.76
+hsihang seng index22,6208063.69
+bdibaltic dry index1,200494.26
+hsihang seng index22,6208063.69
+gldgold index1,78300.00
+slvsilver index26.140.000.00
+pltplatinum index1,219100.86
+cprcopper index4.4100.0000.00
+eurusdeur / usd1.048-0.0010.10
+usdjpyusd / jpy151.6-0.40.24
+clcrude oil wti56.26-1.081.88
+qlcoal appalachian40.000.000.00
+sccrude oil brent60.52-1.071.74
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+home page
+download
+symbol lists
+quote & chart
+daily emails
+watchlists
+symbol changes
+splits
+
+
+
+
+products & services
+
+membership levels
+conversion utility
+data client
+historical data
+fundamental data
+commercial feeds
+web service
+
+
+
+
+how to
+
+advanced get
+aiq
+amibroker
+ezychart
+metastock
+omnitrader
+supercharts
+tradestation
+
+
+
+
+support
+
+faq
+data formats
+data quality
+forgotten password
+submit a support request
+
+
+
+
+about
+
+about us
+contact us
+terms & conditions
+privacy policy
+useful links
+
+
+
+
+my account
+
+downloads
+account details
+buy historical data
+billing history
+data format
+daily emails
+
+
+
+
+copyright © 2003-2025 eoddata - all rights reserved.
+quotes are delayed at least 15 minutes. all information provided "as is" for informational purposes only, not intended for trading purposes or advice.
+	eoddata will not be liable for any informational errors, incompleteness, or delays, or for any actions taken in reliance on information contained herein.
+	by accessing the eoddata site, you agree not to redistribute the information found therein in any form without eoddata's consent.
+
+
+
+
+
+
+
+
+
+

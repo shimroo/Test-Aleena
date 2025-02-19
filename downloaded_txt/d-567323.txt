@@ -1,0 +1,157 @@
+
+
+
+
+hewgill.com: greg hewgill's site
+
+
+
+
+hewgill.com
+
+hewgill.com: greg hewgill's site
+
+pluralitas non est ponenda sine necessitate
+
+- occam's razor
+
+
+this site is a place for me to publish content that i consider interesting.
+there is free software, a photo gallery, a blog, links, and more.
+
+news
+
+i update stuff on this site every now and then.
+i'm adding this news section at the risk of it being perpetually out of date.
+
+
+2018-09-27 - migrated this server to openbsd.
+2018-07-25 - enforced https on all sites on this server using let's encrypt certificates.
+2016-01-13 - removed google analytics. the time of central big tracking has come and gone.
+2016-01-07 - added a /now page that shows what i'm currently working on.
+2011-07-14 - picomath is a small library of math functions with many supported languages.
+2010-12-31 - new chinese-english dictionary in mobipocket format for kindle.
+2009-10-28 - mandelbrot set viewer lets you explore a fractal with easy zoom and pan.
+2008-07-12 - sunrise and sunset time graphs for any location on the planet.
+2008-02-22 - now hosting the sxsw 2008 showcasing music torrent, as well as torrents from past years.
+2008-02-19 - first release of pydkim, a python dkim email signature module.
+2008-01-19 - free, fast, javascript sudoku solver.
+2007-08-18 - the wiktionary to dict gateway service is now available.
+2006-09-19 - astronomical events calendar is available in ical and google calendar format.
+2006-01-01 - updated my othello game to work with modern browsers.
+2005-12-30 - this site now contains a self-published copy of my journal.
+2005-11-14 - we completed our two-month usa southwest road trip and photos are online.
+2005-04-08 - i took some photographs of the partial solar eclipse.
+2005-02-08 - austin hosted the 2005 elna esperanto congress.
+2004-10-11 - minilink.org [offline since 2015] is now up and running. an url shortening service that preserves domain name and file extension.
+2004-03-23 - added the image linking hall of shame which documents image linkers.
+2004-02-27 - added copyright notices to all the images in my photo gallery.
+2003-10-11 - new version of xearth for windows 1.1.0 which handles retrieval of earthquake update information better.
+2003-09-10 - i started a blog at livejournal.com. i'm enjoying it, you might too.
+2003-05-27 - last month i started to learn esperanto. i have started a new section of this site in esperanto. if you can't yet read esperanto, it is easy to learn!
+2002-10-23 - released the homeland security threat monitor. display the us homeland security threat color level in your windows task bar.
+2002-04-07 - started the real-world computing section. it's still a work in progress.
+2001-09-01 - added the chaos and fractals pages, which i created almost two years ago but never added to the site.
+2001-04-26 - found another new prime number with 188,194 digits. read more...
+2000-09-26 - new page about the galilean thermometer.
+1999-08-29 - i have removed all gif image files from this site, and replaced them with png files. read more...
+1999-08-29 - an ongoing job in maintaining any web site is fighting linkrot. i have tried to locate all the dead links and fix or remove them.
+
+software
+
+although i write software for a living, occasionally i find some spare time
+to write useful or fun software outside of work.
+all the software in this section is free software of one sort or another, and include source code.
+
+ios
+
+simon tatham's portable puzzle collection
+free 15c
+auckland trains
+nzsl dictionary
+xearth
+
+android
+
+nzsl dictionary
+auckland trains
+
+generic (cross-platform)
+
+ljdump. livejournal backup archive program (python).
+
+widgets (yahoo widgets, now obsolete)
+
+card games. five solitaire card games (freecell, golf, klondike, monte carlo, and pyramid).
+earthquakes. shows the latest earthquakes around the world on a map display.
+mahjongg. solitaire tile-matching game.
+new zealand uv index. shows the current solar uv index for locations around new zealand.
+othello. play othello against the computer.
+periodic table. presents a periodic table with atomic symbol, name, number, and weight information.
+sidereal time. shows the current sidereal time at your location.
+
+windows
+
+homeland security threat monitor. display the us homeland security threat color level in your windows task bar.
+xearth for windows. render shaded real-time images of the earth on your windows desktop.
+the development tools for palmpilot page.
+
+real-world computing
+
+a computer by itself is just a box with some fancy lights and switches.
+connect it to the real world, however, and you immediately have a sophisticated data logging, reporting, management, and analysis tool.
+
+
+real-world computing
+
+distributed computing
+
+if you've got a lot of computers handy, distributed computing is one way to shorten the time required to solve certain kinds of problems.
+by having each computer do a small part of the problem, large problems can be broken up into many smaller problems.
+
+
+distributed.net ogr project summary.
+prime numbers i have found.
+wem-21 graph for ogr (optimal golomb ruler) search.
+rc5 and java key cracking toys.
+
+photo gallery
+
+the photo gallery has pictures taken with my digital camera.
+digital cameras are great for nerds like me who are interested in photography but don't want to deal with that film stuff.
+
+
+photo gallery.
+
+fun stuff
+
+this section has various software things that aren't "big enough" to put in the software section.
+
+
+sample programs from the book chaos and fractals.
+a cool game of othello.
+consult-o-matic helps you write project briefs and internal memos.
+
+contributions
+
+i have contributed in various ways to some projects around the net.
+my contributions page lists some of the things i've done.
+
+links
+
+few things are less interesting than looking at somebody else's bookmarks.
+nevertheless, i have collected a small list of useful links on my links page.
+
+miscellaneous
+
+my pgp public key for greg@hewgill.com. (if you know what this is, you'll know what to do with it.)
+server log file analysis thanks to analog.
+about this site, for those who wish to read a bit of editorial content.
+
+
+greg hewgill <greg@hewgill.com>
+
+
+
+
+

@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+afflatus.ucd.ie | creative language systems group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+afflatus.ucd.ie
+
+
+            creative language systems group          
+ 
+
+main menuhome
+  
+ 
+
+
+
+
+user login
+
+
+username *
+
+
+
+password *
+
+
+create new account
+request new password
+
+
+ 
+
+
+bot feed
+
+follow @botonbotaction
+
+tweets by botonbotaction 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+automated web comix generation: story 1
+
+
+
+submitted by tony on sun, 06/06/2021 - 10:01 
+
+scéalextric stories can now be converted automatically into comic strips that visualize the characters and the actions of a machine-generated story. in this example, a scéalextric story about james bond and goldfinger is rendered as a web comic with facial emotions, action poses, and relevant backgrounds, with scene-setting close-ups and meme-like mood setters.
+the name's goldfinger, auric goldfinger: http://haddock.ucd.ie/excelsior/goldfinger
+tags: james bondgoldfingercomicscomixexcelsior 
+
+read more about automated web comix generation: story 1
+log in or register to post comments
+ 
+
+
+
+your wit is my command: day 7
+
+
+
+submitted by tony on fri, 09/27/2019 - 17:23 
+
+
+back in the day, the biggest chat bots in ai were eliza and parry. in 1973, the bots sat down for their first conversation together, removing the human from the loop. inspired by frost/nixon, kim and bap, our robot actors, make a stage production of what happened next.tags: naoparryeliza 
+
+read more about your wit is my command: day 7
+log in or register to post comments
+ 
+
+
+
+your wit is my command: day 6
+
+
+
+submitted by tony on fri, 09/27/2019 - 13:59 
+
+
+before kim met bap, he had to make do with alexa as a companion. now, let's be clear, kim isn't prejudiced against bots without bodies, but this relationship was rocky from the start. as kim once said of alexa, "that girl be trippin'"
+watch an explanatory  version of the act with comments.
+tags: alexanaostorytellinginteraction 
+
+read more about your wit is my command: day 6
+log in or register to post comments
+ 
+
+
+
+your wit is my command: day 5
+
+
+
+submitted by tony on thu, 09/26/2019 - 23:13 
+
+
+before kim had his robot companion bap to play with, kim was forced to tell stories with a human partner. here kim asks the user some personal questions, and constructs a personalised story around the answers. 
+watch it here on youtube
+tags: naorobotsstorytellinginterviewhcispeechpersonal history 
+
+read more about your wit is my command: day 5
+log in or register to post comments
+ 
+
+
+
+your wit is my command: day 4
+
+
+
+submitted by tony on thu, 09/26/2019 - 00:14 
+
+
+for day 4 of future tech week our robot actors kim and bap enact another story they generated for themselves. these robots just can't keep their noses out of politics, although their imaginations exceed their grasp on reality.
+if only the 2016 presidential election turned out this way!
+tags: naopoliticstrumpclintonstories 
+
+read more about your wit is my command: day 4
+log in or register to post comments
+ 
+
+
+
+your wit is my command: day 3
+
+
+
+submitted by tony on wed, 09/25/2019 - 08:23 
+
+
+the robots kim and bap discuss the difference between physical robots and software "bots," in the context of a recent book on twitter bots.
+watch veale and kim (or is it bap?) discuss twitterbots heretags: naorobotsbotstwitterbotsmit press 
+
+read more about your wit is my command: day 3
+log in or register to post comments
+ 
+
+
+
+your wit is my command: day 2
+
+
+
+submitted by tony on tue, 09/24/2019 - 01:33 
+
+
+for day 2 of future tech week our robot actors kim and bap enact a story they generated for themselves, about two of their favourite characters in their database (the noc list).
+this is political drama and romance as you've never saw them before!tags: naorobotsstory-tellingstory generation 
+
+read more about your wit is my command: day 2
+log in or register to post comments
+ 
+
+
+
+your wit is my command: day 1
+
+
+
+submitted by tony on sun, 09/22/2019 - 20:57 
+
+
+to kick off future week, we've asked the robots kim and bap to introduce our lab's research in story telling. 
+watch the video on youtube now ...
+... and watch this space for a new video every day of future tech week.
+tags: robotskimbapintroductionfetfuture weekprosecco 
+
+read more about your wit is my command: day 1
+log in or register to post comments
+ 
+
+
+
+your wit is my command
+
+
+
+submitted by tony on mon, 09/16/2019 - 11:33 
+
+to celebrate  the ec fet programme and future week (http://futuretechweek.fetfx.eu), we are launching a week of embodied story-telling with kim and bap, our robot actors.
+each day of future week we'll post a new video of kim and bap, either introducing our current research in story-telling and story-generation (which stems from the fet projects prosecco and whim) or enacting a new computer-generated story for your delectation.
+watch this space!
+future week is september 23 - 29th.
+tags: robotsduets. double actstory-tellingembodiment 
+
+read more about your wit is my command
+log in or register to post comments
+ 
+
+
+
+this is the creative language system group
+
+
+
+submitted by tony on wed, 06/05/2019 - 15:55 
+
+our computational creativity (cc) group is dedicated to the computational exploration of language and its creative potential, from  metaphor, simile, analogy and blending to complex social phenomena such as irony and humour.
+we build a variety of cc systems, from metaphor-generating twitterbots to story-generators and robot-robot story-telling systems.
+tags: computational creativity 
+
+read more about this is the creative language system group
+log in or register to post comments
+ 
+
+pages1
+2
+next ›
+last »
+ 
+
+
+
+ 
+
+
+
+resources
+
+publicationspresentations
+web services and apps
+metaphor magnet servicethesaurus rex servicemetaphor eyes servicescéalextric simulatoraristotle metaphorqastle kbthe jigsaw bardmr. sardonicusthe lex-ecologistdim sum
+outreach
+robotcomixbook launchprosecco githubthe noc listscéalextric resourcestracery botsyoutube channelinstagramgoogle scholarembodiment and cognition
+sample chapters
+exploding the creativity myth (2012)metaphor: a computational approach (2016)twitterbots: making machines that make meaning (2018)
+twitterbots
+@metaphormagnet@botonbotaction@bestofbotworlds@readmelikeabot@trumpscuttlebot@oldskoolfunbot@moviedreambot@intercablebot@the_plot_bot
+
+
+
+metaphor feed
+
+follow @metaphormagnet
+
+tweets by metaphormagnet 
+ 
+
+
+ 
+ 
+
+
+
+
+
+powered by drupal 
+
+
+ 
+ 
+ 
+
+

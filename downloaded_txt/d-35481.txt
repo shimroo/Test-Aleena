@@ -1,0 +1,668 @@
+  
+
+ 
+
+
+ the cert division | software engineering institute  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+icon-carat-right
+
+
+
+cmu-wordmark
+
+
+
+
+
+
+
+
+
+
+carnegie mellon university
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software engineering institute
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sei
+
+
+
+
+about
+
+
+
+
+divisions
+
+
+
+the cert division
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+     the cert division
+the cert division is a leader in cybersecurity. we partner with government, industry, law enforcement, and academia to improve the security and resilience of computer systems and networks. we study problems that have widespread cybersecurity implications and develop advanced methods and tools to counter large-scale, sophisticated cyber threats.     
+
+
+    
+
+
+
+
+leadership
+
+
+
+what we do
+
+
+
+careers in the cert division
+
+
+
+recent vulnerabilities
+
+
+
+case studies
+
+
+
+history
+
+
+
+    
+
+
+    
+
+
+ 
+
+
+
+     leadership  
+
+
+
+
+
+
+
+
+
+gregory j. touhill
+
+
+ 
+
+director, cert division
+
+
+
+
+
+
+
+
+
+
+
+william wilson
+
+
+ 
+
+deputy director, cert division
+
+
+
+
+
+
+
+
+
+
+
+chris inacio
+
+
+ 
+
+chief engineer, cert division
+
+
+
+
+
+
+    
+
+
+ 
+
+
+
+    
+
+
+     what we do
+cert experts are a diverse group of researchers, software engineers, security analysts, and digital intelligence specialists working together to research security vulnerabilities in software products, contribute to long-term changes in networked systems, and develop cutting-edge information and training to improve the practice of cybersecurity.
+our connection to the internationally known carnegie mellon university creates multidisciplinary collaboration opportunities and amplifies our research abilities.     
+
+
+   
+
+
+ 
+
+
+     autonomy security and resilience
+develop and sustain security, resilience, and assurance best practices for the development, construction, and employment of machine learning systems.
+cybersecurity center development
+develop measurable and repeatable practices to prepare csirts and other operational security organizations.
+cybersecurity engineering
+develop methods for engineering mission-essential capabilities that balance security and resiliency with mission performance.
+cyber workforce development
+develop and maintain a well-equipped cyber workforce that is immediately able to support the cybersecurity needs of organizations.     
+
+
+     enterprise risk and resilience management
+develop measurable practices and frameworks that enable organizations to measure and mitigate risks.
+insider threat
+detect and mitigate the impact of insider threats and reduce their occurrence in organizations.
+reverse engineering for malware analysis
+develop tools and methods to identify and mitigate code that causes unintended effects in software systems.
+situational awareness
+analyze the cyber terrain as it evolves to characterize assets at risk, measure adversary activity, and prioritize responses to threat.     
+
+
+     secure development
+assess platforms through the analysis of source code to assure they adhere to security best practices.
+system and platform evaluation
+assess software, devices, systems, and platforms of unknown design or origin to find vulnerabilities and strategies for defending against possible attacks.
+security vulnerabilities
+reduce exposure to known vulnerabilities in systems.
+ 
+ 
+      
+
+
+    
+
+
+ 
+
+
+
+    
+
+
+
+
+
+
+careers in the cert division
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cyber risk intern
+
+pittsburgh, pa
+
+
+
+
+
+senior software engineer
+
+pittsburgh, pa
+
+
+
+
+
+associate research scientist - quantum
+
+pittsburgh, pa
+
+
+
+
+
+
+
+
+
+documentation specialist and content strategist
+
+pittsburgh, pa
+
+
+
+
+
+senior communications engineer
+
+pittsburgh, pa
+
+
+
+
+
+senior ai security researcher
+
+pittsburgh, pa
+
+
+
+
+
+
+
+
+
+technical manager - cybersecurity assurance team
+
+2 locations
+
+
+
+
+
+software engineer
+
+pittsburgh, pa
+
+
+
+
+
+ai security researcher
+
+pittsburgh, pa
+
+
+
+
+
+
+
+
+
+vulnerability researcher
+
+pittsburgh, pa
+
+
+
+
+
+senior vulnerability researcher
+
+pittsburgh, pa
+
+
+
+
+
+assistant communications engineer
+
+pittsburgh, pa
+
+
+
+
+
+
+
+
+
+research scientist - quantum
+
+pittsburgh, pa
+
+
+
+
+
+senior research scientist - quantum
+
+pittsburgh, pa
+
+
+
+
+
+cybersecurity engineer
+
+2 locations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+see all sei job openings
+
+
+
+
+
+
+    
+
+
+ 
+
+
+
+    
+
+
+    
+
+recently published vulnerabilities
+
+vu#148244: pandasai interactive prompt function can be exploited to run arbitrary python code through prompt injection, which can lead to remote code execution (rce)
+february 11, 2025
+
+
+vu#733789: chatgpt-4o contains security bypass vulnerability through time and search functions called "time bandit"
+january 30, 2025
+
+
+vu#199397: insecure implementation of tunneling protocols  (gre/ipip/4in6/6in4)
+january 17, 2025
+
+more vulnerabilities
+report a vulnerability
+
+    
+
+
+   
+
+
+    
+
+
+ 
+
+
+
+    
+
+ case studies 
+
+
+
+
+
+
+
+cyber lightning case study
+the sei hosted cyber lightning, a three-day joint training exercise involving air national guard and air force reserve units from western pennsylvania and eastern ohio.
+learn more
+
+
+
+
+
+
+
+
+
+sei hosts crisis simulation exercise for cyber intelligence research consortium
+in sei crisis simulation exercises, participants use scenarios that present fictitious malicious actors and environmental factors based on real-world events.
+learn more
+
+
+
+
+
+
+
+
+
+usps case study
+the sei teamed with the u.s. postal service to help it improve its cybersecurity and resilience and collaborated on a program to develop a strong cybersecurity workforce.
+learn more
+
+
+
+
+    
+
+
+ 
+
+
+
+    
+
+
+     history
+the cert division is the birthplace of cybersecurity. for nearly 30 years, the cert division of the sei has partnered with government, industry, law enforcement, and academia to advance cybersecurity and improve the security and resilience of computer systems and networks.
+originally focused on incident response, we have expanded into cybersecurity areas such as network situational awareness, malicious code analysis, secure coding, resilience management, insider threats, digital investigations and intelligence, workforce development, devops, forensics, software assurance, vulnerability discovery and analysis, and risk management.     
+
+
+        barbara fraser and ed dehart, part of the sei’s cert/cc in the early 1990s     
+
+
+    
+
+
+ 
+
+
+
+    
+
+
+     former director richard pethia
+richard pethia was founding director of the sei's cert division. pethia, who served as director of cert from 1988 to 2016, guided the organization through tremendous growth and change. under pethia's leadership, the unit expanded and evolved from the cert coordination center—a small group focused on computer incident response—to a research organization of more than 200 professionals dedicated to solving problems with widespread cybersecurity implications.
+see full profile     
+
+
+          
+
+
+    
+
+
+ 
+
+
+
+    
+
+
+ related links 
+
+
+
+podcast series
+cert/cc vulnerabilities blog posts
+computer security incident response teams
+
+
+
+
+flocon
+insider threat blog posts
+insider risk management symposium
+
+
+
+
+natcsirt meeting
+vulnerability database
+
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+report a vulnerability to cert/cc
+subscribe to sei bulletin
+request permission to use sei materials
+
+
+
+
+
+
+
+carnegie mellon university software engineering institute 4500 fifth avenue pittsburgh, pa 15213-2612 412-268-5800
+
+
+ [  facebook  |  twitter  |  linkedin  |  youtube  |  itunes  ] 
+
+
+contact us
+
+
+
+
+ [  office locations  |  additional sites directory  |  legal  |  privacy notice  |  cmu ethics hotline  |  www.sei.cmu.edu  ] 
+
+
+
+
+©2025 carnegie mellon university
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

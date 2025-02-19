@@ -1,0 +1,608 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+enterprise infrastructure services - information technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information technology
+
+
+
+
+
+@rutgersit
+
+visit rutgersit twitter
+
+
+visit rutgersit facebook
+
+
+visit rutgersit youtube
+
+
+
+
+
+
+
+
+                    rutgers.edu
+
+
+
+
+
+
+
+menu
+            
+
+locations
+
+rutgers–camden it
+rutgers–new brunswick it
+rutgers–newark it
+health sciences it
+
+
+ 
+services
+
+all services
+getting started with it
+it security
+teach with technology
+
+
+get help
+
+support & hours
+find answers
+rutgers it help portal
+report a security incident
+
+
+about
+
+about rutgers it
+office of the cio
+office of information technology
+distributed it
+policies
+strategic priorities
+contact us
+
+
+i want to…
+
+access docusign
+buy a computer or other tech
+contact the help desk
+connect to wi-fi
+create forms and surveys
+download microsoft 365
+find a computing lab
+get adobe creative cloud
+get a grammarly account
+get software
+manage my netid
+print on campus
+report a security incident
+reset my netid password
+secure my technology
+set up two-step login with duo
+teach with technology
+view tech guides
+
+
+log in to…
+
+box file storage
+canvas
+qualtrics survey tool
+linkedin learning
+rutgers connect
+myrutgers portal
+scarletmail
+university software portal
+virtual computer labs
+webex
+zoom
+
+
+it community
+
+committees and working groups
+it annual review
+it communications resources
+it community hub
+it email lists
+it leadership council
+policies
+slack for rutgers it
+strategic priorities
+
+
+ 
+
+
+
+alerts 0
+
+
+
+
+ search
+open search input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rutgers it / about rutgers it / office of information technology / enterprise infrastructure services 
+
+
+
+
+
+
+
+
+
+
+enterprise infrastructure
+enterprise infrastructure (ei) offers a wide range of it expertise and services to operate and support the university’s central network and compute infrastructures. the mission of the enterprise infrastructure division is to architect, build, operate, and enhance infrastructure in support of academic, research, clinical, and administrative functions of rutgers university.
+
+
+
+
+
+
+
+submit an enterprise infrastructure service request or report an incident.
+
+
+
+get support
+
+
+
+
+
+
+
+about our organization, services, and units
+
+
+
+
+
+
+
+construction management services
+design, installation, and management of the the university telecommunication inside plant (isp) cable plant.    
+
+
+
+
+
+
+
+data center services
+enterprise infrastructure operates and  maintains central data center services in several locations on and off campus.
+
+
+
+
+
+
+
+dns and dhcp services
+enterprise infrastructure provides central domain name services (dns) and dynamic host configuration protocol (dhcp).
+
+
+
+
+
+
+
+
+
+eduroam
+eduroam is a free and secure wireless network available to the rutgers community when visiting participating universities.
+
+
+
+
+
+
+
+enterprise platform security
+backend information security services for perimeters, data centers, and organizational units throughout the university.
+
+
+
+
+
+
+
+network access control (nac)
+services include access control policy resources and prime network administrator access information.
+
+
+
+
+
+
+
+
+
+network operations and architecture (noa) services
+noa services include network infrastructure planning and operations, as well as network administrator resources.
+
+
+
+
+
+
+
+network operations center
+see more about network operations and architecture services, including data/wireless/media and infrastructure operations.
+
+
+
+
+
+
+
+outside plant and documentation services
+view related services such as info on the university’s telecommunication distribution system.
+
+
+
+
+
+
+
+
+
+project management office (pmo)
+it project management services that are offered through the project management office.
+
+
+
+
+
+
+
+resnet
+the wired network provides residence hall students with high-speed ethernet connections.
+
+
+
+
+
+
+
+ruwireless
+ruwireless secure is the secure wireless network available to the rutgers community throughout the university.
+
+
+
+
+
+
+
+
+
+telepresence
+learn more about video conferencing equipment and systems simulating an environment where all participants are together in the same room.
+
+
+
+
+
+
+
+television content services
+oit provides internet protocol television (iptv) streaming service via wireless for eligible departments and units.
+
+
+
+
+
+
+
+virtual infrastructure
+the virtual infrastructure hosting environment is available for all it departments and the rutgers community.
+
+
+
+
+
+
+
+
+
+virtual private networking (vpn)
+vpn provides connectivity that allows remote computers to behave as though they were directly attached to the campus network infrastructure.
+
+
+
+
+
+
+
+voice services
+voice services assists users with the support of voip telephones, voicemail, analog services, and audio conferencing.
+
+
+
+
+
+
+
+webex
+webex is an easy-to-use web conferencing tool enabling collaboration through online meetings and video conferencing.
+
+
+
+
+
+
+
+
+
+zoom
+zoom is a web conferencing tool with a combination of video, voice, content sharing, and chat functions.
+
+
+
+
+
+
+
+
+
+
+
+enterprise infrastructure executive leadership
+
+
+
+
+
+
+
+
+
+william lansbury
+vice president, office of information technology
+bill lansbury leads the enterprise infrastructure division, providing university-wide infrastructure services for the office of information technology and partners within rutgers it. responsibilities include the enterprise network, voice, video, cable-plants, data centers, servers, storage, and cloud computing in support of teaching, research, healthcare, and administration. bill held various technical and leadership roles with the university of medicine and dentistry of new jersey (umdnj) prior to its merger with rutgers.
+email william lansbury
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+follow @rutgersit on social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feedback submit your comments, suggestions, and other feedback about it at rutgers.
+
+locations rutgers–camden it
+rutgers–new brunswick it
+rutgers–newark it
+health sciences it
+
+ 
+
+explore rutgers universitywide
+rutgers university—new brunswick
+rutgers university—newark
+rutgers university—camden
+rutgers health
+search rutgers
+
+
+ 
+
+
+rutgers it news
+
+
+scientists harness ai to help protect whales
+february 12, 2025
+
+
+survey highlights an emerging divide over ai in the u.s.
+february 12, 2025
+
+
+search safely online: avoid seo poisoning traps
+february 10, 2025
+
+
+student job seekers: beware of sophisticated scammers
+february 6, 2025
+
+
+rutgers online learning conference is open for registration
+february 4, 2025
+
+
+ 
+
+
+
+
+
+          rutgers is an equal access/equal opportunity institution. individuals with disabilities are
+          encouraged to direct suggestions, comments, or complaints concerning any accessibility issues with
+          rutgers websites to
+          accessibility@rutgers.edu or complete the report accessibility barrier /
+            provide feedback form.
+        
+
+copyright ©2024, rutgers,
+            the state university of new jersey. all rights reserved.
+            contact webmaster. view privacy statement.
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

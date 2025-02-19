@@ -1,0 +1,743 @@
+
+
+
+
+
+lista firmelor active din românia cu informaţii complete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lista firmelor din românia
+
+
+
+
+
+intră în cont 
+
+
+
+sign in with google
+
+
+
+
+ține-mă minte
+
+creează cont gratuit
+recuperează cont
+
+
+
+
+
+
+
+
+
+
+
+ română
+ engleză
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+
+
+
+acces online 
+acces online 
+
+acces prin sms
+pachete de acces
+
+expunere premium
+informaţii incluse
+
+creează cont gratuit
+
+
+
+selecții de firme 
+selecții de firme 
+
+selectează firme
+
+selecții predefinite
+
+
+
+servicii de date 
+
+monitorizare
+
+firme noi
+insolvenţă
+datorii anaf
+inactivi anaf
+contribuabili
+stare firme
+
+api
+
+
+
+rapoarte 
+
+raport cip
+raport recom
+raport rnpm
+
+
+
+contact listafirme
+
+
+
+despre noi 
+
+întrebări frecvente
+prezentări video
+suport clienţi
+echipa listafirme
+termeni de utilizare
+
+articole
+specificații
+webmasteri
+angajare
+
+
+contact listafirme
+
+
+
+
+
+home
+
+
+ caută o firmă
+
+
+
+
+
+
+
+
+romania
+alba
+arad
+arges
+bacau
+bihor
+bistrita nasaud
+botosani
+brasov
+braila
+bucuresti
+buzau
+caras severin
+calarasi
+cluj
+constanta
+covasna
+dambovita
+dolj
+galati
+giurgiu
+gorj
+harghita
+hunedoara
+ialomita
+iasi
+ilfov
+maramures
+mehedinti
+mures
+neamt
+olt
+prahova
+satu mare
+salaj
+sibiu
+suceava
+teleorman
+timis
+tulcea
+vaslui
+valcea
+vrancea
+
+
+
+caută
+
+
+căutare avansată
+
+
+
+
+
+
+
+
+
+intră în cont 
+
+
+
+sign in with google
+
+
+
+ține-mă minte
+
+creează cont gratuit
+recuperează cont
+
+
+
+
+
+
+ caută o firmă
+
+
+romania
+alba
+arad
+arges
+bacau
+bihor
+bistrita nasaud
+botosani
+brasov
+braila
+bucuresti
+buzau
+caras severin
+calarasi
+cluj
+constanta
+covasna
+dambovita
+dolj
+galati
+giurgiu
+gorj
+harghita
+hunedoara
+ialomita
+iasi
+ilfov
+maramures
+mehedinti
+mures
+neamt
+olt
+prahova
+satu mare
+salaj
+sibiu
+suceava
+teleorman
+timis
+tulcea
+vaslui
+valcea
+vrancea
+
+
+caută
+
+
+
+
+
+
+
+
+
+
+prima oară pe site?
+creează cont gratuit   sau   accesează prin sms
+
+
+
+
+
+
+caută:
+
+
+
+
+firmă
+
+firmă
+caută firme după nume, cui sau j.
+
+
+
+
+
+
+
+asociat
+
+asociat
+caută asociați persoane fizice sau juridice.
+
+
+
+
+
+
+
+administrator
+
+administrator
+caută administratori persoane fizice sau juridice
+
+
+
+
+
+
+
+email
+
+email
+caută după adrese de email.
+
+
+
+
+
+
+
+telefon
+
+telefon
+caută după numărul de telefon fix sau mobil.
+
+
+
+
+
+
+
+website
+
+website
+caută după adresa site-ului web.
+
+
+
+
+
+selectează:
+
+
+
+
+județ
+
+județ
+selectează firme în funcție de județul în care activează.
+
+
+
+
+
+
+
+oraș
+
+oraș
+selectează firme în funcție de orașul de care aparțin.
+
+
+
+
+
+
+
+domeniu
+
+domeniu
+selectează firme în funcție de activitățile caen.
+
+
+
+
+
+afișează:
+
+
+
+
+listafirmelor
+
+listafirmelor
+afișează lista cu firmele din selecția curentă
+
+
+
+
+
+
+
+statisticifirme
+
+statisticifirme
+afișează indicatori statistici referitori la selecția curentă.
+
+
+
+
+
+
+
+hartafirmelor
+
+hartafirmelor
+afișează pe harta termografică firmele curent selectate.
+
+
+
+
+
+
+
+firme dinapropiere
+
+firme dinapropiere
+afișează dintre firmele selectate pe cele din apropierea dumneavoastră.
+
+
+
+
+
+filtrează:
+
+
+
+
+indicatorifinanciari
+
+indicatorifinanciari
+păstrează doar firmele care se încadrează în limitele alese.
+
+
+
+
+
+
+
+participarecapital
+
+participarecapital
+participarecapital
+
+
+
+
+
+
+
+formajuridică
+
+formajuridică
+păstrează doar firmele care au formele de organizare alese.
+
+
+
+
+
+
+
+completaredate
+
+completaredate
+păstrează doar firmele care au completate tipurile de date alese.
+
+
+
+
+
+
+
+mărimefirmă
+
+mărimefirmă
+microîntreprinderi, firme mici, mari și foarte mari
+
+
+
+
+
+
+
+tipullocalităților
+
+tipullocalităților
+alege municipii, orașe, comune, sate, localitati urbane sau rurale
+
+
+
+
+
+descarcă:
+
+
+
+
+selecțiide firme
+
+selecțiide firme
+liste de firme personalizate.
+
+
+
+
+
+
+
+firmenoi
+
+firmenoi
+liste de firme recent înființate.
+
+
+
+
+
+
+
+firmeinsolvente
+
+firmeinsolvente
+liste de firme publicate în buletinul insolvenței.
+
+
+
+
+
+
+
+datoriianaf
+
+datoriianaf
+obligații restante la bugete conform anaf.
+
+
+
+
+
+
+
+inactivianaf
+
+inactivianaf
+firme declarate inactive de către anaf.
+
+
+
+
+
+
+
+contribuabili 
+
+contribuabili
+lista completă a contribuabililor.
+
+
+
+
+
+monitorizează:
+
+
+
+
+proceduri de insolvență
+
+proceduri de insolvență
+urmărește un set de firme și vă notifică dacă vreuna este publicată în bpi.
+
+
+
+
+
+
+
+dosare în justiție
+
+dosare în justiție
+vă notifică atunci când firmele urmărite au evenimente în justiție.
+
+
+
+
+
+
+
+documente oficiale
+
+documente oficiale
+urmărește un set de firme și notifică publicarea în monitorul oficial.
+
+
+
+
+
+
+
+
+ întrebări frecvente: pentru a întreba sau a găsi răspunsuri vă invităm pe grupul    listafirme.ro×
+
+
+companii care utilizează listafirme.ro
+
+
+
+
+
+
+
+
+
+asistență i.a.  
+
+
+×
+discută cu aia
+
+
+
+
+
+
+
+
+
+
+
+
+
+acces online
+acces prin sms
+pachete de acces
+informaţii incluse
+creează cont gratuit
+
+
+
+
+selecții de firme
+ghid utilizare
+firme pe judeţe
+firme pe oraşe
+firme pe domenii
+topuri de firme
+filtrare firme
+
+
+
+
+vizualizări
+firme selectate
+statistici selecție
+harta selecției
+
+
+
+
+servicii de date
+monitorizare
+firme noi
+insolvenţă
+datorii anaf
+inactivi anaf
+contribuabili
+stare firme
+
+
+
+
+
+
+termeni de utilizare
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+inchide
+
+
+
+
+
+
+

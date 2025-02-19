@@ -1,0 +1,302 @@
+
+
+
+
+blample sog
+(function() { (function(){function b(g){this.t={};this.tick=function(h,m,f){var n=f!=void 0?f:(new date).gettime();this.t[h]=[n,m];if(f==void 0)try{window.console.timestamp("csi/"+h)}catch(q){}};this.getstartticktime=function(){return this.t.start[0]};this.tick("start",null,g)}var a;if(window.performance)var e=(a=window.performance.timing)&&a.responsestartvar p=e>0?new b(e):new b;window.jstiming={timer:b,load:p};if(a){var c=a.navigationstart;c>0&&e>=c&&(window.jstiming.srt=e-c)}if(a){var d=window.jstiming.load;
+c>0&&e>=c&&(d.tick("_wtsrt",void 0,c),d.tick("wtsrt_","_wtsrt",e),d.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=math.floor(window.chrome.csi().paget),d&&c>0&&(d.tick("_tbnd",void 0,window.chrome.csi().starte),d.tick("tbnd_","_tbnd",c))),a==null&&window.gtbexternal&&(a=window.gtbexternal.paget()),a==null&&window.external&&(a=window.external.paget,d&&c>0&&(d.tick("_tbnd",void 0,window.external.starte),d.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();window.tickabovefold=function(b){var a=0;if(b.offsetparent){do a+=b.offsettop;while(b=b.offsetparent)}b=a;b<=750&&window.jstiming.load.tick("aft")};var k=!1;function l(){k||(k=!0,window.jstiming.load.tick("firstscrolltime"))}window.addeventlistener?window.addeventlistener("scroll",l,!1):window.attachevent("onscroll",l);
+ })();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	blample sog
+	
+  
+this is a dashingly witty description of this blog
+
+
+
+
+
+may 04, 2006
+
+
+
+	 
+	 the deci-*hic!*-der
+	 
+    
+
+
+what ever happened to those rumours a few months ago about dubya being back on the sauce?
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+february 22, 2006
+
+
+
+	 
+	 damn swedes!
+	 
+    
+
+
+the charger on my cell phone broke; a 2-millimetre square doodad on my expensive swedish cell phone's charger snapped off this morning instead of removing itself smoothly from the phone.  my phone was lorena bobbitt to the charger's john.at first i was confused.  my phone is european, scandinavian even.  scandinavia = quality!  the simple phrase "imported from sweden" evoke images of sturdy milk jugs, stalwart viking vessels, and abba, the group that could do no wrong (except for the insipid "thank you for the music").dreams of pine trees, reindeer, and lithe, blonde, milk-fed, swedish lads clouded my brain as i surveyed my ikea bookshelves that collapsed in a heap after 3 years of service and are now held up by walls and wishful thinking; my ikea kitchen table that got all permanently wobbly-kneed the first time i put my groceries down on it; my ikea bed that collapsed after (during!) only one night that was only slightly more active than all other nights.the realisation was slow in coming that i shouldn't be too surprised that my sony ericsson z500a - that is, by the way, spectacularly user unfriendly - should snap into pieces.  i mean, the swedes and their quality, eh!  aren't they also responsible for ace of base?  a pox on you, sweden!but instead of taking my anger and frustration out on an entire scandinavian country - and perhaps its neighbours (i have my eye on you, finland) - because of a few individuals - because it would be just nutty to blame an entire scandinavian country and perhaps its neigbours for the actions of a few individuals, i decided to trek to the people who sold me the shoddy falling apart sony ericsson z500a cameraphone that takes tiny, pointilist photos that look like a georges seurat on a bad day.  i may as well have been speaking in swedish to them, or perhaps finnish.even though i am a "valued customer" who has never paid a bill late even in the roughest days of unemployment/no freelance with a piece of still-waranteed merchandise they sold me, rogers were unwilling simply to replace the silly little charger and instead lead me on a "compromise" that has left me phoneless for eight weeks.  because of a 2mm square piece or plastic, my entire phone has to be shipped away.  the wonders of modern technology and the corporate approach to client services (or "care", as they refer to it as if we were all in on the joke).i should never have signed a contract with them.  and my friends wonder why i'm afraid of commitment.
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+february 14, 2006
+
+
+
+	 
+	 israeli group announces anti-semitic cartoons contest!
+	 
+    
+
+
+amitai sandy (29), graphic artist and publisher of dimona comix publishing, from tel-aviv, israel, has followed the unfolding of the "muhammad cartoon-gate" events in amazement, until finally he came up with the right answer to all this insanity - and so he announced today the launch of a new anti-semitic cartoons contest - this time drawn by jews themselves!"we'll show the world we can do the best, sharpest, most offensive jew hating cartoons ever published!" said sandy "no iranian will beat us on our home turf!"it's the woody allen/mel brooks defense!  no one can make fun of as as well as we can ourselves!  i haven't been so happy to be jewish since the first pesakh (passover) seder after my bar mitzvah where i got to drink the four glasses of wine with real wine instead of grape juice!only the strong can laugh at themselves, and with such chutzpah too!
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+january 24, 2006
+
+
+
+	 
+	 cream of ballot soup
+	 
+    
+
+
+since i'm a gay, lefty, jewish canadian, i suppose i'm obligated to mention yesterday's canadian election.  here goes.  this is my comment on the yesterday's canadian election.  i did not eat my ballot.it had never occurred to me before that eating my ballot was a possible course of action once behind the voting piece of cardboard.  according to elections canada's frequently asked questions, a question voters frequently ask is, "is someone allowed to eat a ballot?"  i had no idea canadian voters would think to ask this - and frequently even - although it does go a long way towards explaining why the conservatives won.  many canadians are kind of stupid.the answer by the way is, "no.  it is an act of fraud to eat your ballot."  phew!  good thing i didn't eat it then!  i would have been in some trouble!normally i have to restrain myself from scribbling, "they're all fucking crooks who should be forced to watch their own campaign speeches over and over and over again!"  either that or i feel the urge to madly draw little happy faces in the circles where we're supposed to mark our "x".  however, i believe that voting is a privilege and one not to be squandered, so even though every single politician in the world remind me of that guy from high school who tried very, very hard to be popular, was treasurer of the student council, but went alone to the graduation dance - even the female politicians - i still plug my nose, avert my eyes from what i'm about to do, and vote strategically so that the worst of the bunch can't get elected.until this election, that is.  this time, i voted with my brain instead of with my fear.  i voted for a candidate i didn't think had a hope in hell of winning and for a party i would like to see in official opposition one day.  official opposition standing is a wish i used to wish for the lefty ndps until they formed a bizarre alliance with the conservatives to force this election in a cynical power grab.  good thing it paid off for them, eh.in any case, i don't agree with everything on the green's platform, but i do agree with most of it.  besides the perfect blample sog party - which would make it illegal not to offer me publishing contracts, by the way - does not exist.  if i hadn't voted this party, i would have been sorely tempted to eat my ballot.  by voting and not voting strategically, i voted for an idealistic party not corrupted by political cynicism (bye-bye ndp!), i didn't have to go home and wash off the slime immediately after voting, and i wasn't arrested after committing an apparent act of fraud.the liberals have been chastised, paul martin has stepped down as liberal leader, and the conservatives have a much smaller minority than expected (translation for those american lefties who pronounce doom and gloom without having the slightest inkling how canadian politics work:  they won the most seats in our house of commons but they don't have to most seats overall meaning that they are powerless to get anything done without the help of the other parties, which isn't too likely.  therefore, fix your own gutless democrats and then we'll chat about the downfall of the north american left).  they may try to take away same-sex marriage rights, for example, and they may actually be able to shove it through the house, but it'll never get through the senate and the courts will knock it down.  they won't be able to get anything done without the other parties and the government will fall the second one of the crazies brings up intelligent design.  i give them twelve months max.so it may be the end of the world as we know it, but i feel fine.  i'm quite happy about it all, in fact.  but i can't help wondering if ballot goes better with white wine or with red?
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+january 21, 2006
+
+
+
+	 
+	 there are other movies i'd rather see
+	 
+    
+
+
+"you haven't seen 'brokeback mountain'?"  it's the same reaction of shock and lightly simmered outrage i get when i tell people that i - a real live, fully-out-of-the-closet, multiple-hair-product-buying gay man do not swoon for martha stewart.  not do i wish i could talk and do dismissive hand movement and finger snaps like ru paul.  i may have procured myself copy of madonna's newest, but i still don't think either bette or babs have lovely, moving singing voices.  i guess that last one makes me a bad jew, too.and it's not just other fags (which is, by the way, a word that only we are allowed to use) who give this attitude over the movie.  straight people are taken aback too.  their world view appears to rest on the assumption that different people act the way they had been told that different people act, and this includes what movie you want to spend a week's wages to see:  all jews love "schindler's list" and anything by mel brooks; all blacks love "waiting to exhale" and "barbershop"; all women love "my big, fat greek, wedding" and "sleepless in seattle"; and all gays like watching two sexy guys have hot, wild, passionate sex in a tent.ok, so i guess like watching sexy guys have hot, wild, passionate sex in a tent (more than two is fine, even), especially two hot guys like heath ledger and jake gyllenhaal.  heath's broad, round features are slightly model perfect for my taste, but the sexy ozzie accent certainly raises up what his thin lips bring down.  and jake!  now there's a nice, jewish boy i could take home to my mother!  but i still don't plan to see the movie anytime soon, just like i never plan to buy a céline dion album anytime soon (ooop!  now i'm a bad canadian too!). this does not make me a bad fag.a bad fag claims masculinity and the ability to act straight (whatever that means, since both don knotts and dame edna are straight) as his highest virtues while ridiculing those ones who are firmly in touch with their feminine side.a bad queer waits until they are famous to come out (elton john, rosie o'donnell, ellen degeneres).  they turn their coming-out into such a glitzy media event that the struggle  - something the rest of us mortals go through - coming out to our families, friends, and co-workers without the piles of money the stars have to fall back on should something go wrong are about as important as mosquito bites.  a bad fag - who is certainly welcome to his political beliefs - sides with the most extreme members of his side of the political spectrum, such as jeff gannon, to the detriment of the rights of all queers and by extension, of his own.a bad fag gets married and has kids, disappears on the weekend and comes home to give his wife all sorts of enchanting infections because he's not, like, gay n'stuff so he doesn't have to worry about protecting himself from, like, aids n'shit.a bad fag never comes out.i just don't want to go see an ol' love story.  that's all.  i'm glad everyone and their eighty-year-old grandmother realise it's an important film and want to see it, and that they seem to like it too.  i'm all for that.  this flick's for them, not for me.  i'm glad they like it.  that makes me a happy fag.  i'm off to see "transamerica".
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+january 17, 2006
+
+
+
+	 
+	 neo zion
+	 
+    
+
+
+this is the kind of crap north american jews have to put up with a lot.
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+january 13, 2006
+
+
+
+	 
+	 jewish mothers
+	 
+    
+
+
+almost half of europe's jews are descended from just four women, according to a new study. [...] the four women are thought to have lived in the middle east about 1,000 years ago but they may not have lived anywhere near other, according to the study published in the american journal of human genetics.  however, they bequeathed genetic signatures to their descendents, which do not appear in non-jews and are rare in jews not of ashkenazi origin.i'm sure that close friend and main nemesis alefalef - who is sephardi whereas i am ashkenazi - is simply heartbroken that he and i are not more closely related.
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+
+
+
+	 
+	 much ado about nothing
+	 
+    
+
+
+lol!  and,like, all the bubbles in my head keep totally popping and stuff!  lol! ;)via mr v
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+
+
+
+	 
+	 food for thought
+	 
+    
+
+
+cartoon by bill schorr.
+
+
+
+illuminé clairement par moi-même
+
+
+
+
+
+
+
+
+
+
+contact
+
+some other things
+
+-=jew*school=-
+23
+albino neutrino
+americablog
+and now, josé?
+best roommate ever
+bits and bytes from elsewhere
+chan'ad bahraini
+crooks and liars
+dantallion's can[n]on
+daily show
+defective yeti
+digital closet
+giant, flying, jet-propelled penises
+gravity zero
+the huffington post
+life in alaska
+mel's musings
+my 2 second shelf life
+my long lost cousin
+neonbubble
+postsecret
+
+old stuff
+
+march 2005
+april 2005
+may 2005
+june 2005
+july 2005
+august 2005
+september 2005
+october 2005
+december 2005
+january 2006
+february 2006
+may 2006
+
+
+competing world views
+
+
+
+
+geoloc
+brought to you by
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

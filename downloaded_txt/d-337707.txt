@@ -1,0 +1,894 @@
+
+
+
+
+electrochemical instruments-galvanostat/potentiostat manufacturer gamry instruments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+english
+
+
+english
+
+
+chinese
+
+
+
+
+
+contact us
+
+
+about us
+
+
+the gamry difference
+
+
+life and times
+
+
+our team
+
+
+leader in eis
+
+
+
+support
+
+
+technical support
+
+
+software updates
+
+
+manuals
+
+
+courses and training
+
+
+contact support
+
+
+framework help
+
+
+software
+
+
+legacy devices
+
+
+system assurance
+
+
+faq's
+
+
+
+resources
+
+
+application notes
+
+
+live presentations
+
+
+shows-conferences-courses
+
+
+video library
+
+
+a potentiostat buying guide
+
+
+calculators
+
+
+white papers
+
+
+literature database
+
+
+electrochemical techniques
+
+
+
+contact us
+
+
+sales
+
+
+international sales
+
+
+speak to an electrochemist
+
+
+
+shop accessories
+instrument registration
+
+
+
+
+search our site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+potentiostats
+
+
+browse all potentiostats
+
+
+gamry pal
+
+
+interface
+
+interface 1010e
+interface 1010b
+interface 1010t
+interface 5000e
+interface 5000p
+
+
+
+reference
+
+reference 620
+reference 3000
+reference 3000 with auxiliary electrometer
+reference 30k booster
+reference 3000 & 30k booster
+
+
+
+kolibrik potentiostats
+
+ptc-0520e
+ptc-0550e
+ptc-1050ew
+ptc-05100ew
+ptc-1020e
+megaeis
+
+
+
+multichannel potentiostat
+
+
+bipotentiostat
+
+
+accessories
+
+lpi1010
+eis box
+
+
+
+
+
+electrochemical multiplexer
+
+
+quartz crystal microbalance
+
+
+eqcm 15m
+
+
+qcm-i
+
+
+qcm-i mini
+
+
+eqcm-i mini
+
+
+
+
+software/cells/accs.
+
+
+rxe 10k
+
+
+electrochemical cells
+
+1l rotating cylinder electrode cell
+dr. bob's cell
+eurocell 
+flexcell
+multiport corrosion cell kit
+paracell standard
+paracell glass body
+paracell peek ends
+ptc1
+bulk electrolysis cell kit
+portholes
+
+
+
+battery testing
+
+lithium battery materials cell
+18650 / coin cell battery holders
+universal battery holder
+pouch cell holder
+
+
+
+echem h-cells
+
+h-cells
+ptfe h-cell kit
+ptfe photo-echem h-cell
+photo ec h-cell kit
+
+
+
+electrodes
+
+working electrodes
+reference electrodes
+screen printed electrodes
+screen printed electrode stands
+
+
+
+instrument accessories
+
+tdc5 temperature controller
+faraday cage optical shield
+faraday shield
+faraday shield with conductive-glass window
+
+
+
+gamry cables
+
+
+spectro & photo electrochemistry
+
+raman glass cell kit
+raman cuvette cell kit
+dye solar cell testing
+uv-vis cuvette cell kit
+
+
+
+dye solar cell testing
+
+
+digielch software
+
+
+toolkitpy
+
+
+echem teaching kit
+
+
+
+
+applications
+
+
+cv - cyclic voltammetry technique
+
+
+electrocatalysis
+
+
+electrolysis 
+
+
+electrosynthesis - electrochemical synthesis
+
+
+electrochemical corrosion
+
+
+battery testing
+
+
+biological electrochemistry
+
+
+photovoltaics
+
+
+fuel cells
+
+
+supercapacitors   
+
+
+paints and coatings   
+
+
+sensors   
+
+
+our partners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+electrosynthesis
+electrosynthesis is a process that involves the use of a potentiostat or galvanostat to drive current through an electrochemical cell to force a chemical reaction to produce a desired product. this technique can be used to synthesize a wide range of materials and  can take place on a bench scale or on an industrial scale.
+learn more
+
+
+
+
+
+
+
+
+sensors
+most sensors are amperometric or impedimetric. gamry makes it easy for researchers to generate and analyze data from either of these sensors.
+learn more
+
+
+
+
+
+
+
+
+cyclic voltammetry
+cyclic voltammetry (cv) is an electrochemical technique widely used in various fields, including electrochemistry, sustainable engineering, corrosion, and energy.
+learn more
+
+
+
+
+
+
+
+
+supercapacitors
+testing for supercapacitors is very similar to testing of batteries, just on a faster time scale. we have a number of recommended setups for the supercapacitor researcher. 
+learn more
+
+
+
+
+
+
+
+
+electrocatalysis
+electrocatalysis is a process to enhance catalytic reaction by formation of bonds between a catalyst and an electrode or optimizing reaction pathways of the target reaction.
+learn more
+
+
+
+
+
+
+
+
+fuel cells
+gamry provides several systems for fuel cell development and testing. we also include tools designed to improve data analysis and workup.
+learn more
+
+
+
+
+
+
+
+
+electrolysis
+the electrolysis process involves the use of a galvanostat to push electrical current through an electrochemical cell to drive a non-spontaneous chemical reaction. the electrochemical cell contains an electrolyte with ions and molecules which can undergo a chemical reaction. this chemical reaction produces a product of interest.
+learn more
+
+
+
+
+
+
+
+
+photovoltaics
+photovoltaic researchers looking for complete solution will find gamry’s imps/imvs quite capable of helping the researcher find the answers they need.
+learn more
+
+
+
+
+
+
+
+
+biological electrochemistry
+gamry provides a suite of flexible electrochemical tools to generate new potential  waveforms needed for cutting edge biological applications. from electrical stimulation of whole cells and tissue to bioelectrochemistry. gamry enables next gen researchers to make accurate electrochemical measurements.
+learn more
+
+
+
+
+
+
+
+
+coatings
+our paints and coatings customers have told us that ease of use and reduced acquisition time are the most important features for their research.
+learn more
+
+
+
+
+
+
+
+
+battery testing
+gamry potentiostats are well suited for battery testing of materials to coin cells, and all the way to large format cells. we even have a system for stack testing. all of our potentiostats are electrically isolated from earth-ground.
+learn more
+
+
+
+
+
+
+
+
+corrosion
+gamry has been at the forefront of electrochemical corrosion testing since our inception since 1989. our customers have told us that ease of use and reduced acquisition time are the most important features for their research.
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rapid, high-current pulsing  superior, low-impedance eis
+reference 30k booster
+
+
+
+
+
+
+
+
+    high accuracy eis
+learn more
+
+
+
+
+
+
+gamry is global
+gamry has permanent offices in europe and china that assist in ourglobal operations. we work with our distributor networkto help support our users abroad.
+view our internatioal page
+
+
+
+
+
+
+eqcm 15 m
+the eqcm 15m adds a valuable tool in the analytical toolbox of anyone investigating interfacial processes that produce mass changes. corrosion, ion intercalation, ion adsorption, polymer growth, and sensor binding events are all interfacial processes.
+get the specs
+
+
+
+
+
+
+open-source scripting for easy customization, supporting unique experiments and set-ups.
+gamry instruments has long given you the ability to modify your standard experiments as needed, or even develop your own experiments. all of our experimental scripts are written using an open-source scripting language, developed by gamry, called explain™.
+learn more
+
+
+
+
+
+
+gamry's unique advantages
+given all the advantages listed for gamry instruments potentiostats, why would you choose another instrument for your electrochemical work?
+see the advantages
+
+
+
+
+
+
+
+
+
+higher accuracy as demonstrated by accuracy contour plots.
+the accuracy contour plot gives you valuable information about a potentiostat’s eis performance and accuracy. it allows you to compare the electrochemical impedance spectroscopy capability of any potentiostat.
+learn more
+
+
+
+
+
+resources
+
+
+
+application notes
+
+
+
+
+
+
+
+product support
+
+
+
+
+
+
+
+upcoming events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+compact, portable potentiostat
+the gamry pal is the size of a typical usb flash drive and pairs with small screen printed electrodes to make a complete electrochemical test station that can fit in your pocket.software is included!analyze voltammograms or export directly into gamry’s echem analyst 2.
+get the specifications
+
+
+
+
+
+sign in
+
+
+
+
+
+
+market applications
+
+
+
+electrosynthesis
+
+
+electrochemical synthesis is a process that involves the use of a potentiostat or galvanostat to drive current through an electrochemical cell to force a chemical reaction to produce a desired product. 
+
+
+
+
+
+
+cyclic voltammetry
+
+
+cyclic voltammetry (cv) is an electrochemical technique widely used in various fields, including electrochemistry, sustainable engineering, corrosion, and energy.
+
+
+
+
+
+
+biological electrochemistry
+
+
+gamry provides a suite of flexible electrochemical tools to generate new potential waveforms needed for cutting edge biological applications. from electrical stimulation of whole cells and tissue to bioelectrochemistry, gamry enables next gen researchers to make accurate electrochemical measurements.
+
+
+
+
+
+
+battery testing
+
+
+gamry’s potentiostats are well suited for battery testing of materials to coin cells and all the way to large format cells.  we even have a system for stack testing.  all of our potentisotats are electrically isolated from earth-ground.
+
+
+
+
+
+
+electrolysis
+
+
+electrolysis is a process that involves the use of a galvanostat to push electrical current through an electrochemical cell to drive a non-spontaneous chemical reaction
+
+
+
+
+
+
+corrosion
+
+
+gamry has been at the forefront of electrochemical corrosion testing since our inception in 1989.  our customers have told us that ease of use and reduced acquisition time are the most important features for their research.
+
+
+
+
+
+
+electrocatalysis
+
+
+in an electrocatalytic process, the catalyst itself remains unchanged at the end of the reaction, allowing it to participate repeatedly in the reaction cycle. 
+
+
+
+
+
+
+photovoltaics
+
+
+photovoltaic researchers looking for a complete solution will find gamry's imps/imvs quite capable of helping the researcher find the answers they need.
+
+
+
+
+
+
+fuel cells
+
+
+gamry provides several systems for fuel cell development and testing.  we also include tools designed to improve data analysis and workup.  
+
+
+
+
+
+
+supercapacitors
+
+
+testing for supercapacitors is very similar to testing of batteries, just on a faster time scale.  we have a number of recommended setups for the supercapacitor researcher.
+
+
+
+
+
+
+paint & coatings
+
+
+our paints and coatings customers have told us that ease of use and reduced acquisition time are the most important features for their research.
+
+
+
+
+
+
+sensors
+
+
+most sensors are amperometric or impedimetric.  gamry makes it easy for researchers to generate and analyze data from either of these sensors. 
+
+
+
+
+
+
+
+
+
+
+like us on facebook
+follow us on 𝕏
+connect with us on linkedin
+follow us on instagram
+check our our youtube channel
+find us on itunes
+view our google my business page
+
+
+
+home office
+					734 louis drive
+					warminster, pa 18974
+					p: 215-682-9330
+
+
+
+
+about gamry
+
+life & times
+our team
+privacy policy
+
+
+
+applications
+
+battery testing
+electrochemical synthesis
+corrosion
+
+
+
+application notes
+
+impedance spectroscopy
+battery research
+corrosion/coatings
+
+
+
+latest news
+
+general news
+shows & conferences
+careers
+
+
+
+contact us
+
+sales
+tech support
+find a distributor
+
+
+
+online store
+
+create account
+login
+accessory quote
+
+
+
+
+copyright © 2025 gamry.com
+					
+						website design by iqnection digital marketing
+					
+				
+
+
+
+
+
+
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+find location
+
+
+
+
+
+
+
+
+
+
+
+this site uses cookies. you can read how we use them in our privacy policy.
+close
+
+
+
+
+
+
+
+

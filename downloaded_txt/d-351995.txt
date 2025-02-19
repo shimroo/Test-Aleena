@@ -1,0 +1,20 @@
+
+
+
+
+virtualserver huoltotila
+
+
+
+
+
+
+verkkotunnus ohjaa palvelimellemme
+sitä ei kuitenkaan ole vielä konfiguroitu käyttöön.
+kysyttävää?
+        palvelemme arkisin 8-17
+        kaikki tukipyynnöt myös mynebula-portaalista osoitteesta my.nebula.fi
+
+
+
+

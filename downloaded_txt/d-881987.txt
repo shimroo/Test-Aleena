@@ -1,0 +1,550 @@
+
+
+
+
+
+
+
+
+
+
+home | ifax solutions : hylafax enterprise fax server software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ call now: 1-800-332-9750
+
+
+customer service
+
+shipping and returns
+privacy policy
+terms and conditions
+
+
+my account
+
+0 items
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+shop
+
+hylafax software
+
+hylafax enterprise
+hylafax installation package
+hylafsp
+hylasap
+
+
+fax boards
+
+mainpine fax boards
+dialogic fax boards
+
+
+fax servers
+
+entry level hylafax enterprise turnkey fax server
+mid-level hylafax enterprise turnkey server
+enterprise hylafax server
+
+
+faxing accessories
+my account
+cart
+checkout
+
+
+products
+
+hylafax software
+
+hylafax enterprise
+
+download free trial
+overview
+fax over ip
+desktop faxing
+fax routing
+apis & sdks
+brooktrout support
+clustering
+system requirements
+pricing
+customers
+
+
+hylafax open source
+hylafsp
+hylasap
+hylafax lite
+
+
+fax boards
+
+mainpine fax boards
+dialogic fax boards
+
+
+turnkey fax servers
+
+
+downloads
+
+software
+product documentation
+
+
+support
+
+get support now
+hylafax enterprise support
+hylafax open source support
+hylafax per-incident support
+product documentation
+
+
+company
+
+about us
+customers
+strategic partners
+resellers
+inc. 500
+careers
+
+
+contact
+
+sales inquiries
+support inquires
+general inquiries
+
+
+ 
+
+
+
+
+
+select page
+
+
+  
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hylafax enterprise is 
+							hylafax enterprise is the preferred fax platform for top businesses as well as the most robust, stable, and scalable fax platform available. 
+							learn more 
+							download free trial 
+							robust. 
+							 
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+what we do…
+we are a comprehensive fax solution provider. we help our customers plan, build and deploy highly-available, high-performance fax infrastructure using a combination of our hylafax software and the industry’s leading hardware and/or virtual fax devices.
+
+fax software
+first and foremost, we are a software company. our flagship product is hylafax enterprise, an industrial-grade fax server for linux systems. we also offer a full suite of add-ons that help you make the most of hylafax, including print-to-fax drivers, smtp gateways for fax-to-email and email-to-fax, ios clients for controlling hylafax from mobile devices, a connector for sap’s erp system and a variety of apis for interacting with hylafax.
+learn moreshop fax software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fax hardware
+we sell a variety of hylafax-compatible fax hardware from manufacturers such as dialogic brooktrout, mainpine and audiocodes. we’ve invested years of research and have selected only the best, most compatible hardware so that you can be assured it will interoperate seamlessly with hylafax and provide the exceptional call quality and low fax error rates you’ve been looking for.
+learn moreshop fax hardware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+delivering superior software, hardware, support and service since 2001.
+ 
+
+contact sales
+
+
+
+
+
+
+
+key benefits
+
+
+
+
+stability & performance
+hylafax enterprise was written with industrial-scale faxing in mind. it is a very mature software product that runs on the legendarily stable linux operating system. consequently, it can manage several hundred ‘modem’ devices and queue backlogs of millions of jobs on a single server without breaking a sweat, and it can do so for years without a reboot.
+
+
+
+
+
+
+fax over ip
+the voice industry is undergoing a revolution. circuit-switched (tdm/pots) voice networks are being replaced by packet-switched (voip/sip) networks at a feverish pace. unfortunately, it’s not possible to fax reliably over those shiny new voip/sip circuits! the t.38 fax over ip (foip) protocol was invented to address this problem, and hylafax enterprise includes dialogic’s legendary and industry-leading “sr140” t.38 sip stack/driver to achieve call completion rates that rival the pstn.
+
+
+
+
+
+
+virtualization
+in the past, fax servers have needed a physical (card-based) interface to the pstn, generally in the form of a pci-based interface card. software-based modems that deliver audio and t.38 packets over a network connection mean we no longer need to use physical fax boards, and so hylafax can be virtualized. we support a wide range of hypervisors (vmware, hyper-v, kvm and others) and we even offer an amazon aws image for those who wish to be 100% cloud-based.
+
+
+
+
+
+
+open architecture 
+hylafax enterprise’s open source roots have led to a very open and exposed client/server architecture with a myriad of hooks/interfaces that can be used to integrate into almost any application. you can even replace the standard send & receive helper scripts with your own, so there’s essentially no limit to what you can ask hylafax to do with a sent or received fax. hylafax’s client/server api also offers automation of many aspects of the server’s operation and has been implemented in perl, java, .net and others.
+
+
+
+
+
+
+expert support
+we don’t just support the product, … support is the product! we sell a highly technical product that is often deployed in mission-critical environments and we understand that you need expert support on your very first call. our support is 100% domestic and you’ll never be more than 2 levels of escalation away from the engineers who write the software. we strive for first call resolution whenever possible and achieve this by staffing the front lines with highly experienced hylafax experts who will use science, not superstition, to resolve your problems.
+
+
+
+
+
+
+
+
+
+the ifax difference…
+ifax solutions is a worldwide leader in providing enterprise fax solutions. as faxing has evolved, from individual fax machines in small offices to large corporate installations sending thousands of faxes an hour, fax software has evolved with it. ifax solutions looks to take this evolution to the next level – by combining the revolutionary open source fax software hylafax with industry-leading hardware, service and support.
+ 
+
+about us
+
+
+
+
+
+
+
+our customers...
+these are just some of our awesome customers!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view them all
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+products
+hylafax enterprise
+hylafsp
+hylasap
+hylafax lite
+fax boards
+turnkey fax servers
+customer service
+shopping cart
+my account
+checkout
+shipping and returns
+privacy policy
+terms and conditions
+company
+about us
+customers
+strategic partners
+resellers
+inc. 500
+careers
+connectsales and support
+1-800-332-9750
+local
+1-215-825-8700
+
+
+ 
+
+
+
+© 2024 ifax solutions - where hylafax means business 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

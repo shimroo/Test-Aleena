@@ -1,0 +1,444 @@
+
+
+
+excel tips & solutions since 1998 - mrexcel publishing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                home        	
+
+
+
+
+                                message board        	
+
+
+
+
+                                ask bill twinbox        	
+
+
+
+
+                                excel speaker        	
+
+
+
+
+                                bookstore        	
+
+
+
+
+                                excel tips        	
+
+
+
+
+                                news        	
+
+
+
+ resources                
+
+
+
+
+                                                                excel mall                        	
+
+
+
+
+                                                                techtv                        	
+
+
+
+
+                                                                challenges                        	
+
+
+
+
+                                                                learn excel                        	
+
+
+
+
+                                                                archive                        	
+
+
+
+
+
+ about                
+
+
+
+
+                                                                about mrexcel                        	
+
+
+
+
+                                                                authors                        	
+
+
+
+
+                                                                consulting                        	
+
+
+
+
+                                                                media kit                        	
+
+
+
+
+                                                                media                        	
+
+
+
+
+                                                                job postings                        	
+
+
+
+
+                                                                contact us                        	
+
+
+
+
+                                                                terms of use                        	
+
+
+
+
+                                                                privacy policy                        	
+
+
+
+
+                                                                cookies policy                        	
+
+
+
+
+
+
+                                search        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bill jelen
+mrexcel
+
+
+
+
+
+                    explore mrexcel.com
+a wealth of excel knowledge at your fingertips...
+
+
+
+
+
+
+
+excel t-shirts
+
+
+
+
+excel coffee mugs
+
+
+
+
+
+
+
+power excel newsletter
+
+subscribe for excel tips »
+1 - 2 times per month
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    	excel 2024: the advanced filter treats criteria as "begins with"    
+
+
+		february 17, 2025					- by bill jelen 
+
+  
+
+check out this simple use of advanced filter. you are asking for all rows with the product of apple to be copied to the output range.
+
+
+
+continue reading »
+
+more reading
+
+
+
+
+
+  
+
+
+excel 2024: circle invalid data automatically »
+
+
+                        february 10, 2025                                                    - by bill jelen                                            
+
+you have some numbers in a worksheet. those cells should be between 60 and 90 inclusive.
+
+
+
+
+
+
+  
+
+
+excel 2024: temporarily make formula bar font size larger »
+
+
+                        february 5, 2025                                                    - by bill jelen                                            
+
+say you have a zoom or teams call and you temporarily need to make the font size in the formula bar larger.
+
+
+
+
+
+
+  
+
+
+excel 2024: avoid whiplash with speak cells »
+
+
+                        january 30, 2025                                                    - by bill jelen                                            
+
+one of the painful parts about keying in data is that you have to proofread the numbers. so, you are looking at the sheet of paper, then the screen, then the paper, then the screen. you will end up with a sore neck. wouldn't it be nice if you had someone to read you the screen so you can keep your eye on the paper? it's built in to excel.
+
+
+
+
+
+read more articles »
+
+featured products
+
+
+
+
+
+  
+
+
+
+microsoft 365 excel: the only app that matters
+
+june 2022
+excel worksheet, power query, power pivot, power bi. calculations, analytics, modeling, data analysis and dashboard reporting for the new era of dynamic data driven decision making & insight!
+
+
+
+
+  
+
+
+
+programming powerpoint with vba
+
+february 2022
+this book assumes you already use powerpoint and want to automate or enhance your presentations using visual basic for applications (vba). this book includes vba samples for working with layouts, themes & masters, creating tables, drawing objects, charting, animation effects and event programming.
+
+
+
+
+  
+
+
+
+microsoft excel pivot table data crunching (office 2021 and microsoft 365)
+
+december 2021
+use microsoft 365 excel and excel 2021 pivot tables and pivot charts to produce powerful, dynamic reports in minutes: take control of your data and your business!
+
+
+
+
+  
+
+
+
+mrexcel 2024 igniting excel
+
+february 2024
+this is the 7th edition of mrexcel xl. updates for 2024 include: remove filter items using search box, the consolas font makes it easy to tell zero from the letter o, display online pictures in a cell using a formula, place pictures in cell from local computer, using artificial intelligence with copilot for excel, and more...
+
+
+
+
+
+see more products »
+ 
+
+  featured product guerrilla data analysis using microsoft excel - 3rd edition     
+
+
+
+
+
+
+
+
+
+
+
+mrexcel.com debuted on november 21, 1998.
+
+                mrexcel.com provides examples of formulas, functions and visual basic procedures
+                for illustration only, without warranty either expressed or implied, including
+                but not limited to the implied warranties of merchantability and/or fitness for
+                a particular purpose. the formulas, functions and visual basic procedures on this
+                website are provided "as is" and we do not guarantee that they can be used in all
+                situations.
+                this site contains affiliate links. any affiliate commissions that we
+                earn when you click a link to amazon or other sites is reinvested in keeping mrexcel.com
+                running. you can earn a commission for sales leads that you send to us by joining our
+                affiliate program.
+            
+
+                view our privacy policy, cookies policy, and terms of use.
+                
+"do not share my personal information"
+
+
+                excel ® is a registered trademark of the microsoft corporation.
+            
+
+                mrexcel ® is a registered trademark of tickling keys, inc.
+            
+
+                all contents © 1998 - 2025 mrexcel publishing | all rights reserved.
+            
+
+
+
+
+
+ 
+

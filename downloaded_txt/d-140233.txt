@@ -1,0 +1,500 @@
+
+
+
+
+
+vandyke software: secure shell solutions - secure file transfer, secure terminal emulation, ssh, ssh2, sftp, ftp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+
+
+
+
+securecrt
+features
+securecrt for windows
+securecrt for macos
+securecrt for linux
+securecrt for ios
+videos
+history
+pricing
+system requirements
+
+
+
+
+
+
+securefx
+features
+securefx for windows
+securefx for macos
+securefx for linux
+videos
+history
+pricing
+system requirements
+
+
+
+
+
+
+vshell server
+features
+videos
+history
+faqs
+pricing
+technical resources
+system requirements
+
+
+
+
+
+
+download
+purchase
+support
+about us
+contact
+
+
+
+
+
+
+
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+
+home
+
+products
+
+
+securecrt
+
+features
+securecrt for windows
+securecrt for macos
+securecrt for linux
+securecrt for ios
+videos
+history
+pricing
+system requirements
+
+
+
+securefx
+
+features
+securefx for windows
+securefx for macos
+securefx for linux
+videos
+history
+pricing
+system requirements
+
+
+
+vshell server
+
+features
+videos
+history
+faqs
+pricing
+technical resources
+system requirements
+
+
+
+
+download
+purchase
+support
+about us
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we listen.then we make software better.®
+productivity. security. confidence.vandyke software helps you achieve the right balance between strong security and easy access to the network from anywhere… at any time.
+
+secure remote access for it and end users
+maintain and configure your servers, routers, and network services
+secure file transfer with fine-tuned control
+route critical data through a secure tunnel
+
+learn more
+
+
+
+
+
+
+
+
+
+
+ 
+got a question or comment?   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+securecrt®
+
+
+rock-solid terminal emulation
+advanced session management
+multi-protocol support
+
+
+learn moretry itbuy it
+
+
+
+
+
+
+
+securefx®
+
+
+secure file transfer client
+site synchronization
+sftp, ftps (ftp/tls), https, scp, and ftp
+
+
+learn moretry itbuy it
+
+
+
+
+
+
+
+vshell® server
+
+
+transfer files securely
+automate file processing
+set up and configure easily
+
+
+learn moretry itbuy it
+
+
+
+
+
+
+
+
+
+
+
+
+try before you buy
+every release can be evaluated free of charge.
+
+
+
+
+view downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+i need to…
+
+
+
+
+use the same remote access software on macos, linux, and windows.
+get a commercially supported linux secure shell server.
+have secure terminal emulation for my macos systems.
+replace nonsecure telnet.
+replace nonsecure ftp.
+replace procomm.
+comply with fips 140-2.
+securely transfer files with simple drag and drop.
+connect from the road to check email.
+remotely access machines over the internet.
+allow users to transfer files with limited access.
+lock down my firewall.
+automate or script secure file transfers.
+protect my private data.
+use strong data encryption.
+connect using a variety of terminal emulations.
+synchronize file systems with remote servers.
+automate routine tasks.
+set up a dmz drop zone and allow users to transfer files with limited access.
+
+
+not finding what you need?
+contact us
+
+
+
+
+
+visit the vandyke software youtube channel
+how-to videos highlight time-saving features of vandyke software products.
+watch videos
+
+
+
+
+
+
+
+
+
+
+
+
+customer testimonials
+
+
+
+
+
+"thanks for the new feature and for the notification that it had been added — i don't really know of any other developer that notifies people who have given feedback like you guys do. that makes for very happy customers."
+
+
+                                            —burt heymanson, securecrt customer
+                                        
+
+
+
+
+
+"i would like to thank you for the amazing quality of service and securecrt support you give to us."
+
+
+                                            —anton starovoytov, solarix networks, securecrt customer
+                                        
+
+
+
+
+
+"thank you for a great release! i've been actively using securecrt for many, many years and it's simply the best ssh client in existence!"
+
+
+                                            —rich tricoche, securecrt customer 
+                                        
+
+
+
+
+
+
+
+
+
+
+
+read more about vandyke customers 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+securecrt
+securefx
+vshell server
+beta software
+
+
+
+downloads
+
+securecrt
+securefx
+vshell server
+previous releases
+
+
+
+purchase
+
+purchase online
+license pricing
+upgrades
+orders faq
+resellers
+
+
+
+support
+
+evaluation
+updates policy
+faqs
+tips & how-tos
+
+
+
+about us
+
+contact
+press releases
+customer stories
+secure solutions
+
+
+
+
+
+
+
+
+
+
+
+securecrt®, securefx®, vshell®, entunnel®, absoluteftp®, basepoint®, we listen. then we make software better.®, vandyke software®, and the vandyke software logo are trademarks or registered trademarks of vandyke software, inc. in the united states and/or other countries. all other trademarks or registered trademarks are the property of their respective owners.copyright © 1995 -  vandyke software, inc. all rights reserved.
+
+site map
+legal notices
+privacy policy
+manage cookies
+refund policy
+
+
+
+
+
+
+
+
+
+vandyke software uses cookies to give you the best online experience. before continuing to use this site, please confirm that you agree to our use of cookies. please see our cookie usage for details.
+
+
+
+
+i agree
+
+continue
+edit cookie settings
+
+
+
+
+
+manage our use of cookies
+here you can control cookies using the checkboxes below. some cookies are essential for the use of our website and cannot be disabled. others provide a convenience to the user and, if disabled, may reduce the ease of use of our site. finally, some cookies provide anonymous analytic tracking data that help us provide the user with a richer browsing experience. you can elect to disable these cookies as well.
+
+cookie type
+
+
+
+cancel
+save
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,139 @@
+
+
+isle home page
+
+
+
+
+
+
+
+  institute for the study of learning and expertise
+			  2164 staunton court
+			  palo alto, california 94306
+			  (650) 494-3884   (voice)
+			  (650) 725-2166   (fax)
+			 
+
+
+
+
+the institute for the study of learning and expertise (isle) is a
+nonprofit organization dedicated to research and education in machine
+learning, artificial intelligence, and cognitive science. isle is
+supported by grants from the national
+science foundation, the defense 
+advanced research projects agency, and 
+nasa ames research center. these grants support research on transfer of
+learned knowledge, computational aides for scientific discovery in 
+biology and earth science, and learning from traces of expert behavior. 
+
+isle has ongoing collaborations with researchers 
+at stanford university, 
+the center 
+for computational astrobiology at nasa ames research center, 
+and bbn technologies. 
+isle has especially close ties with stanford's 
+
+center for the study of language and information, 
+where isle researchers also serve as members of the 
+computational learning
+laboratory. 
+
+ongoing research projects
+
+ 
+     computational induction of scientific process models
+ 
+     a cognitive architecture for physical agents
+
+
+completed research projects
+
+ 
+     adaptive interfaces for crisis response
+ 
+     discovering regulatory models from expression data
+ 
+     machine learning for image analysis
+ 
+     map learning for mobile robotics
+ 
+     monitoring and anomaly detection in temporal domains
+
+current isle staff
+
+ pat langley
+ daniel shapiro
+
+isle research affiliates
+
+ dorrit billman
+ will bridewell
+ dongkyu choi
+ ed katz
+ stephanie sage
+ jeff shrager
+
+previous isle staff
+
+ kamal ali
+ nima asgharbeygi
+ stephen bay
+ 
+     richard billington
+ stuart borrett
+ michael chen
+ lonnie chrisman
+ kirstin cummings
+ christine desmarais
+ tom fawcett
+ melinda gervasio
+ richard graul
+ wayne iba
+ tolga konik
+ kevin leung
+ mark maloof
+ xumei wang marker
+ michael morgan
+ rich morin
+ sally mouzon
+ negin nejati
+ paul o'rorke
+ chunki park
+ karl pfluger
+ steve racunas
+ seth rogers
+ oren shiran
+ david stracuzzi
+ stefan tang
+ son to
+ ljupco todorovski
+ nishant trivedi
+ brian yamauchi
+ jiang xuan
+ jungsoon yoo (sabbatical visitor)
+
+other information
+
+ publications and technical reports
+ isle-related meetings
+ location and directions
+
+
+
+
+
+
+ © 1998 institute for the study of learning and expertise.
+all rights reserved.
+
+
+
+
+
+webmaster@isle.org
+
+
+
+

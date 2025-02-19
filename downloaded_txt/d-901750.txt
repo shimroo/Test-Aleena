@@ -1,0 +1,197 @@
+
+
+
+
+
+
+
+
+
+
+
+downtown art
+
+warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'front_page_scripts' not found or invalid function name in /home/downtownart/public_html/wp-includes/class-wp-hook.php on line 308
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+					go to the home page of downtown art				
+ 
+
+
+downtown art
+
+
+menu
+programs
+
+current projects
+commissions & residencies
+lower east side projects
+calendar
+
+
+space
+
+shared space program
+how to apply
+
+
+about
+
+mission
+people
+support
+contact
+
+
+ 
+
+
+
+
+
+notice:  function wp_scripts::localize was called incorrectly. the $l10n parameter must be an array. to pass arbitrary data to scripts, use the wp_add_inline_script() function instead. please see debugging in wordpress for more information. (this message was added in version 5.7.0.) in /home/downtownart/public_html/wp-includes/functions.php on line 5835
+
+
+
+
+
+
+loving east 4th street - our block since 1990
+
+
+
+
+
+community organizing and cultural events at dta
+
+
+
+ 
+
+
+we share our space with artists addressing equity, diversity and civic engagement
+
+
+
+
+
+music and friends in the rear yard:  dtheart
+
+
+
+ 
+
+
+artist commissions and residencies
+
+
+
+
+
+ 
+downtown art:  advancing the practice of civically engaged artists by providing opportunities to create, share, learn, gather, and build partnerships
+
+please stay home and stay well.  we look forward to being together one day not to long from now.
+
+
+
+
+featured programs
+    commissions & residencies   lower east side programs   current projects       
+
+
+
+
+
+facebookinstagramtwitteryoutube
+
+
+
+
+
+
+                    © 2025 downtown art, all rights reserved			 | 
+                        website by t. orlandini                        70 east fourth street  new york, ny 10003 | info@downtownart.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,453 @@
+
+
+
+
+
+
+
+
+
+
+
+the gnu operating system and the free software movement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main text
+
+
+
+
+
+
+
+
+
+free software supporter:
+  
+
+
+
+
+join the fsf
+
+
+
+
+
+gnu operating system
+supported by the
+ free software foundation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+site navigation
+skip
+
+about gnu
+philosophy
+licenses
+education
+software
+distros
+docs
+malware
+help gnu
+audio & video
+gnu art
+fun
+gnu's who?
+software directory
+hardware
+sitemap
+
+
+
+
+
+
+gnu is the only operating system developed
+specifically to give its users freedom.  what is gnu, and what freedom
+is at stake?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+escape to freedom: a video from the fsf
+what is gnu?
+gnu is an operating system that
+is free software—that is,
+it respects users' freedom.  the gnu operating system consists of gnu
+packages (programs specifically released by the gnu project) as well
+as free software released by third parties.  the development of gnu
+made it possible to use a computer without software that would trample
+your freedom.
+we recommend installable
+versions of gnu (more precisely, gnu/linux distributions) which
+are entirely free software.  more about gnu
+below.
+
+try gnu/linux
+
+
+
+
+
+dragora 3.0-beta2 with tde
+desktop
+
+
+
+
+dragora / tde
+
+
+
+guix / gnome3
+
+
+
+hyperbola / i3
+
+
+
+parabola / lxde
+
+
+
+pureos / gnome3
+
+
+
+trisquel / mate
+
+
+
+... or 
+try parts of gnu
+
+what is the free software movement?
+the free software movement campaigns to win for the users of
+computing the freedom that comes from free software.  free software
+puts its users in control of their own computing.  nonfree software
+puts its users under the power of the software's developer.  see
+
+the video explanation.
+what is free software?
+free software means the users have the freedom to run,
+copy, distribute, study, change and improve the software.
+free software is a matter of liberty, not price.  to understand the
+concept, you should think of “free” as in “free
+speech,” not as in “free beer.”
+more precisely, free software means users of a program have
+the four essential
+freedoms:
+
+the freedom to run the program as you wish,
+    for any purpose (freedom 0).
+the freedom to study how the program works, and change it so it
+    does your computing as you wish (freedom 1). access to the source
+    code is a precondition for this.
+the freedom to redistribute copies so you can help others
+    (freedom 2).
+the freedom to distribute copies of your modified versions
+    to others (freedom 3).  by doing this you can give the whole
+    community a chance to benefit from your changes.
+    access to the source code is a precondition for this.
+
+developments in technology and network use have made these freedoms
+even more
+important now than they were in 1983.
+nowadays the free software movement goes far beyond developing the
+gnu system.  see the free software
+foundation's web site for more about what we do, and a list
+of ways you can help.
+more about gnu
+gnu is a unix-like operating system.  that
+means it is a collection of many programs: applications, libraries,
+developer tools, even games.  the development of gnu, started in
+january 1984, is known as the gnu project.  many of the programs in
+gnu are released under the auspices of the gnu project; those we
+call gnu packages.
+the name “gnu” is a recursive acronym for “gnu's
+not
+unix.” “gnu”
+is pronounced g'noo, as one syllable, like saying
+“grew” but replacing the r with n.
+the program in a unix-like system that allocates machine resources
+and talks to the hardware is called the “kernel.”  gnu is
+typically used with a kernel called linux.  this combination is
+the gnu/linux operating
+system.  gnu/linux is used by millions, though
+many call it “linux” by
+mistake.
+gnu's own kernel, the gnu hurd,
+was started in 1990 (before linux was started).  volunteers continue
+developing the hurd because it is an interesting technical
+project.
+more information
+
+
+
+
+
+the gnu project strongly urges the community to communicate in 
+ways that are friendly, welcoming and kind. see the 
+
+gnu kind communications guidelines.
+
+
+
+as we enjoy great advantages from the inventions of others, we should be
+glad of an opportunity to serve others by any invention of ours, and this we
+should do freely and generously. —benjamin
+franklin, autobiography
+
+
+
+planet gnu
+
+
+
+
+free software directory meeting on irc: friday, february 14, starting at 12:00 est (17:00 utc):
+ join the fsf and friends on friday, february 14 from 12:00 to 15:00 est (17:00 to 20:00 utc) to...
+
+
+fsf talked about education, copyright management, and free machine learning at fosdem 2025:
+ four fsf staff members had a great time sharing their knowledge and learning at fosdem 2025 in brus...
+
+
+i â¥ free software day 2025: let's celebrate the people who make and maintain free software:
+ let's celebrate the people behind free software and tell them how much we appreciate their...
+
+
+
+
+take action
+
+support current fsf
+campaigns.
+sign the petition
+for freedom in the classroom.
+join the 
+copilot watch group.
+
+more action items
+
+
+can you help gnu with any of these projects?
+
+gnu high priority enhancement projects
+free program to subtract 
+background music
+
+
+
+
+can you contribute to any of
+the long-term 
+high priority projects?
+
+
+can you help maintain a gnu package? 
+these packages are looking for maintainers:
+
+
+cfengine,
+  halifax,
+  quickthreads,
+  guile-sdl,
+  superopt
+
+also, these packages are looking for co-maintainers:
+
+
+aspell,
+  bison,
+  gnuae,
+  gnubik,
+  metaexchange,
+  powerguru,
+  xboard.
+
+see the package web pages for more information.
+
+
+recent gnu
+releases
+short descriptions for all gnu
+packages
+today's random package…
+
+
+
+
+
+
+
+nano-archimedes
+nano-archimedes is a free package for the simulation of quantum systems.
+it is based on the wigner equation, a formulation of quantum mechanics
+in terms of a phase-space which is mathematically equivalent to the
+schroedinger equation.  nano-archimedes implements the wigner monte
+carlo method.  the code can be easily extended to density functional
+theory (dft) and time-dependent ab-initio simulations.
+(doc)
+
+
+
+
+
+
+
+
+
+
+
+
+▲
+
+
+
+back to top
+
+
+
+
+   set language
+   
+
+
+available for this page:
+
+
+[en] english  
+[de] deutsch  
+[es] espaã±ol  
+[fa] ùø§ø±ø³û  
+[fr] franã§ais  
+[it] italiano  
+[ja] æ¥æ¬èª  
+[nl] nederlands  
+[pt-br] portuguãªs  
+[ru] ññññðºð¸ð¹  
+[sq] shqip  
+[tr] tã¼rkã§e  
+[zh-cn] ç®ä½ä¸­æ  
+[zh-tw] ç¹é«ä¸­æ  
+
+
+
+
+
+
+
+back to top ▲
+
+
+
+
+“the free software foundation (fsf) is a nonprofit with a worldwide
+mission to promote computer user freedom. we defend the rights of all
+software users.”
+
+
+join
+donate
+shop
+
+
+
+the fsf also has sister
+organizations in europe, latin america and india.
+feel free to join them!
+
+
+please send general fsf & gnu inquiries to
+<gnu@gnu.org>.
+there are also other ways to contact
+the fsf.  broken links and other corrections or suggestions can be sent
+to <webmasters@gnu.org>.
+
+please see the translations
+readme for information on coordinating and contributing translations
+of this article.
+
+
+copyright © 1996-2025 free software foundation, inc.
+this page is licensed under a creative
+commons attribution-noderivatives 4.0 international license.
+
+
+copyright infringement notification
+
+
+
+
+updated:
+
+$date: 2025/01/26 12:55:46 $
+
+
+
+
+
+

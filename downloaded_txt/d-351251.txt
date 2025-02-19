@@ -1,0 +1,386 @@
+
+
+mud & phud
+
+
+
+
+
+
+
+    <$blogrsdurl$>
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+abbr, acronym {
+  cursor: help;
+  font-style: normal;
+  font-weight:bold;
+  color: #2a548d;
+  /*border-bottom: 1px solid; */
+  }
+
+
+
+mud & phud
+half of what we are going to teach you is wrong.  
+unfortunately, we don’t know which half.
+--unknown
+
+
+
+
+
+
+eminent domain stuff
+
+new london update (2/24/06)
+
+bad nldc!
+
+coverage of the rally at new london's city hall (w/ pics)
+
+
+tuesday, june 13, 2006
+ 
+english only
+
+does anyone else see the humor in this controversy?one of south philadelphia's biggest names in cheesesteaks is in a bit of a legal pickle for a lunch-line political statement against immigrants who don't speak english.the city's commission on human relations yesterday filed a discrimination complaint against geno's steaks over signs that read: "this is america ... when ordering speak english."as yet i cannot find a picture of this sign anywhere online.  however, in each and every published account i have seen, the same quote is given...in english.  am i the only one who finds this funny?
+
+permalink, posted by tom : 9:57 am
+ | 
+
+tuesday, june 06, 2006
+ 
+bad news
+
+but not unexpected:new london, conn. --city officials voted monday night to begin eviction proceedings against residents who refuse to leave their riverfront homes, signaling the end may be near in an eminent domain dispute that reached the u.s. supreme court.the city council approved the action 5-2, authorizing the city attorney to take the necessary steps, including possible court action, to evict the remaining two families and obtain the properties. a lawyer for the families said they are considering continuing their battle with the city.at this point there are only two people still fighting this thing, susette kelo and michael cristofaro as william von winkle agreed to settle just prior yesterday's meeting (of all people, i don't blame him as his son was recently killed).i don't know what's going to happen now.  it's entirely possible that civil disobedience (as scott bullock suggests in the article) might crystallize.  if it does, there will certainly be arrests (there's the potential for violence) and maybe, just maybe the city will relent.  but even if the city backs down, making it appear that susette and michael (and the rest of their countrymen) have won, i don't believe for a second that they'll get to live happily ever after.  i think they've pissed off enough powerful people that someone with the means to do so will make their lives difficult.  just a guess, and i hope i'm wrong.  only time, and a few brave individuals, will tell.
+
+permalink, posted by tom : 7:20 am
+ | 
+
+monday, june 05, 2006
+ 
+more new london craziness
+
+i am currently restraining myself from breaking things.  bizzyblog has the skinny:finally, scott also brought up one incredibly important point from many years ago that i was not aware of: a building i previously did not know about, the italian dramatic club, was exempted from eminent domain, and is staying. accordingly i have added it to the map:head over there to see the location of this apparently indispensable club.  now, you might be curious as to why, exactly, this one club was allowed to stay while the peons were kicked to the curb.  wonder no longer (via bizzyblog):among the italian dramatic club’s patrons was former connecticut gov. john rowland, who helped direct much of the state funding for the nldc’s work in new london and who resigned in june 2004 amid an ethics scandal.un-freaking-believable.  the blaringly obvious question here is why, after following this story for so long, have i yet to hear about this little social club?  hum?  what the hell the day doing that's so important that they missed getting this juicy bit of into one of their many stories?  makes a guy think that the conspiracy theorists are onto something.  (just to prove i'm not just missing the boat, searching for "italian dramatic club" new london via google news gives zero results.)i know i already said it, but this is absolutely un-freaking-believable.  our countrymen are going to have their property stolen from them under the (very credible) threat of physical violence while this pissant little group of 'politically connected' poss get to keep their club.  does anyone out there still want to argue that this is anything other than an outright, egregious abuse of power?update:there is a meeting this evening. if you're in the area go and support the last three homeowners standing up for liberty.new london city council meeting monday, june 5, 2006 7 p.m. 181 state streetnew london, ct 06320
+
+permalink, posted by tom : 3:19 pm
+ | 
+
+friday, june 02, 2006
+ 
+but we only want your guns!
+
+well, at least until we have them.  then we'll get to work blaming other inanimate objects (for example) for the violence they so obviously cause:a legal challenge has been raised against plans to for a total ban on glasses in glasgow's pubs and clubs. the scottish beer and pub association (sbpa) has lodged papers at the court of session opposing the enforced use of toughened or plastic glasses. the licensing board agreed on the ban, which will be rolled out in january, to reduce injuries from violence. glass was banned in pubs and clubs with late night entertainment licences earlier this year.so, once they ban all objects that could cause harm (e.g., baseball bats, machetes, knives, chain saws, candle stick holders, etc.) what's left?  will those looking out for the serfs' safety require installation and 'safe storage' of all dentures so that no more tragic 'biting attacks' can ruin even one more innocent's life?  eh, why not.amazing.  amazingly sad.(via the war on guns)
+
+permalink, posted by tom : 3:29 pm
+ | 
+
+ 
+update from the gov re: new london ct
+
+here's some info i received today from the institute of justice via michael cristofaro.  not great news, but definitely better than gov rell's letter from the other day.for immediate release: contact: john e. kramer or lisa knepperjune 2, 2006 (703) 682-9320connecticut gov. rell clarifies her statement:she supports returning deeds to family-occupied homeswith deadline passed, new london homeowners fight on arlington, va.-heroes of the fort trumbull neighborhood of new london, conn., continue to fight on for their homes and the rights of homeowners nationwide. susette kelo, mike cristofaro and rich beyer all turned down offers on the may 31, 2006, deadline given by the city of new london for them to accept offers to sell their property or the city will forcibly evict them and impose back fees and rent. the owners of family-occupied homes got a much-needed boost today from connecticut gov. m. jodi rell. today, in a follow-up letter to new london mayor beth sabilia, gov. rell clarified her previous position, stating that she supports giving deeds back to family-occupied properties, with full inheritance rights and ability to sell the homes. the city would have a right of first refusal if the owner decides to sell, something the homeowners said they support.in a previous letter of may 31, gov. rell wrote that she wants everyone who is not an owner-occupant of fort trumbull to leave the neighborhood. (that includes both of rich beyer’s homes and two of the three von winkle homes.) in that letter, gov. rell also said she supported returning the deeds to the owner-occupied homeowners, but only if the deeds go back to the city upon sale or death of the title holder. that would have made them essentially meaningless pieces of paper and was no different than the "lifetime occupancy" proposed by the city. "it is great news that the governor has come through and made clear that she supports giving real deeds back to the family-occupied homes, something susette kelo and her neighbors have fought for since day one of this battle," said scott bullock, senior attorney for the institute for justice, which continues to represent the homeowners. "it is disappointing, though, that the governor does not support the small businesses who are keeping rental homes in fort trumbull, and we ask her and the city council to reconsider that position.""governor rell has now made her position clear with regard to my home: i should have my deed back," said susette kelo, the lead plaintiff in kelo v. new london. "i really hope that the new london city council now votes in favor of this on monday." on monday, june 5, 2006, the new london city council will meet for the first time since the may 31 deadline to decide the fate of the remaining homeowners. -more-  institute for justice-deadline passesjune 2, 2006page two of two"i thank gov. rell for her support in my fight to keep our home," said mike cristofaro, whose family has owned a home in new london for over 30 years. "let’s hope the city council now stands up and does the right thing or else this battle will continue." "small businesses are threatened by eminent domain across connecticut and across the nation as witnessed by the threat to my properties," said bill von winkle. "these rental properties represent my family’s livelihood. the government shouldn’t take what’s rightfully mine just to make way for other private owners. i’m glad to see the other homeowners may be protected, and i hope the governor and the city council will respect the rights of the small businessman, too."the city gave bill von winkle a two-week extension to decide in the wake of his son’s murder last week.due to the ongoing threat of losing his rental homes, small businessman richard beyer has been forced to continue negotiating with the state-appointed mediator and is close to reaching a settlement.on the may 31 deadline, two of the other property owners settled with the city. homeowner byron athenian settled with the city as he was not interested in relocating his house to where susette kelo and the rest of the homeowners are located, the only viable option aside from financial compensation being offered to the property owners. the dery family also settled.matt dery, speaking on behalf of his family, said: "my family circumstances have changed drastically since i started this battle to keep our family homes several years ago. my father is elderly and can no longer maintain his home on his own. my mother, wilhelmina dery, on whose behalf i was primarily fighting, passed away earlier this year. but she was able to spend the rest of her life at her home in which she had lived in her entire life. for that fact i am eternally grateful to the institute for justice and the many other people and organizations that have supported our fight. even though i have reached a settlement with the city, i completely support the other homeowners in their fight to keep their homes. moreover, i still firmly believe that what happened to me and the other property owners in fort trumbull was terribly wrong. no american should face the loss of their home so that other private interests may benefit."
+
+permalink, posted by tom : 3:13 pm
+ | 
+
+thursday, june 01, 2006
+ 
+calling all jackbooted thugs
+
+if you're a jackbooted thug and want some hands on training, new london ct might just be the place for you come 15 june 2006.  that's the deadline by which either a deal must be reached with the remaining fort trumble homeowners, or they will face eviction (oh, and thanks for backing out, gov).  amazingly there have not been a heck of a lot of coverage around here and so i'm having a hard time figuring out exactly what the city is planning.  are they going to bust down the door if someone refuses to leave?  i'm guessing that once all the legal avenues are exhausted that's exactly what they'll do.this whole thing is a freaking travesty against liberty and everything this country is supposed to stand for.  what we are witnessing in new london ct is the forcible seizure of private property by the government who is then going to turn around and give that private property to a private company who will then use it for their own ends.  this is absolutely tyrannical.  i know, i know...the 'officials' will point out that everything went through all the legal channels.  and you know what?  i don't give a crap.  this is bs, and everybody knows it.so, what happens now?  people will be removed from their homes.  the only question that remains is whether they leave on their feet, or feet first.  i know it's horrible to contemplate, but i fear this situation will end with bloodshed.  the homeowners have held out for so long, faced down such powerful people and institutions that there is likely at least one among them who will not go quietly into the night.  let me state that i have no inside knowledge of anything in particular, and to some extent i hope i'm wrong...but i really fear for the life of anyone who refuses to leave.  a big part of me wants to tell them all to leave quietly.  that they've been beaten in an unfair fight.  at the end of the day, however, i don't have any idea what i would do in their place.  although now that we've established that a ct city can take your house to 'increase the tax base', we are all in danger of finding out just exactly what we'd do.  god help us.
+
+permalink, posted by tom : 10:44 am
+ | 
+
+tuesday, may 30, 2006
+ 
+no such things as a "former marine"
+
+methinks this is was not the first time mr. autry had been faced with violence:atlanta -- five robbers picked the wrong victim in midtown atlanta last night and one of them paid with her life.[...]the five suspects pulled up in a car and confronted the victim in the 500 block of penn street just before midnight.autry began running down the street yelling for help. residents who heard him called 911. while he was running, autry pulled a pocket knife from his backpack.two of the robbers jumped from the car. when one of the robbers pointed a shotgun at him, the autry kicked it out of his hands.at that point two of the robbers jumped on the victim. during the struggle he stabbed both of them. one, a teenaged female who has been identified as amy martin, died of her wounds. officials say martin was pregnant. a second is in critical condition.[...]thomas autry, who is a former u.s. marine, will not be charged since police say he was acting in self defense. officials say autry is extremely remorseful.guess some dirtbags picked the wrong marine.btw, i agree with uncle re: the rambo reference.
+
+permalink, posted by tom : 1:02 pm
+ | 
+
+thursday, may 25, 2006
+ 
+football or patty cake?
+
+pansies:in what some are referring to as the "cochran rule," the connecticut interscholastic athletic conference football committee passed a score management policy to be instituted next season. the rule says if a team wins by 50 or more points, the coach is suspended for the next game.i'm nearly speechless.  at least the rule's namesake isn't a girly-man:"it won't change anything with how i prepare for a game," cochran said. "where it's going to run into problems is when you've got your second team in or you've got your freshmen in; what do you tell them? one coach is saying he's just going to have his guys take a knee. i would never do that. i would never tell a kid to run out of bounds instead of scoring.getting beaten badly on any sports field sucks...but then that's a risk you take when you suit up.  if you can't win, or even hold your own on the football field, give tiddlywinks a try.  this is just absolute crap.  what does this teach kids?  if you're really good, try to hold back to you don't hurt anyone's feelings.  that's what.  i played baseball in high school and our team sucked.  we tried real hard, but we just weren't that good.  we used to get beat very badly.  and remember, there's no clock in baseball.  i distinctly remember being pissed when we lost...but i was absolutely insulted when the other team decided to be 'nice' and not take extra bases, force themselves to swing at every other pitch, etc.  that got under my skin more than anything else.  there's nothing more condescending than being offered pity like that.  i didn't want it then and i don't want it now.  the difference now being that the pandering is being codified by a high school athletic organization.  i'm sure this will help us breed real men to lead this country into the future.  lessons learned on the playing field will certainly serve them well.  they'll be tough, just so long as nobody tries to run up the score.
+
+permalink, posted by tom : 2:41 pm
+ | 
+
+
+
+
+
+
+
+
+1 new london
+
+the new political party 
+
+of new london, ct
+
+
+
+do you like where you live?
+
+want to keep the government's
+
+hands off your home?
+
+join the castle coalition today!
+
+keep up to date with
+
+eminent domain watch
+
+
+enemies of the people
+anthony kennedy why?
+
+john paul stevens why?
+
+ruth bader ginsburg why?
+
+stephen g. breyer why?
+
+david h. souter why?
+
+state senator william finch (d) why?
+
+state representative ernest hewett (d) why?
+
+
+email tom
+
+show your support
+homes for our troops
+
+(in honor of bunker)
+
+adoptaplatoon
+keystone military news
+
+
+
+
+                                      
+constantly updated 
+blogger list below
+
+
+
+
+
+evolution vs. 
+
+intelligent design
+rounds 1
+2
+3
+4
+5
+6
+7
+
+8
+9
+10
+11
+12
+13
+
+evidence
+
+readers respond to dr. meyers
+
+a physicist get's into it
+
+a theory of exclusion
+
+
+outstanding honor
+united flight 93
+american. hero.
+edelman's classic interview
+how an italian dies
+thank god for the f*$%ing marines
+
+good news from iraq
+chrenkoff
+
+a good cause:
+strengthen the good
+
+
+see what bloggers  are reading   
+ 
+condi in 2008!
+
+
+
+
+
+                                      
+partial blogger list:
+
+
+
+blog spectrum members
+iwasthinking
+kat's comments
+truth, lies & common sense
+different skins
+justbarkingmad.com
+sick philosophy for a sick world
+inappropiate content
+politics & letters
+
+
+
+
+
+
+
+news & opinion
+
+drudge report
+fact check
+brain terminal
+useless knowledge
+my useless articles
+orders of battle
+the jerusalem post
+
+military blogs
+
+my war
+boots on the ground
+jarhead journal
+american war monger
+(almost) daily reads
+
+qando
+mrssatan
+junkyard blog
+backcountry conservative
+cold fury
+wizbang
+chrenkoff
+am goodnews
+new england republican
+the volokh conspiracy
+hubs and spokes
+esoteric * diatribe
+weekend pundit
+thrown back
+in search of utopia
+michelle malkin
+after abortion
+patterico's pontifications
+fried man
+blaster's blog
+the indepundit (citizen smash)
+the redhunter
+the unmentionables
+bill's big bloviating blog 
+liberal utopia
+catholic kerry watch
+gw's offical blog
+mypetjawa
+musing
+john lott
+allah is in the house
+weapon of mass distraction
+pacetown
+individ
+fabian's hammer
+let's try freedom
+the running conservative
+life in the dumpster
+a physicist's perspective
+we have some planes
+louisiana conservative
+conservative eyes
+california yankee
+the glavin opinion
+varifrank
+ct conservativeiraqi/me bloggers
+
+healing iraq
+iraq the model
+freearabforum
+road of a nation
+med and science
+
+grunt doc
+medpundit
+kill as few patients as possible
+prometheus
+
+recent thoughts
+
+english only
+bad news
+more new london craziness
+but we only want your guns!
+update from the gov re: new london ct
+calling all jackbooted thugs
+no such things as a "former marine"
+football or patty cake?
+canadian warriors
+liberty
+
+
+site feed
+
+
+
+
+
+
+
+
+free hit counter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+archives
+
+04/01/2004 - 05/01/200405/01/2004 - 06/01/200406/01/2004 - 07/01/200407/01/2004 - 08/01/200408/01/2004 - 09/01/200409/01/2004 - 10/01/200410/01/2004 - 11/01/200411/01/2004 - 12/01/200412/01/2004 - 01/01/200501/01/2005 - 02/01/200502/01/2005 - 03/01/200503/01/2005 - 04/01/200504/01/2005 - 05/01/200505/01/2005 - 06/01/200506/01/2005 - 07/01/200507/01/2005 - 08/01/200508/01/2005 - 09/01/200509/01/2005 - 10/01/200510/01/2005 - 11/01/200511/01/2005 - 12/01/200512/01/2005 - 01/01/200601/01/2006 - 02/01/200602/01/2006 - 03/01/200603/01/2006 - 04/01/200605/01/2006 - 06/01/200606/01/2006 - 07/01/2006
+
+
+
+
+

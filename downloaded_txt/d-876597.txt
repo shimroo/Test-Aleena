@@ -1,0 +1,342 @@
+
+
+
+
+
+
+powder testers and hopper design software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+testers and software for powders and bulk solids
+powder flow testers and related software since more than 30
+                  years.
+
+our testers help you to measure flow properties incl.
+                flowability of powders and bulk solids, and to understand powder
+                flow, how to avoid flow problems or segregation in hoppers, bins
+                and other equipment, how powders can be compared and optimized
+                with respect to flowability, and how cohesion, strength, caking
+                and wall friction are determining the powder's behavior.
+                applications can be found in the pharmaceutical, chemical and
+                food industries, as well as in battery technology, metallurgy,
+                3d printing and, of course, silo design. 
+
+                applications can be found in pharmaceutical, chemical, food
+                industry as well as in battery technology, metallurgy, 3d
+                printing, and, of course, silo design. 
+
+   
+ 
+
+our major products
+... are ring shear testers (automatic, computer-controlled
+              testers for powder flow analysis, i.e. measurement of flow
+              properties like the flow function, strength, internal friction,
+              wall friction, time consolidation "caking", flowability
+              coefficient) and software for hopper design for flow (following
+              the great work of andrew w. jenike).
+
+ring
+                  shear testers 
+                 
+               software
+
+
+
+
+news and info
+
+
+ 
+new large ring shear tester 
+we are proud to present the ring shear tester rst mk ii
+                  (image above) which is the successor to model rst-01.pc.
+                  it  is upwardly compatible with its predecessor (e.g.,
+                  usability of the same shear cells). it offers improved design,
+                  and is smaller and lighter.
+with the tester, the new software rst-control v3 is
+                  delivered.
+
+rst-mk ii
+
+
+ 
+small ring shear tester rst-xs.s
+the "small" automatic, digitally controlled ring shear tester
+                  rst-xs.s for the measurement of flow properties of powders
+                  (flowability, caking, wall friction). automatic,
+                  computer-controlled powder testing procedure. very small
+                  specimen volume (standard: only about 30 ml, smallest approx.
+                  3.5 ml).
+
+more
+
+
+ 
+cahd - software for silo design for flow
+cahd: computer-aided hopper design.
+                  an interactive software doing the common calculations
+                  according to a. w. jenike's theory and, if desired, also
+                  according to other approaches: hopper slope for mass flow
+                  (diameter-dependent), outlet dimensions to avoid arching and
+                  ratholing. the entire process is user-controlled and
+                  transparent: diagrams and extrapolations are finally presented
+                  in a comprehensive document.
+
+more
+
+
+ 
+small volume shear cell xs-sr
+the shear cell type xs-sr for ring shear testers rst-xs.s and
+                  rst-xs with only 10 ml specimen volume is provided with a lid
+                  and bottom ring design similar to the larger shear cells xs-mr
+                  and xs-lr.
+
+more
+
+
+ 
+shear cell and driving axle with reduced heat transfer
+this new accessory for the ring shear tester rst-xs.s design
+                  supports tests at temperatures deviating from room temperature
+                  (reduced heat transfer, increased heat capacity).
+
+more
+
+
+ 
+optimized design of shear cells for large ring shear testers
+                  rst-01.pc and rst mk ii
+a new generation of shear cells for the large ring shear
+                  tester rst-01.pc and its successor rst mk ii offers advantages
+                  in terms of cleaning and handling. available with a sample
+                  volume of 900 ml, 200 ml and 48 ml.
+
+more
+
+
+ 
+round robin test on ring shear testers rst-xs and rst-01.pc
+all details and results: please
+                    click here.
+
+more
+
+
+ 
+book on powder technology
+powders and bulk solids - behavior, characterization, storage
+                  and flow
+                  (2nd edition 2021)
+                  by dietmar schulze (published by springer)
+
+more
+
+
+ 
+astm standard on ring shear tester
+d6773: standard shear test method for bulk solids using the
+                  schulze ring shear tester 
+please click to visit the astm website.
+
+astm d6773
+
+
+
+
+
+sitemap
+
+
+ring shear testers
+
+general
+rst-xs.s
+rst mk ii
+rst-control v3
+rst-control 95
+application
+test procedure with images
+round robin
+criteria for testers
+distribution
+
+
+
+software
+
+cahd - computer-aided hopper design
+rst-control v3
+rst-control 95
+sv 95
+silo stress tool
+
+
+
+information
+
+technical papers 
+product leaflets
+silo design for flow (short)
+books
+seminars
+publications
+
+service
+
+support
+
+
+
+contact/legal
+
+contact
+disclaimer
+privacy
+imprint
+
+consulting/testing service
+
+schwedes + schulze
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+home
+ products
+
+ ring shear testers
+
+general
+rst-xs.s (small ring shear
+                          tester)
+rst mk ii (large ring shear
+                          tester)
+
+
+hopper design software
+software for jenike-type shear testers
+silo stress tool (freeware)
+
+
+ information
+
+product leaflets (pdf)
+papers on bulk solids
+                      technology
+silo design for flow
+                      (short)
+books
+seminars
+
+
+support
+ contact / legal
+
+contact details
+imprint
+privacy
+disclaimer
+
+
+sitemap
+ consulting and testing service
+
+schwedes + schulze
+                      schã¼ttguttechnik gmbh
+
+
+german
+
+
+
+
+
+downloads
+
+
+ 
+ ring shear tester rst-xs.s
+
+ 
+ring shear tester rst mk ii
+
+ 
+cahd - computer-aided hopper design
+
+
+
+more to
+                      download 
+
+
+
+
+
+
+
+get in touch
+
+questions? interested in our products? please contact us (best by
+              e-mail).
+
+mail@dietmar-schulze.de
+(+49) 5331 935 490
+am forst 20
+                d-38302 wolfenbã¼ttel
+
+
+
+
+ â© 2024 dr. dietmar schulze gmbh. all rights
+              reserved. design based on editorial  (html5
+                up).
+
+
+
+
+
+
+
+
+
+
+
+

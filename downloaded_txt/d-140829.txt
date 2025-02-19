@@ -1,0 +1,423 @@
+
+
+
+
+bayosphere | resurrecting old stuff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bayosphere
+
+
+resurrecting old stuff once more
+
+
+
+skip to content
+homeabout
+
+
+
+
+
+
+
+← older posts
+
+
+
+podcast: a conversation with “blogfather” dave winer
+
+posted on november 23, 2009 by dan gillmor 
+
+several weeks ago i had a phone conversation with dave winer, whose work led to the existence of my original ejournal blog at the san jose mercury news. we reminisced about those days of experimentation, and looked ahead at some big issues.â one of the latter is preservation. how can we save what we’re creating online? it’s a nontrivial question.
+click here for the conversation (mp3, about 5 mb).
+
+
+
+posted in restoration 
+|
+4 comments
+
+
+
+welcome to my old blog
+
+posted on october 26, 2009 by dan gillmor 
+
+ten years ago today, i started a blog. it was later removed from the web by the company that employed me to write it,â  and until today only existed inside an archive that can itself be a bit ephemeral.
+now it’s back, in a way — here.
+the first, post, on oct. 26 1999, was entitled “we launch” (the link goes to the restored post on this site). it described the new site, called ejournal, which was located at siliconvalley.com, an online affiliate of the san jose mercury news, my employer at the time, and it described the purpose of the exercise. as i wrote that day:
+iâve been thinking about the new ways of journalism, namely the ways the internet is imposing on all of us. internet time has compressed the lives of all kinds of people in all kinds of businesses, and journalism is no exception. in fact, it may be one of the businesses most affected in the long run, both in the opportunities the net creates and the threat it represents.
+on two occasions during the five-plus years i wrote the blog for knight ridder, which owned the newspaper and the website, the company removed it from the web. the first time was because of a platform change combined with the company’s misguided understanding of what the web was about; removing history struck me as perverse and still does. the second time was after i left knight ridder; the reason given was that it would be too costly to keep running the server — something that again struck me as bizarre. but they had the right to delete it, even if i though they were doing a dramatically wrong thing.
+what prompted this project was the remarkable web-sleuthing of rudolf ammann, who used the wonderful internet archive to locate many of the earliest posts. this made me wonder if it might be possible to resurrect a lot more or even most of what had gone missing.
+pete kaminski, a friend and technical whiz, took on the task. he’s done an incredible job of spidering, scraping, parsing and otherwise pulling out of the archive as much as possible.
+we’re not nearly done. we’re looking for more of the ejournal, of course — dozens or perhaps hundreds of posts are still missing, and may be gone for good.
+we’re also planning to add as much as we can find of the bayosphere project, another site that has gone off the air. bayosphere, some of you may recall, was an abortive bay area blog that was sold to backfence, a hyperlocal media site that failed. the backfence folks were kind enough to return the bayosphere domain, and that’s why we’re putting all of the archival material under that url. it just feels to me like the right place for it to live.
+a special word of gratitude goes here — to the man who helped me understand why i needed to become a blogger a decade ago and whose software, then in beta form, was our original ejournal platform. he’s dave winer, a pioneer whose work is at the core of much of what we do today on the web, an innovator who keeps on innovating. i’m grateful for dave’s energy, vision and help.
+
+
+
+posted in restoration 
+|
+3 comments
+
+
+
+ibm plus apple?
+
+posted on december 6, 2004 by dan gillmor 
+
+there’s a wildly speculative piece over at the register about a linkup between ibm and apple, stemming from ibm’s much-reported but still not confirmed decision to spin off its pc division. quoth el reg:
+“(a)n even better and more audacious speculation is that once publicly free of the pc division ibm will either buy, or form a close joint venture with apple to sell its pcs, which coincidentally are now built around ibm’s powerpc chip.”
+i guess stranger things have happened. but this reminds me of the olden days when ibm and apple were partners in “taligent” — an ill-fated software-by-committee project and company, both of which sank like a rock.
+i also remember a riddle going around at the time.
+q: what do you get when you combine apple with ibm?a: ibm.
+comments
+posted by: jerry on december  6, 2004 06:17 pm
+
+oh! that would be a great christmas present!
+
+posted by: inchmurrin on december  7, 2004 09:40 am
+
+i’ve heard that when apple, ibm and motorola first got together, the folks at apple were concerned about the stuffed shirts at ibm. they were very pleasantly surprised to find the ibm folks a lot easier to work with and more laid back than the moto folks.
+my own experience (in my day job) with the ibm software folks is similar. some very practical and easy to work with folks. unlike some of their large s/w competitors here in silicon valley.
+
+posted by: paul stuart on december  7, 2004 04:25 pm
+
+a merger doesn’t make sense (but it sure is amusing!) if anything, how about a partnership with ibm for reselling and supporting the mac, just like hp has done with the ipod?
+
+posted by: duotone on december  8, 2004 11:19 am
+
+my question is, would this be a merger or a take over. i wish apple could just stay apple, but let’s face it, steve jobs is recovering from cancer. if i were him i’d be thinking about calling it a day. he single handedly saved the company. apple’s stock is as high as i’ve seen it in a looooong time.
+my only request is, keep the apple brand in tact. i don’t mean the logo, i mean everything the brand means in the strategic direction, maintaining the mac culture, etc… and by all means, stay away from windows!!!!
+tony
+
+
+
+
+posted in siliconvalley.com archives 
+|
+leave a comment
+
+
+
+hong kong buildings
+
+posted on december 1, 2004 by dan gillmor 
+
+a demo for class: two famous hong kong buildings.
+comments
+
+
+
+posted in siliconvalley.com archives 
+|
+leave a comment
+
+
+
+my book web citations now fully linked
+
+posted on december 1, 2004 by dan gillmor 
+
+many thanks to kevin mcallister, who posted this page of links to the websites i mentioned in we the media. the book’s online in a pdf format, but he took the time to put in the hyperlinks in the “website directory” we created for the appendix in the dead-tree version. this is the kind of remix we like to see.
+comments
+posted by: bob m on november 30, 2004 07:56 pm
+
+speaking of blogs, here’s an odd story about a blogger who (1) sold his blog, and (2) is using ebay to sell himself as a blogger:
+story:http://www.marketwatch.com/news/yhoo/story.asp?source=blq/yhoo&siteid=yhoo&dist=yhoo&guid=%7bd354f4c4%2d3f69%2d4ed4%2d9471%2d1c93cf7a9712%7d
+ebay:http://cgi.ebay.com/ws/ebayisapi.dll?viewitem&category=193&item=5142129647&rd=1
+
+posted by: drew b on december  1, 2004 03:00 am
+
+dan, your book is covered in a viewpoint column in today’s ft (01.12.04). thought you might like to know. here’s a link.
+
+posted by: kevin mcallister on december  1, 2004 07:05 am
+
+you’re welcome.  thanks for noticing.
+
+posted by: david anderson on december  1, 2004 11:53 pm
+
+hey dan, congrats on all the success. i just want to know why you didnt mention your buddy dave’s blog. my feelings are hurt. just kidding. i am very glad to see the book is such a success, i feel as if we as your regular readers had a great part in making it happen.
+saludos from costa rica and in search of utopia
+
+
+
+
+posted in siliconvalley.com archives 
+|
+leave a comment
+
+
+
+ccia’s fall from honor
+
+posted on december 1, 2004 by dan gillmor 
+
+for many years, a washington lobbying organization called the computer and communications industry association took a stand for competition and innovation in the technology and communications  marketplaces. in the courts of law and public opinion, the ccia challenged the practices of an unrepentantly abusive monopolist,  microsoft, that violated laws and ethical standards to maintain its dominance and bought off competitors and critics with its monopoly profits.
+last month, the ccia joined the crowd. and according to published reports, first in the financial times last week, the organization scored some $20 million in the settlement, with its top employee, ed black, getting about half of that amount. the settlement represented a rounding error for microsoft but real money for the ccia, which agreed to pull out of the european union’s antitrust case against microsoft and to stop pursuing legal challenges to the 2001 u.s. settlement with the company.
+the ccia now has negative credibility in my ledger. but in today’s washington, such acts are apparently considered par for the course. i’m sure most lobbyists are green with envy, utterly untroubled by even the slightest ethical pang.
+this deal only reinforces the need for tough and relentless government regulation to enforce the valuable rules that make capitalism work — ensuring fair marketplaces where law-breaking monopolists aren’t rewarded for their deeds. we don’t live in such a nation at the moment.
+in america, for now, government considers honest capitalism a nice idea but not much more than that. the bush administration’s giveaway in the microsoft settlement was just one bit of evidence of the lack of rules or enforcement of the rules we do have. in such a climate, the ccia’s move is the logical one.
+someday, america will recoil at the way things are routinely done now. we will have a government that believes in an honest marketplace, and lobbyists will need to learn new rules. and people like ed black will have to make their millions in a different way.
+comments
+posted by: brian benz on december  1, 2004 08:57 am
+
+100% agree.  things that are just wrong are par for the course these days.  yesterday i wrote about a similar disturbing trend – the apparent acceptance of the proliferation of no-bid contracts, even where lives are at stake.
+http://bbenz.typepad.com/softwaresoapbox/2004/11/bad_trends_nobi.html
+
+posted by: stan krute on december  1, 2004 08:47 pm
+
+dan, you’re usually quite right, but regardingthe folks taking on ms, i fear you were wearingblinders based on your own feelings about ms.
+mr. black was a pompous fraud from the beginning.his money grab flows directly from his previousactions and character. 
+stan
+
+
+
+
+posted in siliconvalley.com archives 
+|
+leave a comment
+
+
+
+shantou lecture
+
+posted on november 29, 2004 by dan gillmor 
+
+here’s a quick (and not very professional) photograph of some of the people who came to my talk this evening. i plan to delete this after showing it to the group.
+comments
+
+
+
+posted in siliconvalley.com archives 
+|
+leave a comment
+
+
+
+test entry
+
+posted on november 25, 2004 by dan gillmor 
+
+i’m giving a demonstration to some visitors from china. 
+comments
+
+
+
+
+posted in siliconvalley.com archives 
+|
+leave a comment
+
+
+
+did microsoft critic get millions?
+
+posted on november 25, 2004 by dan gillmor 
+
+financial times: microsoft critic given $9.75 million in deal. the landmark antitrust settlement this month between microsoft and the computer and communications industry association, one of its oldest adversaries, resulted in a $9.75m payment to the ccia’s top official, according to confidential documents seen by the ft. 
+i hope this story is not true, but with a sinking feeling i suspect it is.
+comments
+posted by: hey on november 25, 2004 06:52 am
+
+dan, as microsoft critic maybe you’re next.
+
+posted by: james salsman on november 25, 2004 07:49 am
+
+hey, there are still a few bugs left in ce.
+
+posted by: ran talbott on november 26, 2004 08:24 am
+
+“and it had had no ‘visibility’ where the money would go.”
+well,  maybe they can use some of that $10m to fix their security cameras around the office safe…
+
+posted by: james salsman on november 28, 2004 12:08 am
+
+can we get a court order that at least 2% of all microsoft revenue has to be spent on a search for prior art?
+http://yro.slashdot.org/article.pl?sid=04/11/27/2222256
+
+posted by: dave kearns on november 29, 2004 10:36 am
+
+get a grip, dan! the man was rewarded by the board of directors of his organization for bringing in almost $20 million in a “settlement” that wasn’t really necessary from microsoft’s viewpoint. that’s, essentially, $20 million in found money.
+if you or i did that for our organizations, we might also expect to be rewarded in some way.
+
+posted by: loid on november 29, 2004 02:02 pm
+
+from knight ridder? there’d be a lot fewer zeroes…
+
+
+
+
+posted in siliconvalley.com archives 
+|
+leave a comment
+
+
+
+‘bearish’ doesn’t capture top economist’s worry
+
+posted on november 24, 2004 by dan gillmor 
+
+boston herald: economic `armageddon’ predicted. stephen roach, the chief economist at investment banking giant morgan stanley, has a public reputation for being bearish. but you should hear what he’s saying in private. roach met select groups of fund managers downtown last week, including a group at fidelity. his prediction: america has no better than a 10 percent chance of avoiding economic “armageddon.” 
+daniel gross (slate): being john snow. if you want to understand why the world worries about the bush economic team, just check out the speech snow gave last wednesday at london’s royal institute of international affairs. 
+comments
+posted by: jojo on november 23, 2004 11:55 pm
+
+in another forum, someone corresponded directly with roach, who said he is more optimistic that this report indicates.  he points to this article he wrote:
+http://www.morganstanley.com/gefdata/digests/20041115-mon.html
+
+posted by: ran talbott on november 24, 2004 03:59 am
+
+correct link to the slate article (modified due to the fact that the hostname has suddenly become “questionable content”):
+slatedotmsndotcom/id/2110076/
+
+posted by: bob m on november 24, 2004 07:07 am
+
+bought sun at 5.04 in april and heroically rode it down and back up. yay! now it is 5.20 but i need to get to 5.80 just to break even in canadian dollars. doh! currency risk, they tell me.
+
+posted by: anon on november 24, 2004 10:35 am
+
+at the end of the the boston herald article it says:“there may be an alternative scenario to roach’s. greenspan might instead deliberately allow the dollar to slump and inflation to rise, whittling away at the value of today’s consumer debts in real terms.      inflation of 7 percent a year halves “real” values in a decade.      it may be the only way out of the trap.”
+the “deliberate-inflation” solution to oppressive debt was tried once before:to deal with reparations after world war i in germany.
+the results were not pretty.
+
+posted by: step back on november 24, 2004 12:36 pm
+
+maybe we can take the last few dollars left in the national treasury and put them into a lucky slot machine in vegas?
+
+posted by: al on november 24, 2004 02:28 pm
+
+“the dollar is in trouble, but it has been in trouble before. perhaps the past holds the solution everyone seeks.”  
+see http://www.investorsinsight.com/article.asp?id=jmotb112204
+i recommend signing up for john mauldin’s weekly eletter too.
+i’m not sure dan’s (and slate’s) doom and gloom scenarios are too valid.   europe doesn’t exactly look like an powerhouse with their house in order.  they’ve got some big problems.
+
+posted by: ran talbott on november 25, 2004 04:44 pm
+
+“perhaps the past holds the solution everyone seeks.”
+and perhaps winged monkeys will fly out of my butt,  bearing bars of gold with which to pay off the national debt.
+if you’d actually _read_ bernstein’s article,  instead of just cutting-and-pasting the tiny part you wanted to hear,  you would’ve seen that he presents pretty much the same arguments that i have in previous discussions of this subject:  that the situation is serious,  unsustainable,  and being both perpetuated and masked by the “co-dependent” actions of some countries that benefit from keeping their export pipelines open.
+you also would have seen that bernstein believes something like a “plaza accord ii” is _necessary_ to avert what he believes is to be one of those “doom and gloom scenarios”,  but that it’s not likely to happen for a variety of reasons.  and he wrote that _before_ snow told the europeans to pound sand.
+“europe doesn’t exactly look like an powerhouse with their house in order.”
+when it comes to government fiscal responsibility,  they’ve certainly got _us_ beat seven ways from sunday (or from doomsday…).  but what difference does that make,  either way?  are you under the illusion that there’s a fixed supply of trouble in the world,  and the fact that the ec may have problems somehow means there’s less trouble available for us?
+
+posted by: jerry on november 26, 2004 11:06 am
+
+“and perhaps winged monkeys will fly out of my butt, *bearing bars of gold* with which to pay off the national debt.”
+uh, really bad visuals on the day after a thanksgiving feast, but i appreciate your taking this one for all of america.
+give me your paypal address and i’ll email you enough for some salve.
+
+
+
+
+posted in siliconvalley.com archives 
+|
+leave a comment
+
+
+
+← older posts
+
+
+
+
+
+
+
+
+
+search for:
+
+
+
+ 
+
+archives
+
+november 2009
+october 2009
+december 2004
+november 2004
+october 2004
+september 2004
+august 2004
+july 2004
+june 2004
+may 2004
+april 2004
+october 2003
+september 2003
+august 2003
+july 2003
+june 2003
+may 2003
+april 2003
+march 2003
+february 2003
+january 2003
+december 2002
+january 2002
+december 2001
+november 2001
+october 2001
+september 2001
+august 2001
+july 2001
+june 2001
+may 2001
+april 2001
+february 2001
+january 2001
+december 2000
+november 2000
+october 2000
+september 2000
+august 2000
+july 2000
+june 2000
+may 2000
+april 2000
+march 2000
+february 2000
+january 2000
+december 1999
+november 1999
+october 1999
+
+
+
+
+
+
+
+
+
+					bayosphere				
+
+
+proudly powered by wordpress.
+
+
+
+
+
+
+

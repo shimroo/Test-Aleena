@@ -1,0 +1,334 @@
+
+
+
+hpcc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+☰
+
+
+
+calculators
+
+conferences
+
+journal
+
+meetings
+
+
+more 
+
+about us
+cd-roms
+contact us
+disclaimer
+discussions
+library
+membership form
+
+
+
+
+
+
+
+
+
+
+
+
+calculators
+conferences
+journal
+meetings
+
+more 
+
+about us
+cd-roms
+contact us
+disclaimer
+discussions
+library
+membership form
+
+
+
+
+
+
+
+
+
+
+
+
+handheld and portable computer club
+
+
+
+
+
+
+				hpcc is a voluntary, independent body run by and for users of
+				handheld and portable computers and calculators.
+			
+
+
+				for over 40 years, the club has been helping members
+				get the most from their hewlett packard equipment and further
+				the exchange of information and ideas.
+			
+
+				while most members' main interest is in the hp range of models, the club is
+				happy to discuss other models too, at meetings, through the club
+				journal - datafile, and on these web pages.
+			
+
+
+				hpcc is not supported by hewlett packard or any other commercial organisation;
+				its activities are funded and undertaken by its members. 
+			
+latest news - 6th february 2025
+
+				the contents of datafile v37n4 
+				are now available. the magazine is currently being posted out to members.
+			
+
+				the hp-41 valuation 1 pac 
+				is now available to download. the zip file contains the 174-page 
+				manual and rom, mod and lif files for use with mldls, pil-box, clonix, 
+				dm41x, emulators, etc.
+			
+
+				drard's schematics set has been updated to 
+				version 5.1 with the addition of the
+				hp9111 hpib digitising tablet, olympia icr412 desktop calculator and the prinztronic
+				mc85 (which tony described and dismantled at the 
+				hpcc 2024 mini-conference).
+			
+
+				in-person and online meeting dates for 2025 
+				are now published, including the date and agenda for the 2025 
+				agm.
+			
+
+				slides, photos and videos of the
+				hpcc 2024 mini-conference
+				are now available.
+			
+
+rcl40: recollection, reinvention and hp calculators, is now back in stock.
+			
+
+
+
+
+
+next in person meeting
+8th march 2025 11:00-17:00 gmt (utc)
+
+in person meetings
+				are held in the physics common room, blackett laboratory, imperial college,
+				south kensington, london on the second saturday of each month.
+			
+
+
+next online club meeting
+15th february 2025 15:00-17:00 gmt (utc)
+
+online meetings
+				take place on the first and third saturday of each month via 
+				webex. please send an
+				email to mark dot power at hpcc dot uk if you need a meeting invitation.
+			
+
+
+
+
+rcl40: recollection, reinvention and hp calculators
+
+
+
+
+
+
+				now back in stock!
+			
+
+				in 2002 hpcc published the book rcl20: people, dreams and hp calculators. 
+				to celebrate our 40th anniversary in 2022 we have produced a follow-up volume,
+				rcl40: recollection, reinvention and hp calculators,
+				which includes contributions from members of hp calculator teams past and present, 
+				members of hpcc and our friends around the world
+				who collectively have kept alive our enthusiasm for hp calculators and pocket computers.
+			
+
+
+
+
+
+multiply: the francis hookham collection of hand held electronic calculators
+
+
+
+
+
+
+				hpcc members visited the the whipple museum of the history of science in cambridge to view the
+				francis hookham collection of hand held electronic calculators in december 2022. 
+				the museum produced a limited print run full colour catalogue of the collection
+				called 	multiply, and following our visit have kindly made the pdf version of 
+				the catalogue available on their website or by clicking on the adjacent cover. 
+			
+
+				an update to multiply is currently being produced (september 2024) with many corrections. 
+				a second print run will be produced and the pdf version will made available online.
+			
+
+
+
+
+
+hpcc 40th anniversary conference
+22nd and 23rd october, 2022
+
+			hpcc celebrated its 40th anniversary with a conference in london over the weekend of 22nd and 23rd october 2022.
+			hpcc members and hp calculator enthusiasts from around the world attended.
+			see our 2022 conference page for more details,
+			including slides and videos.
+		
+
+
+
+calculators and handhelds
+scroll through and click on a machine for more details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+older news
+
+			the contents of datafile v37n3 
+			are now available. the magazine was posted to club members at the end of 
+			november 2023 and all members in the uk should have received their copies by now.
+			international members should receive their copies in the near future.
+		
+
+			slides and videos from the 2023 hpcc mini-conference are now available.
+		
+starseed search, by frank wales and transcribed by jackie woldering, has finally made it into datafile
+		forty years after first appearing in your computer magazine.
+		the program description, listing, barcode and raw files are available to download from the
+		hp-41 page.
+slides and videos from our october 2021 mini-virtual conference are now available.
+
+		slides and videos from the 2020 hpcc conference are now available.
+		
+notes and another chapter of 
+		rcl20: people, dreams & hp calculators, 
+		the book produced to celebrate the 20th anniversary of hpcc in 2002, 
+		have been published.
+some errors have crept into the listing for hhc2 in datafile v36n3p49 in the article "some thoughts on the hhc2019 programming challenge."
+		this zip file contains the corrected listing for hhc2 and the binary for download straight to the hp50g.
+datafile v35n4 was accidentally printed without the regular 
+		chairman's bytes article. you can now read wlodek's thoughts online.
+		
+
+		the outcome of the egm vote on 11th march 2017 on the future publication of datafile is now available 
+		here, along with request for membership
+		renewals for anyone who followed the instructions in datafile v35n4.
+		
+bruce horrock's article on stack parameter checking for the hp50g, from datafile v27n4, is available to 
+		read
+		and the code to 
+		download.
+the hp20b business consultant, with rpn and scientific functions, is described in gene wright's 
+		review
+		from datafile v27n3. 
+		hp's pdf brochure is also available here.
+a revised template for datafile articles is available for download on the datafile page.
+the 5th edition of wlodek's "a guide to hp calculators and computers" has just been published. this revision of the
+		2003 edition has more than 40 additional pages covering all the latest hp models. copies are available
+		from wlodek or www.hpcalculatorguide.com/.
+articles from datafile 
+		v25n4
+		on 
+		hp-12c platinum cash-flow entry bug
+		and
+		integer division on the hp33s
+		are now available to download in pdf format.
+christoph klug's article
+		on transferring data from an hp41 to emu41 on a pc via rs232
+		(from datafile v25n3)
+		is now available to download.
+christoph klug's article
+		on transferring data from one hp41 to another hp41 via rs232
+		(from datafile v25n1)
+		is now available to download.
+jordi hidalgo's hp39g aplet to enable the cas, effectively turning an hp39g into an hp40g,
+		is available here.
+		
+
+
+page last modified: 12th february 2025
+
+
+
+
+
+
+home
+calculators
+conferences
+journal
+meetings
+
+
+
+
+about us
+cd-roms
+contact us
+disclaimer
+discussions
+library
+membership form
+
+
+
+
+
+

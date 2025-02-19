@@ -1,0 +1,147 @@
+
+
+
+the gymnosperm database: home page
+
+
+
+
+
+
+
+
+
+
+
+the gymnosperm database
+
+
+
+species
+topics
+bookstore
+links
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+please donate
+the gymnosperm database is a not-for-profit site.  we receive no payments or support other than through the occasional sale of photographs. please consider making a donation through paypal.  give what you choose; we suggest a $50 annual donation for professionals living in western countries, with a proportionate reduction for less prosperous souls.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what's new?
+jan-2025: working on the powo consistency issue; have finished araucariaceae, cupressaceae, and ephedraceae.
+dec-2024: ran a check between this site and powo and discovered a lot of unexplained inconsistencies. mostly they involve new taxa, hybrids, and new names for old taxa. all in all, though, it affects about 167 pages, mostly in cupressus, juniperus, ephedra, and gnetum, so this will keep me busy for quite some time.
+nov-2024: extensive revisions of pinus clausa and juniperus ashei based on field visits this year and a current literature review.
+oct-2024: have revised the single-leaf pinyon pages to include the newly-described nothospecies pinus × kohae, and the subsection ponderosae pages to include the new taxon pinus stormiae. kudos to michael frankis for publishing these long-overdue names. next up is another revision of cupressus, which has seen several new species descriptions in the past few years.
+sep-2024: just completed a total revision of cephalotaxus; see that page to understand why. i also have started posting new photos and content on instagram under the id dr_conifer.
+
+
+
+some other links
+
+
+
+besides the topics page, here are a couple of other links to get you started:
+my curriculum vita (pdf file)
+a personal note
+
+
+ 
+
+
+moto pages
+
+
+
+
+welcome to the gymnosperm database, the web's premier source of information on conifers and their allies.  since we went online on 1997, the database has attracted worldwide attention as a readily accessible, scientifically accurate source of information on the classification, description, ecology and uses of this culturally and ecologically important group of plants.  this home page gives some hints about how to navigate the database, as well as providing background information for the curious.
+there are three major sections of the site:
+
+
+species
+descriptions of all the species and higher-rank taxa of gymnosperms. see example species for more information on the format of these pages. for each taxon i provide information on classification, description, ecology, ethnobotany, and various other topics of interest.
+
+
+  
+
+
+topics
+things that are not strictly tied to a particular species. for instance, pages on the gymnosperms of australia (and other regions), the largest and oldest trees in the world, why trees have spiral grain, and conifers in musical instruments.
+
+
+  
+
+
+bookstore
+most of the books sold here are linked through amazon, and if you buy them through this site, the price is the same to you but some of the proceeds come to me, to help support the database.
+
+
+  
+
+
+
+
+effects of a recent controlled burn in a florida longleaf pine forest.
+background on the site
+the gymnosperm database was established as an online entity in the summer of 1997 and has since grown steadily, getting its own url (conifers.org) in the summer of 1999. the database provides information for all species and higher-ranked taxa of the gymnosperms, i.e., conifers, cycads, ginkgo, and the gnetophytes. you enter the taxonomic tree at the family level and then navigate to the genus and species. it's sort of like a blog that runs through a tree instead of a straight line.
+how to use this site
+see the description of database fields and the example species.
+if you have a specific question, use the search box (top of page at right). otherwise, i suggest you start with the topics page, or browse the family, genus, and species accounts. the site covers conifers, ginkgo and gnetophytes (ephedra, gnetum, and welwitschia) in detail. although they are gymnosperms, in recent years i have neglected the cycads because an excellent site, the world list of cycads, exists to provide the same sort of information that i would otherwise have to collect.
+appeal for volunteer assistance
+people sometimes write and say, "who writes the database?" the answer is, i do. i have assembled most of the database and done essentially all of the computer-based work: typing, scanning images, writing code, etc. any assistance is welcome! to date i have received helpful advice from a variety of recognized taxonomic authorities, as well as information on individual taxa from persons scattered across the globe. many visitors have sent photos or even fine art drawings of gymnosperms. in fact, i have to say that running this website has introduced me to new friends, provided opportunities to travel to memorable places, and provided opportunities to share both my writing and photography. the correspondence related to this site provides one of the greatest rewards of maintaining this site. however, if you would like to increase those rewards, you could buy some books (from amazon.com) via my gateway/bookstore located here.
+
+
+
+
+
+
+back
+|
+home
+|
+contact us
+
+copyright 2024 the gymnosperm database
+edited by christopher j. earle
+
+back to top
+
+
+last modified 2025-01-19
+
+

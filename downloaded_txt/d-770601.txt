@@ -1,0 +1,475 @@
+
+
+
+nehe productions - everything opengl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+twitter
+facebook
+rss
+atom
+forum
+
+
+
+
+
+
+
+
+
+
+how i made mario kart 7 engine in opengl over the weekend
+
+
+
+
+
+
+
+
+
+                by gregsidelnikov, posted at may 7, 2017, 6:02 p.m.
+            
+
+actually, this post is not about how i made mk7 in opengl, but what the results were. i am currently porting it to webgl as well. the level design geometry is so simple, that it might work in 4k. but we'll see.
+go to this link to arrive at webgl tutorial site, which is now home for the mario kart engine demo.
+the entire level was designed in blender this weekend.
+follow camera was the most fun to program, i added a little sway factor when the left or right keys are pressed.
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+webgl shaders tutorial in 11 minutes
+
+
+
+
+
+
+
+
+
+                by gregsidelnikov, posted at april 19, 2017, 2:39 p.m.
+            
+
+created and published this new webgl shaders tutorial on youtube.
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+webgl tutorials site is up
+
+
+
+
+
+
+
+
+
+                by gregsidelnikov, posted at april 5, 2017, 4:17 p.m.
+            
+
+i just launched my new website webgltutorials.org/ if you're interested in webgl tutorials. it's just a first draft at this point, but it is currently updated every week or so with new material. i also wrote the book webgl gems, if you want it just browse around on the site to find more info on it.
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+rats! webgl hit a snag.
+
+
+
+
+
+
+
+
+
+                by gregsidelnikov, posted at aug. 1, 2016, 8:39 p.m.
+            
+
+i've been working on studying web gl and i spotted a recent chrome message when the browser is mis-configured. i guess chrome developers had a good sense of humour and when this happens a pop-up message saying "rats! webgl hit a snag." is displayed just below the address bar on a yellow stripe.
+to see how this issue can be overcome, plus an insight into some hidden chrome settings config, i created this brief youtube video tutorial rats! webgl hit a snag, i hope it helps someone out there who is facing this issue in their browser. 
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+how to initialize webgl
+
+
+
+
+
+
+
+
+
+                by gregsidelnikov, posted at oct. 6, 2015, 7 p.m.
+            
+
+so, we've all been fiddling with opengl in a desktop environment. and some of us have probably already heard of webgl, but never got a chance to work with it.
+this led me to record how to initialize webgl in 11 minutes. after watching this tutorial, you would have your basic blank "3d canvas" box cleared to black background.
+hope this helps someone out getting ready to transition to webgl.
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+fallout software tutorials updated!
+
+
+
+
+
+
+
+
+
+                by kazade, posted at july 9, 2014, 8:25 p.m.
+            
+
+greg sidelnikov of falloutsoftware.com has applied updates to his opengl tutorials. an entirely new article normal mapping tutorial has been added providing several insights on what the pinkish/bluish colors actually represent. the difference between immediate mode (glbegin, glend) and the modern vertex buffer object technique has been added to the drawing opengl primitives via vbo tutorial. better diagrams have been improved in opengl light tutorial. greg is also planning to start adding glsl fragment and vertex shader tutorials to the site soon. if this piques your interest you can subscribe to the tutorial newsletter on the site. greg has been hosting opengl tutorials since 2003.
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+watch how valve and nvidia ported source to linux (and gl!)
+
+
+
+
+
+
+
+
+
+                by gamedev, posted at april 9, 2013, 2:19 p.m.
+            
+
+there is a really interesting video from the recent gdc 2013 conference that goes into detail about how valve and nvidia ported the source engine to the linux platform. the majority of the talk focuses on the port from d3d to opengl. there is nothing but glowing praise for opengl throughout the talk. definitely worth checking out!
+ 
+
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+mesa 9.0 released with opengl 3.1 support
+
+
+
+
+
+
+
+
+
+                by kazade, posted at oct. 9, 2012, 9:54 a.m.
+            
+
+mesa, the open source opengl implementation has released a new major version which includes support for opengl 3.1. the release announcement can be found here.
+although mesa works on multiple platforms, including windows, it's on open source operating systems like linux where it is most important. on linux, mesa provides hardware accelerated opengl when running open-source graphics drivers. this means that if your graphics card is supported, you will get hardware-accelerated opengl 3.1 out-of-the-box on operating systems such as ubuntu and debian, even when running from a live cd or bootable usb stick.
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+new opengl tutorial site
+
+
+
+
+
+
+
+
+
+                by kazade, posted at oct. 8, 2012, 2:12 p.m.
+            
+
+damien wrote in to tell us about his opengl tutorial website which focuses on opengl 3.3. apparently this site was referenced during siggraph and in various books. it's definitely worth taking a look! you can find it here.
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+khronos releases opengl 4.3 and opengl es 3.0
+
+
+
+
+
+
+
+
+
+                by kazade, posted at aug. 6, 2012, 3:03 p.m.
+            
+
+as is the tradition at siggraph, khronos just announced the opengl 4.3 specification alongside its mobile-focused counter-part opengl es 3.0. one of the more interesting announcements is the inclusion of a new royalty-free texture compression extension called astc.
+as usual you can find the latest specifications on the registry.
+the release announcements for the day can be found on the khronos website.
+
+
+
+
+continue reading
+
+
+
+0 comments
+
+
+
+
+
+
+
+
+older posts
+
+
+
+
+
+
+
+
+
+
+
+
+community
+
+nehe forums
+opengl forums
+
+
+
+desktop tutorials
+
+prep: the graphics pipeline
+rats! webgl hit a snag.
+webgl tutorials site is up
+
+mobile tutorials
+
+ios lesson 01 - setting up gl es
+ios lesson 02 - first triangle
+
+legacy tutorials
+
+lessons 01 - 05
+lessons 06 - 10
+lessons 11 - 15
+lessons 16 - 20
+lessons 21 - 25
+lessons 26 - 30
+lessons 31 - 35
+lessons 36 - 40
+lessons 41 - 45
+lessons 46 - 48
+
+
+
+articles
+
+none available
+
+legacy articles
+
+contest: halloween 2000
+contest: christmas 2000
+contest: apocalypse 2001
+contest: the fellowship of the ring 2002
+contest: halloween 2002
+contest: mini-demo 2003
+contest: the two towers 2003
+contest: creative labs europe
+contest: winamp gl 2005
+old nehe projects
+articles 01 - 05
+articles 06 - 10
+articles 11 - 15
+
+
+
+beginning opengl game programming ii
+
+simpleglxwindow class
+latest source files
+
+
+
+useful resources
+
+how to initialize webgl
+learn opengl es - for android
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+			â© 1997-2012 gamedev.net. all rights reserved.
+			
+			neheâ¢ and nehe productionsâ¢ are trademarks of gamedev.net, llc
+			openglâ® is a registered trademark of silicon graphics inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

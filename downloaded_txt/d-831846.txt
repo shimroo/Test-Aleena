@@ -1,0 +1,1524 @@
+
+
+
+
+
+ysi | water quality sampling and monitoring meters and instruments for dissolved oxygen, ph, turbidity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.12
+15 ms
+iy_2025; im_02; id_18; ih_07; imh_48; i_epoch:1739893710635
+ixf-compiler; ixf-compiler_1.0.0.0
+py_2025; pm_02; pd_15; ph_00; pmh_15; p_epoch:1739607345352
+
+
+bec-built-in; bec-built-in_1.0.0; bodystr
+pn_tstr:tue feb 18 07:48:30 pst 2025; pn_epoch:1739893710635
+0 ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+login 
+register
+
+
+
+
+
+
+more
+
+
+
+contact us
+
+
+careers
+
+
+xylem inc.
+
+
+ysi blog
+
+
+subscribe
+
+
+turbo cart
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+        0
+        item(s)
+
+    $0.00
+
+
+
+sub-total
+$0.00
+shipping
+$0.00
+tax
+$0.00
+total
+$0.00
+
+
+view cart
+check out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+
+accessories
+
+
+acoustic doppler current profilers adcps and current meters
+
+
+aquaculture process monitors and sensors
+
+
+auto samplers
+
+
+automated chemistry analyzers
+
+
+biochemistry analyzers
+
+
+colorimeters and photometers
+
+
+drinking water process monitors and sensors
+
+
+gas chromatography equipment
+
+
+gerhardt lab instruments
+
+
+laboratory and electrochemistry
+
+
+level gauging, flow and data acquisition
+
+
+multiparameter sondes
+
+
+monitoring buoys and platforms
+
+
+reagents, membranes and calibration solutions
+
+
+refractometers and polarimeters
+
+
+replacement parts
+
+
+sampling handhelds
+
+
+survey vehicles
+
+
+titration
+
+
+total organic carbon analyzers
+
+
+wastewater process monitors and sensors
+
+
+weather
+
+
+
+
+applications
+
+
+aquaculture
+
+
+bathymetric surveying
+
+
+biofuels & renewable energy
+
+
+bioprocessing and online monitoring & control
+
+
+cell culture
+
+
+flooding
+
+
+food & beverage
+
+
+general  & environmental lab
+
+
+groundwater
+
+
+harmful algal blooms - habs
+
+
+irrigation canals & turnouts
+
+
+life sciences
+
+
+medical research
+
+
+mining & petroleum
+
+
+ocean & coastal
+
+
+source, raw & drinking water
+
+
+stormwater
+
+
+surface water
+
+
+wastewater
+
+
+
+
+parameters
+
+
+ammonia
+
+
+biochemical oxygen demand - bod
+
+
+blue green algae
+
+
+cdom-fdom
+
+
+chloride
+
+
+chlorophyll
+
+
+colorimetry & photometry parameters
+
+
+conductivity
+
+
+cyanide
+
+
+depth
+
+
+dissolved oxygen
+
+
+level
+
+
+life science parameters
+
+
+nitrate
+
+
+orp-redox
+
+
+ph
+
+
+phosphorus
+
+
+rhodamine
+
+
+temperature
+
+
+total organic carbon - toc
+
+
+turbidity
+
+
+
+
+customer support
+
+
+ask a question
+
+
+events, training & webinars
+
+
+find a distributor
+
+
+find a systems regional integration center
+
+
+how to order
+
+
+online warranty card
+
+
+product service
+
+
+project consulting - environmental
+
+
+project consulting - laboratory
+
+
+project consulting - municipal
+
+
+recommended replacements
+
+
+recycling & disposal
+
+
+repair parts & schematics
+
+
+repair status checker
+
+
+request pricing
+
+
+resource library
+
+
+software & firmware downloads
+
+
+videos
+
+
+water monitoring services
+
+
+authorized service centers
+
+
+
+
+brands
+
+
+bellingham + stanley
+
+
+global water instruments
+
+
+oi analytical
+
+
+sontek
+
+
+ysi
+
+
+
+
+about
+
+
+blog
+
+
+careers
+
+
+global water instruments
+
+
+history
+
+
+integrated systems & services
+
+
+life sciences
+
+
+mission: water magazine
+
+
+news
+
+
+quality
+
+
+sontek
+
+
+xylem sustainability
+
+
+xylem watermark
+
+
+
+
+
+
+
+
+
+	sampling and monitoring instruments for water quality, level, and solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it's your world. protect it.ysi exo sondes provide accurate data during long-term deployments with customizable options to meet any water quality monitoring challenge.learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the right tool for every water professionalwherever your water quality sampling leads you, trust ysi's rugged, portable pro series handhelds to provide accurate data.learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+complete solutions for any applicationinnovative technology and customizable solutions make it easier to collect and share water quality, flow, and weather data with real-time telemetry.learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wherever water flows, we will measure itsound science: sontek instruments collect precise water velocity and discharge data with confidence.learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+process monitoring & control solutionsoptimize your process with advanced solutions for continuous monitoring—designed to enhance precision, efficiency, and water quality management.learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unique solutions for your labxylem is a leader in laboratory solutions, providing innovative equipment and expert support to help you analyze and solve your greatest challenges.learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new products
+
+
+
+
+
+iqsn mobile app and data plan
+
+
+iqsn mobile application and data plan
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+9800 photometer
+
+
+portable, multiparameter photometer
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+hydrosphere™
+
+
+a scalable data visualization platform for water monitoring
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+proquatro multiparameter meter
+
+
+proquatro portable sampling handheld meter for do, conductivity, salinity, tds, ph, orp, ammonium, nitrate, chloride, temperature and more
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+9220 total organic carbon analyzer
+
+
+online toc analyzer
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+ysi air compressors for iq sensornet
+
+
+single and multi-channel air compressors for use with iq sensornet sensors
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+thm 1000 selective voc analyzer
+
+
+thm monitoring system
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+exo2s multiparameter sonde
+
+
+exo2s multiparameter water quality batteryless sonde (7 sensor ports including a central wiper port)
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+n-realyzer
+
+
+combustion analyzer with starter kit
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+ysit-1 goes radio satellite transmitter
+
+
+goes radio satellite transmitter
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what's new?
+
+view new productsshop now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+real-time water quality monitoring for marine science | sims
+the sydney institute of marine science (sims) is a collaborative research and training studio that hosts a range of different research projects. key focuses include habitat restoration, conservation efforts, and mitigating the effects of climate change on oceans and marine species. sims utilizes ysi exo sondes to monitor real-time water quality and gather continuous, reliable data they can trust.
+
+
+
+
+
+
+
+ysi vehicles | auvs | asvs | services
+our three vehicle offerings are the rqpod and hycat, autonomous surface vehicles or asvs, and the ecomapper, an autonomous underwater vehicle or auv.  ysi has worked with global experts to design vehicle platforms that are rugged yet affordable for environmental monitoring. our vehicles are optimized for different environments, applications, and can be used for many kinds of surveys, including water quality, water quantity, hydrographic, bathymetric, imaging, scour, and photogrammetry, to name a few.
+
+
+
+
+
+
+
+ysi 9220 toc analzyer | overview
+introducing the 9220 total organic carbon (toc) analyzer, developed from over 50 years of experience in measuring toc for water quality monitoring. leveraging ysi’s heated persulfate and ndir technology, the 9220 provides unmatched performance, reliability, versatility, and ease of use.
+
+
+
+
+
+
+
+5 reasons to upgrade from pro plus to proquatro
+since 2006, the professional plus has set the industry standard for water quality sampling, but the time has come for us to say farewell and move toward the future. now, as the field season approaches, we are excited to crown the proquatro, ysi’s latest handheld in the professional series line, as the new successor to the pro plus throne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+water blogged 
+
+
+
+
+
+
+
+
+
+storing for the season | water quality field instruments
+catie marchand | 02/18/2025
+to get the most reliable data and a long life out of your field water quality instruments and sensors, it’s important to learn how to store them properly between uses. keep in mind...
+keep reading 
+
+
+
+
+
+
+
+
+view all blogs
+aquaculture
+level/flow
+laboratory
+surface water
+wastewater
+
+
+
+
+
+
+
+need help?
+
+ask a questionconsult an expert
+
+
+
+
+
+
+
+
+featured products
+
+
+
+
+
+prodss multiparameter digital water quality meter
+
+
+the ultimate sampling handheld. portable meter for do, conductivity, salinity, tds, ph/orp, turbidity, algae, temperature and more
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+exo2 multiparameter sonde
+
+
+multiparameter water quality sonde for unattended monitoring (7 sensor ports, including a central wiper port)
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+iq sensornet 2020 3g controller
+
+
+
+modular water quality monitoring system for a complete sensor network that measures up to 20 parameters
+
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+pontoon vertical profiling system
+
+
+ideal for ponds, lakes, reservoirs, and certain coastal applications
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+prosolo optical dissolved oxygen meter
+
+
+portable optical dissolved oxygen, conductivity, salinity, and temperature meter.
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+2900m online monitor & control system
+
+
+two chemistry online monitor & control system
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+multilab 4010-3w
+
+
+three channel benchtop multiparameter instrument with wireless capability
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+hycat autonomous surface vehicle
+
+
+autonomous surface vehicle
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+amazon bubbler
+
+
+self-contained continuous flow bubbler with fully integrated pressure sensor
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+iq sensornet alyza analyzer po4 
+
+
+iq sensornet orthophosphate analyzer
+
+request pricing
+
+
+details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+more from our team
+
+
+
+mission: water magazine
+the magazine addressing global water issues
+mission: water is an annual publication that brings awareness to our most precious resource—water. it serves as a platform to celebrate our customers and other environmental advocates making a difference in our changing world. download the latest issue today!
+keep reading >
+
+
+
+
+
+exo university
+on-demand trainingpractical tips for reliable data
+learn all about exo sondes from our team of experts in this free series detailing how to setup, calibrate, maintain, store, and troubleshoot your exo sonde. these short, how-to videos are available on-demand so you can go at your own pace and only watch the videos you need.
+get started >
+
+
+
+
+
+events, training & webinars
+check out upcoming events training & webinars
+need training on instrumentation, but can't make it to one of our in-person workshops? get quick, easy access to on-demand educational resources, earn ceu credit, and enhance your understanding of important topics from our experts.
+learn more >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+water quality sonde selector
+what is the best sonde for you?
+the intuitive ysi sonde monitoring system selector will provide you with a recommendation for the multiparameter monitoring solution that best fits your requirements! your answers to the selector questions will help you think through your options, and will help ysi to get you a solution as fast as possible.
+let's get started >
+
+
+
+
+
+looking for the best instrument?
+find the right handheld
+finding the right handheld water quality meter should be easy. just take our short quiz and the intuitive product selector will provide you with an immediate recommendation based on your needs! from the single-parameter, analog pro10 to the multiparameter, all-digital prodss, we've got you covered.
+choose the right handheld >
+
+
+
+
+
+floating platform guide
+monitoring buoy selector
+an integrated system from ysi can be built for almost any water monitoring application. reveal water quality in the entire water column with a vertical profiler, configure your own unique data buoy or turnkey system for real-time data collection.
+find out now >
+
+
+
+
+
+
+
+
+
+
+
+consult our experts
+
+
+
+environmental water experts
+get help on your next environmental project
+our technology experts are available to help with everything from instrument selection to data management. we now offer free virtual consultations for your next water or environmental-related project. our dedicated application engineers and experts identify the best instrumentation and data collection for your project.
+request a consultation
+
+
+
+
+
+laboratory experts
+free virtual consultations for your laboratory
+our laboratory experts are available to help with everythign from instrument selection to application support for various applications. xylem lab solutions brands are excited to offer free virtual consultations for your next facility project or upgrade. our dedicated aplications engineers and experts identify the best technology for your application.
+get advice
+
+
+
+
+
+utility water experts
+consult with our municipal water experts
+our municipal experts are available to help with everything from instrument selection to application support for wastewater and drinking water treatment. the xylem family of brands now offer free virtual consultations for your next facility project or upgrade. our dedicated application engineers and experts identify the best system for your needs.
+talk to the experts
+
+
+
+
+
+
+
+
+
+
+
+
+
+related informationwhat is the ph of water and how is ph measured?...biochemical oxygen demand - bodunderstanding turbidity, tds, and tss
+
+
+
+
+
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.12
+https://www.ysi.com/
+http://ixfd-api.bc0a.com/api/ixf/1.0.0/get_capsule/f00000000170758/678625171?client=dotnet_sdk&client_version=1.4.12&orig_url=https%3a%2f%2fwww.ysi.com%2f&base_url=https%3a%2f%2fwww.ysi.com%2f&user_agent=myscript%2f1.0+(windows+nt+10.0%3b+win64%3b+x64)+applewebkit%2f537.36+(khtml%2c+like+gecko)+chrome%2f121.0.0.0+safari%2f537.36
+https://www.ysi.com/
+sdk.environment=production;sdk.charset=utf-8;api.endpoint=http://ixfd-api.bc0a.com/;sdk.account=f00000000170758;sdk.connecttimeout=500;sdk.sockettimeout=500;sdk.crawlerconnecttimeout=750;sdk.crawlersockettimeout=750;whitelist.parameter.list=ixf;flat.file=true;sdk.proxyport=0;sdk.proxyprotocol=http;crawler.useragents=google|bingbot|msnbot|slurp|duckduckbot|baiduspider|yandexbot|sogou|exabot|facebot|ia_archiver;forcedirectapi.parameter.list=ixf-api|ixf;page.alias.url=https://www.ysi.com/;canonical.host=www.ysi.com;canonical.protocol=https
+
+
+
+
+
+
+
+products
+
+
+
+
+accessories
+
+
+acoustic doppler current profilers adcps and current meters
+
+
+aquaculture process monitors and sensors
+
+
+auto samplers
+
+
+automated chemistry analyzers
+
+
+biochemistry analyzers
+
+
+colorimeters and photometers
+
+
+drinking water process monitors and sensors
+
+
+gas chromatography equipment
+
+
+gerhardt lab instruments
+
+
+laboratory and electrochemistry
+
+
+level gauging, flow and data acquisition
+
+
+multiparameter sondes
+
+
+monitoring buoys and platforms
+
+
+reagents, membranes and calibration solutions
+
+
+refractometers and polarimeters
+
+
+replacement parts
+
+
+sampling handhelds
+
+
+survey vehicles
+
+
+titration
+
+
+total organic carbon analyzers
+
+
+wastewater process monitors and sensors
+
+
+weather
+
+
+
+
+
+
+applications
+
+
+
+
+aquaculture
+
+
+bioprocessing and online monitoring & control
+
+
+food & beverage
+
+
+general & environmental lab
+
+
+groundwater
+
+
+harmful algal blooms - habs
+
+
+life sciences
+
+
+ocean & coastal
+
+
+source, raw & drinking water
+
+
+stormwater
+
+
+surface water
+
+
+wastewater
+
+
+more applications...
+
+
+
+
+
+
+customer support
+
+
+
+
+ask a question
+
+
+events, training & webinars
+
+
+find a distributor
+
+
+find a systems regional integration center
+
+
+how to order
+
+
+online warranty card
+
+
+product service
+
+
+project consulting - environmental
+
+
+project consulting - laboratory
+
+
+project consulting - municipal
+
+
+recommended replacements
+
+
+recycling & disposal
+
+
+repair parts & schematics
+
+
+repair status checker
+
+
+request pricing
+
+
+resource library
+
+
+software & firmware downloads
+
+
+videos
+
+
+water monitoring services
+
+
+
+
+
+
+
+
+
+
+
+
+call +1 937-688-4255
+
+
+connect with us
+
+
+info@ysi.com
+
+
+
+
+
+
+connect with us
+
+
+
+
+
+
+youtube
+
+
+
+
+linkedin
+
+
+
+
+instagram
+
+
+
+
+facebook
+
+
+
+
+
+
+
+
+subscribe to our blog    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copyright © 2025 ysi inc. / xylem inc. all rights reserved.terms & conditions of sale | terms & conditions of purchase | legal disclaimer | privacy policy | transparency in supply chains | do not sell or share my personal information
+ysi incorporated | 1700/1725 brannum lane | yellow springs, oh 45387 usa | +1-937-688-4255 | info@ysi.comysi is a trademark of xylem inc. or one of its subsidiaries. learn more about xylem and xylem analytics.we use cookies and beacons to improve your experience on our site. read more about this in our privacy policy.
+
+
+
+
+
+
+
+
+
+
+
+
+more videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+

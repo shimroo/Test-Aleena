@@ -1,0 +1,493 @@
+
+
+
+
+
+
+
+
+
+niu department of computer science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ niu.edu 
+	
+
+
+
+
+a-z index
+
+
+calendar
+
+
+directory
+
+
+ libraries
+
+
+make a gift
+
+
+info for
+
+students
+faculty and staff
+parents and families
+alumni and friends
+community and business
+prospective employees
+
+
+
+quick links
+
+blackboard
+myniu
+myscholarships
+huskielink
+office 365
+anywhere apps
+qualtrics
+navigate
+huskies get hired
+student email
+password self-service
+
+
+
+
+
+
+
+search niu
+
+
+
+
+toggle search
+
+
+
+
+
+
+submit
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+search niu
+
+
+
+
+submit
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+department of computer science
+
+college of liberal arts and sciences 
+
+
+
+
+
+
+
+search niu
+
+
+
+submit
+
+
+
+
+
+
+
+about
+
+
+
+mission statement
+
+
+news
+
+
+faculty and staff
+
+
+why computer science
+
+
+contacts
+
+
+
+
+
+undergraduate
+
+
+
+overview
+
+
+limited admission
+
+
+requirements
+
+
+minor
+
+
+second degree
+
+
+advising
+
+
+courses
+
+
+mobile programming
+
+
+
+
+
+graduate
+
+
+
+overview
+
+
+master’s
+
+
+doctoral
+
+
+requirements
+
+
+admissions
+
+
+
+
+
+
+research
+
+
+
+
+campus experience
+
+
+
+facilities
+
+
+acm
+
+
+resources
+
+
+
+
+
+careers
+
+
+
+employers
+
+
+recruiting
+
+
+internships
+
+
+training
+
+
+
+
+
+
+
+a-z index
+
+
+calendar
+
+
+directory
+
+
+ libraries
+
+
+make a gift
+
+
+
+students
+faculty and staff
+parents and families
+alumni and friends
+community and business
+prospective employees
+
+info for
+
+
+
+blackboard
+myniu
+myscholarships
+huskielink
+office 365
+anywhere apps
+qualtrics
+navigate
+huskies get hired
+student email
+password self-service
+
+quick links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cutting edge tech
+get hands-on experience with today's most exciting technology, such as virtual reality, artificial intelligence, data science, computer graphics, and more!
+
+
+
+
+
+
+
+learn together
+collaborate with our research faculty on projects or scientific papers, and work with other students to gain valuable teamwork skills as software developers.
+
+
+
+
+
+
+
+meets on fridays!
+
+
+
+
+
+
+previous
+
+
+
+next
+
+
+
+welcome
+the niu computer science department has been successfully educating computer professionals for almost 40 years. our programs keep pace with industry demands for well-trained graduates who are ready to assume vital roles in the field of computer science immediately upon entry into the work force. in addition, our ms program has undergone significant changes with the establishment of a track system which will allow more flexibility for students, as well as through the creation of a thesis option in addition to our traditional course-only approach. i encourage you to examine the rest of the department’s web site to find out more about our successful curriculum and various departmental activities. — nicholas karonis, chair
+
+
+news
+
+congratulations to professor kholidy on receiving his best paper award for the third time as a sole author! "a novel blockchain approach for continuously authenticating uav's to achieve zero trust principles in 5g-enabled uav's" is described as the first of its kind!
+congratulations to cs major and research rookie minhaz patel, who with his faculty mentor professor alhoori, won second place at niu's conference on undergraduate research and engagement!
+faculty member geoffrey decker has been selected as a 2022 ibm champion, as well as for 2023! this program recognizes individuals who make extraordinary contributions to the ibm communities through advocacy, offerings, and programs; sharing their knowledge and expertise; and helping nurture and grow the community.
+the data, devices, and interaction laboratory (ddilab), lead by prsa professor michael papka and associate research professor joe insley, is designated by intel as an oneapi center of excellence.
+check out the acm presentation this thursday, october 14th in pm 103 with brian kasper from insurance auto auctions as they discuss how cs majors fit into the job market today.
+two cs alumni are recognized by the niu alumni association with distinguished alumnus (velchamy sankarlingam m.s. â90) and alumni achievement in the sciences award (matt price â09) distinctions.
+professor alhoori and professor koop are featured in a niu newsroom university broadcast highlighting their contributions to an "explainable ai" to help with the reproducibility crisis in research.
+niu master's student ryan lewis presented a poster on “log-based fingerprinting of hpc applications” at the annual isc high performance conference.
+
+
+
+
+events
+
+october 29th, 11am - 2pm: us virtual ibm z career fair hosted online at https://ibm.biz/ibmz-careerfair!
+
+
+
+
+
+
+
+
+by the numbers
+
+750+
+undergraduate majors
+overview
+
+
+200+
+graduate students
+overview
+
+
+3
+degree programs
+
+
+
+$19m+
+external funding
+
+
+11
+federal and private sponsors
+see sponsors
+
+
+11
+patents
+
+
+
+
+
+
+
+
+
+
+
+ apply to niu 
+ visit campus 
+ directions/maps 
+ contact us 
+
+
+
+
+  
+
+
+
+
+ emergency info  
+ accessibility 
+ jobs @ niu 
+ niuhuskies.com 
+
+
+
+
+
+©
+
+board of trustees of northern illinois university. all rights reserved. privacy notice 
+
+
+1425 w. lincoln hwy., dekalb, il 60115
+
+
+
+
+
+  
+
+
+
+ apply to niu visit campus directions/maps contact us emergency info accessibility jobs @ niu niuhuskies.com 
+
+
+
+
+ ©
+
+board of trustees of northern illinois university. all rights reserved. privacy notice 
+
+
+1425 w. lincoln hwy., dekalb, il 60115
+
+
+
+
+
+
+back to top
+
+
+
+
+
+
+
+
+
+

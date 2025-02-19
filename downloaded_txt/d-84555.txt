@@ -1,0 +1,403 @@
+
+
+
+
+
+
+cod meteorology -- nexlab homepage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what does this mean?
+
+
+
+
+home
+academics
+weather data
+cod storm chasing
+local weather
+faqs
+
+
+
+
+
+
+
+
+
+classes & notes
+
+
+wx lab help
+
+
+as degree info
+
+
+4-year met programs
+
+
+student ams club
+
+
+media pages
+
+
+
+
+
+
+
+analysis data
+
+
+satellite and radar
+
+
+numerical models
+
+
+text products
+
+
+experimental text
+
+
+links
+
+
+
+
+
+
+
+main page
+
+
+trips and registration
+
+
+materials
+
+
+faqs
+
+
+storm chase tracker
+
+
+media pages
+
+
+
+
+
+
+
+dupage forecast
+
+
+dupage radar
+
+
+il regional radar
+
+
+il visible satellite
+
+
+il infrared satellite 
+
+
+metro surface map
+
+
+campus weather
+
+
+
+
+
+
+
+general
+
+
+chasing
+
+
+
+
+
+
+
+
+
+
+
+cod current conditions
+
+
+
+temperature
+dewpoint
+
+
+5°f
+-3°f
+
+
+feels like:
+-8°f
+
+
+
+             sky: partly cloudy
+             wx: none           
+
+
+
+
+
+wind: wnw at 8 mph
+
+
+
+
+
+
+
+
+severe t-storm warning: 
+ 
+
+
+tornado warning: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+college of dupage meteorology program
+the college of dupage experience is nothing like any other meteorology
+program in the nation. here, you can begin learning real meteorology right
+away and have more courses to choose from than anywhere else. whether you are
+interested in forecasting, severe weather, or more traditional atmospheric
+sciences, cod will allow students of all ages a chance to
+delve into how the atmosphere works from the start of their academic
+career. students wishing to obtain a four year degree will be able to
+transfer to another school as a junior with a wealth of experiences and a
+top-quality education. others who wish to learn more about meteorology in
+relation to other careers will find the weather offerings at cod challenging
+and fascinating.
+
+
+college of dupage meteorology program
+
+
+general courses
+severe weather
+forecasting
+climate
+ams club
+web alert
+
+
+
+esas 1110 introduction to meteorology
+a first look at various aspects of meteorology, including solar radiation, global circulation, environmental issues, winds, stability, precipitation processes, weather systems, and severe weather. basic physical principles, meteorological terminology, societal impacts, and weather analysis will be explored.
+notes and syllabus by paul sirvatka
+esas 2110 intermediate meteorology
+a quantitative first look at the science of meteorology. physical concepts will be examined using algebraic methods to prepare students for material using higher mathematics. operational, physical, and dynamical meteorology will be discussed to give students an overall understanding of atmospheric science. equations of motion, thermodynamics, and the primitive equations will be among the topics covered.
+
+notes and syllabus by paul sirvatka
+
+
+esas 1115 severe and unusual weather
+in depth study of meteorological phenomena relating to severe thunderstorms, el nino/southern oscillation events, and tropical storms. topics will include severe weather spotting, weather radar, atmospheric soundings, tornadogenesis, el nino, tropical meteorology, hurricanes, and an introduction to numerical weather prediction. basic  physical principles, their relation to weather events, and weather's impact on society will also be explored. 
+notes and syllabus by paul sirvatka
+esas 2115 mesoscale meteorology
+in depth study of meteorological phenomena with short temporal and small spatial scales. topics will include tools for mesoscale analysis, mesoscale modeling, 
+thermally-forced circulations, fog, mesoscale winter events, and the morphology of convective systems including squall lines, mesoscale convective systems and supercells 
+and their associated threats including flash floods and tornadoes. other topics of current research interest will also be covered.
+notes and syllabus by paul sirvatka
+
+esas 2118 severe weather lab
+an in-depth study of severe weather forecasting and analysis. an emphasis is placed on hand analysis of raw data, assessing short term numerical weather models, and 
+nowcasting. students monitor events prior to and during severe weather events using real time radar and other data sources. students gain a better understanding of severe 
+weather initiation and evolution. local field trips to observe severe weather first-hand may be included. may be taken up to two times for credit. prerequisite: earth 
+science 1115 with a grade of c or better or consent of instructor.
+severe weather lab syllabus and rules: paul sirvatka
+thunderstorm laboratory
+a field study experience to study thunderstorms in their natural environment. storm chasing combines knowledge and experience. severe weather safety and spotting techniques 
+will be explored. 
+cod/nexlab storm chasing web page
+
+
+esas 1116 weather analysis and forecasting i
+
+a study of day-to-day weather patterns with an emphasis on understanding the basics of meteorological processes and forecasting. students read weather reports and weather 
+maps needed to analyze current conditions and forecast weather. taking advantage of a fully-operational weather laboratory, students monitor current weather conditions 
+locally and across the nation. 
+forecasting class notes and syllabi: paul sirvatka 
+esas 1117 weather analysis and forecasting ii
+
+a continuation of weather analysis and forecasting i. students continue investigating sources of data, learn to analyze raw images, and interpret numerical weather 
+forecasts. taking advantage of a fully-operational weather laboratory, students monitor current weather conditions locally and across the nation. 
+forecasting class notes and syllabi: paul sirvatka 
+esas 2116 advanced weather analysis and forecasting i
+
+a continuation of weather analysis and forecasting ii. emphasis is on independent analysis of weather events, forecast preparation, and mastery of hand data analysis. 
+taking advantage of a fully-operational weather laboratory, students monitor current weather conditions locally and across the nation. 
+forecasting class notes and syllabi: paul sirvatka 
+esas 2117 advanced weather analysis and forecasting ii
+
+a continuation of advanced weather analysis and forecasting i. students prepare a weekly forecast for the chicago metropolitan area generally and dupage county 
+specifically, and track and evaluate their forecasting accuracy. taking advantage of a fully-operational weather laboratory, students monitor current weather conditions 
+locally and across the nation. 
+forecasting class notes and syllabi: paul sirvatka 
+
+
+esas 1111 climate and global change
+
+introduction to the earth's climate, climate change, and the interactions between climate and the global environment. physical, chemical, biological, and social factors 
+contributing to climate and global change are investigated. topics explored are: climate classifications, global warming and greenhouse effect, acid rain, ozone depletion, 
+regional drought, and cataclysmic climate change. man-made climate change as opposed to natural variability, along with human responses to potential climate change are 
+debated. 
+forecasting class notes and syllabus: paul sirvatka 
+
+
+ american meteorolgoical society - cod student chapter
+          our very own weather club at cod! we hold several meetings throughout the school year that frequently include presentations from professionals within the field. we also organize various activities including social events, field trips, and ways to benefit the the community. all are welcome to participate and join! see our website for details.
+cod-ams website 
+recent nexlab website information and alerts:
+
+
+
+
+
+
+
+
+          for up-to-date information about data issues and changes to our website, follow our codwxdata and codmeteorology twitter accounts.
+		  if you spot any broken links or products, let us know via our feedback page.
+	   
+
+
+
+
+
+
+
+
+
+
+
+
+college of dupage weather lab
+    copyright 2025  
+  
+college of dupage nexlab
+  425 fawell boulevard
+  berg instructional center (bic)
+  bic 3501
+  glen ellyn, il 60137
+  630-942-2590
+  
+
+
+about the weather lab
+nexlab staff
+terms of use
+directions
+
+partners
+allisonhouse
+chicago nat'l  weather service
+dupage office of emergency mgmt
+niu - department of earth, atmosphere and environment
+
+
+college of dupage
+admissions & registration
+campus map
+emergency school closings
+public safety
+wdcb public radio
+
+donate
+storm and disaster relief
+become a nexlab donor
+
+
+
+
+

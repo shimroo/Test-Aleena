@@ -1,0 +1,221 @@
+
+
+
+
+
+
+
+
+dossy's blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dossy's blogeverything that comes out of dossy, from the strange to the banal.i honestly don’t understand how dreamhost stays in business.
+december 5, 2020  by dossy shiobara 2 comments 
+
+
+yesterday, a client of mine was having their dreamhost dedicated server migrated to a new dedicated server because the one they are on intermittently becomes unresponsive at 8pm et, seemingly at random.
+dreamhost’s diagnosis is that the server is on a linux kernel version that is supposedly causing this, and their recommended solution to the problem isn’t to just upgrade to a kernel that doesn’t have this problem, which would be trivially simple, but to upgrade the entire operating system and migrating to a new dedicated server.
+as a person who manages servers for a living, i get it: it can suck having to support old stuff sometimes. the old server is on ubuntu 14.04.6 lts, which is quite old at this point, but isn’t due to reach end of life until april 2022. the new dedicated server they’re moving us to is only on ubuntu 18.04.5 lts, which isn’t even the newest ubuntu at this point, which would be ubuntu 20.04.1 lts. still, any opportunity to force a customer to do a major os upgrade because the service you’re providing is failing intermittently, i suppose if you don’t give a shit about your customer, you make them do it.
+there’s only four small sites being hosted on this server.
+there are a combined total of 103.3 gb worth of files, and 7.5 gb worth of mysql data. these numbers might seem large by year 2000 standards, but in 2020, this is trivially small; it can all fit comfortably in ram on any modern server, or stored on a modern iphone.
+transferring this from one server to another over a 1 gbps link shouldn’t take more than 19 minutes, and less than 2 minutes on a 10 gbps link. migrating from one server to another shouldn’t take more than 30 minutes, tops, and that’s if you’re a neanderthal and type with your fucking elbows.
+
+source: odiouswench on youtube
+
+thinking that this should be a quick and easy migration, we requested the migration back on october 28th, asking for a date and time when the migration could be done. on october 30th, dreamhost responds saying the data center team would need to do some prep, and that they’d let us know when they could schedule the upgrade, “likely early next week.”
+apparently, “early next week” in dreamhost-speak takes over a month.
+fast-forward a month, and on november 28th, i send a follow-up message asking what the status is with our request. four days later, on december 2nd, i get a response saying they’re ready to go. i respond on december 3rd, requesting the soonest available time slot, because at this point i just want to get this over with. i get a response late that night saying that they’ll schedule the upgrade for the next day, december 4th, at 11am pt/2pm et. fantastic, we’ve got a plan!
+the time comes, it’s 2pm et, and i’m sitting here, with the cloudflare panel open in one tab, the dreamhost panel open in another, and the sites all lined up in 4 other tabs, ready to pull the trigger on changing the dns to point everything at the new server to minimize whatever downtime i can. i’m prepared.
+at 2:57pm, i get an email from dreamhost saying that they’re only now starting the migration. 🤦  okay, fine, whatever. the email says i’ll receive an automated email once the upgrade is done. cool, let’s get this over with!
+… time passes …
+… and some more time passes …
+… i’m starting to wonder if my spam filter ate their automated email …
+… and the sites still haven’t been migrated …
+at 7:26pm, i send an email pointing out that at least one of the sites is down because it can no longer connect to its database. i point out that i haven’t gotten an email that the migration has completed yet, so either their process has failed or they have seriously taken four and a half hours, so far, to complete a migration that should have been 30 minutes, tops.
+at 8:37pm, having gotten no response to my earlier email, and the site still being down, i send another email, asking for an update. how much longer could this possibly take?
+getting no responses to my emails, i decide to give dreamhost support’s “live chat” a shot. i queue up at 9:17pm, and eventually get connected to a person at 9:27pm. i ask for a status update with our migration. i notice that while i was waiting in queue, an email arrived at 9:16pm saying their upgrade process failed and had to be restarted.
+are you fucking kidding me?
+i stay on the live chat to try and get progress updates, and see if there’s any chance this is going to actually get done tonight.  sadly, at 10:19pm, i’m told that the migration process has failed again, and that the tech who was doing it will revert part of the migration to point the sites at the databases on the old dedicated server to bring the sites back online, and that they’ll come back to this on monday.
+at 10:42pm, i’m informed that the sites should be back online and that and that there’s nothing more that will be done this evening.  i confirm that the sites are back online, and end the chat.
+***
+i was a long-time dreamhost customer, myself, since 2006.  but, after they changed their service offering in 2015, i had enough and closed my account.
+at that time, i was just happy enough to leave and leave it at that.  but now, 5 years later, seeing that the dreamhost experience has continued to get worse over time, i’ve decided that not only am i not going to give them my business, i’m not going to have my clients give them their business, either.
+if you’re currently hosted at dreamhost and unhappy and want to move away, but haven’t because you’re either uncomfortable moving your site by yourself, or you’ve tried hiring someone in the past to do it and they failed, i want to help move you.
+contact me and tell me about your dreamhost experience, and i’ll see to it that you’re moved to better hosting. 
+filed under: believe it, or not, business, freelancing, geeking out, linux, mysql, panoptic, wtf 2 commentshow do i learn how to ask for help?
+august 9, 2020  by dossy shiobara 1 comment i’m currently listening to amanda palmer’s the art of asking audiobook.
+i was born in the 1970s, grew up in the 1980s and 1990s, and a latch-key kid. on top of that, i’m an only child.
+amanda’s only a few months older than i am. we both grew up in the northeastern united states. she has an older sister, so she’s not an only child, like me.
+if i ever wanted anything, i had to figure out how to get it myself. i had no one to ask for help.
+i never learned how to ask for help.
+she describes asking for help as this wonderful thing, where you just put your faith in the universe that if you just ask, that you can trust people who will answer.
+the audiobook is filled with great stories of times where she’s needed things and just by asking, got what she needed, usually.
+she tells the story of someone who doesn’t usually ask for help, and the one time he does, when he really needed it–to have his aunt reconcile with his dying mom–and she refused, it crushed him.
+i may be misremembering details of the parable, as i was listening to it while driving, but i seem to recall her advice is to not only ask for help when you absolutely need it, but to just ask for help all the time, so that you can learn to handle rejection which is inevitable. definitely sounds like some sage advice.
+i don’t know how to ask for help.
+the times when i need help, it’s because i don’t even know what i need. exactly how do you ask the universe for help when you don’t even know what you need?
+this is my conundrum. as someone who has learned to be wholly independent, if i knew what i needed, i would just go out and get it or go and do it myself.
+i’m only half-way through amanda’s audiobook, so maybe she’ll explain what to do in this situation. i wanted to get these thoughts down in writing while they were bouncing around in my head, though.
+do you know how to ask for help?
+how did you learn how to ask for help?
+filed under: observations, self improvement 1 commentgoodbye, dreamhost
+december 16, 2015  by dossy shiobara 3 comments i can’t believe that i’m canceling my dreamhost account, just one month shy of my 10 year anniversary with them.
+
+i first signed up for my dreamhost account back in january of 2006. for the most part, it’s been a great experience. i originally signed up for the two-year plan for $214.80 ($8.95/month), and added vps to my account in march 2009, for an additional $18/month.
+i was okay spending the extra money in order to have a vps that i had full control over. dreamhost even tweeted about offering root access with their vps back in february 2011. it was definitely part of the attraction for many customers.
+
+then, on november 17, 2015, dreamhost sends out an email informing customers that in two weeks, they would be removing everyone’s sudo (root) access, on november 30.
+wow. just … wow.
+what recourse did we have? try and sign up for their dreamcompute offering, which is still in public beta, and there’s now a wait-list to even get access to it?
+sell me a product, then take away a key feature but still charge the same price, while suggesting an upsell into a different product offering if i want to get that feature back? that’s called bait-and-switch, and that borders on fraud.
+this was the last straw. several times in the past i’ve wanted to switch away but was too busy to really do it, but this forced my hand: i had to move away, and from the looks of it, i wasn’t the only one.
+i ended up moving my stuff over to amazon aws. it looks like it’ll cost me around $10-12/month, netting me a savings of close to $15/month compared to the $26.95/month i was spending at dreamhost.
+i’m relieved now that i’ve actually gotten around to moving everything off dreamhost. no more wondering if they’re going to change their product offerings again. no more wondering if my sites are going to come back up when they’re down.
+well, dreamhost, it’s been nice knowin’ ya, but i’m officially done. i suppose it was good while it lasted, but like many good things, this too had to come to an end.
+edited to add: and, the account is now fully closed.
+
+filed under: geeking out, piss and moan (rants), product placement 3 commentshow to migrate a cvs module to git and github
+december 9, 2015  by dossy shiobara leave a comment since it took me a while to figure out, i figured this might be useful to document: migrating code from cvs to git.  specifically, i was moving modules in a cvs repository on sourceforge over to github.
+here are the versions of the tools that i used:
+$ rsync --version | head -1
+rsync  version 3.1.0  protocol version 31
+$ cvs --version | head -2 | tail -1
+concurrent versions system (cvs) 1.12.13 (client/server)
+$ git --version
+git version 2.6.3
+$ cvsps -v
+cvsps: version 3.13
+first, i grabbed a copy of the cvsroot, and checked out the module so i had a reference copy to compare to when i’m done.
+$ rsync -av aolserver.cvs.sourceforge.net::cvsroot/aolserver/ aolserver-cvs
+$ cvs -d $(pwd)/aolserver-cvs co -d nsmysql-cvs nsmysql
+then, i create the working directory for the local git repo.
+$ mkdir nsmysql
+$ git init nsmysql
+next, do the actual cvs-to-git conversion.
+$ cvsps --root $(pwd)/aolserver-cvs nsmysql --fast-export | git --git-dir=nsmysql/.git fast-import
+finally, do a diff to compare the two working directories to make sure the import worked correctly.
+$ cd nsmysql
+$ git checkout master
+$ diff -x .git -x cvs -urn . ../nsmysql-cvs
+if everything looks good, go ahead and push it up to github.
+$ git remote add origin git@github.com:aolserver/nsmysql.git
+$ git config remote.origin.push head
+$ git push -u origin master
+i don’t do this often, but when i do, i always have to figure it out each time, so hopefully next time i’ll find this blog post at the top of my search results and save myself some time.
+filed under: aolserver, geeking out, open source leave a commentwho does a boycott really hurt?
+september 27, 2013  by dossy shiobara leave a comment the latest social media shitstorm is about guido barilla saying, “i would not do a commercial with a homosexual family, not for lack of respect toward homosexuals – who have the right to do whatever they want without disturbing others – but because i don
+filed under: business, marketing, observations, product placement leave a commentsometimes, the “best by” date is right
+september 23, 2013  by dossy shiobara leave a comment sam and i just had a conversation that went something like this:
+sam: i think these peanuts don’t taste right.
+me: oh?
+sam: the “best by” date said august… it’s been less than a month!
+me: i guess that’s why they don’t taste their best, now…
+sometimes, that “best by” date is no joke.  who knew?  :-)
+filed under: observations leave a commenta lesson in buying eggs
+august 2, 2013  by dossy shiobara leave a comment the other day, my daughter was instructed to go get the eggs while out shopping, and she did.  however, upon later inspection at home, it turns out several of the eggs were cracked in the carton she selected.
+
+it’s not until something like this happens that you realize how much we take for granted.  at some point in our lives, we instinctually know to open the carton and quickly inspect the eggs to see if any are broken before buying them, but even after years of watching us select eggs, this lesson hadn’t sunken in.
+being the totally silly dad that i am, as part of the “please, check the eggs before you take them” lecture, i threw this out:
+
+me: “you know what they say about buying eggs, right?”
+her: “um, no?”
+me: “yalo.”
+her: *puzzled look*
+me: “you always look once.”
+
+she began to laugh uncontrollably at this meme-gone-bad that i’d thrown out there.  i don’t know if she’s learned the lesson, but hopefully she’ll remember it now …
+filed under: education, family leave a commentsuzie and her monkey friend
+june 20, 2013  by dossy shiobara 2 comments 
+just testing out the wordpress ios app’s handling of “quick photo” posting—i’m curious as to what markup it’ll generate.
+and, what better to use as a test than a great picture of suzie with her little monkey friend? :-)
+filed under: family 2 commentswhy prism, and programs like it, really don’t matter
+june 10, 2013  by dossy shiobara 1 comment the government obviously has had this data for quite some time, and no one i know of has been grabbed by the secret police, nor could they use the data to stop the boston marathon bombing before it took place.
+government organizations are simply incapable of making use of the data they have access to.  i have no doubt of that.  i am much more fearful of this breadth of data in the hands of an enterprising individual with a specific, focused agenda.  bureaucracy by sheer existence will ensure this data will remain impotent in the government’s hands.
+we should focus on real threats, not imagined ones, like what our government did to a person like aaron swartz.  after this prism leak, is the everyman going to care more about “this risk to my personal freedom and privacy” (which never existed in the first place–what a farce), or what our government actually does do to destroy a citizen’s life, like aaron’s?
+smart money on the fact that people care less about what happened to aaron than what they think might happen to them (but it never will), simply because they are not aaron.  and, that is the tragedy here…
+filed under: observations, piss and moan (rants), politics 1 commenti’m still not blogging more
+march 25, 2013  by dossy shiobara leave a comment i honestly thought i would be blogging a little bit more, since switching from android to iphone, since the ios wordpress app is so nice, but i just don’t seem to get into it.  it’s just too easy to post short stuff to twitter, and photos to instagram or facebook …
+i think a part of this is the belief that more people follow me on twitter, or are friends of mine on facebook, than read my blog.
+there are times when i need to write something down because i know my poor rat brain won’t remember it, so i post it to my blog for my future self.
+then, there are times i want to share something with others… and those are the kinds of things i post to social media sites because that’s where i figure i’ll reach the most people.  i suppose if i had the kind of audience that celebrities have, i could post everything here… but i don’t.
+i guess i’m just doing some thinking out loud here (uh, typing out loud? writing out loud? writing in plain view?) … just confirming that my lack of posting is definitely not because of some barrier of difficulty: this ios wordpress app makes this so damn easy.
+filed under: blogging, dossy, dossy and more dossy! leave a commentnext page »programmer, husband, father, singer, guitarist, tinkerer, reverse engineer, strange, and living in new jersey. read more…
+
+stay up to date
+
+
+
+
+get updates emailed to your inbox:
+
+
+
+
+
+social networking
+
+google+
+
+
+follow @dossy on twitter
+
+retail therapy
+
+disclosure: some of the links on this website are affiliate links.  as an amazon associate i earn from qualifying purchases.  this means that, at zero cost to you, i will earn an affiliate commission if you click through the link and finalize a purchase.
+
+
+latest comments
+dossy shiobara on i honestly don’t understand how dreamhost stays in business.erin on butte pirates, remember this gag?emma jean nelson on why has god made me suffer all my life?terri nakamura on i honestly don’t understand how dreamhost stays in business.lisa on why has god made me suffer all my life?
+more posts
+artificial insomnia, this is not goodrecently, my witch doctor and i decided to change up my … » moremicrosoft inbound connection limit nazi says: no connection for you!so, i put together a win32 binary release of aolserver 4 and … » morehow to upgrade an at&t captivate to gingerbread with cognition 5 on a macdisclaimer: everything you see here is at-your-own-risk.  if … » morewhy i hate my commute …ah, i didn't properly mention exactly why i hate my new … » morei cancelled my sourceforge subscription todayso, the aolserver.com site, which has been hosted at … » more
+return to top of pagecopyright © 2025 · log in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

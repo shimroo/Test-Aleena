@@ -1,0 +1,58 @@
+
+
+
+radware captcha page
+
+
+
+
+
+
+
+
+
+
+
+
+
+we apologize for the inconvenience...
+...but your activity and behavior on this site made us think that you are a bot.
+note: a number of things could be going on here.
+
+if you are attempting to access this site using an anonymous private/proxy network, please disable that and try accessing site again.
+due to previously detected malicious behavior which originated from the network you're using, please request unblock to site.
+
+
+
+incident id: 8810668e-cv5f-48a1-a933-026bec4dcc94
+
+
+
+
+ please solve this captcha to request unblock to the website 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		you reached this page when trying to access
+		https://www.spark.co.nz/xtra from
+		110.93.234.10 on
+		february 18 2025, 03:17:52 utc
+
+
+

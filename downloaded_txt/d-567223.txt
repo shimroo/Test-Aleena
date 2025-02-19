@@ -1,0 +1,316 @@
+
+
+
+
+
+auton lab
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome
+
+application areas
+
+research
+
+impact
+
+publications
+
+resources
+
+people
+
+careers
+
+
+
+
+
+
+
+
+
+
+
+
+intelligent systems that work, are useful, and make economic sense.
+
+we are an academic lab that studies theory, algorithms, and applications of artificial intelligence, machine learning, and robotics. we are part of the school of computer science at carnegie mellon university. by constantly exposing our work to application domain specific constraints and challenges that occur in the real world, we identify gaps in the science of ai and our fundamental research focuses on developing new methods to improve the application of ai in practice.
+
+
+areas where we are making an impact:
+
+
+
+
+
+
+
+
+alumni
+
+autonians go on to do a lot of great things, from academia, to industry, to government.
+
+
+
+
+
+
+
+covid dashboard
+
+auton lab helps allegheny health department forecast covid outbreaks from measurements of virus loads in wastewater samples.
+
+
+
+
+
+
+
+enhanced radiological nuclear inspection and evaluation
+
+using machine learning to confidently adjudicate threatening and benign radiation signatures.
+
+
+
+
+
+
+
+food safety
+
+work with usda and the cdc to monitor outbreak of food-borne illness across the us
+
+
+
+
+
+
+
+health care & public health
+
+research at the intersection of medicine and machine learning. the auton lab works closely with clinicians to identify opportunities for ai and ml to make an impact in medical practice and clinical research. lab history of impact in healthcare applications goes back decades. our lab aims to lead the field towards deploying ai in ways that are clinically relevant and help save lives.
+
+
+
+
+
+
+
+industry
+
+principals at auton lab are partners with industrial research groups.
+
+
+
+
+
+
+
+counter human trafficking
+
+matching entites across escort advertisements to disrupt human trafficking rings and rescue the victims of trafficking.
+
+
+
+
+
+
+
+ai x natural sciences & knowledge discovery
+
+how can we immerse ai solutions in well-established fields of science and engineering to benefit them from the promise of ai? automation can increase throughput and efficiency of processing vast amounts of data that informs scientific thinking. assisted discovery can accelerate the scientific process. among many interesting challenges that occur at the intersection of ai and fundamental sciences is the need to bridge the gap between data-driven policy and empirical science. natural sciences evolve as our collective understanding of the universe increases, therefore it is important to ensure that ai can leverage this ever-increasing knowledge. we wish for it to be able to absorb it in its native declarative form while still being able to corroborate and contextualize these fundamental concepts using the currently prevalent ai process of learning from data.
+
+
+
+
+
+
+
+robotics & autonomous vehicles
+
+auton lab research on robotics systems spans perception, cognition, and actuation. current application domains for robotics research include autonomous trama care robots as well as autonomous vehicles.
+
+
+
+
+
+
+
+safety & security
+
+our projects in this application area represent a variety of critical contexts for artificial intelligence and machine learning that are collaborations with industrial and government sponsors at the local, state, and federal level. in addition to deploying intelligent systems, part of the work in this context is defining ways to modernize existing processes to produce data that is ai-ready.
+
+
+
+
+
+
+
+start-ups
+
+concepts developed at auton lab spin off into successful startups
+
+
+
+
+
+
+
+time-series intelligence
+
+we frequently encounter time dependent, sequential data of observations prior to an event of interest. the structure of this data can vary wildly, from structured but haphazardly sampled observations, high frequency, multivariate sensor data, or video data. we are interested in using this data to predict future events, detect anomalies, quantify risks, and explain anomalies.
+
+
+
+
+
+
+latest news
+
+
+sep 18, 2023
+
+            congratulations 2023 hackauton winners!
+        thank you to all of the students that participated in our 2023 hackauton! we saw many clever ideas and unique methods that help push the boundaries of leveraging artificial intelligence in many application areas. check out the event’s dedicated github page here and see the list of winning teams here!
+
+sep 9, 2023
+
+            auton lab turns 30 years old
+        
+
+sep 1, 2023
+
+            one week until our 30th anniversary celebration!
+        we are so excited to celebrate this incredible milestone with you all! join us to reflect on the lab’s numerous impacts over the years and explore future ai research endeavors. lab swag will be available at the event for all!
+looking for some graphics to post on your socials about the event? check out our event’s social media toolkit!
+
+jul 24, 2023
+
+            registration opens for our 2023 hackauton!
+        in celebration of our 30th anniversary, the lab is hosting our very own hackauton. the event will take place from september 15th-17th. check out our event website and register today!
+
+jul 14, 2023
+
+            join us for auton lab's 30th birthday!
+        the auton lab is turning 30 years old! calling all alumni, sponsors, collaborators and friends - please join us for a weekend of activities from september 8th to september 10th, 2023. rsvp today on our 30th anniversary website.
+
+sep 10, 2022
+
+            auton lab turns 29 years old
+        
+
+aug 5, 2022
+
+            survival analysis work featured on ml@cmu blog
+        auton-survival is an open source package for regression, counterfactual estimation, evaluation and phenotyping with censored time-to-events. blog post
+
+jul 15, 2022
+
+            symposium on ai for predictive maintenance
+        the auton lab is organizing a aaai fall symposium on ai for predictive maintenance. submission deadline is august 27th. the event takes place in arlington, va november 17-19.
+
+jul 7, 2022
+
+            auton lab tracking covid-19 using viral levels in wastewater
+        cmu ai researchers team up with allegheny county health department to help predict virus surges.
+
+jun 1, 2022
+
+            $10.5m army contract to cmu lab will expand use of ai in predictive maintenance
+        the school of computer science’s auton lab will use $10.5 million from the u.s. army to lead a multi-institution effort to extend the capabilities of artificial intelligence in predictive maintenance.
+
+dec 29, 2021
+
+            auton lab provides analytic support to allegheny county health department's covid mitigation efforts
+        the auton lab’s work with the allegheny county health department (achd) was featured at wpxi media and in the official allegheny county press release. the auton lab is providing analytics to detect and forecast covid using microbiological testing of wastewater and developing a systematic analysis capability that this local public health office will use in daily practice.
+
+nov 18, 2021
+
+            eds-hat featured nationally
+        our enhanced detection system for healthcare-associated transmission algorithm is making news following a retrospective impact study led by our collaborators at the university of pittsburgh. by coupling machine learning with whole genome sequencing, cmu and university of pittsburgh school of medicine scientists have greatly improved the quick detection of infectious disease outbreaks within a hospital setting.
+
+cmu
+pittsburgh post gazette
+wall street journal
+
+
+oct 15, 2021
+
+            auton lab turns 28 years old
+        
+
+jul 12, 2021
+
+            marinus analytics places in xprize competition
+        cmu spinoff marinus analytics won third place in the ibm xprize for their work on counter-human-trafficking! marinus analytics has worked closely with the auton lab in the past in developing their methodology. see the full story on the cmu news site.
+
+
+
+
+
+
+
+
+
+
+
+follow us
+ github
+
+ linkedin 
+ twitter 
+
+
+
+come visit
+carnegie mellon university
+newell simon hall 3100 
+5000 forbes ave 
+pittsburgh pa 15213-3815
+
+
+contact us
+
+    412.268.6233
+artur dubrawski
+jeff schneider
+barnabas poczos
+
+
+
+
+

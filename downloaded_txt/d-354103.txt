@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+mitch fincher's home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mitch fincher's home page
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+
+
+
+home
+misc
+coinstacking
+knowledgebase
+quotes
+familynews
+genealogy
+utilities
+history
+blogs
+mayanperiodic
+about
+sarahssite
+
+ 
+
+
+
+
+
+
+
+
+ 
+        last updated  
+
+november 23, 2024
+
+
+howdy! here are some tutorials i've written on 
+    c# 7.x, 
+difference between scrum, kanban, and xp,     
+    javascript,  
+    rest, and 
+    sql.
+
+here's a little javascript art project i wrote for my daughter just for fun: 
+    www.mydoodledot.com,   and a page on the presidents i wrote with my daughter: 
+    www.thepresidentsoftheunitedstates.com
+    and the 
+    awana game timer.
+here' a few family pics:
+
+
+visit my other web projects:
+www.mydoodledot.com, 
+www.thepresidentsoftheunitedstates.com, 
+
+
+
+
+
+
+
+
+ 
+
+
+home
+misc
+
+pennies
+humor
+physicsjokes
+itjustaintso
+raisethealbedo
+didyaknow
+alternateenergy
+migraines
+library
+airforcephotos
+logicalfallacies
+misc
+recipes
+kidsbooks
+codesforkids
+economics
+roofers
+favoritelinks
+howtocontactelectedofficials
+todayilearned
+conversationtips
+about
+
+coinstacking
+
+picture of the week
+howto
+original
+submit your photos
+
+knowledgebase
+
+softwareengineering
+
+agile overview 2013
+functional programming
+domain driven design
+object oriented design
+uml
+patterns
+rationalunifiedprocess
+extremeprogramming
+unit testing
+recommendedreading
+softwareengineering2006
+softwareengineering1998
+
+softwaredevelopment
+
+foundations
+top10layoffsigns
+mockobjects
+dependencyinjection
+howtokeepyourjob
+resharper
+performance tuning
+interview questions
+personal tips
+gui design
+softwaredevelopment
+bugtracking
+nhibernate
+
+languages
+
+ruby
+c#
+f#
+java
+javascript
+jquery
+perl
+powershell
+tcl/tk
+lisp
+php
+rosetta
+
+web
+
+bootstrap3
+html5
+rest
+css3
+css
+html
+html4forms
+general
+apache
+
+xml
+
+schemas
+xml
+xslt
+xhtml
+
+general
+
+sql
+best free software
+unix
+linux
+webservices
+windows7
+windows
+
+reallife
+
+housebuying
+investing
+sports
+weddings
+kids
+
+
+quotes
+
+books
+magazines
+misc
+poems
+sigs
+cubbieverses
+pams
+sarahs
+friends
+verses
+tencommandmentsforkids
+
+familynews
+
+2022-2026
+
+jan-mar 2022
+apr-jun 2022
+jul-sep 2022
+oct-dec 2022
+jan-mar 2023
+apr-jun 2023
+jul-sep 2023
+oct-dec 2023
+jan-mar 2024
+apr-jun 2024
+jul-sep 2024
+
+2017-2021
+
+christmas 2021
+oct-dec 2021
+jul-sep 2021
+apr-jun 2021
+jan-mar 2021
+christmas 2020
+oct-dec 2020
+jul-sep 2020
+apr-jun 2020
+jan-mar 2020
+christmas 2019
+oct-dec 2019
+jul-sep 2019
+apr-jun 2019
+jan-mar 2019
+christmas 2018
+oct-dec 2018
+jul-sep 2018
+apr-jun 2018
+jan-mar 2018
+christmas 2017
+oct-dec 2017
+jul-sep 2017
+apr-jun 2017
+jan-mar 2017
+
+2012-2016
+
+christmas 2016
+oct-dec 2016
+jul-sep 2016
+apr-jun 2016
+jan-mar 2016
+christmas 2015
+oct-dec 2015
+jul-sep 2015
+apr-jun 2015
+japan 2015
+jan-mar 2015
+sarahschoolpics 2014
+christmas 2014
+oct-dec 2014
+jul-sep 2014
+apr-jun 2014
+jan-mar 2014
+oct-dec 2013
+jul-sep 2013
+apr-jun 2013
+jan-mar 2013
+christmas 2012
+oct-dec 2012
+jul-sep 2012
+apr-jun 2012
+jan-mar 2012
+
+2008-2011
+
+christmas 2011
+oct-dec 2011
+jul-sep 2011
+apr-jun 2011
+jan-mar 2011
+christmas 2010
+oct-dec 2010
+jul-sep 2010
+apr-jun 2010
+jan-mar 2010
+christmas 2009
+oct-dec 2009
+jul-sep 2009
+apr-jun 2009
+jan-mar 2009
+christmas 2008
+oct-dec 2008
+jul-sep 2008
+apr-jun 2008
+jan-mar 2008
+past episodes...
+
+2004-2007
+
+christmas 2007
+oct-dec 2007
+jul-sep 2007
+apr-jun 2007
+jan-mar 2007
+christmas 2006
+oct-dec 2006
+jul-sep 2006
+apr-jun 2006
+jan-mar 2006
+christmas 2005
+oct-dec 2005
+jul-sep 2005
+apr-jun 2005
+jan-mar 2005
+christmas 2004
+oct-dec 2004
+jul-sep 2004
+apr-jun 2004
+jan-mar 2004
+
+2002-2003
+
+christmas 2003
+oct-dec 2003
+jul-sep 2003
+may-jun 2003
+jan-mar 2003
+christmas 2002
+oct-dec 2002
+jul-sep 2002
+apr-jun 2002
+jan-mar 2002
+
+2000-2001
+
+christmas 2001
+oct-dec 2001
+jul-sep 2001
+apr-jun 2001
+jan-mar 2001
+christmas 2000
+oct-dec 2000
+jul-sep 2000
+apr-jun 2000
+jan-mar 2000
+
+1998-1999
+
+christmas 1999
+oct-dec 1999
+jul-sep 1999
+apr-jun 1999
+jan-mar 99
+christmas 1998
+oct-dec 1998
+jul-aug 1998
+apr-jun 1998
+jan-mar 1998
+
+1996-1997
+
+jul-dec 1997
+jan-jun 1997
+1996
+
+1960-1995
+
+1960
+1963
+1964
+1965
+1966
+1967
+1968
+1969 vietnam
+1970
+1971
+1974
+1976
+1978
+1980
+1982
+1983
+1984
+1990
+1991
+1992
+1993
+1994
+1995
+
+kawai
+
+kawai1
+kawai2
+kawai3
+kawai4
+kawai5
+
+
+genealogy
+
+fincher
+
+fincher
+belkswill
+anderson
+robertandersoniii
+coradocs
+
+pickens
+kane
+killough
+hunter
+photos
+
+fincher
+kane
+kawai
+jo
+
+
+utilities
+
+calculate interest
+countrylist
+asciichart
+
+history
+
+geologic timeline
+world timeline bc
+world timeline ad
+bible
+presidents of the united states
+randomthoughts
+
+blogs
+
+current
+2006b
+2006a
+2005a
+2004b
+2004a
+2003
+2002
+
+mayanperiodic
+about
+
+sitemap
+about
+morgue
+
+ajax
+rss
+pervasive
+coldfusion
+whatsnew2005
+whatsnew2004
+jdbc
+fearthepenguin
+
+
+sarahssite
+
+home
+cool books
+jokes
+coolfacts
+manners
+strangers
+
+
+
+search this site:
+
+
+
+
+
+
+
+
+go to home page.   kindly report errors, typos, or misspellings.
+  
+
+ 
+ 
+
+
+
+
+
+
+

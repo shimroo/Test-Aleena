@@ -1,0 +1,346 @@
+
+
+
+
+
+ansuz - matthew skala's home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ansuz
+people before tribes
+rss
+
+
+
+why language models need not get worse
+thursday 9 february 2023, 00:00
+sam kriss has a substack posting in which he describes the
+zairja of the world and then links it to his ideas on why ai is
+getting worse.  basically, what i get from the piece is that he's
+saying successive generations of gpt models have produced less and less
+valuable output as they better and better approximate the average
+content of the world wide web.  nearly all of the web is garbage, and
+so an approximation of the average web document is garbage too.  the
+output from older models is weird and interesting because more random
+and less accurately approximating the average web document; the output
+from new models is boring and worthless.  my own view is that these
+issues are not as serious or as inevitable as he presents them.  there
+seem to be some gaps in kriss's understanding of how language models,
+and the chatgpt web service in particular, work; and filling in the
+gaps points to some natural solutions for the problem he describes.
+...(more, 2 comments)
+自分のドキュメントクラスを作ろう
+wednesday 21 december 2022, 00:00
+latexで文書を書いてなら、時々すべてに体裁を指せたいです。
+たとえば僕の仕事で、アナログシンサーのマニュアルを書いて、いつも同じの体裁が欲しいです。
+latexのデフォルトは普通過ぎます。
+個性的な体裁を書きたいです。
+でも全部のnorth coast synthesisユーサーマニュアルは、同じの体裁が必要です。
+だから、自分のlatexクラスファイルを作りました。
+...(more)
+neural networks and the unix philosophy
+sunday 25 september 2022, 16:13
+there are a number of directions from which we can look at current
+developments in deep neural networks and the issues i raised in my streamed
+comments on pirate ai. 
+here's a summary of the implications i see from the perspective of the unix
+philosophy.
+...(more)
+somebody but not anybody
+tuesday 20 september 2022, 15:29
+we have a patient suffering kidney failure; he's in a lot of pain and the
+disease will soon kill him.  he could be saved - if someone would donate a
+kidney to be transplanted into this patient's body.  so, as a matter of
+ethics, somebody ought to do that, right?
+but who, exactly?
+...(more, 1 comment)
+on language modelling and pirate ai (transcript)
+sunday 11 september 2022, 00:00
+i've been thinking a lot recently about the current developments in
+deep neural network generative models, and how they implicate free
+software issues.  i went into a lot of this stuff in my july 25 twitch
+stream, and although i'd also like to write up some of my thoughts in a more
+organized way, the transcript of the relevant video content is a pretty
+decent introduction in itself, so i thought i'd post it here.
+this is an automatically generated transcript (by another of these
+models!), with a fair bit of manual editing - so it's spoken english written
+down, not the usual standard form of written english.  the video itself will
+go online eventually, but it may be a long time before that happens, because
+my video archive server is at capacity now and i probably won't expand it
+until the twitch stream gets enough viewers i can sell some subscriptions to
+pay the bills.
+...(more, 8 comments)
+the end of lotto 6/49 as we know it
+sunday 4 september 2022, 00:00
+the rules of lotto 6/49 are about to change in a way that i think is
+pretty significant.  it's drastic enough that i think we might well say
+lotto 6/49 is coming to an end, being replaced by a new game that is not
+even properly a lotto game anymore and only happens to reuse the name.
+...(more)
+embodying the machine
+sunday 28 august 2022, 00:00
+there's an idea in neuroscience that the brain maintains what is
+basically a 3d model of the body - the "body schema" - and that when we use
+tools, they become part of that schema.  claimed evidence for this concept
+includes studies where people were asked to perform a task with a tool, like
+picking up an object with a gripper like a pair of tongs, and then
+measurements afterward suggested their body schema had changed.  for
+instance, the person's response time and the way they moved when picking up
+an object without a tool might change in a way that suggested
+their internal estimate of the length of their arms had increased; or their
+perception of the distance between two touches on their forearm might
+increase, as if they were at some deep level measuring against an estimated
+forearm length that had increased.
+...(more)
+bad enough to qualify
+sunday 21 august 2022, 00:00
+today is the queen's plate, a horse race here in toronto that is
+considered a big enough deal to be reported in the general news media, and
+it had me thinking about a peculiarity of horse racing:  the qualifications
+to enter a race are usually backward compared to human sports.  whereas
+human athletes need to be good enough to qualify for an event,
+horses need to be not too good.
+...(more)
+the recipe for watering down a goal
+sunday 14 august 2022, 00:00
+the overlapping circles of "life coaching," "mindfulness," and certain
+fluffy religions, have a highly-developed technology for achieving personal
+goals, and it works well - provided you're willing to follow the recipe.
+...(more)
+what nobody else will do
+sunday 7 august 2022, 00:00
+somebody asked whether there's a purpose to my life (or that of whoever
+cared to answer) - on twitter, where my
+profile description currently consists the the three words "anchorite,
+apostate, asteroid."
+i don't think there is.  i used to think there was, but it's been some
+years since that fell apart for me.  however, it's interesting what's left.
+...(more)
+
+
+search
+
+
+
+
+links
+
+twitch
+
+about
+novel
+publications
+fonts
+
+email
+twitter
+
+support this site
+  
+middle path vco
+tags
+
+
+aardvark
+academic
+anime
+arch
+astrology
+ballad
+bandicoot
+cargo
+colour
+compsci
+conspiracy
+copenhagen
+copyright
+crypto
+cthulhu
+dares
+dragon
+dreams
+economy
+electronics
+employment
+environment
+fandom
+fiction
+finance
+games
+halloween
+hardware
+kde
+latex
+linguistics
+links
+linux
+livejournal
+math
+meta
+music
+myth
+networking
+north-coast
+nov01
+occult
+pandemic
+personal
+philosophy
+poetry
+politics
+pornography
+privacy
+programming
+psychology
+publishing
+pudding
+reference
+religion
+scifi
+security
+sex
+socialnet
+software
+sonnet
+spam
+sports
+travel
+typography
+web
+webcomics
+winnipeg
+アニメ
+作りましょう
+写真
+宗教
+日本語
+日記
+
+archives
+ feb 2023
+dec 2022
+sep 2022
+aug 2022
+jul 2022
+may 2022
+dec 2021
+nov 2021
+jul 2021
+apr 2021
+mar 2021
+dec 2020
+nov 2020
+aug 2020
+mar 2020
+feb 2020
+jan 2020
+dec 2019
+oct 2019
+sep 2019
+jul 2019
+may 2019
+apr 2019
+dec 2018
+sep 2018
+aug 2018
+jun 2018
+mar 2018
+jan 2018
+dec 2017
+nov 2017
+oct 2017
+jul 2017
+may 2017
+apr 2017
+mar 2017
+feb 2017
+jan 2017
+dec 2016
+nov 2016
+oct 2016
+sep 2016
+jul 2016
+may 2016
+feb 2016
+dec 2015
+nov 2015
+aug 2015
+dec 2014
+nov 2014
+oct 2014
+sep 2014
+aug 2014
+jul 2014
+jun 2014
+feb 2014
+dec 2013
+oct 2013
+aug 2013
+jul 2013
+mar 2013
+jan 2013
+aug 2012
+jul 2012
+apr 2012
+mar 2012
+feb 2012
+jan 2012
+dec 2011
+oct 2011
+sep 2011
+aug 2011
+jul 2011
+jun 2011
+may 2011
+apr 2011
+feb 2011
+jan 2011
+dec 2010
+nov 2010
+oct 2010
+sep 2010
+aug 2010
+jul 2010
+jun 2010
+may 2010
+apr 2010
+mar 2010
+jan 2010
+mar 2009
+jul 2008
+aug 2007
+nov 2005
+nov 2004
+aug 2004
+jun 2004
+dec 2003
+nov 2003
+aug 2002
+jun 2002
+nov 2001
+oct 2001
+dec 2000
+apr 2000
+feb 1997
+
+ 
+
+© 1997-2025 matthew skala
+
+
+
+

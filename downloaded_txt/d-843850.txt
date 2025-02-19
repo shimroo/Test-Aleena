@@ -1,0 +1,555 @@
+
+
+
+pre-cal 40s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	pre-cal 40s
+	
+  
+an interactive log for students and parents in my pre-cal 40s class. this ongoing dialogue is as rich as you make it. visit often and post your comments freely.
+
+
+
+sunday, september 04, 2005
+
+
+
+	 the adventure continues ...
+    
+
+
+our adventures in blogging continue....
+
+watch for 3 new blogs going live september 7, 2005 ...
+
+
+
+pre-cal 20s (grade 10)
+pre-cal 30s (grade 11)
+ap calculus ab (grade 12)
+
+
+
+
+
+
+posted by darren kuropatwa @ 5:27:00 p.m.  
+      
+         7 comments
+
+
+
+
+
+
+thursday, june 30, 2005
+
+
+
+	 so long
+    
+
+
+i'm so glad we've had this time together,
+
+just to have a laugh or learn some math,
+
+seems we've just got started and before you know it,
+
+comes the time we have to say, "so long!"
+
+so long everybody! watch this space in the fall for pointers to new blogs for each of my classes. some of the students from this class will be mentoring the students in the new classes. if anyone else (former students or other mathophile readers of this blog) is interested in being a mentor email me and let me know.
+
+farewell, auf wiedersehen, adieu, and all those good bye things. ;-)
+
+
+
+posted by darren kuropatwa @ 8:46:00 p.m.  
+      
+         0 comments
+
+
+
+
+
+
+thursday, june 16, 2005
+
+
+
+	 class survey results
+    
+
+
+the exam is over and we did a little survey in class. the results are below; 20 students participated. we also discussed the future use of blogs and wikis in this course. the consensus seems to be that the next class should have their own blog but there should be a link back to this one for the new students to see what the old ones did. we also talked about having students from this class volunteer to be mentors for students in next year's classes. i've got a few volunteers signed up already. if you'd like to mentor one or more of my classes (grade 10, 11 or 12) next year please email me or leave a comment below this post.
+
+without any further ado, here are the results of our class's survey. please share your thoughts by commenting (anonymously if you wish) below .....
+
+how prepared were you to write this exam? (average score out of 100)
+66.75%
+
+how much effort did you put into preparing for this exam? (average score out of 100)
+67.75%
+
+how good a job did your teacher do preparing you for this exam? (average score out of 100)
+89.55%
+
+did you have enough preparation using your calculator?
+yes   85%     no   15%
+
+did you have enough preparation without using your calculator?
+yes   65%     no   30%     middle    5%
+
+was i too hard or too easy on you??
+easy   5%     hard   0%      middle   95%
+
+what was the best learning experience you had in this class?
+
+
+group work (14)review sites
+math dictionary (8)quizzes
+online quizzes (3)humour
+lectures (3)clearly detailed lessons
+go for gold assignmentshowing how math affects our daily lives and history
+pre-testsusing stories to help us understand
+this blog (6)
+
+
+
+what was the worst learning experience you had in this class?
+
+
+quizzestoo long getting back tests
+online quiz (3)none (6)
+class time too shortsun shining on the white board
+learning too fastgroup work
+this blog (5)web assignments
+not always going over homeworktests
+homework (2)exercises that have answers but not solutions
+
+
+
+what suggestions can you share for next year?
+
+
+no quiz for marks on blogproject work (3)give make-up tests
+fewer jokes and storiesmore online quizzesmake blogging optional
+more group work (4)tell more jokesgive take home tests
+an extra class every 2nd dayhomework should count for marksdon't use the same exercise books
+keep blogging (7)students should do more work at the boardmore class participation
+more time on binomial theoremgive tests back asapkeep using the same teaching strategies
+go over selected homework exercises in classhave a mentor for this class
+
+
+
+it's interesting to compare the items that were considered both the worst and best learning experiences. also, take a look at the list of worst learning experiences compared to suggestions for next year. help me do a better job next year by commenting on what you see here ....
+
+
+
+posted by darren kuropatwa @ 12:17:00 p.m.  
+      
+         0 comments
+
+
+
+
+
+
+friday, june 10, 2005
+
+
+
+	 gearing up for the exam!!
+    
+
+
+
+a whole lot of reviewing going on!!
+
+here is where you can login to the online quiz site to try your hand at the review quiz we made as a class.
+
+there's lots more you can do to get ready for tuesday!
+
+take this quiz on probabilities of compound events.
+
+take this quiz on conditional probability.
+
+take this quiz on the binomial theorem and probability.
+
+
+
+take this test on combinatorics and probability.
+
+take harry potter's quiz on combinatorics. try not to run into any walls. ;-)
+
+
+try this probability quiz.
+
+
+and finally, take your own customized quiz on a variety of topics we've studied. you can create customized review quizzes by choosing up to 15 questions from: algebra, trigonometry, exponents and logarithms, geometry, problem solving and graphs (transformations). create as many quizzes as you like and practice, practice, practice!!! when you start each quiz a timer counts down from 50 minutes -- that's how you prepare for a timed test -- you take lots of timed tests! you can probably skip the geometry questions and not all of the problem solving and algebra applies to our course, but the kind of thinking you need to do for these questions will definitely help you gear up for the exam!
+
+remember, luck has nothing to do with it! it's all about doing your best! how well you do is a direct function of the effort you put into preparing!!!
+
+
+
+posted by darren kuropatwa @ 4:17:00 p.m.  
+      
+         0 comments
+
+
+
+
+
+
+tuesday, may 31, 2005
+
+
+
+	 some counting review
+    
+
+
+here are some additional exercises on combinatorics. the interactive "tests" here will also give you explanations of why the correct answer is correct. enjoy!
+
+
+the fundamental principle of counting
+factorial notation
+permutations
+combinations
+
+
+if you click on the [back to {topic}] button at the bottom of each quiz you'll be able to find pages that give helpful lessons on each topic.
+
+
+
+posted by darren kuropatwa @ 11:55:00 p.m.  
+      
+         0 comments
+
+
+
+
+
+
+monday, may 30, 2005
+
+
+
+	 more fun
+    
+
+
+well, you folks liked the last test so much, try this one on for size (6 questions):
+
+
+1. what do you put in a toaster? ... think carefully and scroll down.
+
+
+
+
+
+and the answer is: the answer is bread. if you said "toast," then give up now and go do something else. try not to hurt yourself. if you said, "bread," go to question 2.
+
+2. say "silk" five times. now spell "silk." what do cows drink? ... think carefully and scroll down.
+
+
+
+
+
+and the answer is: cows drink water. if you said "milk" please do not attempt the next question. your brain is obviously overstressed and may even overheat. it may be that you need to content yourself with reading something more appropriate such as "children's world." if you said, "water" then proceed to question three.
+
+3. if a red house is made from red bricks and a blue house is made from blue bricks and a pink house is made from pink bricks and a black house is made from black bricks, what is a greenhouse made from? ... think carefully and scroll down.
+
+
+
+
+
+and the answer is: greenhouses are made of glass. if you said "green bricks," what the heck are you still doing here reading these questions????? ... if you said "glass," then go on to question four.
+
+4. it's twenty years ago, a plane is flying at 20,000 feet over germany. if you will recall, germany at the time was politically divided into west germany and east germany. anyway, during the flight, two of the engines fail. the pilot, realizing that the last remaining engine is also failing, decides on a crash landing procedure. unfortunately the engine fails before he has time and the plane crashes smack in the middle of "no man's land" between east germany and west germany. where would you bury the survivors - east germany or west germany or in "no man's land"? ... think carefully and scroll down.
+
+
+
+
+
+and the answer is: you don't, of course, bury survivors. if you said anything else, you must never try to rescue anyone from a plane crash. your efforts would not be appreciated. ...... if you said, "don't bury the survivors" then proceed to the next question.
+
+5. if the hour hand on a clock moves 1/60th of a degree every minute then how many degrees will the hour hand move in one hour? ... think carefully and scroll down.
+
+
+
+
+
+and the answer is: one degree. if you said "360 degrees" or anything other than "one degree," you are to be congratulated on getting this far, but you are obviously out of your league. turn your pencil in and exit the room. everyone else proceed to the final question.
+
+6. without using a calculator - you are driving a bus from downtown brooklyn (let's say starting at court street) to brighton beach in guess where (brooklyn). at atlantic avenue, 17 people get on the bus. at prospect park, six people get off the bus and nine people get on. at eastern parkway, two people get off and four get on. at newkirk avenue, 11 people get off and 16 people get on. at kings highway, three people get off and five people get on. and then in sheepshead bay, six people get off and three get on. and now you arrive at brighton beach ... scroll down for the question.
+
+
+
+
+
+what was the name of the bus driver? ... think carefully and scroll down.
+
+
+
+
+
+and the answer is: just look back at the question, look at the first line; it was you ... "you are driving a bus from..."
+
+humbling isn't it? and just think, you are among the most intelligent in the population. ;-)
+
+
+
+
+
+
+posted by darren kuropatwa @ 11:19:00 p.m.  
+      
+         2 comments
+
+
+
+
+
+
+sunday, may 29, 2005
+
+
+
+	 just for fun
+    
+
+
+i found this "test" over at teaching and developing online. try it out .... just for fun. ;-)
+
+
+below are four (4) questions and a bonus question. you have to answer them instantly. you can't take your time, answer all of them immediately.
+
+ok?
+
+let's find out just how clever you really are. no looking at the answers in advance.
+
+ready? go!!! (scroll down)
+
+first question:
+
+you are participating in a race. you overtake the second person.
+
+what position are you in?
+
+answer:if you answered that you are first, then you are absolutely
+wrong!
+
+if you overtake the second person and you take his place, you are
+second!
+
+try not to screw up in the next question.
+
+to answer the second question, don't take as much time as you took for the first question.
+
+second question:
+
+if you overtake the last person, then you are...?
+
+answer:if you answered that you are second to last, then you are wrong
+again. tell me, how can you overtake the last person?
+
+you're not very good at this! are you?
+
+third question:
+
+very tricky math! note: this must be done in your head only.
+
+do not use paper and pencil or a calculator. try it.
+
+take 1000 and add 40 to it. now add another 1000. now add 30.
+add another 1000. now add 20. now add another 1000 now add 10.
+
+what is the total?
+
+scroll down for answer.
+
+did you get 5000?
+
+the correct answer is actually 4100.
+
+don't believe it? check with your calculator!
+
+today is definitely not your day.
+
+maybe you will get the last question right?
+
+fourth question:
+
+mary's father has five daughters: 1. nana, 2. nene, 3. nini, 4. nono.
+what is the name of the fifth daughter?
+
+answer:nunu?
+
+no! of course not.
+
+her name is mary!
+
+read the question again.
+
+okay, now the bonus round:
+
+there is a mute person who wants to buy a toothbrush. by imitating the action of brushing one's teeth he successfully expresses himself to the shopkeeper and the purchase is done.
+
+now if there is a blind man who wishes to buy a pair of sunglasses, how should he express himself?
+
+he just has to open his mouth and ask, so simple.
+
+
+so simple it is...
+
+
+
+
+
+
+posted by darren kuropatwa @ 9:25:00 a.m.  
+      
+         1 comments
+
+
+
+
+
+
+
+
+
+
+
+
+contributors
+
+darren kuropatwa
+k-foag
+
+
+email mr. kuropatwa!
+
+
+
+
+
+
+
+
+
+
+
+
+
+links
+
+online practise tests - get ready for the exam!!
+stressed out over studying?...tests?
+companion review site
+pre-cal 40s wiki notebook
+study skills resources
+test taking strategies
+dr. math
+mathematics archives
+math dictionary
+math encyclopedia
+mathworld
+history of mathematics
+
+
+recent posts
+
+the adventure continues ...
+so long
+class survey results
+gearing up for the exam!!
+some counting review
+more fun
+just for fun
+fundamental principle of counting
+let's make it 100% this time!
+hyperbola help
+
+archives
+
+february 2005
+march 2005
+april 2005
+may 2005
+june 2005
+september 2005
+
+
+
+why we blog....
+
+the brain of the blogger
+educating the net generation
+generation m: media in the lives of 8-18 year olds
+
+
+
+
+more math blogs
+
+gchs math blog (mr. kaminsky)
+shapes, patterns, and proofs - oh, my! (mr. fort)
+7th grade math (mr. tubbs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+this work is licensed under a creative commons attribution-noncommercial-sharealike 2.5  license.
+
+
+
+
+

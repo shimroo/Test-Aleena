@@ -1,0 +1,582 @@
+
+
+
+van boughner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+van boughner
+
+
+home
+about
+tags
+categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+about
+tags
+categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+van boughner
+senior staff research engineer at viv labs
+santa cruz, california
+
+
+
+        5
+        posts
+
+
+        
+          5
+        
+        
+            tags
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        nice things capsule for bixby
+    
+
+
+
+
+2019-09-22
+            ·
+            50
+            words
+            ·
+            1
+            minute read
+        
+
+
+personal
+
+
+
+bixby
+
+
+
+
+
+                i’ve written a capsule for bixby, for the the voice assistant for samsung phones, in collaboration with duck and doge.
+the nice things capsule gives you kind quotes, and allows you to leave kind quotes for others, using your voice.
+the capsule has terms of service and a privacy policy.
+            
+
+
+                    read more
+                
+
+
+
+
+
+        share
+    
+
+        comments
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        my brain capsule for bixby
+    
+
+
+
+
+2019-06-13
+            ·
+            99
+            words
+            ·
+            1
+            minute read
+        
+
+
+personal
+
+
+
+bixby
+
+
+
+
+
+                i’ve written a capsule for bixby, the voice assistant for samsung phones.
+my brain capsule remembers things for you, and makes it easy to recall those things again using your voice.
+the capsule has terms of service and a privacy policy.
+the code for this capsule is publicly visible: capsule and server.
+i’ve written a bixby capsule with aws tutorial about how you can write a capsule like this yourself, and use aws to store user data in the cloud.
+            
+
+
+                    read more
+                
+
+
+
+
+
+        share
+    
+
+        comments
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        how to perform a technical phone screen
+    
+
+
+
+
+2018-01-20
+            ·
+            875
+            words
+            ·
+            5
+            minute read
+        
+
+
+managing
+
+
+
+interview
+                ·
+                
+                
+                phone
+
+
+
+
+
+                some notes about how i perform phone screens, when i'm looking for engineering candidates.
+            
+
+
+                    read more
+                
+
+
+
+
+
+        share
+    
+
+        comments
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        uplifting writing
+    
+
+
+
+
+2018-01-20
+            ·
+            112
+            words
+            ·
+            1
+            minute read
+        
+
+
+personal
+
+
+
+uplifting
+
+
+
+
+
+things i write, just to brighten your day. i hope you find them uplifting.
+
+
+
+
+                    read more
+                
+
+
+
+
+
+        share
+    
+
+        comments
+    
+
+
+
+
+
+
+
+
+
+
+
+
+        notes about markdown
+    
+
+
+
+
+2017-05-20
+            ·
+            425
+            words
+            ·
+            2
+            minute read
+        
+
+
+markdown
+
+
+
+
+
+this post came with the victor-hugo boilerplate, i’m keeping it for a while until i learn all the tricks in markdown,
+as it demonstrates some of what markdown is capable of doing.
+
+
+
+
+                    read more
+                
+
+
+
+
+
+        share
+    
+
+        comments
+    
+
+
+
+
+
+
+
+
+
+
+        recents
+    
+
+
+
+
+
+
+
+
+
+
+
+                        personal
+                        
+
+nice things capsule for bixby
+
+2019-09-22
+
+
+
+
+
+
+
+
+
+
+
+
+                        personal
+                        
+
+my brain capsule for bixby
+
+2019-06-13
+
+
+
+
+
+
+
+
+
+
+
+
+                        managing
+                        
+
+how to perform a technical phone screen
+
+2018-01-20
+
+
+
+
+
+
+
+
+
+
+
+
+                        personal
+                        
+
+uplifting writing
+
+2018-01-20
+
+
+
+
+
+
+
+
+
+
+notes about markdown
+
+2017-05-20
+
+
+
+
+
+
+
+categories
+
+
+
+
+                    managing
+                
+1
+
+
+
+                    personal
+                
+3
+
+
+
+
+
+
+        tags
+    
+
+
+
+
+                    bixby
+                
+11
+
+
+
+                    interview
+                
+1
+
+
+
+                    markdown
+                
+1
+
+
+
+                    phone
+                
+1
+
+
+
+                    uplifting
+                
+1
+
+
+
+
+
+
+        tag cloud
+    
+
+bixby
+interview
+markdown
+phone
+uplifting
+
+
+
+
+
+
+
+
+
+      © 2020
+      powered by hugo. theme by ppoffice.
+    
+
+
+
+
+
+
+
+
+

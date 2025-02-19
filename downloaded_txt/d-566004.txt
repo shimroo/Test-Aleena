@@ -1,0 +1,422 @@
+
+
+
+
+
+
+
+
+
+articoli, documenti, faq, storie...
+
+
+
+
+
+
+
+
+
+
+
+articoli, documenti, faq, storie...
+
+
+
+
+
+
+
+home page | 
+commenti | 
+articoli | 
+faq | 
+documenti | 
+ricerca | 
+archivio | 
+storie dalla sala macchine | 
+contribuire | 
+imposta lingua:en it
+ | 
+login/register
+
+
+
+
+
+
+
+cosa troverete qua' dentro?
+
+
+
+
+uptime:  17:10:02 up 4 days, 10:19,  0 user,  load average: 0.01, 0.02, 0.00
+
+
+
+una serie di documenti che trattano di vari argomenti, tutti legati 
+al mondo della programmazione, articoli di approfondimento relativi a 
+vari problemi da me incontrati che potrebbero risolvere qualche problema 
+a qualcun altro.
+
+documentazione varia che ho trovato utile e che ho deciso di mettere a 
+disposizione per altruismo (e per ritrovarla quando la cerco).
+
+informazioni, faq, how-to ed altre risorse utili per il programmatore.
+
+
+
+
+
+ultime novita' (in ordine cronologico inverso)
+
+
+
+
+ci abbiamo i cookies!
+
+yeah, ci abbiamo i cookie... per andare dietro ai soliti rompi..hemm... utenti che si lamentano che non vogliono cambiare la lingua
+del browser, sto implementando la funzione per poterla 'forzare'. ma per farlo, devo usare cookies. quindi,...
+
+questo sito usa i cookie... anzi un cookie. che contiene niente ma la lingua che volete usare. se lo zappate, verra' ricreato. se lo zappate
+di nuovo... vi beccate la lingua di default. d'altra parte, una volta impostata, resta quella e basta. 
+
+
+
+nella sezione "commenti"
+
+
+(
+disponibile anche come feed rss)
+
+
+cms fdt aggiornato a 5.1.3
+
+di
+davide bianchi,
+aggiornato il
+21/01/2025 09:20,
+nessun messaggio
+
+il sorgente e' disponibile su sourceforge e github
+
+
+ho-ho-oporcaputt..
+
+di
+davide bianchi,
+aggiornato il
+25/12/2024 05:00,
+5 messaggi
+
+...si', e' quel giorno dell'anno...
+
+
+e' vivo! - aggiornato (5 - e adesso basta eh)
+
+di
+davide bianchi,
+aggiornato il
+04/12/2024 09:59,
+13 messaggi
+
+e siamo on-line con il nuovo servr!
+
+
+lavoro creativo
+
+di
+davide bianchi,
+aggiornato il
+16/09/2024 08:01,
+6 messaggi
+
+...ehuu... non sederti li' sotto...
+
+
+
+nella sezione "articoli"
+
+tu vuoi cosa?
+
+di
+davide bianchi,
+aggiornato il
+25/05/2020 09:50,
+4 messaggi
+
+a domanda... risposta (piu' o meno)
+
+
+raspberrytv
+
+di
+davide bianchi,
+aggiornato il
+07/03/2019 14:05,
+11 messaggi
+
+usare rasbperry pis e vnc server per pilotare una serie di schermi televisivi per informazioni.
+
+
+il "pager"
+
+di
+davide bianchi,
+aggiornato il
+16/07/2018 10:28,
+1 messaggio
+
+che accidenti e' un "pager"?
+
+
+varnish come cache e proxy
+
+di
+davide bianchi,
+aggiornato il
+06/02/2013 14:55,
+3 messaggi
+
+usare varnish come cache e proxy
+
+
+nella sezione "faqs"
+
+il filesystem /proc
+
+di
+davide bianchi,
+aggiornato il
+17/07/2010 08:52,
+3 messaggi
+
+       il file system /proc e' un file systemcreato e mantenuto a run-time dal kernel di linux per tenere tracciadei vari processi che stanno funzionando sulla macchina e del lorostato. tramite /proc si possono ottenere un sacco di informazionisu quello che c'e', come e' configurato e come funziona. 
+
+ottimizzazione delle query
+
+di
+davide bianchi,
+aggiornato il
+17/07/2010 08:51,
+nessun messaggio
+
+molto spesso l'efficienza di una applicazione, sia essa una paginaasp/jsp/php o un vero programma, dipende dall'efficienza delsottostante database. ma un database efficiente non serve a nullase le query che facciamo sono il massimo dell'inefficienza.come si puo' migliorare l'efficienza di una query? 
+
+utilizzo pratico dei motori di ricerca
+
+di
+davide bianchi,
+aggiornato il
+17/07/2010 08:51,
+2 messaggi
+
+
+
+i motori di ricerca
+
+
+
+
+   sono una delle cose piu' utili di internet, ma
+   pare che nessuno li sappia usare, un po' come l'elenco
+   del telefono.
+
+
+collegamento seriale tra macchine linux/windows
+
+di
+davide bianchi,
+aggiornato il
+17/07/2010 08:50,
+3 messaggi
+
+mi sono ritrovato a dover trasferire un nuovo kernel ed altra roba dal mio desktop al mio portatile, purtroppo pero' la scheda di rete del mio portatile non era supportata dal mio kernel attuale... che fare ?
+
+
+
+nella sezione "storie"
+
+
+( 
+disponibile anche come feed rss)
+
+
+gli ospiti della sala macchine
+
+di
+davide bianchi,
+aggiornato il
+03/09/2009 10:55,
+nessun messaggio
+
+dopo che ho cominciato a scrivere le storie, altra gente ha cominciato a mandarmi le loro, ho deciso quindi di aprire la parte "visitatori".
+
+test: siete dei bravi dba/db designer?
+
+di
+davide bianchi,
+aggiornato il
+20/07/2009 22:34,
+nessun messaggio
+
+dopo che ho menzionato il fatto che io non apprezzo le chiavi primarie autogenerate nei database, si e' scatenato un putiferio, ergo... vi beccate il test.
+
+everybody wants to run exchange
+
+di
+davide bianchi,
+aggiornato il
+12/08/2008 00:00,
+nessun messaggio
+
+
+
+the fuckup fairy
+
+di
+davide bianchi,
+aggiornato il
+30/03/2008 00:00,
+nessun messaggio
+
+mi e' parso di capire (da vari commenti e mail che mi sono arrivate) che si e' sparsa la convizione che io sia un'essere assolutamente infallibile. che io so tutto e non faccio mai errori.
+
+
+
+
+nella sezione "ospiti"
+
+
+
+anche queste sono disponibili come 
+feed rss.
+
+
+
+attenzione: le storie qui' sotto sono riportate se sono state
+modificate in qualunque modo negli ultimi giorni. se c'e' un errore ed
+io lo correggo, la storia verra' riportata anche se e' vecchia di 3 anni.
+klaro? quindi risparmiatevi le mail.
+i racconti dell'open space
+
+di
+davide bianchi,
+aggiornato il
+30/08/2021 12:24,
+nessun messaggio
+
+i racconti dell'open space... in pdf!
+
+
+the end (of evangelion) the conslutants?
+
+di
+matteo jurman,
+aggiornato il
+18/09/2012 11:58,
+8 messaggi
+
+non c'e' mai un "end"...
+
+revenge of the pisquani
+
+di
+babbomatteo,
+aggiornato il
+25/04/2012 10:37,
+7 messaggi
+
+poche principesse da quelle parti eh?
+
+sempre la stessa storia...
+
+di
+babbomatteo,
+aggiornato il
+27/03/2012 13:27,
+9 messaggi
+
+sempre la stessa storia
+
+
+
+
+
+
+cosa evitare
+
+
+
+
+non mi ritengo un genio, ne' tantomeno sono infallibile o onniscente 
+(magari), quindi se trovate delle inesattezze o dei veri e propri 
+strafalcioni in quello che ho scritto per cortesia mandatemi una mail 
+specificando l'errore e, se possibile, la correzione da apportare,
+se poi volete fare gli strafighi e spedirmi la documentazione (o dirmi 
+dove reperirla) cosi' che io possa erudirmi ulteriormente ve ne saro' 
+eternamente (be', no, eternamente e' un po' troppo) grato.
+
+ci tengo a precisare che questo sito lo tengo in piedi nel tempo libero, 
+il mio lavoro non consiste nell'insegnare qualche cosa a qualcuno, ne' 
+nel correggere i vostri errori o cose simili, quindi:
+
+
+non mandatemi codice da correggere/controllare: non ho il tempo di 
+farlo
+non chiedetemi dove trovare documentazione, cercatevala da soli,
+i motori di ricerca sono li' per questo.
+prima di fare una domanda vedete se c'e' gia' una risposta
+
+
+
+
+
+
+
+chi sono io?
+
+
+
+
+davide bianchi, lavora come unix/linux system administrator presso una societa' di hosting in olanda.
+
+se volete saperne di piu' vedete il suo
+sito personale.
+
+
+
+
+
+
+copyright
+
+
+
+
+il presente sito e' frutto del sudore della mia fronte (e delle mie dita),
+se siete interessati a ripubblicare uno degli articoli, documenti o 
+qualunque altra cosa presente in questo sito per cortesia datemene 
+comunicazione (o all'autore dell'articolo se non sono io), cosi' il giorno 
+che faccio delle aggiunte potro' avvisarvi e magari mandarvi il testo 
+aggiornato.
+
+
+
+
+
+questo sito era composto con vim, ora e' composto con vim ed il famosissimo cms fdt.
+
+questo sito non e' ottimizzato per la visione con nessun browser particolare, ne' richiede l'uso di font particolari o risoluzioni speciali. siete liberi di vederlo come vi pare e piace, o come disse qualcuno: "finalmente uno dei pochi siti che ancora funzionano con ie5 dentro windows 3.1".
+
+
+
+
+
+
+
+
+
+
+

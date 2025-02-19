@@ -1,0 +1,1363 @@
+
+
+
+
+
+autohoot mk3 – richard paul russell ltd | free uk shipping
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					by using our website, you agree to the use of our cookies.				
+
+
+							confirm						
+
+
+
+
+
+
+
+
+
+
+
+
+					by using our website, you agree to the use of our cookies.				
+
+
+							confirm						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+								+44 (0) 1590 641223							
+
+
+								sales@r-p-r.co.uk							
+
+
+								unit 1 | barnes ln | milford on sea | so41 0ap							
+
+
+								mon-fri 9-5							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+weather systems
+
+weatherfile
+wf1 and configurator
+sensors
+displays options
+alarm systems
+accessories
+
+
+rpr-iot
+
+rpr-iot overview
+rpr-iot dashboard
+rpr-iot indoor temp node
+rpr-iot outdoor temp node
+rpr-iot dual temp node
+rpr-iot rain sensor node
+rpr-iot solar node
+
+
+spacelogger
+
+100 series
+50 series
+10 series
+accessories
+oem
+
+
+kestrel
+
+weather meters and loggers
+
+advanced
+agriculture
+heat stress
+fire
+basic
+drop
+accessories
+
+
+kestrel ballistics
+
+ballistics weather meters
+hud
+magneto speed
+shot timer
+
+
+kestrel blue ocean
+
+blue ocean megaphone
+accessories
+
+
+
+
+autohoot
+archive
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+login
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+»
+products
+»
+autohoot
+»
+autohoot mk3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	autohoot mk3
+£250.00 exvat£300.00 incvat
+
+
+
+autohoot is an electronic control unit which can be connected to a suitable horn or sounder to produce a sequence of sound signals with reliable timing removing unnecessary human error.
+
+primary designed for the use in running sailing races it’s basic operation is simple and intuitive. during the starting sequence autohoot’s display shows the countdown time to the start. it comes with a number of pre-programed sequences, and it is possible for the user to write and add their own custom sequences. other race signals like recalls, shorten course and finish hoots can be made without interrupting the active auto sequence if required.
+autohoot benefits
+• simplified error free starting sequences
+• guaranteed accurate timings
+• reduces workload and stress
+• clear indication of the time to the start
+• auto repeat capability for successive starts
+• easy to use, compact & affordable
+
+
+
+
+
+
+
+
+autohoot mk3 quantity
+
+
+add to cart
+
+
+category:autohoot
+tags:autohoot, sailing
+
+
+
+
+share
+
+
+ 
+
+
+
+
+
+
+
+description
+
+
+specification
+
+
+documentation
+
+
+
+product description
+autohoot is an electronic control unit which can be connected to a suitable horn or sounder to produce a sequence of sound signals with reliable timing removing unnecessary human error.
+primary designed for the use in running sailing races it’s basic operation is simple and intuitive. during the starting sequence autohoot’s display shows the countdown time to the start. it comes with a number of pre-programed sequences, and it is possible for the user to write and add their own custom sequences. other sound signals for recalls finishing can be made at any time.
+
+
+
+autohoot benefits
+
+
+• simplified error free starting sequences
+• guaranteed accurate timings
+• reduces workload and stress
+• clear indication of the time to the start
+• auto repeat capability for successive starts
+• easy to use, compact & affordable
+
+
+
+
+
+
+
+
+autohoot mk3
+specification
+
+
+physical
+
+
+
+dimensions (including switches and cable gland)
+168mm x 80mm x 76mm
+
+
+enclosure dimensions (excluding switches and cable gland)
+140mm x 80mm x 68mm
+
+
+mounting holes
+4 off 4.4mm dia., 120mm x 60mm
+
+
+enclosure material
+polycarbonate, light gray ral 7035
+
+
+enclosure flammability rating
+ul 746c 5v
+
+
+weight
+335g
+
+
+cable entry
+compression cable gland. with two-part compression ring. cable diameter 5 to 13 mm
+
+
+sequences
+ 
+
+
+pre-programmed sequences
+selectable by switch sequence on power up
+
+
+custom sequences
+user programmable via standard c type usb cable
+
+
+switches
+
+
+
+auto switch
+stainless steel 2 position rotary switch with green illuminated arrow. ip67 rated
+
+
+hoot button
+stainless steel push-button switch with red illuminated ring. ip67 rated
+
+
+relay (horn connection)
+
+
+
+rated current
+20a
+
+
+endurance
+>300,000 operations with resistive load at 20a
+
+
+connection
+rising clamp style terminals (2.5mm2 cable)
+
+
+display
+
+
+
+type
+high-contrast supertwist lcd
+
+
+viewing angle
+6 o’clock
+
+
+viewing area
+19mm x 38mm
+
+
+time
+
+
+
+time accuracy
+±2 ppm at 25 °c (ageing first year ±3 ppm max at 25 °c)
+
+
+power
+
+
+
+supply voltage
+6.5 to 15 vdc
+
+
+current at 12 vdc
+30 ma typical (with leds on, excluding horn current)
+
+
+supply input protection
+polarity reversal protected. internal replaceable fuse – 20a microblade automobile fuse
+
+
+connection
+rising clamp style terminals (2.5mm2 cable)
+
+
+back up battery for time
+cr2032
+
+
+back up battery life
+>5 years
+
+
+environmental
+
+
+
+temperature range
+operating range: -20°c to +70°c
+storage range: -20°c to +70°c
+
+
+relative humidity
+0% to 100% (non-condensing)
+
+
+ingress protection
+ip66
+
+
+compliance
+ukca, ce, fcc, ices-003
+
+
+guarantee
+2 years (return to manufacturer)
+
+
+
+the manufacturer reserves the right to amend the specification and therefore the information above may be subject to change. please contact us for the latest information.
+
+
+
+
+
+autohoot mk3 leaflet
+
+
+
+autohoot mk3 leaflet
+
+
+
+
+
+
+
+
+
+
+user instruction manuals for autohoot mk3
+
+
+
+autohoot mk3 user manual issue 4
+
+
+
+autohoot mk3 user manual issue 3
+
+
+
+autohoot mk3 sequence list
+
+
+
+autohoot_mk3_sequences.txt
+
+
+
+
+
+
+declarations of conformity for autohoot mk3
+
+
+
+autohoot mk3 eu declaration of conformity
+
+
+
+autohoot mk3 uk declaration of conformity
+
+
+
+
+
+
+user instruction manuals for autohoot ii
+
+
+
+autohoot ii user manual
+
+
+
+autohoot ii quick start guide
+
+
+
+autohoot ii additional wiring instructions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+richard paul russell ltd
+the lodge
+unit 1 barnes farm business park
+barnes lane, milford on sea
+so41 0ap
+
+
+
+
+
+
+
+
+
+
+                                +44 (0) 1590 641223                            
+
+
+
+
+
+
+
+
+
+
+
+                                sales@r-p-r.co.uk                            
+
+
+
+
+
+
+
+
+customer service
+
+
+
+
+
+
+
+
+                                about us                            
+
+
+
+
+
+
+
+
+
+
+
+                                contact us                            
+
+
+
+
+
+
+
+
+
+
+
+                                careers                            
+
+
+
+
+
+
+
+
+
+
+
+                                terms & conditions                            
+
+
+
+
+
+
+
+
+
+
+
+                                returns policy                            
+
+
+
+
+
+
+
+
+
+
+
+                                privacy policy                            
+
+
+
+
+
+
+
+
+
+
+
+                                shipping & handling                            
+
+
+
+
+
+
+
+
+
+
+
+                                ethical trading                            
+
+
+
+
+
+
+
+
+
+
+
+                                weee statement                            
+
+
+
+technical support
+
+
+
+
+
+
+
+
+                                what is the beaufort scale?                            
+
+
+
+
+
+
+
+
+
+
+
+                                what is heat index?                            
+
+
+
+
+
+
+
+
+
+
+
+                                wind chill explained                            
+
+
+
+
+
+
+
+
+
+
+
+                                kestrel software & downloads                            
+
+
+
+
+
+
+
+
+
+
+
+                                weatherfile                            
+
+
+
+
+
+
+
+
+
+
+
+                                weather instruments                            
+
+
+
+
+
+
+
+
+
+
+
+                                sitemap                            
+
+
+
+
+
+
+weather systems
+
+
+
+
+
+
+
+
+                                case studies                            
+
+
+
+
+
+
+
+
+
+
+
+                                crane & construction                            
+
+
+
+
+
+
+
+
+
+
+
+                                temporary structures                            
+
+
+
+
+
+
+
+
+
+
+
+                                remote (solar powered)                            
+
+
+
+
+
+
+
+
+
+
+
+                                metbouy (on water)                            
+
+
+
+
+
+
+
+
+
+
+
+                                ows-5 (moving platform)                            
+
+
+
+
+
+
+
+
+
+
+
+                                pro race officer (sailing)                            
+
+
+
+
+
+
+
+
+
+
+
+                                plumecast (plume monitoring)                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© copyright 2008-2024. registered in england. company registration number 2746689. vat no. gb580260358
+
+
+ 
+
+
+
+
+
+ has been added to the cart.		
+
+				 view cart			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ hide similarities                                                
+
+ highlight differences                                                
+
+										select the fields to be shown. others will be hidden. drag and drop to rearrange the order.                                        
+imagepriceadditional informationadd to cart 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									compare                                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

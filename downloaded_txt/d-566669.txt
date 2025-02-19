@@ -1,0 +1,642 @@
+
+
+
+kongming’s archives - romance of the three kingdoms novel, history, games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kongming’s archives
+
+
+romance of the three kingdoms
+
+
+
+home
+forum
+simrtk
+
+
+
+
+
+history
+
+history
+read novel
+encyclopedia
+biographies
+map
+
+
+games
+graphics
+writing
+products
+links
+
+
+
+
+read novel
+encyclopedia
+
+
+ 
+ 
+
+
+
+romance of the three kingdoms novel, history, and games
+kongming’s archives is dedicated to luo guanzhong’s novel, romance of the three kingdoms, related games (like koei’s romance of the three kingdoms, dynasty warriors), and the history behind them. kongming’s archives is also a place for you to share your romance of the three kingdoms novel and history writing and share knowledge with everyone else in the three kingdoms community.
+
+donations & support
+an updated dated february 7th, 2024
+we have a patreon. your contributions are deeply appreciated, and help not only to defray costs, but also serve as valuable motivation and means to create new content and features. donations serve as an especially lovely reminder that these sites are valued. but no worries. i’m keeping these sites online.
+
+
+website updates
+an updated dated february 7th, 2024
+after a working-behind-the-scenes 2023, it is nice to finally be focusing a lot of effort on public-facing content for kongming’s archives. right now an effort is underway to port (transitionally or fully) all content on the website to our work-in-progress new theme (which you are now viewing).
+
+our contact us form has been rewritten and works again.
+site search works again (via duckduckgo; because google don’t be evil).
+sidebar navigation is restored to the new layout. some pages, like maps of the three kingdoms, deliberately omit it for space. it will be fine-tuned, but feels important for consistency while the site is in transition.
+a partial home page redesign. it needs more work. navigation is a mess and needs to be rethought. an update history is available again. stay tuned.
+
+pardon the dust! new content currently uses the new theme but old content remains on the old design, making for a jarring experience with inconsistent navigation (especially on mobile devices). things are happening, and i’m fixing and breaking things live like it was 2005. (sorry.)
+
+
+community news & updates
+an updated dated november, 2023
+november, 2023: the koei tecmo wiki—featuring all things koei tecmo, including their three kingdoms and sengoku titles—has moved from fandom due to assorted concerns, including invasive advertising. if anyone maintains links, browses the old site, or participates, please use the new website to lend a hand.
+
+
+
+
+
+encyclopedia new entries
+
+liu hong (zigao) lifespan unlisted
+excellency of works; dismissed by emperor shao in favor of dong zhuo.
+
+more: saint hermit of the southern land zhuangzi (the nanhua immortal), ziying, king of qin [ying qin], qin shi huang [ying zheng], li si 
+
+scholars of shen zhou discussion
+
+project feedback: new romance of the three kingdoms online novel? 365 replies
+the battle of bowang 7 replies
+analysis of yuan shao 29 replies
+dynasty warriors origins 44 replies
+weekly check-in thread 42 replies
+zizhi tongjian: the end of the three kingdoms 24 replies
+middle east: passion & protest 631 replies
+online novel chapter 5 translation collaboration 11 replies
+ 
+ 
+
+
+feature menu
+three kingdoms novel and history section
+		learn about the history behind the three kingdoms (sanguo)
+		novel and era along with the jin and han dynasties.
+romance of the three kingdoms games series
+		images, avatars, wallpaper, music, and more from koei’s romance
+		of the three kingdoms: i, ii, iii,
+		iv, v, vi, vii,
+		viii, ix, and x.
+dynasty warriors game series
+		images, avatars, wallpaper, music, and information for the following
+dynasty warriors games: dw, dw2,
+		dw3, dw4 and dw5.
+other featured games
+		information pages for: samurai warriors,
+		kessen, kessen 2,
+dynasty tactics, dynasty tactics 2,
+		and destiny of an emperor.
+simulated rtk (simrtk)
+		compete against other human players in this strategic forum-based
+		romance of the three kingdoms simulation online role-play game.
+the scholars of shen zhou
+		discuss romance of the three kingdoms games, novel and history,current affairs,
+		world history, and more with other viewers.
+other kongming’s archives features
+		kongming’s archives also features: avatars,
+		portraits, game music,
+wallpaper, fan art,
+		fan fiction, walkthroughs,
+		and related links.
+
+
+site updates
+
+december 9th, 2024
+
+updated maps of the three kingdoms
+restored romance of the three kingdoms i, romance of the three kingdoms ii, and romance of the three kingdoms iii. updated for new theme and repaired broken content.
+
+
+maps of the three kingdoms has been updated with remastered maps from zhou dadudu, including both province province and china maps. cache may need to be refreshed if you visited recently. the interactive map now includes shoreline changes and loads much faster.
+i have changed my approach to restoring content. before i was updating the website as a whole, with transitional code, which called for changes to be made across the whole website before updates were published. while in theory this could have been more efficient, it added a layer of complexity to the legacy code, and didn’t feel rewarding to work on as little was published. now i will update sections one at a time, removing legacy code as i go and publishing each when finished. this already feels more encouraging, and allows updates to be shared sooner. thankfully work already done can be carried forward.
+today’s update featured some of the older romance of the three kingdoms pages, and new code for game pages, which should make it much easier to revise the remaining sections.
+
+
+
+february 7th, 2024
+
+our contact us page has been remade; now works again.
+our home page has been partially revamped into the new layout.
+fixed dw3 stage maps, dw5 4th weapons, dw5:xl 4th weapons.
+sidebar navigation has been restored to pages using the new theme.
+
+
+a big update (but small content-wise) featuring pretty extensive code revisions and improvements. a lot of effort, here, to deal with bots, handle email communication well, and support future user interaction forms. a behind-the-scenes transition of our website to the new theme continues.
+
+
+
+
+january 1st, 2024
+approaching one year: a status update
+
+
+theme revamp and refresh underway
+underway: development project, online novel project
+work-in-progress: romance of the three kingdoms online novel
+
+
+2023 may have been a quiet year from the perspective of the kongming’s archives home page, but a massive amount of work has gone into the website and future content. the development project, behind the three kingdoms encyclopedia, has been rewritten and is being expanded into new topics like locations, ranks and titles, reign years. a new romance of the three kingdoms online novel has been in the works (rip threekingdoms.com) and some chapters are already available on our website. want to participate? scholars of shen zhou and simulated rtk have been restored to transitional themes. heaps of content on kongming’s archives has been repaired or restored and the website is undergoing a transition to use a new theme with new code.
+most of these improvements have been architectural: laying the groundwork for site restoration and content yet to come. thankfully, for many of these things, we are reaching a point where kongming’s archives can be updated again, so 2024 ought to look busier from the perspective of public-facing content.
+want to support the effort? please back us on patreon.
+
+
+
+december 30th, 2023
+
+simulated rtk has been re-themed; big map is restored!
+
+
+simulated rtk has finally been re-designed. have feedback? and big map (if you know, you know) has been restored! a new game is also being explored. if you are interested, head over and chime in.
+
+
+
+december 27th, 2023
+
+new feature: maps of the three kingdoms
+
+
+with great thanks to zhou dadudu, we introduce the new maps of the three kingdoms page. it features zhou dadudu’s lovely china and province maps and the long-familiar map by william l, along with an interactive china map which you can use to view the provinces.
+
+
+
+december 12th, 2023
+
+scholars of shen zhou has been re-themed.
+
+
+scholars of shen zhou has finally been re-designed. have feedback?
+
+
+
+november 1st, 2024
+
+koei tecmo wiki has moved to a new website.
+
+
+due to problems associated with the fandom platform, including aggressive advertising, the koei tecmo wiki has moved to a new address. please use their new address to support them in this move.
+
+
+
+february 3rd, 2023
+
+new podcast: discourse of the three kingdoms
+
+
+launched by long-time community members, friends of the website, and folks-simply-knowledgeable about the three kingdoms, enjoy this new podcast.
+
+
+
+january 27th, 2023
+
+kongming’s archives is now on patreon
+
+
+thank you, everyone, for your kind words and support. as requested, and with sincere appreciation as a means to help in supporting this website and its maintenance, we have launched a patreon.. please support us if you have some coin to spare.
+
+
+
+january 18th, 2023
+
+website, sosz, simrtk back online after a few years of downtime.
+scholars of shen zhou and simulated rtk posts restored; sites unthemed.
+some content on kongming’s archives remains offline or broken.
+
+
+a few years we went offline. our websites use old code which broke as hosts dropped support for security reasons (php 6). i was able to restore our sites for a short time, but a much larger code rewriting project was necessary. due time demands of this project, in combination with simple ol’ fashioned struggling mental health, we remained offline for a few years. i have long regretted this fate, and this update kickstarts an earnest effort to not just patch but restore kongming’s archives, scholars of shen zhou, and simulated rtk.
+
+
+
+update archives
+browse decades of history.
+
+ 
+
+
+
+
+
+
+
+community
+
+forum (sosz)
+simulated rtk
+contact us
+donate
+links
+
+
+
+novel & history
+
+encyclopedia
+biographies
+read novel
+china maps
+
+
+
+games
+
+music (mp3)
+purchase
+downloads
+three kingdoms
+dynasty warriors
+dynasty tactics
+other games
+quizzes
+
+
+
+artistic
+
+avatars
+portraits
+wallpaper
+fan fiction
+fan art
+poetry
+
+
+
+ 
+
+
+
+search website
+
+
+
+
+
+
+
+
+
+
+
+by duckduckgo
+
+
+ 
+ 
+ 
+
+
+
+©2001–2025 kongming’s archives
+kongming’s archives is not affiliated with featured game developers.
+				any featured third-party content is the intellectual property of its respective owners.
+ 
+
+
+donate
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

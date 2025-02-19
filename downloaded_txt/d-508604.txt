@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+the blog that goes ping
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+the blog that goes ping
+pinging stuff i care about.
+
+
+
+
+
+
+
+
+
+
+
+0wn3d 
+
+got a note from dreamhost that all my crap got hacked.â  restored the ping to a newer version of wordpress.â  crossing my fingers that that fixed things.
+
+
+author  ed that goes pingposted on 6/9/2016categories general 
+
+
+
+thanks, russian spahackermers. 
+
+there was a ton of russian spam on this site for the longest time.â  cleaned it out, but i’m not sure how good a job i did.â  shout out to google for noticing it and marking the site as “possibly compromised.”â  it sure was.â  oh well.
+ 
+
+
+author  ed that goes pingposted on 5/2/2011categories general 
+
+
+
+duck! 
+
+a month or so ago, i saw an ad for duckduckgo.com, that advertised their relative lack of privacy invasion compared to google.â  i tried switching to them as my default search engine, expecting to find them frustrating and switch back within a couple days.â  i never did.â  i don’t seem to miss google.â  who knew there could be a startup search engine that i could say that about?
+if you are truly paranoid about google, then do your searching with the rabid ideologues at scroogle.com. they are so busy protecting your privacy they can’t even be bothered to design a web site that doesn’t hurt your eyes!â  seriously, they’re awesome.â  but if you’re only mildly creeped out by google, you might want to give the duck a shot. it’s pretty dang good.
+
+
+author  ed that goes pingposted on 3/8/2011categories general 
+
+
+
+small elegant pieces 
+
+ok, i think i’m learning something about how to manage my limited amount of skill and time to do leisure-time programming for myself.â  “bottom-up programming” is important.
+i just decided to do a little gallery app for the umpteenth time; in php.â  i know php well enough that i don’t trip over the big gotchas too much, and i know where in the documentation to look to find the functions i need.â  it’s also dead easy to deploy (“put the php file where your web browser can find it.”)
+following impulse, i decided to do this all at my own pace, and in small, elegant pieces.â  i first learned about the power of tiny, elegant functions and methods when i was learning smalltalk, and my frequent mistakes sent me into its debugger, which often, to my surprise, took me into the guts of the code of smalltalk itself.â  looking at the way smalltalk itself was written, i found that one- or two-line-long methods weren’t at all uncommon.
+the idea there is that methods, functions, whatsoever serve the purpose of conceptual chunking.â  and the smaller the chunks, the easier they are to manipulate.â  ideally by looking at the name of the method, you will know exactly what it does.â  so when it’s used in the code, it documents itself.
+i don’t get to do that too much at work. 100-line functions which do three dozen things are the order of the day, and it’s usually not within the scope of what i’m doing to break them apart at all. so when i can actually do that kind of programming, it’s kind of fun.
+oh, where was i? yeah.â  so i decided, for this little bit of coding, to do everything in small chunks that i totally understood. and i had a heck of a lot of fun, and i ended up with a nice little thumbnail-maker and that sort of thing. there’s not much to it yet, but if i keep working on it, which i might, i’ll end up with my own personal version of the dozens of little-php-gallery-makers out there.
+and i actually enjoyed it, and it wasn’t intimidating or wearying. i’m proud of the code that resulted.
+taking things a very small, doable chunk at a time is peaceful and pleasant. it’s one good way to be creative.
+maybe some of the programming things that intimidate me intimidate me because i try to take on too much at once, and don’t do it piece by piece, making sure every small piece is well within my ability and attention span.
+
+
+author  ed that goes pingposted on 1/6/2011categories general 
+
+
+
+hey i think i’ll make a quick app. 
+
+i want to make my own rss reader.â  let’s get started!â  i’ll do it in wxpython.â  hm.â  the built-in wxpython on os x doesn’t work anymore since i upgraded python.â  i’ll install a new one.â  it fails; errors out.â  ok, i’ll try wxruby.â  easy to install — just a rubygem.â  installing… and it fails.â  how about shoes?â  i used to make lots of fun little applications with shoes. eh, ever since _why disappeared i can’t bear to mess with his former projects. i know people are continuing developing it, but i don’t care.â  _why’s gone, no shoes.â  what next?â  maybe a locally-powered webapp? how bout sinatra?â  easy to install; simple in concept.â  install it; make it go “hello world.”â  ok, now i’ve got to… to… come up with a user interface from scratch using only html, with javascript for immediate interactivity but ruby when that interactivity passes an arbitrary threshold and interacts with the “server.”â  *sigh*.
+you know, netnewswire is pretty nice.
+
+
+author  ed that goes pingposted on 1/2/2011categories general 
+
+
+posts navigation
+page 1
+page 2
+…
+page 289
+next page
+
+
+
+
+archives
+
+june 2016
+may 2011
+march 2011
+january 2011
+december 2010
+august 2010
+july 2010
+june 2010
+may 2010
+october 2009
+august 2009
+july 2009
+june 2009
+may 2009
+march 2009
+february 2009
+january 2009
+december 2008
+november 2008
+september 2008
+august 2008
+july 2008
+june 2008
+may 2008
+april 2008
+march 2008
+february 2008
+january 2008
+december 2007
+november 2007
+october 2007
+september 2007
+august 2007
+july 2007
+june 2007
+may 2007
+april 2007
+march 2007
+february 2007
+january 2007
+december 2006
+november 2006
+october 2006
+september 2006
+august 2006
+july 2006
+june 2006
+may 2006
+april 2006
+march 2006
+february 2006
+january 2006
+december 2005
+november 2005
+october 2005
+september 2005
+august 2005
+july 2005
+june 2005
+may 2005
+april 2005
+march 2005
+february 2005
+january 2005
+december 2004
+november 2004
+october 2004
+
+categories
+
+badisgood
+
+blogging about blogs or blogging
+
+books
+
+bringit
+
+computers
+
+creativity
+
+depressing
+
+friends
+
+funny
+
+futzmonkey
+
+gaming
+
+general
+
+hardware
+
+hoplessgeekery
+
+images
+
+information rights
+
+inspiring
+
+interesting
+
+justthinkin
+
+language
+
+linux
+
+local
+
+macintosh
+
+memes
+
+mindfulness
+
+music
+
+news
+
+nvc
+
+personal
+
+politics
+
+programming
+
+religion
+
+ruby
+
+sad
+
+scary
+
+society
+
+software
+
+ukulele
+
+webcomics
+
+weird
+
+
+friends and associates
+
+(pronounced lock-lin)
+a coqui in winterfell
+a little more life
+a religious liberal blog
+ame agaru lives!
+as it were…
+jim’s brain online
+little more than a placeholder
+martian rock samples
+one more voice in the human choir
+polytropos
+postmodern magic (pat dunn’s blog)
+pysched out
+the princess and the pirate
+the printable view
+the staging point
+
+
+links
+
+the body impolitic
+
+
+other fave reads
+
+big fat blog
+lambda the ultimate weblog
+making it stick.
+snappy the clam
+steve dekorte
+the slumbering lungfish
+xoltar
+
+
+other sites of mine
+
+esoteric murmurs
+
+
+webcomics
+
+achewood
+penny arcade
+
+
+
+
+
+search for:
+
+
+search
+
+ 
+
+
+
+the blog that goes ping
+proudly powered by wordpress
+
+
+
+
+
+
+
+
+
+
+

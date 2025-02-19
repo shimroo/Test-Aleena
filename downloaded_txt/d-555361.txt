@@ -1,0 +1,1698 @@
+
+
+
+
+
+
+ccd (charge-coupled device) cameras - andor - oxford instruments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+part of the oxford instruments group
+
+expand
+
+
+
+collapse
+
+
+
+
+
+
+
+
+
+oxford instruments
+
+
+
+
+
+
+
+
+
+applications
+
+
+
+
+
+
+
+
+
+products
+
+
+
+
+
+
+
+
+
+news
+
+
+
+
+
+
+
+
+
+events
+
+
+
+
+
+
+
+
+
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sustainability
+investors
+careers
+
+news
+   					
+events
+contact
+
+
+		en
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		en
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+investors
+
+careers
+
+
+
+
+life science
+
+
+
+camerasemccd camerasscmos camerasnir swir cameraslow noise ccd camerassuper-resolution camerasmulti-wavelength imagingex-demo cameras
+
+
+
+light microscopydragonfly confocal systemsbenchtop confocal microscopesbenchtop fluorescence microscopesbenchtop super resolution microscopesimage analysis softwareimaris packagesimaris free trial
+
+
+
+microscopy solutionsphotostimulation solutionsmicroscope laser enginesiq/oq quality control programmecontrol softwaresolis packagessoftware development kit
+
+
+
+applicationsbio-sciencecancercell biologydevelopmental biologyneurosciencesingle moleculevirology
+
+
+
+
+ 
+physical science
+
+
+
+camerasscmos camerasemccd cameraslarge ccd camerasintensified and gated camerasx-ray and neutron camerasspectroscopy camerasswir camerasfirst light imaging camerascb seriesc-red seriesocam emccd cameras
+
+
+
+spectroscopyspectrograph solutionsproduct focus: kymera spectrometersdetectors for uv to nir and swirspectroscopy accessoriesspectroscopy quick quotespectroscopy techniqueslow temperature spectroscopynir and swir spectroscopy modular raman spectroscopyex-demoex-demo cameras
+
+
+
+astronomyscmos for astronomyemccd for astronomyccd for astronomyswir for astronomycontrol softwaresolis packagessoftware development kit
+
+
+
+applicationsadvanced materialsastronomybio-sciencechemistryfluid mechanicsfusion sciencemetals, alloys, composites & ceramicsrenewable energyplasma imaging and spectroscopyquantum opticstomography
+
+
+
+
+ 
+oem
+
+
+
+portfolioscientific camerasspectroscopy solutionssoftwaremicroscopy solutions
+
+
+
+andor as an oem partneroem partnershipsbusiness-to-business dedicated staffoem products and applicationsmanufacturing and qualitygrowing together
+
+
+
+
+ 
+resources
+
+
+
+learning centreupcoming webinarson-demand webinarscase studiesapplication notestechnical articles
+
+
+
+toolsastronomy calculatorcamera window selectorsignal to noise calculatorspectroscopy resolution calculatorthird party software compatibility
+
+
+
+downloadssoftware downloadsdriverssoftware manualsuser manualsquick-start guidescode snippets
+
+
+
+free training courses free microscopy training courseraman spectroscopy training coursefundamentals of spectroscopy training courseistar training courseebooksmicroscopy ebooksspectroscopy and imaging ebooks
+
+
+
+
+ 
+support
+
+
+
+service and supportsupport requestservice productsliveassistreturn material authorization
+
+
+
+useful informationfind a support centreexport controls and licensingenvironmental policyobsolescence policy
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+news
+
+
+events
+
+
+contact
+
+
+ecommerce
+
+
+
+
+
+
+
+
+ccd (charge-coupled device) cameras
+the ikon ccd camera series for life and physical science research applications offer unique thermoelectric cooling to -100°c for market-leading low noise performance paired with highly efficient back-illuminated photon collection across a broad spectral range, and outstanding dynamic range.
+features include: 
+
+large field of view
+up to 16.8 megapixel
+market-leading thermoelectric cooling to -100 °c
+back-illuminated > 95% qe
+ultravac™ low maintenance operation
+
+
+
+
+
+
+
+ccd for life science
+
+applications include plant imaging, in vivo bioluminescence & bacterial luminescence.
+see portfolio
+request pricing
+ask a question
+
+
+ccd for physical science
+
+applications include large sky surveys, exoplanet discovery, astronomical spectroscopy & quantum gases
+see portfolio
+request pricing
+ask a question
+
+
+
+
+
+
+life science ccd comparison
+
+
+
+
+ikon-l 936
+large field of view for luminescence
+
+4.2 megapixel & 13.5 µm pixel: 39 mm diagonal
+f mount (ef option)
+low maintenance vacuum te cooling to -100 °c
+deep-depletion nir options
+fast kinetics mode (µs dynamics)
+
+specifications
+request pricing
+
+
+
+
+
+ikon-m 934
+medium field of view for luminescence
+
+1 megapixel & 13 µm pixel: 19 mm diagonal
+c-mount
+low maintenance vacuum te cooling to -100 °c
+deep-depletion nir options
+fast kinetics mode (µs dynamics)
+
+specifications
+request pricing
+
+
+
+
+
+
+
+
+
+
+
+physical science ccd comparison
+
+
+
+
+ikon-xl 231
+very large fov & near-ir enhancement
+
+16.8 megapixel & 15 µm pixel: 87mm diagonal
+low maintenance vacuum te cooling to -100 °c
+lowest read noise & 18-bit dynamic range
+deep-depletion nir options: astrospectroscopy & exoplanet
+
+specifications
+request pricing
+
+
+
+
+
+ikon-xl 230
+very large fov & lowest darkcurrent
+
+16.8 megapixel & 15 µm pixel: 87 mm diagonal
+low maintenance vacuum te cooling to -100 °c
+optimal darkcurrent performance with air cooling
+lowest darkcurrent sensor: max snr with very long exposures.
+
+specifications
+request pricing
+
+
+
+
+
+ikon-l 936
+large fov & near-ir enhancement
+
+4.2 megapixel & 13.5 µm pixel: 39 mm diagonal
+low maintenance vacuum te cooling to -100 °c
+x-ray or neutron experiments
+deep-depletion nir options: astrospectroscopy, exoplanet
+
+specifications
+request pricing
+
+
+
+
+
+ikon-m 934
+medium fov: quantum imaging and luminescence
+
+1 megapixel & 13 µm pixel: 19 mm diagonal
+low maintenance vacuum te cooling to -100 °c
+deep-depletion nir options: rubidium bec 780nm
+fast kinetics mode (µs dynamics): rapid bec dynamics
+
+specifications
+request pricing
+
+
+
+
+
+
+
+pv inspector 
+optimized for in-line photovoltaic inspection
+
+> 90% qe beyond 800nm
+rapid readout for high throughput
+fast dual exposure time switching
+in-line electroluminescence and photoluminescence
+
+specifications
+request pricing
+
+
+
+
+
+
+
+
+
+
+
+
+
+join our mailing list
+please share a little information with us to receive emails relevant to your area(s) of research. we promise to only use your details in accordance with our privacy policy.
+
+
+
+
+
+
+
+toggle dropdown
+
+
+please select your area of research
+life sciencephysical scienceoem
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+organisation 
+
+
+
+occupation 
+
+
+ 
+
+toggle dropdown
+
+
+select an option
+academic researcher
+r&d scientist
+lab technician
+principal investigator
+laboratory manager
+facilities manager
+postdoctoral research assistant
+corporate manager
+phd student
+undergraduate student
+engineer/software engineer
+teaching fellow
+other
+
+
+
+
+
+country/region *
+
+
+ 
+
+toggle dropdown
+
+
+select a country/region
+afghanistanalbaniaalgeriaandorraangolaantigua and barbudaargentinaarmeniaaustraliaaustriaazerbaijanbahamas, thebahrainbangladeshbarbadosbelgiumbelizebeninbhutanboliviabosnia and herzegovinabotswanabrazilbruneibulgariaburkina fasoburmaburundicambodiacamerooncanadacape verdecentral african republicchadchilechinacolombiacomoroscongocongo (democratic republic)costa ricacroatiacubacyprusczech republicdenmarkdjiboutidominicadominican republiceast timorecuadoregyptel salvadorequatorial guineaeritreaestoniaeswatiniethiopiafijifinlandfrancegabongambia, thegeorgiagermanyghanagreecegrenadaguatemalaguineaguinea-bissauguyanahaitihondurashungaryicelandindiaindonesiairaqirelandisraelitalyivory coastjamaicajapanjordankazakhstankenyakiribatikosovokuwaitkyrgyzstanlaoslatvialebanonlesotholiberialibyaliechtensteinlithuanialuxembourgmacedoniamadagascarmalawimalaysiamaldivesmalimaltamarshall islandsmauritaniamauritiusmexicomicronesiamoldovamonacomongoliamontenegromoroccomozambiquenamibianaurunepalnetherlandsnew zealandnicaraguanigernigerianorwayomanpakistanpalaupanamapapua new guineaparaguayperuphilippinespolandportugalqatarromaniarwandasamoasan marinosao tome and principesaudi arabiasenegalserbiaseychellessierra leonesingaporeslovakiasloveniasolomon islandssomaliasouth africasouth koreasouth sudanspainsri lankast kitts and nevisst luciast vincentsurinameswedenswitzerlandtaiwantajikistantanzaniathailandtogotongatrinidad and tobagotunisiaturkeyturkmenistantuvaluugandaukraineunited arab emiratesunited kingdomunited statesuruguayuzbekistanvanuatuvatican cityvenezuelavietnamyemenzambiazimbabwe
+
+
+
+
+
+state 
+
+
+ 
+
+toggle dropdown
+
+
+select a state
+alabamaalaskaarizonaarkansascaliforniacoloradoconnecticutdelawaredistrict of columbiafloridageorgiaguamhawaiiidahoillinoisindianaiowakansaskentuckylouisianamainemarylandmassachusettsmichiganminnesotamississippimissourimontananebraskanevadanew hampshirenew jerseynew mexiconew yorknorth carolinanorth dakotanorthern mariana islandsohiooklahomaoregonpennsylvaniapuerto ricorhode islandsouth carolinasouth dakotatennesseetexasu.s. virgin islandsutahvermontvirginiawashingtonwest virginiawisconsinwyoming
+
+
+
+
+
+please select your area(s) of interest  
+
+
+
+
+
+biophysics
+
+
+
+
+
+
+
+cancer
+
+
+
+
+
+
+
+cell and tissues
+
+
+
+
+
+
+
+core imaging facility
+
+
+
+
+
+
+
+developmental biology
+
+
+
+
+
+
+
+diseases and immunology
+
+
+
+
+
+
+
+microbiology
+
+
+
+
+
+
+
+neuroscience
+
+
+
+
+
+
+
+pharma
+
+
+
+
+
+
+
+other
+
+
+
+
+
+
+alternatively you can unsubscribe here: 
+
+
+
+i no longer wish to receive emails from andor
+
+
+
+
+
+
+
+
+
+
+
+					  
+					  
+  
+  
+					  by submitting this form i agree that oxford instruments will process my data in the manner described in the privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+organisation 
+
+
+
+occupation 
+
+
+ 
+
+toggle dropdown
+
+
+select an option
+academic researcher
+r&d scientist
+lab technician
+principal investigator
+laboratory manager
+facilities manager
+postdoctoral research assistant
+corporate manager
+phd student
+undergraduate student
+engineer/software engineer
+teaching fellow
+other
+
+
+
+
+
+country/region *
+
+
+ 
+
+toggle dropdown
+
+
+select a country/region
+afghanistanalbaniaalgeriaandorraangolaantigua and barbudaargentinaarmeniaaustraliaaustriaazerbaijanbahamas, thebahrainbangladeshbarbadosbelgiumbelizebeninbhutanboliviabosnia and herzegovinabotswanabrazilbruneibulgariaburkina fasoburmaburundicambodiacamerooncanadacape verdecentral african republicchadchilechinacolombiacomoroscongocongo (democratic republic)costa ricacroatiacubacyprusczech republicdenmarkdjiboutidominicadominican republiceast timorecuadoregyptel salvadorequatorial guineaeritreaestoniaeswatiniethiopiafijifinlandfrancegabongambia, thegeorgiagermanyghanagreecegrenadaguatemalaguineaguinea-bissauguyanahaitihondurashungaryicelandindiaindonesiairaqirelandisraelitalyivory coastjamaicajapanjordankazakhstankenyakiribatikosovokuwaitkyrgyzstanlaoslatvialebanonlesotholiberialibyaliechtensteinlithuanialuxembourgmacedoniamadagascarmalawimalaysiamaldivesmalimaltamarshall islandsmauritaniamauritiusmexicomicronesiamoldovamonacomongoliamontenegromoroccomozambiquenamibianaurunepalnetherlandsnew zealandnicaraguanigernigerianorwayomanpakistanpalaupanamapapua new guineaparaguayperuphilippinespolandportugalqatarromaniarwandasamoasan marinosao tome and principesaudi arabiasenegalserbiaseychellessierra leonesingaporeslovakiasloveniasolomon islandssomaliasouth africasouth koreasouth sudanspainsri lankast kitts and nevisst luciast vincentsurinameswedenswitzerlandtaiwantajikistantanzaniathailandtogotongatrinidad and tobagotunisiaturkeyturkmenistantuvaluugandaukraineunited arab emiratesunited kingdomunited statesuruguayuzbekistanvanuatuvatican cityvenezuelavietnamyemenzambiazimbabwe
+
+
+
+
+
+state 
+
+
+ 
+
+toggle dropdown
+
+
+select a state
+alabamaalaskaarizonaarkansascaliforniacoloradoconnecticutdelawaredistrict of columbiafloridageorgiaguamhawaiiidahoillinoisindianaiowakansaskentuckylouisianamainemarylandmassachusettsmichiganminnesotamississippimissourimontananebraskanevadanew hampshirenew jerseynew mexiconew yorknorth carolinanorth dakotanorthern mariana islandsohiooklahomaoregonpennsylvaniapuerto ricorhode islandsouth carolinasouth dakotatennesseetexasu.s. virgin islandsutahvermontvirginiawashingtonwest virginiawisconsinwyoming
+
+
+
+
+
+province 
+
+
+ 
+
+toggle dropdown
+
+
+select a province/territory
+albertabritish columbiamanitobanew brunswicknewfoundland and labradornorthwest territoriesnova scotianunavutontarioprince edward islandquebecsaskatchewanyukon
+
+
+
+
+
+please select your area(s) of interest  *
+
+
+
+
+
+astronomy
+
+
+
+
+
+
+
+bio/clinical spectroscopy
+
+
+
+
+
+
+
+chemistry
+
+
+
+
+
+
+
+fluid and plasma dynamics
+
+
+
+
+
+
+
+metals, alloys, composites and ceramics
+
+
+
+
+
+
+
+quantum optics
+
+
+
+
+
+
+
+other
+
+
+
+
+
+
+alternatively you can unsubscribe here: 
+
+
+
+i no longer wish to receive emails from andor
+
+
+
+
+
+
+
+
+
+
+
+					  
+					  
+  
+  
+					  by submitting this form i agree that oxford instruments will process my data in the manner described in the privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+first name *
+
+
+
+last name *
+
+
+
+email *
+
+
+
+organisation 
+
+
+
+occupation 
+
+
+ 
+
+toggle dropdown
+
+
+select an option
+academic researcher
+r&d scientist
+lab technician
+principal investigator
+laboratory manager
+facilities manager
+postdoctoral research assistant
+corporate manager
+phd student
+undergraduate student
+engineer/software engineer
+teaching fellow
+other
+
+
+
+
+
+country/region *
+
+
+ 
+
+toggle dropdown
+
+
+select a country/region
+afghanistanalbaniaalgeriaandorraangolaantigua and barbudaargentinaarmeniaaustraliaaustriaazerbaijanbahamas, thebahrainbangladeshbarbadosbelgiumbelizebeninbhutanboliviabosnia and herzegovinabotswanabrazilbruneibulgariaburkina fasoburmaburundicambodiacamerooncanadacape verdecentral african republicchadchilechinacolombiacomoroscongocongo (democratic republic)costa ricacroatiacubacyprusczech republicdenmarkdjiboutidominicadominican republiceast timorecuadoregyptel salvadorequatorial guineaeritreaestoniaeswatiniethiopiafijifinlandfrancegabongambia, thegeorgiagermanyghanagreecegrenadaguatemalaguineaguinea-bissauguyanahaitihondurashungaryicelandindiaindonesiairaqirelandisraelitalyivory coastjamaicajapanjordankazakhstankenyakiribatikosovokuwaitkyrgyzstanlaoslatvialebanonlesotholiberialibyaliechtensteinlithuanialuxembourgmacedoniamadagascarmalawimalaysiamaldivesmalimaltamarshall islandsmauritaniamauritiusmexicomicronesiamoldovamonacomongoliamontenegromoroccomozambiquenamibianaurunepalnetherlandsnew zealandnicaraguanigernigerianorwayomanpakistanpalaupanamapapua new guineaparaguayperuphilippinespolandportugalqatarromaniarwandasamoasan marinosao tome and principesaudi arabiasenegalserbiaseychellessierra leonesingaporeslovakiasloveniasolomon islandssomaliasouth africasouth koreasouth sudanspainsri lankast kitts and nevisst luciast vincentsurinameswedenswitzerlandtaiwantajikistantanzaniathailandtogotongatrinidad and tobagotunisiaturkeyturkmenistantuvaluugandaukraineunited arab emiratesunited kingdomunited statesuruguayuzbekistanvanuatuvatican cityvenezuelavietnamyemenzambiazimbabwe
+
+
+
+
+
+state 
+
+
+ 
+
+toggle dropdown
+
+
+select a state
+alabamaalaskaarizonaarkansascaliforniacoloradoconnecticutdelawaredistrict of columbiafloridageorgiaguamhawaiiidahoillinoisindianaiowakansaskentuckylouisianamainemarylandmassachusettsmichiganminnesotamississippimissourimontananebraskanevadanew hampshirenew jerseynew mexiconew yorknorth carolinanorth dakotanorthern mariana islandsohiooklahomaoregonpennsylvaniapuerto ricorhode islandsouth carolinasouth dakotatennesseetexasu.s. virgin islandsutahvermontvirginiawashingtonwest virginiawisconsinwyoming
+
+
+
+
+
+province 
+
+
+ 
+
+toggle dropdown
+
+
+select a province/territory
+albertabritish columbiamanitobanew brunswicknewfoundland and labradornorthwest territoriesnova scotianunavutontarioprince edward islandquebecsaskatchewanyukon
+
+
+
+
+
+please select your area(s) of interest  *
+
+
+
+
+
+cancer
+
+
+
+
+
+
+
+cells and tissue
+
+
+
+
+
+
+
+chemical catalysis
+
+
+
+
+
+
+
+medical - clinical
+
+
+
+
+
+
+
+nanomaterials, metals, alloys, composites and ceramics
+
+
+
+
+
+
+
+microbiology
+
+
+
+
+
+
+
+pharma
+
+
+
+
+
+
+
+quantum optics
+
+
+
+
+
+
+
+semi conductors, microelectronics and data storage
+
+
+
+
+
+
+
+life science - other
+
+
+
+
+
+
+
+physical science - other
+
+
+
+
+
+
+alternatively you can unsubscribe here: 
+
+
+
+i no longer wish to receive emails from andor
+
+
+
+
+
+
+
+
+
+
+
+					  
+					  
+  
+  
+					  by submitting this form i agree that oxford instruments will process my data in the manner described in the privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+first name *
+
+
+
+
+
+
+
+
+
+
+
+last name *
+
+
+
+email *
+
+
+
+country/region *
+
+
+ 
+
+toggle dropdown
+
+
+select a country/region
+afghanistanaland islandsalbaniaalgeriaamerican minor outlying islandsamerican samoaamerican virgin islandsandorraangolaanguillaantarcticaantigua and barbudaargentinaarmeniaarubaaustraliaaustriaazerbaijanbahamasbahrainbangladeshbarbadosbelgiumbelizebeninbermudabhutanboliviabonaire, sint eustatius and sababosnia and herzegovinabotswanabouvet islandsbrazilbritish indian ocean territorybritish virgin islandsbrunei darussalambulgariaburkina fasoburundicabo verdecambodiacamerooncanadacayman islandscentral african republicchadchilechinachristmas islandcocos (keeling) islandscolombiacomoroscook islandscosta ricacote d'ivoirecroatiacubacuraçaocyprusczech republicdemocratic republic of the congodenmarkdjiboutidominicadominican republicecuadoregyptel salvadorequatorial guineaeritreaestoniaethiopiafalkland islandsfaroe islandsfederated states of micronesiafijifinlandfrancefrench guyanafrench polynesiafrench southern territoriesgabongambiageorgiagermanyghanagibraltargreecegreenlandgrenadaguadeloupeguamguatemalaguernseyguineaguinea-bissauguyanahaitiheard and mcdonald islandshondurashong konghungaryicelandindiaindonesiairaqirelandisle of manisraelitalyjamaicajapanjerseyjordankazakhstankenyakiribatikuwaitkyrgyzstanlaoslatvialebanonlesotholiberialibyaliechtensteinlithuanialuxembourgmacaomadagascarmalawimalaysiamaldivesmalimaltamarshall islandsmartiniquemauretaniamauritiusmayottemexicomoldovamonacomongoliamontenegromontserratmoroccomozambiquemyanmarnamibianaurunepalnetherlandsnew caledonianew zealandnicaraguanigernigerianiuenorfolk islandsnorth mariana islandsnorwayomanpakistanpalaupanamapapua new guineaparaguayperuphilippinespitcairn islandspolandportugalpuerto ricoqatarrepublic of north macedoniarepublic of south sudanrepublic of the congoreunionromaniarwandasaint barthelemysaint helenasaint kitts and nevissaint martinsamoasan marinosao tome and principesaudi arabiasenegalserbiaseychellessierra leonesingaporesint maarten (dutch part)slovakiasloveniasolomon islandssomaliasouth africasouth georgia and the southern sandwich islandssouth koreaspainsri lankast. luciast. pierre and miquelonst. vincent and the grenadinesstate of palestinesurinamesvalbardswedenswitzerlandtaiwantajikistantanzaniathailandthe kingdom of eswatinitimor-lestetogotokelau islandstongatrinidad and tobagotunisiaturkeyturkmenistanturks and caicos islandstuvaluugandaukraineunited arab emiratesunited kingdomuruguayusauzbekistanvanuatuvatican cityvenezuelavietnamwallis and futuna islandswest saharayemenzambiazimbabwe
+
+
+
+
+
+us state *
+
+
+ 
+
+toggle dropdown
+
+
+select a state
+alabamaalaskaarizonaarkansascaliforniacoloradoconnecticutdelawarefloridageorgiaguamhawaiiidahoillinoisindianaiowakansaskentuckylouisianamainemarylandmassachusettsmichiganminnesotamississippimissourimontananebraskanevadanew hampshirenew jerseynew mexiconew yorknorth carolinanorth dakotanorthern mariana islandsohiooklahomaoregonpennsylvaniapuerto ricorhode islandsouth carolinasouth dakotatennesseetexasu.s. virgin islandsutahvermontvirginiawashingtonwest virginiawisconsinwyoming
+
+
+
+
+
+canadian province *
+
+
+ 
+
+toggle dropdown
+
+
+select a province/territory
+albertabritish columbiamanitobanew brunswicknewfoundland and labradornorthwest territoriesnova scotianunavutontarioprince edward islandquebecsaskatchewanyukon
+
+
+
+
+
+chinese province *
+
+
+ 
+
+toggle dropdown
+
+
+select a province
+(heb) hebei province(hen) henan province(hub) hubei province(hun) hunan province(saa) shaanxi province(sax) shanxi provinceanhui provincebeijing municipalitychongqing municipalityfujian province[e]gansu provinceguangdong provinceguangxi zhuang autonomous regionguizhou provincehainan provinceheilongjiang provincehong kong special administrative regioninner mongolia autonomous regionjiangsu provincejiangxi provincejilin provinceliaoning provincemacau special administrative regionningxia hui autonomous regionqinghai provinceshandong provinceshanghai municipalitysichuan provincetianjin municipalityxinjiang uyghur autonomous regionyunnan provincezhejiang province
+
+
+
+
+
+german province *
+
+
+ 
+
+toggle dropdown
+
+
+select a province
+baden-württembergbavariaberlinbrandenburgbremenhamburghesselower saxonymecklenburg-vorpommernnorth rhine-westphaliarhineland-palatinatesaarlandsaxonysaxony-anhaltschleswig-holsteinthuringia
+
+
+
+
+
+company/organisation *
+
+
+
+telephone *
+
+
+
+product
+
+
+
+field of use *
+
+
+ 
+
+toggle dropdown
+
+
+select an option
+oemmicroscopyresearch - life sciencesresearch - physical sciences
+
+
+
+
+
+what is your primary research area *
+
+
+ 
+
+toggle dropdown
+
+
+select an option
+astronomybio imaging and life sciencebio-physicscancercells and tissueschemical and catalysiscore imaging facilitydisease & immunologyenergy generation and storagefluid & plasma dynamicsforensics and environmentgeology, petrology, and miningmetals, alloys, composites and ceramicsmicrobiologyneurosciencepharma & cosmeticsphotonics devicesquantum opticsresearch and fundamental sciencesemiconductors, microelectronics and data storage
+
+
+
+
+
+
+
+
+comments 
+
+
+
+
+
+
+
+
+
+
+
+
+
+would you like to receive occasional emails about our products, applications and events?*
+
+
+
+yes
+
+
+
+no
+
+
+
+
+
+
+
+
+
+
+					  
+					  
+  
+  
+					  by submitting this form i agree that oxford instruments will process my data in the manner described in the privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+first name *
+
+
+
+
+
+
+
+
+
+
+
+last name *
+
+
+
+email *
+
+
+
+country/region *
+
+
+ 
+
+toggle dropdown
+
+
+select a country/region
+afghanistanaland islandsalbaniaalgeriaamerican minor outlying islandsamerican samoaamerican virgin islandsandorraangolaanguillaantarcticaantigua and barbudaargentinaarmeniaarubaaustraliaaustriaazerbaijanbahamasbahrainbangladeshbarbadosbelgiumbelizebeninbermudabhutanboliviabonaire, sint eustatius and sababosnia and herzegovinabotswanabouvet islandsbrazilbritish indian ocean territorybritish virgin islandsbrunei darussalambulgariaburkina fasoburundicabo verdecambodiacamerooncanadacayman islandscentral african republicchadchilechinachristmas islandcocos (keeling) islandscolombiacomoroscook islandscosta ricacote d'ivoirecroatiacubacuraçaocyprusczech republicdemocratic republic of the congodenmarkdjiboutidominicadominican republicecuadoregyptel salvadorequatorial guineaeritreaestoniaethiopiafalkland islandsfaroe islandsfederated states of micronesiafijifinlandfrancefrench guyanafrench polynesiafrench southern territoriesgabongambiageorgiagermanyghanagibraltargreecegreenlandgrenadaguadeloupeguamguatemalaguernseyguineaguinea-bissauguyanahaitiheard and mcdonald islandshondurashong konghungaryicelandindiaindonesiairaqirelandisle of manisraelitalyjamaicajapanjerseyjordankazakhstankenyakiribatikuwaitkyrgyzstanlaoslatvialebanonlesotholiberialibyaliechtensteinlithuanialuxembourgmacaomadagascarmalawimalaysiamaldivesmalimaltamarshall islandsmartiniquemauretaniamauritiusmayottemexicomoldovamonacomongoliamontenegromontserratmoroccomozambiquemyanmarnamibianaurunepalnetherlandsnew caledonianew zealandnicaraguanigernigerianiuenorfolk islandsnorth mariana islandsnorwayomanpakistanpalaupanamapapua new guineaparaguayperuphilippinespitcairn islandspolandportugalpuerto ricoqatarrepublic of north macedoniarepublic of south sudanrepublic of the congoreunionromaniarwandasaint barthelemysaint helenasaint kitts and nevissaint martinsamoasan marinosao tome and principesaudi arabiasenegalserbiaseychellessierra leonesingaporesint maarten (dutch part)slovakiasloveniasolomon islandssomaliasouth africasouth georgia and the southern sandwich islandssouth koreaspainsri lankast. luciast. pierre and miquelonst. vincent and the grenadinesstate of palestinesurinamesvalbardswedenswitzerlandtaiwantajikistantanzaniathailandthe kingdom of eswatinitimor-lestetogotokelau islandstongatrinidad and tobagotunisiaturkeyturkmenistanturks and caicos islandstuvaluugandaukraineunited arab emiratesunited kingdomuruguayusauzbekistanvanuatuvatican cityvenezuelavietnamwallis and futuna islandswest saharayemenzambiazimbabwe
+
+
+
+
+
+us state *
+
+
+ 
+
+toggle dropdown
+
+
+select a state
+alabamaalaskaarizonaarkansascaliforniacoloradoconnecticutdelawarefloridageorgiaguamhawaiiidahoillinoisindianaiowakansaskentuckylouisianamainemarylandmassachusettsmichiganminnesotamississippimissourimontananebraskanevadanew hampshirenew jerseynew mexiconew yorknorth carolinanorth dakotanorthern mariana islandsohiooklahomaoregonpennsylvaniapuerto ricorhode islandsouth carolinasouth dakotatennesseetexasu.s. virgin islandsutahvermontvirginiawashingtonwest virginiawisconsinwyoming
+
+
+
+
+
+canadian province *
+
+
+ 
+
+toggle dropdown
+
+
+select a province/territory
+albertabritish columbiamanitobanew brunswicknewfoundland and labradornorthwest territoriesnova scotianunavutontarioprince edward islandquebecsaskatchewanyukon
+
+
+
+
+
+chinese province *
+
+
+ 
+
+toggle dropdown
+
+
+select a province
+(heb) hebei province(hen) henan province(hub) hubei province(hun) hunan province(saa) shaanxi province(sax) shanxi provinceanhui provincebeijing municipalitychongqing municipalityfujian province[e]gansu provinceguangdong provinceguangxi zhuang autonomous regionguizhou provincehainan provinceheilongjiang provincehong kong special administrative regioninner mongolia autonomous regionjiangsu provincejiangxi provincejilin provinceliaoning provincemacau special administrative regionningxia hui autonomous regionqinghai provinceshandong provinceshanghai municipalitysichuan provincetianjin municipalityxinjiang uyghur autonomous regionyunnan provincezhejiang province
+
+
+
+
+
+german province *
+
+
+ 
+
+toggle dropdown
+
+
+select a province
+baden-württembergbavariaberlinbrandenburgbremenhamburghesselower saxonymecklenburg-vorpommernnorth rhine-westphaliarhineland-palatinatesaarlandsaxonysaxony-anhaltschleswig-holsteinthuringia
+
+
+
+
+
+company/organisation *
+
+
+
+telephone *
+
+
+
+product
+
+
+
+field of use? *
+
+
+ 
+
+toggle dropdown
+
+
+select an option
+oemmicroscopyresearch - life sciencesresearch - physical sciences
+
+
+
+
+
+what is your primary research area *
+
+
+ 
+
+toggle dropdown
+
+
+select an option
+astronomybio imaging and life sciencebio-physicscancercells and tissueschemical and catalysiscore imaging facilitydisease & immunologyenergy generation and storagefluid & plasma dynamicsforensics and environmentgeology, petrology, and miningmetals, alloys, composites and ceramicsmicrobiologyneurosciencepharma & cosmeticsphotonics devicesquantum opticsresearch and fundamental sciencesemiconductors, microelectronics and data storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your question 
+
+
+
+
+
+would you like to receive occasional emails about our products, applications and events?*
+
+
+
+yes
+
+
+
+no
+
+
+
+
+
+
+
+
+
+
+					  
+					  
+  
+  
+					  by submitting this form i agree that oxford instruments will process my data in the manner described in the privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+open in a new tab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copyright statement
+sustainability
+modern slavery
+
+
+
+
+gender pay report
+regulatory information
+terms & conditions of use
+
+
+
+
+privacy
+disclaimer
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+© oxford instruments 2025
+
+
+website by miramar communications ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

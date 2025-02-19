@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+macsema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+services
+technology
+wins
+about
+contact
+
+
+
+macsema
+
+
+engineering services.
+software solutions.
+"turning ideas into realities"
+services
+technology
+hardware
+
+
+
+
+design — development — prototyping
+
+                    we work with you on all phases of the development process:
+                
+
+
+                    definitions
+                
+
+
+                    requirements
+                
+
+
+                    design
+                
+
+
+                    implementation
+                
+
+
+                    testing
+                
+
+
+                    production
+                
+
+                    we can manage the entire project or work as partners with your project managers.
+                
+
+
+
+
+software
+
+business solutions
+embedded systems
+firmware
+microcontrollers
+pc based
+asm, c, oop, vb, matlab
+.net, java, android, ios
+delphi, javascript, php
+
+
+
+software
+
+
+
+
+electronic
+
+digital and analog
+8-32 bit microprocessors
+cpld and fpga
+schematic capture
+sm circuits
+single/ multilayer pcb layout
+
+
+
+
+mechanical
+
+detailing and drafting
+materials selection
+manufacturing and assembly
+testing
+
+
+
+
+communications
+
+networks
+wireless
+wired
+sensors
+bluetooth
+rfid
+
+
+
+
+download capability statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+buttonmemory®  — bar code — how it works — simple as 1, 2, 3
+
+
+
+
+
+
+
+1
+load the app.
+
+
+2
+touch the buttonmemory® or scan a bar code.
+
+
+3
+view the information.
+
+
+
+
+
+
+
+
+technology
+
+
+
+
+spsnet
+
+
+                        security guard tour software
+                    
+
+
+                        touch cmb to log date and time at location
+                    
+
+
+spsnet guard tour product catalog
+
+
+
+
+button bolts
+
+
+                        integrate in product
+                    
+
+
+                        track information
+                    
+
+
+hardware
+
+
+
+
+electronic dog tag
+
+
+                        digital data
+                    
+
+
+                        touch to read/write
+                    
+
+
+hardware
+
+
+
+
+android / ios
+
+
+                        android and ios supported
+                    
+
+
+                        developer sdks
+                    
+
+
+developers
+
+
+
+
+
+
+past performance and successes
+
+
+
+major oem (transmission memory module)
+
+                        client required the development of a transmission external memory module to capture and store fault codes from the data bus. the solution involved the integration of a ruggedized electronic / mechanical design, software, comprehensive environmental testing and the manufacture of the finished product.
+                        
+
+
+
+major commercial airline (aircraft component tracking system)
+
+                        client required an ata spec 2000 compliant inspection and maintenance software package to satisfy the faa 14 cfr 121.1109 inspection rule.  the rule mandates the tracking of the supplemental inspections of replaceable structural components on the carrier’s commercial aircraft.  the solution involved both pc and handheld software and the integration of automatic identification technology (ait) devices (contact memory buttons, rfid, etc.). system is in use fleet wide.
+                        
+
+
+
+major aerospace maintenance repair organization (turboprop aircraft engine monitor module)
+
+                        client required the development of an externally mounted module to monitor and record engine operating time and cycles. unit had to be standalone, self-powered and use no batteries. the solution involved the integration of a piezo based vibration sensing technology with a ruggedized electronic / mechanical design, software and comprehensive environmental testing. faa conformity, transport canada supplemental type certificate (stc) se13-1 and on wing flight tested.
+                        
+
+
+
+
+
+
+about
+
+
+
+                    macsema is a broad based engineering company offering custom design and development services. our decades of experience enable us to quickly comprehend and respond to our client’s unique project requirements. the integration of our software, mechanical, electronic, and communications engineering services is supported by a reliable group of manufacturing partners. macsema provides rapid response turnkey solutions saving our clients the time and costs involved in dealing with multiple vendors. incorporated in 1990.
+                
+
+
+
+
+
+
+
+
+we're happy to hear from you
+
+
+
+
+
+
+
+name
+
+
+
+
+
+
+
+company
+
+
+
+
+
+
+
+email
+
+
+
+
+
+
+
+phone
+
+
+
+
+
+
+
+department
+
+
+
+engineering
+software
+sales
+support
+
+
+
+
+
+how did you find us?
+
+
+
+associates
+search engine
+advertisement
+social media
+other
+
+
+
+
+
+message
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us
+developers
+downloads
+hardware
+software
+ios app
+android app
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+copyright © 2025 by macsema, inc. all rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

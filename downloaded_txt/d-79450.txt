@@ -1,0 +1,552 @@
+
+a play about a university talk in 2012
+
+
+a play about a university talk in 2012
+
+noble ape is now known as the apesdk.
+
+author: i was baptized by fire. i get six hours of workshops and... this day, basically. so flew in and then workshops, workshops, workshops. so, i'm here to demonstrate my noble ape simulation. but before i do, i'd like to talk a little bit about biota, which is a site that i've been the editor on for about, i don't know, six years now. and we basically go out and interview historical artificial life folk.
+
+speaker 2: so you gave a presentation on the last day? and the closing comments about biota.
+
+author: briefly. yes.
+
+speaker 2: i was there but... you were there but...
+
+speaker 5: i was still there... yeah. fading. fading rapidly.
+
+author: okay. so a little bit of background associated with noble ape. so there are many ways to look at noble ape. this is probably the easiest way to give initial demonstration. so the noble ape simulation creates a landscape environment, initially. there are a number of simulation components that are all brought together, but it creates a random fractal landscape. there's a weather simulation that moves over the landscape, basically. it creates cloud patterns and rain and these kind of elements. there's a biological simulation, which is based loosely on quantum mechanics. basically, at every point, there's a probability associated with the underlying shape of the landscape. the surface area, the height, the moving sunlight and total sunlight, rainfall and salt content form a stack of probabilities, which the species in the simulation are represented by in a probabilistic form. and then a noise map is placed on there. in the case of growing plants, it's a growing noise map to show the plants growing. in the case of beetles, mice, these kind of things, it's a moving noise map to track the movements. but when i started developing noble ape... it's a nice metric projection of the selected agent. let me run it. it might make it... oh. sorry. let me run it. it might make it a little easier. well, i talked to it. so what else? let me put the weather over the top of this. so this is probably the business card end of the simulation, in terms of not getting anything out of it. ah... it's also three different kinds of intelligent agent simulations going on. the first you can see here is what i call the cognitive simulation, which was based on an early agar simulation that i did and information transfer. stepping back, i started developing noble ape in 1996. so, at the time, i was using 68000 processors, early xt, at machines. so the reason i used a very simple biological simulation was so i didn't have to do a lot of simulation associated with the biology, but so the apes could interrogate at the points that they were at any given time, rather than doing a large scale biological simulation. there's a full-time developer called bob mottram, in the uk. he's an industrial roboticist by profession. he's added components. i'll talk about his stuff in...
+
+speaker 5: so just terminology... so, each agent, you're calling each one of those is an ape.
+
+author: so then, a wide variety of things that we'll get into, in terms of what simulation makes them an ape, including fur and these kind of things, but i'll talk about that in a minute. in terms of the history of the simulation, i came to what... i was studying physics and philosophy at the time and i was interested in basically ideas of the mind, simulating ideas of consciousness and how these agents, in a very rich simulated environment, would have social interactions and these kind of things, and form societies. that was the initial idea behind the simulation, and it's gone a number of different directions since then.
+
+author: in terms of the intelligent agent model, as i was mentioning, i had early agar simulation that i had developed prior to noble ape. in fact, noble ape was really bringing together a wide variety of bits and pieces of software that i'd written at the time. but i was interested in the idea of information transfer through the agar, as population densities kind of moved through the agar and feed on it. i resolved that down to two kind of competing formulae to describe what i used for information transfer, initially in the two-dimensional agar simulation, which i used to simulate the reactive cognitive processes. but then i moved it to a three-dimensional simulation. i wrote about this in a book called "nature inspired informatics". so if any of you are interested, i can pass on the reference material associated with that. but the idea basically was that there was an internal representation and external representation. there are sensors and actuators, which i have drawn in the past, but it just adds visual noise basically, to this. you could almost see which end the sensors and actuators are coming in on.
+
+speaker 5: so the revolving thing above is the internal representation that, that agent has? 
+
+author: it's the first of these. there have been two additional ones layered and at this point, it's probably easiest to go to the command line version just to talk more on that. so let's get rid of that version. and this is a command line version i've been running for some time. so, when bob mottram first came to the simulation, he added, he comes from industrial robotics, but he's very interested in social robotics. so he added some of the social models, including the drive theory. so what you see here, well, i can show you all the apes in the simulation, but you see a particular ape in the simulation. they have double-barrelled names because they're noble apes. it's a small joke. so that way you can track them. you could also track family structures and things like that through the names.
+
+speaker 5: but even the progenitors, do they start off with a couple or did you seed them with a bunch? 
+
+author: the initial conditions are really interesting. both with regards to this and what we'll get into, associated with the simulation of language. this is initially random. the language is not initially random. and this sort of discussion i've had backwards and forwards with bob mottram, because it's a lot more interesting... well, from my perspective, at least, when their language is initially randomized too, but we'll get into that in a minute. so yeah, the initial conditions are important here. all the apes start off in a condition of maturity. i think this one, yeah this one has a population of 95, 81 adults and 14 juveniles. so i've run this for...
+
+speaker 5: so, this is what a starting position would be like? 
+
+author: no, it's not. i've run this for a period of time because it's a little boring initially, and when i've demoed it up until now, i've had to run it for at least 10 days to start getting stuff populating. this is one that i've cooked a little earlier, so to speak, in terms of, well, it's been running for 43 days now, 7am in the morning. so, in terms of, the kinds of simulations that are internally represented, there's an internal social simulation, which produces a social graph, which is far more interesting to observe than actually in terms of the interaction. there's a brain code simulation, which simulates both their external language. so when two apes meet, but actually there's mutual execution associated with their language code, which represents their external language. they also have an internal language, which is the same language, just represented internally, that they run both with themselves represented and also external parties that they may meet in the simulation. so typically, if one is born and then suckled and nurtured, (and all this is in there) then they will have obviously, a very strong tie to their mother in the circumstance. if the mother's taken away and another mother-like ape were... was brought in, then they have an identical relationship to them after a certain period of time. so the interactions generate this.
+
+speaker 5: to introduce, say a little bit about what their internal structures are?
+
+author: so let me show you. let me show you. so the internal structure of the ape, particularly... i think this should do it for us. yes. so this is what's currently represented by the internal structure. so the location, all the basic stuff associated with their points in the simulation. the speed that they're traveling, their internal energy. these were all the initial variables, speaking whether they're uttering anything. they have an internal random variable, which is used for distribution. so it can be distributed over multiple processes and basically, they're... maintain their coherency. their date of birth... where were we? their brain location, it's dynamically stored. an overarching set of state variables which were associated with their cognitive simulation specifically. they have... this comes into breazeal's work associated with the references to crowding and posture. they collect various objects and things like that, so they have an inventory. bob mottram added the idea of honor, which was a social currency relating to parasites and grooming early on, so that is included as well.
+
+speaker 2: so just to jump in, most of these, it sounds like they're fairly abstract...
+
+author: let me go down. they're actually quite a bit more. so, there's also familial relationships, familial genetics, which are basically stored to be referenced, not stored to actually be used. bob recently introduced a vascular simulation. there's a metabolism simulation, which has various other effects, so you've got heart rate, breathing, these kind of things. they have... based on where they meet and eat and greet, basically they have an idea of territories as well, which is another thing that bob... i did specifically. there was an earlier version of territories associated just with a simple cognitive simulation, but bob's background, in terms of social robotics and these kind of things, liked, we liked to hard focus.
+
+speaker 5: so, just say a little bit about the territory since that's something we're... be interested in. so when they're first seeded or born or something...
+
+author: they have no territory.
+
+speaker 5: something anywhere and so on. so what is it that determines a territory? 
+
+author: so, again, i prefer to talk to the code on this because it changes dynamically, irrespective of me sitting here. but what it means from my recollection is that, if they have points of meeting and eating and these kind of things where they see other apes, it reinforces a notion of a territory because they have a social graph representation associated with social meetings. so eventually, this becomes a referential thing where there is just an agreed upon territory from that. but the view of territory through that has changed quite a bit. so it's something...
+
+speaker 5: so as they're sort of moving around, they come across another for the first time, there's an interaction, that's then located in their social graph, it becomes a point there. meet someone else. but something about the nature of the interaction will determine whether that becomes my territory, or is that how...
+
+speaker 2: and then, just follow up on that, when you have that variable, i guess you would call it, or object territorial information, that's sort of a predefined structure, data structure that can take certain values and...
+
+author: i think it's a scale of structure that represents a block. it's not a point, it's a region basically on the map that's described in that fashion.
+
+speaker 2: i see.
+
+author: and really, it's a shorthand. one of the things that interests me about the simulation is the fact that most simulations you throw in, then you can pull out bits and these kind of things. and my view from prior history, prior to bob's work in there is that the territory is too much shorthand that can be described through other things as well. so, for example, through the social graph, you have this idea of meeting points and there's also a referential code around that. so, through the brain code, through the bytecode that they run, it's possible for them to link other events that occurred in that place, or link other places that occurred with an individual, or a wide variety of these kind of combinations, in terms of linking the variables to other things that happened, either involving those places or involving those... and this is part of the brain code execution. so...
+
+speaker 5: it has to be something that associates the social meetings with the geographical location.
+
+author: certainly.
+
+speaker 9: so you're simulating, these are all separate simulations within the framework? so these are different algorithms or models that, or simulations that are modeling things that we think go on in apes? 
+
+author: certainly.
+
+speaker 9: so you're modeling everything from physio... you're simulating everything from the physiology and morphology, to the behavior and cognition and inner brain works, but these are all being done... a lot of these are being done through separate modules that do or don't interact? 
+
+author: they interact, they don't have to. they're replaceable, in terms of the fact that they will either be zeroed or removed, basically. but yeah, the only... exactly.
+
+speaker 9: right, they're on and off at your leisure...
+
+author: certainly.
+
+speaker 9: but once they're running, they do... the outputs of one of these parts of the model or simulation do input into the other parts? 
+
+author: certainly. there's a problem with the idea of levels and i don't like using the term "levels" to describe the simulation into relationships because there are some components which are horizontal in terms of the communications, some components that are vertical. but yes, it's designed basically to remove and put back. and certainly, in terms of long-term testing, that's what we've done to...
+
+speaker 9: and anytime someone comes up with what they think is a new or interesting behavior or a part of physiology, they add, they model it and then try to get it into the simulation? 
+
+author: certainly, certainly.
+
+speaker 2: so then what can change, what processes or what operations can change the dynamics of the interaction? do you have learning processes? do you have evolutionary processes? maybe you're getting there.
+
+[laughter]
+
+author: let me say that this variation selection inheritance within the simulation and all of these things can be changed accordingly. i would probably casually use the e word because it does contain variation, selection and inheritance. but in terms of perhaps biological studies or these kind of things, that's certainly something that can be expanded. and in terms of the very simple genome that i maintain currently, i think that can be expanded greatly.
+
+speaker 5: but currently, any of these things were represented on a genome that could be modified...
+
+author: certainly, yeah, certainly. so that's...
+
+speaker 5: that's a pretty...
+
+author: yeah.
+
+speaker 5: and it also seems, given there are lifespans here, i mean there are lots of things? you don't have many generations. i mean you've run this 10 days, how many generations do you have? 
+
+author: i typically run it for between 500 to 1000 simulated years. they live typically from 16 to maybe in extreme cases, 40, 48 years.
+
+speaker 5: not many generations...
+
+author: well, certainly yes, but there's enough to, for social phenomena to arise. and i think that's the thing that interests me most through it. i think that's quite interesting, in and of itself. but certainly, doing it in a kind of organic industry simulation sense versus something that can be scientifically used are two quite distinct things. but my interest in coming and meeting folks such as yourself is certainly putting as much science in as possible, and hopefully of it being of some benefit, basically.
+
+speaker 6: how would you model the genetics of the... you clearly have juveniles and adults. the juveniles grow into adults, so you're also simulating or modeling in some way the developmental processes.
+
+author: certainly.
+
+speaker 6: what are the underlying genetics for something like that in general? do you have regulatory mechanisms where parts of the genome are turned on and turned off at particular times? 
+
+author: well, i mean, in terms of sexual things, yes. in terms of various diet things, i believe so as well. if there are more things that can be included, by all means, but certainly, in terms of sexual things, mating preferences, these kind of things, clearly.
+
+speaker 6: and things like life history, traits, age of reproduction and these sorts of things, are inherently integrated implicitly? 
+
+author: certainly. but they can be added, associated with explicit maturing genetics and these kind of things, too. the genetic model is relatively simple, but i think could be expanded, but does take into account all these kind of factors. in fact, certainly, bob's influence was actually... i mean, he's done amazing work basically over the past three years. but to expand the genome and also start putting in what is it? it's a word i've learned only being here... pleiotropic? like multiple...
+
+speaker 6: pleiotropic.
+
+author: pleiotropic, yes. so, that was a phenomena that i wanted to put in early on and just behind the limited genome set, it's a consequence. but i think if the genome was expanded sufficiently, where there were some that were pleiotropic and some that weren't pleiotropic, in terms of these, it would be interesting as well. so, i mean, i'm interested in expanding all these parts, basically.
+
+speaker 6: you can imagine a system where each of these algorithms is coded by a separate set of gene or a separate set of genes, all that comprise the genome where these things can actually have recombination and whatnot in sexual circumstances or you can imagine a general genome that incorporates one gene that incorporates many of these. and it seems to me like as much stuff as you have in this, that's gonna be a really sophisticated thing to work out.
+
+author: well. i mean, my own bias is through the... and the reason that i included pleiotropic in there early on was basically to maximize the speed of demonstrable evolution, basically. so that may be an artificial constraint that i put in there just for my own interests, basically. but i mean, if it requires kind of expanding and what have you, i'm more than happy to do that as well. so in terms of their language, specifically, let's... so, they have multiple internal... well, they're just byte strings associated with the language and then they have one external byte string associated with the language. so, let's run this for 10 minutes, say, to see it run.
+
+author: so it's based on code, as all these things seem to be, with the addition of sensors and actuators that relate to everything from as i described, associated with referential settings and moving to things like rumors and things like that, that they can pass on amongst each other. so implicitly, within the communication, well, through the code language, they do describe relationships between the apes. and a phenomenon that i noted just before attending alife, i talked about it at the conference, when people approached me, was the association of rumored or false parents. so you see, there's a notion of epic, which represents the apes that are most being talked about because it tracks basically, when they talk about other apes. what i found over, particularly even within 10-day runs, but more typically over 20 to 50-day runs, you would have an ape that would have really high epic number, and when you looked inside the ape, it would have...
+
+speaker 5: can you just talk through when you say epic number...
+
+author: unfortunately, that's the problem with running a simulation, i've got to wait till it stops before i can... but i'll come to it. but it's a scalar representation that refers to an ape that's being talked about. so you'll end up with a kind of top 10 representation of the apes in the simulation that are most being talked about.
+
+speaker 9: so it's basically the gossip column? [laughter]
+
+author: mm-hmm. so it's catching references within the brain associated with specific apes. and what you see in the ape that's typically at the top in some of these circumstances is that they have... usually, it's a false father who has been inserted in some way and their representations of typically both their parents, but at least always, their mothers, in what i've observed, becomes... well, they have... sorry, i should point those out... they have both friends and enemy relationships, which is associated with good and bad interactions. they have notions of like brandishing and flowering, and smiling and all this kind of stuff. so it can be both facial interactions, it can be some communication that they've had, or a wide variety of other factors because they maintain internal representations of apes. so all that you see here in terms of listed as friends and enemies, there'll be an internal language representation of that ape, almost like a internal simulation, basically associated with that ape.
+
+speaker 2: can you say a little bit how that works? so they've got some slots into which they can say, "these are my friends, these are my enemies." so they're representing those as categories that you've placed there? is that right? so those categories are already...
+
+author: it's based on... yeah, again, it's social robotics, so it's based on interactions that they've had, that are then immediately classified as bad or good, and weighted accordingly.
+
+speaker 2: alright. so those categories are in there. and then there's something associated with the interactions that led you to say, that was positive, that was negative. so, with enough positives, put them in the friend camp, and enough negatives, put them in the enemy camp? 
+
+author: yes, but this can be both external interactions and also internal things that their representation run against themselves basically, sets off as well. so the notion of the being language universally means that when two of them meet and have an external conversation, exactly the same process happens with regards to their internal representation. so maintain an internal representation of themself and an internal representation of all the apes listed, basically. and they run the code as they were... as if they were having an external conversation, but they're having an internal conversation, with the representation of the ape. so, the hypothesis, where the...
+
+speaker 5: those happen automatically in parallel or they can diverge? 
+
+author: well, in terms of meeting, they obviously happen at the point of meeting. but in terms of internally, per cycle, i think and this is something in the code that's probably going to change, they will have, as you see here, their relationship attention. so when it says "relationship attention" itself, it's running an internal representation of itself, in this case with its external representation, so it can kind of talk about itself. but when it says grandson, for example, that is a representation, which in this case isn't represented by a specific ape, but it could be represented by some other representation that it's having.
+
+author: it's difficult when you start with the initial conditions where you have apes that are basically living and they have to have some kind of previous relationships. so i think in that case, specifically, it's a kind of false grandparent or whatever that's just stimulated there. but if they actually had interactions and produced... if they were a grandchild or things like that, then it would be represented in their internal...
+
+speaker 6: so how do these things go? i mean, all i see there, right now i see relationship attention. so that's referring to their internal representation and what they're representing at that moment? so this guy here is representing itself, it's thinking about itself, is that the way you put it forward... okay. and let's say flora interacts with thora up there, who happens to be... well, eudora happens to be her daughter and enemy now, i assume...
+
+author: yeah. very negative relationship. yes. yes.
+
+speaker 6: mother-daughter relationship.
+
+author: exactly. yes. yes. but she likes the son.
+
+speaker 9: so how is it, i mean just so i understand what's going on, how is it that when they meet, whatever interactions they have, how does that get modeled in the representation? so is it just automatic at first? so whatever they're having to do, they're representing simultaneously?
+
+author: yes, initially. but then through interaction, basically, it gets recalibrated. the initial conditions are always difficult. but initially, what will happen, from my recollection of the code, is that they will have run what they're describing here in terms of familial elements, they're actually are representing in kind of false familial elements, sort of pre-generated or they're actually referencing things within their friends and their enemies list that... in some kind of perceived social structure, that part of the code, i'm not particularly clear on, which is why i'm recording this because it goes back to bob and then he gives me the answers in these circumstances. so i work on noble ape part-time. he works on it full-time.
+
+speaker 6: so this kind of reminds me of rehearsal, which is argued for a lot of animals learning cognitive abilities, and that is you don't... you go and do it, and then you can basically rehearse it in your head without actually acting it out. and that sounds similar to this, as they have these interactions and then they replay them in their mind. but this has the effect of reinforcing anything that they might glean from that interaction.
+
+author: exactly. there's a condition of stability that's attained, which you can actually see in the two, because you've got your external and your internal, so you can see conditions of stability in the code that basically, they'll have an experience that will produce one reaction, and then they work against their internal to actually kind of produce stability in what the external reaction has produced.
+
+speaker 6: and does that save you... i mean, so in animals, the argument is that, that saves them actually having to interact with the world and put themselves at risk, over and over and over again to learn something or to make those associations.
+
+author: certainly.
+
+speaker 6: is that the purpose or is that just sort of...
+
+author: it was one of the purposes, but very much so. also, the idea, you can find through running the simulation that they will maintain internal representations of apes that have passed away as well. so in long-term runs of the simulation, you typically only, i mean i've seen it within 20 days' worth of runs because there'll always be an ape that drowns and typically that might be an ape that is known in some regard... so they will continue to maintain internal representations of the apes...
+
+speaker 6: of the drowned ape? 
+
+author: exactly.
+
+speaker 6: interesting.
+
+author: and in terms of what deeper stuff comes through, obviously i'm still gathering the results associated with that, but the release kind of interactions, which i think originally... and unfortunately, this was my last writing on this because bob changes the code relatively frequently, but originally, there was just a single internal and a single external language string, basically, that are running continuously. and what happened through that was interesting but not dynamic enough for the stuff that bob was looking to model. so he then created multiple internal language strings, mapped them onto initially familial characteristics, but also now external enemies and friends and these kind of things.
+
+author: but the idea of really strong, almost kind of like, not necessarily deity-like relationships, but certainly a mythology particularly associated with heavy kind of nemesis apes and eulogized apes, for want of better terminology. and the fact that two or three generations after these apes have passed away, they can still be referred to quite heavily and say... so let me show you what epic is. it's very much a lift up. it's literally just a scalar representation of the apes that's talked about. but what you'll find, particularly with deceased apes that have had a lot of interaction is that they'll continue to maintain high epic numbers. so they'll continue to be talked about even after they've passed away.
+
+speaker 6: that's really interesting because i mean, you can maybe think that an ape that's dead would have an influence later on. and so you have something that's not doing anything anymore, but it's still sort of continuing in some fashion.
+
+author: well, it is doing something. i mean that's the nature of the internal simulation is that it continues to do things even after its passing, basically because it's continued to be represented. and the more apes that have a representation of it... now these representations can be completely skewed. they don't have to be of the same internal representation at all. in fact, it's perfectly feasible, particularly in the cases of nemesis apes, that it'll be a bad ape for a wide variety of reasons, depending on the internals of the ape that's maintained it...
+
+speaker 6: and possible... and good in others.
+
+author: certainly.
+
+speaker 6: so if there's dominance hierarchies and you're on the better end of it, you might keep an epic number that's high, that's good. and then those that are at the bottom of that hierarchy could be an epic number that is high but bad.
+
+speaker 5: well, presumably a high epic... higher in the list means that you're talked about more than anyone, period.
+
+author: it doesn't have a good, bad...
+
+speaker 6: regardless of the context. they're being thought about really, i mean, not so much even talked about...
+
+speaker 5: so there's a difference between what's going on in the representation and what you're doing as a result of that. so is epic what you're talking about or is it what you're thinking about? 
+
+speaker 6: or is it the sum total? 
+
+author: this is why the recorder's here because i'm not absolutely precisely sure. i think it's actually spoken in terms of an external rather than internal. and that's what makes it even more interesting because if it's just an internal representation, then yes, it would be. but these apes are actually talking about this ape, which probably reinforces the propagation of the ape being maintained in conversation, basically.
+
+speaker 6: and that's even more interesting in the case of apes that have passed. i mean, why continue to talk about an entity that no longer exists? it's one thing to think about it as a memory, but to sit around chit-chatting about it seems odd.
+
+author: well, i mean, what i've observed is actually, if you run the simulation for long periods of time, you get clans, you get clans just by naming conventions. so you can see genetically that they're maintaining territories and also breeding. but what you find through that environment as well is exactly this... this is where the... because they're all sticking to the same territories, they're actively communicating. the referential associated with the deceased ape a few generations ago is actually part of the commonality that is also fundamentally part of the genetics and...
+
+speaker 5: can you just show me one of those social maps, do you have a representation of that? 
+
+author: the social graph is a particularly... not in any of these versions, but the social graph is, if you can imagine, it's a point graph basically. and what you end up with is social clusters over time. what's particularly interesting is if one ape is ejected from the social cluster because then you see a shift of apes making decisions about whether they move from the dominant social cluster to this new radical ape or not. and visually, it's beautiful. it's, yeah, one of... one of the views i would certainly...
+
+speaker unknown: but you can't show us, to us.
+
+author: apparently, no. it's not in the version that i have here...
+
+speaker 5: especially since your point here seems to be, to model social interactions. i don't yet see, i mean here i'm starting to see a little bit about that, but since you said this is tied to territories and so on, i was just curious to see how those...
+
+author: you don't want a spatial representation as part of the social graph though. it would be, you could have some linking, but we...
+
+speaker 5: so it doesn't match? the territories don't match? 
+
+author: to some extent they do, but initially, and particularly early on in the simulation, they're still in a kind of exploratory phase. their territorial areas are not really well defined. so what you see in the social group is more the kinds of interactions that occur as they kind of traverse the landscape. but to see it graphically, it's better to have it represented out in its own space, basically. so they have the freedom to actually move around in social clusters.
+
+speaker 6: but in the actual environment to interact, there's a spatial component to that? i can't interact with an ape that's 6 miles from me? 
+
+author: certainly.
+
+speaker 6: okay. so there's inherently a spatial component in the interaction space? 
+
+author: you can think about it that way. i mean the apes can, through the language as described. but the things, yes, they need to be within close proximity in order to...
+
+speaker 6: yeah. if you're modeling a spatial part. if you're not modeling space, real physical space, by any means, then that's irrelevant, but it seems like you're doing that. so if you are doing that, then there's obviously gonna be a spatial component to any communication that they have, i would imagine.
+
+author: certainly. but yeah, it's a direct...
+
+speaker 2: direct communication, you can communicate indirectly by word of mouth...
+
+author: certainly.
+
+speaker 6: i have a really...
+
+speaker 5: some of these things are islands? so i would imagine if you looked at the social graph there, that would have its own little network? it couldn't have connected to the other one because they never had any physical interaction.
+
+author: well, that was... i've tracked apes over...
+
+speaker 5: do they swim? 
+
+author: yeah, they swim. so the other thing with the...
+
+speaker 2: there was one went swimming two hours ago. 10 minutes ago. 19.
+
+author: 19. 19.
+
+speaker unknown: yeah, but do they have parameters on how far they can swim? 
+
+author: yes, they do. they do.
+
+author: in fact, the early success, if you can imagine 16 years ago, this was released on an early internet, the early success was typically with undergraduate students that wanted to teach their apes to swim, but more importantly, drown the apes. so there was a kind of early brutalization that propagated very rapidly in terms of getting the simulation notoriety associated with it, trying desperately to drown all the apes in the shortest amount of time and all these kind of things. so yeah, if there's anything to say about noble ape in terms of visualization and these kind of things, i mean, i've had unimaginable amounts of success associated with the simulation for a wide variety of factors, but visualization is one of them.
+
+author: early on, well, in 2003, because it would compile on multiple compilers, apple picked it up. it was originally with two engineers and then internally within apple, and then they demonstrated it at wwdc and then they put it on the cd-rom that came with every mac that they sold from 2003, basically as part of the apple chud toolkit. and then intel picked it up through the movement from altivec to sse. so, in terms of intel...
+
+speaker 5: as just a demo or something...
+
+author: no, no, no.
+
+speaker 5: well, why did they put them on there? 
+
+author: because there are ideas... there are certain optimizations that you could do as the process has changed with vector processing, with multi-threading, and they used noble ape. there's ape brain cycles per second, which i'll bring up, which was the metric that they used to track optimization. and by using threading models, by using vector processing models and various tuning characteristics within noble ape, they're able to demonstrate both internally and with third parties, optimization that they... that the third parties or internally could then use. so here's noble ape, here's the ape brain cycles per second. if you implement this method, then you get this improvement in ape brain cycles per second, implement this in your code and you'll get the same improvement, basically. and that's how they used it. and intel was a slightly smaller group of engineers than apple, but at least they had a... as you entered an engineering team, you'd be given a project with noble ape just to test your chops associated with optimization. and a couple of years ago, i gave a talk at intel and saw one of these teams, basically. the manager had first brought noble ape into intel format...
+
+speaker 2: so they're not trying to simulate apes, they're just using as a pure sort of diagnostic tool? 
+
+author: yeah. they want something that is sufficiently, touches a sufficient number of their internals and also is scalable. so in the case of intel, they would occasionally pass me back code where a number of processes would be in, for example. so clearly, they would have some internal processor testing. they would ramp up the number of processes and see how they could get the ape brain cycles per second to improve and see what changes needed to be made. so, i don't know, if i'm speaking swahili, but grand central dispatch and intel's internal atom development associated with optimized processing, basically they used noble ape for that as well.
+
+speaker 2: wow, interesting.
+
+speaker 5: so they're not messing with the code or making a development, they're just using it then... okay.
+
+author: purely utilitarian. exactly. but yeah, still an amazing...
+
+speaker 2: so what would be in those... just i'm interested in this just 'cause that's kind of unexpected twist, i didn't expect that that's how this was being used. but what's the mapping between the apes in the simulation and the elements of whatever they're modeling and trying to optimize? i mean, what would be the...
+
+author: well it's to do with...
+
+speaker 2: what would apes correspond to in the...
+
+author: it's to do with processing. so for example, the cognitive simulation. this basically modeled for each of the apes, has various internal mathematics. i mean, it's two competing formulae, calculated continuously, basically. and from that, because it touches both near memory and also far memory, and does so in a variety of fashions, it provides a good enough metric for what they were looking for to start. then as processes changed and had mapping of memory and what have you, then they could do optimizations based on that.
+
+author: but apple was also interested in the real-time graphics. it wasn't just the compiler, multiple compilers, the real-time graphics was important to them as well because they wanted to show that certain mathematical internal things didn't have to affect the graphics, that you could do the two in parallel. and certainly, early on, prior to my interaction with apple, tuning the graphics and getting them real-time and reasonable in terms of general interaction was very important for me, and then the discussion of 68000 processor architecture, some things like that.
+
+author: and prior to apple picking it up, i first went into apple in 1998. i think and they were interested and in particular, i had a first-person perspective view or first-ape perspective view of the environment in real-time, that they liked because it was faster than some of their technology. so my relationship with both apple and intel has been purely to utilize it for whatever itches they want to scratch, and in terms of meaningful contribution.
+
+speaker 2: that you're associated with this?
+
+author: yeah, so in terms of meaningful things, the contributions back really didn't have that much development, it was purely, they were looking at particular architectures, wanting to... but at the same point, they displayed it to hundreds, thousands of engineers. and although i couldn't attend the wwdc conferences, it was pretty cool to watch the videos.
+
+speaker 2: yeah.
+
+author: and get a sense of the audience participation and this kind of stuff.
+
+speaker 2: so i have a really basic question about how... so you've got state transitions, you've got overt ones as they interact with the environment, but there's also internal state transitions. what causes a transition? i mean, there must... some of the stuff just stuff happens to you. you drown. a flood comes or something. but in terms of the agency of the ape and it has to do something, what is the value function, let's say, that drives state transitions and how does that value function change? 
+
+author: aside from what i've represented associated with honor and these kind of scale of values, it all now leads into the language. and that's bob's current work and that's what he's working on. it doesn't have to lead into the language, it can lead into other things as well, but every aspect now leads into the language with the view that the language provides the most dynamic means of changing state and the most...
+
+speaker 2: so language can be a stimulus, it can be... but you need a motivation, you need a reason, a value function. that's why frankly, value functions. why should you respond to a word? is there a fitness? is there a learning signal? a reward? 
+
+author: so in terms of the drives, that provides a motivation, but the drives are interesting because they're not equal in any way. i mean, fatigue and hunger, basically are dominant drives. but i mean, if that's what you're looking for...
+
+speaker 2: that'd be an example. okay.
+
+author: yeah.
+
+speaker 5: those are the only two that you've got? 
+
+author: no, there's sex and social as well. so hunger, fatigue, sex and social.
+
+speaker 2: okay. so that... so hunger, fatigue. all right. and so, those are somehow integrated, all of them? and to then determine a state transition? 
+
+author: certainly.
+
+speaker 2: i see.
+
+speaker 5: so if you're... have a hunger score of zero, you could be faced with food and you're not hungry, so you don't interact with food? if you get a high hunger score, you've got food in front of you, and that'll motivate you to do something in order to get it? yeah. okay. is that the way it works? so it's the relationship of that...
+
+author: basically. i mean there are other elements to it as well, but i think that's the easiest to categorize it.
+
+speaker 5: and so how does it work for these other ones? like this one is really horny? all that high sex...
+
+author: yes. that's relatively standard amongst the noble apes.
+
+speaker 5: social interactions, do not care about life...
+
+author: yes.
+
+speaker 5: don't care about food, social interactions have to stop? 
+
+author: she has children already. so the ape is well-defined. okay? so yes.
+
+speaker 5: so in an interaction, they're pretty broad at this point now. so an interaction, well i suppose you can exchange... can you exchange food, so if someone has food, so hunger could come into play in something like that. so how do the other ones work? what are the other things that would be a state change that you would do if you have a high fatigue or a low social or whatever? 
+
+author: well, in terms of motivation, the fatigue is an interesting one. i think it just causes them to kind of slow down, basically. so i really can't talk heavily to them because of the particular abstract nature of the code. but in terms of the fatigue, yeah, slow down. in terms of the social, they may be more interested in seeking out apes, other apes that they know or apes that they see in terms of their interactions. there is representation of... well, i mean associated as well with their friendship groups and things like that. they will try to seek out apes that they've seen, that are friendly with, in familiar places. so that brings together the...
+
+speaker 2: is that like a loneliness score? 
+
+speaker 6: no, but there are only four scores here. i'm just trying to get some of the details of this. how do you translate a drive that i have, with a number associated, which can change, how does that translate into what i do...
+
+speaker unknown: actions...
+
+speaker 6: then changes something...
+
+author: well, as there are episodic memories, there are also social memories, and the social memories, for social in particular, although there are sexual components to it as well. so if they have a social memory and they have a particularly high social need, then they may find, based on their location, a representation of the social memory, which will cause them to return potentially. i mean, it's never returning to the exact point, but it's going back to the area with the view that other apes may be congregating there. this is a relatively abstract example. i'm not specifically sure.
+
+speaker 2: the way i'm starting to understand this is that the state space is absolutely gigantic because you can have all these locations, you can have the history you've had, the memories, the interactions you've had, and you have these internal and external representations and words coming in. and you may not ever visit the same state, in a specific sense...
+
+author: without question, yeah.
+
+speaker 2: but there might be a hierarchical way of thinking about state, too, whether you're in the group or out of the group or on an island or in water, out of water. but you're gonna have, state is really gonna be, partly also where your motivational levels are. but so those partly define, seems to me, maybe i'm wrong about this, but your drives partly define your state, your current state, but that in conjunction... your drive levels' conjunction with new information is going to influence whether you make a decision to make a state transition.
+
+author: certainly. yes.
+
+speaker 2: and i assume, too, that the drives can be... they can sort of jointly influence a state transition...
+
+author: certainly.
+
+speaker 2: it's not just one at a time? 
+
+author: certainly.
+
+speaker 2: okay. i think that's sort of helping me understand this...
+
+author: the states that are described here, i mean, in terms of just basic things like moving and these kind of things are very, very rough. they're clearly... and this is something that interests me about narrative in terms of combining it altogether and then making something that's human readable. because you can then add more of the depth basically in describing the states.
+
+speaker 9: well, ultimately they're gonna define... the apes will define the state for you.
+
+author: certainly.
+
+speaker 9: i mean, that's what's gonna happen. i mean, you can call this or that a state, but how they integrate all that information and act upon it is what's gonna define the actual state for them.
+
+speaker 5: but there are some things that are explicitly predefined. eat a twig or eat vegetation, pick up a twig. i mean, those are things that are presumably hard-coded in there. and other things, i assume, would be emergent. 'cause you've got ways of being close or not, just by virtue of where you are. and if location is something they wind up tracking their representation and say we congregate where apes congregate, that's a territorial thing which emerged from the interaction place.
+
+author: certainly.
+
+speaker 2: well, you can imagine memories, and ideas about where food is also being emerging. yes. they are the environment, they have the experience of eating a twig, but now they replay that in their mind over and over again. and maybe that there's some kind of locale associated with it. so now, they have a place and an action paired, and a state action pairing for that, that is emergent.
+
+speaker 6: well, i don't know, can they track something like that? i mean, and association, how are associations...
+
+author: in terms of... well, they're both episodic and social. so, the social associations relate to apes, basically. the episodic both relate to apes, but with the location. they both have locations, but they're represented differently.
+
+speaker 2: by episodic, you mean the classic definition of an episodic memory: what, when, where memory? 
+
+author: mm-hmm.
+
+speaker 2: okay.
+
+author: and the social graph elements always referred to... so it's actually the last interaction that you had with a specific ape and is the associated brain code, the internal representation of that ape associated with that memory as well. so...
+
+speaker 5: so how... just to sort to see how this could work. so i've interacted with flora before in a certain place. and while interacting with her, we exchanged food or picked up a twig. [chuckle] so how is it that those associations are built or not? 
+
+author: so you have a positive... so in that case you probably have both... well, maybe you wouldn't have an episodic memory because it's associated with the person specifically. so if they passed you the twig, if they put it down, then you picked it up, then it would be associated, both episodic... probably only episodic. but if she passed you the twig, there would be a social representation, which meant that she would be there and it would have some impact on her social code that you were running, that the ape was running internally as well. so that would both be a positive influence, which would up flora in the friends category. and also, you would have the opportunity to take that experience away and run it as flora's internal representation, basically.
+
+speaker 5: i guess i still don't understand how it works. so i can imagine you've got something that's a representation of... well, this is flora we're seeing... it's eudora? flora now has a representation of eudora, having now met her. that's retained as a memory. okay? but presumably, you can't have everything that you've ever done in the vicinity of eudora...
+
+author: exactly.
+
+speaker 5: maintained.
+
+author: exactly.
+
+speaker 5: that's what i'm asking, for associations to be...
+
+author: they're created in social graph memories. so when you have that interaction with eudora and if you would have another interaction with eudora, your new interaction with eudora would be the social graph memory, but your executed code associated with that experience and the experiences prior would also be retained, associated with that memory. so the social graph both captures the interaction, but also the legacy history in a code sense as well.
+
+speaker 5: but again...
+
+speaker 2: all history? 
+
+speaker 5: so many things that could have happened. and they're not all retained.
+
+author: they're not all retained.
+
+speaker 5: that's what i'm asking now. in my representation now of eudora, i've got her, i'm flora. i've got a new code. and i did some things in the past with eudora, including meeting in certain places or exchanging twigs or swimming.
+
+speaker unknown: or drowning.
+
+speaker 5: but all of those things, to be usable have to be...
+
+author: retainable. certainly.
+
+speaker 5: associated and then retained? so that's the question... i could see how my score, my social score piece of the eudora goes up or down. i give her a positive if she gave me food, i give her negative if she attacked me... whatever...
+
+author: the bit that i'm trying to describe is the block of language associated with eudora. so while the most recent interaction is what is retained in a social graph, in memory, all your previous linguistic interaction, including the social interaction is what is retained, almost like an internal program associated with eudora. and yes, it may contain a representation of the previous events. it won't contain a representation of all the previous events. it may contain a representation of event that was particularly important when run against your internal representation as well. so, in the notion of creating a stable language, basically, you would run against your internal against eudora, and that could retain some of the information associated with the history. but it is... i can show you rather than... i think this...
+
+speaker 2: can i ask you real quick? can apes talk to themselves? can they reinforce again? 
+
+author: certainly. so this, yes. they reinforce, from their external language they're in... so what you're seeing here actually is their external language and their internal language that's run against each other, and then stabilizes accordingly.
+
+speaker 6: wait, so this is external and that's internal? 
+
+author: yes.
+
+speaker unknown: okay. but they're not matched? 
+
+author: no, that's because we've stopped it at a point of transition. so they may not match as well, there may instabilities in the code. but sometimes... you see certainly when they do match.
+
+speaker unknown: it doesn't look like any of the... well, maybe just... i don't see it.
+
+author: so this here is what is retained in the social graph. so, you have this information as well, just associated with the last interaction and then the representation of the ape and the attraction. the friend or foe rating, which is a, the scalar all the way through it, it's represented as positive/negative. some abstract belief, level of familiarity, the relationship that you have with the ape. but what i've been talking about is the local brain code that that ape is represented by, which will track... continue to transition as you have future meetings. it'll just be the most recent social interaction. however, some of these things like friend or foe, belief, attraction, these things are basically maintained over multiple experiences as well...
+
+speaker 2: and updated...
+
+speaker 6: this is â¦ well, the factor that's just updated though. it's not actual episodic experience being held by itself to recount.
+
+author: it can be accessed through the brain code though. so irrespective of what the brain code is running, they're also... whether you call them sensors or actuators is immaterial. there are also things within the brain code that can access this independently of the formal way that you get to it through the social graph. so there are certain operators... again, i think they're sense operators, that will be able to reach into this and get this information, and re-inject it back...
+
+speaker 2: so i guess we're all asking the same question. how accurate and how far back does that memory go? is it basically everything? 
+
+author: well, it's dynamic. so, no, it refines over time because it's... the actual memory is linguistic. it's not associated with events. the only the most recent event is what's stored as an event, but within that, there are scalar values that will change through multiple interactions, too. so it's a combination of events specifically, a series of scalar interactions, plus the language associated with the ape, specifically.
+
+speaker 5: where's the language? 
+
+author: that's the brain code.
+
+speaker 5: the brain code? 
+
+author: yeah. so this will be a structure similar to this, basically.
+
+speaker 2: okay. and in this simulation, there's nothing like... the language thing is really complex and really well developed, but something like just physical interaction with the environment doesn't have these same characteristics. so if i find resource at xy in the world, is that updated and kept around in the same way that the language thing is? 
+
+author: that's episodic.
+
+speaker 2: okay.
+
+author: so...
+
+speaker 2: that's strictly...
+
+author: well episodic also, i mean, the episodic that's captured also contains social interactions as well.
+
+speaker 2: okay.
+
+author: but it basically, typically in a resource sense, for example, like picking up twigs and things like that, that is episodic memory associated with location.
+
+speaker 2: okay.
+
+author: now... things like being poisoned by particular kinds of shellfish and these kind of preferences too, have a language representation rather than anything deeper than that. but the hope is that the language representation will be enough to get them thinking twice before they eat the shellfish again that's poisoned them.
+
+speaker 6: how do they make those associations? it's usually time-delayed. they don't get sick that very second. i mean, know to associate the shellfish with...
+
+author: well, that's interesting. i think with shellfish, they get sick relatively rapidly, with eating other things they don't necessarily. and toxicology is something else that bob has added specifically associated with foods, but also parasitic diseases and things like that. so yeah, that was another piece that was added, but the time delay factor is very important.
+
+speaker 6: there's huge literatures about this stuff sort of gustatory associations versus visual associations. i mean there's a huge biological literature on this and...
+
+author: certainly.
+
+speaker 6: it's interesting to understand how closely this is being modeled to what are currently accepted models on those fields.
+
+author: yeah, so there's an open question associated with the language as well. and this is one of my interests too, whether the language is complicated enough. i mean, it's certainly complicated in terms of the sensors and actuators that go into it, but whether just as a language form, whether it needs additional complexity in there. there's a scripting language that i wrote for the simulation prior to the brain code called apescript, which is a c like language. and i have a shared, kind of apescript writing code overlap that i'm interested in exploring with the difference that rather than being bytecodes, it could be up to a 32-bit address space, and actually do quite a bit more, i think in terms of these representations.
+
+author: it is probably just a simple switch, based on the way the sensors and the actuators are positioned currently. so my hope is within the next six months to, rather than having this kind of abstract bytecode, having almost a c like language that was being changed dynamically to show this kind of information.
+
+speaker 6: in regards to this, there's a huge, obviously a huge psychological literature on human language. and what's some of the basic rules or thought to be in order to have language to evolve language, what is necessary? and i wonder if this is based on those sorts of... like what's being done with this, is this in any way testing those kinds of hypotheses? 
+
+author: well, the reason that i introduced, with bob's assistance, language, was actually spending a lot of time with a linguist.
+
+speaker 6: right.
+
+author: and i think certainly his view was that everything we are is our language basically, relatively extreme view but his view nonetheless. and the lack of language, lack of language as i've described in noble ape was a serious flaw for him. and i thought, this kind of stuff is relatively easy to throw in there with the right kind of sensors and actuators. and the weighting on the sensors and actuators has been part of the overall tuning of this. but yes, certainly, i mean through a single interaction, specifically. but yeah, very much so.
+
+speaker 6: i mean, because i think our application with this kind of stuff would be just that, testing current hypotheses about how things either evolve or develop, or just are the way they are. and i mean, it'd be... the closer these simulations are to what... the closer they are implementable to ideas about these things in the field, the more useful this tool would end up being. the more sort of non-germane the code is and arbitrary the code is, the harder it's gonna be to relate it to biological concepts.
+
+author: so one of the other benefits of it being open source is that i get between... well it's typically towards the lower end, but between two to 12 students and engineers contact me per month, wanting to work on the code for something.
+
+speaker 6: wow.
+
+author: so one of the reasons that i came to alife was because i have this influx of human power  that is looking to do something with noble ape specifically. so for example, the termites, the temporal polytheism immediate fits, i thought, there were few others. the secondary mapping of or interaction producing, secondary mapping, that's an immediate fit because it's one of the early tests that i used with noble ape, for the initial cognitive simulation. so it's taking the literature, taking the human interest and putting the two together with the view that these are undergraduate or graduate students that are looking to get into this kind of stuff anyway, on that end, on the engineering end, that there are fascinating engineering problems as well associated with this kind of stuff. so it's just putting latent energy, basically towards an interesting purpose, which is one of the reasons that i'm here.
+
+speaker 6: right. to recruit more of that human force? 
+
+author: well, in some regard, but actually it's more of a matchmaker than anything, that you can take a wide variety of papers and what have you, and just pass it to them. but if you have the people that actually wrote the papers who are interested and aware that this is going on, it's much more productive, i think. and in terms of the kind of interaction, these kind of things, i think it's net positive.
+
+speaker 5: i'm just wondering how we should proceed for time 'cause we have already our meeting's up now. and then i was thinking we could meet or if...
+
+speaker 2: yeah, i had... it turns out i had, i'm jumping between and i have to go do some administrative stuff, so i'm not gonna be able to join in later on but feel free.
+
+speaker 5: well, then, we do need to have our meeting... 'cause i was wondering if we could just reverse the time...
+
+speaker 2: yeah, no, i've gotta be up in that site at 2:45.
+
+speaker 5: okay. so unfortunately, then we'll have to call it an end to this and...
+
+author: not a problem.
+
+speaker 5: i can talk afterwards...
+
+author: terrific. looking forward to it.
+
+speaker 5: but boy, this is a quick look into a very deep pool. thank you very much.
+
+speaker 6: well thank you.
+
+speaker 5: appreciate your time.
+
+author: thank you. it's been wonderful coming.
+
+speaker 2: thanks a lot.
+

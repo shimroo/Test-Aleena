@@ -1,0 +1,341 @@
+
+
+the ornithopter zone - build your own ornithopter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+history
+
+
+
+ 
+  manned ornithopters
+ full history
+ history archive
+
+
+
+
+how to
+
+
+
+ 
+
+
+ getting started
+ how to design & build
+ competition info
+ design tools
+
+
+
+
+media
+
+
+
+ 
+
+
+
+ design manual
+ newsletter
+ free plans
+
+
+
+
+resources
+
+
+
+ 
+
+
+ teachers guide
+ web site links
+
+
+
+
+about
+
+
+
+ 
+
+ about the society
+ contact info
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+the 
+                    ornithopter society
+founded 
+                    in 1984, the ornithopter society launched the modern 
+                    resurgence of flapping wing aircraft. ornithopter society 
+                    publications, including the ornithopter design manual, 
+                    flapping wings newsletter, and online content, provide 
+                    the ultimate resource for those seeking to build ornithopters 
+                    or those interested in the history and culture of this unique 
+                    phenomenon. 
+
+
+ 
+                        ornithopter (definition): an ornithopter is a manned 
+                        aircraft or an unmanned flying machine in which the driving 
+                        airfoils have a flapping, reciprocating, or oscillating 
+                        motion, instead of the rotary motion used in airplanes 
+                        and helicopters.
+             
+
+
+
+download 
+                    the ornithopter design manual
+we are 
+                    making the ornithopter design manual available for 
+                    free download. the ornithopter design manual, written 
+                    by patrick deshaye and nathan chronister, offers the only 
+                    comprehensive treatment of ornithopter design and construction 
+                    techniques. you can also download the flapper facts and 
+                    flapping wings newsletters from 1984 through 2002.
+ornithopter 
+                    design manual (pdf)
+flapping 
+                    wings newsletter (1984-2002)
+you can 
+                    visit the how to section 
+                    of this web site to get a quick introduction to building your 
+                    own ornithopters. then read the ornithopter design manual 
+                    and newsletters when you want to learn more. if you 
+                    find these resources helpful, please consider supporting 
+                    the work of the ornithopter society. your small donation helps 
+                    cover the cost of maintaining and updating the website, while 
+                    most of the work to bring you the site is done on a voluntary 
+                    basis.
+
+
+
+
+
+why 
+                    build ornithopters?
+people 
+                    will often ask what ornithopters are used for. above any other 
+                    purpose, ornithopters are a great vehicle for learning. for 
+                    high school studionts, ornithopters are a great way to learn 
+                    about engineering, physics, math, electronics, and more! at 
+                    the university level, ornithopters are part of the advanced 
+                    research into aerodynamics, bird flight, and robotics. individual 
+                    hobbyists also enjoy learning new skills as they rise to the 
+                    challenge of flapping wing flight! 
+
+
+
+
+education.
+students can build ornithopters for a school 
+                          project. they can learn about engineering, physics, 
+                          math, electronics, and more!
+
+   
+
+
+ornithopters 
+                          are a great 
+                          hobby for those who enjoy the challenge 
+                          of coming 
+                          up with their own designs. there are also ready-made 
+                          toy ornithopters if you just want to fly one.
+
+
+
+some other 
+                    applications for ornithopters have been implemented. like 
+                    other types of radio controlled aircraft, ornithopters can 
+                    be used to carry cameras. ornithopters can be made to look 
+                    like a real bird or insect, so they could be used for covert 
+                    spying. ornithopters have also been used in studies of wildlife 
+                    where an aircraft resembling a real bird was needed. another 
+                    application that has been tested is the use of ornithopters 
+                    to chase birds away from airports. bird control specialists 
+                    use a variety of methods to keep birds away from runways. 
+                    if an airplane runs into birds, it can receive damage causing 
+                    it to crash, so this is an important part of airline safety. 
+                    
+of course, 
+                    there has been some effort to develop ornithopters as a type 
+                    of manned aircraft. adalbert schmid, who in 1942 built the 
+                    first successful manned ornithopter, believed that flapping 
+                    wings would be more fuel-efficient than airplanes. others 
+                    observed the high maneuverability of birds and thought that 
+                    manned ornithopters could emulate that ability. regardless 
+                    of whether that is true, there are many people who just want 
+                    to have the experience of flying like a bird.
+ 
+                    how ornithopters got started
+the idea 
+                    of the ornithopter came from ancient times. three thousand 
+                    years ago, assyrian stone carvings depicted god riding in 
+                    an ornithopter. the greek legend of daedalus and icarus tells 
+                    of two men who built wings in order to escape from a labyrinth. 
+                    in 875 ad, abbas ibn firnas in spain constructed a bird-inspired 
+                    aircraft, with which he made the first gliding flight by a 
+                    human.
+in the 
+                    1870s, the focal point for the development of aviation was 
+                    in paris. unmanned aircraft were built, including ornithopters, 
+                    as a stepping stone to the development of manned flight. the 
+                    rubber-band-powered ornithopters developed then formed the 
+                    basis for modern designs that are built by students and hobbyists 
+                    today.
+steam 
+                    and internal combustion engines were then used, with some 
+                    great advancements taking place in germany prior to world 
+                    war ii. alexander lippisch, who is also known for developing 
+                    the me 163 komet rocket-powered fighter, led a team of young 
+                    researchers who perfected the design of engine-powered, unmanned 
+                    ornithopters, achieving successful flights up to 16 minutes. 
+                    building on that work, in 1942 adalbert schmid made the first 
+                    successful flight of an engine-powered, manned ornithopter. 
+                    although there have been a few others, 
+                    schmid's manned ornithopter still stands as the most successful 
+                    to this day.
+the first 
+                    radio-controlled ornithopter was built by percival spencer 
+                    in 1960. he also built a series of more bird-shaped, engine-powered 
+                    ornithopters. during the 1990s, spencer's design was adapted 
+                    for electric power and came to greatly influence the design 
+                    of our modern rc ornithopters. read more ornithopter 
+                    history.
+
+
+
+  
+
+
+
+
+frequently 
+                    asked questions
+
+
+
+what 
+              is the definition of an "ornithopter"?
+
+an ornithopter 
+              is a device that imitates the flapping-wing flight found in nature. 
+              the word "ornithopter" (c.1908) combines the ancient greek 
+              words for "bird" and "wing". an ornithopter 
+              doesn't need to have feathers, though. what makes it birdlike is 
+              the flapping motion! how is it different from an airplane or helicopter? 
+              airplanes have a rotating propeller. helicopters have a rotary wing 
+              that provides both lift and thrust. those machines are driven by 
+              rotating airfoils. instead of rotation, the ornithopter wing imitates 
+              the reciprocating motion of a bird's wing.
+the flapping 
+              wings of the ornithopter don't have to supply all of the lift. even 
+              in real birds, the body and tail provide a significant portion of 
+              the total lift.
+ornithopter 
+              (simple definition): an ornithopter is a device that flies by 
+              flapping wings.
+
+ornithopter (technical definition): an ornithopter is a manned 
+              aircraft or an unmanned flying machine in which the driving airfoils 
+              have a flapping, reciprocating, or oscillating motion, instead of 
+              the rotary motion used in airplanes and helicopters.
+did 
+              leonardo da vinci invent the ornithopter?
+leonardo 
+              da vinci did not invent the ornithopter. the idea of the ornithopter 
+              goes back to ancient times. ancient assyrians depicted god flying 
+              in a winged chariot or ornithopter about 3,000 years ago. ornithopter 
+              attempts were made before leonardo's time, and leonardo himself 
+              never actually built one -- he only drew sketches. the first successful 
+              flight of a manned ornithopter 
+              was in 1942.
+have 
+              people ever flown in an ornithopter?
+yes. adalbert 
+              schmid's engine-powered manned ornithopters, flown in 1942 and 1947, 
+              were the most successful to date. several other manned 
+              ornithopters have made successful flights.
+how 
+              does an ornithopter fly?
+ it's complicated, so find out in the how 
+              to section of this web site.
+why 
+              doesn't the upstroke cancel out the downstroke?
+the force 
+              produced by a wing depends on the angle the wing is held at, relative 
+              to its motion through the air. this is called the "angle of 
+              attack". during the upstroke, the angle of attack is adjusted 
+              so that the wing isn't pushing down on the ornithopter. more
+can 
+              i build my own ornithopter?
+yes! many 
+              people build ornithopters as a hobby or school project. there are 
+              free plans on this web site. also check 
+              out the ornithopter design manual.
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
+

@@ -1,0 +1,610 @@
+
+
+
+program trading, fair value, index arbitrage values - indexarb.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home page
+
+
+distant months contracts
+
+indexarb values vs. time
+
+stock performance vs. indexes
+
+capitalization analysis
+
+index component weights
+
+dividend analysis 
+
+fair value decomposition
+
+yield curve
+
+program trading calculator
+
+help
+
+terms of usage/disclaimer
+
+contact us
+
+demo of institutional services
+
+to subscribe
+     log-in:      
+
+
+institutional subscribers
+
+
+advanced services
+
+
+
+
+
+
+
+
+
+
+index arbitrage program trading premium values
+for feb-18-2025
+
+
+
+
+
+
+updated: sunday, feb-16-2025
+            12:28am et
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+sell programs
+no programs
+buy programs
+
+
+index
+sell
+                        active (sa)
+sell
+                        threshold (st)
+fair value 
+                        (premium) (fv)
+buy
+                        threshold (bt)
+buy
+                        active (ba)
+
+
+s&p
+                        500 (tm)
+15.85      
+17.32      
+19.28      
+22.96      
+25.70      
+
+
+nasdaq
+                        100 (sm)
+61.09      
+66.57      
+73.94      
+95.57      
+111.64      
+
+
+dow jones
+                        ind. avg. (sm)
+30.25      
+62.88      
+106.49      
+118.88      
+128.14      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what do these terms and numbers mean?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+probability of program trading vs. premium
+(premium   =   mar 2025 futures - spot index)
+
+
+
+
+
+s&p 500 (tm) 
+nasdaq 100 (sm)
+dow jones industrial average (sm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+our trading guidelines for feb-18-2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+when the following premium extremes occur:
+our trading possibilities will include:
+
+
+s&p 500 prem greater than 23.12
+
+
+
+
+•
+buy spyders (symbol spy).
+
+
+•
+on continuations (after a buy program), buy e-mini or regular s&p 500 futures.
+
+
+•
+buy diamonds (symbol dia).
+
+
+•
+execute a s&p 500 buy program.
+
+
+
+
+
+
+s&p 500 prem less than 17.23
+
+
+
+
+•
+short spyders (symbol spy).
+
+
+•
+on continuations (after a sell program), sell e-mini or regular s&p 500 futures.
+
+
+•
+short diamonds (symbol dia).
+
+
+•
+execute a s&p 500 sell program.
+
+
+
+
+
+
+nasdaq 100 prem greater than 96.53
+
+
+
+
+•
+buy nasdaq 100 etfs, the cubes (symbol qqq).
+
+
+•
+on continuations (after a buy program), buy e-mini or regular nasdaq 100 futures.
+
+
+•
+execute a nasdaq 100 buy program.
+
+
+
+
+
+
+nasdaq 100 prem less than 66.24
+
+
+
+
+•
+short nasdaq 100 etfs, the cubes (symbol qqq).
+
+
+•
+on continuations (after a sell program), sell e-mini or regular nasdaq 100 futures.
+
+
+•
+execute a nasdaq 100 sell program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+what do these terms and numbers mean?
+            what are fair value, sell active, sell threshold, buy threshold, and buy active?
+            when do sell programs and buy programs occur? 
+
+
+
+
+
+
+these terms indicate when index arbitrage program trading
+                     activity could occur and, hence, could produce sudden and possibly sharp market movements.
+                     foreknowledge of the likelihood of an adverse program trade can help investors
+                     determine the wisdom of initiating long or short positions in stocks, index futures, 
+                     exchange traded funds (etfs), and options.
+                     buy programs occur when the futures market is over-valued relative to the stock market
+                     and consists of the index futures being sold and the stocks in the index being bought. 
+                     sell programs, the opposite case, occur when the futures market is under-valued relative
+                     to the stock market and consists of the index futures being bought and the stocks in the
+                     index being sold. over-valued and under-valued conditions arise because trading in the futures
+                     and equities markets occurs independently. the key to determining these over or under-valued
+                     conditions is the arithmetic difference between the futures and the spot index (which is known
+                     as the premium).
+                     the five terms of fair value, sell active, sell threshold, buy threshold,
+                     and buy active refer to specific values of the arithmetic difference of an index futures contract
+                     price minus its spot (or current) price. for example, if the s&p 500 futures contract
+                     price is 1409 and the s&p 500 spot index is 1400, the difference is 9;
+                     whether this particular difference has bearish or bullish implications depends on whether
+                     it falls in the range of sell programs, no programs, or buy programs. this difference
+                     between the futures contract price and the spot index is known by the various names
+                     of premium, spread, and basis; the nomenclature adopted here will be premium (or prem). this
+                     usage concurs with the cnbc ticker. as described previously, other data feeds use the symbol of
+                     $prem.x, $prem, or sp-prem for the s&p 500 premium and nd-prem for the nasdaq 100 premium.
+                     the five significant values of the futures-spot premium
+                     that delineate the program buying and selling ranges are described below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sell programs 
+
+
+
+
+a sell program is the simultaneous (short)
+                              sell of all (or almost all) the stocks in
+                              the index (in weighted proportions) and the
+                              purchase of the index futures contract.
+                              therefore, the stocks comprising the index
+                              should decline and, correspondingly, the
+                              index futures should rise, producing the
+                              effect of a stock market decline and futures
+                              market rise. two significant values in the
+                              sell program range are the sell active and the sell threshold values, described below:
+
+
+
+
+no programs
+
+buy programs
+
+
+
+a buy program is the simultaneous purchase
+                              of all (or almost all) the stocks in the
+                              index (in weighted proportions) and the sale
+                              of the index futures contract. therefore,
+                              the stocks comprising the index should rise
+                              and, correspondingly, the index futures
+                              should decline, producing the effect of a
+                              stock market rise and futures market decline.
+                              two significant values in the buy program
+                              range are the buy threshold and the buy active values, described below:
+
+
+
+
+
+
+sell
+                        active (sa)
+sell
+                        threshold (st)
+fair value
+                        (premium) (fv)
+buy
+                        threshold (bt)
+buy
+                        active (ba)
+
+
+this is the "futures - spot" index
+                        premium value at which sell programs should
+                        be prevalent, producing a meaningful decline
+                        in the stock market. 
+
+                        in the graphs above, the sell active value
+                        occurs on the left side where the probability
+                        of a sell program approaches 100%.
+this is the minimal "futures - spot"
+                        index premium value at which sell programs
+                        might be initiated. sell programs are possible
+                        and could cause a stock market decline.
+
+                        in the graphs above, the sell threshold value
+                        occurs on the left side where the probability
+                        of a sell program is just greater than zero.
+this is the "futures - spot" index
+                        premium value at which the futures and the
+                        equity markets are in equilibrium. no (profitable)
+                        index arbitrage type programs will occur
+                        at fair value nor when the "futures
+                        - spot" premium level falls within the
+                        range extending from the sell threshold to
+                        the buy threshold. 
+
+                        this range occurs in the middle portion of
+                        the above graphs where the probability of
+                        any program activity is equal to zero and,
+                        hence, falls on the horizontal axis.
+
+                        an equation for "fair value" is
+                        presented in the help pages.
+this is the minimal "futures - spot"
+                        index premium value at which buy programs
+                        might be initiated. buy programs are possible
+                        and could cause a stock market rise. 
+
+                        in the graphs above, the buy threshold value
+                        occurs on the right side where the probability
+                        of a buy program is just greater than zero.
+this is the "futures - spot" index
+                        premium value at which buy programs should
+                        be prevalent, producing a meaningful rise
+                        in the stock market. 
+
+                        in the graphs above, the buy active value
+                        occurs on the right side where the probability
+                        of a buy program approaches 100%.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ further descriptions
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+acknowledgements
+
+
+standard & poor's, s&p, standard
+            & poor's 500, s&p 500, and 500 are
+            trademarks of the mcgraw-hill companies.
+
+
+the nasdaq-100 index is a registered service/trademark
+            of the nasdaq stock market, inc.
+
+
+dow jonessm and dow jones industrial averagesm are famous, well-known, and internationally
+            recognized trademarks of dow jones &
+            company, inc. and have been licensed for
+            use by ergo inc.
+
+
+the mcgraw-hill companies, the nasdaq stock
+            market, inc., and dow jones & company,
+            inc. have no affiliation with this web site;
+            citing their respective service/trademarks
+            on this web site does not construe any endorsement
+            by them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+no portion of this page or web site may be copied, retransmitted, or
+                   redistributed in any manner for any commercial use. you may use the site and its information to help in
+                   formulating your personal investment decisions; doing so signifies that you accept our
+terms of usage and disclaimer.
+                   all pages, content, images, and design copyright 2000-2024 ergo inc. all rights reserved worldwide.
+
+
+
+
+
+
+
+
+
+
+
+
+

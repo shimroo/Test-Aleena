@@ -1,0 +1,851 @@
+
+
+
+
+your added value - ivars s.p.a.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ivars
+
+
+
+
+
+ivars - building
+
+
+
+
+
+ivars - seating
+
+
+
+
+
+ivars - accessories
+
+
+
+
+
+                cerca             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    myivars                 
+
+
+
+
+
+
+                    chiama                 
+
+
+
+
+
+linkedin
+
+
+
+
+
+facebook
+
+
+
+
+
+instagram
+
+
+
+
+
+
+youtube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+grazie per la richiesta.attendere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    company                                
+
+
+                                            mission & vision                                        
+
+                                            certificazioni                                        
+
+                                            questionario di gradimento                                        
+
+
+
+
+
+
+                                                                            my ivars                                  
+
+
+
+                                    prodotti                                
+
+
+                                            categorie                                        
+
+                                            seating                                        
+
+                                            accessories                                        
+
+                                            building                                        
+
+
+
+
+                                                                        cataloghi                                  
+
+
+
+                                    download                                
+
+
+                                            brochure                                        
+
+                                            3d                                        
+
+                                            photo                                        
+
+
+
+
+                                                                        video                                  
+
+
+
+                                                                        news                                  
+
+
+
+                                    press                                
+
+
+                                            rassegna stampa                                        
+
+                                            sponsor                                        
+
+
+
+
+                                                                        inworld                                  
+
+
+
+ 
+
+                                                                            feedback                                  
+
+
+
+                                    contatti                                
+
+
+                                            richiedi info                                        
+
+                                            lavora con noi                                        
+
+
+
+ita
+                                 |                                 eng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+scroll down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    jim: modularità e design per ogni spazio                                
+
+
+                                mercoledì 12 febbraio 2025, vestone                            
+
+                                scopri jim, il progetto innovativo che unisce gamba, bracciolo e cavallotti per offrire una soluzione modulare, ...                            
+
+
+
+
+
+visualizza la news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    x·pro si rinnova: nuove colorazioni per un ufficio che guarda all’estetica                                
+
+
+                                venerdì 24 gennaio 2025, vestone                            
+
+                                ivars rinnova la sedia x·pro introducendo due nuove colorazioni: beige e blu.
+un’evoluzione che valorizza l’estetica ...                            
+
+
+
+
+
+visualizza la news
+
+
+
+
+
+
+
+
+                                                      sfoglia la brochure dedicata                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+productsnew
+
+                            un nuovo strumento
+
+
+							una gamma funzionale e versatile, frutto di 4 anni di lavoro,descritta nel dettaglio dal punto di vista tecnico.                            
+							
+
+                                sfoglia                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+visualizza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            qatar: eleganza e versatilità per ogni spazio                        
+
+
+                        giovedì 05 dicembre 2024, vestone                    
+
+                        ivars presenta il progetto qatar: una gamma completa di basi dal design distintivo, che unisce eleganza ...                    
+
+
+
+
+
+visualizza la news
+
+
+
+
+array(8) {
+  ["id_contenuto"]=>
+  string(4) "1458"
+  ["titolo"]=>
+  string(14) "x·pro colours"
+  ["descrizione"]=>
+  string(33) "x-pro x pro color colour
+"
+  ["slug"]=>
+  string(20) "xpro-colours-library"
+  ["stato"]=>
+  string(2) "30"
+  ["gruppo_categoria"]=>
+  string(3) "140"
+  ["id_categoria"]=>
+  string(2) "77"
+  ["id_gruppo_contenuto"]=>
+  string(3) "880"
+}
+
+
+
+
+
+
+                                                          sfoglia la brochure dedicata                                                        
+
+
+
+
+array(8) {
+  ["id_contenuto"]=>
+  string(4) "1450"
+  ["titolo"]=>
+  string(5) "qatar"
+  ["descrizione"]=>
+  string(0) ""
+  ["slug"]=>
+  string(13) "qatar-library"
+  ["stato"]=>
+  string(2) "30"
+  ["gruppo_categoria"]=>
+  string(3) "140"
+  ["id_categoria"]=>
+  string(2) "77"
+  ["id_gruppo_contenuto"]=>
+  string(3) "876"
+}
+
+
+
+
+
+
+
+
+
+
+
+mission & vision
+
+ci piace dare valore.
+ci chiamiamo ivars s.p.a., siamo un'azienda con sede a vestone (bs) specializzata nella lavorazione di materie plastiche. siamo nati nel 1947 in val sabbia...
+
+
+
+
+
+scopri di più
+
+
+
+
+
+
+
+
+
+ 
+
+
+                                        certificati                                    
+
+
+certificazione iso 45001:2018
+
+
+certificazione iso 9001:2015
+
+
+politica per la qualità, sicurezza e ambiente 2020
+
+
+amianto free
+
+
+certificazione iso 14001:2015
+
+
+
+
+
+
+
+
+scopri di più
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    value, uscita n.08ivars magazine                                 
+
+
+
+                            anno 6 | primavera 2023                        
+
+
+
+
+
+
+visualizza magazine
+
+
+
+
+
+
+
+visualizza archivio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        grande successo per la xvii edizione di ivars tre campanili half marathon, tra i podisti anche simone bazzani del reparto it di ivars                                    
+
+
+
+                                lunedì 15 luglio 2024, vestone                            
+
+                                grande successo per la xvii edizione di ivars tre campanili, tenutasi domenica 7 luglio a vestone, ...                            
+
+
+
+
+
+continua a leggere
+
+
+
+
+
+
+
+
+
+sponsor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        resta aggiornato:                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        iscriviti                                    
+
+
+
+
+
+                                    sei già iscritto e vuoi cancellarti? compila i campi sopra e                                     
+                                       clicca qui                                    
+
+
+
+
+
+
+
+										accetto i termini e condizioni della privacy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ivars s.p.a.uffici e magazzino25078 vestone (bs) italiavia gargnà, 23/a 
+
+ 
+
+
+
+
+ufficio acquisti e produzione25078 vestone (bs) italiavia promo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+                                            company                                        
+
+
+
+                                            cataloghi                                        
+
+
+
+                                            news                                        
+
+
+
+                                            sponsor                                        
+
+
+
+                                            twinsnetwork                                        
+
+
+
+
+
+
+
+
+
+
+                                            privacy policy                                        
+
+
+
+                                            cookies policy                                        
+
+
+
+                                            preferenze privacy                                        
+
+
+
+                                            whistleblowing                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@ 2025 - ivars s.p.a. - via gargnà 23a, 25078 vestone bs - pi 00549960987 - c.f. e reg.imp. di brescia n. 00283530178 - rea bs-76203 - cap.soc. € 20.000.000,00 i.v. 
+                
+                                - web agency sevenmedialab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

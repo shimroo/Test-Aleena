@@ -1,0 +1,635 @@
+
+
+
+
+
+
+
+
+
+
+amkor technology - semiconductor ic packaging, design & test services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+english
+한국어
+日本語
+简体中文
+
+
+
+document library
+factory certs
+investors
+cloud services
+careers
+contact us
+ 
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+about us
+
+amkor overview
+mission
+company history
+leadership
+careers
+
+china
+france
+germany
+japan
+korea
+malaysia
+philippines
+portugal
+singapore
+taiwan
+united states
+vietnam
+
+
+smart manufacturing (i4.0)
+esg
+news
+
+blog
+press releases
+
+
+events
+customer center
+
+amkor mechanical samples
+b2b integration services
+cloud services
+document library
+
+
+investors
+memberships and partnerships
+contact us
+
+
+packaging
+
+laminate
+
+cabga/fbga
+dsmbga
+fcbga
+fccsp
+flipstack® csp
+interposer pop
+pbga/tepbga
+stacked csp
+
+
+leadframe
+
+epad lqfp/tqfp
+epad tssop/soic/ssop
+lqfp
+microleadframe®
+mqfp
+soic
+sot23/tsot
+ssop/qsop
+tqfp
+tssop/msop
+
+
+memory
+mems and sensors
+power
+
+d2pak (to-263)
+dpak (to-252)
+hson8
+lfpak56
+powercsp™
+pqfn
+psmc
+so8-fl
+sod123-fl
+sod128-fl
+to-220fp
+toll
+tson8-fl
+
+
+system in package (sip)
+wafer level
+
+wlcsp
+wlfo/wlcsp+
+wlsip/wl3d
+
+
+
+
+technology
+
+2.5d/3d tsv
+3d stacked die
+aip/aop
+chip-on-chip
+copper pillar
+edge protection™
+flip chip
+interconnect
+optical sensors
+package-on-package
+s-connect™
+s-swift™
+swift®
+
+
+test solutions
+services
+
+design services
+package characterization
+wafer bumping
+
+
+applications
+
+artificial intelligence
+automotive
+communications
+computing
+consumer
+industrial
+internet of things
+networking
+
+
+quality
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+amkor reports fourth quarter and full year 2024 financial results
+
+press release on amkor reports fourth quarter and full year 2024 financial results 
+earnings call webcast on amkor reports fourth quarter and full year 2024 financial results 
+
+
+
+
+
+
+
+revolutionizing ic packaging with s-swift™ technology
+
+watch video about revolutionizing ic packaging with s-swift™ technology 
+learn more about revolutionizing ic packaging with s-swift™ technology 
+
+
+
+
+
+
+
+amkor signs pmt with u.s. department of commerce for arizona osat facility
+
+press release on amkor signs pmt with u.s. department of commerce for arizona osat facility 
+about amkor arizona on amkor signs pmt with u.s. department of commerce for arizona osat facility 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+amkor releases its environmental, social and governance report
+enabling a sustainable future through our esg initiatives
+
+
+download report on amkor releases its environmental, social and governance report
+
+
+
+
+
+
+amkor technology expands 2.5d tsv capacity
+our 2.5d tsv has been pivotal in advancing ai applications
+
+
+learn more about amkor technology expands 2.5d tsv capacity
+
+
+
+
+
+
+amkor announces us advanced packaging and test facility
+enabling a resilient domestic semiconductor supply chain
+
+
+learn more about amkor announces us advanced packaging and test facility
+
+
+
+
+
+
+
+an unrivaled global footprint
+
+
+
+
+
+
+
+
+corporate headquarters
+factories
+customer support centers
+
+
+
+
+
+
+
+
+
+looking for technical information?
+
+
+
+
+
+
+
+
+
+
+
+
+
+data sheets
+
+
+
+
+
+
+
+
+
+
+brochures
+
+
+
+
+
+
+
+
+
+
+white papers
+
+
+
+
+
+
+
+
+
+
+articles
+
+
+
+
+
+
+
+
+
+
+want to work at amkor?
+amkor has great career opportunities around the world. want to learn more? choose your region below and take the next step to joining our team.
+
+find a career by region...
+china
+france
+germany
+japan
+korea
+malaysia
+philippines
+portugal
+singapore
+taiwan
+united states
+vietnam
+
+
+
+find a career by region...
+
+
+
+china1
+france1
+germany1
+japan1
+korea1
+malaysia1
+philippines1
+portugal1
+singapore1
+taiwan1
+united states1
+vietnam1
+
+
+
+
+
+
+
+
+
+
+
+
+latest blog posts
+
+
+
+
+
+
+
+
+
+
+how semiconductors power the super bowl: the unsung heroes behind the big game
+
+february 8, 2025
+
+
+
+
+
+
+
+
+
+
+amkor portugal signs strategic education partnership with atec
+
+january 22, 2025
+in company news
+
+
+
+
+
+
+
+
+
+
+biden-harris administration announces chips incentives award with amkor to bring end-to-end chip production to the u.s.
+
+december 20, 2024
+in company news
+
+
+
+
+
+view all posts
+
+
+
+
+
+
+
+upcoming events
+
+
+
+
+
+
+
+
+
+
+semicon korea 2025
+
+february 19, 2025
+
+
+
+
+
+
+
+
+
+
+perspectives impact 2025
+
+february 27, 2025
+
+
+
+
+
+
+
+
+
+
+imaps dpc 2025
+
+march 2, 2025
+
+
+
+
+
+view all events
+
+
+
+
+
+
+
+
+
+
+latest press releases 
+
+you must have javascript and cookies enabled in order to view our press release feed.
+
+
+
+
+
+
+view all releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+connect with us
+							sign up for email updates from amkor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© copyright 2025 amkor technology
+
+
+ada accessibility|
+careers|
+privacy policy|
+privacy request|
+legal|
+sitemap|
+contact us|
+ 
+
+
+
+
+
+
+
+
+
+
+
+

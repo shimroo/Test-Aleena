@@ -1,0 +1,200 @@
+ 
+
+
+
+
+
+
+space nanotechnology laboratory – mit kavli institute for astrophysics and space research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+mit kavli institute for astrophysics and space research
+massachusetts institute of technology
+
+
+
+
+ space nanotechnology laboratory mit kavli institute for astrophysics and space research 
+
+ 
+
+skip to content
+home
+news
+about
+
+mission
+history
+flights
+facilities
+
+
+science
+projects
+
+advanced diffraction gratings
+
+critical-angle transmission gratings
+blazed reflection gratings
+phase-shifting transmission gratings
+
+
+diffraction-limited x-ray optics
+shaping & assembly of x-ray mirrors
+the mit nanoruler/scanning beam interference lithography
+spectrometer design
+previous projects
+
+
+people
+publications
+
+journals & conference proceedings
+white papers, etc.
+in the press
+theses
+bookshelf
+
+
+positions
+sponsors
+contact
+gallery
+links
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+critical-angle transmission  (cat) gratingscanning electron micrograph of the hierarchical structure of a large-area cat grating membrane fabricated from a silicon-on-insulator wafer.
+
+
+shaping of thin-foil x-ray opticsx-ray optics for space-based applications need to be wafer-thin and maintain accurate figure.
+
+
+home of the mit nanorulerthe nanoruler is the first tool to implement the patented patterning technique called scanning beam interference lithography (sbil). (© volker steger, science photo library)
+
+
+the chandra x-ray observatorythe snl fabricated hundreds of transmission gratings for the high energy transmission grating spectrometer on board of chandra, launched in 1999, and still operating.  (image credit: nasa/cxc/sao)
+
+
+x-ray optics shape correction using ion implantationion implantation of thin-foil x-ray mirrors has the potential to correct figure at the sub-arcsec level.  (© ralf heilmann)
+
+ 
+
+
+
+
+advanced x-ray and euv diffraction gratings 
+ 
+ the innovative critical-angle transmission (cat) grating combines the best of transmission and reflection gratings in the soft x-ray band...					
+read more »
+
+ 
+ 
+
+
+
+
+shaping of thin-foil x-ray optics 
+ 
+ we are pioneering alternative methods for the shaping and figure correction of thin-foil optics utilized as grazing-incidence mirrors in space-based x-ray telescopes...					
+read more »
+
+ 
+ 
+
+
+
+
+scanning beam interference lithography: the nanoruler 
+ 
+ the nanoruler is a prize-winning tool for the rapid high-precision patterning of large-area gratings...					
+read more »
+
+ 
+ 
+watch a video about the snl
+jan. 2025: paper on "machine learning driven measurement of high-aspect-ratio nanostructures using mueller matrix spectroscopic ellipsometry" selected as an editor's pick by jvstb 
+jul 2024: successful magixs-2 sounding rocket flight with snl/izentis reflection grating 
+apr 2024: successful hi-c flare sounding rocket flight with snl/izentis reflection grating 
+feb 2024: dr. schattenburg gives invited talk on “metrology challenges for fabrication of high aspect-ratio, nano-scale x-ray diffraction gratings” at spie meeting on advanced lithography + patterning in san jose, ca 
+nov 2023: congratulations to mallory whalen for receiving the r. v. jones student scholarship at the 38th aspe annual meeting! 
+oct 2023: increased soft x-ray diffraction efficiency with oxidation/vapor-hf-thinned cat gratings demonstrated 
+sept 2023: congratulations to dr. yao to his new position at nasa goddard space flight center! 
+july 2023: congratulations to dr. wisniewski to his successful ph.d. defense! 
+june 2023: congratulations to mallory whalen to her master’s degree! 
+ more newsaug 2017: arcus, a nasa midex mission proposal based on cat gratings, silicon-pore optics, and x-ray ccds, has been selected for a phase a concept study. 
+
+feb 2016: record high soft x-ray grating spectrometer resolving power > 10,000 demonstrated!   
+ 
+
+
+
+
+
+
+massachusetts institute of technology
+mit kavli institute for astrophysics and space research (mki)
+chandra x-ray observatory
+copyright (unless stated otherwise): space nanotechnology laboratory, mit kavli institute for astrophysics and space research, massachusetts institute of technology, cambridge, ma 02139, usa. accessibility 
+	powered by parabola &   wordpress.		
+
+
+
+
+
+
+
+
+
+

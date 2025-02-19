@@ -1,0 +1,622 @@
+
+
+
+hyperlobby online system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  login :: create an account
+::  home 
+                     ::  downloads 
+                     ::  your 
+                    account  ::  forums 
+                     ::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+navigation
+
+
+
+
+
+
+
+
+
+
+
+ home/news: 
+·  news 
+ 
+ manuals/guides:
+·  hyperlobby manual
+·  tips & tricks   
+·  release notes  
+·  terms of service
+·  license
+ 
+downloads:
+·  hyperlobby client
+ 
+support: 
+· support forum
+·  forum search
+ 
+ forums: 
+·  hyperlobby general
+·  online competitions
+·  community support
+·  hyperlobby skins
+·   supported games 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+donations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+donate to support future development and hosting of the hyperlobby
+
+
+
+
+
+
+
+
+due date:
+ feb 28
+
+
+february goal:
+150.00
+
+
+total receipts:
+30.00
+
+
+transaction fees:
+1.82
+
+
+net balance:
+28.18
+
+
+bellow goal:
+121.82
+
+
+site currency:
+usd
+
+
+19% february donations:llv34_untamo20.00jay / archie10.00©
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+forums
+
+
+
+
+
+
+
+
+
+
+
+ mission4today is undergoing maintenance does hyperlobby now require steam? happy new year !!! simhq has moved fighters anthology alternative hyperlobby happy holidays i/jg7 "nowotny" skin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+page 1 of 13 (65 total stories) [ 1 | 2 | 3 | 4 | 5 | 6 | > | >> ]  12345678910111213
+
+
+
+
+
+  new version 4.3.5  
+
+
+
+
+
+
+
+
+
+
+
+
+	hello all
+
+	this new version updating difficulty settings for il2-1946 4.13m patch. details you can found there.
+
+if you use hyperlobby, and are happy with it, i'd love if you would consider donating. donations help keep the updates coming, pay for bandwidth, and help pay for the time spent maintaining and improving the software.
+
+jiri
+
+
+
+
+
+
+
+posted by jiri-fojtasek on wednesday, june 17, 2015 @ 20:30:46 cest  (12066 reads)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ new version 4.3.4  
+
+
+
+
+
+
+
+
+
+
+
+hello all
+this hl release adding support for new difficulty settings introduced in il-2 sturmovik 1946 4.12m patch. this patch adding three new and changing one difficulty option. more details you can found in official  il-2 sturmovik 1946 4.12m patch readme and hyperlobby 4.3.4 development thread.
+if you use hyperlobby, and are happy  with it, i'd love if you would consider donating. donations help keep  the updates coming, pay for bandwidth, and help pay for the time spent  maintaining and improving the software.
+jiri
+
+
+
+
+
+
+
+posted by jiri-fojtasek on monday, june 24, 2013 @ 20:27:24 cest  (14640 reads)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  new version 4.3.2  
+
+
+
+
+
+
+
+
+
+
+
+hello all
+
+coming time to publish new release of hyperlobby. this release adding support for "il-2 sturmovik cliffs of dover", il2-1946 dedicated server, updating difficulty settings for il2-1946 4.11m patch and fixing few outstanding bugs. here is brief changes from the latest public release:
+
+whats new:
+
+support for game "il-2 sturmovik cliffs of dover".
+added new difficulty settings for il-2 sturmovik 1946 introduced in 4.11m patch.
+update difficulty and localport settings for il-2 sturmovik 1946 dedicated server.
+
+bug fixes:
+
+fixed default difficulty settings constants (easy, normal, realistic) for il-2 sturmovik 1946.
+when changing difficulty settings "maximum players" list was populated incorrectly.
+
+support for game "il-2 sturmovik cliffs of dover" is done partially because il2clod developer team silently ignored my requests. oleg maddox is not anymore part of 1c but in spite of this he help me with implementing basic functionality. big kudos to him. to use il2clod with hl there must be done few tweaks to steam and the game itself. good news is its nothing complicated.
+
+known issues and requirements for the "il-2 sturmovik cliffs of dover" game and steam settings to run hl correctly:
+
+steam must be run and be in online mode.
+disable "steam cloud config storage", click "view>game list" menu in the steam main interface, right click "il-2 sturmovik: cliffs of dover" item "properties", then click tab "updates" and uncheck "enable steam cloud synchronization for il-2 sturmovik: cliffs of dover". its because hl need mangle your ini files in order to setup game sessions correctly (same way we do it in il2 series for ten years).
+hyperlobby cannot change your name in online game session, you must do it yourself in your steam profile, click "steam>settings" menu in the steam main interface, then click "friends" tab and change your "profile name"
+hosting a game (not dedicated server) will not enter the game server screem like in il2-1946, you must click it manually via the ingame menu "multiplayer>server".
+dedicated server need special setup. some hints you can found at 1c forum: http://forum.1cpublishing.eu/showthread.php?t=22038&highlight=dedicated+server.
+guide how to setup dedicated server with hl reflecting various needs: http://hyperfighter.sk/ftopicp-20669.html#20669.
+
+i hope you will like this release. if you found any issues regarding this release please post em in to our community support forum.
+
+ if you use hyperlobby, and are happy with it, i'd love if you would consider donating. donations help keep the updates coming, pay for bandwidth, and help pay for the time spent maintaining and improving the software.
+
+jiri
+
+
+
+
+
+
+
+posted by jiri-fojtasek on wednesday, february 15, 2012 @ 18:51:30 cet  (18274 reads)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ hyperlobby open betatest - il-2 sturmovik cliffs of dover  
+
+
+
+
+
+
+
+
+
+
+
+hello all
+"il-2 sturmovik cliffs of dover" has been release few months ago.  initial version of the game had some issues so i decided wait for a  while until i include it in hyperlobby supported games. after few  patches and updates the game feel better and coming time to do something  with it ...
+before release of the hyperlobby with support for "il-2 sturmovik cliffs of dover"  became public, we need pass a betatest. the betatest is open to everyone. forum registration is required for download since we need direct users feedback. beta download and discussion thread is here:
+http://hyperfighter.sk/modules.php?name=forums&file=viewtopic&t=8115
+jiri
+ 
+ 
+
+
+
+
+
+
+
+posted by jiri-fojtasek on tuesday, august 30, 2011 @ 22:02:11 cest  (13123 reads)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ new version 4.2.12  
+
+
+
+
+
+
+
+
+
+
+
+hello all
+il-2 sturmovik 1946 4.10m patch is out for a while and testing version of  hl too. so coming time to made 4.2.12 gold ...
+whats new:
+
+added six new difficulty settings for il-2 sturmovik 1946 introduced in 4.10m patch:
+    reliability
+    real. pilot vulnerability
+    no player icon
+    g-force limits
+    real. navigation instruments
+    no fog of war icons
+
+jiri
+
+
+
+
+
+
+
+posted by jiri-fojtasek on monday, february 14, 2011 @ 13:05:02 cet  (13438 reads)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+page 1 of 13 (65 total stories) [ 1 | 2 | 3 | 4 | 5 | 6 | > | >> ]  12345678910111213
+
+
+
+
+
+counters
+
+
+
+
+
+
+
+
+
+
+
+il-2 cliffs of dover0
+dangerous waters0
+pacific fighters0
+wings over vietnam0
+lock on0
+il-2 sturmovik 19468
+strike fighters: p10
+fighter squadron0
+flanker 2.50
+falcon 4.0 a.f.0
+medal of honor...0
+jas0
+operation flashpoint0
+il-2 sturmovik0
+il-2 sturmovik demo0
+european air war0
+cfs 20
+cfs0
+free chat0
+fleet comander0
+i.a.f.0
+fighters anthology0
+f-150
+f/a-180
+usaf0
+wwii fighters0
+total: 8 players
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	hyperlobby © 2000-2024 jiri fojtasek
+
+	all logos and trademarks in this site are property of their respective owner. the comments are property of their posters, all the rest © 2003-2024 by jiri fojtasek
+
+
+

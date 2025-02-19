@@ -1,0 +1,728 @@
+
+
+
+
+
+
+
+
+technick.net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+​home
+​guides
+​tools
+​about
+
+
+
+
+
+technick.net
+electronics, hardware, software, guides and tools
+
+
+
+
+
+
+
+
+
+ it appears that
+you are using adblocking software. the cost of running this website
+is covered by advertisements. if you like it please feel free to
+ a small amount of
+money to secure the future of this website.
+
+
+
+
+
+
+ it appears that
+you are using adblocking software. the cost of running this website
+is covered by advertisements. if you like it please feel free to
+ a small amount of
+money to secure the future of this website.
+
+
+
+
+
+
+
+
+
+since 1998 technick.net site it's a freely
+accessible web site about electronics, hardware, software, guides
+and tools.
+note: the historical pinouts archive
+was moved to: https://allpinouts.org
+and the electronic circuits archive was moved to: https://circuitsarchive.org
+this website is organized into the following sections:
+
+
+home
+​guides
+
+​electronics
+
+ammonium persulfate: etchant for copper-plated pc
+boards
+awg to metric conversion chart
+basic soldering guide
+​basics of
+electrostatic discharge (esd)
+
+0. introduction to static electricity
+1. an introduction to esd
+2. principles of esd control
+3. an overview of esd control procedures and
+materials
+4. auditing and training
+5. device sensitivity and testing
+6. esd standards
+7. bibliography
+
+
+​batteries in a
+portable world 2nd ed.
+
+00. about the author
+00. author's note
+00. frequently asked questions about batteries
+(faq)
+00. introduction
+00. links
+00. order batteries in a portable world
+00. part four – beyond batteries
+00. part one - battery basics everyone should
+know
+00. part three – knowing your battery
+00. part two – you and the battery
+00. toc
+01. when was the battery invented?
+01. when was the battery invented? 2
+01. when was the battery invented? 3
+02. battery chemistries
+02. battery chemistries
+02. battery chemistries 2
+02. battery chemistries 3
+02. battery chemistries 4
+02. battery chemistries 5
+02. battery chemistries 6
+02. battery chemistries 7
+02. battery chemistries 8
+02. battery chemistries 9
+03. the battery pack
+03. the battery pack 2
+03. the battery pack 3
+03. the battery pack 4
+03. the battery pack 5
+03. the battery pack 6
+04. proper charge methods
+04. proper charge methods 10
+04. proper charge methods 2
+04. proper charge methods 3
+04. proper charge methods 4
+04. proper charge methods 5
+04. proper charge methods 6
+04. proper charge methods 7
+04. proper charge methods 8
+04. proper charge methods 9
+05. discharge methods
+05. discharge methods 2
+05. discharge methods 3
+05. discharge methods 4
+05. discharge methods 5
+06. the secrets of battery runtime
+06. the secrets of battery runtime 2
+06. the secrets of battery runtime 3
+07. the ‘smart’ battery
+07. the ‘smart’ battery 2
+07. the ‘smart’ battery 3
+07. the ‘smart’ battery 4
+07. the ‘smart’ battery 5
+07. the ‘smart’ battery 6
+07. the ‘smart’ battery 7
+08. choosing the right battery
+08. choosing the right battery 2
+08. choosing the right battery 3
+08. choosing the right battery 4
+09. internal battery resistance
+09. internal battery resistance 2
+09. internal battery resistance 3
+10. getting the most from your batteries
+10. getting the most from your batteries
+2
+10. getting the most from your batteries
+3
+10. getting the most from your batteries
+4
+10. getting the most from your batteries
+5
+10. getting the most from your batteries
+6
+10. getting the most from your batteries
+7
+11. maintaining fleet batteries
+11. maintaining fleet batteries 2
+11. maintaining fleet batteries 3
+12. battery maintenance equipment
+12. battery maintenance equipment 2
+12. battery maintenance equipment 3
+12. battery maintenance equipment 4
+12. battery maintenance equipment 5
+13. making battery quick-test feasible
+13. making battery quick-test feasible 2
+13. making battery quick-test feasible 3
+13. making battery quick-test feasible 4
+13. making battery quick-test feasible 5
+14. non-correctable battery problems
+14. non-correctable battery problems 2
+14. non-correctable battery problems 3
+15. caring for your batteries from birth to
+retirement
+15. caring for your batteries from birth to
+retirement 2
+15. caring for your batteries from birth to
+retirement 3
+15. caring for your batteries from birth to
+retirement 4
+15. caring for your batteries from birth to
+retirement 5
+15. caring for your batteries from birth to
+retirement 6
+15. caring for your batteries from birth to
+retirement 7
+15. caring for your batteries from birth to
+retirement 8
+16. practical battery tips
+16. practical battery tips 2
+16. practical battery tips 3
+17. did you know . . . ?
+17. did you know . . . ? 2
+17. did you know . . . ? 3
+17. did you know . . . ? 4
+17. did you know . . . ? 5
+17. did you know . . . ? 6
+18. beginnings and horizons
+18. beginnings and horizons 2
+18. beginnings and horizons 3
+18. beginnings and horizons 4
+18. beginnings and horizons 5
+
+
+controlling electrical hazards
+dielectric constants of material
+ferric chloride solution: etchant for copper-plated pc
+boards
+on cables and connections
+passive components codes guide
+pcbs fabrication methods
+sodium metasilicate, pentahydrate
+standard certification marks
+standard resistors values
+stripline impedance
+
+
+​hardware
+
+mouse cleaning
+​networking
+
+device servers: network-enabling nearly any
+device
+ethernet tutorial part i: networking
+basics
+ethernet tutorial part ii: adding speed
+ethernet tutorial part iii: sharing
+devices
+guide to using fast ethernet
+network switching tutorial
+
+
+post beep codes
+raid technology
+scsi technology
+​the ultimate memory
+guide v.6
+
+0. table of contents
+1. what is memory?
+1.1. introduction
+1.2. the role of memory in the computer
+1.3. the difference between memory and
+storage
+1.4. memory and performance
+1.5. how much memory do you need?
+10. the glossary
+2. a closer look
+2.1. what memory looks like
+2.2. where memory comes from
+2.3. where memory goes in the computer
+3. how memory works
+3.1. how memoryworks with the processor
+3.2. maximizing performance
+4. how much memory is on a module?
+4.1. bits and bytes
+4.2. cpu and memory requirements
+4.3. calculating the capacity of a module
+4.4. stacking
+5. different kinds of memory
+5.1. module form factors
+5.2. major chip technologies
+5.3. memory technologies for video or graphics
+processing
+5.4. other memory technologies you may have heard
+about
+5.5. error checking
+5.6. other specifications
+6. what to consider when buying memory
+6.1. compatibility
+6.2. how to read a bank schema
+6.3. quality
+6.4. pricing and availability
+7. how to install memory
+7.1. before you install
+7.2. important things to keep in mind
+7.3. installing the memory
+8. troubleshooting memory problems
+8.1. common memory problems
+8.2. basic troubleshooting
+8.3. when the problem occurs
+8.4. handling specific problems
+8.5. still need help?
+9. more about kingston
+9.1. company overview
+9.2. how to reach kingston
+9.3. why kingston?
+
+
+
+
+​software
+
+ascii table
+build software with docker
+formatting bytes in a spreadsheet cell
+simple api json response format
+software automation
+software configuration
+software logging format
+software metrics
+software naming
+software structure
+software versioning
+
+
+​theory
+
+definitions of the si base and derived units
+​digital
+audio resampling
+
+00. table of content
+01. what is bandlimited interpolation?
+02. available software
+03. theory of operation
+04. abstract
+05. introduction
+06. theory of ideal bandlimited interpolation
+07. from theory to practice
+08. implementation
+09. quantization issues
+10. choice of table size
+11. choice of interpolation resolution
+12. conclusions
+13. exact sinc-interpolation of sampled periodic
+signals
+14. appendix b: relation between sinc and lagrange
+interpolation
+15. bibliography
+16. about this document
+17. footnotes
+
+
+​elementary digital
+filter theory
+
+00. table of content
+01. positive real functions
+02. relation to stochastic processes
+03. relation to schur functions
+04. relation to functions positive real in the
+right-half plane
+05. special cases and examples
+06. minimum phase (mp) polynomials in z
+07. conjectured properties
+08. introduction to digital filter theory
+09. linearity and time-invariance
+10. difference equation
+11. convolution representation
+12. frequency response
+13. phase delay and group delay
+14. vector space concepts
+15. specific norms
+16. concavity (convexity)
+17. concave norms
+18. gradient descent
+19. taylor's theorem
+20. newton's method
+21. maxims of signal processing
+22. index
+23. bibliography
+24. about this document
+25. footnotes
+
+
+​mathematics
+of the discrete fourier transform (dft)
+
+00. table of content
+a basic tutorial on sampling theory
+a first look at taylor series
+about this document
+acknowledgement
+alias operator
+aliasing of sampled continuous-time
+signals
+an example of changing coordinates in 2d
+an example vector view
+an orthonormal sinusoidal set
+appendix a: linear time-invariant filters and
+convolution
+appendix a: round-off error variance
+appendix b: electrical engineering 101
+appendix b: introductory statistical signal
+processing
+appendix c: mathematica/matlab examples
+appendix d: the similarity theorem
+appendix: matlab examples
+application of the shift theorem to fft
+windows
+applications of cross-correlation
+audio decay time
+autocorrelation
+back to e
+back to e^(j theta)
+bandlimited interpolation in time
+bibliography
+binary integer fixed-point numbers
+cauchy-schwarz inequality
+causal fir filters
+changing the base
+circular motion
+coherence
+comparing analog and digital complex
+planes
+complex numbers
+complex roots
+complex sinusoids
+conclusions
+conjugation and reversal
+constructive and destructive interference of
+sinusoids
+convolution
+convolution representation
+convolution representation of lti filters
+convolution theorem
+correlation
+correlation theorem
+cross-correlation
+db for display
+db spl
+dbm scale
+dbv scale
+de moivre's theorem
+decibels
+decimation operator
+decimation theorem (aliasing theorem)
+derivation of taylor series expansion with
+remainder
+derivatives of f(x)=a^x
+dft math outline
+difference equation
+digital filter theory summary
+does it work?
+dual of the convolution theorem
+dynamic range
+elementary relationships
+euler's formula
+euler's theorem
+even and odd functions
+example 1: fft of a simple sinusoid
+example 2: fft of a not-so-simple
+sinusoid
+example 3: fft of a zero-padded sinusoid
+example 4: blackman window
+example 5: use of the blackman window
+example 6: hanning-windowed complex
+sinusoid
+example applications of the dft
+example sinusoids
+exponentials
+factoring a polynomial with real roots
+figure 7.2
+figure 7.3
+figuring out sampling theory by playing around
+with complex sinusoids
+finiteness
+fir filters
+flip operator
+floating-point numbers
+footnotes
+formal statement of taylor's theorem
+fourier theorems for the dft
+fractional binary fixed-point numbers
+frequencies in the \
+frequency response
+further notes on differentiability of audio
+signals
+general conditions
+general formula for two's-complement, integer
+fixed-point numbers
+generalized complex sinusoids
+geometric series
+geometric signal theory
+gram-schmidt orthogonalization
+graphical convolution
+how many bits are enough for digital
+audio?
+imaginary exponents
+in-phase and quadrature sinusoidal
+components
+index
+informal derivation of taylor series
+expansion
+introduction
+introduction to complex numbers
+introduction to digital filter analysis
+introduction to the dft
+law companding
+linear number systems for digital audio
+linear phase terms
+linearity
+linearity and time-invariance
+linearity of the inner product
+little endian formula
+logarithmic fixed-point numbers
+logarithmic number systems for digital
+audio
+logarithms
+logarithms of negative and imaginary
+numbers
+logarithms, decibels, and number systems
+lti filters and the convolution theorem
+mathematica for selected plots
+mathematics of the dft
+matlab examples
+matrices
+matrix formulation of the dft
+matrix multiplication
+method 1: additive synthesis
+modulo indexing, periodic extension
+more notation and terminology
+motivating example and overview
+multiplication of decimal numbers
+music 320 background reader mathematics of the
+discrete fourier transform (dft)
+negative exponents
+norm induced by the inner product
+norm of the dft sinusoids
+normalized dft
+notation and terminology
+numerical tools in mathematica
+numerical tools in matlab
+one's complement fixed-point format
+order
+orthogonality
+orthogonality of sinusoids
+orthogonality of the dft sinusoids
+other norms
+outline
+phase delay and group delay
+polynomial multiplication
+positive and negative frequencies
+positive integer exponents
+power theorem
+powers of
+preface
+projection
+projection of circular motion
+proof of euler's identity
+properties of db scales
+properties of exponents
+pulse code modulation (pcm)
+rational exponents
+rayleigh energy theorem (parseval's
+theorem)
+real exponents
+reconstruction from samples--pictorial
+version
+reconstruction from samples--the math
+recovering a continuous-time signal from its
+samples
+repeat operator
+sampled sinusoids
+shannon's sampling theorem
+shift operator
+shift theorem
+sidebar on mathematica
+signal metrics
+signal operators
+signal reconstruction from projections
+signals as vectors
+sinusoids
+sinusoids and exponentials
+sinusoids at the same frequency
+special case: the mth roots of unity
+specific db scales
+spectral phase
+spectrum analysis of a sinusoid: windowing,
+zero-padding, and the fft
+stretch operator
+stretch theorem (repeat theorem)
+symmetry
+the analytic signal and hilbert transform
+filters
+the biquad section
+the complex plane
+the dft
+the dft and its inverse
+the dft derived
+the dft matrix
+the discrete fourier transform (dft)
+derived
+the exponent zero
+the fourier theorems
+the fundamental theorem of algebra
+the inner product
+the length 2 dft
+the pythagorean theorem in n-space
+the quadratic formula
+the weierstrass (polynomial) approximation
+theorem
+transfer function
+triangle difference inequality
+triangle inequality
+two's complement fixed-point format
+vector addition
+vector cosine
+vector subtraction
+what frequencies are representable by a geometric
+sequence?
+when do we have to swap bytes when changing
+computers?
+why (generalized) complex sinusoids are
+important
+why exponentials are important
+why sinusoids are important
+zero padding
+zero padding theorem
+
+
+multiples and submultiples prefixes
+tables
+
+
+
+
+​tools
+
+awg to metric converter
+​inductance
+calculator
+
+inductance of circular loop
+inductance of coplanar traces
+inductance of equilateral triangle loop
+inductance of isosceles triangle loop
+inductance of rectangular loop
+inductance of round wire over a ground
+plane
+inductance of square loop
+inductance of twin lead
+inductance of vertically spaced traces
+inductance of wide trace over a ground
+plane
+
+
+json editor
+morse code converter
+​pcb impedance
+and capacitance calculator
+
+pcb impedance and capacitance of asymmetric
+stripline
+pcb impedance and capacitance of differential
+microstrip
+pcb impedance and capacitance of differential
+stripline
+pcb impedance and capacitance of dual
+stripline
+pcb impedance and capacitance of embedded
+microstrip
+pcb impedance and capacitance of
+microstrip
+pcb impedance and capacitance of stripline
+
+
+
+
+about
+
+
+last articles:
+
+
+09 may 2017 - tools
+23 dec 2014 - guides
+01 mar 1998 - about
+01 mar 1998 - tools
+01 mar 1998 - search
+01 mar 1998 - guides
+
+
+
+
+
+
+
+© 1998-2023 –
+nicola asuni - tecnick.com - all rights
+reserved.
+about - disclaimer -
+privacy
+
+
+
+
+

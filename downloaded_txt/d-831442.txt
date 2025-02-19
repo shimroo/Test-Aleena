@@ -1,0 +1,363 @@
+
+
+
+minesafetywatch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	minesafetywatch
+	
+  
+safety and health of miners and mining communities.  mines includes coal mines, metal mines, nonmetallic mineral mines, stone quarries, and sand and gravel operations.
+
+
+
+
+
+monday, august 03, 2009
+
+
+
+	 
+	 change of address
+	 
+    
+
+
+minesafetywatch is moving over to wordpress, at least for a while. changes made this site a little harder for me to use. the new location is http://minesafetywatch.wordpress.com. i'll see how it goes.
+
+
+
+posted by kathy snyder at 12:07 pm
+0 comments
+
+
+
+
+
+
+monday, march 31, 2008
+
+
+
+	 
+	 inspector general issues crandall canyon report
+	 
+    
+
+
+the department of labor inspector general has just issued its report on msha's role before and during the crandall canyon mine tragedy last august. according to their summary: msha was negligent in carrying out its responsibilities to protect the safety of miners. specifically, msha could not show that it made the right decision in approving the crandall canyon mine roof control plan or that the process was free from undue influence by the mine operator...further, msha did not ensure that subsequent inspections assessed compliance with, and the effectiveness of, approved plans...in addition, during the rescue attempt:msha...lacked guidance on appropriate non-rescue activities. the ig says it made nine recomendations.the summary seems delicately worded in some ways.  "was negligent" -- that's strong indeed. a statement like that seems as if it might subject the government to a lawsuit, unless msha is shielded by the principle of sovereign immunity, which i would guess is probalby the case in this instance. as i understand it, if they were just doing their job, no matter how badly, a lawsuit is unlikely to have any traction.on the other hand, the summary continues mildly: the agency "could not show" that it handled plan approval properly. no clear, positive statement that the approval was definitely wrong.the whole document, summary and msha response are posted here.  u.s. house education and labor committee chairman george miller (d-calif.) immediately issued a statement urging firther action of the s-miner act.     the inspector general’s report highlights the fact that miners performing retreat mining in this country remain at serious risk because of msha’s deeply flawed process for reviewing and approving retreat mining plans. in january, the house of representatives passed legislation to require that msha strengthen its procedures for reviewing and approving retreat mining plans. the legislation also requires msha to observe retreat mining operations once they are in place to ensure they are being performed in accordance with the plans and that miners are properly trained. the inspector general’s report shows why this legislation is so urgently needed, and i strongly urge the senate to pass it.
+
+
+
+posted by kathy snyder at 4:18 pm
+0 comments
+
+
+
+
+
+
+
+
+
+	 
+	 stickler's arithmetic
+	 
+    
+
+
+msha has come in for a mention in a federal times article, "safety agencies overwhelmed by surging inspection workload."  what's new in the article: some of the regulated are now asking for more regulation.  but as with the new york times  article discussed yesterday, the mine safety information is dated:and many of the administration’s picks of leaders to run safety agencies have been executives from affected industries...one example is the administration’s most recent pick to run the labor department’s mine safety and health administration: richard stickler, a former coal company executive.  his nomination was opposed by many members of congress, who criticized stickler’s ties to the industry and the poor safety record at the mines he managed. many of those mines had accident rates above the national average.... as everyone in mining knows, richard stickler is not a recent nominee. stickler was nominated to head msha more than 2 1/2 years ago. he has actually been in charge at msha for most that time, first quietly as a "special assistant" ensconced in labor department headquarters, while his nomination was pending. starting in october 2006 -- after the senate declined to confirm him -- he was formally given the job of msha assistant secretary under a recess appointment.  that appointment was good only until december 31, 2007. however, stickler, now using the title "acting assistant secretary," continues in place.stickler's track record at msha is therefore more relevant than his industry experience. in fairness, it is very much mixed. stickler got his recess appointment several months after a trio of disasters rocked msha in early 2006: the sago mine explosion, which killed 13, the kentucky darby mine explosion, which killed five, and the aracoma alma fire, in which two died. by all accounts, he earned the respect of many as he guided the agency through the massive investigations, internal reviews, and many changes and initiatives made necessary by the miner act, which congress passed in response to those accidents. others, including some members of congress, have called the progress too slow.on stickler's watch, last august, came the crandall canyon outburst in utah, in which nine were killed in two separate incidents, three of them during the attempted rescue.  msha lost one of its own in the botched rescue attempt, something that had not happened in nearly 30 years.  routine administration of some msha programs also began to look tattered. the inspection completion rate dropped to disturbing lows. civil penalties fell through large cracks in the processing system, allowing some violators to get away scot-free.  more inspectors were hired, but too late for their training to be complete in time to fill gaps as they arose in the msha workforce.  a recent briefing by stickler on the proposed msha budget for 2009 was also mixed -- a strong enforcement message came along with with some sheer flim-flam in the math department.asked how he would rspond to mine operators who complained that the effort needed to contest new, higher msha penalties would draw their limited resources away from accident prevention, stickler responded: ... put the money in preventing the violations in the first place....all these violations can be prevented, and most of it is a matter of resources.  it costs money.  and you can wait until msha comes and wrotes a violation because you have combustible materials on a conveyor belt, then you clean it up and pay, i think our average fine last year was about $700 a fine, or you can go out and hire enough peple to keep the combustible materials cleaned up.  you put on better belt wipers.  keep the belt aligned so it doesn't spill.fair enough. but on the same occasion, stickler claimed that a proposed budget cut for msha was actually an increase, in a piece of -- i'm sorry, but that's how it was -- double talk fit to prove that 2 + 2 = 5.the labor department's own budget book showed that the administration is asking for a cut of $1.8 million for the agency, compared with actual apropriations for fiscal 2008. asked about this at the news conference, secretary of labor elaine chao professed ignorance of any msha cut, and deferred to stickler, who stated that the department's own figures may be confused.stickler went on to say that the $1.8 million proposed cut is actually a $18.6 million proposed increase.  how can that be?  easy, just discount $20 million in "non-reoccurring or one-time expenditures" from the current year. that even sounds vaguely plausible unless you look at what stickler listed as "non-reoccurring" expenses": overtime so that inspectors can get to all the mines as required by law while the agency is shorthanded. improvements at the national mine academy facility. equipment purchases. and what were the alleged "program increases" for 2009? new inspectors for metal and nonmetal mines. more improvements at the national mine academy. inflation.  hello?  increases for inflation aren't really program increases. you are not getting any more for your money. facility upgrades and equipment purchases go on all the time, in some years more than others. to get inspectors to all the mines as required, you can pay overtime, you can hire more inspectors, you make whatever adjustments are necessary from year to year.  none of these is an extraordinary one-time expenditure; they are all  mangement decisions of the type that all msha managers have always had to make under whatever budget.what's more, the department's budget booklet showed a whopping proposed cut of $9.7 million for coal mine safety and health -- along with lesser cuts in standards development, penalty assessments, training and engineering support, and "program administration." real proposed increases would go only  to metal and nonmetal mine safety and health ($11 million there) and msha data management.  these increases surely are needed. but the concept of making those limited increases at the expense of other msha activities surely deserves the closest of scrutiny.the attempt to bill a $1.8 million cut as an $18.6 million "increase" was pure p.r.the msha press release, if you read it carefully, clarifies the real point: the current msha request is actually $18.6 million increase (rounded up to $19 million) over what the white house requested last year. isn't that an interesting coincidence?
+
+
+
+posted by kathy snyder at 1:01 pm
+0 comments
+
+
+
+
+
+
+sunday, march 30, 2008
+
+
+
+	 
+	 behind (at) the (new york) times?
+	 
+    
+
+
+it was a surprise to see an obscure outfit like the federal mine safety and health review commission make the editorial page of today's new york times.  and i'm even more surprised to see that the gray lady's opinion elves sees to have skimped on the fact-checking.   at this point, according to a review by politico.com, the election commission, the consumer product safety commission, the mine safety and health review commission, the chemical safety and hazard investigation board and the national labor relations board do not have enough members to do their jobs... the times editorial writer apparently relied on a month-old story from the politico website: politics freezes regulatory boards by: ryan grim feb 28, 2008 05:12 am est the system of federal regulation first launched in 1883 with the interstate commerce commission has become a casualty of the pennsylvania avenue battle over nominations.... ...the federal mine safety and health review commission’s two remaining members leave it one short of a quorum. close to 200 nominees for federal appointments stand unconfirmed....the federal government is running on fumes, and roadside signs suggest the next gas station won’t come until january 2009.....but a lot can happen in a month. on march 14 the senate acted on a batch of nominations including two nominations for the federal mine safety and health commission, providing a quorum.  here's harry reid's statement:  i am pleased we were able to reach an agreement to confirm nominees early this morning. democrats were confirmed to important posts such as the nuclear regulatory commission, the federal mine safety and health review commission, and amtrak, among others.... executive nominations confirmed by the senate: thursday, march 13, 2008 republicans...federal mine safety and health review commissionmichael f. duffy, to be a member of the federal mine safety and health review commission through august 30, 2012...democrats...federal mine safety and health review commissionrobert f. cohen, to be a member of the federal mine safety and health review commission through august 30, 2012... fyi, here's some links to more about cohen and duffy. the senate did not take any action on a third nomination for the commission, that of arlene holen.it's true that as of this morning, the review commission's website has not been updated and still lists only the names of comissioners michael g. young and mary lu jordan.so it's not clear if duffy and cohen have actually been sworn in. still, it seems odd that a newpaper like the times would run an editorial based on month-old facts without apparent awareness of a significant update.the context of the times editorial takes us far afield from mine safety:  unhappily for the country, we have learned that mr. bush has no idea when standing on principle becomes blind stubbornness and then destructive obsession. so it goes with his choice to run the justice department’s office of legal counsel, steven bradbury. in a lower job in that office, mr. bradbury signed off on two secret legal memos authorizing torture in american detention camps. the first approved waterboarding, among other things. when congress outlawed waterboarding, the other memo assured mr. bush that he could ignore the law.mr. bradbury is widely viewed on both sides of the aisle as such a toxic choice that he will never be confirmed. the senate has already refused to do so twice. still, mr. bush clings to this lost cause, snarling the confirmation process for hundreds of nominees and crippling parts of the federal regulatory apparatus.......when mr. bush refused to withdraw the bradbury nomination, the senate’s democratic leaders decided to stop processing other controversial nominations... some will note that mr. bush has been just as stubborn in sticking to richard e. stickler for chief of msha as he has been in sticking to mr. bradbury for olc. when the senate refused to confirm stickler, the white house gave him a recess appointment, which ended last december. after that the senate still would not confirm stickler, but he has continued to head msha on an "acting" basis.  meanwhile, a different story about mine safety and health review commission resources may remain to be told.  the (theoretically) five presidentially-appointed commissioners serve as an appellate board, which only decides a selection of cases that are appealed after initial decisions by the commision's administrative law judges. the alj's have the bulk of the work. appeals filed with the office of alj's have multiplied since msha hiked penalties last year in line with the new miner act. (for instance, 714 contests were filed in january 2008 compared with 210 in january 2007.)yet dollar appropriations for the commission have not risen significantly, nor has the number of alj's increased much. and the president's latest budget proposal for the commission calls for a dollar boost of less than 10% next year. (source: mine safety and health news, a subscription-only publication -- for which i also write.) it's reasonable to wonder how the commission will cope with its new workload.
+
+
+
+posted by kathy snyder at 9:59 am
+0 comments
+
+
+
+
+
+
+saturday, march 29, 2008
+
+
+
+	 
+	 closure announced of struggling tower mine
+	 
+    
+
+
+utahamerican energy has announced closure of its tower mine in carbon county, utah, which recently got slapped with fines of more than $420,000 for two "flagrant" violations of 30 cfr 75.400, the standard that prohibits accumulations of combustible materials. the mine, like the crandall canyon mine where nine died in two outbursts this summer, is owned robert e. murray. like all other deep coal mines in the west, it has faced intense scrutiny since the disaster. the salt lake tribune: the company said it had to close the tower mine because of "recently encountered, unexpected and unusual stress conditions"... p. bruce hill, utahamerican's president and chief executive officer, said the safety of the mine's employees was at stake, given unforeseen geological and mining conditions... "safety is our only initial concern, and we do not believe that the tower mine can be operated at this time," hill said, adding that "unforeseen changes in requirements by the [federal] mine safety and health administration also have contributed to the forced closure of the mine." but both federal agencies involved professed ignorance:msha's amy louviere said in an e-mail that "we cannot speculate as to what 'unforeseen changes' utahamerican references in its press release." james kohler, chief of the solid minerals branch for the utah bureau of land management, said the company has yet to submit an application to blm to close the mine, as it is required to do. ap had a bit more in the way of details: the company wanted to relocate a longwall mining machine inside tower but found the conditions unsafe.... the murray energy corp. subsidiary closed the mine for several weeks last summer as engineers tested its ability to withstand seismic shocks that plagued the company's crandall canyon mine near huntington, utah, where nine people died in two cave-ins.the tower mine, seven miles north of price, utah, reopened in late january.the company's statement didn't specify whether the tower mine, previously known as the aberdeen mine, was being permanently shut down. it was also unclear how many people work at the mine meanwhile, the tribune reported, most of the employees will be transferred to utahamerican's nearby west ridge mine, which is being expanded, [hill] said.if you're having some trouble finding utahamerican's tower mine in the msha database, that's because it's still registered with msha as andalex resources, aberdeen mine, msha id 4202028.  the two "flagrant" penalties totaling $420,300, for violations dated 10/26/06 and 6/31/07 will be found in the msha data for the aberdeen mine. murray energy, parent of utahamerican, acquired andalex in august 2006. the database shows that the mine had 207 employees in the second quarter of 2007, of whom 164 worked underground, producing 494,740 tons. in third quarter, employment rose to 251, of whom 185 worked underground, but production came to only 128,114 tons. during the idle 4th quarter, only 61 employees were reported, 37 of them working underground. the tower (or aberdeen) mine was the site of a fatal outburst in january 2006 (before the murray takeover). last year the mine reported 13 lost-worktime injuries for a rate of 9.04 per 200,000 employee-hours, compared with a national average of 4.73 for similar operations, the msha database shows.
+
+
+
+posted by kathy snyder at 1:41 pm
+0 comments
+
+
+
+
+
+
+friday, march 28, 2008
+
+
+
+	 
+	 when is a miner not a miner?
+	 
+    
+
+
+the moment he steps off mine property. but all the same, let's have a moment of silence for the unnamed victim of the latest fatal mine-related accident in west virginia. the charleston gazette:a massey energy worker was killed thursday when he tried to help free a trailer that was stuck on a steep railroad crossing in logan county, officials said....amy louviere, a spokeswoman for the u.s. mine safety and health administration, said msha does not have jurisdiction because the accident didn't occur on mine company property.c.a. phillips, deputy director for the state office of miners health, safety and training, said his agency would not investigate for the same reason.warren flatau, a spokesman for the federal railroad administration, said his agency would probably not investigate either.the fra investigates only a small number of railroad grade crossing accidents per year, flatau said. the agency would send someone later to look at the crossing and see if steps could be taken to make it safer, he said.msha's louviere said the victim was employed at massey company highland mining's nearby freeze fork surface mine.osha is investigating this accident. but mining companies and miners would do well to be warned of the hazard involved, since many mines depend on rail transport.the fra warns truck drivers that vehicles with low clearances can easily get stuck on "humpbacked" railroad crossings. the agency says a train and a stuck low-clearance trailer collide on average once every two weeks nationwide.details:the accident occurred at a steep, or "humpbacked," railroad crossing along w.va. 17 near stollings, authorities said.a truck was crossing the tracks pulling a "low boy" trailer when the trailer became stuck on the crossing.the victim, an employee of massey's mass transport subsidiary, was attempting to free the trailer when he was struck by a piece of metal, said massey spokesman jeff gillenwater."it was saddle-bagged on the railroad tracks," said logan county sheriff eddie hunter. "they attempted to jack it up and something flew out and hit the gentleman." authorities were notifying the family before identifying the victim. msha administrator kevin stricklin has advised that we can mark our calendars to expect the federal agency's crandall canyon report in approximately late june, the salt lake tribune reports.kevin stricklin, administrator over msha's coal division, said the investigative team headed by richard gates has conducted all of its interviews, reviewed thousands of documents and currently is writing a draft report at an msha facility in tridelphia, w.va. he was hesitant to speculate on a more precise completion date, noting that crandall canyon mine operator murray energy corp. and its utah subsidiaries are still submitting information to investigators. "it's our responsibility to go through every page," said stricklin of the need for a thorough probe of the mining disaster.... if history is any guide, the agency will need longer than estimated to complete the report, but officials will be under tremendous pressure to get the report out ahead of the anniversary date of august 6 if at all possible. this will allow the agency to take charge of the story lead at that time and defuse criticism before a spate of "anniversary" stories hits.  last week, msha fined murray energy $420,000 for two flagrant violations of safety regulations at the tower mine, contending the company repeatedly allowed buildups of potentially explosive coal dust there. stricklin said msha has issued 50 flagrant violation orders, seeking fines totaling $7.1 million, since the repeat-offense citation was created as part of the 2006 mine emergency and response act (miner), enacted after three eastern disasters early that year. ....the tribune recently praised msha for its use of the new, higher penalties for "flagrant" violations, using a somewhat fanciful extended metaphor: the federal mine safety and health administration has a powerful weapon.... one that hits mining companies where it hurts... but a weapon is only useful as a deterrent if there is reason to believe it will actually be fired....msha pulled the trigger thursday - twice - blasting murray energy subsidiary andalex resources inc. with a pair of fines totalling $420,300... murray managers, it seems, got what they were asking for... and the rest of the industry should pay heed. the much-maligned msha appears to be locked and loaded and ready and willing to pull the trigger. whooooeee, mining industry. clint eastwood is headed your way. in the health department, a kentucky coal miner has filed suit in an effort to force msha to reduce the respirable dust standard. the charleston gazette again; letcher county miner scott howard filed his suit thursday in u.s. district court in eastern kentucky. howard wants judge karen k. caldwell to force the labor department's mine safety and health administration to issue a tougher limit governing coal miners' exposure to respirable coal dust. msha, howard says in his lawsuit, has a "plain legal duty to promulgate a respirable dust regulation that will eliminate respiratory illnesses caused by work in coal mines."the suit asks that msha be ordered to issue the tougher dust limit as an emergency temporary standard, a move allowed only if msha believes miners are at "grave danger from exposure to substances or agents determined to be toxic or physically harmful"...howard is represented by stephen a. sanders, a lawyer with the appalachian citizens law center in whitesburg, ky., and by nathan fetty, a lawyer with the mine safety project of the appalachian center for the economy and the environment. if exposure to respirable dust is an emergency, it's also a long-running one. almost 8 years ago, in the closing days of the clinton administration, then-msha chief davitt mcateer was desperately trying to push through a regulatory change in the way coal mine dust exposure is determined for enforcement purposes -- away from requiring an average of 5 samples, each taken over a whole shift, to a system where the agency could take action based on one sample showing an overexposure over the course of a whole shift. (the effort to make that simple change had been going on for years, in the face of  multiple legal entanglements.) mcateer argued that the 5-sample requirement had no scientific basis and resulted in many individuals experiencing overexposures -- even under the current 2.0 mg/cubic meter standard -- without msha being able to do anything about it. the proposed change in protocol almost made it through the last set of regulatory hurdles before the white house changed hands -- but not quite.  subsequently, industry and labor organizations agreed that they would prefer to wait for approval of a continuous reading dust monitor that a miner could wear. the new monitor was under development by niosh and billed as close to completion. miners are still waiting for an improved sampling system. that's another 8 years of breathing coal dust in essentially the same conditions.   meanwhile, reducing the dust standard would be another way of achiving greater protection. sidelights: the national mining association recently found itself in the news as ap reported it spent about $4.1 million in 2007 to lobby the government on mine safety and coal technology, among other issues...the national mining association spent $2.4 million in the second half of the year lobbying the federal government on its own behalf, according to a disclosure form posted online feb. 13 by the senate's public records office....the trade group -- whose more than 325 member companies include arch coal inc., foundation coal holdings inc. and terex corp. -- spent $1.7 million in the first six months of 2007 to lobby on largely similar matters...lobbyists are required to disclose activities that could influence members of the executive and legislative branches, under a federal law enacted in 1995.nice work if you can get it.and if you happen to be in washington, the post reports, you might be interested in an upcoming concert next tuesday or wednseday evening out at wolf trap farm park:singer kathy mattea grew up in west virginia; both of her grandfathers were coal miners and her mother worked for the united mine workers. after 12 miners died in the sago mine explosion in 2006, she resolved to make an album of the coal-mining songs she had been stockpiling for years. "coal" combines the mountain string-band sound of her roots with the studio polish of her nashville stardom far better than might be expected. on the other hand, if you're one of those folks with the nma, you might not.the album climaxes with mattea's take on hazel dickens's classic protest song, "black lung"... mattea's song choices are astute: you can't beat...merle travis's "dark as a dungeon" or darrell scott's "you'll never leave harlan alive." does anybody out there know any songs about how great it is to be a miner, or even a mine operator? or maybe a lobbyist?
+
+
+
+posted by kathy snyder at 10:27 am
+0 comments
+
+
+
+
+
+
+thursday, march 27, 2008
+
+
+
+	 
+	 shaaaaaaaaaaamed
+	 
+    
+
+
+after waaaaaaaaaaaay too long. been feeling bad about the gap for ages. trouble is, guilt is the most paralyzing emotion. but onward. first, updates related to a couple of fatal cases: the state of kentucky has come out with its report on the death of roy douglas sturgill ii, 29, this january 8 at the cumberland river coal co. blue ridge surface mine, the herald-leader reports.    kentucky mine safety officials have issued multiple citations in the death of a young miner who backed his rock truck over a highwall at a letcher county strip mine. ...sturgill...had worked at the blue ridge mine in ovenfork for less than three week...backed his caterpillar rock truck over a dumping point at 12:45 a.m....there are no monetary fines for citations issued by the state on strip mines.... this was the first u.s. coal mining death in 2008. the msha report is still pending along with several others from last year.  ap picked up that msha has proposed some substantial fines at the genesis, inc., troy mine in lincoln county, mont. but read carefully: the agency database as of today indicates that a penalty remains to be proposed for the single violation cited as contributory in the death of underground mechanic michael e. ivins, 55, last july 30. the roof fell on him as he sat in the cab of a truck. msha cited the alleged contributory violation last august, stating:adequate ground support was not installed and maintained in the area to control the ground. the mine operator had knowledge of the unstable ground conditions in the area where the accident occurred. failure to install and maintain adequate ground support to protect miners from ground fall hazards constitutes more than ordinary negligence and is an unwarrantable failure to comply with a mandatory standard.ap is saying msha has now proposed the penalties for several alleged subsequent violations. the fines...include $38,500 for not keeping workers safe while removing loose rock from the underground mine's ceiling and $44,600 for not properly supporting the mine's roof.the company is contesting those alleged violations.the journal of public health reportedly is about to publish a study showing that health effects from coal mining extend beyond mine workers.  according to the salt lake tribune, wvu [west virginia university] says the study found hospitalization rates rise with coal production and that coal pollution may kill 313 west virginians a year. the website science daily has more:“residents of coal-mining communities have long complained of impaired health,” michael hendryx, ph.d., associate director of the wvu institute for health policy research in wvu’s community medicine department, said. “this study substantiates their claims. those residents are at an increased risk of developing chronic heart, lung and kidney diseases...."we’ve considered that chronic illness might be prevalent in these areas because rural west virginians have less access to health care, higher smoking rates and poorer economic conditions,” hendryx said. “we’ve adjusted our data to include those factors, and still found disease rates higher in coal-mining communities.”...their next steps are to directly measure air and water quality in coal-mining communities.foreign news: china has jailed some mine managers held responsible for a disastrous explosion. shijiazhuang, march 25 (xinhua) -- nine coal mine managers were sentenced to between two and six years in jail for a coal mine blast that killed 108 miners and injured 29 others in north china's hebei province...shang zhiguo, head of the liuguantun colliery, was sentenced to six years in jail...the deputy head li qixin, who was also in charge of production safety, was jailed for five years... the coal mine investor zhu wenyou and head of the mine safeguard department lv xuezeng were jailed for three years each. the mine ventilation department chief liu wencheng was jailed for fours years. another four managers were sentenced to between two and four years in jail...the gas blast was a serious accident caused by the illegal operation of the mine, li yizhong, former director of the state administration of work safety, had said. the coal mine was still under construction and did not have a production licence...the original design of the coal mine had been changed without approval... the coal mine, formerly state-owned and with a designed annual production capacity of 300,000 tons, was privatized in 2002.  unfortunately, two new disastrous accidents in chinese mines also are in the news: zhengzhou, march 27 (xinhua) -- two rescue operations in chinese collieries to save a total of 10 miners trapped underground after separate accidents left a total of 10 dead. nine died in the first accident in a gas outburst in central china's hunan province at about 6:30 p.m. wednesday... three workers managed to escape from the blast, which brought about 100 tons of coal down from the coal bed. four teams of rescuers were on rotation in the rescue operation, but tunnels were blocked by rubble that hindered the search. the mine's operating permit and production license expired early last year, and it was not approved for operation, either, said peng youming, vice director of chenzhou city coal mine safety bureau.the gas monitoring system had not been in use due to a breakdown before the accident, peng said. the colliery was privately owned and being merged with other mines under the local government's plan to reform the mining industry. another miner is dead and five are trapped below ground after a coal pit collapsed on wednesday in central china's henan province.... rescuers found two injured people, one of whom died later in hospital. police are seeking the owner of the privately owned coal mine, qin said.... finally, oh, the shame. someone has recently created a small flurry in the blog world with a new website titled "shameonelaine" that focuses on secretary of labor elaine l. chao. among the complaints made on the website are a number related to mine safety. i have no idea who these people are, and was surprised to notice they listed minesafetywatch in their blogroll. the least i could do, i feel is to make sure there is something current on the minesafetywatch website in case anyone follows the link. the long gap since the previous entries really has been a matter of shame to me.
+
+
+
+posted by kathy snyder at 3:48 pm
+2 comments
+
+
+
+
+
+
+saturday, november 17, 2007
+
+
+
+	 
+	 crandall canyon and political will
+	 
+    
+
+
+any major mine disaster can be counted upon to dominate msha's agenda for at least one full year afterwards. the crandall canyon disaster this august continues to make national headlines.the senate appropriations subcommittee has subpoenaed mine owner robert murray, cnn reported:  washington (cnn) -- a senate subcommittee probing this summer's deadly utah mine disaster has subpoenaed the mine's co-owner, ranking member sen. arlen specter said friday.the subpoena for bob murray -- ceo and president of murray energy group -- directs him to appear before the appropriations subcommittee on labor, health and human services on december 4...."we're going to get to the bottom of what went on there," said specter, r-pennsylvania."murray is an indispensable witness, and, candidly, he really flouted the authority and responsibility of the united states senate to have his testimony to find out what happened so we could do our utmost to prevent future occurrences."...murray was invited to testify in an earlier appropriations subcommitee hearing but did not appear.  the department of labor released an inspector general report of msha conducted at the behest of rep. george miller.  the washington post: report faults mine safetyby spencer s. hsuwashington post staff writer saturday, november 17, 2007; page a08 u.s. mine safety regulators failed to conduct inspections required by federal law at more than one in seven of the country's 731 underground coal mines last year, a year in which the number of worker deaths in mining accidents more than doubled to 47, a government report says. budget constraints and a lack of management emphasis on worker safety by the bush administration are responsible for the lapses, the labor department inspector general said in a report released yesterday.... the findings are likely to fuel a partisan battle heading into next year's presidential elections, as democrats in congress, mine worker unions and safety advocates clash with the administration and mining companies over whether the labor department has struck a proper balance between investigating unions and worker safety, and in seeking voluntary compliance from mine companies with regulations instead of assessing fines.... the report also found that msha officials misdated records of the most recent inspections at the crandall canyon mine. in one case, an msha field supervisor dated his approval of the mine's roof-control plan in february, four months before the may 30 start of the inspection.... ...david james, a spokesman for labor secretary elaine l. chao, said the department disagrees with several elements of the report. department officials look forward, he said, to the conclusions of an independent panel, appointed by chao to investigate msha's performance during the crandall canyon disaster. ...richard e. stickler, assistant secretary of labor for mine safety and health, said 70 percent of the uncompleted inspections were at mines that were "non-producing, inactive, intermittent or abandoned" during the inspection period. ..."valuable and limited enforcement time by our inspectors should be placed primarily on identifying and abating hazards as a result of inspections rather than documentation and paperwork," he wrote. ...the inspector general's office found that the msha missed 147 inspections at 107 mines employing a total of 7,500 workers. the report found that inspection resources were strained by a cut in inspectors and an increase in mining operations and accidents that had to be investigated. there was also less money for non-personnel costs and additional agency requirements, the report says. the number of msha coal mine inspectors fell 18 percent between 2002 and 2006, from 605 to 496, while mining activity increased 9 percent nationally. funding for the coal safety and health agency increased 1 percent over that period, to $117 million, but that was not enough to offset cost-of-living salary increases for its personnel, which grew $6.1 million. the msha has hired 270 inspector trainees since july 2006, launched a plan last month to reassign inspectors and boost overtime, and asked for money to add 244 workers next year. auditors also said that msha officials misstated inspection statistics in reports and on the agency's web site, partly because "management did not place adequate emphasis on ensuring the inspections were completed and the reported completion rate was accurate." staff researcher madonna lebling contributed to this report.and the charleston gazette brought out another aspect:  november 16, 2007 msha count called ‘inconsistent’labor report questions mine fatality proceduresby ken ward jr.staff writer the u.s. department of labor’s procedures for counting mining deaths are inconsistent and don’t follow the agency’s own written rules, according to a new audit report from the department’s inspector general.investigators did not find instances where the departments’ mine safety and health administration decisions were “clearly contradicted by available evidence.”but the report identified instances of non-compliance with msha policies and “control and procedural weaknesses that increased the risk that such errors could occur.”“we found that investigators and decision makers lacked independence, investigative procedures were inconsistent, and investigative documentation was sometimes lacking,” the ig said in a report issued thursday.... starting in late 2003, the united mine workers began complaining that msha was not counting certain types of accidents that had previously been deemed chargeable. they cited examples: truck drivers, security guards, and loggers who cut trees in advance of strip mining.in february, after looking into the matter, msha chief richard stickler issued a new policy that critics say tightens the definition of a mining death.but the issue has remained controversial. just last week msha agreed to designate as chargeable the november 2005 death of a coal trucker at mettiki coal in grant county. msha did so after a charleston gazette article detailing the circumstances of trucker chad cook’s death....the ig recommended that msha, among other things, add an independent member to its fatality review committee, implement standard investigative protocols for all death investigations, and create a quality assurance program for documentation of investigative information.an interview with sen. jay rockefeller (d-wv) made ink as far away as mineral wells, texas.  rockefeller doesn't think new laws are needed for better mine safety enforcement.  his take is that it's more a matter of management, budget and political priorities.     november 15beckley, w.va. — enacting a new federal law is no solution to safety concerns in the coal industry since there is ample legislation in force to get the task done — if the mine safety and health administration would only do it, west virginia sen. jay rockefeller says...in response to last year’s tragedy that left a dozen underground coal miners dead at the sago mine, congress passed the miner act, calling for increased safety measures, but since then, the united mine workers of america has complained that msha has been lax in enforcing it.of chief concern with the umwa has been the spotty record of conducting mandatory inspections.“i don’t need a federal law to tell me to do my best every day,” rockefeller, d-w.va., said. “i just don’t.”with inspections held in limbo at some installations, are some coal companies exploiting the situation?bristling at the question, rockefeller said, “that’s a provocative question.”“i don’t think that coal in this state has always taken every single advantage they could have, every possible thing they could do on their own,” he said....rockefeller said he has had “a very low regard” for msha under the bush administration, and criticized director richard strickler as “an anathema to me.”“i’m not sure that what you do is try to pass another bill, add some more things on,” the senator said. “first of all, it’s going to get vetoed.”secondly, mine issues appeal to a much narrower audience since coal is produced in only 16 states, unlike the state children’s health insurance program which is in force across the entire country, he noted.“msha is meant to do rules and regulations and meant to have inspections all over the place,” he said.rockefeller suggested its failure to carry out its mission could lie in the daily $2 billion outlay to keep the war going in iraq, combined with $3 trillion in tax cuts — “virtually all of which i voted against, except the earned income tax credits and things of this sort.” those have just “wrecked this country,” he said....
+
+
+
+posted by kathy snyder at 12:47 pm
+0 comments
+
+
+
+
+
+
+monday, october 01, 2007
+
+
+
+	 
+	 e-mail
+	 
+    
+
+
+to person from ld productions: i can be reached by e-mail: ncwaort5 (at) aol.com  also left a phone message at the ny office, but don't know if you'll receive it, since i only had your screen name.
+
+
+
+posted by kathy snyder at 8:44 pm
+0 comments
+
+
+
+
+
+
+thursday, september 06, 2007
+
+
+
+	 
+	 hearing yesterday
+	 
+    
+
+
+the first congressional hearing on crandall canyon took place yesterday before the appropriations subcommitee that oversees msha. in general capitol hill seemed unusually quiet in the wake of the labor day holiday.  in attendance at the hearing: committee chairman tom harkin (d-iowa), ranking member arlen specter (d-pa.), robert c. byrd (d-w.va.) who heads the full committee, patty murray (d-wash.), and both of utah's senators, orrin hatch and robert bennett. this hearing, though, ran long as msha chief richard stickler answered a raft of questions.  there was, justifiably, a lot of focus on the approval of the roof control plan for crandall canyon. stickler declined to endorse the plan pending investigation. former msha chief davitt mcateer said it should never have been approved, as did umwa president cecil roberts.  bruce watzman of the nma focused in mainly on the difficult effort to achieve true wireless, 2-way underground communication, in which there is some progress.  mcateer described and supplied, for display, a device that can monitor ground movements and help identify a rising risk of outbursts.  these have been used routinely in south africa, he said, and the u.s. may need them now as our western coal mines plunge ever deeper. he said that excessive ground pressure can be relieved by controlled explosions if necessary.though there were many questions about the rescue effort, there was no direct criticism of the decision to keep rescuers at work despite outbursts that occurred as they were trying to clear and support a passage to the area of the missing miners. listening to the narrative was heartbreaking all over again. stickler said that until the final outburst that caused three fatalities, none of the other outbursts during the rescue disturbed the heavy-duty roof support the crews were putting in place as they went.  i had not previously heard that one miner at crandall canyon actually got notice of the order to evacuate via a "wireless" communication system that was publicized after sago last year. this piece of information was mentioned by bruce watzman. in addition to the peds, the mine had a redundant hard-wired communication system in two separate entries, stickler said, but the original massive outburst or collapse on august 6 ripped wire mesh down from the roof and the wires along with it. no absolutely wireless system exists at present that will penetrate throughout a mine; all depend on some kind of wire "backbone" at least, but it was good to learn that the peds did make a difference to one miner, anyway.
+
+
+
+posted by kathy snyder at 7:48 am
+2 comments
+
+
+
+
+
+
+wednesday, september 05, 2007
+
+
+
+	 
+	 msha has posted
+	 
+    
+
+
+all of the crandall canyon fatalities to its website as of yesterday afternoon. apparently the agency distributed a statement on saturday, september 1 (see comment on yesterday's entry), though that statement still doesn't seem to be on the website. commenter tom bethel also correctly pointed out that this is only the worst accident since last year. the sago explosion, january 2, 2006, caused 12 fatalities.  apologies for the error. more this afternoon.
+
+
+
+posted by kathy snyder at 7:41 am
+0 comments
+
+
+
+
+
+
+tuesday, september 04, 2007
+
+
+
+	 
+	 in memoriam
+	 
+    
+
+
+yesterday marked 4 weeks since the crandall canyon mine collapse.  msha told families of the missing crandall canyon miners that the search for them  would not continue, a family spokesman told reporters. the announcement to the families reportedly came late on friday before the three-day labor day holiday.  search for missing crandall canyon miners halted by christopher smart and donald w. meyersthe salt lake tribune article last updated: 08/31/2007 08:53:06 pm mdtcolin king, attorney for the miners' families, said this evening the officials with the federal mine safety and health administration told the families that the search was "done, it's finished," and there are no plans to resume it. the msha representatives, whom king did not identify, also told the families during a briefing at the desert edge christian church that the miners - missing since a horrific collapse on aug. 6 - are considered to be dead. it seems a little surprising that there appeared to be no official announcement by msha. as of 10:30 this morning, the agency hadn't updated its crandall canyon page since last thursday, when official investigations were announced, and had not added the six missing miners to its official fatality statistics.is it possible that the news is not entirely correct or complete? i remember sago so well -- staying up for 2 hours hearing news, via family members, that all the miners had survived.  it was puzzling not to have an official announcement at sago, but after 2 hours without a correction from government officials, there seemed no reason to doubt the information. how wrong that turned out to be.again, there seems to be no reason to doubt the information, but why has it not come directly from the federal agency?  in the miner act passed in response to sago, congress directed msha to take the lead with the media during emergencies.  still, it seems most likely that msha's official announcement is merely being held off for some reason. on that assumption(footnote, salt lake tribune):o o o o o o o o o o o o o o o o o o o o o o o o in memoriamthe missing crandall canyon minerskerry allreddon ericksonluis alonso hernandezjuan carlos payan brandon phillipsmanuel sanchezthe rescuersdale r. black gary l. jensen brandon kimber o o o o o o o o o o o o o o o o o o o o o o o o may they never be forgotten. in addition, let us remember six more injured in the rescue effort, who, i believe, have never been identified, although one is known to be an msha employee.altogether, this is the worst disaster in almost 6 years. there is a sad similarity to the previous tragedy on september 23, 2001, in which 13 coal miners died. a methane explosion had injured one miner; the other 12 were rushing to his aid when the second explosion occurred.
+
+
+
+posted by kathy snyder at 10:23 am
+1 comments
+
+
+
+
+
+
+
+
+
+
+
+about me
+
+name:  kathy snyder 
+location:  arlington, virginia, united states 
+from 1978 until 2004 i worked as a career civil servant in the federal mine safety and health administration, where my areas of reponsibility included media relations, the freedom of information act, and other aspects of the agency's public information program.
+view my complete profile
+
+previous posts
+
+change of address
+inspector general issues crandall canyon report
+stickler's arithmetic
+behind (at) the (new york) times?
+closure announced of struggling tower mine
+when is a miner not a miner?
+shaaaaaaaaaaamed
+crandall canyon and political will
+e-mail
+hearing yesterday
+
+archives
+
+december 2004
+january 2005
+february 2005
+april 2005
+june 2005
+july 2005
+november 2005
+december 2005
+january 2006
+february 2006
+march 2006
+april 2006
+may 2006
+june 2006
+september 2006
+october 2006
+november 2006
+december 2006
+january 2007
+july 2007
+august 2007
+september 2007
+october 2007
+november 2007
+march 2008
+august 2009
+
+
+
+
+
+
+
+
+
+ 
+
+
+

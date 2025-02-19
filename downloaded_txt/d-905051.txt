@@ -1,0 +1,216 @@
+
+
+rosella software - data mining / machine learning / predictive modeling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ rosella
+
+      machine intelligence & data mining
+
+
+
+
+
+home
+data mining & machine learning
+downloads
+site map
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+computer vision & edge computing
+
+
+
+computer vision in edge computing devices is a reality.
+cmsr machine learning studio enables 
+edge computing devices computer vision. it can generate high performance 
+program codes that are very efficient and fast with small foot print.
+for more on computer vision on edge computing devices, please read;
+
+
+single board computers
+raspberry pi
+orange pi
+
+
+
+rule engine with machine learning
+
+
+
+data is knowledge!
+in this age of machine learning, good knowledge can be extracted from good data
+by automatic means using machine learning algorithms. good data can result in good 
+predictive models that can be used as important risk management tools.
+
+
+rule-based model evaluation with event processing (rme-ep) is a very powerful expert system shell rule engine, incorporating predictive modeling machine learning algorithms, such as neural network, self organizing maps, decision tree, regression, time series, statistical functions, and so on. it combines rule engine with machine learning. for more;
+
+
+rule engine with machine learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+risk management and deep learning
+
+
+
+good news! you can develop decision support expert systems using deep learning techniques very easily. 
+what you need is relevant data for deep learning.
+
+
+risk management is an important area for financial industry. to know how predictive modeling
+and deep learning can be used for risk management, recommend to read the following pages;
+
+
+credit risk prediction
+credit risk predictive modeling
+credit risk machine learning
+credit risk deep learning
+insurance claims prediction
+insurance claims predictive  modeling
+insurance claims risk machine learning
+insurance claims risk deep learning
+
+
+
+
+
+big performance enterprise solutions
+
+
+
+rosella predictive modeling provides complete enterprise solutions from model development 
+to model deployment over web and android devices. high performance web server and 
+powerful neural network and rme-ep combination can be essential for enterprise risk management. 
+for more information on risk management and predictive modeling, please visit the following links; 
+
+
+credit risk modeling
+insurance risk modeling
+
+
+
+
+
+
+
+
+
+
+
+big data analytics
+
+
+
+cmsr data miner / machine learning / rule engine studio provides
+reporting tools and data visualizations, supporting advanced techniques such as
+regession with smoothing, seasonal adjustment, and hotspot visualization.
+
+
+for more, please read big data analytics.
+
+
+
+
+
+database marketing
+
+
+
+customer database provides rich customer information.
+predictive analytics can identify customer tendencies 
+which can be used in developing marketing plans;
+
+
+sales trend analysis and sales forecasting (excel addin tools)
+time series analysis and tools
+database marketing
+customer segmentation
+direct mail catalog marketing
+rfm marketing
+
+
+
+
+
+marketing survey research
+
+
+
+marketing survey research is essential part of marketing.
+predictive analytics can automatically identify important 
+factors from survey data and build predictive models.
+for more, please read 
+marketing survey analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© copyright 2005-. all rights reserved. 
+        	
+
+
+
+
+
+
+
+
+
+
+
+

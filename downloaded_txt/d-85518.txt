@@ -1,0 +1,1859 @@
+
+
+
+  
+
+
+
+
+analog | embedded processing | semiconductor company |  ti.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+internet explorer is not a supported browser for ti.com. for the best experience, please use a different browser.
+
+
+close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+products
+
+
+close
+
+
+
+
+
+
+amplifiers
+audio
+battery management ics
+clocks & timing
+data converters
+dlp® products
+interface
+isolation
+logic &  voltage translation
+microcontrollers (mcus) & processors
+motor drivers
+passive & discrete
+power management
+rf & microwave
+sensors
+switches & multiplexers
+wireless connectivity
+new products
+products by applications or technologies
+die & wafer services
+calculators & education technology
+cross-reference search
+
+
+
+
+
+
+
+
+amplifiers 
+
+
+
+
+
+
+
+
+
+audio 
+
+
+
+
+
+
+
+
+
+battery management ics 
+
+
+
+
+
+
+
+
+
+clocks & timing 
+
+
+
+
+
+
+
+
+
+data converters 
+
+
+
+
+
+
+
+
+
+dlp® products 
+
+
+
+
+
+
+
+
+
+interface 
+
+
+
+
+
+
+
+
+
+isolation 
+
+
+
+
+
+
+
+
+
+logic &  voltage translation 
+
+
+
+
+
+
+
+
+
+microcontrollers (mcus) & processors 
+
+
+
+browse by technology
+
+
+
+digital power
+
+
+edge ai
+
+
+functional safety
+
+
+industrial communication
+
+
+motor control
+
+
+product cybersecurity
+
+
+wireless connectivity
+
+
+
+
+
+
+
+
+
+
+
+
+motor drivers 
+
+
+
+
+
+
+
+
+
+passive & discrete 
+
+
+
+
+
+
+
+
+
+power management 
+
+
+
+browse by architecture
+
+
+
+
+buck (step-down)
+
+
+
+buck-boost & sepic
+
+
+
+boost (step-up)
+
+
+
+bridge
+
+
+
+digital power
+
+
+
+flyback & flybuck
+
+
+
+gan technology
+
+
+
+multiphase
+
+
+
+pfc & llc
+
+
+
+pulse-width modulation (pwm)
+
+
+
+synchronous rectification
+
+
+
+
+find power for embedded systems
+ti carries a range of solutions for your project
+
+
+
+
+
+
+
+
+
+
+
+
+rf & microwave 
+
+
+
+
+
+
+
+
+
+sensors 
+
+
+
+
+
+
+
+
+
+switches & multiplexers 
+
+
+
+
+
+
+
+
+
+wireless connectivity 
+
+
+
+browse by architecture
+
+
+
+
+amazon sidewalk
+
+
+
+bluetooth low energy
+
+
+
+matter
+
+
+
+mioty
+
+
+
+proprietary wireless protocols
+
+
+
+thread
+
+
+
+wi-fi 6
+
+
+
+wi-sun
+
+
+
+wireless m-bus
+
+
+
+wireless multiprotocol
+
+
+
+zigbee
+
+
+
+
+
+
+
+
+
+
+products by applications or technologies
+
+
+
+
+applications
+
+
+
+
+
+aerospace & defense
+
+
+
+
+
+automotive
+
+
+
+
+technologies
+
+
+
+
+
+baw resonator technology
+
+
+
+
+
+current-sensing solutions
+
+
+
+
+
+digital i/o
+
+
+
+
+
+edge ai
+
+
+
+
+
+functional safety
+
+
+
+
+
+gallium nitride (gan)
+
+
+
+
+
+industrial communication
+
+
+
+
+
+isolation
+
+
+
+
+
+motor control
+
+
+
+
+
+product cybersecurity
+
+
+
+
+
+usb type-c
+
+
+
+
+
+voltage-sensing solutions
+
+
+
+
+
+
+
+
+
+
+
+applications
+
+
+close
+
+
+
+
+
+automotive 
+
+
+
+advanced driver assistance systems (adas)
+
+
+body electronics & lighting
+
+
+hybrid, electric & powertrain systems
+
+
+infotainment & cluster
+
+
+software-defined vehicle
+
+
+
+
+
+communications equipment 
+
+
+
+broadband fixed line access
+
+
+datacom module
+
+
+wired networking
+
+
+wireless infrastructure
+
+
+
+
+
+enterprise systems 
+
+
+
+data center & enterprise computing
+
+
+enterprise machine
+
+
+enterprise projectors
+
+
+
+
+
+
+
+industrial 
+
+
+
+aerospace & defense
+
+
+appliances
+
+
+building automation
+
+
+factory automation & control
+
+
+energy infrastructure
+
+
+industrial transportation
+
+
+medical & healthcare
+
+
+motor drives
+
+
+power delivery
+
+
+pro audio & video
+                            
+retail automation & payment
+
+
+robotics
+
+
+test & measurement
+
+
+
+
+
+
+
+personal electronics 
+
+
+
+connected peripherals & printers
+
+
+data storage
+
+
+gaming
+
+
+home theater & entertainment
+
+
+mobile phones
+
+
+pc & notebooks
+
+
+portable electronics
+
+
+tablets
+
+
+tv
+
+
+wearables (non-medical)
+
+
+
+
+
+
+
+reference designs 
+
+
+find reference designs leveraging the best in ti technology – from analog and power management to embedded processors
+all designs include a schematic, test data and design files
+
+
+
+
+technologies 
+
+
+
+baw resonator technology
+
+
+current-sensing solutions
+
+
+digital i/o
+
+
+edge ai
+
+
+functional safety
+
+
+gallium nitride (gan)
+
+
+industrial communication
+
+
+isolation
+
+
+motor control
+
+
+product cybersecurity
+
+
+usb type-c
+
+
+voltage-sensing solutions
+
+
+
+
+
+
+
+
+
+
+
+design & development
+
+
+close
+
+
+
+
+
+design &
+                            development 
+
+
+
+design
+                                & simulation tools
+
+
+hardware
+                                development
+
+
+packaging
+
+
+partner
+                                directory
+
+
+reference designs
+
+
+software
+                                development
+
+
+
+
+
+
+
+                                ti e2e™ design support forums 
+
+
+
+find answers or ask our engineers a new question.
+
+
+
+
+
+
+
+
+                            featured embedded development categories
+                    
+
+
+
+arm cortex-m0+
+                                mcus
+
+
+arm-based
+                                processors
+
+
+c2000 real-time
+                                microcontrollers
+
+
+wireless
+                                connectivity
+
+
+
+
+
+
+
+featured tools 
+
+
+
+code composer studio™ ide & development tools
+
+
+pspice® for ti
+
+
+ti developer zone
+
+
+webench®
+                                circuit designer
+
+
+
+
+
+
+
+featured educational
+                            content
+
+
+
+analog design journal
+
+
+embedded academy
+
+
+power supply design seminar
+
+
+ti precision labs training
+
+
+videos
+
+
+webinars
+
+
+
+
+
+
+
+
+
+
+
+quality & reliability
+
+
+close
+
+
+
+
+
+policies & procedures 
+
+
+
+anti-counterfeit
+
+
+general quality guidelines
+
+
+product change notification
+
+
+product life cycle
+
+
+product security vulnerabilities
+
+
+product shelf life
+
+
+quality system manual
+
+
+
+
+
+quality, reliability & packaging data download 
+
+
+view or download reports with material content, device marking, mtbf/fit estimates, ongoing reliability monitoring, and qualification summary
+
+
+
+
+
+
+environmental information 
+
+
+
+material content search
+
+
+packing material information
+
+
+lead-free (pb-free)
+
+
+
+
+
+reliability 
+
+
+
+qualification summary
+
+
+reliability terminology
+
+
+reliability testing
+
+
+mtbf/fit estimator
+
+
+reliability calculators
+
+
+ongoing reliability monitoring
+
+
+
+
+
+
+
+certifications & standards 
+
+
+
+certifications
+
+
+functional safety
+
+
+industry standards
+
+
+isolation certifications
+
+
+part ratings
+
+
+product cybersecurity
+
+
+
+
+
+
+
+additional information 
+
+
+
+moisture sensitivity level search
+
+
+quality, reliability and packaging faqs
+
+
+failure analysis
+
+
+customer returns
+
+
+part marking lookup
+
+
+automotive ppap
+
+
+
+
+
+
+
+
+
+
+
+ordering resources
+
+
+close
+
+
+
+
+
+buying with ti 
+
+
+
+myti company accounts
+
+
+order history
+
+
+shipping, payment & taxes
+
+
+sample program
+
+
+high-reliability products
+
+
+
+
+
+
+
+ti api suites 
+
+
+
+ti api developer portal
+
+
+ti api support
+
+
+api how-to video series
+
+
+
+
+
+
+
+tools & information
+
+
+
+cross-reference search
+
+
+material attribute search
+
+
+carrier packaging options
+
+
+
+
+
+
+
+ordering support
+
+
+
+ordering faqs
+
+
+customer support center
+
+
+
+
+
+
+
+
+
+
+
+about ti
+
+
+close
+
+
+
+
+
+company 
+
+
+
+what we do
+
+
+who we are
+
+
+ti at a glance
+
+
+manufacturing 
+
+
+leadership
+
+
+events
+
+
+contact us
+
+
+
+
+
+
+
+newsroom
+
+
+
+news releases
+
+
+media resources
+
+
+company blog
+
+
+
+
+
+investor relations 
+
+
+
+financial information
+
+
+stock information
+
+
+investor resources
+
+
+governance
+
+
+investor events
+
+
+investor news
+
+
+
+
+
+
+
+corporate citizenship 
+
+
+
+environmental sustainability
+
+
+giving & volunteering
+
+
+public policy
+
+
+reporting & disclosures
+
+
+
+
+
+
+
+careers 
+
+
+
+search jobs
+
+
+view locations
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+close
+search
+
+
+
+
+
+
+
+myti
+
+
+
+
+close
+
+
+
+
+
+
+
+language
+
+
+
+
+close
+regional preferences
+
+
+
+
+
+
+
+
+
+my cart
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+visit ti at embedded world
+
+
+march 11-13
+
+nuremberg, germany | hall 3a, booth 131
+
+reimagine embedded systems with edge ai and connectivity technologies
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+build the robots of tomorrow
+
+
+get the resources you need to design safer, smarter humanoid robots
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+shaping the future with a software-first mindset
+
+
+read our latest blog to discover why the prioritization of software
+is essential for innovation, differentiation and scalability and our
+strategy to empower it
+
+read now
+
+
+
+
+
+
+
+
+
+
+
+
+
+design smarter with this engineer's guide to usb type-c®
+
+
+read our latest collection of insights on usb-c® and how you can easily design for it
+
+download now
+
+
+
+
+
+
+
+
+
+
+
+
+
+quiet the world, elevate your drive with advanced audio
+
+
+whether commuting to work or on a road trip, automotive audio has evolved from entertainment-only purposes to being an integral part of our driving experience. read our blog on highly-integrated, industry-leading audio processors that are transforming every drive.
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+the technologies enhancing everyday life
+
+
+learn why industrial applications are integral to leading a more sustainable, convenient and safer life
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+get support  
+find reference designs
+ 
+design & development  
+cross-reference search
+
+
+
+
+
+
+
+
+
+
+
+
+
+new products
+
+
+								view all new products
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+tmux7348f-ep
+
+
+
+
+						new
+					
+
+
+
+
+
+
+
+						analog switches & muxes
+					
+
+
+
+
+							tmux7348f-ep
+						
+
+
+active
+
+
+
+
+						enhanced product, ±60v fault-protected, 8:1 multiplexers with fault threshold and latch-up immuni
+					
+
+
+						approx. price (usd) 1ku | 11.75
+
+
+
+
+
+
+
+
+lmg3650r025
+
+
+
+
+						new
+					
+
+
+
+
+
+
+
+						gallium nitride (gan) power stages
+					
+
+
+
+
+							lmg3650r025
+						
+
+
+preview
+
+
+
+
+						650v 25mω toll-packaged gan fet with integrated driver, protection and zero-voltage detection
+					
+
+
+						approx. price (usd) 1ku | 7.37
+
+
+
+
+
+
+
+
+tmcs1123-q1
+
+
+
+
+						new
+					
+
+
+
+
+
+
+
+						hall-effect current sensors
+					
+
+
+
+
+							tmcs1123-q1
+						
+
+
+active
+
+
+
+
+						aec-q100 80arms hall-effect current sensor with afr and alert
+					
+
+
+						approx. price (usd) 1ku | 1.87
+
+
+
+
+
+
+
+
+sn54sc8t374-sep
+
+
+
+
+						new
+					
+
+
+
+
+
+
+
+						voltage translating flip-flops, latches & registers
+					
+
+
+
+
+							sn54sc8t374-sep
+						
+
+
+active
+
+
+
+
+						radiation-tolerant octal d-type flip-flops with logic-level shifter
+					
+
+
+
+
+
+
+
+
+tlc69638-q1
+
+
+
+
+						new
+					
+
+
+
+
+
+
+
+						automotive led drivers
+					
+
+
+
+
+							tlc69638-q1
+						
+
+
+preview
+
+
+
+
+						automotive, 48-channel, 100ma, functional safety-compliant local dimming backlight led driver
+					
+
+
+						approx. price (usd) 1ku | 3
+
+
+
+
+
+
+
+
+am62p
+
+
+
+
+						new
+					
+
+
+
+
+
+
+
+						arm-based processors
+					
+
+
+
+
+							am62p
+						
+
+
+preview
+
+
+
+
+						arm®cortex®-a53 soc with triple display, 3d graphics, 4k video codec for hmi
+					
+
+
+						approx. price (usd) 1ku | 24.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+					view all new products
+				
+
+
+
+
+
+
+
+
+
+
+6 feb 2025 | company blog
+software-defined future: why prioritizing software is essential
+how flexibility, interoperability and standardization in software are enabling tomorrow’s innovations 
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+our passion
+
+at our core, we have a passion to create a better world by making electronics more affordable through semiconductors. this passion is alive today as we continue to pioneer advances in integrated circuits. each generation of innovation builds upon the last to make technology smaller, more efficient, more reliable and more affordable – opening new markets and making it possible for semiconductors to go into electronics everywhere. we think of this as engineering progress.
+
+
+arrow-right who we are
+arrow-right what we do
+
+
+
+
+
+
+
+
+
+join our team
+our work is challenging and fast-paced, and it’s our people that make us great. do you want to change the world and love your job? join us.
+search open jobs
+
+
+ 
+
+
+
+
+
+
+
+
+our commitment to corporate citizenship
+
+
+downloaddownload our "2023 corporate citizenship report"
+
+90%percentage of shipped semiconductor products considered green that meet low-halogen industry requirements.
+
+100%human rights campaign's equality 100 for our commitment to lesbian, gay, bisexual, transgender and queer employee equality for the seventh year in a row.
+
+100most sustainable companies recognition by barron’s for the fifth consecutive year.
+
+
+22%reduction of our greenhouse gas (ghg) emissions from 2015 to 2023 - making progress towards our 25% reduction goal.
+
+84%of solid waste materials generated were diverted from landfills in 2023.
+
+$62 millionof philanthropic donations, in partnership with the ti foundation, ti employees and retirees, to support our local communities.
+
+
+
+*numbers accurate as of 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

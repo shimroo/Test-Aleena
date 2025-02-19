@@ -1,0 +1,280 @@
+
+
+
+
+
+
+
+
+
+
+
+| jere matlock blog - the web journal of jere matlock. observations on website design, seo and much more....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+navigation
+
+
+
+| jere matlock blog
+the web journal of jere matlock. observations on website design, seo and much more....
+
+
+
+
+home
+
+home
+robin williams
+quotes
+about
+
+resources
+
+
+stories
+
+four holidays
+the bicycle
+child of the devil
+savage orange beast
+
+
+poems
+
+if we live forever
+momentum
+this slender moon
+cyclone of affection
+
+
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+return to content
+
+
+
+
+
+
+you are here: home
+
+
+
+comparing apples to oranges (or seconds to bytes) 
+by jere matlock on april 28, 2022 in opinion 
+
+i got to thinking about the structure of storage on hard drives: bytes, kilobytes, megabytes, gigabytes, terabytes, and so on, how does that compare to time? specifically seconds, comparing them to bytes. how long is a kilosecond, a megasecond, a gigasecond…? you get the idea. each jump is achieved by multiplying it by 1024 (not […]
+
+
+
+continue reading  0 
+
+
+
+late daffodils 
+by jere matlock on march 7, 2022 in opinion 
+
+after living on a ranch in the middle of nowhere for 17 years, in the “banana belt” of warm southern oregon, where all the daffodils comply with some genetic directive to always bloom on valentines day, it is mildly distressing that the daffodils in our yard here near seattle have different inherent programming. these flowers […]
+
+
+
+continue reading  0 
+
+
+
+snow day 
+by jere matlock on february 13, 2021 in opinion, photography 
+
+today we’re enjoying about six inches of snow on the ground here in the seattle area. the dog and i walk a mile every morning, and this morning was no exception; we saw people sledding down the driveways, shoveling out paths through the snow to their mailboxes, and driving three miles an hour down our […]
+
+
+
+continue reading  0 
+
+
+
+locked down 
+by jere matlock on april 10, 2020 in uncategorized 
+
+i write this during the lockdown in place in washington state, in the midst of the cv-19 pandemic pandemonium. my wife and i are not watching the news because the raw facts are upsetting enough, without being twisted by hyperventilating, data-distorting, lying, and agenda-driven newscasters. i dislike and distrust the slanted, biased nature of modern […]
+
+
+
+continue reading  0 
+
+
+
+finished server migration 
+by jere matlock on september 30, 2019 in opinion 
+
+our server migration project — getting dozens of websites off an old server, was completed in august. ten troublesome websites (running outdated php and old xcarts and such) were put onto an intermediate server, a virtual machine running an old version of centos. we’ve been updating those sites one at a time. two have already […]
+
+
+
+continue reading  0 
+
+
+
+migrating to new server 
+by jere matlock on april 2, 2019 in opinion 
+
+i host about 40 websites; mostly my marketing clients who want a leg up on great hosting without paying exorbitant rates. our old server box is getting too “long in the tooth” and needs to be replaced. so on top of everything else in my very busy schedule, i now need to move 40 websites […]
+
+
+
+continue reading  0 
+
+
+
+netbeans 8.2 fonts too small 
+by jere matlock on april 13, 2018 in web design 
+
+on my 4k monitor, the default fonts that come up on netbeans are so small as to be truly microscopic, as in one needs an actual microscope (or at least a magnifying glass) to read them. netbeans (when you can read it!) is very useful for website development, so this is not a trivial issue. […]
+
+
+
+continue reading  0 
+
+
+
+crazy seo experiments:  my takeaways 
+by jere matlock on january 16, 2018 in search engine optimization 
+
+will critchlow of distilled.net and larry kim of wordstream recently collaborated on a podcast called 10 seo experiments that will blow your mind. it’s an hour of information that’s well worth watching if you’re tasked with seo or management of google adwords accounts. i pulled out my takeaways from the video and started sending some […]
+
+
+
+continue reading  0 
+
+
+
+a terrific resource for word lovers 
+by jere matlock on february 5, 2017 in opinion 
+
+sometimes my daily email from stumbleupon really delivers. today was one of those days! this website is a collection of wonderful phrases and words, for which there is no exact equivalent in english. those of us for whom english is our native tongue are poorer for not having these words and phrases available to us. […]
+
+
+
+continue reading  0 
+
+
+
+new quotes 
+by jere matlock on february 2, 2017 in stories 
+
+i don’t usually read c.s. lewis. i could never get into the whole narnia universe; to me it seemed a silly premise and to mainly be a vehicle for him to proselytize his religion. it was clear he truly believed, and i respect that and his right to put whatever analogies to christianity he wanted […]
+
+
+
+continue reading  0 
+
+
+ older posts 
+
+
+
+
+recent posts
+
+
+comparing apples to oranges (or seconds to bytes)
+
+
+late daffodils
+
+
+snow day
+
+
+locked down
+
+
+finished server migration
+
+
+
+
+
+
+
+© 2004-2022 jere matlock 
+
+all rights reserved. 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1297 @@
+
+
+
+
+
+
+
+
+
+
+
+shop
+obex
+p1 docs
+p2 docs
+learn
+events
+
+
+
+
+
+parallax forums
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        toggle menu
+                                    
+
+
+
+
+
+
+
+
+
+
+
+            categories
+        
+
+
+
+            discussions
+        
+
+
+
+
+
+
+sign in · register  
+
+
+
+
+
+
+
+
+
+sign in · register  
+
+
+
+
+            categories
+        
+
+
+
+            discussions
+        
+
+
+
+
+
+
+
+
+sign in · register  
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+parallax forums
+
+
+announcements 
+
+
+
+
+
+parallax newsletter january 25th 2021: educator meetings for python, p2 live forums, xbee series3 
+
+announcement 1.3k views
+0 comments
+0 points
+started by ken gracey  2021-01-26 19:37 announcements 
+
+
+
+
+
+
+propeller 2 newsletter sign-up link 
+
+announcement 2.1k views
+0 comments
+0 points
+started by ken gracey  2019-04-11 18:38 announcements 
+
+
+
+
+
+
+forum rules and guidelines 
+
+announcement 10.2k views
+1 comment
+2 points
+most recent by moderator monkey  2015-07-24 17:53announcements 
+
+
+
+
+
+
+propeller developer day invitation link! saturday, may 3rd 2025 
+
+3 views
+0 comments
+0 points
+started by ken gracey  2025-02-18 14:28 announcements 
+
+
+
+
+
+
+propeller firmware loader by maccasoft 
+
+84 views
+0 comments
+0 points
+started by ken gracey 2025-01-23 18:12 announcements 
+
+
+
+
+
+
+                        propeller code                    
+
+
+
+pasm2/spin2 (p2) 
+
+
+
+
+
+welcome to the p2 - pasm2 and spin2 code category! 
+
+announcement 1.7k views
+2 comments
+0 points
+most recent by bob_g4bby  2024-12-11 13:15pasm2/spin2 (p2) 
+
+
+
+
+
+
+new debug crop feature (requires v50 -- updated 16 feb 25) 
+
+420 views
+15 comments
+0 points
+most recent by cgracey 2025-02-17 08:34pasm2/spin2 (p2) 
+
+
+
+
+
+
+must base pins be factors of 8 when used with setnib? 
+
+95 views
+7 comments
+0 points
+most recent by evanh 2025-02-17 06:09pasm2/spin2 (p2) 
+
+
+
+
+
+
+how to make pnut use just one com port and not scan? 
+
+196 views
+6 comments
+0 points
+most recent by larry martin 2025-02-12 19:29pasm2/spin2 (p2) 
+
+
+
+
+
+
+second-level p(2)asm namespacing 
+
+255 views
+18 comments
+0 points
+most recent by macca 2025-02-11 06:45pasm2/spin2 (p2) 
+
+
+
+
+
+
+pasm/spin (p1) 
+
+
+
+
+
+welcome to the p1 - pasm and spin code category! 
+
+announcement 955 views
+6 comments
+0 points
+most recent by 6aerobat  2022-06-24 16:43pasm/spin (p1) 
+
+
+
+
+
+
+hmc5883 code to qmc5883 
+
+195 views
+12 comments
+0 points
+most recent by scada_nob 2025-01-11 00:25pasm/spin (p1) 
+
+
+
+
+
+
+rtttl 
+
+209 views
+10 comments
+0 points
+most recent by jonnymac 2025-01-07 01:24pasm/spin (p1) 
+
+
+
+
+
+
+flip holiday kit test/demo code 
+
+273 views
+12 comments
+0 points
+most recent by vonszarvas  2024-12-27 21:27pasm/spin (p1) 
+
+
+
+
+
+
+rp2040 pico micropython propeller loader 
+
+246 views
+2 comments
+0 points
+most recent by vonszarvas  2024-09-15 04:28pasm/spin (p1) 
+
+
+
+
+
+
+basic (for propeller) 
+
+
+
+
+
+welcome to the propeller basic code category! 
+
+announcement 1k views
+15 comments
+0 points
+most recent by ersmith  2022-11-23 21:31basic (for propeller) 
+
+
+
+
+
+
+p2 wx wifi sip 
+
+300 views
+24 comments
+0 points
+most recent by vonszarvas  2024-12-10 10:33basic (for propeller) 
+
+
+
+
+
+
+a little surprised 
+
+186 views
+4 comments
+0 points
+most recent by mickster  2024-09-26 14:48basic (for propeller) 
+
+
+
+
+
+
+non blocking input? 
+
+175 views
+2 comments
+0 points
+most recent by mickster  2024-04-04 13:24basic (for propeller) 
+
+
+
+
+
+
+i2c code and the mcp9600 amplifer from sparkfun 
+
+261 views
+9 comments
+0 points
+most recent by denno  2024-03-21 17:53basic (for propeller) 
+
+
+
+
+
+
+forth 
+
+
+
+
+
+taqoz link list 
+
+announcement 286 views
+1 comment
+0 points
+most recent by vonszarvas  2024-03-20 10:25forth 
+
+
+
+
+
+
+requests for threads to be moved 
+
+announcement 550 views
+21 comments
+0 points
+most recent by bigtreeman  2021-09-22 05:36forth 
+
+
+
+
+
+
+welcome to the forth space! 
+
+announcement 722 views
+6 comments
+0 points
+most recent by potatohead  2021-08-18 17:35forth 
+
+
+
+
+
+
+pondering about another forth for p2 
+
+147 views
+9 comments
+0 points
+most recent by christof eb. 2025-02-15 06:21forth 
+
+
+
+
+
+
+compiling taqoz reloaded under p/nut - fixed 
+
+159 views
+3 comments
+0 points
+most recent by bob_g4bby  2024-12-03 11:08forth 
+
+
+
+
+
+
+c/c++ 
+
+
+
+
+
+welcome to the c/c++ code category! 
+
+announcement 940 views
+17 comments
+0 points
+most recent by pilot0315  2024-07-25 02:31c/c++ 
+
+
+
+
+
+
+nrf24l01 library for flip (propeller c) 
+
+40 views
+1 comment
+0 points
+most recent by jonnymac 2025-02-12 18:16c/c++ 
+
+
+
+
+
+
+question about pointer behaviour 
+
+79 views
+4 comments
+0 points
+most recent by christof eb. 2025-01-26 14:45c/c++ 
+
+
+
+
+
+
+catalina is now on github 
+
+386 views
+20 comments
+0 points
+most recent by rossh 2025-01-22 08:34c/c++ 
+
+
+
+
+
+
+catalina - ansi c and lua for the propeller 1 & 2 
+
+10.1k views
+496 comments
+0 points
+most recent by rossh 2025-01-20 21:18c/c++ 
+
+
+
+
+
+
+propeller 2 
+
+
+
+
+
+p2 links for where to obtain tools & sample/test code (reference only) 
+
+announcement 9.7k views
+56 comments
+0 points
+most recent by evanh  2024-08-01 13:27propeller 2 
+
+
+
+
+
+
+propeller 2 live forum - open learning and support (topics, speakers and registration!) 
+
+announcement 32.7k views
+577 comments
+0 points
+most recent by evanh  2024-05-28 01:05propeller 2 
+
+
+
+
+
+
+propeller 2 users: get started here! 
+
+announcement 6.1k views
+43 comments
+0 points
+most recent by vonszarvas  2023-06-10 06:17propeller 2 
+
+
+
+
+
+
+flexspin compiler for p2: assembly, spin, basic, and c in one compiler 
+
+78.9k views
+3.7k comments
+0 points
+most recent by ersmith  2025-02-18 14:16propeller 2 
+
+
+
+
+
+
+pnut/spin2 latest version (v50 - plot bitmaps, ditto code, orgh inline, @\"string\n", if_??? debug) 
+
+65.6k views
+2.2k comments
+0 points
+most recent by wummi  2025-02-18 14:11propeller 2 
+
+
+
+
+
+
+propeller 1 
+
+
+
+
+
+propeller resource index 
+
+announcement 57.6k views
+52 comments
+0 points
+most recent by tomkatt  2023-02-27 15:54propeller 1 
+
+
+
+
+
+
+fastest one-way inter-propeller transfer rate with 8 data lines 
+
+18 views
+1 comment
+0 points
+most recent by evanh  2025-02-18 08:14propeller 1 
+
+
+
+
+
+
+programming a propeller i with a raspberry pi pico 
+
+171 views
+5 comments
+0 points
+most recent by mickster 2025-02-16 19:15propeller 1 
+
+
+
+
+
+
+no propeller found on any serial port, using propeller proto board 
+
+140 views
+6 comments
+0 points
+most recent by buck rogers 2025-01-23 03:19propeller 1 
+
+
+
+
+
+
+wx esp8266d on propeller activity board (32910) 
+
+109 views
+2 comments
+0 points
+most recent by deanthorne 2025-01-10 18:48propeller 1 
+
+
+
+
+
+
+basic stamp 
+
+
+
+
+
+member supported faq 
+
+announcement 31.9k views
+40 comments
+0 points
+most recent by erco  2022-02-21 18:08basic stamp 
+
+
+
+
+
+
+debugin on chrome ide and chromebook ide 
+
+110 views
+8 comments
+0 points
+most recent by vonszarvas  2024-12-03 19:08basic stamp 
+
+
+
+
+
+
+lcd for bs1 
+
+122 views
+4 comments
+0 points
+most recent by tracy allen  2024-11-20 23:28basic stamp 
+
+
+
+
+
+
+need help - parsing serial input 
+
+148 views
+8 comments
+0 points
+most recent by tracy allen  2024-10-29 00:09basic stamp 
+
+
+
+
+
+
+question about the shiftout expression 
+
+156 views
+6 comments
+0 points
+most recent by genetix  2024-09-09 05:51basic stamp 
+
+
+
+
+
+
+micro:bit 
+
+
+
+
+
+welcome to the new micro:bit forum 
+
+announcement 469 views
+2 comments
+0 points
+most recent by buck rogers  2021-04-07 03:31micro:bit 
+
+
+
+
+
+
+microbit radio comms 
+
+263 views
+12 comments
+0 points
+most recent by rsadeika  2024-07-05 14:54micro:bit 
+
+
+
+
+
+
+microbit battery case 
+
+405 views
+5 comments
+0 points
+most recent by rsadeika  2024-06-22 14:10micro:bit 
+
+
+
+
+
+
+proj basesta 
+
+575 views
+45 comments
+0 points
+most recent by rsadeika  2024-03-04 15:23micro:bit 
+
+
+
+
+
+
+thonny micro:bit 
+
+214 views
+3 comments
+0 points
+most recent by rsadeika  2024-01-13 16:08micro:bit 
+
+
+
+
+
+
+general discussion 
+
+
+
+
+
+obex 🗿🗿🗿 
+
+162 views
+13 comments
+0 points
+most recent by evanh  2025-02-18 03:41general discussion 
+
+
+
+
+
+
+p1 examples 
+
+37 views
+0 comments
+0 points
+started by wuerfel_21 2025-02-17 23:34 general discussion 
+
+
+
+
+
+
+hall sensor on bldc as encoder 
+
+37 views
+0 comments
+0 points
+started by t chap 2025-02-17 15:28 general discussion 
+
+
+
+
+
+
+bme680 sensor 
+
+223 views
+10 comments
+0 points
+most recent by iseries 2025-02-15 12:26general discussion 
+
+
+
+
+
+
+matrix singular value decomposition 
+
+39 views
+0 comments
+0 points
+started by erna 2025-02-12 09:48 general discussion 
+
+
+
+
+more discussions 
+
+
+
+learn with blocklyprop 
+
+
+
+
+
+learn forum rules 
+
+announcement closed 2.1k views
+1 comment
+0 points
+started by andy lindsay (parallax)  2015-03-04 18:40 learn with blocklyprop 
+
+
+
+
+
+
+stamps in class "mini projects" 
+
+announcement closed 79.4k views
+2 comments
+0 points
+most recent by bwitt  2010-09-08 16:16learn with blocklyprop 
+
+
+
+
+
+
+blocklyprop solo array problem 
+
+106 views
+0 comments
+0 points
+started by gpierson  2024-03-10 03:07 learn with blocklyprop 
+
+
+
+
+
+
+parallax feedback 360° high speed servo with blocky 
+
+367 views
+3 comments
+0 points
+most recent by mactuxlin  2023-08-09 13:39learn with blocklyprop 
+
+
+
+
+
+
+terminal question 
+
+169 views
+0 comments
+0 points
+started by bluejay  2023-06-17 02:24 learn with blocklyprop 
+
+
+
+
+
+
+robotics 
+
+
+
+
+
+boebot has some competition 
+
+62 views
+1 comment
+0 points
+most recent by christof eb. 2025-02-09 20:30robotics 
+
+
+
+
+
+
+next large robot 
+
+83.5k views
+1.1k comments
+0 points
+most recent by diverbob 2025-02-06 13:21robotics 
+
+
+
+
+
+
+beacon (ir?) for simple navigation outdoors 
+
+441 views
+27 comments
+0 points
+most recent by banjo 2025-02-02 19:18robotics 
+
+
+
+
+
+
+joystick driven boebot using xbee in spin 
+
+821 views
+3 comments
+1 point
+most recent by vonszarvas 2025-01-29 12:22robotics 
+
+
+
+
+
+
+advice for a sumobot competition kit 
+
+45 views
+0 comments
+0 points
+started by loganb 2025-01-26 04:59 robotics 
+
+
+
+
+more discussions 
+
+
+
+customer projects 
+
+
+
+
+
+introducing a simple process control block meant to be enhanced... 
+
+239 views
+8 comments
+0 points
+most recent by erna  2025-02-18 10:05customer projects 
+
+
+
+
+
+
+magnet farm 
+
+329 views
+5 comments
+0 points
+most recent by erna 2025-02-12 13:16customer projects 
+
+
+
+
+
+
+how to use home assistant with parallax 
+
+116 views
+4 comments
+0 points
+most recent by refaqtor 2025-02-03 13:01customer projects 
+
+
+
+
+
+
+"super-liesl" - a p2-controlled cnc linear knitting loom 
+
+504 views
+17 comments
+0 points
+most recent by christof eb. 2025-01-20 07:42customer projects 
+
+
+
+
+
+
+cody computer 
+
+1.3k views
+22 comments
+0 points
+most recent by rosco_pc 2025-01-13 18:04customer projects 
+
+
+
+
+more discussions 
+
+
+
+accessories 
+
+
+
+
+
+wtb: hydra game development system 
+
+110 views
+4 comments
+0 points
+most recent by rborsuk 2025-01-07 18:38accessories 
+
+
+
+
+
+
+wanted: sx-key usb or serial programmer 
+
+506 views
+5 comments
+0 points
+most recent by helirrobb  2024-12-29 16:17accessories 
+
+
+
+
+
+
+udp receive for wx wifi module? 
+
+164 views
+11 comments
+0 points
+most recent by iseries  2024-12-19 11:44accessories 
+
+
+
+
+
+
+universal motor driver dc brush motor demo code 
+
+119 views
+3 comments
+0 points
+most recent by christof eb.  2024-11-16 09:11accessories 
+
+
+
+
+
+
+parallax's new altimeter/barometer module 
+
+54.1k views
+107 comments
+0 points
+most recent by genetix  2024-09-27 01:25accessories 
+
+
+
+
+more discussions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        equip your genius    
+
+        welcome to the parallax discussion forums, sign-up to participate.    
+
+
+sign in register 
+
+
+
+            quick links        
+
+
+ categories  recent discussions
+
+
+ 
+categories 
+103.2k all categories823 announcements
+473 propeller code
+196 pasm2/spin2 (p2)
+75 pasm/spin (p1)
+58 basic (for propeller)
+139 forth
+65 c/c++
+3.4k propeller 2
+27.7k propeller 1
+18.9k basic stamp
+38 micro:bit
+21.4k general discussion
+2k learn with blocklyprop
+8.3k robotics
+157 customer projects
+3.3k accessories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©  2025 parallax inc. | 599 menlo drive, suite 100 | rocklin, ca 95765 | usa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1024 @@
+
+
+
+
+
+
+
+
+
+
+
+institutionen för datavetenskap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"false"
+
+hoppa direkt till innehållet
+
+
+
+
+
+
+
+
+umu.se
+
+
+för studenter
+
+
+bibliotek
+
+
+för medarbetare
+
+
+
+
+
+logga in
+
+
+
+
+
+
+student
+logga in på studentwebben
+
+
+
+
+redigera
+redigera innehåll på umu.se
+
+
+
+
+
+english site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sök
+
+
+
+
+
+
+
+
+
+meny
+
+
+x stäng menyn
+meny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sök
+
+
+
+
+
+                                                sök inom:
+                                                
+
+
+
+                                                    sök inom:
+                                                
+
+
+
+allt
+
+
+
+utbildning
+
+
+
+forskning
+
+
+
+personal
+
+
+
+studentwebb
+
+
+
+nyheter
+
+
+
+
+
+
+
+
+
+
+
+
+        andra söktjänster
+        
+
+
+
+
+hitta kurser och program
+
+
+sök kursplan
+
+
+sök välkomstbrev
+
+
+bibliotekets söktjänst
+
+
+sök i regelverket
+
+
+
+
+
+
+
+
+
+
+
+
+
+                huvudmenyn dold.
+            
+
+
+
+
+logga in
+
+
+
+
+
+
+student
+logga in på studentwebben
+
+
+
+
+redigera
+redigera innehåll på umu.se
+
+
+
+
+
+english
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bild: mattias pettersson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                institutionen för datavetenskap
+            
+
+
+
+
+
+
+
+
+
+                        vi bedriver världsledande forskning inom ai, autonoma distribuerade system, mjukvarusäkerhet, maskininlärning och dataintegritet. institutionen har ett starkt samarbete med nationella och internationella aktörer inom näringsliv, samhälle och akademi. vi erbjuder toppmoderna kurser, program och forskarutbildning för dig som vill bli trygg och säker inom ditt område, eller strävar efter att utvecklas vidare.
+                    
+
+
+
+
+
+
+
+institutionens intranät
+anställd? logga in i sharepoint här. 
+
+
+
+
+nyheter vid institutionen för datavetenskap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            datavetare representant i kungliga ingenjörsvetenskapsakademin
+        
+
+
+oliver larsson, doktorand vid institutionen för datavetenskap, nu med i ivas studentråd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            nya algoritmer ökar integriteten för känsliga data
+        
+
+
+personliga data kan nu förvaras säkrare än tidigare. det är slutsatsen i saloni kwatras avhandling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            datavetenskap firar 30 år med stort spelevent
+        
+
+
+game dev on campus blir en mötesplats för spelintresserade under fyra dagar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            virginia dignum bjöds till vatikanen för att föreläsa om ai
+        
+
+
+"jag är djupt hedrad över att jag fick delta."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            diego calvanese utsedd att leda ansedd ai-konferens
+        
+
+
+diego calvanese, gästprofessor vid institutionen för datavetenskap, ska leda världens största ai-konferens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            datavetenskap, datateknik och programvaruteknik i unik kombination
+        
+
+
+en utbildning i datavetenskap vid umeå universitet ger senaste rön och breda kunskaper i unik kombination.
+
+
+
+
+
+
+
+
+fler nyheter från institutionen för datavetenskap
+
+
+
+
+
+
+utbildning, forskning och samarbeten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            studera datavetenskap i it-staden umeå
+        
+
+
+har du en vilja att analysera andras behov för att utveckla professionella och välutformade it-lösningar?
+
+
+
+
+
+
+
+
+
+
+
+
+
+            forskning vid institutionen för datavetenskap
+        
+
+
+datavetenskap är en dynamisk forskningsmiljö med verksamhet inom många områden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+            samarbeta med oss på datavetenskap
+        
+
+
+vi har lång och positiv erfarenhet av samverkan både inom och utanför universitetet. 
+
+
+
+
+
+ 
+
+på gång 
+
+
+#fraiday: att lära ut ansvarsfull ai inom högre utbildning: utmaningar och möjligheter
+
+
+fre
+21
+feb
+
+
+#fraiday: att lära ut ansvarsfull ai inom högre utbildning: utmaningar och möjligheter
+
+
+tid
+12:15 - 13:00
+21 februari 12:15 - 13:00
+
+
+plats
+zoom & galaxen
+
+
+
+föreläsning. 
+#fraiday talk med juan carlos nieves sánchez, associate professor, senior forskare och programföreståndare för masterprogrammet i ai. 
+
+
+
+
+
+#fraiday: stokastiskt ihågkommande och distribuerad mnemonisk agentur
+
+
+fre
+28
+feb
+
+
+#fraiday: stokastiskt ihågkommande och distribuerad mnemonisk agentur
+
+
+tid
+12:15 - 13:00
+28 februari 12:15 - 13:00
+
+
+plats
+zoom & galaxen
+
+
+
+föreläsning. 
+att återkalla 1900-talsaktivister med chatgpt  - artificiell intelligens och socialt minne
+
+
+
+
+ mars 
+
+
+taiga event
+
+
+fre
+21
+mar
+
+
+taiga event
+
+
+tid
+09:00 - 17:00
+21 mars 09:00 - 17:00
+
+
+plats
+tba
+
+
+
+workshop. 
+ett event organiserat av taiga
+
+
+
+
+
+#fraiday: ola lindberg
+
+
+fre
+21
+mar
+
+
+#fraiday: ola lindberg
+
+
+tid
+12:15 - 13:00
+21 mars 12:15 - 13:00
+
+
+plats
+zoom & galaxen
+
+
+
+föreläsning. 
+#fraiday talk med ola lindberg, professor vid pedagogiska institutionen, umeå universitet
+
+
+
+
+
+#fraiday: bidrar ai-verktyg till vitalisering eller riskerar de att marginaliseras?
+
+
+fre
+28
+mar
+
+
+#fraiday: bidrar ai-verktyg till vitalisering eller riskerar de att marginaliseras?
+
+
+tid
+12:15 - 13:00
+28 mars 12:15 - 13:00
+
+
+plats
+galaxen & zoom
+
+
+
+föreläsning. 
+#fraiday talk med moa eriksson krutrök och pär poromaa isling
+
+
+
+ april 
+
+
+christian kammler, datavetenskap
+
+
+fre
+4
+apr
+
+
+christian kammler, datavetenskap
+
+
+tid
+09:00 - 13:00
+4 april 09:00 - 13:00
+
+
+plats
+mit.a.121.
+
+
+
+disputation. 
+modellerings normer för sociala simuleringar: öka realism i sociala simuleringar för att stödja beslutsfattare i deras beslutsfattande.
+
+
+
+
+
+#fraiday: young suk lee
+
+
+fre
+25
+apr
+
+
+#fraiday: young suk lee
+
+
+tid
+12:15 - 13:00
+25 april 12:15 - 13:00
+
+
+plats
+zoom and tba
+
+
+
+föreläsning. 
+#fraiday talk med young suk lee, som är umarts wasp-hs art och ai postdoctoral forskningsstipendiat vid umeå designhögskola (uid).
+
+
+
+
+
+
+
+
+
+wasp och wasp-hs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+umeå universitet har en central roll inom wasp, wallenberg ai, autonomous systems and software program – sveriges enskilt största forskningsprogram. vi koordinerar också wasp-hs, wallenberg ai, autonomous systems and software program – humanities and society. 
+
+tidigare reportage och porträtt
+
+
+
+reportage och porträtt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            professorn: så minskar vi riskerna med ai
+        
+
+
+virginia dignum arbetar med att utveckla ai-system som är pålitliga och anpassade till mänskliga värderingar. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            från teknikfylld uppväxt till multinationellt tech-företag
+        
+
+
+thomas nilsson, tidigare datavetarstudent och forskare , berättar i en intervju om sin karriärväg.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            deras recept: forskning, problem och en efterfrågad lösning
+        
+
+
+johan tordsson sammanfattar resan för bolaget elastisys som nu närmar sig 50 anställda.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            möjligheter och etiska dilemman med ai-genererade bilder
+        
+
+
+intervju med virginia dignum, professor i social och etisk ai och carl-erik engqvist, konstnärlig ledare.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            socialt intelligenta system i samarbete med människan
+        
+
+
+helena lindgrens forskning spänner grundforskning i artificiell intelligens till tillämpningar för ökad hälsa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            verklig  ai är social ai
+        
+
+
+frank dignum, professor i artificiell intelligens, studerar hur sociala kontexter påverkar mänskligt beteende.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+relaterad information
+
+
+
+
+
+
+
+
+
+
+
+            personal vid institutionen för datavetenskap
+        
+
+
+här hittar du anställda vid institutionen för datavetenskap.
+
+
+
+
+
+
+
+
+
+
+
+
+
+            studentwebben – institutionen för datavetenskap
+        
+
+
+för dig som studerar kurser, program eller forskarutbildning vid institutionen för datavetenskap. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            taiga – centrum för transdisciplinär ai 
+        
+
+
+ai for the good of all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+            wasp vid umeå universitet
+        
+
+
+umeå universitet är partneruniversitet inom wasp, sveriges enskilt största forskningsprogram genom tiderna.
+
+
+
+
+
+
+
+
+
+
+
+
+
+            wasp-hs
+        
+
+
+om ai och autonoma system med grund i excellent forskning inom humaniora och samhällsvetenskap.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+umeå universitet
+901 87 umeå
+tel: 090-786 50 00
+hitta till oss
+
+
+kontakta oss
+press och media
+institutioner och enheter
+
+
+om webbplatsen
+tillgänglighet på umu.se
+personuppgifter
+hantera kakor
+
+
+facebook
+instagram
+tiktok
+youtube
+linkedin
+
+
+
+
+
+
+
+
+
+
+
+

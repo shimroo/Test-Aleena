@@ -1,0 +1,302 @@
+
+
+
+missouri state archive welcome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+missouri state archives home
+bibliographic note
+help
+
+
+
+
+
+
+
+keyword
+search
+browse
+advanced
+
+
+
+
+ 
+ 
+
+
+
+find:
+
+
+titles
+authors
+subjects
+notes
+authors
+or titles
+subjects
+or authors
+titles
+or subjects
+anything
+
+
+that
+
+
+begin
+with
+contain
+
+
+the
+word(s)
+
+
+
+
+
+
+set
+limits 
+
+
+
+
+
+return
+              
+
+
+10
+20
+30
+40
+50
+60
+100
+
+
+per
+page.
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+browse:
+              
+
+
+titles
+authors
+subjects
+notes
+local
+call number
+local
+call number
+control
+number
+lccn
+isbn
+issn
+music
+number
+gpo
+number
+sudoc
+number
+report
+number
+nlcn
+
+
+for
+ 
+
+
+
+
+set
+limits 
+
+
+
+
+
+return
+              
+
+
+10
+20
+30
+40
+50
+60
+100
+
+
+per
+page.
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+find
+: 
+ 
+as a 
+
+
+title
+author
+subject
+note
+
+
+(term 1)
+
+
+
+
+
+and (+)
+or
+(|)
+not
+(-)
+
+
+ 
+as a 
+
+
+title
+author
+subject
+note
+
+
+(term 2)
+
+
+
+
+and (+)
+or
+(|)
+not
+(-)
+
+
+ 
+as a 
+
+
+title
+author
+subject
+note
+
+
+(term 3)
+
+
+group
+terms like :
+ (
+              term 1 * term 2
+) * term 3 e.g.
+;(red and white) not blue
+ term 1
+* ( term
+2 * term 3
+) e.g.
+red or (white and blue)
+
+
+
+
+set
+ limits 
+
+
+
+
+
+return
+              
+
+
+10
+20
+30
+40
+50
+60
+100
+
+
+per
+page.
+
+
+
+
+
+
+
+
+
+
+
+office of the secretary of state, missouri - john r. ashcroft
+
+state capitol, room 208 and state information center, 600 w. main
+
+jefferson city, mo 65101   (573) 751-3280      
+archref@sos.mo.gov
+
+
+
+
+
+
+
+
+
+

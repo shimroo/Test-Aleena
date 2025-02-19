@@ -1,0 +1,201 @@
+
+
+
+
+
+imperialviolet - imperialviolet.org
+
+
+
+
+
+
+
+
+
+
+
+imperialviolet
+adam langley's weblog
+
+
+a tour of webauthn (23 dec 2024)
+i've done a bunch of posts about webauthn/passkeys over time. this year i decided to flesh them out a bit into a longer work on understanding and using webauthn. if you were at the fido conference in carlsbad this year, you may have received a physical, printed booklet of the result. it took a while to get around to converting to html, but the text is now available online.
+let's kerberos (07 apr 2024)
+(i think this is worth pondering, but i don’t mean it too seriously—don’t panic.)
+are the sizes of post-quantum signatures getting you down? are you despairing of deploying a post-quantum web pki? don’t fret! symmetric cryptography is post-quantum too!
+when you connect to a site, also fetch a record from dns that contains a handful of “ca” records. each contains:
+
+a uuid that identifies a ca
+eca-key(server-ca-key, aad=server-hostname)
+a key id so that the ca can find “ca-key” from the previous field.
+
+“ca-key” is a symmetric key known only to the ca, and “server-ca-key” is a symmetric key known to the server and the ca.
+the client finds three of these ca records where the uuid matches a ca that the client trusts. it then sends a message to each ca containing:
+
+eca-key’(client-ca-key) — i.e. a key that the client and ca share, encrypted to a key that only the ca knows. we’ll get to how the client has such a value later.
+ a key id for ca-key’.
+eclient-ca-key(client-server-key) — the client randomly generates a client–server key for each ca.
+the ca record from the server’s dns.
+the hostname that the client is connecting to.
+
+the ca can decrypt “client-ca-key” and then it can decrypt “server-ca-key” (from the dns information that the client sent) using an aad that’s either the client’s specified hostname, or else that hostname with the first label replaced with *, for wildcard records.
+the ca replies with eserver-ca-key(client-server-key), i.e. the client’s chosen key, encrypted to the server. the client can then start a tls connection with the server, send it the three encrypted client–server keys, and  the client and server can authenticate a kyber key-agreement using the three shared keys concatenated.
+both the client and server need symmetric keys established with each ca for this to work. to do this, they’ll need to establish a public-key authenticated connection to the ca. so these connections will need large post-quantum signatures, but that cost can be amortised over many connections between clients and servers. (and the servers will have to pass standard challenges in order to prove that they can legitimately speak for a given hostname.)
+some points:
+
+the cas get to see which servers clients are talking to, like ocsp servers used to. technical and policy controls will be needed to prevent that information from being misused. e.g. cas run audited code in at least sev/tdx.
+you need to compromise at least three cas in order to achieve anything. while we have certificate transparency today, that’s a post-hoc auditing mechanism and a single ca compromise is still a problem in the current webpki.
+the cas can be required to publish a log of server key ids that they recognise for each hostname. they could choose not to log a record, but three of them need to be evil to compromise anything.
+there’s additional latency from having to contact the cas. however, one might be able to overlap that with doing the kyber exchange with the server. certainly clients could cache and reuse client-server keys for a while.
+cas can generate new keys every day. old keys can continue to work for a few days. servers are renewing shared keys with the cas daily. (acme-like automation is very much assumed here.)
+the public-keys that parties use to establish shared keys are very long term, however. like roots are today.
+distrusting a ca in this model needn’t be a whole big thing like it is today: require sites to be set up with at least five trusted cas so that any ca can be distrusted without impact. i.e. it’s like distrusting a certificate transparency log. 
+revocation by cas is easy and can be immediately effective.
+cas should be highly available, but the system can handle a ca being unavailable by using other ones. the high-availability part of ca processing is designed to be nearly stateless so should scale very well and be reasonably robust using anycast addresses.
+
+chrome support for passkeys in icloud keychain (18 oct 2023)
+chrome 118 (which is rolling out to the stable channel now) contains support for creating and accessing passkeys in icloud keychain.
+firstly, i’d like to thank apple for creating an api for this that browsers can use: it’s a bunch of work, and they didn’t have to. chrome has long had support for creating webauthn credentials on macos that were protected by the macos keychain and stored in the local chrome profile. if you’ve used webauthn in chrome and it asked you for touch id (or your unlock password) then it was this. it has worked great for a long time.
+but passkeys are supposed to be durable, and something that’s forever trapped in a local profile on disk is not durable. also, if you’re a macos + ios user then it’s very convenient to have passkeys sync between your different devices, but google password manager doesn’t cover passkeys on those platforms yet. (we’re working on it.)
+so having icloud keychain support is hopefully useful for a number of people. with chrome 118 you’ll see an “icloud keychain” option appear in chrome’s webauthn ui if you’re running macos 13.5 or later:
+
+you won’t, at first, see icloud keychain credentials appear in autofill. that’s because you need to grant chrome permission to access the metadata of icloud keychain passkeys before it can display them. so the first time you select icloud keychain as an option, you’ll see this:
+
+if you accept, then icloud keychain credentials will appear in autofill, and in chrome’s account picker when you click a button to use passkeys. if you decline, then you won’t be asked again. you can still use icloud keychain, but you’ll have to go though some extra clicks every time.
+you can change your mind in system settings → passkeys access for web browsers, or you can run tccutil reset webbrowserpublickeycredential from a terminal to reset that permission system wide. (restart chrome after doing either of those things.)
+saving a passkey in icloud keychain requires having an icloud account and having icloud keychain sync enabled. if you’re missing either of those, the icloud keychain passkey ui will prompt you to enable them to continue. it’s not possible for a regular process on macos to tell whether icloud keychain syncing is enabled, at least not without gross tricks that we’re not going to try. the closest that we can cleanly detect is whether icloud drive is enabled. if it is, chrome will trigger icloud keychain for passkey creation by default when a site requests a “platform” credential in the hope that icloud keychain sync is also enabled. (chrome will default to icloud keychain for passkey creations on accounts.google.com whatever the status of icloud drive, however—there are complexities to also being a password manager.)
+if you opt into statistics collection in chrome, thank you, and we’ll be watching those numbers to see how successful people are being in aggregate with this. if the numbers look reasonable, we may try making icloud keychain the default for more groups of users.
+if you don’t want creation to default to icloud keychain, there’s a control in chrome://password-manager/settings:
+
+i’ve described above how things are a little complex, but the setting is just a boolean. so, if you’ve never changed it, it reflects an approximation of what chrome is doing. but if you set it, then every case will respect that. the enterprise policy createpasskeysinicloudkeychain controls the same setting if you need to control this fleet-wide.
+with macos 14, other password managers are able to provide passkeys into the system on macos and ios. this icloud keychain integration was written prior to chromium building with the macos 14 sdk so, if you happen to install such a password manager on macos 14, its passkeys will be labeled as “icloud keychain” in chrome until we can do another update. sorry.
+signature counters (05 aug 2023)
+if you look at the structure of the signed
+messages in webauthn you’ll notice that one of the fields is called
+the “signature counter”. in the previous long
+post i said to ignore it, which is still correct, but here’s
+why.
+signature counters are optional for the authenticator to implement:
+it’s valid for a security key not to have a signature counter, although
+the vast majority of them do. in that case, the counter value is always
+zero. but once a website has seen a non-zero value, then the security
+key has to ensure that the counter, for all future assertions from a
+given credential, is strictly increasing.
+the motivation of the signature counter is that it might allow
+websites to detect when a security key has been cloned. cloning a
+security key is supposed to be very difficult. at the very least, you
+should need physical access to it, and hopefully you need to spend a
+substantial amount of time invasively interrogating it. but, if you
+assume all that happened, then one could clone a security key (probably
+destroying it in the process), get the private key of a credential out
+of it, and create a working replica which could be slipped back into the
+possession of the legitimate user, leaving them unaware that anything
+has happened. at this point, the attacker can create assertions at will
+because they know the credential’s private key.
+if all that has happened, then the signature counter might uncover
+it. unless the attacker can know exactly when the legitimate user has
+created an assertion, and thus incremented the counter, then eventually
+either they or the real user will create an assertion where the counter
+didn’t increase.
+you might be able to tell, but i consider this a rather far-fetched
+scenario. nevertheless, if a website wants to use the signature
+counters, then it must treat any non-incrementing counter as a signal to
+lock the account and trigger an investigation. at a minimum, the
+security key in question should be replaced. simply rejecting the
+assertion is meaningless: the attacker will just increment the counter
+and try again, and a regular user will assume that it’s some temporary
+glitch and do the same.
+however, where i’ve seen sites bothering to check the signature
+counter, they’ve always just treated it as a transient error. and i’ve
+never heard of a signature counter actually being used to catch an
+attack.
+on the other hand, many security keys only have a single, global
+signature counter, and this allows different websites to correlate the
+use of the same security key between them. that is, the current counter
+value of your security key is somewhat identifying and can be combined
+with information about how often you use it. for that reason, some
+security keys implement more granular signature counters, and good for
+them, but i consider it rather a waste.
+when passkeys are synced between machines, they never implement
+signature counters because that would require that the set of machines
+maintain a coherent value. so, over time, you’ll probably observe that
+the majority of credentials don’t have them.
+voice recognition (29 jul 2023)
+update: evan let me know that whisper solved the voice recognition problem. he has a wrapper that records from a microphone and prints the transcription here. whisper is very impressive and the only caveat is that it sometimes inserts whole fabricated sentences at the end. the words always sort of make sense in context, but there were no sounds that could possibly have caused it. it's always at the very end in my experience, and it's no problem to remove it so, with that noted, you should ignore everything below because whisper is a better answer.
+
+last week’s blog post was rather long, and had a greater than normal
+number of typos. (thanks to people who pointed them out. i think i’ve
+fixed all the ones that were reported.)
+this was because i saw in reviews that ios 17’s voice recognition was
+supposed to be much improved, and i figured that i’d give it a try. i’ve
+always found ios’s recognition to be superior to google docs and i have
+an old ipad pro that’s good for betas.
+ios’s performance remains good and, yes, i think it’s better than ios
+16. but it’s still hardly at the level of “magic”, especially when using
+technical terms. here’s a paragraph taken directly from the raw output
+of last week’s post (i’ve highlighted errors with italics):
+
+it is integrated into the w3c credential management specification and
+so it is called via navigator . credentials . create and
+navigator .credentials. get. this document is about
+understanding the deeper structures that underpin web orphan
+rather than being a guy as to its details. so we will leave a
+great many details to the numerous guides to web oran that
+already exist on the web and instead focus on how structures from
+uf were carried over into web orphan and updated.
+
+while it’s nice that many of the words are there, with that density
+of errors doing all the corrections means that it’s not clearly better
+than typing things out. however, the world is all aflutter about llms
+these days. can they help?
+i wrote a script to chunk paragraphs of text so that the chunks were
+at least 500 bytes, and then to send them to gpt-3.5-turbo
+with the following instructions prefixed, and a temperature of 0.6:
+
+the following is the output of a poor speech recognition system.
+please correct its errors and reply with the corrected version without
+any preamble. some of the uncommon words that the system can’t recognise
+are u2f, ctap, fido, ctap2, json, fido2, webauthn, bearer token, hash,
+phishing, rp id, passkey, cable, and password manager.
+
+here’s the cleaned up version of that paragraph.
+
+it is integrated into the w3c credential management specification and
+so it is called via navigator.credentials.create and
+navigator.credentials.get. this document is about understanding the
+deeper structures that underpin web authentication rather than
+being a guide as to its details. so we will leave a great many details
+to the numerous guides to webauthn that already exist on the web and
+instead focus on how structures from u2f were carried over into webauthn
+and updated.
+
+there’s one case where it wrote “web authentication” rather than
+“webauthn”, but it fixed all the other problems!
+so that’s what i tried: i dictated long chunks to ios, then ran a
+script to clean it up with gpt, then edited it manually in obsidian.
+from obsidian, pandoc converted to html and epub formats.
+that prompt is the result of some experimentation. initially, i asked
+gpt to fix “errors and grammar” but, when reading the results, some
+sentences were incorrect and i found that it had “fixed” them into
+nonsense. therefore i dropped “and grammar”. you can ask it to output in
+markdown format, and i probably should have done that, but i was too far
+into manual editing by the time that i thought of it.
+an oddity was that i wrote the instructions with the word “recognise”
+(english spelling) but then thought that it might work better with the
+more common american spelling (“recognize”). but that seemed to make it
+worse!
+an obvious thing to try was to use gpt 4. however, i misread the costs of openai’s api and thought
+that their charges were per-token, not per 1000 tokens. so with
+estimates that were off by three orders of magnitude, gpt 4 seemed a bit
+too expensive for a random experiment and i used gpt 3.5 for
+everything.
+i didn’t write this post the same way, but this experimental worked
+well enough that i might try it again in the future for longer public
+writing.
+
+
+there's an index of all posts and one, long page with them all too. email: agl at imperialviolet dot org.
+
+
+

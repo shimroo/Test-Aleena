@@ -1,0 +1,306 @@
+
+
+
+
+phil ringnalda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+phil ringnalda
+a digital magpie
+
+
+
+
+
+pink and repink
+february 23rd, 2007 
+
+quoting from sucking less, on a budget, for reasons that will be obvious to some:
+
+beta
+a friend asked me today if camino 1.1 was even in alpha. heck, we’re on alpha two, but i guess we haven’t really done the best job of promoting it. to some extent, that’s reasonable, alphas generally aren’t the kind of thing you want your grandmother using. however, our standards are usually a little higher than most, and i’ve been running 1.1a2 daily on both home and work machines for a while.
+in fact, we’re really close to beta. we wanted to have something for presidents day (abe lincoln is a *huge* camino fan) but we extended our deadline to pick up some last minute crash fixes. i promise to blog about it when we do reach beta, and we’re going to have an increased presence, both on the camino website and among download sites. it’s important that we get a lot of people to try it out and send us feedback before we go final.
+ben disputes my claim that camino never crashes. personally, i think he’s on crack. i have 1.1a2 running for over a month and a half of intense usage on both my laptops and my work desktop without a single crash. maybe it’s because i turn java off. what’s java, you ask? beats me. i think i used it in 1995. really, would you allow a 12-year old to run wild in your browser? i think the blink tag is more relevant these days….props to lou montulli.
+if pacman jones can make it rain for $81,000, then i want to be a stripper. seriously. what’s the visual of a man walking into a club with $81,000 in his pocket?
+oh, i’m sorry, did i digress from mozilla-related content? oops. i did it again.
+
+(in fact, they did go beta, but that was just today, so you can’t expect pink to know yet.)
+
+posted in blogging tech, carping, feeds and syndication, mozilla, planet fodder | 24 comments »
+
+
+tell me you were lyin’
+august 23rd, 2006 
+
+i really, really hope that spi labs, whose widely trumpeted report on javascript vulnerabilities in feed readers left me cold, were spoofing their user-agent string when they filed their bug on (an old version of) firefox (that didn’t actually do anything in the component where they filed it).
+“mozilla/5.0 (windows; u; windows nt 5.1; en-us; rv:1.4) gecko/20030624 netscape/7.1 (ax)” doesn’t give me a secure feeling, even without the “(ax)” for activex.
+
+posted in feeds and syndication | 2 comments »
+
+
+some mac and <p>s
+may 22nd, 2006 
+
+back in february, not long after the intel imacs came out, i decided i needed one. i’d been using a limping windows desktop as a stereo, and a not so limping windows laptop as an everything-else, but i’d idly wanted another mac ever since my 512k “fat mac” died in 1991 or so.
+getting one hasn’t turned out to be the best idea i ever had.
+it’s a delightful computer, quick and smooth and elegant, that part’s not a problem. but, now i’ve got a windows laptop to my left, the mac directly ahead, and my old windows desktop turned to linux to my right. i’m building firefox trunk on windows to see if i broke anything with a patch, typing this post and being less funny than i think on irc and reading email and trying to figure out how to patch the appearance of readonly xul textboxes on the mac, and building firefox branch on linux, though i’ve already forgotten why and what i’m supposed to test once the build finishes. most of the time, i think that three computers has made me one third as productive, but sometimes, when i can’t remember what i was doing on any of them, i think it’s worse than just arithmetic.
+
+posted in meta | 11 comments »
+
+
+<unwelcome>
+february 21st, 2006 
+
+because i’m both stupid, and a glutton for punishment, my reaction to the news that six apart wants to make trackback a standard was to sign up for the mailing list.
+their reaction?
+
+the email address you supplied is banned from this mailing list. if you think this restriction is erroneous, please contact the list owners at…
+
+you know what? i think i’ll blog it, instead.
+
+posted in trackback | 34 comments »
+
+
+<boy, this nest sure is roomy>
+february 8th, 2006 
+
+i wonder, does anyone have anything they’d like to say about some new work they’re doing, maybe with an open source project?
+
+posted in mozilla | 6 comments »
+
+
+where’s mama bear’s update notification?
+february 4th, 2006 
+
+paul bausch is absolutely right that firefox’s current update notification, a popup dialog that gives you the choice between “stop what you are doing and restart your browser right now” and “be nagged at some random later time until you stop what you are doing and restart your browser” is the sort of annoyance we use firefox to avoid, not to seek out.
+but the previous version, a red christmas tree that i think was supposed to be an arrow displayed up by the throbber, flat out didn’t work. for every single non-geek on whose computer i installed firefox, that was something for me to see when i was doing something else for them, my little christmas present of also getting to update their browser, and not anything for them to even notice, much less do anything about.
+a couple of hours of thinking about less extreme methods of reminding people about an update without being invisible has only left me reinventing clippy. so, what sort of notification can’t be missed, but can be ignored until you’re ready for it?
+
+posted in planet fodder | 14 comments »
+
+
+nice <gorilla>; what’s he weigh?
+february 1st, 2006 
+
+several things are interesting me about ie7β2, but most of all is a relatively minor decision in the feed handling code. 
+if you start from the rss 2.0.1-rv6 spec, and follow along carefully, you should notice that the <description> which is a child of <item> is described as allowing escaped html, while no other element is so described, and you then should conclude that no other element allows escaped html, that the content model for all other elements is plain text, and if someone has a <title> like <title>&amp;eacute;</title> it is because they want their readers to see &eacute;, not because they want their readers to see an e with an acute accent.
+if, however, you start with most weblog software or most existing aggregators, you’ll find that you can put links in your weblog’s subhead by editing its description, and that if you want to italicize odyssey in a title to make it clear you mean the book, not your car or your own road trip, it not only works in your weblog, but probably makes it into your feed, and works in your aggregator, because someone else tried it long ago, and people complained about how bad it looked when the aggregator displayed <i>odyssey</i>, so the aggregator author thought “why not?” and started treating item and channel titles and channel descriptions as escaped html.
+despite the enormous amount of time people have spent arguing over which one of those is “right,” it really doesn’t matter (except perhaps for a couple dozen people like norm walsh who will absolutely refuse to have anything to do with escaped markup). what matters is that there only be one way. if you have to create workable feeds for searches of 300,000 browser bug reports, many of which want to display examples of html tags in the titles, then it doesn’t matter too much whether you use <title>&lt;foo&gt; support broken</title> or <title>&amp;lt;foo&amp;gt; support broken</title>. however, if using one is clearly correct and to spec, but using the other one is required to avoid breaking some aggregators and opening xss holes in others, but that then breaks some which were not broken by doing the right thing, then you’re likely to wind up saying “screw you guys, i’m going home” and using atom, which mostly exists for precisely this reason.
+while i have as much hope for the spec rewrite that the new version of the rss advisory board is starting on as all the other people who’ve been banging their heads against the syndication brick wall for so long they’re at risk of naming all their children george, that much hope is about… george! you stop teasing george this instant, or you’ll be grounded like george and george!
+so i was quite interested to see that ie7, and thus presumably the windows feed platform, have decided to do the right, and hard, thing, and treat all rss elements other than item/description as the plain text they are supposed to be. which leaves me wondering: are they really enough of an 800lb. gorilla to convince everyone else to follow along, and make it once again possible to include a less-than character in an rss title?
+
+posted in feeds and syndication | 30 comments »
+
+
+a google just for <me>
+january 11th, 2006 
+
+now that’s my kind of google: via their results weblog, last google (beta), providing you with the last thing google wants you to see. for lots of things we both talk about, randy‘s got me beat for the bottom, since he’s been going out of his way to post duplicate content, but there’s still an enormous number of things for which i’m the very last thing you should look at.
+in related news, so far i’m very happy with my switch to searching yahoo!: their results are quite good, and i’m much happier having to sift through five different sites with the same wikipedia article than i am wondering what’s being mistakenly hidden from me every time i search. google may be mostly okay if there’s one and only one possible result for your searches (something that i remember being fairly true a few years ago, when “i’m feeling lucky” was moderately useful, but these days i’m only rarely looking for one exact page), but if you want to look around and decide for yourself, yahoo! feels like a better bet.
+
+posted in carping, meta | 8 comments »
+
+
+another <google> loser heard from
+january 9th, 2006 
+
+because it lacked the all-important feature of being about me, me, me, i’d forgotten that i wasn’t the only one getting unpersoned by google: matt mower doesn’t exist either.
+the situation isn’t quite as bad as he thinks: in fact, he shows up in [“matt mower”], it’s just that when your weblog is result 151 for your own name as a phrase it feels like you’ve been disappeared.
+hmm. moved from one url to another (and worse yet, the old one doesn’t redirect to the new), content republished by at least one aggregator which doesn’t decline to be indexed by search engines. sounds pretty familiar to me.
+i’d say the one difference is that matt cares and i don’t, but if (ms employee) duncan mackenzie is going to have trouble finding me again because i’m not indexed in msn search unless you already know my url… well, now you’re starting to get into “actually does matter to me” territory.
+
+posted in blogging tech, carping, identity | 17 comments »
+
+
+<searching where i’m not hated>
+january 8th, 2006 
+
+as (google employee) nelson minar notes, sometimes changing urls by returning a 301 moved permanently with the new url works out fine with search engines: if you search google for [for fear they’ll lose visibility in search engines], his post at his new url is the first result.
+and as (google employee) matt cutts notes, sometimes it doesn’t work out quite so well. back at the end of october, when i switched to wordpress, i moved my weblog to the subdomain “weblog.” and changed to wordpress’s default url scheme, with the words from the post title separated by hyphens (because underscores are bad (for search engines)) and without the “.php” extension (because, among other things, it makes search results for [foo php] horribly cluttered with things only published using php, not about php), and redirected all my old urls to the new ones. now when you search for a set of words i’ve used in a post, like [when gmail first added atom feeds], you will not find my post.
+if you want to find me in your google search results, you need to do one of two things: remember that the parameter to include “duplicate results” is &filter=0 and add that to your query url, or work your way to the end of the results (in this case, that would be around result 747, despite their claim to have 412,000 results) and click the link to include omitted results. then, once again work your way out to the end of the results (now at result 976, despite the complete and utter lie of “412,000 results”), and you’ll find me: the last damn thing they think anyone would ever want, with my useless front page, my worthless permalink, my crap-filled paged archive (now blocked off in robots.txt, because there’s really no value a search engine can extract from that view), and my spammy htmlized version of the atom autodiscovery rfc (which at least serves the purpose of increasing my spam load).
+the other, and faster, way to find me in google results, searching for the words as a phrase, might hold a partial clue to why i’ve become persona non grata in google’s view: [“when gmail first added atom feeds”] returns one result, from sameer d’costa’s aggregator. include duplicates on that search, and you’ll also see a couple more gregarius installs, along with my own worthless results. you won’t see my gregarius install, though, because i know search engines hate duplicate content, so in gregarius’s admin/config i set rss.config.robotsmeta to “noindex, follow” so that every page gets a <meta name="robots" content="noindex,follow" /> to tell search engines not to index my aggregator as duplicate content, though they are welcome to discover any urls they don’t already know about. i don’t have any way of knowing whether google first decided i was garbage, and then decided that made me a duplicate of other people aggregating me, or decided i was garbage because i was a duplicate of people duplicating me, but i know it isn’t helping: the only time you should let search engines index the output of an aggregator is when that’s the only place the feeds appear as html. otherwise, it’s duplicate content, and that’s going to wind up hurting someone, whether it’s you or the source.
+now, maybe it’s just me, but i really don’t like getting fucked by someone who spends the whole time punching me and swearing at me and insulting me. if that’s the way google feels about me, i’d rather just end our relationship. that takes two things. first, i went to about:config and changed keyword.url to http://myweb2.search.yahoo.com/search?ei=utf-8&p= so typing search terms in the addressbar will take me to yahoo! rather than doing a google “i’m feeling lucky” search, changed browser.search.defaultenginename to yahoo so that selecting text and choosing search web for from the context menu would search at yahoo, and changed browser.search.order.1 to yahoo so google wouldn’t be on top. i should probably delete the google.src plugin file, too, but for now i’m not quite willing to burn every last bridge. (and i didn’t switch to msn search because they make google look like the kindest and gentlest of lovers: the only way you’ll find me in any results there is to include weblog.philringnalda.com in your search terms. otherwise, i simply don’t exist.)
+then there’s the other half of breaking up: taking away googlebot’s and msnbot’s keys to my house. despite the fact that google just flat out hates me, they’ve requested 6226 pages from me already this month (msnbot has only requested 1836, but they’ve requested robots.txt 104 times, to googlebot’s 31 — maybe they know what’s coming).
+that ain’t free: to keep my host from pushing me into a dedicated server, i had to install a caching plugin, and then reconfigure it to an even longer cache time to prevent misses when they came back for more, just for search engines, which are the only things that ever look at most old weblog posts (well, along with confused and misled searchers, if you happen to be returned as something other than the very last result after duplicate results are included). but, block googlebot? that seems pretty serious, somehow, even though most of the “visitors” they deliver are just comment spammers (one of the clues that i’d become invisible in search engines was just how little comment spam i’m getting).
+so, just like every abused woman on a crappy talk show that you want to shake some sense into, i’ll give googlebot and his buddy msnbot another month, hoping he’ll change his abusive ways. after all, maybe one of his friends is reading this, and can talk some sense into him.
+
+posted in blogging tech, carping, meta, wordpress | 23 comments »
+
+
+« previous entries
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+projectsfirefox extensions
+
+livebookmarkthis
+
+
+movable type plugins
+
+category trackback tags
+previous and next in category
+real comment throttle
+skiphours
+
+
+
+archives
+
+february 2007
+august 2006
+may 2006
+february 2006
+january 2006
+december 2005
+november 2005
+october 2005
+september 2005
+august 2005
+july 2005
+june 2005
+may 2005
+april 2005
+march 2005
+february 2005
+january 2005
+september 2004
+august 2004
+july 2004
+june 2004
+may 2004
+april 2004
+march 2004
+february 2004
+january 2004
+october 2003
+september 2003
+august 2003
+july 2003
+june 2003
+may 2003
+april 2003
+march 2003
+february 2003
+january 2003
+december 2002
+november 2002
+october 2002
+september 2002
+august 2002
+july 2002
+june 2002
+may 2002
+april 2002
+march 2002
+february 2002
+january 2002
+december 2001
+november 2001
+
+
+categories
+
+blogging tech (349)
+
+identity (2)
+
+movable type (64)
+	
+mt hacks (36)
+
+mt plugins (22)
+
+
+
+trackback (20)
+
+wordpress (7)
+
+
+
+feeds and syndication (129)
+
+junk drawer (114)
+
+make this for me (2)
+
+meta (53)
+
+mozilla (45)
+
+planet fodder (5)
+
+
+
+music (18)
+
+random linkage (220)
+
+carping (16)
+
+
+
+shorts (135)
+
+
+
+meta
+
+log in
+valid xhtml
+xfn
+wordpress
+
+
+
+
+
+
+
+		phil ringnalda is proudly powered by 
+		wordpress
+entries (atom)
+		and comments (atom).
+		
+
+
+
+
+
+
+
+

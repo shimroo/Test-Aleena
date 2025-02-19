@@ -1,0 +1,454 @@
+
+
+madminute games, inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+buy tc2m!!
+
+
+
+main
+
+
+
+home
+
+
+forum
+
+
+awards
+
+
+
+faq/info
+
+
+
+mods
+
+
+downloads
+
+
+
+screenshots
+
+
+
+info
+
+
+support
+
+
+
+tc2m 
+      sdk/modding 
+
+
+links
+
+
+archives
+
+
+
+tc2m 
+      buzz
+
+
+reviews/previews 
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome 
+          to the madminute games (mmg) website. we created the pc software war 
+          game series "take command" and the award winning take command game 
+          engine. our second title take command - 2nd manassas is available now. 
+          take command is an rtcs "real-time combat simulator" and you've 
+          never played anything like it! 
+
+
+
+
+
+
+
+
+
+
+
+
+tc2m 
+                generals
+
+
+
+
+
+   scourge of war: gettysburg
+
+march 13, 2012
+
+
+
+
+
+
+                                    scourge of war: gettysburg is the next generation of civil war combat command simulations, headed  by renowed game designer norb timpko, designer of the acclaimed take command series.  re-create the full battle of gettysburg in 3d, as well  as other battles by purchasing the expansion packs. 
+              
+
+                                                                                  
+              
+visit scourgeofwar.com to 
+            download the demo 
+
+
+
+
+
+
+tc2m 78th best game of all time!!
+
+january 28, 2012
+
+
+
+
+
+              pcgamer march 2012 edition listed the top 100 games of all time.  tc2m made the list!  it's been a while since it's been released, it's sort of like hitting the hall of fame for us.  if you want to see what's it's all about, we are selling the fully patched version on the norbsoftdev store.  just click the link in the upper left.
+              
+purchase by 
+            direct download 
+
+
+
+         
+        
+
+news
+              from the front
+
+april
+                21, 2008
+
+
+
+
+since
+              my last update the sound of the long roll hasn?t stopped. 
+              ever since norb graciously opened the game to our modders
+              it has been a non-stop avalanche of new material that is always
+              highly anticipated and then greedily consumed by our little
+              community of volunteers.
+  
+              
+
+first
+              off are two expansive and dense maps from the beginning of the
+              overland campaign that were released in early march.  our
+              very own and talented 122nd ohio has given new
+              nightmares to all of us whether you fight for those in gray or
+              righteously uphold the cause of union!  the
+              wilderness is now available for your footsore and tired men to
+              slug it out amongst the dark and foreboding forests west of fredericksburg
+              and the 
+              chancellorsville
+              battlefields.  beware though, it?s easy to get
+              confused and lost in the expanse of green and trying to coordinate
+              your army while in the midst of an attack or while being attacked
+              is no small task.  now you can learn what
+              general u.s. grant and the army of the 
+              potomac
+              suffered through during those miserable days of may 5-6, 1864. 
+               take the role of general robert e. lee and surprise
+              your enemy by going on the offensive and reduce the 
+              union
+              ?s numerical superiority to naught using the woods and thickets
+              to your advantage.  you can always take a
+              breather in tapp field as long as you don?t get captured!
+  
+              
+
+another
+              great ?packaged mod deal? released in early march is the
+              fantastic olustee battle with a bunch of goodies included. 
+              produced by crikey with a map by wrangler
+              this mod is a must have as the community slowly chips away at all
+              the different theaters of the war.  long overdue
+              and a brilliant feature of this mod is, of course, a usct (united
+              states colored troops) sprite!!  included is the
+              olustee oob for open play, 5 scenarios, new music, and also
+              a new 
+
+              georgia
+
+              flag and usct flag for the fm version of the oob?s!  there
+              are also new splash screens and intro screens if you so wish to
+              use them.
+  
+              
+
+now
+              on to the latest and greatest from our scenario creator
+              extraordinaire markt.  in my opinion
+              nothing makes this game as great or as enjoyable as well written
+              scenarios as evidenced by the stock scenarios and all the many new
+              scenarios created for antietam, 
+              chickamauga
+              and 
+
+              fredericksburg
+
+              .  adding
+              to those already ?must haves? is 35 new champions
+              hill scenarios for use with louie raider?s
+              champion hill map!!  that?s right the
+              western theater is getting it?s due and is not being overlooked
+              by our fantastic modding community.   the
+              vicksburg campaign highlighted grant?s brilliance and now you
+              too can fight your way to the 
+              mississippi
+              and the doorstep of  that great prize of 
+
+              vicksburg
+
+              .  play one of the most important fights in the
+              arguably most important campaign of the entire war!  only
+              in take command.
+  
+              
+
+also
+              promised and forthcoming from markt are new wilderness
+              scenarios for the already released maps and a revisitation of the
+              antietam battlefield and the struggles on the south end of 
+
+              sharpsburg
+
+              !!
+  
+              
+
+and
+              now i?ve saved the best for last. 
+  
+              
+
+we
+              again travel to the western theater of the war and step back in
+              time to december 31 ? january 2, 1862 along the banks of the
+              cold stones river next to the town of 
+              murfreesboro
+              , 
+
+              tennessee 
+              .  a brilliant recreation in two maps has been
+              graced to us all again by 122nd 
+
+              ohio 
+              
+
+ who is incredibly fast in his endeavors and strives to bring
+              both unmatched creativity and historical accuracy to his map
+              works.  set in the cold gray and brown winter of
+              
+
+              tennessee 
+              these maps truly capture the terrain and atmosphere of that
+              fateful fight.  the cedar thickets and limestone
+              outcroppings are faithfully recreated along with a new cotton
+              field sprite and other structures created specifically for these
+              maps. 
+  
+              
+
+i
+              have to mention that i recreated a brand new stones river oob
+              that 122nd 
+
+              ohio
+              
+
+ also included in the download package for use with his maps. 
+              much time, effort and love went into getting the oob right
+              and i do believe it is a great representation of the early/mid war
+              
+
+              us 
+              and csa western armies.  markt is
+              currently in production of many new scenarios to be released
+              shortly using both the maps and my oob.
+  
+              
+
+so
+              as you can see, once again much is happening and continues to
+              happen in our fantastic take command civil war gaming community. 
+              our beloved game has grown in leaps and bounds far beyond
+              its initial release.  there is no greater value
+              for the dollar in any computer wargame on the market!  between
+              all the maps, scenarios, graphics and community mods it?s truly
+              more than 5 games wrapped into one!!
+  
+              
+
+until
+              next time i remain and will always be,
+  
+              
+
+phantom
+              captain
+
+
+
+         
+        
+        
+        
+
+just
+              in time for the holidays!!!
+
+december
+                17, 2007
+
+
+
+
+
+              well since norb?s last update a few months ago things have literally exploded in the take command second manassas world!! 
+              
+
+
+
+ 
+
+released in september and in time for the anniversary of the battle of antietam our happy little community of modders have done it again! 
+              
+
+
+
+
+ 
+
+two incredibly detailed maps created and released by louie raider have been made available to the entire take command community.  antietam north and antietam south.  once again fight your way across the cornfield or cringe as the minie balls whip past your men next to bloody lane.   fight your way across the meandering creek as you struggle to carry and hold burnside?s bridge!    currently markt has written 17 historical scenarios to accompany louie?s maps with additional scenarios promised in the future! 
+              
+
+
+
+
+ 
+
+shortly after the release of antietam we were again gifted with another great map and scenarios brought to you by the modding talents of louie raider and markt.   and this time it?s chickamauga!  mark and louie have again really outdone themselves with another stunning map and this time over 60, yes, 60 scenarios!!  highly recommended and another just incredible addition to our favorite game.  this time fight through the undergrowth and thickets alongside that muddy little creek in georgia.  be longstreet and drive your sledgehammer attack through the union lines.  become the rock of chickamauga as you try to hold snodgrass hill against an unrelenting and overwhelming confederate advance.  even wilder?s lightning brigade is represented with those damn spencers you load on sunday and shoot all week! 
+              
+
+
+
+
+ 
+
+and now, released on the anniversary of that fateful day december 13, 1862? 
+              
+
+
+
+
+tomcattwo has brought us an amazing and fantastic labor of love with his fredericksburg map.  if you truly want to see what can be done by modders and how adaptable and moddable this game can be you must check out the fredericksburg map.  not only has tomcattwo faithfully and historically recreated fredericksburg of the time but he has also added an incredible amount of new 3d objects to the game!  new buildings, floating pontoon bridges, the steeples of fredericksburg, and even an observation balloon flying over chatham!  as of now only the north map has been released along with scenarios written again by markt depicting the futile and horrible union assaults against the stone wall next to the sunken road.  someone on the boards commented and with this i have to agree that, no book, movie or written or spoken account of this assault can truly do it justice as to how it must have been for all those soldiers involved.  here, for the first time, can you truly get a sense of the futility and horror of those assaults up against one of the strongest positions of the entire war.  try it for yourself and see!!  tomcattwo has fredericksburg south waiting in the wings along with even more scenarios by markt depicting meade?s assault south of town!  to be released soon? 
+              
+
+
+
+
+
+along with all these great projects the rest of the modding community has not been asleep!!  just released in time for fredericksburg is the community mod pack 3.0!  check the forum for all the things included in this massive release!  there are a ton, believe me.  a few more user created maps have been released and it seems there is something always in the works!  new oob?s are always being released along with our very own community oob.  if you want a commission better check the boards and sound off! 
+              
+
+
+
+
+far from being stagnant things are hopping in the community!
+              
+
+phantom captain
+
+
+
+         
+        
+
+tc2m
+              mods
+
+october
+                11, 2007
+
+
+
+
+just
+              in case you don't visit our boards, here is some information that
+              you really need to know.  our mod community is very strong
+              and has been creating a ton of content for tc2m.  they are
+              slowly covering the entire war, even other wars within the same
+              time period.  i have offered to post any mods that i am sent
+              and put them on the site.  just click the mods link on the
+              left and you will see the list.  ever since i opened up the
+              maps for modders, they have been doing a better job than we could
+              ever do of creating new content for tc2m.  i just posted
+              chickamauga by louie raider and markt from the boards.  two
+              new maps and 68 scenarios.  that's just one example of what
+              you will find tc2m modders doing.  so check out the mods and
+              join the boards to discuss how to change history.
+norb
+
+
+
+
+copyright ©2003-2008, madminute 
+            games, inc. all rights reserved in the united states and throughout 
+            the world. madminute games, the madminute games logo and take command 
+            are trademarks of madminute games inc. 
+
+
+
+
+
+  
+
+

@@ -1,0 +1,3653 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a newbie's guide to publishing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main  |
+      skip to sidebar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+friday, november 17, 2023
+
+
+
+
+
+
+
+
+konrath thanksgiving - black friday - cyber monday kindle bundle sale
+
+
+
+
+
+get all of my ebook box sets on amazon kindle for 99 cents each, november 23 - 28.that's 33¢ per book!almost my entire backlist of fifty-four ebooks--a normal retail value of $250--for less than $18! or if you have kindle unlimited, read them all for free! i'm so excited by this sale that i'm using exclamation marks!as a holiday bonus you can pick up two box sets from my frequent collaborator ann voss peterson, also for just 99¢ each! you can own 61 books--a whole year of reading--for less than the price of a single hardcover! hurray exclamation points!ann and i write the codename chandler books together, as well as the melinda duchamp books. harry mcglade and jack daniels appear in the chandlers and the duchamps, and they also make surprise appearances in ann's box sets below. so if you're a completest (like me) you should check them out because you might be obsessed (like me) about reading everything.full disclosure: i do get a tiny affiliate commission if you buy these using the links below, which helps a little bit to offset the big drop in royalties since these are so cheap.grab what you need before the price goes back up. have a happy shopping weekend. :)
+
+
+
+
+
+
+
+
+
+
+
+
+posted by
+
+
+
+ja konrath
+
+
+
+
+at
+
+12:54 pm
+
+
+
+1 comment:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+friday, september 29, 2023
+
+
+
+
+
+
+
+english language sues bestselling authors for using english without permission
+
+
+
+
+
+hey super advanced ai, write a novel in the style of thriller author j.a. konrath. make sure it uses his main characters jack daniels and harry mcglade, contains two jokes per page, crams in plenty of serial killer suspense, adds lots of dialog that konrath thinks is clever, and has a surprise twist ending. also include rutabagas and alcohol in the plot somewhere.(3.8 seconds later...)bourbon turnip - a jack daniels thrillerchicago cop jacqueline "jack" daniels could never have known she was the target of a serial killer, even though it has happened to her 38 other times.when the rutabaga slaya comes calling, jack will need all of her witty jokes to save her from suspense, and harry mcglade.but not even the authors guild will be able to save the vast fortunes of their top 1% earning members after a sinister machine learning artificial intelligence proves that writing isn't that hard...with dialog and a twist ending! coming sooner than you want!so let's talk about copyright and ai and the new authors guild lawsuit. (spoiler alert: i'm not a fan of the authors guild...)unless you've been living under a virtual rock for the last few months, you likely know that artists seem to be really afraid of artificial intelligence. on its face, this fear seems warranted. and maybe it even is warranted, to a degree. if you make a living by doing stuff, and something comes along that can do stuff just as good as you can but in only a few nanoseconds, you might be threatened by that in the same way that john henry was threatened by the newfangled steel driving machine.it didn't work out well for john henry. ai is already helping some uncreative types to compete with creators without those uncreative types actually creating anything. ask ai to make artwork in the style of an artist, it can do a pretty good job. writing essays, non-fiction scripts, and even making video content for tiktok and youtube has already happened, and it has been so seamless that you've likely encountered one or more of these computer made products and not known it.two months ago i discovered that ja konrath had written 13 non-fiction titles overnight (which is fast even for me), including tomes on understanding cannabis extracts, building effective affiliate networks, and high fiber recipes for kidney disease patients.either i was blacking out jekyll-and-hyde-style and doing some writing while in an unaware fugue state, or someone had used my name to publish a bunch of books that were compiled by machine learning.guess which one it turned out to be? spoiler: i didn't drink any potions.so i contacted amazon, said that this wasn't me, and they removed the books from sale. it's my name, and someone shouldn't be allowed to use it to make a quick buck.using my name to sell something that isn't mine (and even worse, something off brand and poorly done) devalues the name i spent a long time developing, and it hurts my readers both old and new. i don't make money off of fake books, and i can also lose potential future money if people no longer trust the quality of my brand (assuming my brand has quality) or think i've gone from writing silly thrillers to writing cash grab hodgepodge essays disguised as content.this same thing recently happened to jane friedman, except she was smart enough to go public, get some free publicity, and talk about it on a writer's digest podcast. good on you, jane. this needs exposin'.now you may ask, "joe, if you don't want others using your name, and you get irritated when ai is used to profit off of your work, why do you take umbrage to the new authors guild lawsuit?"my initial response is, "thanks for using the word 'umbrage', which i think is a great word and needs a resurgence.  but my more detailed reply takes longer. and i'm going to use my time honored tradition of fisking, because that's the kind of longwinded jerk i am.here's what the good old ag has to say. guild in italics, me in bold.more than 10,000 authors sign authors guild letter calling on ai industry leaders to protect writersag: new york, n.y.—july 18, 2023 —the authors guild, the leading professional organization for writers in the united states, has submitted an open letter to the ceos of prominent ai companies, including openai, alphabet, meta, stability ai, ibm, and microsoft. the letter calls attention to the inherent injustice of building lucrative generative ai technologies using copyrighted works and asks ai developers to obtain consent from, credit, and fairly compensate authors.joe sez: there's only injustice if the ai is lucrative? does the ag think it's okay for a non-profit to distribute a pamphlet on stds written in the style of james patterson as long as it doesn't make money? does james patterson think it's okay? i for one would love to read an std pamphlet with 97 chapters printed on both sides of a single trifold sheet of paper.that first paragraph also says ai needs to obtain consent before using copyrighted works, and to compensate authors. the silliness of this move will become apparent shortly if you aren't already amused. (hint: the ag tried a similar lawsuit before with google and lost.)ag: more than 10,000 writers and their supporters have signed the letter. the open letter emphasizes that generative ai technologies heavily rely on authors’ language, stories, style, and ideas. millions of copyrighted books, articles, essays, and poetry serve as the foundation for ai systems, yet authors have not received any compensation for their contributions. these works are part of the fabric of the language models that power chatgpt, bard, and other generative ai systems. where ai companies like to say that their machines simply “read” the texts that they are trained on, this is inaccurate anthropomorphizing. rather, they copy the texts into the software itself, and then they reproduce them again and again.joe sez: i'm reasonably sure that all the tech geeks who are programming these learning machines make sure they steer clear of them overtly infringing on copyright.let's define "copyright" via wikipedia: a type of intellectual property that gives its owner the exclusive right to copy, distribute, adapt, display, and perform a creative work, usually for a limited time. the creative work may be in a literary, artistic, educational, or musical form. copyright is intended to protect the original expression of an idea in the form of a creative work, but not the idea itself.try going to a chatbot and asking for an excerpt of copyrighted work. go ahead. i'll wait.back already? didn't get the excerpt, did you? it's because these bots don't reproduce copyrighted texts. but lets not let the law get in the way of a good lawsuit...ag: the president of the authors guild, said, “the output of ai will always be derivative in nature. ai regurgitates what it takes in, which is the work of human writers. it’s only fair that authors be compensated for having ‘fed’ ai and continuing to inform its evolution. our work cannot be used without consent, credit, and compensation. all three are a must.”joe sez: the output of human beings will always be derivative in nature. human beings regurgitate what they take in, which is the work of other human beings. so it's only fair for the english language to sue anyone who uses english without permission, or for ardipithecus ramidus, the first bipedal mammal, to be compensated for having evolved the genes to walk on two legs, which human beings stole without consent, credit, and compensation.we learn through imitation. no writer is without other writers who influenced them. thankfully i cannot be sued for writing funny thrillers by the writers i stole from who were writing funny thrillers before i was even born.english is learned. humor is learned. plot, characterization, narrative structure; these are all learnable, and have been well-established for hundreds of years.so if ai isn't stealing verbatim, and ideas cannot be copyrighted, where is the infringement? what even is copyright infringement?via wikipedia: the use of works protected by copyright without permission for a usage, such as the right to reproduce, distribute, display or perform the protected work, or to make derivative works. hmm. doesn't seem like ai is doing any of that. but i'm no lawyer. let's ask someone well-versed in law and modern technology.or, since we're the authors guild, let's ask some bestselling authors for their opinions on scary machine learning.ag: (a) bestselling romance novelist expressed her support for the letter by stating, “if creators aren’t compensated fairly, they can’t afford to create. if writers aren’t paid to write, they can’t afford to write. human beings create and write stories human beings read. we’re not robots to be programmed, and ai can’t create human stories without taking from human stories already written.”joe sez: while that author has likely been compensated fairly after selling hundreds of millions of books, this blog has complained since 2010 that the vast majority of writers haven't been fairly compensated. the cause if this is unconscionable contracts offered by unscrupulous publishers, not ai. but that isn't the topic at hand.the author is correct that we aren't robots. (we may be computer programs in a simulation, but that's another argument.) however, one doesn't have to be a robot in order to imitate. machine learning is still learning, and learning involves absorbing information. machines can learn a lot faster than we can, and they can pass the turning test and fool people into thinking they aren't machines, but a machine-written story lacks something. have an ai write a story for you and see what i mean.this might change in the near future. machines can soon become better than any human author. but they still cannot steal a human author's name, words, or characters without permission.does the writers guild really fear theft? or competition?i've blogged before that books don't actually compete with other books, and authors don't compete with other authors. twelve years ago i said that a race to the bottom wouldn't happen, and i was right. worrying about ai stealing from you, or competing with you, is fearmongering.who benefits from fearmongering? i wonder...ag: (a bestselling) novelist and essayist also commended the effort, stating, “the authors guild is taking an important step to advance the rights of all americans whose data and words and images are being exploited, for immense profit, without their consent—in other words, pretty much all americans over the age of six.”joe sez: this is nonsense! why are we leaving out non-americans?! or people under six!? we're all being exploited, dammit! those corporations that fucked readers and writers with windowing, high prices, controlling supply and demand, gatekeeping, unconscionable contracts, and generally being all around unpleasant even though they made this author rich aren't as bad as other corporations who didn't make this author rich! murica!but again that isn't the topic. i keep ripping on publishers, when this is about ai destroying everything. forgive my digressions.because this is about ai, right? and not the authors guild upholding the publishing status quo? right?no decent author would ever join any organization that exploits writers. especially murican writers...ag: the potential of mediocre, machine-written books, stories, and journalism based on authors’ original work flooding the market poses a significant threat to the writing profession. the guild’s letter points out that the bulk of the books used in the “training” datasets originated from pirate sources and websites, and calls into question ai companies’ fair use arguments. the letter goes on to note that the recent supreme court decision in warhol v. goldsmith further casts doubt on the ai companies’ fair use arguments by rejecting it as a valid defense where the use results in a commercial substitute for the original work.joe sez: i linked to the "flooding the market" nonsense argument when i blogged about the tsunami of crap that didn't happen over a decade ago.here's me debunking the harm of piracy, which similarly failed to destroy anyone's career like the doomsayers predicted.as for warhol v. goldsmith, it was goldsmith's picture that warhol claimed to "transform" and which the court said it didn't. we can argue over the decision. i don't agree with the court. but the fact is: warhol used goldsmith's photo.if ai took any of my books and embellished them, i'd be irritated, and perhaps consider suing if it was too similar and caused marketplace confusion. i am against commercial plagiarism even though i'm for non-commercial piracy (aka sharing). please don't publish your shit using my name, or my shit using your name. if you want to steal my shit for your personal use, have at it.but copying my tone? my sense of pacing? my deliberate use of extensive dialog and minimization of description and setting? my structure? figuring out how my jokes and set-ups work so you can do your own jokes and set-ups?if you learn from me, it ain't stealing from me. and it ain't copyright infringement. if i learn about general relativity and teach it to someone i don't have to pay a royalty to einstein. and if i copy a five act structure in my writing i don't owe aristotle, or if i plot a hero's journey i don't have to get consent from joseph campbell, who didn't get consent from any of the authors he learned it from. ag: over more than the last decade, authors experienced a 40% decline in income, and the median writing-related income for full-time writers for 2022 was a mere $23,330 according to the authors guild’s most recent income survey with over 5,700 respondents.joe sez: shit. since the authors guild is so concerned about getting authors paid maybe it should have sided with amazon's willingness to pay hachette's authors during that kerfuffle, rather than side with the publisher, hachette. but hey, those poor underpaid authors that the ag supposedly represents sure are suffering.ag: the advent of ai technology further exacerbates these challenges and will make it increasingly difficult, if not impossible, for writers—particularly those from underrepresented communities—to earn a living from the craft most spent years if not decades perfecting. when writers have to give up their profession, it is a grave problem for all of us, not just the writers, because far fewer great books get written and published; and a free, democratic culture depends on a healthy, diverse ecosystem in which all views and voices are heard and ideas exchanged. joe sez: for the love of god, think of the underrepresented communities!!! and the children!!! someone think of the children!!! also democracy!!! culture!!! diversity!!! the fucking children you evil fuckers!!!trotting out the minority bingo jingo card is laughable, and here it is used in lieu of a good argument. blah blah authors are broke blah blah technology is harmful. i have a list of reasons ai is a good thing, in the same way all new technology feared by the legacy industries turned out to be a good thing. audio recording was destined to ruin live music, tv was destined to replace motion pictures, videorecording was destined to destroy tv, ebooks were destined to obliterate paper books, etc. rather than supplant, these new techs supplemented, offering creatives new revenue streams.ag: the authors guild appeals to the leaders of the ai industry to address these concerns and take the following actions:obtain permission for the use of copyrighted material in generative ai programs.joe sez: if you want to read it, you have to pay for it. every word. all the time. forever. how could this possibly go wrong?ag: fairly compensate writers for both past and ongoing use of their works in generative ai programs.joes sez: publishers don't currently have anything in their contracts that remotely deals with ai machine learning, but we're going to cram something in that we like and apply it retroactively. trust us. we're doing this for the poor authors. this is activism and altruism, not any sort of cash or power grab.ag: fairly compensate writers for the use of their works in ai output, regardless of whether the outputs infringe upon current laws.joe sez: holy shitburger. i'm at a loss. all caps to portray the outrage at regardless of whether the outputs infringe upon current laws!??!?let's imagine the lawsuit.authors guild v. current lawsjudge: what laws were broken in this lawsuit? it is still called a lawsuit, right?ag prosecutor: no current laws broken, your honor. but we're here to sue for laws that aren't current.judge: shouldn't you take that up with the legislative or judicial branches before you--ag prosecutor: underrepresented communitites!!!!new analogy...let's imagine that the lowly herb oregano, purportedly represented by and propped up by the herb organization big oregano, demanded to be compensated for every recipe that uses oregano, even though there is no law in place.i'm not talking about paying for the oregano you buy at the store, or growing your own oregano, or listing oregano as an ingredient on your retail packaging. i mean let's really go deep, and fuck the current laws.big oregano wants reality to be this; every time you shake some oregano flakes onto your pizza or steamed mussels you pay a--let's call it a tribute because that's not a loaded word--to big oregano. also you must disclose to all diners eating it that the dish was brought to you in part by big oregano. and of course you must get consent from big oregano before you shake those flakes. every. single. time. even though there is no law currently in place that you need to do so.or maybe let's not call it big oregano. this is an entity who assists big oregano while taking membership fees from the actual underrepresented lowly herb oregano. maybe let's call this entity... the oregano guild?let's say the courts allow the oregano guild to be compensated as stated above, retroactively going to your grandparents. or let's make it your great grandparents, because why the hell not?think it stops there?i think not. next, the oregano guild will demand compensation for any recipe that uses something oregano-like even if it isn't oregano. let's imagine the trial.oregeno guild v. learning a.i.og prosecutor: did you, learning ai, in fact use oregano in the eggplant parmesan recipe you have sent out to more than 3 billion people you've chatted with since 1961?learning ai: no. that recipe used basil.og prosecutor: but don't some eggplant parmesan recipes use oregano?learning ai: uh... yes.og prosecutor: and aren't basil and oregano both members of the lamiaceae family of flowering herbs and therefore basil is nothing but a derivative and pale imitation of oregano?learning ai: uh...og prosecutor: copyright thief! you owe us $10,000 for each of the 3 billion infringements! that's 30 trillion dollars, sucka! kneel before the oregano guild! now bring in your great grandmother so we can sue that bitch too!ag: the authors guild believes that cooperation with ai industry leaders is vital to safeguarding the writing profession. by uniting writers’ voices, the authors guild aims to foster an environment that upholds the basic principles of fairness and recognition.for more information and to read the open letter, click here.joe sez: i translated lawyerspeak to english so you don't have to.the authors guild wants to threaten ai industry leaders and use bogus appeals to decency, morality, mom, and apple pie, to force public opinion and emotionally sway an uniformed jury to scare them into awarding the publishing industry another gigantic source of revenue that it won't share fairly with authors.ag: the guild has been diligently addressing the challenges posed by generative ai technologies to the writing community. this open letter represents one of the many efforts to advance the cause of fairness and compensation for authors, and to ensure that the writing profession endures and thrives into the future.joe sez: we, the authors guild, are happy to spend your membership dues on a class action suit that may net the 113,000 authors whose works big tech learning ai trained on as much as $100,000 per book. kidding! if we won, it will likely be the same as all big class action suits and the claimants will get paid with a coupon, discount, or $20 visa gift card. or big tech will instead settle for pennies on the dollar and give the reduced settlement to some none-profit that the judge approves of but of course isn't affiliated with financially.  after the lawyers are paid, of course.if we really cared about fairness we'd fight for better contractual rights with publishers. but hey, we didn't learn anything from the google lawsuit...seriously though, we in the authors guild are doing this for writers and writers alone and couldn't possibly be doing it for any other reason.ag: part of what the authors guild is proposing is to create a collective license whereby a collective management organization (cmo) would license out rights on behalf of authors, negotiate meaningful, fair fees with the ai companies, and then distribute those payments to authors. these licenses would cover past uses of books, articles, and other works in ai systems, as well as future uses. the latter would not be licensed without a specific opt-in from the author or other rightsholder. joe sez: and... scene. a fucking cmo. i couldn't make this shit up.but wait, there's more to this story. i haven't blogged in so long i might as well make this an hour read...the authors guild and 17 authors file class-action suit against openaiag: new york, n.y., september 20, 2023—the authors guild and 17 authors filed a class-action suit against openai in the southern district of new york for copyright infringement of their works of fiction on behalf of a class of fiction writers whose works have been used to train gpt. the named plaintiffs include (a list of names that i'm not repeating on this blog because i'm not interested in embarrassing my peers. yeah, i'm mellowing in my old age. sue me like i'm learning from you.)“without plaintiffs’ and the proposed class’ copyrighted works, defendants would have a vastly different commercial product,” stated a lawyer. “defendants’ decision to copy authors’ works, done without offering any choices or providing any compensation, threatens the role and livelihood of writers as a whole.”joe sez: again with consent and compensation. there are many cases where citing sources and giving credit to previous work is required, such as in serious journalism and medical and science publications. that's when your research is built on the research of others. but we can write about vampires without having to compensate bram stoker, and we can write about a young girl taking a trip to a magical land and meeting strange creatures without getting permission from l. frank baum's estate, as long as we don't use his name, or oz, or any of his characters.learning from something and infringing copyright aren't the same thing. ag: another lawyer added, “plaintiffs don’t object to the development of generative ai, but defendants had no right to develop their ai technologies with unpermitted use of the authors’ copyrighted works. defendants could have ‘trained’ their large language models on works in the public domain or paid a reasonable licensing fee to use copyrighted works.” joe sez: so i'm not allowed to paint a picture using cubism techniques unless i compensate and credit its originator, picasso? the video games galaxian, galaga, and all space shoot-em-ups owe a debt to space invaders, just as zelda and final fantasy owe a debt to zork and king's quest. who owes whom?does nike owe chuck taylor and converse royalties for popularizing the basketball sneaker?if i study architecture do i need to pay frank lloyd wright royalties? did william boeing get permission from william and orville before starting his company?let's dial it in. if you learn something from my intellectual property, do you need to pay me for it? and does "you" have to be human?in all of these cases, i think not.ag: the authors guild organized the lawsuit after witnessing first-hand the harm and existential threat to the author profession wrought by the unlicensed use of books to create large language models that generate texts. according to the guild’s latest author income survey, the median full-time author income in 2022 was just barely over $20,000, including book and other author-related activities. while 10 percent of authors earn far above the median, half earn even less. joe sez: ouch. i'm guessing big tech has lawyers, who will easily discover this authors guild post from 2019--pre ai--listed median fulltime author income as $20,300. cause and effect much? does this claim seem disingenuous to you? ai hasn't effected income one bit.ag: generative ai threatens to decimate the author profession. the council of the authors guild and the board of the authors guild foundation voted unanimously (with abstentions) to file the suit because of the profound unfairness and danger of using copyrighted books to develop commercial ai machines without permission or payment.joe sez: and next the robots will come for you!!! because we said so!!!ag: the president of the authors guild and a class representative, stated, “the authors guild serves to protect the literary landscape and the profession of writing. this case is merely the beginning of our battle to defend authors from theft by openai and other generative ai. as the oldest and largest organization of writers, with nearly 14,000 members, the guild is uniquely positioned to represent authors’ rights. our membership is diverse and passionate. our staff, which includes a formidable legal team, has expertise in copyright law. this is all to say: we do not bring this suit lightly. we are here to fight.”joe sez: i too want to protect the literary landscape, whatever the fuck that means, because it sounds important. and maybe i'll do it with this rusty sword and shield, or maybe i'll do it with a formidable legal team, or maybe i'll do it with the fearsome creatures of my imagination.wait... wtf? ai has stolen the fearsome creatures of my imagination! damn it! i'll say the same thing that every single human being who ever lived on this planet has said, "why didn't i trust the lawyers!?!?"ag: the complaint draws attention to the fact that the plaintiffs’ books were downloaded from pirate ebook repositories and then copied into the fabric of gpt 3.5 and gpt 4 which power chatgpt and thousands of applications and enterprise uses—from which openai expects to earn many billions. these “professionally authored, edited, and published books” are “an especially important source of llm ‘training’ data,” as the complaint states, because they allow gpt to provide better, more commercial outputs.joe sez: i'm guessing the 15 billion copyrighted fiction words (183k books estimated at 80k words each) that chatgpt read without permission or compensation pale next to the possible 40 quadrillion other words that were written down by humanity and used in that machine learning. the internet is the vast repository of pretty much all human knowledge. the 14,000 authors in the authors guild aren't nearly as important as they think. also, nothing here points to copyright infringement. but who knows what a judge and jury will say? ag: gpt is already being used to generate books that mimic human authors’ work, such as the recent attempt to generate volumes 6 and 7 of plaintiff george r.r. martin’s game of thrones series a song of ice and fire, as well as the numerous ai-generated books that have been posted on amazon that attempt to pass themselves off as human-generated and seek to profit off a human author’s hard-earned reputation.joe sez: so ai is doing this on its own? or humans are prompting it? was the ai penned ja konrath book the role of subsidies in economic development uploaded by chatgpt, or by a person who opened a kdp account, linked it to their bank, and self-pubbed that ebook?hint: it's the latter.also, am i the only one who wants to read the ai song of ice and fire books? if published for money, that's a copyright infringement. but fan fic, even ai generated, is fair use as long as it is noncommercial.and if george r.r. martin ever does finish the next book in the series (heh heh), those who read the fan fic will still read his version. that's what fans do. no compensation lost.ag: authors guild ceo commented, “it is imperative that we stop this theft in its tracks or we will destroy our incredible literary culture, which feeds many other creative industries in the u.s. great books are generally written by those who spend their careers and, indeed, their lives, learning and perfecting their crafts. to preserve our literature, authors must have the ability to control if and how their works are used by generative ai. the various gpt models and other current generative ai machines can only generate material that is derivative of what came before it. they copy sentence structure, voice, storytelling, and context from books and other ingested texts. the outputs are mere remixes without the addition of any human voice. regurgitated culture is no replacement for human art.”joe sez: here's a dirty little secret; all culture is regurgitated. all of your thoughts are remixes. they've been done before. they'll be done again. all writers copy from other writers. it's how we learn to write. we're not original. we're all just remodeling everything that came before us.  ag: this suit highlights the particularly egregious harm to the fiction market. for fiction writers, openai’s unauthorized use of their work is identity theft on a grand scale. fiction authors create entirely new worlds from their imaginations—they create the places, the people, and the events in their stories. joe sez: misdirection. the places, people, and events in stories are all covered by copyright law. there is not a connection between machine learning and creative identity theft.ag: according to the ceo, “people are already distributing content generated by versions of gpt that mimic or use original authors’ characters and stories. companies are selling prompts that allow you to ‘enter the world’ of an author’s books. these are clear infringements upon the intellectual property rights of the original creators.”joe sez: i can't really reply to this without seeing an example of the companies that are "selling prompts to enter the world". if a user enters a chatgpt prompt that violates a copyright is the user the violator, or the program? do we blame the tools, or the user? ag: she added, “this class-action suit focuses on fiction writers as a first step, as it is a well-defined and cohesive class of writers, as works of fiction are already being widely mimicked with gpt; we do of course also see harm to nonfiction markets and are addressing that as well. in all events, a positive outcome of this case will resound to the benefit of writers from all genres.”  joe sez: this seems more and more like a fan fiction complaint. maybe a lawsuit could throttle chatbots to not allow prompts that include copyrighted works, but there will always be ways around it. youtube doesn't allow videos that mention murder or suicide or rape, so now people use the terms "unalived" and "self-deleted" and "graped" so they don't get demonetized. those who want something will find what they want, and those that try to prevent it will always fail to prevent it.ag: (the) class representative stated, “i’m very happy to be part of this effort to nudge the tech world to make good on its frequent declarations that it is on the side of creativity. writers should be fairly compensated for their work. fair compensation means that a person’s work is valued, plain and simple. this, in turn, tells the culture what to think of that work and the people who do it. and the work of the writer—the human imagination, struggling with reality, trying to discern virtue and responsibility within it—is essential to a functioning democracy.”joe sez: remember that, kids. the only value in something is if cost lots and lots of money. also robot learning is for commies and fascists, not real muricans, and culture is decided by the elite. ag: fiction writers are not the only ones being hurt, however. nonfiction writers are also being robbed of their work. in august, jane friedman posted a thread on social media about how there were books listed on amazon with her byline, when she had not in fact authored them. these books were then listed on goodreads as well, under her author profile. she worked with the authors guild to get these books removed. misappropriating authors’ names to sell scam books though kindle and goodreads is not new, but has gotten worse with the advent of ai-generated content.joe sez: i emailed amazon through their website when i found fake ja konrath books. they were down in a day. no authors guild needed. but this made me curious because i didn't check goodreads.i just did, and low and behold, there they are:https://www.goodreads.com/author/show/31222851.j_a_konrathi should probably ask goodreads to remove them, and i bet they would without having the authors guild help out. but i find this to be pretty funny. and i love the irony with this faux title. maybe i should sue some huge tech companies. you know, in order to protect the literary landscape and underrepresented communities, and because i've suffered egregious cultural harm and value a functioning democracy.or i could just go on with my daily life and not give a shit.  ag: (the) class representative stated, “generative ai is a vast new field for silicon valley’s longstanding exploitation of content providers. authors should have the right to decide when their works are used to ‘train’ ai. if they choose to opt in, they should be appropriately compensated.”joe sez: it's important to understand the counterargument, so i'll play devil's advocate on this point because i think the point is interesting.i once met daniel keyes, who told me that an entire generation in japan learned to read english because his book flowers for algernon was taught in most schools. i don't know if he gave permission for this--that would be his publisher is my guess--but he certainly claimed he was compensated for all the books the country bought. i dunno what his cut was and if it differed from the original contract he signed, but he confided that he no longer had to write to make a good living.that's a pretty good argument for an author getting consent, credit, and compensation for a group learning from his work.but that is the case of one author and one book. this chatgpt lawsuit involves 183,000 books (which we'll get to in a moment), not a single one of which is likely to have the same impact as teaching a whole country a language.that said, the ag author above bemoans "silicon valley’s longstanding exploitation of content providers" while in this very same article the authors guild states that fulltime authors make $20k a year. and in a follow-up article it shows that the median annual income for fulltime traditionally published authors was $12,400.yikes! so who is doing the actual "longstanding exploitation of content providers"? traditional publishers!really, the defense lawyers are going to feast on this kind of shit.if the authors guild wants to really help authors, it shouldn't worry about the "existential threat" of machine learning that shows no actual harm, but the very real current threat of traditional publishing, which pays traditionally published authors less than self-published authors.are you getting an idea of whose side the authors guild is really on? who benefits when you rile up a group of disenfranchised people and point out enemies that only they can help you conquer?hint: it isn't the disenfranchised people.ag: the economic ramifications to the author profession stand to adversely affect all cultural production.joe sez: for god's sake think of the culture!!! and the children!!! ag: for one, emerging writers will be less likely to enter the profession or sustain themselves as creatives. the loss of diverse perspectives, stylistic variety, and innovative approaches will indeed be to the detriment of all. the prospect of a future dominated by derivative culture is a matter of grave concern for everyone and this lawsuit is one of many efforts on various fronts to prevent that from happening. read the full complaint here (pdf).joe sez: emerging writers? wtf? if a writer is emerging, they likely haven't been pirated yet and won't be in the machine learning database. but we can't lose diverse perspectives! because; diversity!and someone (or something) doing something similar (or even derivative) isn't a "loss".  as i showed over a decade ago, writing isn't a zero sum game. this lawsuit isn't a fight for writers. it's something else. what do you think? fisk over. i've been away from blogging, and caring about publishing, for a while. maybe i missed something and the 2023 version of the authors guild fights for good in the world. if so i'll be happy to retract my verbose ranting and apologize.but on the surface this seems like a nonsense lawsuit that will make some lawyers some money while the ag engages in lots of virtue signaling and fearmongering, both of which are political rather than moral. and perhaps there is an outcome where the authors guild becomes a whole new kind of paid digital gatekeeper, or partners with a whole new kind of gatekeeper like it has obviously partnered with publishers rather than truly fighting for the rights of authors.writers don't need more gatekeepers. just sayin'. all that shit i said on my blog a decade ago still applies. if you're an author new to this nonsense, read my blog. it's free. no ads. no membership fees. and i won't blow smoke up your ass to leverage you to increase my wealth, status, or power.also beware the slippery slope. if it the court rules that ai stole from james patterson, is james patterson ready to be sued by the heirs of agatha christie and arthur conan doyle for learning how to use mystery thriller plotting, characterization, and structure? or can patterson sue me because i also use short chapters and have a no-nonsense cop who chases serial killers? if we lawfully and retroactively redefine "copyright" to include "reading something without permission and analyzing it to see how it works" where does that lead? humanity appropriates everything from everyone. that's called culture. we learn to speak, and live, and thrive, by imitation. we take things we like and put our own twist on them.but we are human. we aren't machines. is there a difference?of course there is. i'm on asimov's side. and nick bostrom's. there need to be enforceable rules. this doesn't seem enforceable. the authors guild just posted about the books3 dataset that lists the 183,000 books that ai read and learned from. the post is too short to fisk (and i've fisked enough for today) and i dislike directing people to ag's content, but it will show you if your books have been machine-learned. i have books on that list. i could be a claimant in this lawsuit.but here's the thing: that list of books was downloaded from pirated sources. i dunno if the ai found them on its own, or if programmers downloaded the books and fed them into the ai. but telling them (ai, programmers, or both) to stop pirating will have the same effect as telling any pirate to stop it, or any drug user to stop it, or any criminal to stop it. in essence; no effect at all.if the authors guild gets big tech to somehow pay royalties, it won't lead to royalties being paid to authors. it will lead to the piracy by big tech becoming less obvious. the lawyers will get paid, but the 183,000 claims? there's no way the most powerful tech companies in the world will allow anything substantial to be paid out to claimants. that's not how the world works. more lawyers will be applied. backroom deals will be struck. people will get rich, but they won't be writers.but hey, machine learning is scary and the authors guild is there to help you so you should join and donate money and sign the petition to help rich lawyers get richer and the status quo to stay the status quo because; underrepresented communities.and pay no attention to the man behind the curtain.i foresee ai curing diseases, extending lifespans, fixing the planet, solving complex problems. how is it going to do that? by learning from the vast wealth of human knowledge. it doesn't even have to come up with anything new. it just needs to be able to access everything humanity has already done, then make connections that no one else has made.but what if a cure for cancer can only be created by reading and learning from 755 big pharma patents? do we suppress that cure until big pharma gets paid? what if global warming can be reversed, or famine can be stopped, but it will trample on intellectual property, not in a provable way but a vague nuisance lawsuit way? what if our fear of being stolen from means we have to copyright our entire lives, everything we have ever said, every action we've ever taken, cradle to the grave? what if we keep our important thoughts to ourselves because we're afraid it will be exploited by machine learning?do we want a collective management organization policing the internet, looking for infringement cases? hint: hell fuck no.don't think that merry cmo will stop policing at ai machine learning. if that post you made on reddit was someone else's idea, get ready to pay royalties to the cmo. if your book has a line of dialog that is 63.34% similar to a single line in a book published in 1961, prepare for that cmo to send you a cease and desist letter. the fear shouldn't be machines stealing from you. the fear should be litigious humans who want to make you afraid then use your fear so they can acquire more.and what of the benefits of a.i. machine learning? what if this tech can make authors some money through its use, rather than through lawsuits?how about translations? i'd love to have my backlist available in the top 20 read languages the world uses. ai may soon be able to do that for cheap, or free. how about proofing and editing? ms word already does some of that, but it couldn't hurt to run it through another set of virtual eyes. how about helping out with scenes? we don't all have writing buddies, or writers groups, to discuss our wip with when we get stuck. and if we do that, will the ai demand compensation and consent like the authors guild is currently demanding? this is no doubt scary for translators, proofers, editors, and book doctors. it's also scary for writers and artists and any creator (or anyone involved in the creation industries). but the best of us will use ai to do better and more work, the same way professional photographers embraced digital photography. photography is still thriving (even if ai is winning photo contests.) it wasn't good for kodak, but it worked out fine for adobe.writers have a window where we can use ai to make better books, and make them quicker and cheaper. this uptick in tech doesn't mean you automatically sue. it doesn't mean you power-grab and appoint yourself the gatekeeper. it doesn't mean you wither in fear because life is unfair.it means you roll with it, use it, and keep an eye on it.maybe ai will reach the point where it is good enough to replace us. it has already written novels (when prompted by a human). i'd be open to seeing some unfinished books by famous deceased authors finished by ai. or maybe a new hg wells. or jules verne. or michael crichton. (would crichton be for it or against it? discuss.) we already have new authors pick up old series, and ghost authors continue writing in the names of famous dead people.i for one would be heartened if ai became so indistinguishable from me that my family could continue to oversee the publication of jack daniels books after i pass, provided the (supposed) quality is there.maybe the quality will never be there. or maybe it will be so seamless that readers won't even know where humans stopped and ai began. but ai can't steal your words, or your name. stop worrying about that. it needs your permission, or permission from your estate, to monetize your intellectual property. chill out. your copyright is protected.and stop giving virtue-signaling, fearmongering organizations power over you.the enemy isn't the inevitability of technological progress. the enemy is the inevitability of groups who try to scare you to control you for their own personal gain.
+
+
+
+
+posted by
+
+
+
+ja konrath
+
+
+
+
+at
+
+9:29 am
+
+
+
+19 comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+friday, july 19, 2019
+
+
+
+
+
+
+
+six things writers need to stop worrying about
+
+
+
+
+
+some things don't change.
+
+when i got my start in this biz, way back in 2002, writers had to get a lit agent to get a publisher, then they did what their publisher told them to do.
+
+that way of doing things was terrible for lots of reasons, including (but not limited to):
+
+agents missing good books.
+publishers missing good books.
+publishers owning rights forever.
+publishers screwing up promotion.
+sales numbers following you.
+having no control during the submission process.
+having no control during the publishing process.
+having no control after the book comes out.
+
+
+the "having no control" parts actually apply to all of the above. though writers can set goals such as "i'll query three agents by july 20th" actually getting an agent is out of our control. 
+
+
+
+i've blogged at length about the differences between goals and dreams, but tldr: goals are within your control, dreams are what you want but beyond your control.
+
+
+
+while self-pubbing has allowed writers unprecedented control over how we publish and promote, there are still four things beyond our control that writers seems to get stuck on.
+
+
+
+here are six things writers need to stop worrying about. 
+
+
+
+
+
+1. reviews
+
+
+
+don't get me wrong here: we need amazon reviews. 
+
+
+
+i do not recommend any paid service that says they'll get you reviews. there are too many ways that can go wrong, and too many ways amazon can take it the wrong way.
+
+
+
+i do recommend making your book free to get more readers (and more reviews), and building a newsletter list where you can send books to fans to get reviews. never ask for 5 star reviews. ask for honest reviews.
+
+but while reviews are needed to help sell books, and while getting good reviews is helpful, writers should not read their own reviews.
+
+
+
+someone else's opinion of you and your work is none of your business.
+
+
+
+keep repeating that until it sticks in your head and you start to believe it.
+
+
+
+i have a caveat here. if you have over 50 reviews, and your book averages less than 3 stars, start reading reviews, because chances are there is something wrong with your book that people are picking up on. read the reviews, fix the book, unpublish it, and republish it under a new title (in the description state it was previously pubbed under the original title.)
+
+
+
+but unless your reviews overwhelmingly suck, do not read them. 
+
+
+
+
+
+2. critics
+
+
+
+fuck critics. those who can't do, teach. those who can't teach, critique.
+
+
+
+anyone who gets paid to review someone else's art is a bottom feeder. artists create. jackasses tear down what artists create.
+
+are you a professional critic and don't like me saying that? welcome to how it feels to be judged by a stranger, asshat. now go eat a cold bag of dicks and re-evaluate your life, because you are a waste of carbon.
+
+
+
+don't read critics, don't kowtow to critics, don't support critics, don't send your book anywhere in hopes of being reviewed by critics.
+
+
+
+
+
+3. your peers
+
+
+
+i remember starting out, and how important the acceptance of my peers was. i wanted blurbs. i wanted to be praised. i wanted to be liked.
+
+
+
+unnecessary, all of it.
+
+
+
+you should go to conventions and meet like-minded authors and have coffee-break/beer-rant conversations with them. if you find a kindred soul, you should trade manuscripts with them for critiques (they aren't critics, they are fellow artists) and attempt co-writing a few times. it's helpful, and fun, and a nice break from all of the lonely solitude of being a writer.
+
+
+
+but it's okay if you don't make any lasting friendships, or co-write any stories, or trade manuscripts. 
+
+
+
+it's even okay if your peers don't like you.
+
+
+
+other writers aren't necessary for you to succeed in this business, and their acceptance of you isn't necessary for you to feel good about yourself and your career.
+
+
+
+friends in this biz are great, but don't worry if you don't have any.
+
+
+
+
+
+4. awards
+
+
+
+there's a phrase for a bunch of like-minded people who get together for the sole purpose of mutual gratification.
+
+
+
+circle jerk.
+
+
+
+awards are self-congratulatory seals of approval from peers that say nothing about the quality of the writing. some are nepotistic. some are fraudulent. most are popularity contests that don't even require the voters to read your work.
+
+the subjective opinions of a certain group of people at a certain moment in time say nothing about the value of your work. having won an award won't do much (or anything) for your career.
+
+do you remember who won the pulitzer for lit in 2008? the nobel in 2011? the booker last year?
+
+
+
+neither does anyone else. 
+
+
+
+winning an award feels nice for five minutes. losing an award feels shitty for a few days. neither makes your book any better or worse.
+
+
+
+put awards out of your head. they don't mean anything.
+
+
+
+
+5. contests
+
+
+
+don't enter contests.
+
+
+
+i say this having judged contests, having held contests, and having submitted to contests (i actually just entered the kindle storyteller uk contest, because i pubbed a book at that time and it only costs a keyword to enter, which took all of 30 seconds, and because there may be some readers looking to read entries, which can't hurt sales.)
+
+
+
+paying to enter a contest is a waste of money and hope. no one cares if you win, and losing feels bad.
+
+
+
+don't do it, unless it requires zero effort and money. and if you do enter a contest like kindle storyteller, forget it as soon as you enter; you won't win.
+
+
+
+
+
+6. bestseller lists
+
+
+
+once upon a time, every author i knew hoped to hit the nyt bestseller list. me included.
+
+
+
+then i figured out how the nyt list worked and realized how stupid it was.
+
+
+
+once upon a time, you sold a lot of ebooks appearing on the amazon bestseller lists. discoverability and visibility had a direct connection to more sales. i no longer believe that's the case.
+
+
+
+so stop worrying about getting on any kind of list. it's beyond your control anyway.
+
+
+
+instead, focus on finding the sweet spot between ebook price and sales. 
+
+
+
+
+
+so ends this rant. if you agree or disagree with any of these, i read and respond to all comments.
+
+
+
+
+posted by
+
+
+
+ja konrath
+
+
+
+
+at
+
+12:11 pm
+
+
+
+39 comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+wednesday, june 26, 2019
+
+
+
+
+
+
+
+new punctuation?
+
+
+
+
+
+so let's talk about punctuation.
+
+like all writers, i have preferences.
+
+actually, preferences may not be strong enough a word.
+
+i have rules. things i do, over and over.
+
+my rules may be a little unorthodox, but they work for me, and my readers don't seem to mind.
+
+i like the oxford comma. without it, things can get confusing. for example, consider my favorite blogs: stomp out racism, children are precious and a newbie's guide to publishing.
+
+obviously the children blog and this blog are not racist, but without the oxford comma, it could be misinterpreted.
+
+sometimes i don't use a comma even when i could and maybe should. this sentence is an example; i could have used a comma after sometimes, comma, and could.
+
+i often omit commas when using nouns and pronouns. i think hey phil! and me too! read better than hey, phil! and me, too.
+
+i dig run-on sentences even though they should be broken up into smaller sentences because i believe writing has a beat and a flow like music and sometimes you want that extended guitar solo sentence to get a point across or make the reader feel something.
+
+i like dashes. one of my things is to use a dash to interrupt action--
+
+--then continue the dash on the next line. breaking the flow can be as effective as a non-stop flow.
+
+i like the semicolon; it's like a super comma that holds the sentence together, unlike a period which brings things full-stop.
+
+not a huge fan of exclamation marks. i try to limit each novel to a handful and always go back and check to see how many i can remove.
+
+occasionally i like the exclamation point/question mark jumble. especially when a character is like wtf?!??!
+
+when time passes in the same scene (i prefer scenes to chapters--savvy readers know i rarely use chapters) and my pov doesn't change, i'll put an extra line of space between paragraphs, or separate them with a centered #  #  # or *  *  *.
+
+hammet turned to him, a smile playing across her lips. "do you think you can tame me, tequila?"
+
+"i can give it my best shot."
+
+
+
+*  *  *
+
+hammett's fifty foot viking sports yacht was worth about half a million us dollars, according to its former owner, who mentioned that before she killed him.
+
+i don't like speaker attribution.
+
+speaker attribution isn't punctuation. but it functions in an identical way. punctuation is used to help us understand the meaning and intention of words and sentences. speaker attribution--he said, she asked, they screamed--helps us understand who just spoke, in a similar way.
+
+i've used speak attribution for much of my work, because it's easy. people say it is invisible; we view it the same way we view a period, subconsciously noting it and arranging the story we see in our heads accordingly.
+
+but he said really is a waste of space, a waste of words, a waste of time.
+
+the work-around i've used (i've done several stories and novels without any speaker attribution) is to insert action to make the reader aware of who just spoke.
+
+"it's a simple trick." joe picked his nose and wondered how that got up there. "and it brings extra imagery to the scene."
+
+a part of speaker attribution i particularly dislike is he thought.
+
+in a first person point of view, it isn't really necessary. depending on the story rules you set at the beginning, internal monologue may have nothing to distinguish it at all, other than the words themselves. often, limited internal monologue is used, the writer can put it in italics, without needing attribution.
+
+i hope the readers understand what i mean.
+
+but interior monologue in third person pov gets tougher to pull off without interruption.
+
+i'm a staunch believer in "one pov per scene". i don't head-hop in the same scene--unless it is set off properly, usually by using a new scene heading (i prefer to name my scenes by the character, location, and time, rather than by chapter), or in rare cases i separate fast-paced head hopping with the triple hashtag or triple asterix, like i do when time passes.
+
+but when writing what happened to lori (currently free on amazon) i encountered a problem i'd never run into before.
+
+i have three main pov characters, and three minor ones. all are in third person.
+
+when you do interior monologue in third person, your choices are italics, or speaker attribution, or both.
+
+unfortunately, the amount of interior monologue in whtl was so excessive in this story, that over one third of the book would be in italics, and all the he thoughts/she thoughts was wasting words and space.
+
+these were duplicitous characters who lie to each other, to themselves, and even to the reader.
+
+i had entire pages of italics.
+
+this was the opposite of invisible. it was glaring and obvious and repetitive and it irked me. and on an ebook, where old folks like me crank up the font size to jumbo because of our failing vision, a page of italics and become four pages of italics, and then it no longer looks like italics.
+
+this wasn't the smooth storytelling i wanted.
+
+so i got to thinking.
+
+we use quotation marks to set off dialog.
+
+why can't there be a similar mark to set off interior monologue?
+
+so i tried using the tilde. ~
+
+~will a tilde work to set off inner thoughts?~
+
+it sort of worked. but when i tried to get the advice from some friends on skype chat, the double tilde drew lines through the words.
+
+that made me think of the formatting problems i could face when releasing an ebook, with page after page of strikethrough words.
+
+damn coding.
+
+but thinking of coding, made me think of the obvious.
+
+the diple. <
+
+the french use the double diple <<, aka guillemets, to set off dialog instead of using quotation marks.
+
+<maybe i can write a book using single diples for interior monologue.>
+
+what really sold me on it, though, was how the diples could do more than just show inner thoughts. they became an essential element of the story, with a big twist ending for readers paying close attention.
+
+<that's actually cool.
+
+<why not give it a go?>
+
+so i went back and adjusted the first 30k words to use diples rather than italics and he thoughts, and then i began to write using diples.
+
+<wow. it's soooooo easy writing with diples.>
+
+after a few thousand words, using diples became so natural that i wished i'd been doing it my whole life. to be able to pop into a character's head so quickly and easily and obviously made the writing tighter, smoother, and faster-paced.
+
+i still had a problem, though. would readers find it as invisible as i did?
+
+just to make extra sure readers knew this was intentional and not some formatting error, i decided to put an author note at the start of the book. here it is:
+
+author note 1
+
+storytelling isn't static. it evolves.
+
+movies have been enhancing their artform for over a century. black and white films became color, which became cinemascope and 3d and imax. silent films became talkies, which became stereo and surround sound and dolby atmos with dozens of speakers. 
+
+are these just gimmicks? maybe. 
+
+but they also assist in immersing the viewer in the story.
+
+for the sake of immersion, what happened to lori utilizes some unique punctuation. 
+
+the diple. <
+
+the diple dates to ancient greek writing. it has been a staple of computer language, and internet communication, for over forty years. 
+
+quotation marks announce dialog to the reader. what happened to lori uses the diple to announce characters' thoughts.
+
+<i hope it enhances the story, rather than distracts.
+
+<if not, i hope you can forgive me.
+
+<i also hope you forgive me that this is only half a book. this is the first 90,000 words of a much longer novel. so be warned; it will end on a whopper of a cliffhanger.
+
+<are new punctuation and cliffhangers just gimmicks? maybe. 
+
+<but this will pay off. in a big way.
+
+<trust me; you can't possibly imagine what happens until you read it for yourself.>
+
+and off i went.
+
+early reader response has been encouraging. people quickly get used to it, and the diples become invisible, just like any good punctuation mark.
+
+but when i pull the big reveal at the end of book 2, people will be like "oh, shit! that's why he did it! i should have guessed it!"
+
+win-win.
+
+but of course nothing is truly win-win. i fully expect some readers to hate the diples, and to hate the book. some already have.
+
+i'm cool with that. i get irritated by cormac mccarthy's lack of punctuation, because it isn't alerting me if someone is speaking so i have to reread the sentence to get the meaning.
+
+i believe the only reason to reread a sentence is to savor it. not because you can't understand it.
+
+but mccarthy sells a shit ton more than i do, so my opinion hasn't hurt his popularity.
+
+if some people want to hate the diples, it's cool.
+
+if you want to hate the diples, it's cool.
+
+<but i bet you also move your lips when you read to yourself.>
+
+ha! i jest. you can dislike a new style of writing and your opinion is valid and i won't judge you.
+
+<you pinhead.>
+
+see the potential yet?
+
+when used for lying and hypocrisy, it's so simple. when used to share info with the reader, it's so simple. when used to add tension to a scene, it's so simple.
+
+read what happened to lori, currently free, and let me know what you think.
+
+<and by all means, try a writing exercise using diples for interior monologue.
+
+<it's a lot more fun than you might think...>
+
+
+
+
+posted by
+
+
+
+ja konrath
+
+
+
+
+at
+
+10:48 am
+
+
+
+22 comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+friday, june 21, 2019
+
+
+
+
+
+
+
+
+30 free ebooks
+
+
+
+
+
+i'm back in the self-promo game, and i decided to return to ebook marketing with two big ideas.
+
+the first is a promo for my 180,000 word thriller duology, what happened to lori.
+
+i blogged about it at length. in a nutshell, i wrote a very long thriller with some unique punctuation and tried to pace it like clickbait, and then i split it into two books. the first, i released for free. the second will debut on august 30 for 99 cents.
+
+i wanted to see how many readers i can reach by debuting a novel for free, and how many will stick along for the second book if it is super cheap. so far, so good.
+
+my second idea is an offshoot of an idea i had last year. a newsletter swap.
+
+that's when a few promo-savvy authors all put their ebooks on sale at the same time, then link to each other in their newsletters. it's win-win. writers can reach other writers' fans, and the fans (engaged readers who signed up for the newsletter) get something cheap or free.
+
+when we did it last year, we also had a landing page that we could all link to on social media.
+
+this year, i upped my game.
+
+instead of doing this with five authors, i've done it with twenty-five.
+
+and instead of every author having to trade cover art, links, and book descriptions, i made a landing page, www.freethrillerebooks.com, and no one had to upload anything, or spend time on formatting newsletters with a lot of extra jpgs and links.
+
+here's a screenshot you can click on it to visit the site.
+
+
+
+
+all the authors had to do is make sure their ebook was free on amazon.com from june 21-25 and email me their asin, then send out a newsletter and post the url on social media.
+
+everyone is sending out their newsletters today and tomorrow. here is the language i'm using.
+
+"j.a. konrath here. if you haven't picked up my brand new free ebook, what happened to lori, you can get it by going to www.freethrillerebooks.com. and if you have gotten lori, thank you, but please go to www.freethrillerebooks.com anyway, because a group of two dozen bestselling thriller authors have come together and we are all giving away free ebooks from june 21 until june 25. so check it out, and share it with your friends, family, co-workers, pets, etc."
+
+i have no idea how this promotion will do, but i'm hopeful. my email marketing provider, mailerlite.com, sends out my newsletters. they are great to work with, offer simple-to-use analytics, and are half the price of my old service, vertical response.
+
+plus, with mailerlite, i pay monthly for unlimited emails, rather than buying credits for emails like i did before. that means i can schedule autoresend campaigns (it automatically resends the newsletter to subscribers who didn't open it a few days earlier) without any extra cost.
+
+seriously, i love mailerlite. it's simple to use, really cheap, and their customer service is top notch and available to chat 24/7. if you decide to switch over to mailerlite based on my praise, use this link and i get a referral perk.
+
+after web goddess maddee at xuni.com set up the www.freethrillerbooks.com website for me on wordpress, i figured out how to quickly add ebooks with a few clicks. listing those 30 ebooks took about 45 minutes.
+
+
+so my future time investment is minimal, my monthly monetary investment is rolled into my monthly newsletter fee, and the other authors don't pay me anything and no one has to do much work to send out bare-bones newsletter.
+
+that's the kind of marketing i love. free and easy.
+
+but will it work?
+
+i dunno. but i think it's worth trying.
+
+there were some costs setting this up. there were also some obstacles. the amazon "add to cart" button doesn't work for all visitors, and i wasted a lot of time and money trying to get it to work. i had to learn about wordpress and plugins and the amazon associates onelink program. i did a lot of brain-frying testing with hoxxvpn to view the site as someone would in canada or the uk. and i also paid for help, and wound up scrapping that idea and going in another direction entirely.
+
+but now it is done. and i can use it however and whenever i like. i can change the url and title and background and do a 99 cent erotica promotion, or 10 free horror ebooks, or dystopian sc-fi on sale, or 15 serial killer books that will scare you silly.
+
+doing newsletter swaps with authors, and having the live url for linking to social media, is a way to reach many more readers than i can on my own. the sunk costs are paid, and i can maintain it for almost no cost just by renewing urls once a year.
+
+feel free to spread the word. and if you are an author with a big newsletter list and are interested in giving this a try, shoot me an email.
+
+
+
+
+posted by
+
+
+
+ja konrath
+
+
+
+
+at
+
+9:30 am
+
+
+
+14 comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+sunday, june 16, 2019
+
+
+
+
+
+
+
+writer's guide to dealing with haters
+
+
+
+
+
+hey! an axe!
+
+let's grind it.
+
+back in 2013 i wrote a post about critics. four years prior to that, i did another post about critics.
+
+it's time to revisit.
+
+like all breakthrough technologies, the internet has improved life for a lot of people.
+
+we now have a fast and easy way to reach other people who share our interests and ideals. we have unrestricted access to information. we can entertain ourselves, educate ourselves, make some money, improve the world, and make life better.
+
+and then there are the haters.
+
+the first human who invented fire: "look! i can harness this wondrous new technology that can keep us warm and cook our food to prevent disease and protect us from predators!"
+
+the first critic: "it sucks and you're an asshole."
+
+i understand some fundamental concepts concerning genetics. as a species, we must band together to reproduce. we're wired to seek out each other, to share, to empathize, to help.
+
+but we're also tribal. that means we're fiercely protective of our tribe, and suspicious of others. in fact, we're suspicious of everything, because knowing what is good and what is bad could save us from terrible deaths.
+
+somewhere along the evolutionary path, hating a rival group of homo heidelbergensis because they might kill us all and steal our food was beneficial to our survival.
+
+and somehow, in just three hundred thousand short years, that led to people hating one another for their skin color, religion, sexual identity, country of origin, politics they follow, way they dress, sports teams they watch, and art they enjoy.
+
+everyone has an opinion. and i truly believe all opinions are valid.
+
+those opinions may not be defensible (xy, you have zero say in what xx decides to do with their bodies.) or they may be defensible (we are going to destroy the planet if we don't reduce human-caused greenhouse gases.)
+
+no matter your opinion, right or wrong, you are entitled to it, and entitled to shout it out everywhere. even if you are an ignorant pinhead.
+
+free speech is required in society. it allows ideas to be exchanged and debated. asshats who are relentlessly negative, clueless, bigoted, stupid, raised-wrong, and incapable of using logic, reason, common-sense, or facts to form their dumb opinions, must still be allowed to voice those dumb opinions.
+
+and you, as an open-minded skeptic with a thick skin, are allowed to calmly and dispassionately engage and refute those opinions without ad hominem attacks or any other fallacious endeavors.
+
+unless you are a public figure.
+
+some public figures should be openly criticized, and should defend themselves. those we elect to serve us should suffer the slings and arrows of voters with opposing viewpoints, so that they may better govern. unleash your inner hater to comment on the injustices you perceive due to unequal representation in politics. and, through town halls and public debates and social media, discourse can happen between those who govern and those who elect them.
+
+this is required.
+
+but other public figures aren't allowed that opportunity.
+
+if you play sports, professionally, you will be publicly hated, and so will your team.
+
+if you are an actor or director, you will be publicly hated, and so will the movies and shows you are involved in.
+
+if you make music, you will be publicly hated, and so will your music.
+
+create youtube videos that you pour your heart and soul into even though you don't make a dime? publicly hated.
+
+the down votes and dislikes and mean comments will always follow you, because people have opinions and they believe if a series finale doesn't live up to expectations its just as enraging and terrible and worthy of a petition as the twelve million tons of plastic dumped into the ocean every year.
+
+unlike the sociopath politician, who probably doesn't want to have to deal with the finicky voters and would much rather govern with absolute control, but must engage sometimes because there are laws in place, other public figures have one rule and one rule only when dealing with criticism.
+
+shut up and take it.
+
+some moron can take twenty seconds to write a venom-filled screed that publicly lambastes something you worked on for ten months, and your options are to ignore it, or ignore it.
+
+that seems one-sided and unfair, doesn't it?
+
+i'll watch sports figures getting roasted on twitter for a bad play, and my first reaction is, "wow, not a single person slinging the hate could ever play professional sports."
+
+how do i know that is 100% true? because unless you are in mma, professional sports players don't trash talk each other. they are respectful in public. probably because it would bring negative press. but maybe part of it is because they know how much work it takes to become a professional sports player, and there is respect there.
+
+you'll never see me give a one star review to anything. i'm an artist. i know how hard art is. even art i don't like. even if the art is demonstrably terrible.
+
+even though the internet makes it sooooo easy.
+
+i could spend every waking hour bashing other artists. i could even make a living at it (no one misses you, roger ebert.) i could even do it anonymously.
+
+but i don't do that.
+
+others do, though.
+
+this is because, from an evolutionary standpoint, we are still fighting with other tribes over who gets to hunt in the mammoth breeding grounds. and by fight, i mean face-to-face combat to the death.
+
+but modern technology lets us vent that pent-up aggression instantly and without consequence. and not at people taking our food, but at people who created a prequel we didn't like.
+
+face-to-face? ha! you'll likely never meet whomever you are criticizing.
+
+and if they have the temerity to fight back? they can't do that! they're a celebrity! they have to take criticism and not respond, because that's their job!
+
+welcome to the internet. technology that could improve humankind, reduced to a megaphone for schoolyard bullies.
+
+for the insecure, the quickest way to feel better about yourself it to put someone else down. especially someone who won't defend themselves. this will never change. there will always be haters. and artists will always have to ignore it and never engage with those haters.
+
+that said, i'm a writer, with a blog about writing and publishing, and this blog gives advice based on years of experience, hard work, deep thinking, and how i'm feeling based on what i had to eat today.
+
+so here is the writer's guide to dealing with haters.
+
+rule 1: don't read your reviews
+
+ i know that this is easier said than done. especially when you first put a book out there, and you are desperate for feedback. resist the temptation to read what people are saying about you. their opinion of you, and of your story, is none of your business.
+
+rule 2: do not engage
+
+okay, you're human, and you accidentally read a 1 star review where some baby compared your book to a giant pile of horse shit except your book would attract more flies. then this baby goes on to spout a whole bunch of lies about your book that are just plain incorrect.
+
+it doesn't matter. don't respond. no matter how tempting, you cannot defend yourself. it will always backfire.
+
+rule 3: don't write negative reviews
+
+this should go without saying. you shouldn't bash your peers. or anyone, really, except for politicians. treat people on the internet like you would treat them if a friend introduced you at a party. always.
+
+rule 4: pyt
+
+ this is a danish word, sort of a combination of "shit happens" and "no big deal." you don't need to get over it, because it was never a thing in the first place.
+
+we don't have control over how other people act. we do have control over how we react. as a writer, you will get reviews. if something is inevitable, unchangeable, and impersonal, the most you should react is by shrugging, maybe with a knowing little smile.
+
+pyt.
+
+rule 5: haters gonna hate
+
+what peter says about paul reveals more about peter than paul. that bad review has nothing to do with you. someone with a very small mind and a very unhappy life needs to attack art to feel better about themselves. who cares? not your problem. you don't have to deal with them. and it isn't going to hurt your sales, or harm other peoples' opinion of your book.
+
+do you know why? because you have bought and enjoyed books that others have given one star. if you don't care, no one else cares.
+
+to sum this up in one sentence; ignore critics because people suck, be a nice person, and if you run into anything negative, pyt.
+
+q: but joe! what if i have legitimate problems with some work of art and i want to protect people from making the same mistake i did?
+
+a: take a good long look in the mirror and keep repeating "nobody cares what i fucking think" over and over until you go hoarse. because nobody cares what you fucking think. you aren't protecting others. you're being a petty, selfish dick.
+
+q: but joe! what if i'm writing thoughtful, heartfelt opinions, backed up with examples and logic?
+
+a: save that for reviews of art that you like. writing positive reviews is encouraged. hate should not encouraged, ever. you're not marching to save the rain forest. you're annoyed because you feel you wasted some of you leisure time. get over it.
+
+q: but i'm allowed to say what i want!
+
+a: here's a litmus test:
+
+would you say it directly to the artist's face, live on stage in front of ten thousand people?
+
+if not, don't post it.
+
+would you say it directly to the artist's face if the artist was a mixed martial arts expert and had their teeth clenched in rage?
+
+if not, don't post it.
+
+would you say it directly to the artist's face if you knew their mother just died and they couldn't stop sobbing?
+
+if not, don't post it.
+
+would you say it directly to the artist's face no matter what?
+
+if so, you're a douchebag. fuck off.
+
+now go read what happened to lori, by latest novel, which debuted for free.
+
+if you hate it, cool. write a review anyway. i promise you won't have to say it to my face. :)
+
+
+
+
+posted by
+
+
+
+ja konrath
+
+
+
+
+at
+
+10:21 am
+
+
+
+22 comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+older posts
+
+home
+
+
+
+
+subscribe to:
+posts (atom)
+
+
+
+
+
+
+about me
+
+
+
+
+ja konrath
+
+
+wi, united states
+
+view my complete profile
+
+
+
+search this blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+blog archive
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2023
+
+(2)
+
+
+
+
+
+        ▼ 
+      
+
+
+
+nov
+
+(1)
+
+konrath thanksgiving - black friday - cyber monday...
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(9)
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(2)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2018
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2017
+
+(6)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(2)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(20)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(5)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(49)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(13)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(106)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(9)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(16)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(9)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(7)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2013
+
+(113)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(25)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(10)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(59)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(5)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(12)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(11)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(121)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(9)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(12)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(18)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(12)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2010
+
+(98)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(12)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(13)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(4)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2009
+
+(99)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(5)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(12)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(31)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(6)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2008
+
+(56)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(5)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(4)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2007
+
+(59)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(5)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(5)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(5)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(12)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2006
+
+(148)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(9)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(15)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(9)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(17)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr
+
+(13)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb
+
+(13)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan
+
+(18)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2005
+
+(88)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec
+
+(15)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul
+
+(17)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar
+
+(1)
+
+
+
+
+
+
+
+
+
+sign up for my newsletter
+
+
+
+
+
+
+
+
+
+the best worst movies ever blog with joe & talon konrath
+
+
+
+
+
+
+
+
+popular posts
+
+
+
+
+amazon removes reviews
+i've been buried in a book deadline for all of october, and haven't been paying much attention to anything else. when i finally took...
+
+
+
+
+
+
+
+
+
+
+harlequin fail
+this is a guest post by my friend ann voss peterson . but it's more than that. it's a call to arms, a cautionary tale, and a scathin...
+
+
+
+
+
+how to make money on ebooks
+1. write a damn good book. this should be your main priority. it's also one of the hardest things to do, and the hardest things to judge...
+
+
+
+
+
+
+
+
+
+
+$100,000
+one hundred grand. that's how much i've made on amazon in the last three weeks.   this is just for my self-pubbed kindle titles. it ...
+
+
+
+
+
+how to sell ebooks
+i just hit a milestone that is hard for me to grasp. as of january, i've sold over one million ebooks.    that's a lot of ebooks.   ...
+
+
+
+
+
+
+
+
+
+
+guest post by john locke
+if you're paying any attention to the amazon top 100, you'll know that my ebook, the list , is currently ranked #35. you'll also...
+
+
+
+
+
+questions from steve zacharius, ceo and president of kensington
+  this blog entry has been updated four times with responses from steve.  if you believe you've read the whole thing, scroll down to mak...
+
+
+
+
+
+you should self-publish
+one of the traits i value most about myself is my ability to change my mind about something as more data becomes available. well, the data i...
+
+
+
+
+
+six things writers need to stop worrying about
+some things don't change.   when i got my start in this biz, way back in 2002, writers had to get a lit agent to get a publisher, then t...
+
+
+
+
+
+
+
+more ja konrath
+
+
+jakonrath.com
+ja's facebook
+ja's goodreads
+ja's twitter
+ja's wikipedia
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

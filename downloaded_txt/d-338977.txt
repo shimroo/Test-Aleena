@@ -1,0 +1,349 @@
+
+
+
+james r. macdonald lab: atomic, molecular and optical physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+james r. macdonald laboratory
+
+
+
+ksu
+
+
+
+
+
+ 
+
+
+
+
+about us »
+
+
+
+amo @ jrm
+experimental
+theoretical
+education
+kos
+facilities »
+		
+
+
+atto
+flame
+konza
+pulsar
+ecr source
+computing
+   retired:
+cryebis
+hits
+kls
+lumos
+mot
+tandem
+unfo
+
+
+
+photo gallery
+what's new
+
+
+opportunities »
+
+
+
+jobs
+graduate study
+gra stipends
+
+
+people »
+
+
+
+faculty
+staff
+postdocs
+students
+
+
+publications »
+
+
+
+all publications
+
+journal search
+amo seminars
+meetings
+amo databases
+
+
+operations »
+
+
+
+schedules »
+		
+
+
+atto
+kls
+konza,
+		flame,
+		pulsar
+
+ecr/ebis
+
+
+
+laser status
+calendar
+computing
+tutorials & docs
+ksu web mail
+
+
+safety »
+
+
+
+policies
+key requests
+training
+exam
+msds
+links
+
+
+jrm home
+physics home
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+ultrafast molecular photoswitch
+
+
+
+
+
+an international collaboration led by researchers from the kansas state university physics department and the 
+oxford university chemistry department has studied ultrafast processes in the molecular photoswitch quadricyclane, published recently in 
+nature chemistry.
+
+
+
+quadricyclane and 
+norbornadiene are two isomers, that is molecules with the same chemical formula but different geometry, which interconvert upon absorption of ultraviolet light. quadricyclane is the higher-energy isomer and can be used to store solar energy, which is then released by a catalytic process as heat. so-called molecular solar thermal 
+(most) 
+devices exploit such isomer pairs to, for instance, warm houses by absorbing energy from the sun during the day and then releasing it at night.
+
+
+the experiment, led by kansas state physics professor 
+daniel rolles and his graduate student 
+kurtis borne, used ultrashort light pulses produced by the 
+fermi free-electron laser facility in trieste, italy, to track the conversion between the two isomers on a timescale of femtoseconds. the experimental results were interpreted with the help of state-of-the-art computer simulations done in oxford. the combined study discovered faster than previously identified pathways leading to the conversion, which may help designing new ways of controlling the outcome and efficiency of this important class of photoreactions.
+ 
+see also our press release via the k-state physics department.
+
+
+  
+  
+
+
+
+
+
+
+
+recently published papers:
+
+
+photoelectron-residual-ion interaction in angle-resolved streaked shake-up ionization of helium
+hongyu shi, uwe thumm
+
+phys. rev. a
+111,
+
+013119
+(2025)
+
+
+design and performance of a magnetic bottle electron spectrometer for high-energy photoelectron spectroscopy
+kurtis borne, daniel rolles, et al.
+
+rev. sci. instrum.
+95,
+
+125110
+(2024)
+
+
+find more of our publications...
+
+
+
+
+
+  
+  
+
+
+this week at jrm
+week of 16 february 2025
+
+ 
+
+
+mon1:30 pm
+nuts & bolts
+
+news & status (hybrid, cw119)
+tue 
+wed1:30 pm
+amo seminar
+
+uwe thumm, ksu (hybrid, cw144)
+thu 
+fri 
+
+
+see full calendar...
+
+
+
+  
+  
+
+
+
+
+
+  
+  
+
+
+what's new?
+
+
+
+
+
+daniel rolles, professor in atomic, molecular, and optical physics, has been selected as a 2024 
+fellow of the american physical society 
+for 
+
+pioneering experiments on imaging ultrafast molecular reactions with xuv and x-ray free-electron lasers, and for advancing our understanding of the interaction of ultra-intense x-ray pulses with atoms and molecules.
+
+
+read more news...
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+	
+306 cardwell hall
+	
+1228 n. mlk drive
+	
+kansas state university
+	
+manhattan, ks, usa
+	66506-2604
+	voice: 785-532-1527
+	fax: 785-532-6806
+mail: 
+jrml_director
+
+
+ 
+
+
+
+ 
+search controls
+
+
+
+search
+
+
+
+
+search www
+
+search jrm
+
+advanced search | 
+sitemap |
+webmaster
+
+
+
+
+
+
+
+
+
+

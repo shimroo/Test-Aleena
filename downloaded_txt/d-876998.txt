@@ -1,0 +1,302 @@
+
+
+
+writings.kennypearce.net
+
+
+
+
+
+
+
+
+
+kenny pearce
+about me
+media
+blog
+
+writings
+
+
+books (as author)
+books (as editor)
+journal articles
+book chapters
+reference articles
+book reviews
+books in progress
+
+
+other
+
+
+
+
+
+
+books (as author)
+
+is there a god? a debate, with graham oppy, foreword by helen de cruz, little debates about big questions, routledge (2022)
+bertrand russell famously quipped that he didn't believe in god for the same reason that he didn't believe in a teapot in orbit between the earth and mars: it is a bizarre assertion for which no evidence can be provided. is belief in god really like belief in russell's teapot? kenneth l. pearce argues that god is no teapot. god is a real answer to the deepest question of all: why is there something rather than nothing? graham oppy argues that we should believe that there are none but natural causal entities with none but natural causal properties—and hence should believe that there are no gods. beginning from this basic disagreement, the authors proceed to discuss and debate a wide range of philosophical questions, including questions about explanation, necessity, rationality, religious experience, mathematical objects, the foundations of ethics, and the methodology of philosophy. each author first presents his own side, and then they interact through two rounds of objections and replies.
+[google books]
+[routledge]
+[amazon us]
+[amazon uk]
+[philpapers] 
+media coverage: [joe humphreys, the irish times]
+reviews: [jeanine diller, the philosophical quarterly] [m.j.a. shaw, ntt journal for theology and the study of religion] [gaven kerr, american catholic philosophical quarterly] [enric fernandez-gel, anuario filosofico]
+language and the structure of berkeley's world, oxford university press (2017)
+berkeley's philosophy is meant to be a defense of commonsense. however, berkeley's claim that the ultimate constituents of physical reality are fleeting, causally passive ideas appears to be radically at odds with commonsense. in particular, such a theory seems unable to account for the robust structure which commonsense (and newtonian physics) takes the world to exhibit. the problem of structure, as i understand it, includes the problem of how qualities can be grouped by their co-occurrence in a single enduring object and how these enduring objects can bear spatiotemporal, causal, and other relations to one another. i argue that berkeley's solution to these problems lies in his views about language. at one level, human language allows us to exploit patterns in our perceptions to construct a highly structured representation of the physical world which allows us to make accurate predictions at minimal cognitive expense. at a deeper level, these patterns occur in perception because our perceptions themselves form a language in which god speaks to us.
+[google books]
+[oup]
+[oxford academic]
+[amazon us]
+[amazon uk]
+[detailed abstract]
+[philpapers]
+reviews: [melissa frankel, ndpr] [eugene callahan, bjhp]
+
+books (as editor)
+
+irish philosophy in the age of berkeley, with takaharu oda, royal institute of philosophy supplements (cambridge university press, 2020)
+this volume presents a selection of new articles examining the state of
+irish philosophy during the lifetime of ireland's most famous philosopher, bishop george berkeley (1685-1753). the thinkers examined
+include berkeley, robert boyle, william king, william molyneux,
+robert molesworth, peter browne, jonathan swift, john toland,
+thomas prior, samuel madden, arthur dobbs, francis hutcheson,
+mary barber, constantia grierson, laetitia pilkington, elizabeth sican,
+and john austin. this interdisciplinary collection includes attention
+both to local irish concerns and to ireland's relation to the broader
+european context, and discusses philosophical reflections on topics as
+diverse as religion, economics, laughter, and motherhood.
+
+[google books]
+[cup]
+[cambridge core]
+[amazon us]
+[amazon uk]
+[philpapers]
+idealism: new essays in metaphysics, with tyron goldschmidt, oxford university press (2017)
+idealism is a family of metaphysical views each of which gives priority to the mental. the best-known forms of idealism in western philosophy are berkeleyan idealism, which gives ontological priority to the mental (minds and ideas) over the physical (bodies), and kantian idealism, which gives a kind of explanatory priority to the mental (the structure of the understanding) over the physical (the structure of the empirical world). 
+
+although idealism was once a dominant view in western philosophy, it has suffered almost total neglect over the last several decades. this book rectifies this situation by bringing together seventeen essays by leading philosophers on the topic of metaphysical idealism. the various essays explain, attack, or defend a variety of idealistic theories, including not only berkeleyan and kantian idealisms but also those developed in traditions less familiar to analytic philosophers, including buddhism and hassidic judaism. although a number of the articles draw on historical sources, all will be of interest to philosophers working in contemporary metaphysics. this volume aims to spark a revival of serious philosophical interest in metaphysical idealism.
+[google books]
+[oup]
+[oxford academic]
+[amazon us]
+[amazon uk]
+[philpapers]
+reviews: [adam p. taylor, ndpr] [craig warmke, faith and philosophy] [nevin climenhaga, international journal for philosophy of religion]
+
+journal articles
+
+"metaphysical rationalism requires grounding indeterminism," journal of the american philosophical association, forthcoming, doi: 10.1017/apa.2024.17
+
+metaphysical rationalism is the view that, necessarily, every fact that stands in need of a metaphysical (grounding) explanation has one. varieties of metaphysical rationalism include classical theism, spinozism, spacetime priority monism, and axiarchism. grounding indeterminism is the view that the same ground, in precisely the same circumstances, might not have grounded what it in fact grounds. i argue that a plausible defense of any form of metaphysical rationalism requires a commitment to grounding indeterminism.
+
+[cambridge core] [philpapers]
+"anthony collins's non-vindication of the divine attributes," journal of theological studies 75 (2024): 463-475
+anthony collins's 1710 pamphlet a vindication of the divine attributes is not a vindication of the divine attributes. but what precisely is it? i argue that collins's vindication is best interpreted as a kind of prelude to his later discourse of free-thinking (1713). the vindication aims to show that our beliefs about the existence and nature of god cannot rest on the authority of the clergy. instead we must, as collins puts it, 'impartially examine every thing (how sacred soever it may appear ... before [being] examin'd)'. freethinking, collins argues, must extend even so far as questioning the foundational principles of natural religion.
+[oxford academic] [philpapers]
+"astell and masham on epistemic authority and women's individual judgment in religion," oxford studies in early modern philosophy 11 (2023): 197-226
+in 1705, mary astell and damaris masham both published works advocating for women's use of individual judgment in matters of religion. although both philosophers advocate for women's education and intellectual autonomy, and both are adherents of the church of england, they differ dramatically in their attitudes to religious authority. these differences are rooted in a deeper disagreement about the nature of epistemic authority in general. astell defends an interpersonal model of epistemic authority on which we properly trust testimony when the testifier is answerable for its truth. masham holds an evidence model of epistemic authority on which testimony is treated as an ordinary piece of empirical evidence. central to masham's argument is her contention that religious beliefs based on the kind of authority recognized by astell could never serve as a stable source of moral motivation. because of their different theories of epistemic authority, masham's defense of women's intellectual autonomy leads to a radical anti-clericalism, while astell's defense is fully consistent with her insistence on deference to the established church.
+[oxford academic] [open access] [philpapers]
+"foundational grounding and creaturely freedom," mind 131 (2022): 1108-1130
+
+according to classical theism, the universe depends on god in a way that goes beyond mere (efficient) causation. i have previously argued that this 'deep dependence' of the universe on god is best understood as a type of grounding. in a recent paper in this journal, aaron segal argues that this doctrine of deep dependence causes problems for creaturely free will: if our choices are grounded in facts about god, and we have no control over these facts, then we do not control our choices and are therefore not free. this amounts to a grounding analogue of the consequence argument for the incompatibility of free will and determinism. if successful, it would have application beyond classical theism: similar concerns would apply to any view that takes our choices to be grounded in a deeper reality which is beyond our control. however, i show that the argument is not successful. segal's grounding consequence argument is so closely analogous to the causal consequence argument that any response to the one provides a response to the other. as a result, if you don't think that prior causes (whether deterministic or indeterministic) undermine free will, you shouldnt think that prior grounds undermine free will.
+
+[full text]
+[philpapers]
+"berkeley on religious truths: a reply to keota fields," british journal for the history of philosophy 30 (2022): 1121-1131
+berkeley admits that certain religious utterances involve words that
+do not stand for ideas. nevertheless, he maintains, these utterances may
+express true beliefs. according to the use theory interpretation of berkeley, these true beliefs consist in dispositions to follow certain rules. keota
+fields has objected that this interpretation is inconsistent with berkeley's
+commitment to the universal truth of the christian revelation. on fields'
+alternative interpretation, the meanings of these utterances are ideas in
+the mind of god, and we assent to these sentences 'at secondhand', deferring to god for the content of our belief. while fields' criticisms of the use
+theory are illuminating, and his alternative proposal is ingenious, neither
+of them ultimately works. in this paper, i reply to three of fields' criticisms of the use theory, then press two objections against his alternative
+proposal. i argue that, although berkeley is committed to the universal
+truth of the christian revelation, this truth is not constituted by ideas in
+either human or divine minds, but rather by god's universal commands
+which order the life of the christian community toward the good.
+[t&f online (paywall)] [pre-print (open access)] [philpapers]
+"thinking with the cartesians and speaking with the vulgar: extrinsic denomination in the philosophy of antoine arnauld," journal of the history of philosophy 60 (2022): 227-252
+
+arnauld follows descartes in denying that sensible qualities like color are modes of external objects. yet, unlike malebranche, he resists the apparent implication that ordinary statements like 'this marble is white' are false. arnauld also follows descartes in saying that we perceive things by having ideas of them. yet, unlike malebranche, he denies that this sort of talk implies the existence of intermediaries standing between the mind and its external objects. how can arnauld avoid these implications? i argue that the answer lies in arnauld's sophisticated theory of mental and linguistic representation and, in particular, his account of extrinsic denomination. extrinsic denomination occurs when an idea (e.g., being seen) is predicated of one object (e.g., the sun) in virtue of a mode possessed by some other object (e.g., a perceiving mind). in arnauld's philosophy, the theory of extrinsic denomination serves as a powerful tool for endorsing ordinary ways of speaking while avoiding unwanted metaphysical commitments.
+
+[project muse (paywall)] [pre-print (open access)] [philpapers]
+"god's perfect will: remarks on johnston and o'connor," invited symposium contribution, oxford studies in philosophy of religion 10 (2022): 247-253
+
+why would god create a world at all? further, why would god create a world like this one? the neoplatonic framework of classical philosophical theology answers that god's willing is an affirmation of god's own goodness, and god creates to show forth god's glory. mark johnston has recently argued that, in addition to explaining why god would create at all, this framework gives extremely wide scope to divine freedom. timothy o'connor objects that divine freedom, on this view, cannot be so wide as johnston supposes: the creation of a fundamentally unjust world, for instance, could not be a way of affirming the divine goodness. i argue that o'connor does not go far enough. while the neoplatonic framework helps to explain why god would create at all, it does nothing to secure god's freedom to create less than the best.
+
+[oxford academic (paywall)] [pre-print (open access)] [philpapers]
+"god's impossible options," faith and philosophy 38 (2021): 185-204
+
+according to michael almeida, reflections on free will and possibility can
+be used to show that the existence of an anselmian god is compatible with
+the existence of evil. these arguments depend on the assumption that an
+agent can be free with respect to an action only if it is possible that that agent
+performs that action. although this principle enjoys some intuitive support, i argue that anselmianism undermines these intuitions by introducing
+impossible options. if anselmianism is true, i argue, then both god and creatures may be free to do the impossible.
+
+[full text] [philpapers]
+"ideas and explanation in early modern philosophy," archiv für geschichte der philosophie 103 (2021): 252-280
+
+malebranche argues that ideas are representative beings existing in god. he defends this thesis by an inference to the best explanation of human perception. it is well-known that malebranche's theory of vision in god was forcefully rejected by philosophers such as arnauld, locke, and berkeley. however, the notion that ideas exist in god was not the only controversial aspect of malebranche's approach. another controversy centered around malebranche's view that ideas are to be understood as posits in an explanatory theory. opponents of this approach, including arnauld and locke, held that our talk about ideas was not explanatory but instead merely descriptive: we use the word 'idea' to describe phenomena that we observe by reflecting on our own minds. this controversy has not received much attention from scholars, but in the present paper i will show that it was an explicit and important subject of concern for malebranche, arnuald, locke, and berkeley and that attention to this controversy can illuminate several aspects of these philosophers' work.
+
+[de gruyter (paywall)] [open access] [philpapers]
+"are we free to break the laws of providence?" faith and philosophy 37 (2020): 158-18
+
+can i be free to perform an action if god has decided to ensure that i do not choose that action? i show that molinists and simple foreknowledge theorists are committed to answering in the affirmative. this is problematic for their status as theological incompatibilists. i suggest that strategies for preserving their theological incompatibilism in light of this result should be based on sourcehood. however, the path is not easy here either, since leibniz has shown how theological determinists can offer an extremely robust form of sourcehood. proponents of these views must identify a valuable form of sourcehood their theories allow that leibniz's theory doesn't.
+
+[full text] [philpapers]
+"intentionality, belief, and the logical problem of evil," religious studies 56 (2020): 419-435
+this paper provides a new defence against the logical problem of evil, based on the naturalistic functional/teleological theory of mind (nft). i argue that if the nft is self-consistent then it is consistent with theism. further, the nft entails that it is not possible for created minds to exist in the absence of evil. it follows that if the nft is self-consistent then the existence of god is consistent with the existence of evil.
+[cambridge core (paywall)] [pre-print] [philpapers]
+"william king on free will," philosophers' imprint 19, no. 21 (2019): 1-15
+
+	william king's de origine mali (1702) contains an interesting, sophisticated, and original account of free will. king finds 'necessitarian' theories of freedom, such as those advocated by hobbes and locke, inadequate, but argues that standard versions of libertarianism commit one to the claim that free will is a faculty for going wrong. on such views, free will is something we would be better off without. king argues that both problems can be avoided by holding that we confer value on objects by valuing them. such a view secures sourcehood and alternate possibilities while denying that free will is simply a capacity to choose contrary to our best judgment. this theory escapes all of the objections levelled against it by leibniz and also has interesting consequences for ethics: although constructed within a eudaimonist framework, king's theory gives rise to a very strong moral requirement of respect for individual self-determination.
+
+[full text] [philpapers]
+"what descartes doubted, berkeley denied, and kant endorsed," dialogue: canadian philosophical review 58 (2019): 31-63
+according to kant, there is some doctrine, which he sometimes calls 'empirical realism,' such that it was doubted by descartes, denied by berkeley, and endorsed by kant himself.  it may be doubted whether there really is such a doctrine or, if there is, whether it takes the form kant seems to say it does. for instance, if empirical realism is taken as the assertion that familiar objects like tables and chairs exist, then this doctrine was neither seriously doubted by descartes, nor denied by berkeley. if empirical realism is the view that such objects are mind-independent, then it was clearly denied by berkeley, but was neither seriously doubted by descartes, nor straightforwardly endorsed by kant. kant's assertion thus presents us with a puzzle: what might empirical realism be? the primary aim of this paper will be to reconstruct kant's own narrative of the historical relationship between descartes, berkeley, and himself, in order to identify the doctrine kant calls 'empirical realism.' i argue that the empirical realism which descartes doubted, berkeley denied, and kant endorsed is the doctrine that the concept of extended substance has legitimate application.
+[cambridge core (paywall)] [pre-print (open access)] [philpapers]
+"locke, arnauld, and abstract ideas," british journal for the history of philosophy 27 (2019): 75-94
+
+a great deal of the criticism directed at locke's theory of abstract ideas, assumes that a lockean abstract idea is a special kind of idea which by its very nature either represents many diverse particulars or represents separately things that cannot exist in separation. this interpretation of locke has been challenged by scholars such as kenneth winkler and michael ayers who regard it as uncharitable in light of the obvious problems faced by this theory of abstraction. winkler and ayers argue that locke instead held that to have an abstract idea is to attend selectively to some portion of the content of a particular idea. on this view, to have an abstract idea is not to have a special kind of idea but to have an ordinary idea in a special way. ayers argues that locke inherited this theory from arnauld. i argue that the case made by ayers for the attribution of the extrinsic theory to locke rests on a misinterpretation of arnauld. in fact, both locke and arnauld regard selective attention as part of a process whereby a new kind of idea is constructed.
+[t&f online (paywall)] [pre-print (open access)] [philpapers]
+"how berkeley's gardener knows his cherry tree," pacific philosophical quarterly 98 (2017): 553-576
+the defense of common sense in berkeley's three dialogues is, first and foremost, a defense of the gardener's claim to know this cherry tree, a claim threatened by both cartesian and lockean philosophy. berkeley's defense of the gardener's knowledge depends on his claim that the being of a cherry tree consists in its being perceived. this is not something the gardener believes; rather, it is a philosophical analysis of the rules unreflectively followed by the gardener in his use of the word 'exists'. it is by following these rules that the gardener gains knowledge of the cherry tree. uncovering these deep connections between berkeley's epistemology and his philosophy of language and placing them in the context of his critique of both cartesian and lockean philosophy will clarify berkeley's strategy for bringing his reader back to common sense and practical engagement in the ordinary affairs of life.
+[wiley online library (paywall)] [pre-print (open access)] [philpapers]
+"berkeley on unperceived objects and the publicity of language," history of philosophy quarterly 34 (2017): 231-250
+berkeley's immaterialism aims to undermine descartes's skeptical arguments by denying that the connection between sensory perception and reality is contingent. however, this seems to undermine berkeley's (alleged) defense of commonsense by failing to recognize the existence of objects not presently perceived by humans. i argue that this problem can be solved by means of two neglected berkeleian doctrines: the status of the world as "a most coherent, instructive, and entertaining discourse" which is 'spoken' by god (siris, sect. 254) and the nature of language as a public social practice. together these doctrines entail that ordinary physical objects, including those that are not presently perceived, are a joint product of divine discursive activity and human interpretive activity.
+[jstor (paywall)] [pre-print (open access)] [philpapers]
+"foundational grounding and the argument from contingency," oxford studies in philosophy of religion 8 (2017): 245-268. winner of the 2016 sanders prize in philosophy of religion.
+the argument from contingency for the existence of god is best understood as a request for an explanation of the total sequence of causes and effects in the universe ('history' for short). many puzzles about how there could be such an explanation arise from the assumption that god is being introduced as one more cause prepended to the sequence of causes that (allegedly) needed explaining. in response to this difficulty, this chapter defends three theses. first, it argues that, if the argument from contingency is to succeed, the explanation of history in terms of god must not be a causal explanation; second, that a particular hypothesis about godâs relation to history—that god is what i call the foundational ground of history—is intelligible and explanatory; third and finally, that the explanatory advantages of this hypothesis cannot be had within the confines of naturalism.
+[oxford academic (paywall)] [pre-print (open access)] [blog discussion] [philpapers]
+"counterpossible dependence and the efficacy of the divine will," faith and philosophy, 34 (2017): 3-16
+the will of an omnipotent being would be perfectly efficacious. alexander pruss and i have provided an analysis of perfect efficacy that relies on non-trivial counterpossible conditionals. scott hill has objected that not all of the required counterpossibles are true of god. sarah adams has objected that perfect efficacy of will (on any analysis) would be an extrinsic property and so is not suitable as a divine attribute. i argue that both of these objections can be answered if the divine will is taken to be the ground, rather than the cause, of its fulfillment.
+[full text] [philpapers]
+"arnauld's verbal distinction between ideas and perceptions," history and philosophy of logic 37 (2016): 375-390
+in his dispute with malebranche about the nature of ideas, arnauld endorses a form of direct realism. this appears to conflict with views put forward by arnauld and his collaborators in the port-royal grammar and logic where ideas are treated as objects in the mind. this tension can be resolved by a careful examination of arnauld's remarks on the semantics of 'perception' and 'idea' in light of the port-royal theory of language. this examination leads to the conclusion that arnauld's ideas really are objects in the mind, and not perceptual acts as many commentators hold. what arnauld denies is that these mental objects are really distinct from the external objects they represent. instead, arnauld holds that, by the act of conception, the external objects themselves - not copies - come to be present in the mind and are therefore called 'ideas'.
+[t&f online (paywall)] [pre-print (open access)] [philpapers]
+"leibniz and the veridicality of body perceptions," philosophers' imprint 16, no. 5 (2016): 1-17
+according to leibniz's late metaphysics, sensory perception represents to us as extended, colored, textured, etc., a world which fundamentally consists only of non-spatial, colorless entities, the monads. it is a short step from here to the conclusion that sensory perception radically misleads us about the true nature of reality. in this paper, i argue that this oft-repeated claim is false. leibniz holds that in typical cases of body perception the bodies perceived really exist and have the qualities, both primary and secondary, they are perceived to have. at the same time, leibniz holds that our perceptions of these bodies are accurate representations of the monads from which the bodies result. the contrary thesis - that our body perceptions are misrepresentations of the monads - stems from a misunderstanding of leibniz's theory of confused concepts and his phenomenalist account of the nature of body. clarifying these issues will have important consequences for our understanding of leibniz's idealistic metaphysics and the manner in which that metaphysical theory is meant to support mechanistic science.
+[full text] [philpapers]
+"counteressential conditionals," thought: a journal of philosophy 5 (2016): 73-81
+making sense of our reasoning in disputes about necessary truths requires admitting non-vacuous counterpossibles. one class of these is the counteressentials, which ask us to make contrary to fact (and therefore contrary to possibility) suppositions about essences. a popular strategy in accounting for non-vacuous counterpossibles is to extend the standard possible worlds semantics for subjunctive conditionals by the addition of impossible worlds. a conditional a ☐→ c is then taken to be true if all of the nearest a worlds (whether possible or impossible) are c worlds. i argue that this approach fails as applied to counteressentials due to the obscurity of the nearness relation and due to its failure to take seriously the relationship between counteressentials and grounding. i then propose an alternative covering law semantics for counteressentials which makes central use of the notion of grounding.
+[full text] [philpapers]
+"berkeley's lockean religious epistemology," journal of the history of ideas 75 (2014): 417-438
+berkeley's main aim in his well-known early works was to identify and refute "the grounds of scepticism, atheism, and irreligion." this appears to place berkeley within a well-established tradition of religious critics of locke's epistemology, including, most famously, stillingfleet. i argue that these appearances are deceiving. berkeley is, in fact, in important respects an opponent of this tradition. according to berkeley, locke's earlier critics, including stillingfleet, had misidentified the grounds of irreligion in locke's philosophy while all the while endorsing the true grounds of irreligion themselves. locke's epistemology is innocent; matter and abstraction are to blame. 
+[project muse (paywall)] [pre-print (open access)] [philpapers]
+"understanding omnipotence" (with alexander r. pruss), religious studies 48 (2012): 403-414
+an omnipotent being would be a being whose power was unlimited. the power of human beings is limited in two distinct ways: we are limited with respect to our freedom of will, and we are limited in our ability to execute what we have willed. these two distinct sources of limitation suggest a simple definition of omnipotence: an omnipotent being is one that has both perfect freedom of will and perfect efficacy of will. in this paper we further explicate this definition and show that it escapes the standard objections to divine omnipotence.
+[full text] [philpapers]
+"thomas reid on character and freedom," history of philosophy quarterly 29 (2012): 159-176
+according to thomas reid, an agent cannot be free unless she has the power to do otherwise. this claim is usually interpreted as a version of the principle of alternate possibilities. against this interpretation, i argue that reid is committed to the seemingly paradoxical position that an agent may have the power to do otherwise despite the fact that it is impossible that she do otherwise. reid's claim about the power to do otherwise does not, therefore, entail the principle of alternate possibilities. when it is an agent's character that deprives her of alternate possibilities, she is not thereby deprived of either power or freedom, and this is true even if the agent was not free or active in the formation of her character.
+[jstor (paywall)] [preprint (open access)] [philpapers]
+"the semantics of sense perception in berkeley," religious studies 44 (2008): 249-268
+george berkeley's linguistic account of sense perception is one of the most central tenets of his philosophy. it is intended as a solution to a wide range of critical issues in both metaphysics and theology. however, it is not clear from berkeley's writings just how this "universal language of the author of nature" is to be interpreted. this paper discusses the nature of the theory of sense perception as language, together with its metaphysical and theological motivations, then proceeds to develop an account of the semantics of the perceptual language, using berkeley's theory of reference for human language as a guide.
+[full text] [philpapers]
+
+book chapters
+
+"the epistemology of testimony: locke and his critics" in the edinburgh critical history of early modern and enlightenment philosophy, ed. stephen howard and jack stetter (edinburgh university press, forthcoming)
+
+contemporary discussions of the epistemology of testimony are often framed in terms of the disagreement on this topic between hume and reid. however, it is widely assumed that, prior to hume, philosophers in the grip of enlightenment individualism neglected philosophical questions about testimony, simply treating testimony as ordinary empirical evidence. in fact, although the evidential model of testimony was popular in early modern philosophy, it was also the subject of vigorous debate. this chapter examines locke's defence of the evidential model of testimony along with the opposing views of three early critics of locke: g. w. leibniz, mary astell, and peter browne.
+
+[full text] [philpapers]
+"early modern critiques of materialism and atheism: cudworth, clarke, and berkeley" in the history and philosophy of materialism, ed. charles t. wolfe and john symons (routledge, 2024)
+in his two most famous works, the principles and dialogues, george berkeley announces that he will refute atheism. these works are, however, devoted mainly to arguing against the existence of matter rather than for the existence of god. this oddity can be explained by appeal to the dominant philosophical understanding of atheism in berkeley's context, which was developed by ralph cudworth and influentially endorsed by samuel clarke. in his true intellectual system of the universe, cudworth presented a detailed taxonomy and analysis of atheistic philosophical systems, arguing that such systems must put matter in the place of god, and must therefore be committed to the eternal existence of matter. cudworth, and clarke after him, therefore thought that the key to refuting atheism was to show that matter could not exist eternally. berkeley's immaterialism is a kind of shortcut to this goal: if the very notion of matter is incoherent, so that it cannot exist at all, then certainly it cannot exist eternally, leading to the collapse of atheistic philosophy.
+[full text (paywall)] [philpapers]
+"why not? god" in the ontology of divinity, ed. mirosław szatkowski (de gruyter, 2024)
+it is widely agreed among broadly anselmian theists that god is in some sense the 'delimiter of possibilities.' in other words, the scope of possibility is explained by the manner in which the universe emanates from god. however, existing accounts of god's role here—in terms of freedom, choice, or power—face serious difficulties. the present paper provides a new account of god's role as the delimiter of possibilities in terms of the different manner in which the non-actuality of non-actual states of affairs is explained. intuitively and metaphorically, we can think of the menu of states of affairs being 'whittled down' in successive stages of a process of divine decision-making, with the different species of impossibility corresponding to when and how the states of affairs are ruled out. i argue that this approach provides genuine contingency while also preserving the principle of sufficient reason.
+[de gruyter (paywall)] [philpapers] 
+"berkeley's theory of language" in the oxford handbook of berkeley, ed. samuel c. rickless (oxford university press, 2022)
+
+according to the ideational theory of meaning held by most 17th and 18th century european philosophers, meaningful words signify ideas in the mind of the speaker. this view was famously rejected by george berkeley. some interpreters hold that, in rejecting this view berkeley meant merely to carve out some exceptions to the general principle that meaningful words stand for ideas. others attribute to berkeley the view that, rather than signifying ideas, words signify speaker intentions. finally, some interpreters attribute to berkeley a use theory of language similar to the later wittgenstein. this article provides an overview of this interpretive debate and a defence of the use theory interpretation.
+
+
+[oxford handbooks online (paywall)]
+[pre-print (open access)]
+[philpapers]
+"peter browne on the metaphysics of knowledge" in irish philosophy in the age of berkeley, ed. kenneth l. pearce and takaharu oda, royal institute of philosophy supplements (cambridge university press, 2020)
+
+the central unifying element in the philosophy of peter browne (d. 1735) is his theory of analogy. although browne's theory was originally developed to deal with some problems about religious language, browne regards analogy as a general purpose cognitive mechanism whereby we substitute an idea we have to stand for an object of which we, strictly speaking, have no idea. according to browne, all of our ideas are ideas of sense, and ideas of sense are ideas of material things. hence we can conceive of spiritual things – including even our own spirit – only by analogy. one interesting application browne  makes of his theory is an account of how concepts such as knowledge can be correctly applied to beings that have no intrinsic properties in common, such as non-human animals, humans, angels, and god. i argue that this is best understood as what, in the contemporary literature, is known as a 'multiple realizability' problem and that browne's solution to this problem has important similarities to functionalist theories in recent philosophy of mind.
+
+[cambridge core (paywall)] [preprint (open access)] [philpapers]
+"infinite power and finite powers" in the infinity of god: new perspectives in theology and philosophy, ed. benedikt paul göcke and christian tapp (university of notre dame press, 2019)
+alexander pruss and i have proposed an analysis of omnipotence which makes no use of the problematic terms 'power' and 'ability'. however, this raises an obvious worry: if our analysis is not related to the notion of power, then how can it count as an analysis of omnipotence, the property of being all-powerful, at all? in this paper, i show how omnipotence can be understood as the possession of infinite power (general, universal, or unlimited power) rather than the possession of particular powers. i then argue that the ordinary notions of particular powers or abilities can be understood as applying vague limitations to the notion of infinite power. the vagueness of these limitations is the source of the well-known difficulties in the analysis of ability.
+[full text] [philpapers]
+"matter, god, and nonsense: berkeley's polemic against the freethinkers in the three dialogues" in berkeley's three dialogues: new essays, ed. stefan storrie (oxford university press, 2018)
+in the preface to the three dialogues, berkeley says that one of his main aims is to refute the free-thinkers. puzzlingly, however, we are then treated to a dialogue between two christians in which the free-thinkers never reappear. this is related to a second, more general puzzle about berkeley's religious polemics: although berkeley says he is defending orthodox conclusions, he also reminds himself in his notebooks "to use the utmost caution not to give the least handle of offence to the church or church-men." what is berkeley worried about? both of these puzzles are solved by the recognition that the argument against matter in the three dialogues is patterned after an argument for atheism that berkeley attributed to anthony collins. berkeley's aim is thus to use the free-thinkers' own premises and arguments against them. in doing this, however, he rejects doctrines many churchmen held dear -- most notably, the doctrine of divine analogy.
+
+[oxford academic (paywall)]
+[pre-print (open access)]
+[philpapers]
+"mereological idealism" in idealism: new essays in metaphysics, ed. tyron goldschmidt and kenneth l. pearce (oxford university press, 2017)
+according to commonsense, some collections of objects compose wholes, and others do not. however, philosophers have found serious difficulties with attempts to preserve this thesis, and especially with attempts to preserve the existence of just those composite objects recognized by commonsense. in this paper, i defend a classical solution to this problem: "it is the mind that maketh each thing to be one" (berkeley, siris, sect. 356). according to this view, which i call 'mereological idealism,' it is when a plurality is united in thought under a concept that a unified whole comes to exist. after explaining the view in more detail, i show how it escapes three standard arguments against commonsense views of composition.
+
+[oxford academic (paywall)]
+[pre-print (open access)]
+[philpapers]
+
+reference articles
+
+"george berkeley" (with daniel flage) in oxford bibliographies online (oxford university press, 2019)
+[full text (paywall)]
+"berkeley's philosophy of religion" in the bloomsbury companion to berkeley, ed. richard brook and bertil belfrage (bloomsbury, 2017)
+[full text] [philpapers]
+"deism" in the special divine action project, oxford university (bodleian library, 2017)
+[full text] [philpapers]
+"port-royal" in the routledge encyclopedia of philosophy online, ed. tim crane (routledge, 2015)
+[full text (paywall)] [philpapers]
+"omnipotence" in the internet encyclopedia of philosophy, ed. james fieser and bradley dowden (november 8, 2011)
+[full text] [philpapers]
+
+book reviews
+
+review of the parmenidean ascent, by michael della rocca, australasian journal of philosophy 102 (2024): 535
+[full text] [philpapers]
+review of george berkeley: a philosophical life, by tom e. jones, books ireland, august 26, 2021
+[full text]
+review of necessary existence, by alexander r. pruss and joshual l. rasmussen, american catholic philosophical quarterly 93 (2019): 763-767
+[pdc (paywall)] [pre-print (open access)] [philpapers]
+review of idealism and christian theology, ed. joshua r. farris and s. mark hamilton, faith and philosophy 34 (2017): 365-369
+[full text] [philpapers]
+review of the everlasting check: hume on miracles by alexander george, journal of the history of philosophy 54 (2016): 680-681
+[full text] [philpapers]
+review of the puzzle of existence: why is there something rather than nothing?, ed. tyron goldschmidt, faith and philosophy 31 (2014): 341-344
+[full text] [philpapers]
+
+books in progress
+philosophy of religion: 50 puzzles, paradoxes, and thought experiments, under contract, routledge. expected publication 2028.
+
+imaginative cases—or what might be called puzzles, paradoxes, and other thought experiments—play a central role in philosophy of religion, just as they do in other areas of philosophy. further, since philosophy of religion is deeply integrated with other areas of philosophy, thought experiments originally proposed in areas such as philosophy of language, decision theory, or ethics can often serve to illuminate issues in philosophy of religion.
+this volume uses 50 such imaginative cases to introduce some of the main issues in philosophy of religion. these include cases widely discussed in historical and contemporary philosophy of religion, such as the stone paradox; cases widely discussed in other areas of philosophy, such as the brain in a vat and newcomb's problem; and cases on which a literature is just emerging, such as samuel lebens' use of kurt vonnegut's the breakfast of champions as a model for god's relationship to creatures.
+the book will cover traditional issues in analytic philosophy of religion, such
+as the existence of god, as well as emerging conversations on topics analytic philosophers previously neglected, such as the nature and rationality of religious practice and issues specific to religions other than christianity. philosophy of religion: 50 puzzles, paradoxes, and thought experiments promises to be a useful teaching tool as well as a handy resource for anyone interested in the area.
+this book will be part of the routledge series puzzles, paradoxes, and thought experiments in philosophy.
+[projected table of contents] [sample chapter]
+berkeley's religion: a study in the history of anglican philosophy
+
+nearly every work berkeley wrote identifies itself on the title page as a religious polemic. yet the context of these polemics is poorly understood. historians of philosophy continue to read berkeley primarily against the background of locke, and perhaps secondarily such other philosophers as descartes, malebranche, and bayle. this book will be the first detailed study of the religious context of berkeley's philosophy. it will be established that (despite his tory politics) berkeley aligned himself with the latitudinarian school of anglican theology. berkeley adopted ideas from latitudinarians such as tillotson, clarke, and synge, and defended them against 'high church' opponents such as peter browne and charles leslie. this context will shed new light on berkeley's philosophy by showing how a pragmatic approach to religious doctrine, learned from previous latitudinarian divines, unifies his metaphysics and philosophy of language with his social and political philosophy.
+[projected table of contents] [sample chapter]
+
+other
+
+an annotated bibliography of omnipotence, prepared in the course of writing my iep article.
+[latest version (november 12, 2011)]
+"can berkeley's god raise the same body transformed?" presentation to the society of christian philosophers, pacific division conference: mind, body and free will. riverside, ca, october 31, 2008.
+orthodox christianity affirms a bodily resurrection of the dead. that is, christians believe that at some point in the eschatological future, possibly after a period of (conscious or unconscious) disembodied existence, we will once again live and animate our own bodies. however, our bodies will also undergo radical qualitative transformation. this creates a serious problem: how can a body persist across both temporal discontinuity and qualitative transformation? after discussing this problem as it appears in contemporary philosophical literature on the resurrection, i will argue that george berkeley's immaterialist metaphysics is more successful than either physicalism or dualism in escaping objectionsto resurrection based on the problem of qualitative transformation. in order to accomplish this, i will first discuss berkeley's views on the metaphysics of so-called 'ordinary' objects, including human bodies, and then apply this view to the resurrection of the dead, ultimately showing that, for berkeley, the radical transformation of the body in the resurrection is no more problematic than the case of a straight oar appearing bent when one end is inserted in water.
+[full text] [philpapers]
+
+
+
+philpeople     |     bluesky      |      twitter     |     amazon (us)     |     amazon (uk)
+
+
+

@@ -1,0 +1,922 @@
+
+
+
+codeposse los angeles sr engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t. hunold
+ux/ui/front-end
+
+
+beverly hills,
+                            ca
+
+
+
+
+
+
+                          buzzwords mean a lot to marketing, but only the experience matters to
+                          customers. hype from nft, blockchain, ai, vr or any other buzzword
+                          are not silver bullets.
+                        
+
+
+
+
+my social profiles
+
+facebook
+
+linkedin
+
+codersrank
+github
+
+
+
+
+
+
+
+
+
+
+
+profile
+
+
+
+resume
+
+
+
+portfolio
+
+
+
+blog
+
+
+
+contact
+
+
+
+
+
+
+
+
+
+profile - about me (updated feb 2025)
+
+
+
+
+t. hunold
+
+
+
+
+
+name
+t. hunold
+
+
+
+
+dob
+september 13
+
+
+
+
+address
+
+beverly hills, ca 90210
+
+
+
+
+
+email
+
+codeposse+github@gmail.com
+
+
+
+
+
+phone
++1 (310) 929-7155
+                                  no text
+
+
+
+
+website
+
+www.itssobig.com
+
+
+
+
+
+
+                              developers are ground troops, engineers are officers, architects are generals.
+                              if you know skill x experience = rank, you will understand. fake titles to entice
+                              candidates set up teams to fail.
+                            
+
+
+                              contractors don't buy tools to build
+                              your house from social media, so you should not choose your
+                              technology on buzzwords or hype.
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+my principles
+
+
+
+
+
+
+
+                                        do no harm
+                                        
+
+
+
+
+
+ building
+                                      something that is aimed at users and not
+                                      about trying to impress with needless
+                                      features is important to me.
+                                    
+
+
+
+
+
+
+                                        leave nobody behind
+                                        
+
+
+
+
+
+ too often
+                                      those that need a little extra help should
+                                      be accomodated. the web is difficult to
+                                      use of you require a screen reader or
+                                      assistive technology.
+                                    
+
+
+
+
+
+
+                                        building with smart tools
+                                        
+
+
+
+
+
+
+                                      technology is a tool, not a reason. i
+                                      choose stacks based on what gets it
+                                      done cleanly and maintainable.
+                                      complexity pretending to be powerful is
+                                      the enemy of all things holy, maintainable
+                                      and affordable.
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+resume - personal info
+
+
+
+
+
+tech skills (via
+                                  codersrank)
+
+
+
+
+
+
+
+javascript
+
+
+90%
+
+
+
+
+
+angular 2-19
+
+
+85%
+
+
+
+
+css3+
+
+
+99%
+
+
+
+
+
+html5+
+
+
+99%
+
+
+
+
+typescript
+
+
+85%
+
+
+
+
+
+front end
+
+
+95%
+
+
+
+
+
+user interface
+
+
+85%
+
+
+
+
+
+user experience
+
+
+80%
+
+
+
+
+
+practical skills
+
+
+
+
+
+
+
+leadership
+
+
+95%
+
+
+
+
+
+organization
+
+
+90%
+
+
+
+
+
+mentorship
+
+
+85%
+
+
+
+
+
+remaining current
+
+
+85%
+
+
+
+
+
+office skills
+
+
+
+
+
+
+
+ms excel
+
+
+65%
+
+
+
+
+
+ms word
+
+
+95%
+
+
+
+
+
+powerpoint
+
+
+60%
+
+
+
+
+
+sharepoint
+
+
+40%
+
+
+
+
+
+hobbies skills
+
+
+
+
+
+
+
+music
+
+
+60%
+
+
+
+
+
+auto racing
+
+
+95%
+
+
+
+
+
+classic cinema
+
+
+85%
+
+
+
+
+
+photography
+
+
+90%
+
+
+
+
+
+my resume
+
+
+
+
+
+
+                                download my contact card
+
+
+
+
+
+
+
+
+
+                                experience spotlight
+                              
+
+
+
+
+
+
+
+                                  ux/ui/front end consultant
+
+                                    2022 - pres
+
+
+ los angeles superior court
+                                
+
+                                  as a major initiative to completely revamp the online and app presence for the largest
+                                  court system in the country, i gathered requirements, made prototypes, and delivered
+                                  reusable, scalable components, and patterns, for the front end with multi-language and
+                                  ada/wcag. i also contributed to public service projects for the la county library. i
+                                  wore many hats including git, angular 19, cms(s), chatbots, css/scss, and ux
+                                  design.
+                                
+
+
+
+                                  ux prototyper
+                                  
+                                    2019
+
+
+ google staff augmentation via
+                                    ta
+                                    digital
+
+
+                                  i built multiple fully-functional prototypes for crucial
+                                  products, specifically the media and keyword planners for ads.google.com for testing before
+                                  engineers took them "the last mile" in to
+                                  production. i got the chance to work in dart,
+                                  angular 8+ and googles own acx/awx formats. i
+                                  have go links for those internal parties to
+                                  review my work, though nothing is on piper.
+                                
+
+
+
+                                  ux/ui architect
+                                  
+                                    2019 - 2021
+
+
+ ta
+                                  digital
+                                
+
+                                  leading on and offshore resources of 110+
+                                  global resources with two additional offshore
+                                  architects, i lead/architected/worked hands-on
+                                  with projects for fitbit, bose, aarp, vizio
+                                  and kia/hyundai. additionally i helped in
+                                  hiring resources, training freshers,
+                                  documenting content and direct consultations
+                                  with clients to roadmaping to compliance.
+                                
+
+
+
+                                  front-end engineer
+                                   2017 -
+                                    2018
+
+
+ imax
+                                
+
+                                  i took a full development cycle from auditing
+                                  users, writing user stories, building pagaes
+                                  and helping discover the whole suite of
+                                  applications for a major film distribtor and
+                                  theater chain. i became the stakeholder
+                                  between the dev team and the business.
+                                
+
+
+
+                                  front-end engineer
+                                  
+                                    2017
+
+
+
+                                  at&t/directv
+                                
+
+                                  as part of a two person team, i built the
+                                  front end to test mobile devices (phones,
+                                  tablets) for quality of service of directv
+                                  video apps on ios/android. this included
+                                  screen mirrorng of devices in remote locations
+                                  and reporting dropped connections, video
+                                  quality and reliability.
+                                
+
+
+
+                                  front-end engineer lead
+                                   2015 -
+                                    2017
+
+
+
+                                  legalzoom
+                                
+
+                                  i lead the front end practice for the world's
+                                  largest legal portal. i created a template
+                                  engine and style guide that generated reliable
+                                  pages with full test coverage.
+                                
+
+
+
+                                  front-end engineer
+                                   2014 -
+                                    2015
+
+
+ sempra
+                                  energy
+                                
+
+                                  consulting on multiple end-clients in multiple
+                                  states, i introduced accessibility
+                                  requirements and responsive design for several
+                                  public utilities. the end result being fewer
+                                  fines, and a massive reduction in casll center
+                                  volume from users that required assistive
+                                  technologies being able to finally self-serve.
+                                
+
+
+
+                                  front-end engineer
+                                  
+                                    2013
+
+
+ walmart
+                                  labs
+                                
+
+                                  as part of a consulting team, my partner and i
+                                  worked to redesign gift lists and registries
+                                  for the retailer. we built based on a new
+                                  style guide we contributed to, and connected
+                                  to physical devices like scanners for retail
+                                  use.
+                                
+
+
+
+                                  front-end engineer
+                                  
+                                    2010
+
+
+ nfl
+                                
+
+                                  i worked on a new cms and created standards
+                                  for use by all 32 professional football clubs.
+                                
+
+
+
+                                  front-end engineer
+                                   2008 -
+                                    2009
+
+
+ experian
+                                
+
+                                  the credit services provider tasked me with
+                                  absorbing all of the 70 foreign franchise
+                                  sites, absorbing them in to the new cms, then
+                                  documenting and training users world wide in
+                                  the use of the content tools.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+portfolio - under construction
+
+
+brand styleguide (adobe xd)
+data-driven application medium complexity (adobe xd)
+
+
+
+
+
+
+
+
+                          blog on:
+                          medium.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact - contact me
+
+
+
+
+
+
+
+
+
+
+contact info
+
+
+
+
+
+                                        adress:
+                                      beverly hills, ca.
+
+
+
+                                        email:
+                                      codeposse+github@gmail.com
+                                    
+
+
+                                        phone:
+                                      +1 (310) 929-7155 no text
+
+
+
+                                        website:
+www.itssobig.com
+
+
+
+
+
+
+follow me
+
+
+
+
+facebook
+
+linkedin
+
+codersrank
+github
+
+
+
+
+
+
+
+
+                                    let's keep in touch
+                                  
+
+
+
+
+
+
+your name
+
+
+
+your email
+
+
+
+your message
+
+
+
+
+
+
+                                        send message
+                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

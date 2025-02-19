@@ -1,0 +1,444 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ls - english: freeware, shareware, quiz, education tools, biblical essays
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+luzius schneider
+
+freeware,
+shareware, education tools, biblical essays
+.
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+are you so busy with
+urgent
+things,
+that you don't take time for what is important?!?
+
+
+
+.
+
+
+
+links: seminaries and books
+
+
+biblical essays
+
+
+
+
+bible quiz
+
+
+
+
+
+software
+
+
+
+most applications support different languages for the interface.
+english and german are included in the installation.
+here,
+you find files for other languages (interface language files).
+
+faq  
+frequently asked questions
+
+
+
+.
+
+applications!
+
+
+
+
+calcul
+
+
+a program to practise mental arithmetic's or to do fractions.
+it's free!
+
+
+
+calculpro
+
+
+a program to practise mental arithmetic's or to do fractions. it's
+based on calcul. furthermore, the performance of the students is
+stored in a data base and calculpro is designed for networks. this
+allows you for instance to do a test with your students, using a local
+network and evaluate the performance of your class automatically.
+
+
+the program is shareware. the registration
+fee for 25 work stations is us$ 20.--.
+
+
+
+
+
+
+
+
+
+
+quiz
+
+
+a program to train questionnaires or vocabularies. you can compose
+your own question files or vocabs, and it is possible to add lengthy explanations
+including pictures. as examples, there will be installed: a greek and a
+hebrew alphabet and a bible quiz.
+the program is free under the condition,
+that you will send me your questionnaires you regard as good.
+
+
+
+quiz files
+more quiz files, different topics! the same format for
+quiz, quizpro, flipflop, webquiz and phpwebquiz.
+
+
+
+
+quizpro
+
+
+a program to train questionnaires or vocabularies. it's based on quiz.
+furthermore, quizpro is designed for networks. this allows you for
+instance to do a test with your students, using a local network and analyse
+the results statistically.
+
+
+the program is shareware. the registration
+fee for 25 work stations is us$ 33.--.
+
+
+
+
+
+
+
+
+
+
+webquiz
+
+
+a program to solve quizzes online on the internet or on a intranet.
+it runs on a internet server. 
+webquiz is compatibel with quizpro. this means, you have for example
+the possibility to run a test with your students on the internet, and analyse the
+results statistically by using quizpro.
+the program is shareware. the registration of quizpro includes
+webquiz. you have no additional cost.
+
+
+
+
+phpwebquiz
+
+
+similar to webquiz, phpwebquiz allows to solve quizzes online on the internet or on a intranet.
+it runs on a internet server and needs php. as a script, it is independent of operating systems!
+phpwebquiz is compatibel with quizpro. this means, you have the same possibilities
+as with webquiz.
+the program is freeware!
+
+
+
+
+flipflop
+
+
+a game similar to othello with additional features: up to 4 people
+may play simultaneously and a study feature allows you to train different
+topics by playing. it's free!
+
+
+
+
+timesync
+
+
+timesync allows to adjust the clock of your computer using the internet.
+it's free!
+
+
+
+
+multiclipboard
+
+
+multiclipboard is a utility, which can hold an unlimited number of clipboards helping you copy and paste in any application under windows.
+it's free!
+
+
+
+
+txtedit
+
+an editor for text or rich text files. it includes a spell checker and a "send to" - feature.
+foreign character sets are supported.
+
+
+it's basically freeware. 
+as shareware, some additional features are available!
+
+
+
+
+
+
+
+
+
+
+
+ispell - ls-distribution
+
+
+ispell - ls-distribution is a distribution of ispell,
+which can be used by several of our applications, e.g. txtedit, quiz, quizpro.
+ispell - ls-distribution is fully functional to be used with third party applications as unired.
+it's free!
+
+
+
+
+
+
+execall
+
+
+execall helps to execute (or open) any number of files one after the other.
+great for example to run e-sword resource files, if you want to install a big number of bibles/commentaries etc.
+ it's free!
+
+
+
+.
+
+delphi - components!
+
+
+
+
+lsfindreplacedialogw
+
+
+lsfindreplacedialogw contains two components for delphi 6 and 7: tlsfinddialogw displays a find dialog, tlsreplacedialogw a search-and-replace dialog.
+both use wide strings (unicode) and do work only with windows nt/2000/xp and higher.
+it's free!
+
+
+
+
+printdialogex
+
+
+printdialogex contains the component tprintdialogex designed for delphi 5, 6 and 7. it is a printdialog
+with an additional combobox to select: all pages, odd pages or even pages. it's free!
+
+
+
+
+speller
+
+
+speller contains two components designed for delphi 5, 6 and 7: tspellchecker and tspelllanguagecombobox,
+which allow to add spell check capability to any application. it's free!
+
+
+
+
+
+links      
+interesting freeware and shareware!
+
+
+
+e-sword is a fast and effective way to study the bible, a free bible application with many features, e.g. bibles in many languages, lexicons, commentaries, greek and hebrew sources and much more!
+versions for windows and pocket pc available
+
+
+association of shareware professionals
+
+lots of shareware and freeware!
+
+
+
+
+more links!
+
+seminaries and books
+
+
+links 
+
+
+
+
+
+
+
+
+alphana.org usa
+
+alphacourse.org international
+
+
+
+
+the alpha course is a fifteen session program which runs over ten weeks to provide a practical introduction to the christian faith.
+
+it offers the opportunity to explore the meaning of life.
+
+
+
+david pawson
+
+david pawson  is one of the best teachers
+for biblical and theological questions. profoundly,  nevertheless
+gripping he speaks about different themes of our life and of the bible.
+books and lectures on audio or video cassettes.
+example: studies to each of the 66 books of the bible available on
+video or audio cassettes!
+
+
+
+
+
+
+ derek
+prince
+
+derek prince was professor for philosophy in cambridge. today, he is
+a internationally well known teacher for biblical studies and theology.
+his books and lectures are available in many languages.
+
+
+
+
+
+would you like to learn more about the trinity, or what a jew has to
+say about the messianic prophecies in the old testament? -- and much more!
+
+
+
+
+
+muslims are seeking the truth by the thousands. visit www.isaalmasih.net and learn about hazrat isa, dreams and visions of the "man in white", the al-kitab, and more...
+
+
+
+
+
+search engine for christian interest!
+
+
+
+
+
+more links!
+
+
+biblical essays
+
+
+
+jewish feasts
+a survey of the 7 biblical feasts in form of tables. where do i find
+the messiah in the feasts? prophetical aspects! (update february 03. 2000)
+
+
+jesus' date of birth
+where can i find the birthday of jesus in the bible? (update august 2003)
+
+
+
+the broad and the narrow way
+the word of jesus by which he closes the sermon on the mount (matthew 7:13-14 have been shown many times as a "two way picture": the broad way choosen by many leads to condemnation, the narrow one to paradise.
+here is the most famous picture on this topic presented interactively. the origins of it date back to charlotte reihlen (1805-1868).
+(4/19/2007)
+
+
+ jesus heals today
+
+ jesus heals today
+ (pdf for printing)
+
+jesus did heal many sick people 2000 years ago. the same is true for his disciples. how about today? (february 2008)
+
+
+
+
+
+
+
+please send hints to:    
+
+luzius schneider
+kruggasse 70
+ch-5462 siglistorf
+switzerland
+bank connections
+
+
+
+
+
+
+
+
+

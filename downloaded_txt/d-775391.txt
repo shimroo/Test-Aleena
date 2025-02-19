@@ -1,0 +1,374 @@
+
+
+
+
+
+
+
+
+
+
+
+brightqâ¢ se for savin printers - linux and unix drivers | codehost, inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+codehost
+downloads and support center
+
+
+
+questions? reach us at: 
+info@codehost.com or +1 (213) 254-2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+brightq™ se for savin
+
+
+savin is a registered trademark of ricoh usa inc.
+
+
+
+
+
+
+
+
+
+about brightq™ se
+
+
+
+brightq™ se provides native postscript device drivers for the linux, solaris, aix, hp-ux and freebsd operating systems. installation is a breeze with our easy to use graphical software installer and printer configuration tool.
+print queues configured with brightq™ se integrate with your computer's native print system and easily integrate with your existing application workflow.
+the brightq configuration tool makes it easy to set up new queues to make your new printers immediately available in your unix applications.
+many postscript printers from savin are supported by brightq™ se.
+       click here for the current list of devices.
+âfor almost 20 years now, codehost continues to consistently deliver software with the highest quality, security and reliability that enables smart hardware features for thousands of customers worldwideâ — sam bizri, president of codehost, inc.
+
+
+
+licensing and evaluation
+
+
+
+you may register below to receive a free 45-day evaluation license of brightq™ se. note that all print jobs using the evaluation drivers will be watermarked for the duration of the trial.
+register
+retrieve your certificate...
+please read the demo activation instructions to get started.
+
+
+
+pricing
+
+
+
+brightq™ se licenses are available for $159 per printer for linux and $199 for other unix systems.
+if interested, please e-mail your request to sales@codehost.com. please include the number and model(s) of printers, along with what operating system(s) you will be using brightq™ with.
+
+
+
+documentation
+
+
+
+
+documentation
+
+
+
+
+            brightq™ user manual & installation guide
+          
+
+
+
+            brightq™ end user license agreement
+          
+
+
+supported savin devices
+postscript controller is required
+
+current version: 2.5.5
+
+
+
+operating system support
+
+
+
+
+
+minimum supported unix os
+
+
+hardware
+
+
+
+
+            oracle solaris 10
+          
+
+            ultrasparc ii or iii 
+            x86-intel and compatible
+          
+
+
+
+            hp-ux 11i
+          
+
+            pa-risc (11.11) or itanium (11.23)
+          
+
+
+
+            freebsd 8.2
+          
+
+            x86-intel and compatible
+          
+
+
+
+            aix 4.3
+          
+
+            powerpc
+          
+
+
+
+newer versions of these platforms are also supported.
+
+
+
+
+linux distribution
+
+
+minimum supported version
+
+
+
+red hat enterprise (rhel) / centos
+5
+
+
+
+              fedora
+            
+
+              15
+            
+
+
+suse / opensuse
+11.0
+
+
+debian
+3.0
+
+
+slackware
+13
+
+
+ubuntu
+9.10
+
+
+
+the linux version requires an intel x86 or x86_64 (64-bit) processor.
+
+
+
+questions? reach us at:  +1 (213) 254-2000 or sales@codehost.com
+for technical support, please use our support form.
+
+
+
+brightq™ se activation steps
+step 1: receive activation email
+the brightq license server will email you a unique certificate number, along with the information needed to download your copy of brightqâ¢ se.
+step 2: download brightq™ se
+download the brightqâ¢ installer for your operating system. you will get an executable file with a .run extension, which needs to be copied to the target unix system.
+
+
+
+
+platform
+
+
+download
+
+
+
+linux
+
+            brightq-se-2.5.5-linux-2013-05-17.run
+
+
+
+solaris
+
+            brightq-se-2.5.5-solaris-2013-05-17.run
+
+
+
+aix
+
+            brightq-se-2.5.5-aix-2013-05-17.run
+
+
+
+hp-ux
+
+            brightq-se-2.5.5-hpux-2013-05-17.run
+
+
+
+freebsd
+
+            brightq-se-2.5.5-freebsd-2013-05-17.run
+
+
+
+
+step 3: installation
+to start the installation process, run the downloaded archive through the sh command.
+sh brightq-se-2.5.5-*-2013-05-17.run
+step 4: launch the brightq configuration tool
+launch brightqâ¢ by entering codehost-config at a terminal prompt. if this is the first time the program has been launched, you will be automatically prompted to run the license manager. note that you need administrator privileges to create and administer printer queues.
+step 5: activate the brightq license
+click on the license activation button, and enter the certificate number that was emailed to you, as well as the email address and password you registered with in the first step.
+note: if you have already run the brightq configuration tool, go to the file > license manager menu item, or run the codehost-license command.
+brightqâ¢ will validate your license and download the appropriate files to your system. relaunch the brightq configuration tool to access your new devices.
+you are now ready to use brightq for 45 days. note that evaluation licenses include a watermark on all print jobs submitted to the queues configured with that license.
+if you like brightqâ¢ and are ready to buy, please email us your purchase order at sales@codehost.com.
+
+
+savin device support
+postscript only
+b&w multifunction printers
+
+savin 2015dp
+savin 2055dp
+savin 2070dp
+savin 2085dp
+savin 2105dp
+savin 2522
+savin 2527
+savin 2535/2235
+savin 2545/2245
+savin 2585
+savin 25105
+savin 9918dp
+
+color multifunction
+
+savin c2408
+savin c2524
+savin c2532
+savin c3210
+savin slp38c
+
+b&w printers
+
+savin mlp26
+savin mlp26n
+savin mlp45
+savin slp26
+savin slp26n
+
+
+
+brightq™ pro configuration tool
+
+
+
+
+
+
+
+
+
+
+codehost
+
+home
+brightq™
+terms of use
+privacy policy
+support
+news
+
+codehost, inc. • copyright 1999-2024 © all rights reserved
+
+
+
+
+
+
+

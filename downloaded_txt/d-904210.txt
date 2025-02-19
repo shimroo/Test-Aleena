@@ -1,0 +1,101 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+performance simulations
+
+
+
+
+
+i’m back!  site was hacked a few years ago and i’ve been too busy with projects to restore it.  for now i’ll just blabber on blog style for a few minutes and talk about my background, various projects i’ve worked on over the years.  i’m j. todd wasson (call me “todd”).  i started performance simulations as a sole proprietorship originally in arizona in 1999.  in 2000 i moved back to minnesota where i re-registered the company and have remained since.  the company has just been me running solo all these years.  it started with a drag racing simulation i wrote in high school around 1991 while taking a physics class.  i loved cars, loved physics, and loved programming, so what else would i do?  this was back in the dos days when i wrote qbasic code in dos.  at the same time i wrote an engine simulation and 2d vehicle dynamics simulator.  after moving to arizona for a few years, i rewrote the drag racing program into a language called powerbasic for windows and dressed it up to run on windows 95 and go 100+ times faster.  think i finished that early 1999.  the language was similar enough to qbasic that i didn’t have to learn too much.  i dreamed up the name “performance simulations” and, seeing nobody was using it, registered it for the first time in arizona and created the original version of this web site.  that was in pure html 1.0 if you can believe that.  long time ago.
+
+
+straightline acceleration simulator
+
+
+
+i named the windows version of the drag racing and engine simulation program “straightline acceleration simulator” and began selling it on 3.5″ floppy disks by mail.  payments came by check the same way.  this was still pretty early in the internet days when the internet boom was just getting going, so unless you had crazy web programming skills (i certainly don’t) you didn’t have an online store or digital distribution. later as easier web dev tools became available, i started selling it through this site as a download instead which made life easier for everyone.  it remained that way for close to two decades.  it wasn’t a huge seller, but it was fun to get a purchase occasionally and chat with customers, some of whose cars are shown at the top of the site.  many were quite interesting.  i recall one of the first (if not the first) was an engine builder who sent extra money with his check while acknowledging how hard it was to create a program like that.  another one was an engineer at lingenfelter around the time they had built one of their first super corvettes while another worked in a transmission design place for some well known high end sports cars like the bugatti.  it was good enough where one even asked for a custom version for their transmission design shop so their engineers could throw away their spreadsheets.  i was too busy with other projects to do it so i passed on it, but it was neat to be asked anyway.here’s a picture of one of the original 3.5″ floppies i used to sell by mail.  i still have this one:
+
+
+
+virtual rc racing and vrc pro
+
+
+
+
+available here:  https://vrcworld.com/straightline acceleration simulator (called “sas” for short) was a simple 1d vehicle model.  it worked surprisingly well considering how simple the vehicle model was.  you can’t get any simpler than a single lumped mass with only one degree of freedom, right?  having finished that along with a 2d vehicle dynamics model years earlier while in high school, i wanted to see if i could figure out how to write a full 3d vehicle model.  also known as a “physics engine,” which might be a familiar term to you if you’re a gamer like me.  this was a very long, interesting and laborious process that burned quite a few brain cells.  i started that in 1999.  back in those days there weren’t many internet forums.  usenet (now available through google groups) was where all the smart people hung out so if you wanted to talk shop, that was the place to be.  the group i hit the most was called rec.autos.simulators.  some of the popular racing sims today can trace their lineage to that group.there were several of us working on our own pet projects in that group, little more than hobbies at the time for most of us.  we’d help each other out with questions and answers.  i learned a lot and enjoyed helping people when i figured something out that somebody else was stuck on, so i became a regular there and at other gaming dev groups.  one day somebody asked the typical “i’m making car game, how do you write a vehicle model” question.  at that point i’d answered it so many times i decided to just send him what i had at that point to save time.  if he liked it, i’d just tell him how to do it.   i sent it along and the guy loved it, said it was just what they were looking for.  however, he didn’t want to write it himself (really his son was working on something) and asked if he could license the engine instead.  i threw out a dollar number that was agreeable, and what was originally going to be called “virtual rc racing 2000” was essentially born.  that took more than four years from the time i joined the project, so the title was shortened to “virtual rc racing.” besides writing the vehicle model, i also tuned the vehicle physics parameters for all the cars so they’d drive as close to the real thing as i could manage.  vehicle dynamics is an area of great interest to me and i’ve become pretty adept at it.  i also wrote the ai model (computer opponents) and probably a ton of other things that slip my mind at the moment.we released it late november 2004, then released updates for a couple of years, then started a six+ year project creating a new, bigger, better rc car sim called vrc pro.
+
+
+
+
+
+on the side i still liked writing engine simulations too.  during vrc pro development it became apparent that an engine simulation like that would be useful for vrc pro itself, so i wrote a two stroke engine model tailored to rc car engines for use in the game.  it worked great and it was easy to get a good data fit to real dyno data.  this let players do all kinds of cool things to the engine like changing exhaust length with different header pipes and spacers, controlling ignition timing with different temperature glow plugs, fiddling with low and high speed fuel mixture needles and so forth.  the engine simulation ran just once to generate a torque/power curve, then a light weight real time simulation would run while you were driving which basically just tracked heat flow and a minimal set of variables if memory serves correctly.  this way if players used the wrong glow plug for the atmospheric conditions, they might overheat the engine and burn out the glow plug.  if you ran the engine too rich, it’d bog down and misfire (losing lots of power and sounding different), run it too lean and it’d burn up the glow plug and quit running entirely.   
+
+
+
+design it, drive it : speedboats
+
+
+
+
+
+after 14 years of vrc and vrc pro, i left the project in 2014.  i took virtually the entire summer off to reset the brain (highly recommend trying that).  i tried unity after a couple of developer friends recommended it.  i wrote a mobile version of straightline acceleration simulator (not shown here) and then started working on a boat simulator just for fun and to get my head out of cars for awhile.  oculus vr came out with their first dev kit which unity was supporting.  a friend loaned me his dk1 for a couple of days and i was blown away.  totally hooked on vr and i have been ever since.  when the dk2 came out i bought one immediately and i spent 15 months creating a boat sim in unity (using c#) called “design it, drive it : speedboats” which had vr support.  i wanted to do the physics at the polygon level where every triangle in the boat produces forces from fluid dynamics equations.  i couldn’t find any suitable 3d models, and most of the fun in flying these high speed boats is in the subtle design differences, so eventually i decided to just make boat design as part of the simulator.  it’s not pretty looking or very full featured, but it does what it was meant to do very well:  physics!  it’s popular with boat racers including some f1 pilots.  unfortunately it’s a small market (or i’m terrible at marketing; entirely possible) so it doesn’t pay the bills.  had to put it to the side and move on.i sold it through another one of my websites http://speedboatsim.com/  directly for a few months and then got greenlit for steam where it’s currently sold:https://store.steampowered.com/app/501090/design_it_drive_it__speedboats/
+
+
+kartkraft
+
+
+this is a race kart simulator with a focus on realism.  i guided and assisted with physics engine design, wrote the tire model and did a lot of the initial tire and vehicle dynamics tuning before others tweaked handling further.  this and everything that came after it was all c++.this is on steam too: https://store.steampowered.com/app/406350/kartkraft/
+
+the grand tour game
+
+
+
+
+
+this was the first game released by amazon games and was for xbox and ps4 only.  it used the rfactor 2 physics engine from studio 397.  i worked as contractor for studio 397 modifying the rfactor 2 engine for use in this product.  the project’s creative director from amazon had done all the need for speed games over the previous 10 years and wanted something arcade that drove somewhere between nfs and mario kart on a gamepad.  rfactor is a serious simulation engine so it wasn’t really possible to get the arcade style vehicle handling they wanted from the engine.  i was brought in as a contractor to figure out ways of fixing that.  most of my time on this project was spent designing and writing control systems to make an rfactor level sim car drive very easily with a gamepad.  i also wrote extra models to make the physics work the way they wanted rather than the way a real car works, all while keeping the underlying rfactor physics engine intact.  that meant dreaming up and coding extra forces and torques and that kind of thing so we could break the law of physics and get some arcade style drifting that arcade racers would immediately grasp and not struggle with.  it was a fun project.  amazon flew me out to seattle a few times to work with the team in person near the end.
+
+
+racecraft
+
+
+
+racecraft had been on the pc market for some time before i joined.  i was brought on to up the physics level to something like gran turismo.  i developed new physics features they didn’t have before, new tire model features like temperature gradients across the surface, nicer tire wear and grip variations acting more like a real tire and that kind of thing.  this included a more sophisticated suspension model, a more flexible aerodynamic model and so forth.  probably more that escapes me at the moment.  toward the end of my involvement on the project i’d written an ai line generator to replace the system they had originally.  i thought it was good the way it was and recommended they save some money by skipping this part of the upgrade, but they wanted something new anyway.  it was interesting in that the tracks are created procedurally (potentially unique every race) so you can’t do ai cars the typical way.  there’s no chance to record racing lines or manually tune anything, it all has to happen automatically in a few seconds at track loading time with a 5 second cpu budget.  my ai stuff didn’t go in to the title, but they’re planning something else with it anyway, so it’ll likely pop up somewhere some day.ultimately the big racecraft update i worked on didn’t go to pc or consoles, but instead to coin-op arcade machines like shown above.  it’s fun to think it’s actually an arcade game in real arcades now somewhere in europe.  arcades are where my gaming started, after all!
+
+
+nascar ’21 : ignition
+
+
+
+at this point it was back to studio 397 again.  motorsport games was licensing the rfactor engine for the next big nascar game.  they had a similar problem to the grand tour game in that with the rfactor physics engine it was pretty much impossible to have realistically parameterized car that was at all drivable with a gamepad.  because of the similar work i’d done on the grand tour game, they called me back to help with the same basic problem of gamepad control.   i was on this for a pretty long time, nearly a year and a half.  my part started with a look at the existing brake assist.  that uses information from the ai system, so it lead down a fantastic rabbit hole of ai hell in the rfactor engine.  after about three months i’d made the necessary ai system changes and cracked out steering and brake assists that were about as good as i could get them.  at that point the ai cars were still a terrible mess, train track cars that never passed each other and were way too slow.  i felt it was the weakest link in the game, so with permission i spent the rest of the project rewriting much of the ai system to try to rescue that part in the time we had available.  also had to tune the ai separately on every track (20+ of them, did it about four times as things progressed) using the new stuff i wrote which took an enormous amount of time to do.eventually motorsport games (msg) bought studio 397 and black delta (kartkraft described earlier which i also worked on), so i technically became a contractor for msg at that point.  a couple of weeks before i left, they flew me to miami (motorsport network hq where msg resides) where they offered me to head the physics development across all their titles.  at the time that was planned to be all the future nascar games for many years to come, whatever indycar games they’d develop, a british touring cup car game, and a lemans game.  i instead decided to go my own way with my own racing simulator project and left a couple weeks later.
+
+
+
+
+
+

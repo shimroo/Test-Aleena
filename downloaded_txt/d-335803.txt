@@ -1,0 +1,3660 @@
+
+
+
+
+
+
+
+
+windover farms of melbourne - home
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.windoverfarms.com/member-directoryhttps://www.windoverfarms.com/committeeshttps://www.windoverfarms.com/calendarhttps://www.windoverfarms.com/pavilion-reservationshttps://www.windoverfarms.com/new-website-informationhttps://www.windoverfarms.com/photo-galleryhttps://www.windoverfarms.com/report-a-violationhttps://www.windoverfarms.com/arc-request-formhttps://www.windoverfarms.com/classifiedhttps://www.windoverfarms.com/newsfeedhttps://www.windoverfarms.com/community-eventshttps://www.windoverfarms.com/documentshttps://www.windoverfarms.com/contact-ushttps://www.windoverfarms.com/https://www.windoverfarms.com/important-numbershttps://www.windoverfarms.com/board-membershttps://www.windoverfarms.com/online-payments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+account payment due
+if you're seeing this message, we've deactivated your community website account while we're waiting to receive your payment. please ask your administrator to contact {{(sitedata.sitebrand == 1) ?  'membershine' : 'hoa start'}} at {{(sitedata.sitebrand == 1) ?  'billing@membershine.com' : 'billing@hoastart.com'}}. we'll restore your site's full functionality once your payment arrives.
+
+
+
+
+
+
+
+
+
+
+
+messaging 
+view all messages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ new
+                                        message
+                                    
+
+
+
+you have no messages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{conversation.name}}
+{{conversation.messages[conversation.messages.length - 1].sentdate}}
+
+
+                                                {{conversation.messages[conversation.messages.length - 1].firstname}}: {{conversation.messages[conversation.messages.length - 1].message.substr(0, 20)}}{{(conversation.messages[conversation.messages.length - 1].message.length > 20) ? '...' : ''}}
+                                            
+
+
+
+
+
+view participants
+rename conversation
+
+
+
+
+
+
+
+
+
+
+add groups to message
+
+
+{{tagmember.name}}
+
+
+
+
+
+
+
+
+
+
+ add
+
+
+
+
+
+
+
+
+
+
+
+{{member.firstname}} {{member.lastname}}
+
+
+
+
+
+
+
+
+
+
+
+participants
+
+
+
+
+
+
+
+
+
+{{member.firstname}} {{member.lastname}}
+
+
+
+
+
+
+
+
+
+
+
+your message*
+
+
+
+
+
+upload photos or documents
+
+
+choose file
+
+
+
+
+ view {{message.attachments.length}} attachments
+
+
+ {{attachment.filename}}
+
+
+
+* required information
+
+send
+cancel
+
+
+
+
+
+
+ {{selectedconversation.name}}
+ view {{selectedconversation.participants.length}} participants
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{message.firstname}}
+{{message.sentdate}}  - edited on {{message.modifieddate}}
+
+
+
+
+
+edit message
+remove message
+
+
+
+
+
+                                                {{message.message}}
+
+                                            
+
+
+                                                    {{message.message}}
+                                                
+
+
+
+
+
+
+ {{attachment.filename}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ participants ({{selectedconversation.participants.length}})
+ back to message
+
+
+
+
+
+
+
+
+
+
+
+
+
+leave conversation
+remove member from conversation
+
+
+
+
+
+
+{{member.firstname}} {{member.lastname}}
+
+
+
+
+
+
+
+ add
+
+
+
+
+
+
+
+
+
+
+
+{{member.firstname}} {{member.lastname}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {{attachment.filename}}
+
+
+
+
+
+your message
+
+
+
+
+
+upload
+send
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+{{item.pagename}}
+{{(item.submenu != null && item.submenu.length && item.dropdowntitle != null && item.dropdowntitle.length) ? item.dropdowntitle : item.pagename}} 
+
+{{item.pagename}}
+{{subitem.pagename}}
+
+
+
+ 
+
+
+
+
+login | register
+
+
+
+{{currentuser.firstname}}'s profile | my dashboard | member portal
+ | admin dashboard
+admin dashboard
+| log off
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+{{item.pagename}}
+{{(item.submenu != null && item.submenu.length && item.dropdowntitle != null && item.dropdowntitle.length) ? item.dropdowntitle : item.pagename}} 
+
+{{item.pagename}}
+{{subitem.pagename}}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{sitedata.sitename}}
+
+{{section.headerbrandtext}}
+
+
+
+
+
+
+
+
+login | register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello, {{currentuser.firstname}}
+
+
+my profile
+my dashboard
+member portal
+admin dashboard
+admin dashboard
+my committees
+my committees
+my sites
+log off
+
+
+
+
+
+{{section.headerphonenumber}} | {{section.headeremail}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{sitedata.sitename}}
+
+
+
+
+
+login | register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello, {{currentuser.firstname}}
+
+
+my profile
+my dashboard
+member portal
+admin dashboard
+admin dashboard
+my committees
+my committees
+my sites
+log off
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{sitedata.sitename}}
+
+{{section.headerbrandtext}}
+
+
+
+
+login | register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello, {{currentuser.firstname}}
+
+
+my profile
+my dashboard
+member portal
+admin dashboard
+admin dashboard
+my committees
+my committees
+my sites
+log off
+
+
+
+
+
+
+
+
+
+
+
+{{section.headerphonenumber}} | {{section.headeremail}}
+
+
+
+
+
+
+
+
+
+
+
+{{section.headerbrandtext}}
+{{section.headerphonenumber}}
+
+
+
+
+
+{{sitedata.sitename}}
+
+
+
+
+
+
+login | register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello, {{currentuser.firstname}}
+
+
+my profile
+my dashboard
+member portal
+admin dashboard
+admin dashboard
+my committees
+my committees
+my sites
+log off
+
+
+
+
+
+
+
+
+
+
+
+{{section.headeremail}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{sitedata.sitename}}
+
+{{section.headerbrandtext}}
+
+
+
+
+
+
+
+
+login | register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello, {{currentuser.firstname}}
+
+
+my profile
+my dashboard
+member portal
+admin dashboard
+admin dashboard
+my committees
+my committees
+my sites
+log off
+
+
+
+
+
+
+home
+
+
+{{item.pagename}}
+{{(item.submenu != null && item.submenu.length && item.dropdowntitle != null && item.dropdowntitle.length) ? item.dropdowntitle : item.pagename}} 
+
+{{item.pagename}}
+{{subitem.pagename}}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+{{item.pagename}}
+{{(item.submenu != null && item.submenu.length && item.dropdowntitle != null && item.dropdowntitle.length) ? item.dropdowntitle : item.pagename}} 
+
+{{item.pagename}}
+{{subitem.pagename}}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+{{widget.description}}
+
+{{widget.buttontext}}
+
+
+
+
+
+{{widget.description}}
+{{widget.description2}}
+
+{{widget.buttontext}}
+
+
+
+
+
+ documents
+
+
+{{subwidget.description}}
+{{subwidget.description2}}
+download
+
+
+
+
+
+{{widget.description}}
+
+
+{{subwidget.description}}
+
+
+
+
+
+ upcoming events
+
+
+
+                                                        {{event.month}}
+                                                    
+
+                                                        {{event.day}}
+                                                    
+
+
+{{event.name}}
+{{event.name}}
+{{event.name}}
+ {{event.venue}} - all day
+ {{event.venue}} - {{event.starttime}}
+
+
+
+
+there are no upcoming events
+
+
+
+
+
+
+ recent news
+
+
+{{post.name}}
+{{post.timestampstring}}
+{{post.summary}}
+read more
+read more
+
+
+
+
+there are no posts
+
+
+
+
+
+
+{{widget.description}}
+
+{{widget.buttontext}}
+
+
+
+
+{{widget.description}}
+{{widget.description2}}
+
+{{widget.buttontext}}
+
+
+
+
+
+{{widget.description2}}
+
+
+{{widget.buttontext}}
+
+
+
+{{widget.description2}}
+
+
+{{widget.buttontext}}
+
+
+
+
+
+
+
+
+
+showing {{committeesearchresults.length}} of {{committees.length}} committees
+
+
+
+
+
+
+
+
+
+search committees
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+{{committee.name}}
+{{(committee.formid) ? 'apply' : 'join*'}}
+this committee is invite only*
+your application has been rejected*
+your application is pending review*
+you're a leader of this committee*
+you're a member of this committee*
+
+
+
+
+
+
+
+                                                            committee leaders: {{committee.leaders}}
+                                                        
+
+view all members
+
+
+
+
+
+
+
+
+                                                            there are no committees that match your search criteria.
+                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{widget.chargedata.name}}
+amount
+{{(widget.chargedata.isflexiblepaymentsenabled) ? "flexible" : priceformatter.format(widget.chargedata.amount)}}
+
+
+{{widget.chargedata.description}}
+
+ make payment
+
+
+
+
+
+
+
+
+ my upcoming reservations
+
+
+
+
+
+
+{{reservation.amenityname}} - pending approval
+ {{reservation.reservationdate}}  {{reservation.starttime}} - {{reservation.endtime}} all day
+
+
+
+
+
+
+
+
+
+
+                                                                you have no amenity reservations.
+                                                            
+
+
+
+
+
+
+
+
+
+
+
+ my committees
+
+
+
+
+
+
+{{committee.name}}
+you are a leader of this committee
+your application is pending for this committee 
+you are a member of this committee
+
+
+
+
+
+
+
+
+
+
+
+
+
+showing {{events.length}} of {{events.length}} events
+
+
+
+
+
+
+
+
+
+search events
+
+
+
+
+
+start date
+
+
+
+end date
+
+
+
+
+
+location
+
+
+
+
+search
+clear
+
+
+
+
+
+
+
+
+{{event.name}}
+register
+
+
+
+
+
+
+
+ {{event.startdate}} - {{event.enddate}}
+ {{event.starttime}} - {{event.endtime}}
+
+
+
+
+{{event.venue}}
+{{event.address1}}
+{{event.address2}}
+{{event.city}}, {{event.stateabbreviation}} {{event.zip}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    there are no events that match your search criteria.
+                                                                
+
+
+
+
+
+
+
+
+event registration & checkout
+
+
+
+
+ back to all events
+
+
+
+
+
+
+
+registration information
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+
+
+email*
+
+
+
+phone*
+
+
+
+
+
+
+                                                                        country
+                                                                        *
+
+
+
+choose a country
+{{country.name}}
+
+
+
+
+
+address 1*
+
+
+
+address 2
+
+
+
+
+
+city*
+
+
+
+state*
+
+choose a state
+{{state.name}}
+
+
+
+zip*
+
+
+
+
+
+
+                                                                        city
+                                                                        *
+
+
+
+
+                                                                        please provide a city.
+                                                                    
+
+
+
+                                                                        state/province/region
+                                                                        *
+
+
+
+
+                                                                        please provide a state/province/region.
+                                                                    
+
+
+
+                                                                        zip/postal code
+                                                                        *
+
+
+
+
+                                                                        please provide a zip/postal code.
+                                                                    
+
+
+* required information
+
+
+clear
+next
+
+
+
+
+
+
+purchase tickets or packages
+
+
+
+
+
+package*
+
+select a package
+{{package.name}}
+
+
+
+
+
+number of tickets*
+
+
+
+
+
+please complete form:
+{{(eventregistration.packageformdata.length) ? 'package form (completed)' : 'package form'}}
+
+
+                                                                    you must complete the form.
+                                                                
+
+* required information
+
+
+back
+next
+
+
+
+
+
+
+purchase tickets for activities
+
+
+
+
+
+
+
+
+                                                                                day {{$index+1}} {{day.activities.length}}
+
+
+
+
+
+
+
+
+activity
+time
+price
+tickets
+form (if any)
+
+
+
+
+
+                                                                                            {{activity.name}}
+                                                                                            view description
+
+
+{{activity.starttime}} -
+{{activity.endtime}}
+
+{{priceformatter.format(activity.ticketprice)}}
+
+
+
+
+{{(activity.activityformdata.length) ? 'click here to edit your form' : 'click here to fill out the form'}}
+
+
+
+
+
+
+
+
+
+
+                                                            you must complete the forms of your selected activities.
+                                                        
+* required information
+
+back
+next
+
+
+
+
+
+
+sponsorship information
+
+
+
+
+
+would you like to donate?
+
+
+no
+
+
+
+yes
+
+
+
+
+
+donation amount*
+
+
+
+
+
+donator name*
+
+
+
+
+
+donation description*
+
+
+
+
+* required information
+
+
+back
+save & next
+
+
+
+
+
+
+{{(eventregistration.grandtotal > 0) ? 'review' : 'review'}}
+
+
+{{(eventregistration.grandtotal > 0) ? 'review your order and make a payment.' : 'review your registration details.'}}
+
+
+
+
+
+
+
+event
+
+
+{{registerevent.name}}
+
+
+
+
+{{packagename(eventregistration)}} x{{eventregistration.ticketsbought}} 
+
+
+{{packagecost(eventregistration)}}
+
+
+
+
+ticket x{{eventregistration.ticketsbought}} 
+
+
+{{ticketcost(eventregistration)}}
+
+
+
+
+
+
+
+
+donation 
+
+
+{{priceformatter.format(eventregistration.sponsoramount)}}
+
+
+
+
+grand total
+
+
+{{priceformatter.format(eventregistration.grandtotal)}}
+
+
+
+
+
+
+
+
+
+select payment type
+
+
+
+card
+
+
+
+ach
+
+
+
+open stripe link
+if you use our services or purchase additional products periodically pursuant to our terms, you authorize us to debit your bank account periodically. payments that fall outside of the regular debits authorized above will only be debited after your authorization is obtained.
+i agree
+
+
+
+
+back
+{{(eventregistration.grandtotal > 0) ? 'pay' : 'register'}}
+
+
+
+
+
+
+registration completed
+
+
+thank you for registering to this event. you will receive an email confirming your registration.
+
+
+
+
+
+
+
+ my cart
+
+
+
+
+
+
+registration
+
+
+{{eventregistration.firstname}} {{eventregistration.lastname}}
+{{eventregistration.country == 1 ? "united states" : "canada"}}
+{{eventregistration.address1}}
+{{eventregistration.address2}}
+{{eventregistration.city}}, {{statename(eventregistration.stateid)}} {{eventregistration.zip}}
+{{eventregistration.city}}, {{eventregistration.internationalstate)}} {{eventregistration.internationalzip}}
+
+
+
+
+{{packagename(eventregistration)}} x{{eventregistration.ticketsbought}} 
+
+
+{{packagecost(eventregistration)}}
+
+
+
+
+ticket x{{eventregistration.ticketsbought}} 
+
+
+{{ticketcost(eventregistration)}}
+
+
+
+
+
+
+
+
+donation 
+
+
+{{priceformatter.format(eventregistration.sponsoramount)}}
+
+
+
+
+grand total
+
+
+{{priceformatter.format(eventregistration.grandtotal)}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ my registered events
+
+
+
+
+
+
+{{event.name}}
+ {{event.startdate}}  {{event.starttime}} - {{event.endtime}}
+{{event.truncateddescription}}
+
+
+view
+
+
+
+
+view all events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{widget.description2}}
+
+
+
+
+
+{{widget.description2}}
+
+
+
+
+
+
+
+
+
+
+{{widget.description}}
+{{widget.buttontext}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{subwidget.buttontext}}
+
+
+
+
+
+
+
+
+
+
+this is members only content. log into a members account to view it.
+
+
+
+
+
+
+there are no posts in this newsfeed. click here to add one!
+there are no posts in this newsfeed.
+
+
+
+
+
+
+
+
+
+
+{{item.comments[0].firstname}} {{item.comments[0].lastname}}
+
+{{item.comments[0].timestampstring}}
+
+
+
+
+
+
+
+
+edit
+remove
+ban user posts
+
+
+
+
+
+{{item.name}}
+
+
+
+
+
+ view {{item.comments[0].attachments.length}} attachments
+
+
+ {{attachment.filename}}
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            your browser does not support the video tag.
+                                                        
+
+
+
+
+{{item.likes.length}}
+{{item.likes.length}}
+{{item.comments.length -1}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{comment.firstname}} {{comment.lastname}}
+{{comment.timestampstring}}
+
+
+
+
+edit
+remove
+ban user posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+post
+
+
+
+
+
+
+
+
+
+
+load more
+load more
+load more
+
+
+
+
+
+
+this is members only content. you will need to pay any outstanding dues to view it.
+
+
+
+
+
+
+{{widget.description}}
+
+
+{{widget.buttontext}}
+
+
+
+
+
+{{widget.description}}
+
+
+
+first name*
+
+
+                                                        please enter your first name.
+                                                    
+
+
+last name*
+
+
+                                                        please enter your last name.
+                                                    
+
+
+
+
+email address*
+
+
+                                                        please enter an email address.
+                                                    
+
+
+phone number*
+
+
+                                                        please enter a phone number.
+                                                    
+
+
+
+
+your message*
+
+
+                                                        please enter a message.
+                                                    
+
+
+* required information
+
+send message
+clear
+
+
+
+
+
+
+
+
+
+
+ {{subwidget.description}}
+                                                            
+
+
+
+
+
+
+
+
+
+  {{questionwidget.description}}
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{subwidget.description}}
+
+
+
+
+
+
+
+
+ {{questionwidget.description}}
+                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+{{item.pagename}}
+{{(item.submenu != null && item.submenu.length && item.dropdowntitle != null && item.dropdowntitle.length) ? item.dropdowntitle : item.pagename}} 
+
+{{item.pagename}}
+{{subitem.pagename}}
+
+
+
+ 
+
+
+
+
+
+
+
+folders
+
+
+there are no available folders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+subfolders and files
+
+ bulk download
+
+
+
+there are no available files.
+
+
+this folder is empty.
+
+
+
+
+
+
+
+name
+
+date modified
+
+type
+size
+access
+actions
+
+
+
+
+  {{item.name}}
+{{item.timestampstring}}
+{{item.type}}
+{{item.size}}
+{{item.accessstring}}
+
+
+
+
+
+
+
+
+
+
+open folder
+
+
+
+
+
+
+
+
+
+
+
+{{widget.description}}
+
+
+
+
+
+
+{{widget.buttontext}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name
+
+
+search
+clear
+
+
+
+show amenities
+
+{{amenity.name}}
+
+
+
+
+
+
+
+
+
+
+
+
+amenities
+
+
+
+
+
+
+
+
+
+
+amenity reservation & checkout
+
+
+
+
+ back to amenities
+
+
+
+
+
+
+
+contact information
+
+
+
+
+
+reserve for another member?
+
+
+no
+
+
+
+yes
+
+
+
+
+
+member*
+
+select a member
+{{user.firstname}} {{user.lastname}}
+
+
+
+                                                                    you must select a member.
+                                                                
+
+
+
+                                                                            when reserving an amenity for another member, this will bypass any form submissions, payments, document verification or any liability in terms of the member you are signing up.
+                                                                        
+
+
+
+i understand
+
+
+
+
+
+
+
+first name*
+
+
+
+last name*
+
+
+
+
+
+email*
+
+
+
+phone*
+
+
+
+
+
+
+                                                                        country
+                                                                        *
+
+
+
+choose a country
+{{country.name}}
+
+
+
+
+
+address 1*
+
+
+
+address 2
+
+
+
+
+
+city*
+
+
+
+state*
+
+choose a state
+{{state.name}}
+
+
+
+zip*
+
+
+
+
+
+
+                                                                        city
+                                                                        *
+
+
+
+
+                                                                        please provide a city.
+                                                                    
+
+
+
+                                                                        state/province/region
+                                                                        *
+
+
+
+
+                                                                        please provide a state/province/region.
+                                                                    
+
+
+
+                                                                        zip/postal code
+                                                                        *
+
+
+
+
+                                                                        please provide a zip/postal code.
+                                                                    
+
+
+
+* required information
+
+cancel
+clear
+next
+
+
+
+
+
+
+reservation information
+
+
+
+
+
+{{(reserveamenity.duration != 9) ? "reservation times" : "all day" }} on {{amenityreservation.date}}
+{{availability.starttime}} - {{availability.endtime}}
+
+
+
+
+number of attendees (max capacity of {{reserveamenity.maxcapacity}} guests)*
+
+
+
+
+
+reason for reserving
+
+
+
+
+
+this amenity has a maximum capacity of {{reserveamenity.maxcapacity}} guests.
+
+
+
+
+back
+next
+
+
+
+
+
+
+additional questions & information
+
+
+
+documents
+
+
+ {{reserveamenity.documentname}}
+
+
+
+
+
+
+i acknowledge receipt of the attached document.
+
+
+no
+
+
+
+yes
+
+
+
+                                                                    you must agree with the terms.
+                                                                
+
+
+
+this amenity has a minimum age requirement of {{reserveamenity.agelimit}}. do you verify that all attendees meet this requirement?
+
+
+no
+
+
+
+yes
+
+
+
+                                                                    you must verify attendees age range.
+                                                                
+
+
+
+please complete form:
+{{(amenityreservation.formdata.length) ? 'amenity form (completed)' : 'amenity form'}}
+
+
+                                                                    you must complete the form.
+                                                                
+
+
+* required information
+
+back
+next
+
+
+
+
+
+
+review & payment
+
+
+{{(amenityreservation.grandtotal > 0 && !amenityreservation.anothermember) ? 'review your order and make a payment.' : 'review your reservation details.'}}
+
+
+
+
+
+
+amenity
+
+
+{{reserveamenity.name}}
+
+
+
+
+reservation date
+
+
+{{amenityreservation.date}}
+
+
+
+
+time
+
+
+{{amenityreservation.starttime}}
+
+
+
+
+
+
+
+
+payment method
+
+
+ {{paymentmethod.brand}} {{(paymentmethod.cardinfo == 'plaid') ? 'account via plaid' : '************'+paymentmethod.cardinfo }} edit
+ no account added add account
+
+
+
+                                                            please provide a payment method.
+                                                        
+
+
+damage fee
+
+
+
+
+
+
+                                                                        i have read, understand, and agree that if this amenity sustains damages during my reservation, i may be charged a damage fee of up to ${{formatmoney(reserveamenity.maximumdamagefeeamount)}} on the payment method i have supplied.
+                                                                    
+
+
+
+i understand
+
+
+
+
+
+
+
+digital signature
+
+
+
+                                                                you must provide a digital signature.
+                                                            
+
+
+back
+{{(amenityreservation.grandtotal > 0 && !amenityreservation.anothermember) ? 'pay' : 'reserve'}}
+
+
+
+
+
+
+reservation complete
+
+
+thank you for reserving this amenity. you will receive an email confirming your reservation status.
+
+
+
+
+
+
+
+ my reservation
+
+
+
+
+
+
+amenity
+
+
+{{reserveamenity.name}}
+
+
+
+
+reservation
+
+
+{{amenityreservation.firstname}} {{amenityreservation.lastname}}
+{{amenityreservation.country == 1 ? "united states" : "canada"}}
+{{amenityreservation.address1}}
+{{amenityreservation.address2}}
+{{amenityreservation.city}}, {{statename(amenityreservation.stateid)}} {{amenityreservation.zip}}
+{{amenityreservation.city}}, {{amenityreservation.internationalstate}} {{amenityreservation.internationalzip}}
+
+
+
+
+time
+
+
+{{amenityreservation.starttime}}
+
+
+
+
+{{amenityreservation.duration}}  x {{(reserveamenity.duration == 9) ? "all day" : (reserveamenity.duration == 0) ? "30 minutes" : (reserveamenity.duration == 1) ? "1 hour" :  (reserveamenity.duration == 2) ? "2 hours" :  (reserveamenity.duration == 3) ? "3 hours" :  (reserveamenity.duration == 4) ? "4 hours" :  (reserveamenity.duration == 5) ? "5 hours" :  (reserveamenity.duration == 6) ? "6 hours" :  (reserveamenity.duration == 7) ? "8 hours" :  (reserveamenity.duration == 8) ? "22 hours" : "n/a"}} reservation 
+
+
+{{priceformatter.format((reserveamenity.perperson) ? amenityreservation.duration * reserveamenity.price * amenityreservation.attendees : amenityreservation.duration * reserveamenity.price)}}
+
+
+
+
+
+
+service fee
+
+
+tbd
+{{priceformatter.format(amenityreservation.conveniencefee)}}
+
+
+
+
+grand total
+
+
+tbd
+{{priceformatter.format(amenityreservation.grandtotal)}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{widget.description}}
+
+
+
+
+
+
+
+
+
+
+
+{{widget.description}}
+
+
+
+ {{(hidemap) ? "show" : "hide" }}
+                                                    map
+                                                
+
+
+
+
+
+
+
+ {{widget.formdata.name}}
+
+
+{{(widget.formdata.oneperhousehold && !widget.formdata.hashouseholdpermission) ? 'you do not have access to voting through this form. please reach out to the administrator.' : (widget.formdata.iscompleted) ? 'thank you for voting in this survey.'+(widget.formdata.surveyhasexpiration ? ' this survey will end on '+widget.formdata.surveyexpirationstring+'. after the survey ends the results will be available.' : '') : (widget.formdata.oneperhousehold && widget.formdata.householdcompleted) ? 'someone in your household has already voted. only one vote per household.'+(widget.formdata.surveyhasexpiration ? ' this survey will end on '+widget.formdata.surveyexpirationstring+'. after the survey ends the results will be available.' : '') : 'thank you for voting in this survey.'+(widget.formdata.surveyhasexpiration ? ' this survey will end on '+widget.formdata.surveyexpirationstring+'. after the survey ends the results will be available.' : '') }}
+click here to view the results
+
+
+
+
+ {{widget.formdata.name}}
+
+
+{{widget.formdata.submitmessage}}
+
+
+
+
+ {{widget.formdata.name}}
+
+
+this survey is over. click the button below to view the results.
+click here to view the results
+
+
+
+
+
+
+
+{{widget.formdata.name}}
+
+
+
+
+
+
+
+subject*
+
+
+
+{{subsection.name}}
+
+
+
+{{(field.questioncontroltype != 5) ? field.name : ' '}}*
+
+
+
+select
+{{option.name}}
+
+
+
+
+
+                                                                            {{option.name}}
+                                                                        
+
+
+
+
+
+
+                                                                            {{option.name}}
+                                                                        
+
+
+
+
+choose file
+
+
+ view {{field.attachments.length}} attachments
+
+
+ {{attachment.name}}
+
+
+
+
+
+
+clear
+
+
+                                                                        this field is required.
+                                                                    
+
+
+this field has a minimum selection of {{field.min}} selections.
+this field has a maximum selection of {{field.max}} selections.
+
+
+
+
+
+
+
+submit
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+showing {{(loadedmembers < filtered.length) ? loadedmembers : filtered.length}} of {{filtered.length}} members
+
+
+
+
+
+
+{{member.firstname[0]+member.lastname[0]}}
+
+
+
+
+{{member.firstname}} {{member.lastname}}
+{{member.address1}}, {{member.city}}, {{member.stateabbreviation}}, {{member.zip}}
+{{member.phone}} {{member.emailaddress}}
+
+
+
+
+load more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{due.duename}}
+ {{due.frequency}}
+{{due.address}}
+{{(due.ishouseholddue) ? 'household due:' : 'member due:'}} {{(due.ishouseholddue) ? due.householdtitle : currentuser.firstname+' '+currentuser.lastname}}
+
+
+
+balance due
+{{(!due.ispaid) ? due.formattedtotalprice : '$0.00'}}
+
+
+{{(due.ispaid) ? "paid through" : "due date"}}
+{{due.nextduedate}}
+
+
+{{(due.ispaid) ? "paid through" : "due date"}}
+{{due.nextduedate}}
+
+
+
+
+ your payment is late
+                                                                        
+
+
+                                                                                more info
+                                                                            
+
+
+
+
+                                                                            your payment is due
+                                                                        
+
+
+                                                                                more info
+                                                                            
+
+
+
+payment information
+
+ {{paymentmethod.brand}} {{(paymentmethod.cardinfo == 'plaid') ? 'account via plaid' : '************'+paymentmethod.cardinfo }} edit
+ no account added add account
+
+
+
+
+                                                                            make a
+                                                                            payment
+                                                                        
+
+
+
+                                                                            manage recurring payment
+                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+payment history
+
+
+
+
+
+
+no history for this account
+
+
+
+date
+due type
+due name
+household
+due amount paid
+service fee
+misc/late fee
+paid by
+payment type
+
+
+
+{{item.timestamp}}
+
+
+{{(item.type == 1) ? "member" : (item.type == 2) ? "event" : (item.type == 3) ? "amenity" : (item.type == 4) ? "household" : (item.type == 5) ? "one-time charge" : "n/a"}}
+
+
+{{item.title}}
+
+
+{{item.householdtitle}}
+
+
+{{item.formattedprice}}
+
+
+{{item.formattedconveniencefee}}
+
+
+{{item.formattedfees}}
+
+
+{{(item.ismanual) ? "recorded by admin" : (item.type == 4) ? item.firstname+" "+item.lastname : currentuser.firstname+" "+currentuser.lastname }}
+
+
+{{(item.ismanual) ? item.formattedpricewithfees+' ' : ''}}{{(item.descriptor.length) ? item.descriptor : "made a payment of "+ item.amountstring }}
+
+
+more info
+more info
+more info
+more info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your account does not have permissions to view this page. if you believe this is an error, please contact your system administrator.
+
+
+
+
+
+
+
+                                            member dashboard
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+ my profile
+
+
+
+
+
+
+
+
+{{currentuser.firstname}} {{currentuser.lastname}}
+{{currentuser.emailaddress}}
+joined {{currentuserjoindate}}
+
+
+
+
+household: {{household.name}}
+
+address:
+{{household.address1}}
+{{household.address2}}
+{{household.city}}, {{household.statename}} {{household.zip}}
+
+
+additional members:
+{{member.firstname}} {{member.lastname}}
+
+
+
+
+
+my households
+settings
+
+
+
+
+
+
+
+ newsfeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{item.firstname}} {{item.lastname}}
+{{item.date}}
+
+
+
+
+                                                                            {{item.summary}}
+                                                                        
+read more
+
+
+
+
+
+
+
+
+there are no newsfeed posts.
+
+
+
+
+ view more
+
+
+
+
+
+
+
+ events
+
+
+
+
+
+
+
+
+{{event.name}}
+
+
+ {{event.startdate}}
+                                                                          {{event.starttime}} - {{event.endtime}}
+
+{{event.truncateddescription}}
+
+
+
+registered
+register
+view event
+
+
+
+
+
+
+
+
+
+there are no events.
+
+
+
+
+ view more
+
+
+
+
+
+
+
+ forms/polls
+
+
+
+
+
+
+
+
+
+                                                                        {{form.name}}
+                                                                    
+complete {{(form.issurvey) ? 'survey' : 'form'}}
+view results
+
+
+uploaded
+{{form.created}}
+
+
+
+
+
+there are no active forms.
+
+
+
+
+
+
+
+
+
+
+
+
+ tickets
+
+ {{requestedinfotickets.length}}
+
+
+
+
+
+
+
+
+                                                                        {{ticket.formname}} - {{ticket.identifier}}
+                                                                    
+submitted: {{ticket.created}}
+view ticket
+amend/resubmit ticket
+
+
+
+status
+pending
+amendment requested
+approved
+rejected
+
+
+
+
+
+there are no pending tickets.
+
+
+
+
+
+
+
+
+
+
+
+
+ violations
+
+ {{pendingviolations.length}}
+
+
+
+
+
+
+
+
+                                                                        violation - {{ticket.identifier}}
+                                                                    
+submitted: {{ticket.created}}
+view violation
+
+
+
+status
+disputed
+in progress
+in violation
+pending
+submission
+closed
+completed
+dismissed
+resolved
+
+
+
+
+
+there are no pending violations.
+
+
+
+
+
+
+
+
+
+
+
+
+ my documents
+
+
+
+
+
+
+
+
+
+ {{document.name}}
+                                                                    
+download file
+
+
+uploaded
+{{document.date}}
+
+
+
+
+there are no documents.
+
+
+
+
+
+
+
+ view more
+
+
+
+
+
+
+
+ my committees
+
+{{mycommittees.length}}
+
+
+
+
+
+
+
+{{committee.name}}
+you are a leader of this committee.
+your application is pending for this committee.
+you are a member of this committee.
+
+
+
+
+
+
+
+
+
+you have no committees.
+
+
+
+
+
+
+
+ view more
+
+
+
+
+
+
+
+ my payments
+
+ {{duesdue}}
+
+
+
+
+
+
+
+{{due.duename}}
+
+
+
+balance due
+{{due.formattedtotalprice}}
+make payment
+
+
+due date
+{{due.nextduedate}}
+{{due.lateduedate}}
+
+
+
+
+
+you have no payments due.
+
+
+
+
+
+
+
+ view more
+
+
+
+
+
+
+
+ my chats
+
+
+
+
+
+
+
+
+
+                                                                        {{conversation.name}}
+                                                                    
+
+
+
+
+
+
+{{conversation.messages[conversation.messages.length -1].firstname}} {{conversation.messages[conversation.messages.length -1].lastname}}
+{{conversation.messages[conversation.messages.length -1].sentdate}}
+
+
+
+                                                                            {{conversation.messages[conversation.messages.length -1].truncatedmessage}}
+                                                                        
+open conversation
+
+
+
+
+
+you have no conversations.
+
+
+
+
+
+
+
+ all conversations
+
+
+
+
+
+
+
+ my reservations
+
+{{myamenities.length}}
+
+
+
+
+
+
+
+                                                                        {{reservation.amenityname}}
+                                                                    
+
+                                                                        {{reservation.reservationdate}} @ {{reservation.starttime}} - {{reservation.endtime}}- all day
+
+
+
+
+
+
+
+
+you have no reservations.
+
+
+
+
+
+
+
+ view amenities
+
+
+
+
+
+
+
+ sponsors
+
+
+
+
+
+
+
+
+{{sponsor.name}}
+added {{sponsor.date}}
+
+
+
+
+
+
+
+there are no sponsors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+filter newsfeed subjects
+
+{{subject.subjectname}}
+
+
+
+
+
+
+
+ all posts
+                            
+ pinned posts
+ my posts
+
+
+                                create
+                            
+
+
+
+
+
+
+
+
+{{sitedata.copyrighttext}}
+|
+                                        site provided by
+                                        {{(sitedata.brand == 'membershine') ? 'membershine' : 'hoa start' }}
+|
+privacy policy
+
+                                            |
+                                            admin dashboard
+admin dashboard
+
+
+                                            |
+                                            my committees
+my committees
+
+
+                                            |
+                                            member portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

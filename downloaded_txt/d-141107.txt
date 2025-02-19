@@ -1,0 +1,507 @@
+
+
+
+
+
+
+
+nvidia developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+introducing nvidia project digits
+
+work with 200 billion parameter models on your desktop. 
+learn more
+
+
+
+
+
+
+
+
+
+
+
+tutorials
+
+
+
+
+
+
+
+
+february 14, 2025
+optimizing qwen2.5-coder throughput with nvidia tensorrt-llm lookahead decoding
+
+
+read more
+
+
+
+
+
+
+
+
+
+february 13, 2025
+simplify system memory management with the latest nvidia gh200 nvl2 enterprise ra
+
+
+read more
+
+
+
+
+
+
+
+
+
+february 12, 2025
+automating gpu kernel generation with deepseek-r1 and inference time scaling
+
+
+read more
+
+
+
+
+
+latest releases
+
+
+cuda toolkit 12.8
+dlss 3.7.20
+hpc sdk 25.1
+modulus 24.12
+nsight systems 2025.1.1
+rapids 24.12
+sionna 0.19.0
+tensorrt 10
+triton inference server 2.54.0
+
+
+
+
+
+
+
+
+
+news
+
+
+
+
+
+
+
+
+february 16, 2025
+featured networking sessions at nvidia gtc 2025
+
+
+read more
+
+
+
+
+
+
+
+
+
+february 14, 2025
+featured sessions for students at nvidia gtc 2025
+
+
+read more
+
+
+
+
+
+
+
+
+
+february 13, 2025
+upcoming webinar: unlocking video analytics with ai agents
+
+
+read more
+
+
+
+
+
+
+
+
+
+february 13, 2025
+spotlight: brli and toulouse inp develop ai-based flood models using nvidia modulus
+
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+training
+
+
+
+
+
+
+
+
+get nvidia ai certified
+
+join nvidia certification experts, certified professionals, and nvidia recruiters on january 23 for practical exam preparation tips and the advantages of certification. get your questions answered with a live q&a.
+
+
+register now
+
+
+
+
+
+
+
+
+
+accelerate 3d development workflows with openusd
+
+supercharge your 3d workflows with learn openusd, a free learning path designed to help you harness the full potential of openusd.
+
+
+learn more
+
+
+
+
+
+
+
+
+
+explore learning paths for generative ai and large language models
+
+elevate your technical skills in generative ai (gen ai) and large language models (llm) with our comprehensive learning paths.
+
+
+learn more
+
+
+
+
+
+additional resources
+
+
+instructor-led workshops
+self-paced courses
+full course catalog
+learning paths
+enterprise training solutions
+free courses
+training videos on demand
+
+
+
+
+
+
+
+
+
+on-demand videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+access the latest nvidia developer tools, technology, and training.
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+find sdks or topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+browse by topic
+
+
+
+
+
+
+
+
+
+
+artificial intelligence
+
+
+
+
+
+
+
+
+
+autonomous machines
+
+
+
+
+
+
+
+
+
+graphics & simulation
+
+
+
+
+
+
+
+
+
+hpc
+
+
+
+
+
+
+
+
+
+tools and management
+
+
+
+
+view all topics
+
+
+
+
+
+
+
+
+browse by industry
+
+
+
+
+
+
+
+
+
+
+healthcare
+
+
+
+
+
+
+
+
+
+robotics
+
+
+
+
+
+
+
+
+
+game development
+
+
+
+
+
+
+
+
+
+financial services
+
+
+
+
+
+
+
+
+
+telecommunication
+
+
+
+
+view all industries
+
+
+
+
+
+
+
+
+popular sdks
+
+
+
+
+
+
+aerial sdk
+cuda toolkit/sdk
+cudnn
+dali
+
+
+
+
+deepstream
+dlss
+doca sdk
+hpc sdk
+
+
+
+
+isaac ros
+jetpack
+nccl
+omniverse kit sdk
+
+
+
+
+optical flow sdk
+optix sdk
+rapids
+tensorrt
+
+
+
+
+texture tools exporter
+tao toolkit
+video codec sdk
+
+
+
+view all sdks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

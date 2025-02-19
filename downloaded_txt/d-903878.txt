@@ -1,0 +1,219 @@
+
+
+
+
+	home page - xspouse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home(current)
+
+
+pricing
+
+
+purchase
+
+
+download
+
+
+reinstall
+
+
+documentation
+
+
+contact
+
+
+
+
+
+
+
+
+
+
+
+
+xspouse 2024-1.2 is now available
+and incorporates important family code changes
+
+
+                        xspouse 2024-1.2 fixes a bug that was discovered in version 2024-1.1.
+                    
+
+                        xspouse 2024 incorporates the changes to the family code that took effect from september 1, 2024.
+                        
+
+                        a short video explaining the changes in xspouse 2024 is available here
+                         
+                        
+
+                        these are major changes and are the first in decades to the family code. 
+                        it is essential to upgrade your program to xspouse 2024 in order to be compliant 
+                            with the new family code rules as set out in california senate bill no. 343.
+
+
+                        the changes include the following:
+
+fc §4055 (b)(3)  change in the multiplier based on total net income ranges used for calculating the k factor for child support calculations
+fc §4055 (b)(7) change in the basis for calculating the threshold amount for the low income adjustment
+fc §4057 (b)(5) in cases where the obligor qualifies for a low income adjustment and the amount of child support established exceeds 50 percent
+                            of the support obligor’s net disposable income, as defined in section 4059 after application of the low-income adjustment, 
+                            xspouse flags this and displays an alternative lower bound in parentheses next to the lia range according to the new rule
+fc §4061 (b) the method for calculating child support add-ons changes from 50/50 to that set out in this section of the code
+
+
+
+
+
+
+
+
+
+
+
+xspouse™ 2024 is certified for court use
+
+current version: 2024-1.2from $399purchase includes any updated releases of xspouse 2024 and free technical support
+
+any purchase of xspouse 2024 from december 1, 2024 is entitled to a free upgrade to xspouse 2025
+
+purchase »
+reinstall »
+new users »
+
+
+
+
+features
+
+certified for court use by the california judicial council.
+                    
+property division. full-featured property divider. includes marsden and pension worksheets.
+                    
+arrearage calculator. the xspouse™ download package includes an arrearage calculator. 
+                    this calculator is available free to all xspouse™ users who have a current personalization id. 
+                    there will be an icon xarrears on your start > programs menu.
+                    
+enhanced findings and rebuttals report. enables judicial officers to modify, when necessary, 
+                    the child support calculated according to the formula in fc 4055(a).
+                    
+bonus income reports. analyze the complex situation when income is unpredictable in size and frequency. 
+                    include effects of prior relationships. fully documented.
+                    
+timeshare worksheet. easy, visually oriented calculation of timeshare even for complex visitation arrangements.
+                    
+powerful qualified business income deduction calculator that is fully integrated with other xspouse data.
+                    
+data export. allows an extensive range of data to be exported in either xml or json format.
+                    
+
+
+
+free demo version
+
+                    an almost full-featured demonstration version of xspouse is available. the demonstration version has some features disabled,
+                such as printing, the qbid calculator, browser preview, and data export.
+                
+
+download demo »
+new users »
+
+
+support
+
+                    to make sure that communications and notifications from xspouse are not intercepted by a
+                spam filter, please add support@xspouse.com and sales@xspouse.com to your email program's
+                contacts list, or to your approved senders list.
+                
+
+browser preview
+
+                    xspouse provides a browser preview feature in the support and property modules, and in xarrears.  browser preview provides 
+                an enhanced appearance for reports, which can be printed directly from the browser, and also provides the ability to select
+                viewing and printing ranges in the bonus income reports.
+                
+
+learn more »
+
+
+
+about
+
+                    xspouse is the most accurate, up-to-date and comprehensive child and spousal support calculator available.
+                
+
+                    courts and government agencies can get xspouse free; to order, click on the following button. 
+                
+
+order now »
+
+
+
+
+
+
+
+xspouse tutorial videos
+
+
+
+learn more »
+
+
+
+
+
+
+new in 2024
+
+
+learn more »
+
+
+
+important family code changes - xspouse 2024 incorporates the new changes to the family code that take effect from september 1, 2024. 
+                    these are major changes and are the first in decades to the family code.
+                
+
+revamps the federal tax display on the income tax tab on the right side of the main screen.
+                
+
+learn more »
+
+
+
+
+
+
+© 2025 - tolapa inc
+
+
+
+
+

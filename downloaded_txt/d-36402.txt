@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+centrum zpracovã¡nã­ påirozenã©ho jazyka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+domå¯
+historie
+naå¡e nã¡stroje
+naå¡i partneåi
+kontakt
+
+
+
+
+
+
+
+menu
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+centrum zpracovã¡nã­ påirozenã©ho jazyka
+
+centrum zpracovã¡nã­  påirozenã©ho jazyka (nlp centrum) na fakultä informatiky masarykovy univerzity je zamäåeno na zã­skã¡nã­ teoretickã½ch i aplikovanã½ch vã½sledkå¯ v oblasti zpracovã¡nã­ påirozenã©ho jazyka (natural language processing, nlp). naå¡e prã¡ce zahrnuje zejmã©na:
+
+velkã© jazykovã© modely (large language models, llms), jejich trã©novã¡nã­ a aplikace s textovã½mi a multimodã¡lnã­mi daty (napå. obraz, zvuk a text),
+vytvã¡åenã­ a sprã¡vu textovã½ch korpuså¯, tj. uklã¡dã¡nã­ a vyhledã¡vã¡nã­ velkã½ch textovã½ch dat,
+reprezentace znalostã­, napå. vytvã¡åenã­ znalostnã­ch bã¡zã­ z textå¯,
+reprezentace vã½znamu vã½razå¯ påirozenã©ho jazyka, napå. pro uräovã¡nã­ charakteristik textu (tã©mata, sentiment, charakteristiky stylu, detekce autorstvã­),
+lexikã¡lnã­ databã¡ze, tj. software pro vytvã¡åenã­ slovnã­kå¯, väetnä multimodã¡lnã­ch dat,
+tvorbu dialogovã½ch systã©må¯, programovã¡nã­ sociã¡lnã­ch robotå¯.
+
+nlp centrum takã© vyvã­jã­ pedagogickou äinnost, jejã­må¾ cã­lem je na zã¡kladä zmã­nänã©ho vã½zkumu vyå¡kolit åadu postgraduã¡lnã­ch i pregraduã¡lnã­ch studentå¯.
+
+
+podã­vejte se na 3d model centra.
+
+co najdete na nlp.fi.muni.cz?
+
+
+informace
+
+
+co je zpracovã¡nã­ påirozenã©ho jazyka
+na äem pracujeme v nlp centru
+vyzkouå¡ejte si naå¡e jazykovã© nã¡stroje
+vybranã© projekty
+
+
+ 
+
+vã½zkum a prã¡ce v nlp centru
+
+
+verbalex
+sketchengine
+publikace älenå¯ nlp centra
+publikovã¡nã­ (trac)
+licence a prohlã¡å¡enã­
+jak zpracovat texty?
+externã­ zdroje
+
+
+ 
+
+ 
+
+
+pro zã¡jemce o spoluprã¡ci a studenty
+
+
+informace a faq
+phd pozice
+zajã­mavã© texty
+struänã½ slovnã­k poäã­taäovã© lingvistiky
+seminã¡å zpracovã¡nã­ påirozenã©ho jazyka (pv173) (cs)
+natural language processing in practice course (ia161)
+programming applications for social robots] course (pv277)
+påedmäty specializace zpracovã¡nã­ påirozenã©ho jazyka
+volnã¡ tã©mata bakalã¡åskã½ch pracã­
+volnã¡ tã©mata diplomovã½ch pracã­
+
+
+ 
+
+obecnã© informace
+
+
+nlp centrum v mã©diã­ch
+lidã© v nlp centru
+grantovã© projekty nlp centra
+konference text, speech and dialogue
+den otevåenã½ch dveåã­
+historie
+kontakt
+
+
+ 
+
+ 
+zajã­mavã© aktuality
+
+nlp centrum nabã­zã­ dlouhodobäjå¡ã­ pozice v rã¡mci vã½zkumnã½ch a vã½vojovã½ch projektå¯ pro doktorskã© a magisterskã© studenty s plã¡nem pg studia. ohodnocenã­ je formou stipendiã­ nebo äã¡steänã½ch ãºvazkå¯, påedstavuje påitom vã½raznã© navã½å¡enã­ standardnã­ho doktorskã©ho stipendia. 
+
+
+vã­ce informacã­: phd pozice
+
+
+zã­skali jsme grant v soutäå¾i oscars. od åã­jna 2024 do zã¡åã­ 2026 pracujeme na projektu opravidlo 2.0.
+
+
+jako kaå¾dã½ rok, i tentokrã¡t jsme s karlem byli ve vida. podã­vejte se na krã¡tkou zprã¡vu z akce vida!roboti.
+
+
+v roce 2023/24 zahã¡jil bäh novã½ mezinã¡rodnã­ magisterskã½ studijnã­ program digitã¡lnã­ lingvistika.
+
+
+smuteänã­ oznã¡menã­ o ãºmrtã­ prof.karla paly
+
+
+karel pepper si zahrã¡l v seriã¡lu alenka v åã­å¡i gifå¯, kterã½ må¯å¾ete sledovat na ät:d.
+
+
+karel pepper byl prå¯vodcem na noci vädcãº muni 2020 - nahrã¡l i upoutã¡vky pro vå¡echny fakulty mu!
+vã­ce info na https://www.nocvedcu.cz/organizace/masarykova-univerzita
+
+
+karel pepper navå¡tã­vil robotiã¡du a robo-sobotu ve vida. podã­vejte se: https://www.facebook.com/vidabrno/videos/196833171683514/
+v pã¡tek na robotiã¡du vidu navå¡tã­vilo 1149 nã¡vå¡tävnã­kå¯ a v robo-sobotu jich bylo 2467.
+
+
+potåebujete pro svå¯j projekt vã½poäty s gpu a nejlã©pe vã­ce neå¾ jednã­m? pak se vã¡m må¯å¾e hodit nã¡vod na vyuå¾itã­ strojå¯ metacentra pro poäã­tã¡nã­ neuronovã½ch sã­tã­ s gpu nebo nã¡vod na pouå¾itã­ lokã¡lnã­ch gpu.
+
+
+nlp centrum ovlã¡dli roboti! od prosince 2018 je souäã¡stã­ centra sociã¡lnã­ robot karel pepper.
+od podzimnã­ho semestru je moå¾nã© programovat robota pepper v rã¡mci novã©ho seminã¡åe pv277 programovã¡nã­ sociã¡lnã­ch robotå¯.
+
+
+vã­ce informacã­: programmingrobotscourse
+
+
+novã½ encyklopedickã½ slovnã­k äeå¡tiny, kterã½ vznikl ve spoluprã¡ci ff a nlp centra, zã­skal prestiå¾nã­ cenu slovnã­k roku 2018. 
+
+
+jakã© korpusy påibyly v roce 2017?  novinky v korpusech 2017
+
+
+nlp centrum spustilo portã¡l novã© äeskã© encyklopedie vyvinutã© v rã¡mci projektu ff mu. nã¡vå¡tävnost portã¡lu påesahuje tisã­c strã¡nek dennä.
+
+
+aleå¡ horã¡k z nlp centra komentuje påekladaä google pro äeskou televizi: ivysã­lã¡nã­ ät
+
+
+
+
+
+v podzimnã­m semestru jsme vypsali novã½ påedmät pro zã¡jemce o zpracovã¡nã­ påirozenã©ho jazyka. vâ påedmätu se vyståã­dã¡ näkolik påednã¡å¡ejã­cã­ch, kaå¾dã½ påiblã­å¾ã­ techniky pouå¾ã­vanã© v uräitã© oblasti zpracovã¡nã­ påirozenã©ho jazyka s ohledem na souäasnã© nejnoväjå¡ã­ vã½sledky. souäã¡stã­ kaå¾dã©ho kurzu je i praktickã¡ äã¡st u poäã­taäe.
+
+
+vã­ce informacã­: nlp in practice course (dåã­ve advanced nlp course)
+
+
+>> vå¡echny aktuality
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+nlp trac
+fi mu
+nlp is
+muni
+
+
+
+
+
+
+
+
+anything in here will be replaced on browsers that support the canvas element
+
+
+
+
+co jste nevädeli o korpusech
+coursera
+terminologie a slovã­äka
+omyly nlp nã¡strojå¯
+faq pro zã¡jemce
+påã­bähy ze slovnã­kovã½ch påã­kladå¯
+den otevåenã½ch dveåã­
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+centrum zpracovã¡nã­ påirozenã©ho jazyka
+fakulta informatiky masarykovy univerzity
+botanickã¡ 68a
+602 00 brno
+
+ 
+
+
+
+					© centrum zpracovã¡nã­ påirozenã©ho jazyka, 2001â
+
+
+ 
+ 
+
+
+

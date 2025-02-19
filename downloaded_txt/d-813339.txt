@@ -1,0 +1,674 @@
+
+
+
+
+
+
+
+
+
+
+
+pizzicato - computer assisted music - composition, orchestration, notation
+
+
+
+
+
+
+
+
+
+
+
+arpege
+		  music
+
+
+
+
+
+
+ french  
+
+
+europe (english)  
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+pizzicato 4 available as a preliminary version
+ 
+
+
+july 2021 - discover and explore pizzicato 4
+
+    version 4 of pizzicato is finally available in preliminary version ("beta" version). 
+    
+    it includes the function most requested by users since the existence of pizzicato: the possibility to use sound banks in vst3 format. 
+    the richness of the many sound banks
+ of the market can now be used in combination with pizzicato's innovative composition tools.
+    
+    pizzicato 4 is now fully 64-bit software and will therefore run on new versions of mac os, including macs with m1 processor.
+
+    pizzicato's graphical environment has been completely reviewed.
+    
+    if you like to experiment and explore, you can download version 4 right now. it is installed independently of current version 3.6
+, so you can use both. if you are more careful or want a stable and completed version, then it's better to wait until the testing phase of version 4 has been completed.
+    
+ pizzicato 4 quick guide...
+
+
+
+ 
+music software for everyone
+ 
+
+
+music notation, intuitive music composition and music
+      learning
+
+    here is a large range of music software to write and print your sheet music,
+    but also to arrange and compose your own music or even learn music and music
+    composition.
+
+    we wish you a nice discovery of these music software and we stay at your
+    disposal for any information.  you can contact us at:
+
+info@arpegemusic.com
+
+writing or composing music ?
+
+    many music software present themselves as music composition software,
+    whereas most of them mainly provide ways to write sheet music, record midi
+    and/or audio.
+
+    pizzicato differentiates itself mostly by
+      a real approach of music composition, which means an interaction
+    with the user to help him to choose, organize and structure harmony, melody
+    and rhythm.
+
+    discover how you can take advantage of these intuitive music composition
+    tools, whether you are a beginner or a professional.
+
+
+ 
+pizzicato professional
+ 
+
+
+combine all features of all pizzicato versions
+
+
+    pizzicato professional is a music software that combines all the features
+    found in all other versions of pizzicato. with it, you can write sheet
+    music, you can use all the intuitive composition tools and you can follow
+    the full music theory course. 
+
+
+everything you need to write your own music, from a soloist to a full
+        orchestra, from classical music to techno music.
+
+
+never seen before - intuitive composition tools make music composition
+        available to everyone.
+
+
+music composition is not only notation - discover audio editing, sound
+        creation, virtual synthesizers and a high quality sound library.
+
+
+an extensive and easy to follow tutorial helps you mastering every
+        aspect of pizzicato.
+
+ 
+        learn more...
+
+
+
+
+ 
+pizzicato notation
+ 
+
+
+all you need to write music
+
+
+    pizzicato notation contains all the notation features found in all other
+    versions of pizzicato
+
+
+everything you need to write your own music, from a soloist to a full
+        orchestra, in any style.
+
+
+an extensive and easy to follow tutorial helps you mastering every
+        aspect of pizzicato.
+
+
+with this music software, create scores for the guitar, for drums and
+        percussion, for piano or solo instrument, or from the small ensemble to
+        the full symphonic orchestra.
+
+
+print your sheet music and hear them play through a quality sound
+        library.
+
+ 
+        learn more...
+
+
+
+
+ 
+pizzicato beginner
+ 
+
+
+a general purpose music software
+
+
+    the pizzicato beginner music software contains most of the tools needed for
+    choirs, solo instruments and small ensembles, up to 16 instruments
+
+
+with the progressive manual and the internet videos, you will be able
+        to create and print beautiful looking sheet music.
+
+
+midi sequencing and effects.
+
+
+an extensive and easy to follow tutorial helps you mastering every
+        aspect of pizzicato.
+
+
+play or sing while listening to the score at any tempo to improve your
+        skills and rhythm.
+
+ 
+        learn more...
+
+
+
+
+ 
+more specific music software
+ 
+
+
+pizzicato keyboard - for the piano, synthesizer or
+      organ
+
+
+    pizzicato keyboard contains all the tools you need to write music for the
+    keyboard instruments like the piano, the organ or the synthesizer, with up
+    to 4 staves. 
+
+
+this music software contains all the tools of pizzicato professional
+        related to keyboard notation.
+
+
+enter the notes with combinations of mouse clicks, tool palettes,
+        keystrokes, the virtual piano keyboard window, or directly through a
+        midi keyboard, step by step or in real time.
+
+
+an extensive and easy to follow tutorial helps you mastering every
+        aspect of pizzicato. 
+
+
+play the score or any part of it and watch the notes colored as they
+        are played. 
+
+ 
+        learn more...
+
+
+pizzicato choir - up to 4 staves for the choir
+
+
+    with pizzicato choir, you can enter music for the choir, print nice looking
+    sheet music and hear them play.
+
+
+everything you need to write your sheet music for the choir, up to 4
+        staves.
+
+
+increase your knowledge of music theory. the music theory course will
+        help you improve your performances and you will enjoy singing even more.
+
+
+this music software will also help you to learn your part and sing
+        while the computer plays the other parts, at any tempo.
+
+
+create an audio file of the score, with one or more voices playing.
+        create an audio cd and give it to the choir members to help them
+        practice their parts.
+
+ 
+        learn more...
+
+
+pizzicato guitar - write your tab
+
+
+    pizzicato guitar contains all the tools you need to write sheet music for
+    the guitar or other fretted instruments like the banjo, the bass, etc.
+
+
+everything you need to write your own scores and tablatures or tab,
+        for the guitar or for any fretted instrument.
+
+
+enter the notes with the help of a guitar fret board window, showing
+        the note names.
+
+
+with this music software, enter music with the mouse on a tablature or
+        on a standard staff. display both staff and tablature and pizzicato can
+        convert from one to the other.
+
+
+pizzicato can play the score at any tempo, and you can use this
+        feature to practice on your own guitar. the notes are colored as they
+        are played and an arrow follows the score.
+
+ 
+        learn more...
+
+
+pizzicato drums and percussion - write drums sheet
+      music
+
+ here is a unique music software, specifically designed for
+    music notation of drums and percussion instruments.
+
+
+everything you need to write your own drums and percussion sheet
+        music, up to 8 staves.
+
+
+you can define custom drums and percussion maps so that each line of a
+        staff will play the instrument of your choice.
+
+
+without being an expert, you can easily create and edit a drum
+        pattern. pizzicato can play the pattern in a loop while you edit it, so
+        you can intuitively modify it until you like it.
+
+
+staves can have from 1 up to 16 lines so that you can create custom
+        presentations of drum sheet music.
+
+  learn more...
+
+
+pizzicato soloist - one staff sheet music
+
+
+    pizzicato soloist contains all the tools you need to write music for a solo
+    instrument. print nice solo sheet music, whether for brass, woodwind, string
+    instruments or any solo instrument written on one staff.
+
+
+everything you need to write your own solo sheet music.
+
+
+an extensive and easy to follow tutorial helps you mastering every
+        aspect of this music software.
+
+
+transpose the score from one tone to another, just by changing the key
+        signature or by selecting an interval.
+
+
+enter your exercises and play them with the computer as a reference
+        for rhythm and pitch. you will improve quickly and enjoy even more
+        playing your instrument.
+
+ 
+        learn more...
+
+
+
+
+ 
+music software for composition
+ 
+
+
+pizzicato composition light
+
+pizzicato composition light is a music software that
+    introduces the concept of intuitive music composition. this is where you can
+    start exploring music composition like never before, up to 8 staves. 
+
+
+you will find innovative tools to explore harmony, melody and rhythm,
+        as well as to arrange your own music.
+
+
+never seen before - intuitive composition tools make music composition
+        available to everyone.
+
+
+an extensive and easy to follow tutorial helps you mastering every
+        aspect of pizzicato.
+
+
+pizzicato may be used as a stand-alone software or as a companion tool
+        to any other music software.
+
+ learn
+        more...
+
+
+harmony and counterpoint
+
+
+    harmony and counterpoint for hundreds of years have been the basics of music
+    composition. jazz, rock and entertainment music are also based on these
+    principles. harmonize your melodies and easily create additional voices or a
+    bass line. this music software lets you apply the theory in practise. 
+
+
+compose for 2, 3 and 4 voices or instruments
+
+
+applicable to any music styles
+
+
+no knowledge of harmony required
+
+
+this music software is an ideal companion to a harmony course
+
+ 
+        learn more...
+
+
+pizzicato composition pro
+
+pizzicato composition pro introduces the concept of intuitive
+    music composition. this is where you can start exploring music composition
+    like never before, from the solo instrument to the full orchestra. 
+
+you will find innovative tools to explore harmony, melody and rhythm,
+        as well as to arrange your own music.
+
+
+in this music software, you have access to the most advanced
+        composition tools of pizzicato. you can graphically draw the shape of a
+        melody.
+
+
+never seen before - intuitive composition tools make music composition
+        available to everyone.
+
+
+music composition is not only notation - discover audio editing, sound
+        creation, virtual synthesizers and a high quality sound library.
+
+ 
+        learn more...
+
+
+
+
+ 
+music software for education
+ 
+
+
+pizzicato light
+
+
+    pizzicato light is an introductory music software to learn music, make
+    exercises, write small scores (1 or 2 pages) and use the basic midi and
+    audio recording features. 
+
+
+it contains a full music theory course, with many examples that
+        combine with the discovery of the tools to enter music.
+
+
+you can directly apply what you learn in practice. with it, you will
+        be able to understand music notation.
+
+
+you can also start practicing the music keyboard and make your first
+        steps into music composition. 
+
+
+play or sing while listening to the score at any tempo to improve your
+        skills and rhythm.
+
+ 
+        learn more...
+
+
+alternative notation
+
+
+    a music software to explore alternative music notation systems based on
+    numbers
+
+
+easy to read
+
+
+easy to learn
+
+
+no sharp, no flat
+
+
+easy to sing and transpose
+
+ 
+        learn more...
+
+
+earmaster pro - ear training
+
+this music software provides you with interactive
+    ear training.
+
+
+earmaster is highly interactive.
+
+
+it gives you instant feedback on everything you do.
+
+
+complexity will increase, as you make progress.
+
+
+develops your ability to interact with other musicians.
+
+ 
+        learn more...
+
+
+
+
+ 
+
+
+
+
+
+
+
+          
+
+
+
+
+
+
+ follow @musicomposition
+
+ 
+
+
+
+
+
+
+watch the video
+ 
+
+
+a quick tour
+
+    a quick presentation of the main pizzicato features. see how pizzicato is
+    different from other music software and how you can take advantage of it.
+
+
+          watch the video
+
+
+
+ 
+download the demo
+ 
+
+
+try before buying
+
+    download the free windows or mac demo version. with it, you can test all
+    versions of pizzicato. 
+
+download now
+
+    contact the technical support if you have any question:
+
+support@arpegemusic.com
+
+
+
+ 
+which version is best for you ?
+ 
+
+
+notation, composition, education
+
+
+
+the ultimate solution...
+
+
+
+
+music notation
+
+
+for piano, synth or organ...
+
+
+
+
+
+
+
+
+
+you sing or conduct a choir...
+
+
+ you play the guitar...
+
+
+ drums and percussion...
+
+
+ violin, saxophone, flute, ...
+
+
+
+
+ a cheap but powerful solution...
+
+
+
+
+
+ all notation tools for the soloist to
+              the full orchestra
+
+
+
+
+ 
+              the music typing keyboard, the fastest solution to enter music...
+
+
+
+intuitive music composition
+
+
+
+ start to compose your own music...
+
+
+ use the rules of harmony and
+              counterpoint...
+
+
+ advanced tools for intuitive music
+              composition...
+
+
+
+music education
+
+
+discover,
+            teach yourself and experiment music theory...
+
+
+
+ explore alternative music notation
+              systems based on numbers...
+
+
+ interactive ear training software...
+
+
+
+
+
+ 
+
+
+
+ 
+top of page
+ â©
+      copyright 2000-2024 - arpege sprl
+      all rights reserved for all countries
+      pizzicato is a trademark owned by arpege sprl
+
+ 
+

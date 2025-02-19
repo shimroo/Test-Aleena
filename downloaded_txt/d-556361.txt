@@ -1,0 +1,1901 @@
+
+
+
+
+
+
+
+locallinks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home 
+
+
+
+default 
+with caption form 
+with overlay side search 
+with map 
+with image banner 
+with properties slider 
+with revolution slider 
+with video 
+overlay advanced search 
+home splash 
+
+
+
+splash image 
+splash slider 
+splash video 
+
+
+
+
+properties 
+
+
+
+grid layout 
+
+
+
+grid default 
+grid full width 3 cols 
+grid full width 2 cols 
+
+
+with map 
+
+
+
+with header map 
+with half map 
+
+
+with tabs 
+with featured on top 
+with content top 
+with content bottom 
+with parallax 
+elementor 
+
+
+
+full width 
+with sidebar 
+
+
+
+
+property 
+
+
+
+default layout 
+property layout v1 
+property layout v2 
+property layout v3 
+property layout v4 
+property layout v5 
+property layout v6 
+property layout full width 
+property landing page 
+property layout tabs v1 
+property layout tabs v2 
+
+
+realtor 
+
+
+
+agents 
+agent profile 
+agencies 
+agency profile 
+
+
+others 
+
+
+
+about 
+inquiry form 
+contact 
+faq 
+typography 
+page 404 
+blog 
+residential 
+
+
+
+apartment 
+single family home 
+villa 
+studio 
+condo 
+
+
+commercial 
+
+
+
+office 
+shop 
+
+
+
+
+ 
+
+create a listing
+
+
+ login
+
+
+ register
+
+
+ favorites  0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+default 
+with caption form 
+with overlay side search 
+with map 
+with image banner 
+with properties slider 
+with revolution slider 
+with video 
+overlay advanced search 
+home splash
+
+splash image 
+splash slider 
+splash video 
+
+
+
+
+properties
+
+grid layout
+
+grid default 
+grid full width 3 cols 
+grid full width 2 cols 
+
+
+with map
+
+with header map 
+with half map 
+
+
+with tabs 
+with featured on top 
+with content top 
+with content bottom 
+with parallax 
+elementor
+
+full width 
+with sidebar 
+
+
+
+
+property
+
+default layout 
+property layout v1 
+property layout v2 
+property layout v3 
+property layout v4 
+property layout v5 
+property layout v6 
+property layout full width 
+property landing page 
+property layout tabs v1 
+property layout tabs v2 
+
+
+realtor
+
+agents 
+agent profile 
+agencies 
+agency profile 
+
+
+others
+
+about 
+inquiry form 
+contact 
+faq 
+typography 
+page 404 
+blog 
+residential
+
+apartment 
+single family home 
+villa 
+studio 
+condo 
+
+
+commercial
+
+office 
+shop 
+
+
+
+
+ 
+
+
+
+ (800) 987 6543
+
+
+
+
+
+ favorites 0
+
+
+
+
+create a listing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		status	
+
+for rentfor saleforeclosuresnew costructionnew listingopen housereduced priceresale
+clear
+apply
+
+
+
+ beds	
+
+
+0
+bedrooms
++
+-
+
+
+clear
+apply
+
+
+
+ baths	
+
+
+0
+bathrooms
++
+-
+
+
+clear
+apply
+
+
+
+
+		price	
+
+
+
+
+ - 
+
+
+
+
+apply
+
+
+
+
+ advanced 
+
+search 
+
+
+
+
+
+
+
+commercial - office - shopresidential - apartment - condo - multi family home - single family home - studio - villa 
+
+
+all citieschicagolos angelesmiaminew york 
+
+
+
+
+
+
+
+
+
+
+
+ other features	
+
+
+air conditioningbarbequedryergymlaundrylawnmicrowaveoutdoor showerrefrigeratorsaunaswimming pooltv cablewasherwifiwindow coverings 
+
+ 
+
+
+
+
+
+
+
+
+
+single family home
+4 beds -
+ 2 baths - 1200 sq ft
+$670000
+lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
+
+
+new apartment
+3 beds -
+ 1 baths - 2450 sq ft
+$2500
+lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
+
+
+ample apartment
+2 beds -
+ 1 baths - 2300 sq ft
+$1900
+lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
+
+
+design apartment ocean view
+1 beds -
+ 2 baths - 1749 sq ft
+$899000
+lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
+
+
+renovated apartment at last floor
+3 beds -
+ 2 baths - 1500 sq ft
+$2200
+lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+discover our best deals
+lorem ipsum dolor sit amet, consectetur adipiscing elit donec sollicitudin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featured
+
+
+					for rent
+				
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light and modern apartment
+
+
+
+ $4,500/mo
+
+
+beds: 4baths: 21200 sq ft 
+
+
+
+
+
+
+
+featured
+
+
+					for sale
+				
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+design apartment
+
+
+
+ $876,000
+
+
+beds: 3baths: 22560 sq ft 
+
+
+
+
+
+
+
+featured
+
+
+					for rent
+				
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new apartment nice view
+
+
+
+ $11,000/mo
+
+
+beds: 3bath: 11789 sq ft 
+
+
+
+
+
+
+
+
+
+					for rent
+				
+					hot offer
+				
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new apartment
+
+
+
+ $2,500/mo
+
+
+beds: 3bath: 12450 sq ft 
+
+
+
+
+
+
+
+
+
+					for rent
+				
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+complex
+
+
+
+ $5,600/mo
+
+
+beds: 5baths: 33450 sq ft 
+
+
+
+
+
+
+
+
+
+					for rent
+				
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ample apartment
+
+
+
+ $1,900/mo
+
+
+beds: 2bath: 12300 sq ft 
+
+
+
+
+
+
+
+                    	load more		
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+design custom real estate inquiry forms
+design custom lead capture forms that integrate with the houzez crm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inquiry type 
+
+selectpurchase rent sell miss evaluation mortgage 
+
+
+
+information 
+
+i'm a selecti'm a real estate agenti'm a property owner 
+
+
+
+ 
+
+ 
+
+ 
+
+location 
+
+select city chicago los angeles miami new york 
+
+
+
+  
+
+property 
+
+select type commercial-  office-  shop residential-  apartment-  condo-  multi family home-  single family home-  studio-  villa 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+                                                    submit                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+explore our properties
+lorem ipsum dolor sit amet, consectetur adipiscing elit donec sollicitudin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17 properties
+apartment
+more details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 properties
+single family home
+more details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 properties
+studio
+more details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 properties
+villa
+more details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 properties
+office
+more details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 properties
+shop
+more details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why houzez is the perfect choice?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01. 
+
+
+
+
+easy to get started
+get ready to launch your real estate  website without any previous experience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+02. 
+
+
+
+
+pre-built websites
+get started by choosing from one of our pre-built page templates to showcase your properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+03. 
+
+
+
+
+highly customizable
+customize your  website to your expectations by using all of the theme features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+meet our real estate agents
+lorem ipsum dolor sit amet, consectetur adipiscing elit donec sollicitudin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+brittany watkins
+
+
+			                company agent                                , all american real estate
+                            		
+
+
+		lorem ipsum dolor sit amet, consectetur adipiscing elit. phasellus porta justo eget risus consectetur,...	
+
+view profile
+
+
+
+
+ 
+
+
+
+michelle ramirez
+
+
+			                company agent                                , modern house real estate
+                            		
+
+
+		lorem ipsum dolor sit amet, consectetur adipiscing elit. phasellus porta justo eget risus consectetur,...	
+
+view profile
+
+
+
+
+ 
+
+
+
+samuel palmer
+
+
+			                company agent                                , modern house real estate
+                            		
+
+
+		lorem ipsum dolor sit amet, consectetur adipiscing elit. phasellus porta justo eget risus consectetur,...	
+
+view profile
+
+
+
+
+ 
+
+
+
+vincent fuller
+
+
+			                company agent                                , country house real estate
+                            		
+
+
+		lorem ipsum dolor sit amet, consectetur adipiscing elit. phasellus porta justo eget risus consectetur,...	
+
+view profile
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+read from our blog
+lorem ipsum dolor sit amet, consectetur adipiscing elit donec sollicitudin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+prev
+next
+
+
+
+
+
+
+
+
+
+ september 4, 2024
+
+
+ uncategorized 
+
+
+
+hello world!
+
+
+
+ by locallin	
+ 
+
+
+
+
+ 
+
+
+
+
+
+ march 9, 2016
+
+
+ business 
+
+
+
+skills that you can learn in the real estate market
+
+
+
+ by locallin	
+ 
+
+
+
+
+ 
+
+
+
+
+
+ march 9, 2016
+
+
+ construction 
+
+
+
+learn the truth about real estate industry
+
+
+
+ by locallin	
+ 
+
+
+
+
+ 
+
+
+
+
+
+ march 9, 2016
+
+
+ real estate 
+
+
+
+10 quick tips about business development
+
+
+
+ by locallin	
+ 
+
+
+
+
+ 
+
+
+
+
+
+ march 9, 2016
+
+
+ real estate 
+
+
+
+14 common misconceptions about business development
+
+
+
+ by locallin	
+ 
+
+
+
+
+ 
+
+
+
+
+
+ march 9, 2016
+
+
+ business 
+
+
+
+10 things your competitors can teach you about real estate
+
+
+
+ by locallin	
+ 
+
+
+
+
+ 
+
+
+
+
+
+ march 9, 2016
+
+
+ construction 
+
+
+
+why we love real estate
+
+
+
+ by locallin	
+ 
+
+
+
+
+ 
+
+
+
+
+
+ march 9, 2016
+
+
+ real estate 
+
+
+
+10 quick tips about real estate
+
+
+
+ by locallin	
+ 
+
+
+
+
+ 
+
+
+
+
+
+ march 9, 2016
+
+
+ real estate 
+
+
+
+15 best blogs to follow about real estate
+
+
+
+ by locallin	
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+discovermiamilos angeleschicagonew yorkcontact us
+
+
+
+
+  774 ne 84th st miami, fl 33879
+ 879 456 1349
+ email@houzez.co
+
+
+
+contact us
+
+
+
+
+  774 ne 84th st miami, fl 33879
+ 879 456 1349
+ email@houzez.co
+
+
+
+ 
+
+
+
+
+
+
+
+ facebook		
+
+
+
+ twitter		
+
+
+
+ google +		
+
+
+
+ linkedin		
+
+
+
+ instagram		
+
+
+
+ pinterest		
+
+
+
+ yelp		
+
+
+
+ youtube		
+
+
+
+
+
+
+	© houzez - all rights reserved
+
+
+
+
+
+
+
+
+
+
+compare listings
+
+compare
+close
+
+
+
+
+
+
+
+login
+
+
+register
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+remember me                
+
+lost your password?
+
+
+ 
+
+
+        login        
+    
+
+
+
+
+user registration is disabled for demo purpose.                    
+
+
+
+
+
+
+
+
+reset password
+
+×
+
+
+
+
+please enter your username or email address. you will receive a link to create a new password via email.
+
+
+
+
+ 
+                        get new password                    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

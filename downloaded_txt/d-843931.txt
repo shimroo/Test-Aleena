@@ -1,0 +1,311 @@
+smtpdebug = 0;                                 // enable verbose debug output
+    $mail->issmtp();                                         // send using smtp
+    $mail->host       = 'p3plcpnl1174.prod.phx3.secureserver.net';                    // set the smtp server to send through
+    $mail->smtpauth   = true;                                   // enable smtp authentication
+    $mail->username   = 'noreply@growcoir.com';                     // smtp username
+    $mail->password   = 'c-3tt~bcub0+';                               // smtp password
+    $mail->smtpsecure = 'ssl';         // enable tls encryption; `phpmailer::encryption_smtps` also accepted
+    $mail->port       = 465;                                    // tcp port to connect to
+
+    //recipients
+    $mail->setfrom('noreply@growcoir.com', 'growcoir');
+    $mail->addaddress('shan@ceyhinzlink.com', 'website');     // add a recipient email, name
+    $mail->addreplyto('shan@ceyhinzlink.com', 'growcoir');
+    
+  //form
+   
+    if (isset($_post['submi']))  {
+
+      $inq_send_message = "";
+
+      //email information
+
+      $inq_fname = $_post['name'];
+
+      $inq_email = $_post['email']; 
+      
+      $phone = $_post['phone'];
+
+      $inq_comment = $_post['msg']; 
+
+     
+        if(isset($_post['g-recaptcha-response'])){
+
+            $captcha=$_post['g-recaptcha-response'];            
+
+            if(!$captcha){
+
+              $inq_send_message="you are a spamer";
+
+            }
+
+            else{
+
+                $secretkey = "6lfigvcuaaaaaiuogoxasj9tfh59cy-qhu9--7bl";
+
+                $ip = $_server['50.63.7.195'];
+
+                $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretkey."&response=".$captcha."&remoteip=".$ip);
+
+                $responsekeys = json_decode($response,true);
+
+                if(intval($responsekeys["success"]) !== 1) {
+
+                  $inq_send_message="you are a spamer";
+
+                } 
+
+                else { 
+
+                $body = "";
+                $body .= "name: $inq_fname";
+                $body .= "email: $inq_email ";
+                $body .= "message: $inq_comment ";
+                $body .= "";
+        
+        
+                // content
+                $mail->ishtml(true);                                  // set email format to html
+                $mail->subject = 'growcoir - website contact';
+                $mail->body    = $body;
+        
+        
+                if($mail->send()){
+                  $inq_send_message="thank you!";
+                }
+                else{
+                  $inq_send_message="could not send";
+                }
+            }
+        }
+        
+    }
+  
+    }
+?>
+
+
+
+
+
+
+
+
+growcoir | home - 100% organic growing media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let's start growingwith growcoir
+
+
+
+
+
+100% quality coirmaterial
+
+
+
+
+
+premium coir productsfrom sri lanka to world
+
+
+
+
+
+
+
+
+ 
+
+
+growcoir
+ceynetco international, inc is one of the world's leading suppliers of 100% organic coircultivation  solutions with clean, controllable, 100% natural coir-based substrates and ecological restoration solutions. our growcoir coir substrates utilize the natural properties of processed coir fiber, pith and fractions. we supply standard, customized and made to order coir substrate products for agricultural, horticultural and floriculture growing facilities worldwide.
+read more
+
+
+ 
+
+
+
+
+berries
+
+
+
+
+
+view product
+
+
+
+view product
+
+
+
+⟨
+
+
+⟩
+
+
+
+
+
+
+
+pepper
+
+
+
+
+
+view product
+
+
+
+view product
+
+
+
+view product
+
+
+
+⟨
+
+
+⟩
+
+
+
+
+
+
+
+cucumber
+
+
+
+
+
+view product
+
+
+
+view product
+
+
+
+view product
+
+
+
+⟨
+
+
+⟩
+
+
+
+
+
+
+
+tomato
+
+
+
+
+
+view product
+
+
+
+view product
+
+
+
+view product
+
+
+
+⟨
+
+
+⟩
+
+
+
+
+
+
+
+ 
+
+
+ask about the product
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+submit
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

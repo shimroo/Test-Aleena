@@ -1,0 +1,2081 @@
+
+
+batronix - innovative tools. exzellenter service.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+innovative tools. exzellenter service.
+
+
+
+
+ service@batronix.com
+
+
+ 04342 90786-0
+
+
+
+
+
+
+privatkunde
+|
+deutschland
+|
+de
+
+
+
+
+
+sprache
+
+
+
+
+deutsch
+
+
+
+
+
+englisch
+
+
+
+kundenstatus
+
+
+privatkunde
+
+
+
+geschäftskunde
+
+
+
+schule, hochschule, universität, institut
+
+land
+
+deutschland
+
+
+
+dienste verwalten
+
+
+
+
+
+
+ok
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+messtechnik
+
+
+
+
+oszilloskope
+
+
+
+
+übersicht
+
+
+alle oszilloskope
+
+
+downloads
+
+
+nicht mehr erhältlich
+
+
+batronix
+
+
+magnova übersicht
+
+
+alle modelle
+
+
+bmo100
+
+
+bmo100-nc
+
+
+bmo200
+
+
+bmo200-nc
+
+
+bmo350
+
+
+bmo350-nc
+
+
+rohde & schwarz
+
+
+alle r&s oszilloskope
+
+
+serienübersicht
+
+
+rtc1000
+
+
+rtb2000
+
+
+rtb 2
+
+
+rtm3000
+
+
+rta4000
+
+
+mxo 4
+
+
+mxo 5
+
+
+mxo 5c
+
+
+rth1000
+
+
+
+
+rigol
+
+
+alle rigol oszilloskope
+
+
+serienübersicht
+
+
+ds1000z/plus
+
+
+ds1000z-e
+
+
+ds2000a
+
+
+mso2000a
+
+
+mso5000
+
+
+ds7000
+
+
+mso7000
+
+
+mso8000
+
+
+mso8000a
+
+
+ds70000
+
+
+dho800
+
+
+dho900
+
+
+dho1000
+
+
+dho4000
+
+
+dho5000
+
+
+mho5000
+
+
+
+
+siglent
+
+
+alle siglent oszilloskope
+
+
+serienübersicht
+
+
+sds1000cml+
+
+
+sds1000x-u
+
+
+sds1000x-e
+
+
+sds2000x plus
+
+
+sds5000x
+
+
+sds6000a
+
+
+sds800x hd
+
+
+sds1000x hd
+
+
+sds2000x hd
+
+
+sds3000x hd
+
+
+sds7000a
+
+
+shs-x
+
+
+
+
+pico technology
+
+
+alle pico oszilloskope
+
+
+serienübersicht
+
+
+picoscope 2000a
+
+
+picoscope 2000b
+
+
+picoscope 3000
+
+
+picoscope 3000e
+
+
+picoscope 4000
+
+
+picoscope 5000
+
+
+picoscope 6000e
+
+
+micsig
+
+
+alle micsig oszilloskope
+
+
+serienübersicht
+
+
+to/ato
+
+
+sto/sato
+
+
+eto
+
+
+mdo
+
+
+mho
+
+
+vto
+
+
+vato
+
+
+andere marken
+
+
+labnation smartscope
+
+
+
+
+
+
+
+
+tastköpfe
+
+
+
+
+übersicht
+
+
+alle tastköpfe
+
+
+passive tastköpfe
+
+
+aktive tastköpfe
+
+
+differential-tastköpfe
+
+
+hochspannungstastköpfe
+
+
+strommesszangen
+
+
+nicht mehr erhältlich
+
+
+
+
+rohde & schwarz
+
+
+alle r&s tastköpfe
+
+
+rigol
+
+
+alle rigol tastköpfe
+
+
+siglent
+
+
+alle siglent tastköpfe
+
+
+micsig
+
+
+alle micsig tastköpfe
+
+
+dp hochspannungs-differentialtastköpfe
+
+
+cp strommesszangen
+
+
+acp ac strommesszangen
+
+
+rcp rogowski-ac-stromzangen
+
+
+sigofit-faseroptisch isolierte tastköpfe
+
+
+
+
+pmk
+
+
+alle pmk tastköpfe
+
+
+tetris
+
+
+bumblebee
+
+
+pml high-z
+
+
+testec
+
+
+alle testec tastköpfe
+
+
+
+
+sensepeek
+
+
+freihand-tastköpfe & platinenhalter
+
+
+senspeek sqg-tastköpfe
+
+
+
+
+
+
+
+
+spektrumanalyser & vna
+
+
+
+
+übersicht
+
+
+spektrumanalysatoren
+
+
+vna
+
+
+downloads
+
+
+nicht mehr erhältlich
+
+
+rohde & schwarz
+
+
+alle von r&s
+
+
+fpc1000
+
+
+fsc
+
+
+fpl1000
+
+
+fph handheld
+
+
+
+
+rigol
+
+
+alle von rigol
+
+
+dsa800
+
+
+rsa3000e
+
+
+rsa3000n
+
+
+rsa5000n
+
+
+
+
+siglent
+
+
+alle von siglent
+
+
+ssa3000x / plus
+
+
+ssa3000x-r
+
+
+ssa5000a
+
+
+sva1000x
+
+
+sna5000a
+
+
+sna6000a
+
+
+sha800a
+
+
+shn900a
+
+
+
+
+pico technology
+
+
+pico vna
+
+
+tekbox
+
+
+emcview software
+
+
+
+
+
+
+
+
+funktionsgeneratoren
+
+
+
+
+übersicht
+
+
+funktionsgeneratoren
+
+
+downloads
+
+
+nicht mehr erhältlich
+
+
+rohde & schwarz
+
+
+hmf2500
+
+
+
+
+rigol
+
+
+alle von rigol
+
+
+dg800
+
+
+dg1000z
+
+
+dg2000
+
+
+dg4000
+
+
+dg800 pro
+
+
+dg900 pro
+
+
+dg5000 pro
+
+
+
+
+siglent
+
+
+alle von siglent
+
+
+sdg800/1000
+
+
+sdg1000x
+
+
+sdg1000x plus
+
+
+sdg2000x
+
+
+sdg6000x
+
+
+sdg7000a
+
+
+
+
+uni-t
+
+
+utg900e
+
+
+
+
+
+
+
+
+signalgeneratoren
+
+
+
+
+übersicht
+
+
+alle signalgeneratoren
+
+
+downloads
+
+
+nicht mehr erhältlich
+
+
+rohde & schwarz
+
+
+smb100b
+
+
+
+
+rigol
+
+
+alle von rigol
+
+
+dsg800
+
+
+dsg3000b
+
+
+
+
+siglent
+
+
+alle von siglent
+
+
+ssg3000x
+
+
+ssg5000x
+
+
+ssg5000a
+
+
+ssg6000a
+
+
+
+
+
+
+
+
+logikanalysatoren
+
+
+
+
+übersicht
+
+
+alle logikanalysatoren
+
+
+downloads
+
+
+
+
+saleae
+
+
+alle saleae logikanalysatoren
+
+
+logic 8
+
+
+logic pro 8
+
+
+logic pro 16
+
+
+
+
+labnation
+
+
+smartscope
+
+
+
+
+
+
+
+
+multimeter
+
+
+
+
+übersicht
+
+
+hand-multimeter
+
+
+tisch-multimeter
+
+
+lcr-meter
+
+
+stromzangen
+
+
+spannungsprüfer
+
+
+datenlogger und schaltsysteme (daq)
+
+
+downloads
+
+
+nicht mehr erhältliche hand-multimeter
+
+
+nicht mehr erhältliche tisch-multimeter
+
+
+
+
+rigol
+
+
+dm3000
+
+
+dm858
+
+
+
+
+siglent
+
+
+sdm3000
+
+
+
+
+uni-t
+
+
+alle uni-t multimeter
+
+
+ut161
+
+
+ut191
+
+
+ut195
+
+
+
+
+
+
+
+
+wärmebildkameras
+
+
+
+
+übersicht
+
+
+alle wärmebildkameras
+
+
+alle ir-thermometer
+
+
+downloads
+
+
+nicht mehr erhältlich
+
+
+
+
+hikmicro
+
+
+alle hikmicro wärmebildkameras
+
+
+serienübersicht
+
+
+mini
+
+
+pocket
+
+
+eco
+
+
+b-serie
+
+
+bx-serie
+
+
+brandbekämpfung/rettung
+
+
+m-serie
+
+
+g-serie
+
+
+
+
+uni-t
+
+
+alle uni-t wärmebildkameras
+
+
+alle uni-t ir-thermometer
+
+
+
+
+seek
+
+
+alle seek wärmebildkameras
+
+
+
+
+
+
+
+
+emv-precompliance
+
+
+
+
+übersicht
+
+
+antennen
+
+
+nahfeld sonden
+
+
+tem-zellen
+
+
+netznachbildungen (lisn)
+
+
+cdn
+
+
+cdne
+
+
+hf-stromwandler
+
+
+abschirmungen
+
+
+leistungsverstärker
+
+
+tekbox emv-/hf-zubehör
+
+
+vorverstärker
+
+
+kammgeneratoren
+
+
+kabel und messleitungen
+
+
+emv-analysator
+
+
+emcview software
+
+
+
+
+
+
+
+
+weitere messgeräte
+
+
+
+
+lcr meter
+
+
+alle lcr meter
+
+
+r&s lcx
+
+
+lcr research
+
+
+spannungsprüfer
+
+
+alle spannungsprüfer
+
+
+
+
+datenerfassung (daq / logger)
+
+
+alle daq / logger
+
+
+rigol m300
+
+
+pico datenlogger
+
+
+
+
+kabel- & antennenanalysatoren
+
+
+alle analysatoren
+
+
+
+
+leistungsanalysatoren
+
+
+alle leistungsanalysatoren
+
+
+
+
+
+
+
+
+zubehör
+
+
+
+
+übersicht
+
+
+tastköpfe
+
+
+freihand-tastköpfe & platinenhalter
+
+
+kabel und messleitungen
+
+
+adapter und zwischenstücke
+
+
+demoboards
+
+
+usb-isolatoren
+
+
+akkus
+
+
+taschen und koffer
+
+
+allgemeines zubehör
+
+
+
+
+hf / emv
+
+
+nahfeld sonden
+
+
+antennen
+
+
+hf-stromwandler
+
+
+vorverstärker
+
+
+leistungsverstärker
+
+
+kalibrierungssets
+
+
+abschirmungen
+
+
+tem-zellen
+
+
+tekbox hf-/emv-zubehör
+
+
+
+
+
+
+
+
+know-how
+
+
+
+
+emv konformitätstests
+
+
+emv konformitätstests
+
+
+sonstiges
+
+
+operationsverstärker
+
+
+
+
+
+
+
+
+
+
+
+
+netzgeräte
+
+
+
+
+dc labornetzgeräte
+
+
+
+
+übersicht
+
+
+dc labornetzgeräte
+
+
+
+
+rohde & schwarz
+
+
+alle r&s labornetzgeräte
+
+
+ngc100
+
+
+nge100
+
+
+ngl200
+
+
+ngp800
+
+
+hmp2000/hmp4000
+
+
+
+
+rigol
+
+
+dp700
+
+
+dp800
+
+
+dp900
+
+
+dp2000
+
+
+siglent
+
+
+spd1000x
+
+
+spd3000c
+
+
+spd3000x
+
+
+spd4000x
+
+
+sps5000x
+
+
+sps6000x
+
+
+
+
+
+
+
+
+elektronische dc lasten
+
+
+
+
+übersicht
+
+
+alle elektronische dc lasten
+
+
+downloads
+
+
+
+
+rigol
+
+
+dl3000
+
+
+siglent
+
+
+sdl1000x
+
+
+
+
+
+
+
+
+alle leistungsanalysatoren
+
+
+
+
+übersicht
+
+
+alle leistungsanalysatoren
+
+
+nicht mehr erhältlich
+
+
+
+
+rohde & schwarz
+
+
+hmc8000
+
+
+npa
+
+
+
+
+
+
+
+
+source measure units (smu)
+
+
+
+
+übersicht
+
+
+alle smu
+
+
+
+
+rohde & schwarz
+
+
+ngu
+
+
+
+
+
+
+
+
+nicht mehr erhältlich
+
+
+
+
+übersicht
+
+
+labornetzgeräte - nicht mehr erhältlich
+
+
+
+
+
+
+
+
+
+
+
+
+programmiertechnik
+
+
+
+
+programmiergeräte
+
+
+
+
+übersicht
+
+
+alle programmer
+
+
+downloads
+
+
+chip brennservice
+
+
+nicht mehr erhältlich
+
+
+
+
+batronix
+
+
+bx32p barlino ii
+
+
+bx40 bagero ii
+
+
+bx48 batego ii
+
+
+batronix software
+
+
+prog-express (free)
+
+
+chip tuner modul
+
+
+prog-studio 9
+
+
+prog-studio 6
+
+
+ghost-user
+
+
+
+
+conitec
+
+
+galep 5
+
+
+galep 5d-60
+
+
+galep 5d-120
+
+
+galep 5d-240
+
+
+
+
+elnec
+
+
+beeprog 2
+
+
+beeprog 2c
+
+
+
+
+
+
+
+
+adapter
+
+
+
+
+übersicht
+
+
+alle adapter
+
+
+
+
+adapter typ
+
+
+plcc
+
+
+qfp, pqfp und tqfp
+
+
+bga
+
+
+sop, soic und psop
+
+
+qfn, son und sap
+
+
+isp
+
+
+tsop und ssop
+
+
+
+
+
+
+
+
+bauteile / chips
+
+
+
+
+übersicht
+
+
+alle chips
+
+
+hebelfassungen
+
+
+zubehör
+
+
+
+
+chips
+
+
+eproms und eeproms
+
+
+flash eproms
+
+
+serielle eeproms
+
+
+mikrocontroller
+
+
+
+
+
+
+
+
+know-how
+
+
+
+
+grundlagen
+
+
+speicherchips
+
+
+bosch chips
+
+
+chip gehäuseformen
+
+
+
+
+
+
+
+
+
+
+
+
+löttechnik
+
+
+
+
+löt- und entlötstationen
+
+
+
+
+übersicht
+
+
+alle stationen
+
+
+alle lötspitzen
+
+
+downloads
+
+
+nicht mehr erhältlich
+
+
+ersa
+
+
+alle ersa stationen
+
+
+rds 80
+
+
+i-con 1
+
+
+
+
+jbc
+
+
+alle jbc stationen
+
+
+compact line
+
+
+premium line
+
+
+präzisionsstationen
+
+
+b-iron
+
+
+weller
+
+
+alle weller stationen
+
+
+we 1010
+
+
+wt 1012
+
+
+wx 1010
+
+
+
+
+jbc modular line
+
+
+kontrollstationen
+
+
+lötkolben
+
+
+ständer
+
+
+module
+
+
+
+
+hakko
+
+
+alle hakko stationen
+
+
+fx-888dx
+
+
+fx-970
+
+
+fr-400
+
+
+
+
+
+
+
+
+lötspitzen
+
+
+
+
+jbc lötspitzen
+
+
+c105
+
+
+c115
+
+
+c120
+
+
+c210
+
+
+c245
+
+
+c250
+
+
+c360
+
+
+c420
+
+
+c470
+
+
+c560
+
+
+sg1070
+
+
+sl2020
+
+
+
+
+hakko lötspitzen
+
+
+t18
+
+
+t19
+
+
+t32
+
+
+t39
+
+
+t50
+
+
+t51
+
+
+t52
+
+
+t53
+
+
+a13
+
+
+
+
+atten lötspitzen
+
+
+atten
+
+
+
+
+
+
+
+
+heissluft-stationen
+
+
+
+
+übersicht
+
+
+alle stationen
+
+
+downloads
+
+
+
+
+jbc
+
+
+alle jbc stationen
+
+
+
+
+hakko
+
+
+alle hakko stationen
+
+
+
+
+
+
+
+
+weitere löttechnik
+
+
+
+
+übersicht
+
+
+lötrauchabzüge
+
+
+vorheizplatten
+
+
+
+
+
+
+
+
+zubehör
+
+
+
+
+übersicht
+
+
+lötdraht / lötpaste
+
+
+lötspitzen
+
+
+flussmittel
+
+
+reinigungsmittel
+
+
+zusatzmaterialien
+
+
+atten heissluftdüsen
+
+
+esd zubehör
+
+
+leiterplattenhalter
+
+
+
+
+
+
+
+
+
+
+
+
+sales%
+
+
+warenkorb 
+
+
+konto 
+
+
+konto
+
+
+dienste verwalten
+
+
+newsletter
+
+
+
+
+support 
+
+
+service@batronix.com
+
+
+online ticket
+
+
+telefon 04342 90786-0
+
+
+
+
+filter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+english
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+startmesstechniknetzgerã¤teprogrammiertechniklã¶ttechniksales%informationenknow-howsoftware
+
+
+
+
+
+
+
+
+
+                                      batronix mso-demoboard  demoboard mit funktionsgenerator (0,2 hz bis 10 khz in 16 schritten) fã¼r sinus, rechteck, dreieck, rampe und viele weitere testsignale (sweep, burst, am-modulation, pwm, rauschen, fehler, ...). mit spi, i2c, uart, can, can-fd, lin, manchester und parallelbus-schnittstelle und einer hf-teststrecke, einem hf-ausgang und einem bode-plot-demofilter. inklusive schulungsdokumentation ideal fã¼r trainings- und ausbildungszwecke.             die rigol dho800 serie  die digitaloszilloskope der serie dho800 sind tragbare und hochauflã¶sende digitaloszilloskope, die auf der "centaurus"-technologieplattform von rigol basieren.  2 oder 4 kanã¤le 70 mhz - 100 mhz bandbreite 12 bit a/d wandler 1,25 gsa/s 30.000 wfms/s 25 mpts speichertiefe 7" hd-touch-display              sensepeek pcbite platinenhalter  vergessen sie alte stationã¤re leiterplattenhalter. bei sensepeek hat man eine mobile und benutzerfreundliche lã¶sung fã¼r sie entwickelt.  leichte positionierung der leiterplatten passend fã¼r unterschiedliche formen und grã¶ãen stabile und flexible tastkã¶pfe fã¼r freihand-messungen              pico technology  pico technology ist seit ã¼ber 30 jahren branchenfã¼hrend in der entwicklung und herstellung von leistungsstarken pc-oszilloskopen und datenloggern. in dieser zeit hat pico ein beeindruckendes portfolio an hochintegrierter messtechnik aufgebaut, darunter die picoscope pc-oszilloskope mit bandbreiten bis zu 30 ghz, auflã¶sungen bis zu 16 bit, flexiblen auflã¶sungs- und mixed-signal-modellen. werfen sie einen blick auf das produktportfolio!             die siglent sds3000x hd serie   4 kanã¤le 350 mhz - 1 ghz bandbreite 12 bit a/d wandler 4 gsa/s bis zu 890.000 wfms/s bis zu 400 mpts speichertiefe 25,7 cm (10.1") touch-display (1024x600 pixel) 16 kanal logik analysator (optional) 50 mhz funktionsgenerator (optional)              die siglent sds7000a serie   4 kanã¤le 3 ghz - 4 ghz bandbreite 12 bit a/d wandler 20 gsa/s abtastrate 1.000.000 wfms/s signalrate 500 mpts (1 gpts option) speicher 15.6" touch-display (1920x1080 pixel) 16 kanal logik analysator (option) 50 mhz funktionsgenerator (option)              die mxo 4 serie von rohde & schwarz   4 kanã¤le 200 mhz - 1.5 ghz 12 bit a/d wandler 5 gsa/s 4.500.000 wfms/s 400 mpts (800 mpts optional) 13.3" touch-display full-hd (1920x1080 pixel) 16 kanal logik analysator 100 mhz funktionsgenerator              die mxo 5 serie von rohde & schwarz  das mxo 5 ist das weltweit schnellste oszilloskop mit einer aktualisierungsrate von ã¼ber 4,5 millionen messkurven pro sekunde und einer simultanen spektrum-erfassungsrate von 45.000 fft/s bei bis zu 4 spektren. die branchenfã¼hrende systemarchitektur bietet 18 bit vertikale auflã¶sung, 12 bit a/d-wandler und den tiefsten standardmã¤ãigen speicher in seiner klasse.  4-kanal- und 8-kanal-modelle 100 mhz - 2 ghz bandbreite 12 bit a/d wandler (18 bit systemarchitektur) 15.6" touch-display full-hd (1920x1080 pixel) flã¼sterleises betriebsgerã¤usch              professionelle wã¤rmebildkameras von hikmicro  perfekt fã¼r die entwicklung und prã¤zise fehlersuche bei platinen und baugruppen bieten ihnen diese wã¤rmebildkameras eine unã¼bertroffene sicht in die welt der wã¤rme. identifizieren sie mã¼helos hotspots und temperatursensitive bereiche, um fundierte designentscheidungen zu treffen und potenzielle probleme frã¼hzeitig zu erkennen.   die produktpalette erstreckt sich von kostengã¼nstigen bis hin zu hochprofessionellen modellen, was ihnen die mã¶glichkeit bietet, die perfekte wã¤rmebildkamera entsprechend ihren anforderungen und budgets auszuwã¤hlen. willkommen in einer welt der inovativen thermografie mit hikmicro!            lcr research  die lcr-meter von lcr research sind kompakt, prã¤zise und unglaublich praktisch in der verwendung. bauteile kã¶nnen gegriffen, platziert und dabei gemessen werden und auch auf platinen ist damit das nachmessen bestã¼ckter bauteile leicht mã¶glich.  r: 20 mâ¦ bis 10 mâ¦ c:0.1 pf bis 10 mf l: 10 nh bis 1 h genauigkeit bis zu 0.1% (r), 0.2% (l & c) testfrequenzen von 100 hz bis 100 khz testspannungen von 0.2 bis 1 vrms led testfunktion oled display           previous    next   
+
+
+
+
+
+
+
+   batronix highlights   filter 4 von 4 artikelreset    sortierung   ▲ position ▼ position ▲ name ▼ name ▲ preis ▼ preis ▲ hersteller ▼ hersteller ▲ verfã¼gbarkeit ▼ verfã¼gbarkeit   ▲ max. capture rate ▼ max. capture rate ▲ analoge kanã¤le ▼ analoge kanã¤le ▲ bandbreite ▼ bandbreite ▲ abtastrate ▼ abtastrate        
+pico technology picoscope 2204a (pp906)previousnext3 bewertungen2 kanal usb pc-oszilloskop mit 10 mhz bandbreite, 100 msa/s abtastrate, 8 bit ad wandler, 8 kpts speichertiefe und einem 1 kanal 100 khz funktionsgenerator.oszilloskopmax. capture rate2 kwfms/sanaloge kanã¤le2 bandbreite10 mhzabtastrate100 msa/sspeicher8 kptsa/d wandler8 bitbildschirmgrã¶ãen/afunktionsgeneratorlautlos/lã¼fterlospc oszilloskopserielle protokolle100base-t11-wirearinc 429cancan fddalidccdmx512ethernetflexrayiâ²ci2slinmanchester/nrzmil-std-1553modbusps/2sentspiuart (rs232/422/485)usb 1pico technology picoscope 2204a (pp906) lieferumfang×zubehã¶r2x passiver tastkopf (100 mhz)1x usb 2.0 kabel 1x schnellstartanleitungschließenpico technology picoscope 2204a (pp906) downloads×anleitungpicoscope 2000, a api programmierhandbuchin diesem handbuch wird erklã¤rt, wie sie ihre eigenen programme zum sammeln und analysieren von daten aus den oszilloskopen der picoscope serie 2000. es gilt fã¼r alle gerã¤te, die von der ps2000a-anwendungsprogrammierschnittstelle (api)sprache: englischversion: ps2000apg.en-12picoscope 2000, programmierhandbuchin diesem handbuch wird erklã¤rt, wie sie ihre eigenen programme zum sammeln und analysieren von daten entwickeln kã¶nnen. von den oszilloskopen der picoscope 2000-serie entwickeln kã¶nnen. dieses handbuch beschreibt die anwendungs-programmierschnittstelle (api)sprache: englischversion: ps2000pg.en-12picoscope 2000, schnellstartanleitungin dieser anleitung wird erklã¤rt, wie sie die picoscope-software installieren und das oszilloskop an ihren computer anschlieãen. es enthã¤lt auãerdem wichtige sicherheitsinformationen und hinweise zum zugriff auf benutzerhandbã¼cher und technischen support. die anleitung bezieht sich auf die modelle picoscope 2204a, 2205a, 2205a mso, 2206b, 2206b mso, 2207b, 2207b mso, 2208b, 2208b mso, 2405a, 2406b, 2407b and 2408b.sprache: deutsch, englisch, spanischversion: do231-11picoscope 6 software leitfaden zur einfã¼hrungpicoscope 6 ist die oszilloskop-software, die mit allen picoscopeâ® oszilloskopen mitgeliefert wird. alle angekã¼ndigten funktionen sind im kaufpreis ihres oszilloskops enthalten, so dass sie keine teuren zusã¤tzlichen softwaremodule kaufen mã¼ssen.sprache: englischversion: mm048.en-1picoscope 6 software, benutzerhandbuchpicoscope 6 ist die oszilloskop-software, die mit allen picoscopeâ® oszilloskopen mitgeliefert wird. alle angekã¼ndigten funktionen sind im kaufpreis ihres oszilloskops enthalten, so dass sie keine teuren zusã¤tzlichen softwaremodule kaufen mã¼ssen.sprache: englischversion: psw.en r50picoscope 6 software, faqpicoscope 6 ist die oszilloskop-software, die mit allen picoscopeâ® oszilloskopen mitgeliefert wird. alle angekã¼ndigten funktionen sind im kaufpreis ihres oszilloskops enthalten, so dass sie keine teuren zusã¤tzlichen softwaremodule kaufen mã¼ssen.sprache: englischversion: ar332-4picoscope 6 software, schulungsleitfadenpicoscope 6 ist die oszilloskop-software, die mit allen picoscopeâ® oszilloskopen mitgeliefert wird. alle angekã¼ndigten funktionen sind im kaufpreis ihres oszilloskops enthalten, so dass sie keine teuren zusã¤tzlichen softwaremodule kaufen mã¼ssen.sprache: englischversion: do226-3datenblattpicoscope 2000 serie, datenblattfunktionen und technische datensprache: englischversion: mm071.en-7picoscope 2000 serie, datenblattfunktionen und technische datensprache: deutschversion: mm071.de-7schließenlieferumfangdownloads5 jahre garantienr.: pp906zzgl. versandkostenauf lager€ 155,-netto€ 184,45inkl. mwst.nutzen sie unserebestpreis-garantie
+siglent sds824x hdpreviousnext10 bewertungen4 kanal oszilloskop mit 200 mhz bandbreite, 2 gsa/s, und 100 mpts speichertiefe mit verbesserten mathematik- und messfunktionen und 17,78 cm lcd display mit einer auflã¶sung von 1.024 x 600 pixel. serielle dekoder fã¼r iâ²c, spi, uart, can und lin sind bereits enthalten! aufrã¼stbar zum mso mit 16 kanal logik analysator. mit einem 1 kanal funktionsgenerator erweiterbar.oszilloskopmax. capture rate500 kwfms/sanaloge kanã¤le4 bandbreite200 mhzabtastrate2 gsa/sspeicher100 mptsa/d wandler12 bitbildschirmgrã¶ãe17.8 cmfunktionsgeneratorlogik analysertouchbedienungserielle protokollecaniâ²clinspiuart (rs232/422/485)siglent sds824x hd lieferumfang×zubehã¶r4x passiver tastkopf pp215 (200 mhz)1x kurzanleitung1x usb-kabel1x stromkabelschließensiglent sds824x hd downloads×anleitungsds800x hd anleitungsprache: englischdatenblattsds800x hd datenblattsprache: englischleitfadensds800x hd programmierhandbuchsprache: englischschließenlieferumfangdownloads3 jahre garantienr.: sds824x hdean: 768599087962versandkostenfrei in alle eu länder! zzgl. versand außerhalb der euauf lager€ 699,-netto€ 831,81inkl. mwst.nutzen sie unserebestpreis-garantie
+rigol dho924spreviousnext6 bewertungen4 kanal oszilloskop mit 250 mhz bandbreite, 1,25 gsa/s abtastrate, 12 bit ad wandler, 50 mpts speichertiefe und einem 17,8 cm touchdisplay mit einer auflã¶sung von 1024x600 pixel. inkl. 1 kanal funktionsgenerator mit 25 mhz bandbreite. serielle dekoder fã¼r iâ²c, spi, rs232/uart, can und lin sind bereits enthalten!oszilloskopmax. capture rate30 kwfms/sanaloge kanã¤le4 bandbreite250 mhzabtastrate1.25 gsa/sspeicher50 mptsa/d wandler12 bitbildschirmgrã¶ãe17.8 cmbatterieoptionfunktionsgeneratorlogik analysertouchbedienungserielle protokollecaniâ²clinspiuart (rs232/422/485)rigol dho924s lieferumfang×zubehã¶r4x rigol pvp23501x netzkabelschließenrigol dho924s downloads×anleitungdho900 anleitungsprache: englischrigol dho800/900 scpi programmieranleitungdatenblattdho900 datenblattsprache: englischfirmwaredho 800 / 900 firmware-updatesprache: deutsch, englisch, chinesischversion: v00.01.02.00.02leitfadendho900 schnellstartanleitungsprache: englischschließenlieferumfangdownloads3 jahre garantienr.: dho924sversandkostenfrei in alle eu länder! zzgl. versand außerhalb der euauf lager€ 799,-netto€ 950,81inkl. mwst.nutzen sie unserebestpreis-garantie
+batronix magnova bmo350-ncpreviousnext3 bewertungen4 kanal oszilloskop mit 350 mhz bandbreite, 1,6 gsa/s abtastrate, 12 bit a/d wandlern, 320 mpts speichertiefe und 39,6 cm touchdisplay mit full-hd auflã¶sung (1920x1080 pixel). aufrã¼stbar zum mso mit 16 kanal logik analysator, 1 kanal 90 mhz funktionsgenerator.oszilloskopmax. capture rate300 kwfms/sanaloge kanã¤le4 bandbreite350 mhzabtastrate1.6 gsa/sspeicher320 mptsa/d wandler12 bitbildschirmgrã¶ãe39.6 cmfunktionsgeneratorlautlos/lã¼fterloslogik analysertouchbedienungserielle protokollecancan fdiâ²clinspiuart (rs232/422/485)vergã¼nstigte nc-variante nur fã¼r private und bildungszwecke.batronix magnova bmo350-nc lieferumfang×zubehã¶r4x testec tt-hf-612ra1x netzkabel1x winkelschraubendreherschließenbatronix magnova bmo350-nc downloads×anleitungmagnova benutzerhandbuchsprache: deutschversion: 1.0magnova benutzerhandbuchsprache: englischversion: 1.0magnova scpi-benutzerhandbuchsprache: englischversion: 0.1datenblattmagnova datenblattsprache: englischversion: 1.01firmwaremagnova changelogsprache: englischproduktinformationmagnova produktbroschã¼resprache: deutschmagnova produktbroschã¼resprache: englischschließenlieferumfangdownloads5 jahre garantienr.: bmo350-ncean: 04255777500086versandkostenfrei in alle eu länder! zzgl. versand außerhalb der euauf lager€ 5.353,81 16% sparen€ 3.749,-netto€ 4.461,31inkl. mwst.nutzen sie unserebestpreis-garantie        filter4 von 4 artikelreset   ×       sortierung   ▲ position ▼ position ▲ name ▼ name ▲ preis ▼ preis ▲ hersteller ▼ hersteller ▲ verfã¼gbarkeit ▼ verfã¼gbarkeit   ▲ max. capture rate ▼ max. capture rate ▲ analoge kanã¤le ▼ analoge kanã¤le ▲ bandbreite ▼ bandbreite ▲ abtastrate ▼ abtastrate        allgemein   preis    150 â¬ 200 â¬ 800 â¬ 850 â¬ 950 â¬ 1000 â¬ 4000 â¬ 4500 â¬   -   150 â¬ 200 â¬ 800 â¬ 850 â¬ 950 â¬ 1000 â¬ 4000 â¬ 4500 â¬      artikelgruppe     oszilloskop (4)      hersteller     batronix (1)      pico technology (1)      rigol (1)      siglent (1)        oszilloskop   max. capture rate    2 kwfms/s 30 kwfms/s 300 kwfms/s 500 kwfms/s   -   2 kwfms/s 30 kwfms/s 300 kwfms/s 500 kwfms/s      analoge kanã¤le     2 (1)      4 (3)      bandbreite    10 mhz 200 mhz 250 mhz 350 mhz   -   10 mhz 200 mhz 250 mhz 350 mhz      abtastrate    100 msa/s 1.25 gsa/s 1.6 gsa/s 2 gsa/s   -   100 msa/s 1.25 gsa/s 1.6 gsa/s 2 gsa/s      speicher    8 kpts 50 mpts 100 mpts 320 mpts   -   8 kpts 50 mpts 100 mpts 320 mpts      a/d wandler    8 bit 12 bit   -   8 bit 12 bit      bildschirmgrã¶ãe    0 cm 17.8 cm 39.6 cm   -   0 cm 17.8 cm 39.6 cm      eigenschaften     batterieoption (1)      funktionsgenerator (4)      lautlos/lã¼fterlos (2)      logik analyser (3)      pc oszilloskop (1)      touchbedienung (3)        serielle protokolle   eigenschaften     100base-t1 (1)      1-wire (1)      arinc 429 (1)      can (4)      can fd (2)      dali (1)      dcc (1)      dmx512 (1)      ethernet (1)      flexray (1)      iâ²c (4)      i2s (1)      lin (4)      manchester/nrz (1)      mil-std-1553 (1)      modbus (1)      ps/2 (1)      sent (1)      spi (4)      uart (rs232/422/485) (4)      usb 1 (1)                bestpreis-garantie  ×   sollten sie ein identisches produkt woanders günstiger bekommen, bieten wir ihnen dieses gerne zum gleichen preis an und sie erhalten den batronix service dazu.senden sie uns das schriftliche angebot des anbieters oder die webseite, auf der das produkt günstiger angeboten wird, um von dieser garantie zu profitieren.die bestpreis-garantie gilt nicht für angebote aus restposten- oder lagerüberbeständen sowie für angebote aus ländern außerhalb der eu.  schließen     willkommen bei batronix! batronix ist ihr zuverlã¤ssiger partner fã¼r messgerã¤te, lã¶ttechnik, programmiertechnik und zubehã¶r. als hersteller und zugleich offizieller distributor fã¼hrender marken bieten wir nicht nur hochwertige produkte, sondern auch erstklassigen service und kompetente technische beratung. profitieren sie von innovativen lã¶sungen aus einer hand, kombiniert mit exzellentem service, besten konditionen und schnellen lieferzeiten.           warum sie batronix wählen sollten bestpreisgarantie: sollten sie ein identisches produkt woanders gã¼nstiger erhalten, bieten wir es ihnen gerne zum gleichen preis an. 30-tã¤giges rã¼ckgaberecht: alle kunden (auch gewerbliche) kã¶nnen unser 30-tã¤giges rã¼ckgaberecht nutzen. kompetente beratung: unser supportteam kennt sich mit den produkten aus, hat viele davon im direkten zugriff und nutzt diese selbst gerne. bester service: ihre zufriedenheit ist uns besonders wichtig, ã¼berzeugen sie sich mit einem blick in unsere bewertungen. schneller & klimaneutraler versand: wã¤hlen sie zwischen dhl gogreen und ups carbon neutral. kostenloser versand in alle eu-lã¤nder ab 200 euro warenwert. komfortable bezahlarten: bezahlung auf rechnung auch fã¼r neukunden (bonitã¤t vorausgesetzt), vorabã¼berweisung (mit 1 % skonto), paypal, kreditkarte, sofortã¼berweisung, ... beste referenzen: wir konnten bereits ã¼ber 70.000 kunden in 150 lã¤ndern begeistern. details zu den obigen punkten              umweltschutz und nachhaltigkeitfã¼r eine lebenswerte zukunft - fã¼r unsere kinder und uns  wir versenden klimaneutral mit dhl gogreen und ups carbon neutral. wir nutzen umweltfreundliche und nachhaltige verpackungsmaterialien. wir nutzen 100 % ãkostrom von green planet energy. wir nutzen 100 % ãkogas von green planet energy. wir streben ein klimaneutrales wirtschaften an. wir sind nach din iso 14001:2015 zertifiziert (umweltmanagement-zertifizierung). mehr informationen        
+
+
+
+
+
+
+
+
+
+
+kontakt / support
+vertrieb & allgemeines04342 90786-004342 90786-90service@batronix.comtechnischer support04342 90786-20onlineonline ticketfacebookinstagramdownloads
+
+
+über batronix
+
+das team
+firmengeschichte
+karriere
+iso 9001
+iso 14001
+referenzen
+batterieverordnung
+
+anschrift
+batronix gmbh & co. kg handelsweg 16 24211 preetz deutschland
+
+
+warum batronix
+
+bestpreis-garantie
+30-tã¤giges rã¼ckgaberecht
+kompetente beratung
+exzellenter service
+klimaneutraler versand
+kostenloser versand
+komfortable bezahlarten
+beste referenzen
+
+
+
+sichere bezahlarten
+rechnungvorkassepaypalkreditkarte
+versand
+
+versandkosten & versandzeit
+
+wir liefern mit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2025 batronix gmbh & co. kg
+
+agb
+
+
+datenschutz
+
+
+impressum
+
+
+
+
+
+
+
+
+
+
+
+information
+
+×
+
+
+sehr geehrte kundin, sehr geehrter kunde, aufgrund von aktuellen rechtlichen gegebenheiten kã¶nnen wir bestellungen in ihr gewã¤hltes lieferland erst im nã¤chsten jahr wieder annehmen (informationen zur umsatzsteuerregelung in der eu). wenn sie es wã¼nschen, kã¶nnen sie die dennoch gerne angebotsanfragen an unser vertriebsteam ã¼bermitteln oder ihre bestellung im nã¤chsten jahr aufgeben. melden sie sich gerne auch direkt per e-mail (service@batronix.com) an uns. verwenden sie ab dem 01.01.2021 den gutscheincode "batronix2021", um einen rabatt von 10% auf ihre erste bestellung zu erhalten. die aktion endet am 10.01.2021. wir freuen uns auf ihre bestellungen im nã¤chsten jahr!
+
+schließen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

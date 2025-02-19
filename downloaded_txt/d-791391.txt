@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+
+
+ eyes-on-the-skies.org - solar robotic telescope observatory 
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome to eyes-on-the-skies.org a robotic solar
+telescope 
+brought to you in part by the trivalleystargazers.org. 
+test new web pages
+
+
+
+
+
+
+
+
+
+
+also tried ustream eots solar robotic telescope 
+stockton
+astronomical society june 10 2010 talk. 
+eruptive prominence (disparition brusque) movie. the 2004/01/21
+large prominence on the west limb erupted. 
+this is the home of the internet-accessible robotic solar telescope, built
+by tri-valley stargazers member mike rushford. yes you can control your h-alpha filtered view
+of the
+sun by controlling this telescope from your web browser on sunny days in
+livermore california, usa. clear sky clock for del
+valle at other times there are other things to do too! read about the
+latest solar physics findings a the stanford
+solar center study sunspots
+and the solar
+cycle prediction. 
+first check the local san
+francisco bay weather forecast or this
+livermore weather forecast. 
+check this visible light satalite view for clouds over
+livermore california. 
+and check the local llnl 48
+hour weather plots 
+this solar observatory is open only if its sunny here in livermore california,
+usa. 
+
+be sure to press the reload on your browser frequently. these files are updated
+automatically, but your browser doesn't know that. 
+get straight to the live telescope controls by pressing on either of the next
+two images. 
+if you can run java then try, zoomed
+in view of the sun. pops up in a new window, takes a few seconds to start working.
+
+also follow
+the live full disk image of the sun,. 
+also follow
+the live west limb prominence patrol image. 
+also follow
+the live east limb prominence protrol image. 
+try to "get" the image with javacam-bestsun
+if you enabled java in your browser, be patient it take up to 30 seconds to
+load. 
+
+
+
+solar x-rays:
+  
+
+geomagnetic field: 
+
+
+
+
+
+
+
+
+
+
+>
+
+
+
+
+
+
+ 
+
+
+
+from n3kl.org
+movie of scope moving during a
+day of observing. 
+here is the link to the telescope control web pages that are served to you
+by a linux system that i call eyes
+on the skies. 
+here is the most current image taken. its only updated when interesting
+events are taking place. 
+
+
+
+to see if this
+current image is being updated you can try viewing via server push. 
+the mees solar observatory has today's active region
+maps. 
+the http://www.raben.com/maps/ active
+region maps. 
+
+there are a lot more links on this
+web site. 
+thu jul 13 02:57:24 gmt 2006 
+comparison of the sun's apparent size on our orbit far
+(aphelion) and near (perihelion) points. 
+weird
+sunset 
+monday evening june 10th, the partial eclipse was recorded.
+watch for aurora! 
+http://www.sec.noaa.gov/rpc/costello/pkp_15m_24h.html
+http://www.sel.noaa.gov/ace/mag_swepam_24h.html
+http://www.sec.noaa.gov/swn/
+please report observations of auroral activity to: http://solar.spacew.com/www/auroras.html
+
+the spd web site can be found at http://umbra.nascom.nasa.gov/aas_spd
+. the html version of solarnews is at http://www.gong.noao.edu/solarnews .
+
+global high-resolution h-alpha
+network 
+big storm intervals in solar
+cycles 
+sunspot links, showing the noaa active region numbers: http://sohowww.nascom.nasa.gov/sunspots/
+
+http://www.bbso.njit.edu/arm/latest/wl_fd.htm
+
+http://www.solar.ifa.hawaii.edu/armaps/today/latest.gif
+
+nasa science news for january 18, 2002 evidence is mounting that some solar
+cycles are doubled-peaked. the ongoing solar maximum may itself be a double --
+and the second peak has arrived. full story at http://science.nasa.gov/headlines/y2002/18jan_solarback.htm?list460638
+
+space weather now 
+
+solar highlights at solcomhouse
+
+
+solar flare
+highlights eruption jun 6 2000 
+
+solar
+flare highlights eruption nov 24 2000 movie composed of full disk and zoom on
+the flare. 
+lets help these guys find a place for a solar
+observatory on the moon 
+
+
+
+
+
+
+
+
+
+
+astronomy &
+      space ring 
+
+
+
+
+[ join
+      now | ring hub | random | << prev | next >> ] 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+a stronomy web ring
+      
+
+
+
+
+[ join now | ring hub | random | << prev | next >> ] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this is an astronomylinks.com recommended site.
+
+please
+visit this astronomylinks.com
+
+
+tell a friend about our site!
+
+
+
+
+
+
+
+
+
+
+apml webring
+
+
+
+
+
+previous
+
+
+
+next
+
+
+
+
+
+
+join ring - 
+                                        
+ringmaster
+
+
+
+
+
+
+
+
+            click to subscribe to observatories
+
+
+
+
+
+please click on this logo to participate.
+
+dn eyes
+ -
+your online resource for eyes!
+
+
+

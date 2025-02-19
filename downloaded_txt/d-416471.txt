@@ -1,0 +1,4567 @@
+
+
+
+
+affordable broadcast, production, post, proav solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aja home page
+
+
+
+products
+
+
+
+mini-converters
+
+
+
+family page
+
+
+infrastructure
+
+
+
+family page
+
+
+12gm
+
+
+fs-mini
+
+
+gen10
+
+
+12g-am
+
+
+3g-am
+
+
+12g-ama
+
+
+3g-ama
+
+
+12gda
+
+
+3gda
+
+
+hd5da
+
+
+ada4
+
+
+c10da
+
+
+
+
+hdmi converters
+
+
+
+family page
+
+
+hi5-12g
+
+
+hi5-4k-plus
+
+
+hi5-plus
+
+
+hi5-fiber
+
+
+ha5-12g
+
+
+ha5-4k
+
+
+ha5-plus
+
+
+ha5-fiber
+
+
+
+
+fiber converters
+
+
+
+family page
+
+
+lc single mode 12g
+
+
+
+family page
+
+
+12g-am-tr
+
+
+12g-am-t
+
+
+12g-am-r
+
+
+12g-ama-tr
+
+
+12g-ama-t
+
+
+12g-ama-r
+
+
+hi5-12g-tr
+
+
+ha5-12g-t
+
+
+hi5-12g-r
+
+
+fido-tr-12g
+
+
+fido-2t-12g
+
+
+fido-2r-12g
+
+
+fido-t-12g
+
+
+fido-r-12g
+
+
+
+
+st single mode 12g
+
+
+
+family page
+
+
+12g-am-t-st
+
+
+12g-am-r-st
+
+
+12g-ama-t-st
+
+
+12g-ama-r-st
+
+
+hi5-12g-r-st
+
+
+ha5-12g-t-st
+
+
+fido-t-12g-st
+
+
+fido-r-12g-st
+
+
+
+
+lc single mode 3g
+
+
+
+family page
+
+
+fido-4t
+
+
+fido-4r
+
+
+fido-2t
+
+
+fido-2r
+
+
+fido-tr
+
+
+fido-t
+
+
+fido-r
+
+
+hi5-fiber
+
+
+ha5-fiber
+
+
+
+
+lc multi-mode 3g
+
+
+
+family page
+
+
+fido-4t-mm
+
+
+fido-4r-mm
+
+
+fido-2t-mm
+
+
+fido-2r-mm
+
+
+fido-tr-mm
+
+
+fido-t-mm
+
+
+fido-r-mm
+
+
+
+
+hdmi single mode
+
+
+
+family page
+
+
+hi5-12g-tr
+
+
+ha5-12g-t
+
+
+ha5-12g-t-st
+
+
+hi5-12g-r
+
+
+hi5-12g-r-st
+
+
+hi5-fiber
+
+
+ha5-fiber
+
+
+
+
+st single mode 3g
+
+
+
+family page
+
+
+fido-4t-st
+
+
+fido-4r-st
+
+
+fido-t-st
+
+
+fido-r-st
+
+
+
+
+sc single mode 3g
+
+
+
+family page
+
+
+fido-t-sc
+
+
+fido-r-sc
+
+
+
+
+
+
+scan converters
+
+
+
+family page
+
+
+roi-hdmi
+
+
+roi-sdi
+
+
+roi-dvi
+
+
+roi-dp
+
+
+
+
+scaling converters
+
+
+
+family page
+
+
+udc
+
+
+hdp3
+
+
+
+
+ip converters
+
+
+
+family page
+
+
+dante av 4k-t
+
+
+dante av 4k-r
+
+
+ipt-10g2-hdmi
+
+
+ipt-10g2-sdi
+
+
+ipr-10g2-hdmi
+
+
+ipr-10g2-sdi
+
+
+
+
+analog converters
+
+
+
+family page
+
+
+v2digital™
+
+
+v2analog™
+
+
+
+
+accessories
+
+
+
+
+digital recorders
+
+
+
+family page
+
+
+ki pro ultra 12g
+
+
+ki pro go2
+
+
+ki pro rack
+
+
+
+
+mobile i/o
+
+
+
+family page
+
+
+io 4k plus
+
+
+io x3
+
+
+t-tap® pro
+
+
+u-tap sdi
+
+
+u-tap hdmi
+
+
+
+
+desktop i/o
+
+
+
+family page
+
+
+kona ip25
+
+
+kona x
+
+
+kona 5
+
+
+kona 4
+
+
+kona hdmi
+
+
+kona lhi
+
+
+kona 1
+
+
+kona lhe plus
+
+
+
+
+color
+
+
+
+family page
+
+
+colorbox
+
+
+og-colorbox
+
+
+fs-hdr
+
+
+hdr image analyzer 12g
+
+
+
+
+streaming
+
+
+
+family page
+
+
+bridge live
+
+
+helo plus
+
+
+u-tap hdmi
+
+
+u-tap sdi
+
+
+io 4k plus
+
+
+io x3
+
+
+
+
+aja diskover me
+
+
+ip video
+
+
+
+family page
+
+
+kona ip25
+
+
+bridge ndi® 3g
+
+
+bridge live
+
+
+dante av 4k-t
+
+
+dante av 4k-r
+
+
+ipt-10g2-hdmi
+
+
+ipt-10g2-sdi
+
+
+ipr-10g2-hdmi
+
+
+ipr-10g2-sdi
+
+
+
+
+frame sync
+
+
+
+family page
+
+
+fs-hdr
+
+
+fs4
+
+
+fs2
+
+
+fs1-x
+
+
+og-fs-mini
+
+
+fs-mini
+
+
+
+
+opengear
+
+
+
+family page
+
+
+og-colorbox
+
+
+og-x-fr
+
+
+og-dante-12gam
+
+
+opengear infrastructure
+
+
+
+family page
+
+
+og-c10da
+
+
+og-12gm
+
+
+og-fs-mini
+
+
+og-12gda-2x4
+
+
+og-3gda-2x4
+
+
+og-3gda-1x9
+
+
+og-12g-am
+
+
+og-12g-ama
+
+
+og-3g-ama
+
+
+og-3g-amd
+
+
+
+
+opengear hdmi
+
+
+
+family page
+
+
+og-hi5-12g
+
+
+og-ha5-12g
+
+
+og-hi5-4k-plus
+
+
+og-ha5-4k
+
+
+
+
+opengear scan converters
+
+
+
+family page
+
+
+og-roi-hdmi
+
+
+og-roi-sdi
+
+
+og-roi-dvi
+
+
+
+
+opengear scaling converters
+
+
+
+family page
+
+
+og-udc
+
+
+
+
+opengear fiber converters
+
+
+
+family page
+
+
+opengear lc single mode 12g
+
+
+
+family page
+
+
+og-fido-tr-12g
+
+
+og-fido-2t-12g
+
+
+og-fido-2r-12g
+
+
+
+
+opengear st single mode 12g
+
+
+
+family page
+
+
+og-fido-t-12g-st
+
+
+og-fido-r-12g-st
+
+
+
+
+opengear lc single mode 3g
+
+
+
+family page
+
+
+og-fido-tr
+
+
+og-fido-2t
+
+
+og-fido-2r
+
+
+og-fido-t
+
+
+og-fido-r
+
+
+
+
+opengear lc multi-mode 3g
+
+
+
+family page
+
+
+og-fido-tr-mm
+
+
+og-fido-2t-mm
+
+
+og-fido-2r-mm
+
+
+og-fido-t-mm
+
+
+og-fido-r-mm
+
+
+
+
+
+
+
+
+routers
+
+
+
+family page
+
+
+kumo cp
+
+
+kumo cp2
+
+
+kumo 1616-12g
+
+
+kumo 3232-12g
+
+
+kumo 1616
+
+
+kumo 3232
+
+
+kumo 6464
+
+
+
+
+recording media
+
+
+
+family page
+
+
+kistor
+
+
+pak
+
+
+
+
+developer
+
+
+
+family page
+
+
+t-tap® pro
+
+
+io x3
+
+
+io 4k plus
+
+
+corvid 88
+
+
+corvid 44 12g
+
+
+corvid 44 12g bnc
+
+
+corvid 44
+
+
+corvid 44 bnc
+
+
+kona ip25
+
+
+kona 5
+
+
+kona 4
+
+
+kona hdmi
+
+
+kona lhi
+
+
+kona 1
+
+
+kona x
+
+
+kona xm
+
+
+kona lhe plus
+
+
+
+
+software
+
+
+
+family page
+
+
+aja control room™
+
+
+aja data calc
+
+
+aja emini-setup
+
+
+mini-config software
+
+
+aja mini-matrix
+
+
+aja system test
+
+
+
+
+
+
+solutions
+
+
+
+remote
+
+
+streaming
+
+
+12g-sdi
+
+
+hdr
+
+
+8k
+
+
+fiber
+
+
+thunderbolt™
+
+
+closed captions
+
+
+
+
+news
+
+
+
+what's new
+
+
+customer stories
+
+
+events
+
+
+product news
+
+
+
+
+support
+
+
+
+downloads
+
+
+contact support
+
+
+register product
+
+
+additional resources
+
+
+
+
+company
+
+
+
+about aja
+
+
+open positions
+
+
+internships
+
+
+press images
+
+
+contact us
+
+
+reseller area
+
+
+
+
+where to buy
+
+
+
+
+
+where to buy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+brochures
+what's new
+
+
+
+
+
+
+mini-converters
+
+
+
+
+
+digital recorders
+
+
+
+
+
+mobile i/o
+
+
+
+
+
+desktop i/o
+
+
+
+
+
+color
+
+
+
+
+
+streaming
+
+
+
+
+
+aja diskover me
+
+
+
+
+
+ip video
+
+
+
+
+
+frame sync
+
+
+
+
+
+opengear
+
+
+
+
+
+routers
+
+
+
+
+
+recording media
+
+
+
+
+
+developer
+
+
+
+
+
+software
+
+
+
+
+
+
+
+
+
+
+
+mini-converters
+aja's mini-converters are well known worldwide for their reliability, robustness and power across a range of conversion needs. select the appropriate category for your in field or studio needs.
+
+about mini-converters »
+
+
+converter brochure »
+
+
+aja mini-config »
+
+
+sfp configurator »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+infrastructure
+
+
+
+
+
+
+
+hdmi converters
+
+
+
+
+
+
+
+fiber converters
+
+
+
+
+
+
+
+scan converters
+
+
+
+ 
+
+
+
+scaling converters
+
+
+
+
+
+
+
+ip converters
+
+
+
+
+
+
+
+analog converters
+
+
+
+
+
+
+
+accessories
+cabling, mountingand power options
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+digital recorders
+the ki pro family of digital file recorders and players cover a range of raster, codec and connectivity needs in different formats suited for the field, equipment rack or facility.
+
+about digital recorders »
+
+
+datacalc »
+
+
+recording media »
+
+
+sfp configurator »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+ki pro ultra 12g
+12g-sdi 4k/uhd/hd recorder and player
+                                                                            
+
+
+
+
+
+
+ki pro go2
+multi-channel h.265 (hevc)* and h.264 (avc) recorder
+                                                                            
+
+
+
+
+
+
+ki pro rack
+hd/sd prores and dnxhd recorder/player
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+mobile i/o
+explore aja’s solutions for editing, color correction, streaming and much more in the field or flexible facility environments with the io and t-tap products.
+
+about mobile i/o »
+
+
+i/o compatibility chart »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+io 4k plus
+thunderbolt 3/4: 4k/ultrahd/hd/sd i/o w/ 12g-sdi and hdmi 2.0
+                                                                            
+
+
+
+
+
+
+io x3
+thunderbolt 3/4: 2k/hd/sd i/o w/ 3g-sdi, hdmi
+                                                                            
+
+
+
+
+
+
+t-tap® pro
+thunderbolt 3/4: 4k/ultrahd/hd/sd 12g-sdi/hdmi 2.0 output
+                                                                            
+
+
+
+
+
+
+u-tap sdi
+hd/sd 3g-sdi captureover usb 3.0
+                                                                            
+
+
+ 
+
+
+
+u-tap hdmi
+hd/sd hdmi captureover usb 3.0
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+desktop i/o
+from composite, component, 3g-sdi, hdmi to broadcast ip, aja desktop solutions provide you the needed i/o for any given project. explore the kona desktop i/o family to learn more.
+
+about desktop i/o »
+
+
+software compatibility chart »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+kona ip25
+smpte st 2110 i/o with 25gbe tx and rx
+                                                                            
+
+
+
+
+
+
+kona x
+next generation video i/o with streaming dma
+                                                                            
+
+
+
+
+
+
+kona 5
+avanced 8k/4k/hd/sdpcie i/o card
+                                                                            
+
+
+
+
+
+
+kona 4
+4k/hd/sd 3g-sdipcie i/o card
+                                                                            
+
+
+ 
+
+
+
+kona hdmi
+multi-channel 4k/hd/sd hdmi capture card
+                                                                            
+
+
+
+
+
+
+kona lhi
+multi-format hd/sd analog and digital i/o card
+                                                                            
+
+
+
+
+
+
+kona 1
+hd/sd 3g-sdipcie i/o card
+                                                                            
+
+
+
+
+
+
+kona lhe plus
+hd/sd sdi and analogpcie i/o card
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+color
+advanced tools for managing the latest color formats in live production, on-set, post, and delivery.
+
+about color »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+colorbox
+in-line hdr algorithmicand lut color transforms
+                                                                            
+
+
+
+
+
+
+og-colorbox
+opengear in-line hdr algorithmicand lut color transforms
+                                                                            
+
+
+
+
+
+
+fs-hdr
+frame sync with advanced hdr/wcg conversions
+                                                                            
+
+
+
+
+
+
+hdr image analyzer 12g
+hdr waveform, histogram and vectorscope
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+streaming
+aja streaming solutions include standalone and modular i/o devices, supporting the latest streaming software, codecs, formats, transport protocols and delivery platforms.
+
+about streaming »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+bridge live
+low latency encode, decode, streaming, remi
+                                                                            
+
+
+
+
+
+
+helo plus
+advanced h.264 streaming and recording
+                                                                            
+
+
+
+
+
+
+u-tap hdmi
+hd/sd hdmi captureover usb 3.0
+                                                                            
+
+
+
+
+
+
+u-tap sdi
+hd/sd 3g-sdi captureover usb 3.0
+                                                                            
+
+
+ 
+
+
+
+io 4k plus
+thunderbolt 3/4: 4k/ultrahd/hd/sd i/o w/ 12g-sdi and hdmi 2.0
+                                                                            
+
+
+
+
+
+
+io x3
+thunderbolt 3/4: 2k/hd/sd i/o w/ 3g-sdi, hdmi
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+ip video
+aja offers a broad range of ip video tools, supporting st 2110, ndi, dante av, and the latest streaming formats.
+
+about ip video »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+kona ip25
+smpte st 2110 i/o with 25gbe tx and rx
+                                                                            
+
+
+
+
+
+
+bridge ndi® 3g
+high density 4k/ultrahd/hd ndi/sdi conversion gateway
+                                                                            
+
+
+
+
+
+
+bridge live
+low latency encode, decode, streaming, remi
+                                                                            
+
+
+
+
+
+
+dante av 4k-t
+12g-sdi and hdmito dante av ultra
+                                                                            
+
+
+ 
+
+
+
+dante av 4k-r
+dante av ultra to12g-sdi and hdmi
+                                                                            
+
+
+
+
+
+
+ipt-10g2-hdmi
+hdmi to smpte st 2110 video and audio
+                                                                            
+
+
+
+
+
+
+ipt-10g2-sdi
+3g-sdi to smpte st 2110 video and audio
+                                                                            
+
+
+
+
+
+
+ipr-10g2-hdmi
+smpte st 2110 video and audio to hdmi
+                                                                            
+
+
+ 
+
+
+
+ipr-10g2-sdi
+smpte st 2110 video and audio to 3g-sdi
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+frame sync
+aja’s fs range of 1ru frame synchronizers and multi-capable converters cover your needs from sd to 4k, 1 to 4 channels of hd support and advanced workflows including real time hdr transforms, with the incredible fs-hdr
+
+about frame sync »
+
+
+sfp configurator »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+fs-hdr
+frame sync with advanced hdr/wcg conversions
+                                                                            
+
+
+
+
+
+
+fs4
+4-channel 2k/hd/sd or 1-channel 4k/ultrahd frame sync
+                                                                            
+
+
+
+
+
+
+fs2
+2-channel hd/sd frame synchronizer/converter
+                                                                            
+
+
+
+
+
+
+fs1-x
+universal frame synchronizer/converter
+                                                                            
+
+
+ 
+
+
+
+og-fs-mini
+opengear 3g-sdiframe synchronizer
+                                                                            
+
+
+
+
+
+
+fs-mini
+frame synchronizermini-converter
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear
+opengear and aja rackframes and converters for convenient rack based conversion, da and fiber needs.
+
+about opengear »
+
+
+sfp configurator »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-colorbox
+opengear in-line hdr algorithmicand lut color transforms
+                                                                            
+
+
+
+
+
+
+og-x-fr
+opengear-compatible 2ru rackframe 
+                                                                            
+
+
+
+
+
+
+og-dante-12gam
+12g-sdi/dante 64-channel embedder/disembedder
+                                                                            
+
+
+
+
+
+
+opengear infrastructure
+
+
+
+ 
+
+
+
+opengear hdmi
+
+
+
+
+
+
+
+opengear scan converters
+
+
+
+
+
+
+
+opengear scaling converters
+
+
+
+
+
+
+
+opengear fiber converters
+
+
+
+
+
+
+
+
+
+
+
+
+routers
+kumo sdi routers range from 16x16 to 64x64 with convenient control and salvo recall from the kumo cp control panels.
+
+about routers »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+kumo cp
+control panel for kumo 1616 and 3232 routers
+                                                                            
+
+
+
+
+
+
+kumo cp2
+2ru control panel for all kumo routers
+                                                                            
+
+
+
+
+
+
+kumo 1616-12g
+compact 16x16 12g-sdi router
+                                                                            
+
+
+
+
+
+
+kumo 3232-12g
+compact 32x32 12g-sdi router
+                                                                            
+
+
+ 
+
+
+
+kumo 1616
+compact 16x16 3g-sdi router
+                                                                            
+
+
+
+
+
+
+kumo 3232
+compact 32x32 3g-sdi router
+                                                                            
+
+
+
+
+
+
+kumo 6464
+compact 64x64 3g-sdi router
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+recording media
+aja offers a range of ssd-based media, designed for the rigors of professional production. docks provide the latest thunderbolt and usb connectivity.
+
+about recording media »
+
+
+datacalc »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+kistor
+ssd recording media
+                                                                            
+
+
+
+
+
+
+pak
+compact ssd recording media
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+developer
+the corvid lineup of developer cards and sdk options for kona and io desktop and mobile solutions offers oem partners’ a wealth of options. explore to learn more.
+
+about developer »
+
+
+enroll now »
+
+
+sdk support »
+
+
+comparison chart »
+
+
+developer brochure »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+t-tap® pro
+thunderbolt 3/4: 4k/ultrahd/hd/sd 12g-sdi/hdmi 2.0 output
+                                                                            
+
+
+
+
+
+
+io x3
+thunderbolt 3/4: 2k/hd/sd i/o w/ 3g-sdi, hdmi
+                                                                            
+
+
+
+
+
+
+io 4k plus
+thunderbolt 3/4: 4k/ultrahd/hd/sd i/o w/ 12g-sdi and hdmi 2.0
+                                                                            
+
+
+
+
+
+
+corvid 88
+high density i/o in any format
+                                                                            
+
+
+ 
+
+
+
+corvid 44 12g
+compact 12g-sdipcie i/o card
+                                                                            
+
+
+
+
+
+
+corvid 44 12g bnc
+full-size bnc 12g-sdipcie i/o card
+                                                                            
+
+
+
+
+
+
+corvid 44
+4x bi-directional 3g-sdipcie i/o card
+                                                                            
+
+
+
+
+
+
+corvid 44 bnc
+4x bi-directional 3g-sdibnc pcie i/o card
+                                                                            
+
+
+ 
+
+
+
+kona ip25
+smpte st 2110 i/o with 25gbe tx and rx
+                                                                            
+
+
+
+
+
+
+kona 5
+avanced 8k/4k/hd/sdpcie i/o card
+                                                                            
+
+
+
+
+
+
+kona 4
+4k/hd/sd 3g-sdipcie i/o card
+                                                                            
+
+
+
+
+
+
+kona hdmi
+multi-channel 4k/hd/sd hdmi capture card
+                                                                            
+
+
+ 
+
+
+
+kona lhi
+multi-format hd/sd analog and digital i/o card
+                                                                            
+
+
+
+
+
+
+kona 1
+hd/sd 3g-sdipcie i/o card
+                                                                            
+
+
+
+
+
+
+kona x
+next generation video i/o with streaming dma
+                                                                            
+
+
+
+
+
+
+kona xm
+video i/o for ai/ar medical devices
+                                                                            
+
+
+ 
+
+
+
+kona lhe plus
+hd/sd sdi and analogpcie i/o card
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+software
+aja offers a wealth of free software for control, configuration, testing and capture and playback needs.
+
+about software »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+aja control room™
+unified ingest, playback and output software
+                                                                            
+
+
+
+
+
+
+aja data calc
+calculate file sizeand storage times
+                                                                            
+
+
+
+
+
+
+aja emini-setup
+quick and easy setupof network configuration
+                                                                            
+
+
+
+
+
+
+mini-config software
+configure and updateaja mini-converters
+                                                                            
+
+
+ 
+
+
+
+aja mini-matrix
+searchable catalogof aja converters
+                                                                            
+
+
+
+
+
+
+aja system test
+accurately test your system performance
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+infrastructure
+distribution amplifiers, muxers, demuxers, genlock, audio embedders and disembedders; all in a robust reliable form factor for your infrastructure needs.
+
+about infrastructure »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+12gm
+12g-sdi muxer/demuxer
+                                                                            
+
+
+
+
+
+
+fs-mini
+frame synchronizermini-converter
+                                                                            
+
+
+
+
+
+
+gen10
+hd/sd sync generator
+                                                                            
+
+
+
+
+
+
+12g-am
+12g-sdi 8-channel aes audio embedder/disembedder
+                                                                            
+
+
+ 
+
+
+
+3g-am
+3g-sdi 8-channel aes audio embedder/disembedder
+                                                                            
+
+
+
+
+
+
+12g-ama
+12g-sdi, 4-ch. balanced embedder/disembedder
+                                                                            
+
+
+
+
+
+
+3g-ama
+3g-sdi analog audio embedder/disembedder
+                                                                            
+
+
+
+
+
+
+12gda
+12g-sdi 1x6 distribution amplifier
+                                                                            
+
+
+ 
+
+
+
+3gda
+1x6 3g/hd/sd reclocking distribution amplifier
+                                                                            
+
+
+
+
+
+
+hd5da
+hd-sdi/sdi distribution amplifier
+                                                                            
+
+
+
+
+
+
+ada4
+4-channel bidirectional audio a/d & d/a
+                                                                            
+
+
+
+
+
+
+c10da
+analog video 1x6 distribution amplifier
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+hdmi converters
+choose ha5 mini-converters for conversion from hdmi to sdi and hi5 mini-converters for conversion from sdi to hdmi.
+
+about hdmi converters »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+hi5-12g
+12g-sdi to hdmi
+                                                                            
+
+
+
+
+
+
+hi5-4k-plus
+3g-sdi to hdmi
+                                                                            
+
+
+
+
+
+
+hi5-plus
+3g-sdi to hdmi
+                                                                            
+
+
+
+
+
+
+hi5-fiber
+3g-sdi fiber to hdmi
+                                                                            
+
+
+ 
+
+
+
+ha5-12g
+hdmi to 12g-sdi
+                                                                            
+
+
+
+
+
+
+ha5-4k
+4k hdmi to 4k 3g-sdi
+                                                                            
+
+
+
+
+
+
+ha5-plus
+hdmi to 3g-sdi
+                                                                            
+
+
+
+
+
+
+ha5-fiber
+hdmi to 3g-sdi fiber
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+fiber converters
+aja fido fiber converters expand your range all the way up to 10km with single mode. transceivers, transmitters and receivers available with sc or st connectivity and lc multi-mode or single mode options.
+
+about fiber converters »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+lc single mode 12g
+
+
+
+
+
+
+
+st single mode 12g
+
+
+
+
+
+
+
+lc single mode 3g
+
+
+
+
+
+
+
+lc multi-mode 3g
+
+
+
+ 
+
+
+
+hdmi single mode
+
+
+
+
+
+
+
+st single mode 3g
+
+
+
+
+
+
+
+sc single mode 3g
+
+
+
+
+
+
+
+
+
+
+
+
+scan converters
+scan converters for region of interest extraction from hdmi, sdi, dvi, and displayport.
+
+about scan converters »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+roi-hdmi
+hdmi to sdi with roi scaling
+                                                                            
+
+
+
+
+
+
+roi-sdi
+3g-sdi to hdmi/3g-sdi with roi scaling
+                                                                            
+
+
+
+
+
+
+roi-dvi
+dvi/hdmi to sdi with roi scaling
+                                                                            
+
+
+
+
+
+
+roi-dp
+displayport to sdi with roi scaling
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+scaling converters
+mini-converters ideally suited for up, down or cross-conversion for raster or scan conversion needs.
+
+about scaling converters »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+udc
+up/down/cross-converter with 3g-sdi and hdmi
+                                                                            
+
+
+
+
+
+
+hdp3
+3g-sdi to dvi-d and audio converter
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+ip converters
+bridge sdi or hdmi to broadcast ip and back with aja ip mini-converters
+
+about ip converters »
+
+
+aja mini-config »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+dante av 4k-t
+12g-sdi and hdmito dante av ultra
+                                                                            
+
+
+
+
+
+
+dante av 4k-r
+dante av ultra to12g-sdi and hdmi
+                                                                            
+
+
+
+
+
+
+ipt-10g2-hdmi
+hdmi to smpte st 2110 video and audio
+                                                                            
+
+
+
+
+
+
+ipt-10g2-sdi
+3g-sdi to smpte st 2110 video and audio
+                                                                            
+
+
+ 
+
+
+
+ipr-10g2-hdmi
+smpte st 2110 video and audio to hdmi
+                                                                            
+
+
+
+
+
+
+ipr-10g2-sdi
+smpte st 2110 video and audio to 3g-sdi
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+analog converters
+convert to and from digital or between analog video standards.
+
+about analog converters »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+v2digital™
+analog to hd/sd-sdi mini-converter
+                                                                            
+
+
+
+
+
+
+v2analog™
+hd/sd-sdi to analog mini-converter
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+lc single mode 12g
+ 
+
+about lc single mode 12g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+12g-am-tr
+12g-sdi input and output up to 4k/ultrahd with lc fiber transceiver
+                                                                            
+
+
+
+
+
+
+12g-am-t
+12g-sdi 8-channel aes embedder/disembedder with lc fiber tx sfp
+                                                                            
+
+
+
+
+
+
+12g-am-r
+12g-sdi 8-channel aes embedder/disembedder with lc fiber rx sfp
+                                                                            
+
+
+
+
+
+
+12g-ama-tr
+12g-sdi input and output up to 4k/ultrahd with lc fiber transceiver
+                                                                            
+
+
+ 
+
+
+
+12g-ama-t
+12g-sdi input and output up to 4k/ultrahd with lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+12g-ama-r
+12g-sdi input and output up to 4k/ultrahd with lc fiber receiver
+                                                                            
+
+
+
+
+
+
+hi5-12g-tr
+12g-sdi to hdmi 2.0 conversion with lc fiber transceiver
+                                                                            
+
+
+
+
+
+
+ha5-12g-t
+hdmi 2.0 to12g-sdi and fiber
+                                                                            
+
+
+ 
+
+
+
+hi5-12g-r
+12g-sdi to hdmi 2.0 conversion with lc fiber receiver
+                                                                            
+
+
+
+
+
+
+fido-tr-12g
+12g-sdi/lc single-modelc fiber transceiver
+                                                                            
+
+
+
+
+
+
+fido-2t-12g
+2-channel 12g-sdi to single-mode lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-2r-12g
+2-channel lc fiberto 12g-sdi receiver
+                                                                            
+
+
+ 
+
+
+
+fido-t-12g
+12g-sdi to single-modelc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-r-12g
+1-channel single-mode lc fiberto 12g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+st single mode 12g
+ 
+
+about st single mode 12g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+12g-am-t-st
+12g-sdi 8-channel aes embedder/disembedder with st fiber tx sfp
+                                                                            
+
+
+
+
+
+
+12g-am-r-st
+12g-sdi 8-channel aes embedder/disembedder with st fiber rx sfp
+                                                                            
+
+
+
+
+
+
+12g-ama-t-st
+12g-sdi input and output up to 4k/ultrahd with st fiber transmitter
+                                                                            
+
+
+
+
+
+
+12g-ama-r-st
+12g-sdi input and output up to 4k/ultrahd with st fiber receiver
+                                                                            
+
+
+ 
+
+
+
+hi5-12g-r-st
+12g-sdi to hdmi 2.0 conversion with st fiber receiver
+                                                                            
+
+
+
+
+
+
+ha5-12g-t-st
+hdmi 2.0 to12g-sdi and st fiber
+                                                                            
+
+
+
+
+
+
+fido-t-12g-st
+12g-sdi to single modest fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-r-12g-st
+single mode st fiberto 12g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+lc single mode 3g
+ 
+
+about lc single mode 3g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+fido-4t
+4-channel 3g-sdito single-mode lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-4r
+4-channel single-mode lc fiber to 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+fido-2t
+2-channel 3g-sdito single-mode lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-2r
+2-channel single mode lc fiber to 3g-sdi receiver
+                                                                            
+
+
+ 
+
+
+
+fido-tr
+3g-sdi/lc single-modelc fiber transceiver
+                                                                            
+
+
+
+
+
+
+fido-t
+3g-sdi tosingle-mode lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-r
+single-mode lc fiberto 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+hi5-fiber
+3g-sdi fiber to hdmi
+                                                                            
+
+
+ 
+
+
+
+ha5-fiber
+hdmi to 3g-sdi fiber
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+lc multi-mode 3g
+ 
+
+about lc multi-mode 3g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+fido-4t-mm
+4-channel 3g-sdi to multi-mode lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-4r-mm
+4-channel multi-modelc fiber to 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+fido-2t-mm
+2-channel 3g-sdito multi-mode lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-2r-mm
+2-channel multi-modelc fiber to 3g-sdi receiver
+                                                                            
+
+
+ 
+
+
+
+fido-tr-mm
+3g-sdi/lc multi-modelc fiber transceiver
+                                                                            
+
+
+
+
+
+
+fido-t-mm
+3g-sdi to multi-modelc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-r-mm
+multi-mode lc fiberto 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+hdmi single mode
+ 
+
+about hdmi single mode »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+hi5-12g-tr
+12g-sdi to hdmi 2.0 conversion with lc fiber transceiver
+                                                                            
+
+
+
+
+
+
+ha5-12g-t
+hdmi 2.0 to12g-sdi and fiber
+                                                                            
+
+
+
+
+
+
+ha5-12g-t-st
+hdmi 2.0 to12g-sdi and st fiber
+                                                                            
+
+
+
+
+
+
+hi5-12g-r
+12g-sdi to hdmi 2.0 conversion with lc fiber receiver
+                                                                            
+
+
+ 
+
+
+
+hi5-12g-r-st
+12g-sdi to hdmi 2.0 conversion with st fiber receiver
+                                                                            
+
+
+
+
+
+
+hi5-fiber
+3g-sdi fiber to hdmi
+                                                                            
+
+
+
+
+
+
+ha5-fiber
+hdmi to 3g-sdi fiber
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+st single mode 3g
+ 
+
+about st single mode 3g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+fido-4t-st
+4-channel 3g-sdito single-mode st fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-4r-st
+4-channel single-modest fiber to 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+fido-t-st
+3g-sdi to single-modest fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-r-st
+single-mode st fiberto 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+sc single mode 3g
+ 
+
+about sc single mode 3g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+fido-t-sc
+3g-sdi to single-modesc fiber transmitter
+                                                                            
+
+
+
+
+
+
+fido-r-sc
+single-mode sc fiberto 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear infrastructure
+opengear frame syncs, da's, and audio processing
+
+about opengear infrastructure »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-c10da
+analog video 1x9 opengear distribution amplifier
+                                                                            
+
+
+
+
+
+
+og-12gm
+12g-sdi to/from sdi muxer/demuxer
+                                                                            
+
+
+
+
+
+
+og-fs-mini
+opengear 3g-sdiframe synchronizer
+                                                                            
+
+
+
+
+
+
+og-12gda-2x4
+dual 1x4 12g-sdi distribution amplifier
+                                                                            
+
+
+ 
+
+
+
+og-3gda-2x4
+2x4 3g-sdi reclocking da
+                                                                            
+
+
+
+
+
+
+og-3gda-1x9
+1x9 3g-sdi reclocking da
+                                                                            
+
+
+
+
+
+
+og-12g-am
+12g-sdi 16-channel aes/ebuaudio embedder/disembedder
+                                                                            
+
+
+
+
+
+
+og-12g-ama
+12g-sdi analog audio embedder/disembedder
+                                                                            
+
+
+ 
+
+
+
+og-3g-ama
+3g-sdi analog audio embedder/disembedder
+                                                                            
+
+
+
+
+
+
+og-3g-amd
+3g-sdi 8-channel aes audioembedder/disembedder
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear hdmi
+hdmi to/from sdi conversions
+
+about opengear hdmi »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-hi5-12g
+4k/ultrahd 12g-sdi to hdmi 2.0 converters
+                                                                            
+
+
+
+
+
+
+og-ha5-12g
+hdmi 2.0 to 12g-sdi converters
+                                                                            
+
+
+
+
+
+
+og-hi5-4k-plus
+3g-sdi to hdmi 2.0 conversion
+                                                                            
+
+
+
+
+
+
+og-ha5-4k
+4k/ultrahd/hd/sd hdmi 2.0to 3g-sdi conversion
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear scan converters
+with region of interest scaling
+
+about opengear scan converters »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-roi-hdmi
+opengear hdmi to 3g-sdi scan converter
+                                                                            
+
+
+
+
+
+
+og-roi-sdi
+opengear 3g-sdi to 3g-sdi/hdmi scan converter
+                                                                            
+
+
+
+
+
+
+og-roi-dvi
+opengear dvi to 3g-sdi scan converter
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear scaling converters
+ 
+
+about opengear scaling converters »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-udc
+3g-sdi up, down, cross-converter
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear fiber converters
+supporting the latest sdi and fiber connectivity
+
+about opengear fiber converters »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+opengear lc single mode 12g
+
+
+
+
+
+
+
+opengear st single mode 12g
+
+
+
+
+
+
+
+opengear lc single mode 3g
+
+
+
+
+
+
+
+opengear lc multi-mode 3g
+
+
+
+
+
+
+
+
+
+
+
+
+opengear lc single mode 12g
+ 
+
+about opengear lc single mode 12g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-fido-tr-12g
+opengear 12g-sdi/lc single mode lc fiber transceiver
+                                                                            
+
+
+
+
+
+
+og-fido-2t-12g
+opengear 2-channel 12g-sdi to single-mode lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+og-fido-2r-12g
+opengear 2-channel single-mode lc fiber to 12g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear st single mode 12g
+ 
+
+about opengear st single mode 12g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-fido-t-12g-st
+12g-sdi to single modest fiber transmitter
+                                                                            
+
+
+
+
+
+
+og-fido-r-12g-st
+single mode st fiberto 12g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear lc single mode 3g
+ 
+
+about opengear lc single mode 3g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-fido-tr
+opengear 1-channel 3g-sdi/lc single mode lc fiber transceiver
+                                                                            
+
+
+
+
+
+
+og-fido-2t
+opengear 2-channel 3g-sdi to single mode lc fiber transmitter
+                                                                            
+
+
+
+
+
+
+og-fido-2r
+opengear 2-channel single mode lc fiber to 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+og-fido-t
+opengear 1-channel 3g-sdi to single mode lc fiber transmitter
+                                                                            
+
+
+ 
+
+
+
+og-fido-r
+opengear 1-channel single mode lc fiber to 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+opengear lc multi-mode 3g
+ 
+
+about opengear lc multi-mode 3g »
+
+
+
+
+
+« back
+
+
+
+
+
+
+
+og-fido-tr-mm
+opengear 1-channel 3g-sdi/lc multi-mode lc fiber transceiver
+                                                                            
+
+
+
+
+
+
+og-fido-2t-mm
+opengear 2-channel 3g-sdi to multi-mode lc fiber  transmitter
+                                                                            
+
+
+
+
+
+
+og-fido-2r-mm
+opengear 2-channel multi-mode lc fiberto 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+og-fido-t-mm
+opengear 1-channel 3g-sdi to multi-mode lc fiber transmitter
+                                                                            
+
+
+ 
+
+
+
+og-fido-r-mm
+opengear 1-channel multi-mode lc fiber to 3g-sdi receiver
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+view all
+                        solutions
+
+
+
+
+
+remote solutions
+
+
+
+streaming solutions
+
+
+
+12g-sdi solutions
+
+
+
+hdr solutions
+
+
+
+
+
+fiber solutions
+
+
+
+thunderbolt™
+                        solutions
+
+
+
+8k solutions
+
+
+
+closed captions
+
+
+
+
+
+
+
+
+
+
+
+what's new
+the latest press releases on the most exciting product releases and top news stories from aja.
+
+
+
+
+
+events
+stop by regularly to see what aja is up to around the world and join us when possible!
+
+
+
+
+
+customer stories
+our users are putting aja solutions to work in exciting and innovative ways.
+
+
+
+
+
+
+
+
+
+downloads
+download the latest firmware, software, manuals and more to keep current with the latest releases from aja.
+
+
+
+contact support
+aja is dedicated to ensuring your success with our products. technical support is available free of
+                    charge and our team will work with you to help answer questions or resolve any issues.
+
+
+
+register product
+if you have an aja product, please register on this page. having your registration on file helps us
+                    provide quality technical support and communication.
+
+
+
+additional resources
+third-party support information and downloads.
+
+
+
+
+
+
+
+
+
+about aja
+learn more about aja’s history and leadership in the video and broadcast space.
+
+
+
+open positions
+join the team at aja
+
+
+
+press images
+images and logos for all products suitable for print and more.
+
+
+
+contact us
+reach aja via phone, email and fax.
+
+reseller area »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kona ip25
+
+25gbe i/o for the latest ip video workflows
+
+
+
+
+
+
+
+
+opengear colorbox
+
+the best color transforms, now in opengear
+
+
+
+
+
+
+
+
+opengear c10da
+
+opengear 1x9 analog distribution amp
+
+
+
+
+
+
+
+
+ki pro go2
+
+introducing the most advanced h.265 and h.264 recorder
+
+
+
+
+
+
+
+
+kona x
+
+next generation video i/o with streaming dma for ultra-low latency
+
+
+
+
+
+previous
+
+
+
+next
+
+
+
+
+
+
+
+what's new
+
+
+
+
+
+
+
+
+
+
+kona ip25
+
+                        smpte st 2110 i/o with 25gbe tx and rx
+                    
+
+
+
+
+
+
+
+
+og-colorbox
+
+                        opengear in-line hdr algorithmic and lut color transforms
+                    
+
+
+
+
+
+
+
+
+aja diskover media edition
+
+                        exciting new plug-ins and v2.3 software
+                    
+
+
+
+
+
+
+
+
+subscribe for updates
+
+                        stay up to date on aja news and our latest updates
+                    
+
+
+
+
+
+view all
+
+
+
+
+
+
+
+solutions from aja
+
+
+
+
+
+
+
+
+
+
+remote solutions
+
+
+                            as we move slowly towards a post-covid world, methods of production have evolved to offer safety on set. aja offer products that technology to create safer, remote workflows.
+                        
+
+
+
+
+
+
+
+
+
+
+streaming solutions
+
+
+                            media professionals in every industry are looking for streaming solutions to reach their audience. check out aja’s proven options for your streaming needs.
+                        
+
+
+
+
+
+
+
+
+
+
+12g-sdi solutions
+
+
+                            aja offers a range of solutions for 12g-sdi single cable simplicity. explore solutions for editing, routing, distributing, and muxing/demuxing to 3g-sdi.
+                        
+
+
+
+
+
+
+
+
+
+
+hdr solutions
+
+
+                            hdr offers a rich world of deep color and extended dynamic range. discover solutions for realtime conversion, playback, monitoring, and analysis.
+                        
+
+
+
+
+
+
+view all
+
+
+
+
+
+
+
+
+customer stories
+
+
+
+
+
+
+
+
+                    january 30, 2025
+                
+
+camera corps on the digital glue that streamlines live hdr sports production
+
+
+                    high dynamic range (hdr) has reimagined the sports fan experience, allowing broadcasters and ott providers to deliver live sporting event coverage with truer to life colors. 
+                    [read the full story]
+                
+
+
+
+
+
+december 10, 2024
+
+cromorama on solving modern live hdr and quality control production challenges 
+
+
+
+
+december 5, 2024
+
+fifty frames (gmbh) on pioneering next-generation live event productions
+
+
+
+
+
+
+
+december 10, 2024
+
+cromorama on solving modern live hdr and quality control production challenges 
+
+
+
+
+
+
+december 5, 2024
+
+fifty frames (gmbh) on pioneering next-generation live event productions
+
+
+
+
+
+
+view all
+
+
+
+
+
+
+
+
+
+stay connected and follow us
+
+
+
+
+
+                    follow us for the latest updates
+                
+
+                    join us on these social media platforms to see the latest news and products from aja
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+                    stay connected
+                
+
+                    sign up to stay informed of our upcoming product releases and other information.
+                
+
+
+subscribe
+privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+solutions
+remote
+streaming
+12g-sdi
+hdr
+fiber
+thunderbolt
+8k
+
+
+
+
+news
+what's new
+events
+customer stories
+rss
+support
+contact support
+register product
+additional resources
+
+
+
+
+where to buy
+company
+press images
+careers
+contact us
+reseller area
+
+
+
+
+sign up for our email list
+
+
+                        want to learn more from aja about new product announcements, updates, support items and more?
+                        visit our opt in page to choose all or just the information you need!
+                    
+
+                        aja values your privacy – please read our privacy policy.
+                    
+
+subscribe
+privacy policy
+
+
+
+
+contact us
+
+                            aja video systems, inc.
+                            180 litton drive
+                            grass valley, ca 95945
+                            phone: +1-530-274-2048
+                            fax: +1-530-274-9442
+                        
+
+
+
+
+
+
+
+
+
+deutsch
+français
+español
+português brasileiro
+русский
+日本語
+中文
+한국어
+
+
+
+
+
+                    copyright © 2025 aja video systems, inc.
+                    cookie consent
+privacy policy
+terms of sale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this site may not work without scripts enabled.
+
+
+
+

@@ -1,0 +1,913 @@
+
+
+
+gluten-free girl and the chef
+
+
+
+
+
+
+
+
+
+
+
+
+this page
+has been moved to new address
+gluten-free girl and the chef
+sorry for inconvenience... 
+redirection provided by blogger to wordpress migration service
+
+
+
+
+
+	/* primary layout */
+
+body	{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-align: left;
+	color: #554;
+	background: #692 url(http://www.blogblog.com/moto_son/outerwrap.gif) top center repeat-y;
+	font: trebuchet;serif
+	}
+
+img		{
+	border: 0;
+	display: block;
+	}
+
+
+	/* wrapper */
+
+#wrapper	{
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+	width: 692px;
+	text-align: seft;
+	background: #fff url(http://www.blogblog.com/moto_son/innerwrap.gif) top right repeat-y;
+	font-size:80%;
+	}
+	
+	/* header */
+
+#blog-header	{
+	color: #ffe;
+	background: #8b2 url(http://www.blogblog.com/moto_son/headbotborder.gif) bottom left repeat-x;
+	margin: 0 auto;
+	padding: 0 0 15px 0;
+	border: 0;
+	}
+
+#blog-header h1	{
+	font-size: 24px;
+	text-align: left;
+	padding: 15px 20px 0 20px;
+	margin: 0;
+	background-image: url(http://www.blogblog.com/moto_son/topper.gif);
+	background-repeat: repeat-x;
+	background-position: top left;
+	}
+	
+#blog-header p	{
+	font-size: 110%;
+	text-align: left;
+	padding: 3px 20px 10px 20px;
+	margin: 0;
+	line-height:140%;
+	}
+
+	
+	/* inner layout */
+
+#content	{
+	padding: 0 20px;
+	}
+	
+#main	{
+	width: 400px;
+	float: left;
+	}
+
+#sidebar	{
+	width: 226px;
+  float: right;
+	}
+	
+	/* bottom layout */
+
+
+blogroll me!
+
+
+
+
+#footer	{
+	clear: left;
+	margin: 0;
+	padding: 0 20px;
+	border: 0;
+	text-align: left;
+	border-top: 1px solid #f9f9f9;
+	background-color: #fdfdfd;
+	}
+	
+#footer p	{
+	text-align: left;
+	margin: 0;
+	padding: 10px 0;
+	font-size: x-small;
+	background-color: transparent;
+	color: #999;
+	}
+
+
+	/* default links 	*/
+
+a:link, a:visited {
+	font-weight : bold; 
+	text-decoration : none;
+	color: #692;
+	background: transparent; 
+	}
+
+a:hover {
+	font-weight : bold; 
+	text-decoration : underline;
+	color: #8b2;
+	background: transparent; 
+	}
+
+a:active {
+	font-weight : bold; 
+	text-decoration : none;
+	color: #692;
+	background: transparent;  
+	}
+
+	
+	/* typography */
+	
+#main p, #sidebar p {
+	line-height: 140%;
+	margin-top: 5px;
+	margin-bottom: 1em;
+	}
+  
+.post-body {
+  line-height: 140%;
+  } 
+
+h2, h3, h4, h5	{
+	margin: 25px 0 0 0;
+	padding: 0;
+	}
+
+h2	{
+	font-size: large;
+	}
+
+h3.post-title {
+	margin-top: 5px;
+	font-size: medium;
+	}
+
+ul	{
+	margin: 0 0 25px 0;
+	}
+
+
+li	{
+	line-height: 160%;
+	}
+
+#sidebar ul 	{
+	padding-left: 10px;
+	padding-top: 3px;
+	}
+
+#sidebar ul li {
+	list-style: disc url(http://www.blogblog.com/moto_son/diamond.gif) inside;
+	vertical-align: top;
+	padding: 0;
+	margin: 0;
+	}
+	
+dl.profile-datablock	{
+	margin: 3px 0 5px 0;
+	}
+dl.profile-datablock dd {
+  line-height: 140%;
+  }
+	
+.profile-img {display:inline;}
+
+.profile-img img {
+	float:left;
+	margin:0 10px 5px 0;
+	border:4px solid #8b2;
+	}
+		
+#comments	{
+	border: 0;
+	border-top: 1px dashed #eed;
+	margin: 10px 0 0 0;
+	padding: 0;
+	}
+
+#comments h3	{
+	margin-top: 10px;
+	margin-bottom: -10px;
+	font-weight: normal;
+	font-style: italic;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	}	
+
+#comments dl dt 	{
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 35px;
+	padding: 1px 0 0 18px;
+	background: transparent url(http://www.blogblog.com/moto_son/commentbug.gif) top left no-repeat;
+	color: #998;
+	}
+
+#comments dl dd	{
+	padding: 0;
+	margin: 0;
+	}
+.deleted-comment {
+  font-style:italic;
+  color:gray;
+  }
+  .comment-link {margin-left:.6em;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+24 december 2010
+
+
+
+	 
+	 breathe.
+	 
+    
+
+
+
+
+when our daughter lay in the icu on her second day of being alive in the world, we stood above her bed and asked her to breathe. her small hands were strapped to the bed because she was already so strong she nearly ripped out her breathing tube. (somehow, though, she kept making a buddhist mudra with her fingers and held it.) her feet were tangled up in cords and covered in bandaids where the wonderful nurses took another vial of blood for tests to see what was keeping her from breathing. as soon as the nurses and doctors finished, danny and i went back to holding hands over her isolette, leaning down to kiss any place on her face we could find without breathing tube, feeding tube, or tape keeping both of them attached to her. 
+
+we watched her, touched her, sang to her, and read stories to her. we tried to never leave her bedside. and every few moments, we leaned our faces down and said, in our sweetest voices, "breathe, sweetie. breathe. you know how to do it. you can. just breathe." 
+
+i promised myself that if she lived, i would get this tattoo. 
+
+she started breathing. she got her breathing tube out on danny's birthday. "best present i ever got," he says. by my birthday, she was home with us. 
+
+and now, she's alive. this girl? she's tough. after all she has been through, she tumbles and comes up laughing. she's talking up a storm, saying thank you after meals, reading under the dining room table completely absorbed. she's active and in love with life, jumping on the bed as much as she can, her eyes wide open, her legs strong.  
+
+it is our greatest joy to be with her, to help her leap into life. 
+
+
+
+two weeks ago, it was time to keep that promise i made to myself. 
+
+this is my new tattoo: breathe. it's on the underside of my right wrist, where i can see it easily, when i type or talk or wonder what to do next. for those of you who are font geeks, like me, it's in garamond. a wonderful young man named casey, who once was my student, almost 15 years ago, gave me this tattoo. 
+
+it feels good. 
+
+this tattoo is a sea change for me. (the name of the tattoo place is sea change.) i love the yes tattoo i got nearly five years ago. everything that is good in my life has arrived to me from putting that yes upon me permanently. i will always live it. 
+but that yes has been outward and sometimes loud and throwing open my arms. this one feels more inward, slower, a chance to really breathe.
+
+i need a chance to breathe right now. this has been quite the year. 
+
+danny and i are eternally grateful for your comments, questions, and wonderful support. we are still in shock that our cookbook was named one of the best of 2010 by the new york times. (and proud.) but better yet have been your letters telling us about dishes you made, successes with bread and pizza, the way our story has moved you and given you hope. we will never, ever forget this time. 
+
+and these past three weeks, coming at the end of the fullest, most delicious few months of our lives, have been filled with pounds of butter, flours on the counter, and 14 gluten-free cookie recipes. i've been thinking about cookies, working on ratios, making flour mixes, baking, photographing, writing recipes, writing essays, answering questions, and going back at it again the next day. 
+
+i hope you won't think i'm complaining if i say i'm exhausted. i'm happy too. still, i can't remember the last time i had a day off from work. 
+
+oh that's right. i do. august 6th. my birthday. 
+
+time to breathe. 
+
+so we'll be taking a break from the blog for the next few weeks. we'll be back on january 10th with new recipes, videos about techniques, and ideas for you in the kitchen. (it's all going to be vegetables, whole grains, and green smoothies for awhile. i have no interest in sugar right now.) a real vacation. 
+
+well, not entirely. i'll still be working — so sorry if you have sent me an email in the past five months and i have not answered — and we'll both be cooking and baking. we just need a little chance to revive ourselves, to look at food in a new way, and imagine new projects that might be on the horizon. 
+
+mostly, though, i want a little more sleep, some time to read, and the chance to hold lucy's hands while she jumps on the bed without thinking of the post i need to publish that day. i don't want to miss a minute with this kid. 
+
+time to breathe. 
+
+danny and lu and i hope that all of you reading have a restful holiday, whatever that holiday might be. we hope there is enough food for a great dinner in a warm house with family and friends. we hope you eat cookies you didn't think you were going to eat again because we published these recipes. (if you did make any of the cookies from the past three weeks, and you had success, would you mind sharing your stories here? i'd love to hear.) we hope you laugh so hard your stomach hurts. 
+
+mostly, i hope that you breathe. 
+
+happy new year, everyone. see you in 2011.
+
+
+
+posted by shauna @ 12:00 am
+80 comments
+
+
+
+
+
+
+23 december 2010
+
+
+
+	 
+	 gluten-free shortbread
+	 
+    
+
+
+
+
+i made three batches of shortbread yesterday. 
+
+yes, i'm a little nuts. it's the last day of posting holiday cookie recipes around here. after jam tarts, gingerbread men, coconut sugar cookies, cannolis, plus 8 more, you think i'd be done. that's an even dozen, right? 
+
+(plus, if you go over to our friend silvana nardone's blog, dish towel diaries, you'll find our recipe for chocolate crackle cookies, inspired by our friend tamiko.) 
+
+so i could have stopped. i have to admit — i'm a little exhausted. after i finish this post, we can leave for the city and do our first christmas shopping. (shudder.) perhaps no one would have screamed if i had let go. 
+
+however, i wanted to give you a baker's dozen. you know that sweet little act of kindness, when the baker slips one more sugar cookie into your bag of dozen, a small surprise you find when you walk into your kitchen? that's what i wanted to give you. (i guess i'm not being very silent about it.) 
+
+i promised you shortbread, and i just couldn't put up a recipe until i knew it in my hands, until i could explain what worked for us, and hopefully guide you to making shortbread in your kitchen. 
+
+that's all this is about: you baking in your kitchen, with your kids, your friends, with good music playing. and the joy we can give people with a few flaky bites of shortbread. 
+
+besides, we had to make this. 
+
+
+
+a few weeks ago, we met gabrielle moorhead, who is one of the forces behind grand central bakery. we all met at the tom douglas cookbook social, where we made baguettes with curried red lentil puree. (they were a hit.) gabby and i started talking, animatedly, about baking and food and family. her father, it turns out, was recently diagnosed with celiac. he's doing well, but he misses certain foods. mostly, his grandmother's scottish shortbread. 
+
+i couldn't resist this. i had to make it for him. 
+
+baking is so much more than following a recipe. in fact, i think you have to make a recipe once just to understand its dance: preheating the oven, then combining the flours and gums and salt. do you cream the butter and sugar? or melt the butter? do you knead the butter with your hands? white sugar or brown? flaky or fluffy? which do you want? what story is this cookie trying to tell? 
+
+that's why i have been so happily absorbed these past few weeks, with my hands in the flours. this is work beyond words. it's about feel and instinct and trusting yourself and being in the moments and whistling while you work, the magic combination of pushing and acceptance, listening and wishing, watching for the sugar and butter to become one, and starting over if none of it works, without any fuss. 
+
+i love baking with all my heart. 
+
+and if you can give a man his grandmother's shortbread back? the flaky layers and crisp crust, the mild sweetness, the way it melts on the tongue? so much the better. 
+
+you want to try it? here you go. 
+
+gluten-free scottish shortbread, adapted from great grandma burgess
+
+the original recipe makes a lot of shortbread. since i was making three different batches yesterday, i cut this one in half, the ratios you will see here. if you want, you can easily double this. 
+
+12 ounces aherns all-purpose gluten-free flour mix
+1 teaspoon xanthan gum
+1/2 teaspoon guar gum
+1 1/2 ounces white rice flour
+4 ounces powdered sugar (grind it fine, if you can)
+generous pinch kosher salt
+1/2 pound unsalted butter, cool and not melty (out of the refrigerator for 10 minutes)
+
+
+preparing to bake. butter a half jelly roll pan. (a jelly roll pan is a baking sheet with sides.) carefully lay down a piece of parchment paper, with enough to leave some hanging over the edges. press it into the buttered pan, taking care to leave no wrinkles. butter the parchment paper. set aside. 
+
+making the dough. put the flour, xanthan gum, guar gum, white rice flour, sugar, and salt into a large mixing bowl. whisk them together to combine and aerate. cut the butter into small chunks and add them to the flour. using your hands and patience, knead the butter into the dough. think pie crust. think about massage. you are trying to coat every part of the flour with fat. work with purpose — you don't want the butter to grow too warm. when the butter is fully kneaded into the flour, you are done. 
+
+press the dough into the buttered parchment paper. it might be crumbly at first, but you can press it together. (if you don't have a half jelly roll pan — and we don't! — fill only half the jelly roll pan.) when it is all pressed in, put another piece of parchment paper over the top and roll the dough smooth with a rolling pin. 
+
+prick the top of the dough with a fork, leaving no more than 1/4-inch space between fork pricks. this will help prevent the dough from puffing and rising unevenly. using a sharp knife, score the dough all the way down to the bottom of the pan. (if you want bars, cut those. if you want squares, cut those.) 
+
+refrigerate the dough for 1 hour. 
+
+baking the shortbread. preheat the oven to 300°. when it is fully heated, remove the jelly roll pan from the refrigerator and slide it into the oven. bake until the edges are lightly golden brown and the top of the shortbread set, about 45 to 60 minutes, depending on your oven. 
+
+remove the shortbread from the oven. cut into the lines you scored before baking. allow the shortbread to cool before eating. 
+
+
+and there you have it. gluten-free shortbread. 
+
+but wait! there's more. 
+
+
+
+
+
+yesterday, when i was playing around with recipes, i was a little dazzled by all the choices for shortbread recipes. some say to use only cold butter, others insist it must be room temperature. some even say to melt the butter. some call for just all-purpose flour. others say to add white rice flour (an old scottish trick) for crispness, and others say to add cornstarch for softness. there seems to be no agreement. 
+
+i love that. 
+
+(if you want to understand it, read this guardian piece about shortbread.) 
+
+so i had to make another batch, this time using cornstarch for softness and room-temperature butter so soft that the directions call for it to have the texture of whipped mayonnaise. 
+
+oh my. meyer lemon shortbread, soft without being dense, wonderfully tart on the tongue. 
+
+hello, love. 
+
+would you like to make this one? it's a recipe from tartine bakery, adapted by shauna sever at piece of cake. (i like anyone named shauna.) 
+
+rather than typing out the recipe, i'm going to make you head over there. all you have to do is use 280 grams of our gluten-free all-purpose flour mix (or any gluten-free all-purpose flour mix you like) for the all-purpose flour in the original recipe, plus 1/2 teaspoon xanthan gum and 1/4 teaspoon guar gum. 
+
+you see, that's all you need to do to convert all your favorite family recipes: use 140 grams of your favorite gluten-free flour mix for every cup of regular all-purpose flour, add 1% of the volume of flours in xanthan and guar gum combined, and then start baking. that's it. 
+
+and after you have this in your hands and heart, you'll start making up your own recipes. like we do here. 
+
+yesterday, even though i already had 2 successful shortbreads cooling on the dining room table, i pulled out the butter again. this time, i wanted to work with ratios and melted butter. 
+
+brown butter balsamic shortbread cookies with rosemary. 
+
+and they were possibly the best of the three. 
+
+want to make some? just follow this, which is based on the standard ratio for shortbread cookies (1 part sugar, 2 parts fat, 3 parts flour). i have left it stripped down for those of you like danny who don't want a recipe but a list of ingredients. this is what my notes look like when i'm making something up, so i thought this time i'd let you see it this way. 
+
+60 grams sugar
+1 teaspoon chopped rosemary
+120 grams brown butter
+1 egg
+1 teaspoon balsamic vinegar
+180 grams aherns gluten-free all-purpose mix 
+1/2 teaspoon xanthan gum
+1/4 teaspoon guar gum
+pinch salt 
+
+sugar + rosemary
+butter.
+egg
+balsamic
+mix flour, gums, salt
+mix. 
+refrigerate in log
+bake at 350° 12 to 15
+
+
+if you have the ingredients, and you want the freedom of making this yourself without consulting a recipe, make these. 
+
+(also, here's a secret: you could substitute any flavors you wanted in there to make your own shortbread cookies. roll the dough into a log and refrigerate before baking. you have refrigerator shortbread cookies.) 
+
+
+so there you have it: gluten-free shortbread, three ways. 
+
+it doesn't matter how you make it, really. it doesn't matter if your shortbread is imperfect. what matters is that you find that place of heart and hands, pushing and acceptance, and dancing in your kitchen as you bake shortbread for someone you love. 
+
+
+
+
+
+posted by shauna @ 10:34 am
+26 comments
+
+
+
+
+
+
+22 december 2010
+
+
+
+	 
+	 gluten-free mexican wedding cookies
+	 
+    
+
+
+
+
+mexican wedding cookies. of all the requests people had for gluten-free holiday cookies, i think this was the most requested. finely ground nuts, butter and shortening, gluten-free flours, and powdered sugar. it isn't much more complicated than that. all that deliciousness and it's easy too? sign me up. 
+
+now this cookie, with tiny variations of shape and technique from kitchen to kitchen, can also be russian tea cakes, viennese crescents, snowballs, and even moldy mice. (check out my friend jessie's excellent post on the slight differences among them all.) 
+
+still, it's mexican wedding cookies that call my name. i love the idea of a wedding celebrated with these float-on-air, light and lovely, sweet-but-not-too-much-so cookies. and if it's a wedding, there have to be a few nuts, too. 
+
+there are a hundred dozen recipes for mexican wedding cookies out there, including one on the back of the powdered sugar bag. however, if you're making a delicacy of mexico, why not go to someone who knows the foods of mexico with her heart? 
+
+pati jinich is a wonder. i know here from twitter (of course), where she dispenses recipes, cooking ideas, and funny stories about her boys. raised in mexico in a family filled with people passionate about food, she became a political analyst in the united states, with a master's degree from georgetown. however, she kept gravitating back to food, around the edges of her intellectual job. (hm, this sounds familiar to me.) urged by her husband, she leapt. she's now the chef and cooking instructor at the mexican cultural institute in washington d.c. 
+
+one of my goals for 2011 is to finally meet her. look at the food on her website, pati's mexican table, and you'll want to be her friend as well. 
+
+last week, she told me she was working on her recipe for mexican wedding cakes. i waited, patiently. and then i made these. 
+
+now you can too. 
+
+gracias, pati. feliz navidad. 
+
+ 
+
+gluten-free mexican wedding cookies, adapted from pati jinich of pati's mexican table
+
+the real name of these is polvorones, and according to pati, they are available at nearly every bakery and grocery store in mexico. "mexican wedding cakes" is the american version. still, that's how we know them here, so i'm calling them that so you can find them. 
+
+but let's say it together, shall we? polvorones. or, in other words: a super-flaky cookie that almost disappears as soon as it hits the tongue, lightly sweet with powdered sugar and air pockets that seem impossible in something gluten-free. you'll be hard pressed to eat just one. these cookies are meant to be a celebration. go ahead and have another. 
+
+1/2 cup pecans
+3/4 cup powdered sugar, plus more for dusting the cookies
+280 grams aherns' all-purpose gluten-free flour mix 
+1/2 teaspoon xanthan gum
+1/4 teaspoon guar gum
+1/8 teaspoon kosher salt
+1/2 cup cold unsalted butter, cut into chunks
+1/2 cup cold vegetable shortening
+1 large egg, at room temperature 
+
+preparing to bake. preheat the oven to 350°. line a baking sheet with parchment paper or a silpat. 
+
+put the pecans in a food processor (or mortar and pestle, if you want to be authentic) and whirl them up until they are ground fine. add the powdered sugar and pulse the food processor until the pecans and sugar are combined. set aside. 
+
+cutting the fats into the flour. put the flour, xanthan gum, guar gum, and salt in a large mixing bowl. add the chunks of cold butter and vegetable shortening and begin working them into the flour immediately, quickly. we used a pastry cutter, but you could easily use your hands. work the fats into the flour until you have a coarse, crumbly dough. 
+
+finishing the dough. add the pecan and sugar mixture to the dough. work it in with your hands. crack the egg into the bowl and combine everything together, thoroughly, using your hands. (and be sure to work quickly. you don't want that butter and shortening to warm up too much.) work the dough until it comes together as one ball of dough. 
+
+baking the cookies. make a ball of dough about 1-inch wide. pat down the dough ball just a bit with your fingertips. leaving about 1 inch of space between all the dough balls, fill the cookie sheet. slide the baking sheet into the oven and bake the cookies until they have a golden-brown color, about 12 to 15 minutes. 
+
+pull the baking sheet out of the oven and immediately dust the cookies with powdered sugar. allow them to cool for 10 minutes, then carefully transfer them to a cooling rack. eat when there is not a hint of warmth to the cookies. 
+
+(i know. good luck.) 
+
+makes about 30 cookies. 
+
+
+
+
+
+posted by shauna @ 11:56 am
+16 comments
+
+
+
+
+
+
+21 december 2010
+
+
+
+	 
+	 gluten-free cannoli
+	 
+    
+
+
+
+
+"leave the gun. take the cannoli." 
+
+i'm tempted to write only this. after all, it's the only phrase i hear in my head when someone says cannoli. probably you too. (and if you don't know what it is, look here. watch out — you're going to want spaghetti and meatballs after watching this movie.) 
+
+however, i want to share just this bit more. 
+
+i am constantly astonished by how much better my life is now than when i ate gluten. if you have been reading this site for awhile, you know this is true. in fact, you have been watching the story unfold — finding my health, writing here, getting an agent, meeting danny, publishing a book, lucy arriving in our lives, writing a cookbook, moving to our island home, going around the country talking with people about this cookbook. add to this the fact that i don't have to grade papers anymore? that alone would be enough, frankly, to make me say that living gluten-free is joy for me. 
+
+but here's the other part i love. would i have ever made cannoli from scratch when i thought i could eat gluten? no way. i would have driven to a bakery and eaten the work of other people's hands. 
+
+that bakery cannoli? no way i would ever remember them as vividly as i will remember these gluten-free cannoli. 
+
+i'll never forget spending the afternoon with my dear friend nina, who came over just to make cannnoli with me, danny, and lucy. none of us had cannoli tubes. none of the stores we looked in had cannoli tubes. so we winged it. nina's wonderful husband, booth, fashioned some cannoli tubes out of old bicycle handles. the kitchen was a cluttered mess from all the baking we had been doing earlier in the day. lu skipped her nap, so she was cranky and clingy, the opposite of her usual self. danny heated up the oil, then he had to leave for work. the handlebars were too thick, so we switched to something smaller. that's why you could have found me in our kitchen, wrapping gluten-free cannoli dough around a bright blue sharpie (pen cap on, of course). those were too thin. so, like goldilocks (and the buddha), we found the middle way: the handle of an offset spatula. 
+
+how could i ever forget this? 
+
+in spite of the fact that the shells kept popping open in the hot oil, or being too small to fill with ricotta, we were laughing. no matter that lu wanted to jump up and down on the conter and knock cannoli shells around, nina and i kept going. we made fresh ricotta togehter, the first time for both of us, and were amazed at how easy it is. 
+
+and the shells, even the broken ones, had the same cisp exterior and flaky soft interior of a real cannoli shell. eureka. 
+
+the next day, the lovely woman who runs lu's daycare - a former student of mine, who found out a year ago she should not be eating gluten and became pregnant after years of trying — read my update on facebook. "i have cannoli tubes." and so, we borrowed a bag of battered metal tubes to make this decadent treat again. 
+
+this time, danny and i did this together. the dough kept sticking to the tubes when we tried to slide it off before going into the oil, so we greased them down. with greasy fingers, and the kids of our friends bouncing on lu's bed, we plunked cannoli dough into the hot oil. again, some of them opened, but we just dusted those with powdered sugar and gave them to our brunch guests. 
+
+our friend alejandra, who grew up first in argentina (in an italian area) and then philadelphia, and thus grew up eating a lot of cannoli, took a few bites of the cannoli shells, then said, "oh my god, these are fantastic. i like how buttery they are, with a slight tang, from the buttermilk." she took another bite. "these are better than regular cannoli," she said. 
+
+hot damn! 
+
+we made another batch of fresh ricotta (so easy!), with alejandra watching so she could do it at home. when it cooled, we stuffed the few shells that stayed together with fresh ricotta, cinnamon, and sugar. i took the photo you see on top, and then we ate. wow. heaven. 
+
+and the next day, as i was reading the regular recipe again before writing my own version here? well, i'll never forget the moment when i realized, "shauna, you doofus! you leave the cannoli dough on the tube in the hot oil. that's why they were falling apart!"
+
+duh. 
+
+and i will always remember how i posted the photo you see on top on the facebook fan page for this site, and dozens of you wrote statements similar to this: "omg! you gave me my italian heritage back." 
+
+you see, i like eating cannoli. (however, after this week, i don't want anything sweet for a month. ugh.) i made these so that we could make them again someday. but really, i made these because so many of you wrote that you remember making these with your grandmother, and you thought that sweet ritual of baking together was gone forever. 
+
+here they are. make some cannoli. 
+
+and leave the gun. 
+
+
+ 
+
+ 
+
+gluten-free cannoli, adapted from the arthur avenue cookbook, on leite's culinaria
+
+one thing i have learned through teaching myself how to convert gluten recipes to gluten-free recipes: choose a great recipe as your inspiration. i searched through hundreds of cannoli recipes online and many of them looked dubious to me. however, when i found this recipe from the arthur avenue cookbook, i had my base. the author of this recipe grew up in a bakery making cannoli, then became a baker himself. he wouldn't lead us astray. 
+
+find the best source you can for a reliable recipe, then play. that's what i do all day these days. i love it. plus, in the end, you get cannoli. 
+
+1 quart safflower oil 
+
+for the shells
+400 grams all-purpose gluten-free flour mix
+1 teaspoon xanthan gum
+1/2 teaspoon guar gum
+1/4 cup sugar
+8 tablespoons vegetable shortening (or pure leaf lard, if you have it)
+pinch of salt
+1/2 teaspoon cinnamon
+1 tablespoon rum (optional)
+1 tablespoon honey (make sure it's a liquidy honey, not the stiff kind)
+1 large egg
+2 to 6 tablespoons buttermilk (or water if you cannot have dairy)
+2 eggs whisked with 2 tablespoons water, for egg wash
+
+for the filling 
+1 pound ricotta (we made homemade ricotta from this recipe)
+1/2 cup sugar
+1/4 teaspoon cinnamon
+1/4 cup mini-chocolate chips
+powdered sugar for dusting
+
+preparing to make the cannoli. have all the ingredients ready in a mise en place. pour the 1 quart of safflower oil into a large dutch oven. set the dutch oven over a burner on medium-high heat. you're starting to heat it to 320°. 
+
+making the dough for the shells. in the bowl of a stand mixer, combine the flour, xanthan gum, guar gum, sugar, shortening, salt, and cinnamon. run the mixer on low speed to combine the ingredients and aerate the flour. pour in the rum, honey, and egg, then mix until they are combined. here's where you are going to need to use your own judgment — add the buttermilk 1 tablespoon at a time with the mixer running. you are looking for the dough to come together and wrap around the paddle of the mixer. so add 1 tablespoon at a time, let the mixer run, and watch. if the dough is still dry, add another tablespoon. 
+
+(the first time we made cannoli, it took 2 tablespoons. the next it took 6. the temperature and humidity of your home will affect the dough. so use your senses here.) 
+
+rolling the dough. put half the ball of dough between 2 pieces of parchment paper on the counter. roll out the dough as thin as you can, about 1/4 inch thick. now, if you have a cannoli cutter, as the original recipe says to use, pull that out here. if not, we cut a big oval around the cannoli tubes. put a cannoli tube in the center of that oval of dough, then flip the cannoli tube so the edges of the dough are hanging down. brush egg wash in between the two flaps of dough, then press them together. crimp and press until they are sealed. repeat with the remaining cannoli tubes. 
+
+cooking the cannoli. when the oil has reached 320°, gently put the cannoli shells (still attached to the tubes) in the hot oil. (keep the kids away and be extra-vigilant yourself when you are working with hot oil.) try 3 at a time in the hot oil, cooking until they are golden brown, about 3 minutes each. 
+
+put the cannoli shells on paper towels to drain, then cook the rest in the hot oil in batches until you are done. turn off the burner and slide the dutch oven to the back of the stove so no one gets hurt. let the cannoli shells cool completely, then gently pull out the cannoli tubes. 
+
+filling the cannoli shells. 
+combine the ricotta, sugar, cinnamon, and chocolate chips in a bowl. fit a pastry bag with a large tip, then stuff the bag with the filling. pipe the ricotta mixture into the cannoli. 
+
+sprinkle the cannoli with powdered sugar. 
+
+devour. 
+
+makes about 20 cannoli. 
+
+
+
+
+
+
+
+
+
+
+
+posted by shauna @ 3:40 pm
+25 comments
+
+
+
+
+
+
+20 december 2010
+
+
+
+	 
+	 gluten-free spritz cookies
+	 
+    
+
+
+
+
+we are coming into the home stretch of holiday cookies and goodies around here. i don't want to think about how many pounds of butter, flours, and sugar have been used in this kitchen the past month. i can't even calculate how many times the paddle of the kitchenaid has whirled around these weeks. every day i am a little bit tempted to throw up my hands, put away the flours, and lie down on the couch. i know i promised you certain cookies, but i feel ready to drop.
+
+then, i remember the kindness of the man here on the island who opened the door of his just-closed store to give me a usb cord to attach my camera to our computer. lu had hidden ours somewhere, so we couldn't find it, and i needed to process photos to be able to post all those cookies the past week. his cash register was closed down, so he just gave the cord to me for free and a wave of his hand. we live in a small town. he figured i would pay him later. i did, of course. i also dropped off a batch of smoky bacon ginger cookies as a thank you. the look on his face convinced me to go home and bake again.
+
+so did the joy expressed on this facebook post when i showed a photo of the gluten-free cannoli. 
+
+those will be here tomorrow.
+
+today we have spritz cookies.
+
+enjoy.
+
+it's december 20th. do you know where all your christmas presents are? may we recommend you give a copy of our cookbook? if you order it online today, it could still reach your loved one by saturday...
+
+and we're giving away a copy here today, to one lucky reader. 
+
+tell us about a small kindness that inspired you to give more. 
+
+ 
+
+gluten-free spritz cookies, adapted from america's test kitchen
+
+let this be a warning to you: the recipe that comes with the kitchen tools you need to make that recipe? they generally stink. i know that now because i made a big batch of spritz cookies based on the recipe that came with the spritz press i just acquired. it was dry, stiff, and tasteless. and it all went into the trash bin. 
+
+danny and i persisted, however. we didn't want you to miss these buttery, slightly sweet lovely treats. if you've made spritz cookies before, and you have a spritz press already, pull it out. it's not too late to make these little cookies. and, if like me, you have never made these before, and you don't quite get the hang of the different disks and how to press them down on the baking sheet firmly, you can have little squiggles of cookies that look like piles of noodles! "pasta cheese!" lu shouted when she saw these, then ate one. 
+
+that was pretty great. 
+
+280 grams all-purpose gluten-free flour mix
+1/2 teaspoon xanthan gum
+1/2 teaspoon guar gum
+1/4 teaspoon kosher salt
+1 large egg yolk
+1 tablespoon thick yogurt
+1 teaspoon vanilla extract
+230 grams (2 us sticks) unsalted butter, softening and cool
+135 grams (2/3 cup) granulated sugar
+
+preparing to bake. preheat the oven to 375°. line a baking sheet with parchment paper or a silpat. 
+
+combining the dry ingredients. add the flour, xanthan gum, guar gum, and salt to a bowl. whisk them together to combine and aerate the flour. set aside. 
+
+combining the wet ingredients. in another bowl, whisk together the egg yolk, yogurt, and vanilla extract. set aside. 
+
+creaming the butter and sugar. in the bowl of a stand mixer, mix the butter and sugar until they are light and fluffy, about 3 minutes. stop the mixer and scrape down the sides of the bowl. with the mixer running again, add the egg-yogurt-vanilla mixture and beat until it is incorporated into the butter and sugar, about 30 seconds. slowly, a bit at a time, add the dry ingredients. mix until the ingredients are combined and form a dough around the paddle. turn off the mixer and scrape down the sides of the bowl to combine with the dough and make sure there are no pockets of flour left. the dough should be pliable without being too soft, yet not too stiff. 
+
+baking the spritz cookies. if you have a spritz cookie press, fill the press with the dough. if the dough feels soft in your hands, refrigerate the cookie press for 15 minutes. use the directions for your particular cookie press to find the best way to shape the cookies. if you don't have a spritz cookie press, you can press the dough through a pastry bag, using the tip of your choice. 
+
+put the cookies on the baking sheet, leaving two inches between them, until the sheet is comfortably full. bake until the cookies are light golden brown and set, about 12 to 15 minutes, rotating the baking sheet halfway through. allow the cookies to cool for 10 minutes, then transfer them to a cooling rack. eat when there is not  a smidge of warmth to the cookies. 
+
+makes about 48 cookies. 
+
+
+
+
+
+
+
+
+posted by shauna @ 9:20 pm
+32 comments
+
+
+
+
+
+
+
+
+
+
+about me
+
+name:  shauna 
+location:  seattle, wa, united states 
+view my complete profilestories of saying yes to life, gluten-free.
+   
+    
+
+
+links
+
+
+gluten-free? try these.
+
+
+gluten-free foods you'll actually like to eat
+
+
+fellow foodies: delicious people
+
+
+food resources that will make you a better cook
+
+
+people and places i like (nothing to do with food!)
+
+
+other places to find me
+
+
+previous posts
+
+breathe.
+gluten-free shortbread
+gluten-free mexican wedding cookies
+gluten-free cannoli
+gluten-free spritz cookies
+gluten-free cake pops
+gluten-free date-walnut bars
+gluten-free ginger-lemon bars
+gluten-free honey-spice madeleines
+winners of the giveaways this week
+
+archives
+
+may 2005
+june 2005
+july 2005
+august 2005
+september 2005
+october 2005
+november 2005
+december 2005
+january 2006
+february 2006
+march 2006
+april 2006
+may 2006
+june 2006
+july 2006
+august 2006
+september 2006
+october 2006
+november 2006
+december 2006
+january 2007
+february 2007
+march 2007
+april 2007
+may 2007
+june 2007
+july 2007
+august 2007
+september 2007
+october 2007
+november 2007
+december 2007
+january 2008
+february 2008
+march 2008
+april 2008
+may 2008
+june 2008
+july 2008
+august 2008
+september 2008
+october 2008
+november 2008
+december 2008
+january 2009
+february 2009
+march 2009
+april 2009
+may 2009
+june 2009
+july 2009
+august 2009
+september 2009
+october 2009
+november 2009
+december 2009
+january 2010
+february 2010
+march 2010
+april 2010
+may 2010
+june 2010
+july 2010
+august 2010
+september 2010
+october 2010
+november 2010
+december 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this work is licensed under a creative commons attribution-noncommercial-noderivs 2.5 license.
+
+
+
+
+
+ 
+
+

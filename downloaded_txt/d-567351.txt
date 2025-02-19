@@ -1,0 +1,264 @@
+
+
+
+
+
+
+	home page - veridian bank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+
+
+log in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+s t a t e m e n t   o f   f i n a n c i a l   c o n d i t i o n
+as of
+                                        mon, 18 feb 2250 17:19:07 gmt
+
+
+ assets
+ liabilities and equity
+
+
+
+
+
+loans to members
+
+-5,085
+
+
+
+total loans 22average -231 per loan
+
+
+
+
+bank owned vehicles
+
+28,369
+
+
+
+total vehicles 2blue book average of 14,185
+
+
+
+
+operating cash
+
+841,519
+
+
+
+
+
+
+savings accounts
+
+525,216,874
+
+
+
+total accounts 275average 1,909,880 per account
+
+
+
+
+vieneo futures
+
+35,196,245
+
+
+
+includes unrealized loss (12,048,414)
+
+
+
+
+off-world futures
+
+256,473
+
+
+
+includes unrealized loss (9,660)
+
+
+
+
+
+
+
+560,413,119
+
+
+
+
+
+
+
+
+                                        s t a t e m e n t   o f   o p e r a t i o n s
+since sun, 18 feb 2249 17:19:07 gmt
+
+
+ revenues
+ expenses
+
+
+
+
+
+interest earned
+
+-364
+
+
+
+from 22 total vehiclesaverage rate of 5.673%
+
+
+
+
+
+auction vehicles
+
+
+0
+
+
+
+total vehicles 0average 0 per vehicle
+
+
+
+
+wire transfer fees
+
+101,628
+
+
+brokerage fees
+
+200
+
+
+loan applications
+
+200
+
+
+
+
+
+
+
+
+
+
+
+
+dispersements
+
+48,875
+
+
+
+average 178 per member
+
+
+
+
+
+repossessions
+
+
+0
+
+
+
+from 2 total vehiclesaverage 0 per vehicle
+
+
+
+
+promotional offers
+
+750
+
+
+
+
+
+
+
+
+
+
+
+
+reserve requirement of 10%
+
+
+
+
+
+
+
+
+
+
+
+
+
+

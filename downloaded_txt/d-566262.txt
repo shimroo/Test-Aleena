@@ -1,0 +1,399 @@
+
+
+
+
+
+  
+
+umo iq: 16 & 31 min
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+settings
+ada site
+agency admin
+
+
+
+
+
+
+
+
+find your nextbus
+my umo
+get help
+mobile access
+
+
+are you having trouble finding arrival information for your stop using our new website?
+click to switch to our old nextbus site until we resolve web browser's compatibility concerns.
+
+ 
+
+
+
+
+
+
+ you can now update your bookmarks for the agency portal to  retro.umoiq.com. 
+
+
+
+
+bcc ferries
+hornibrook bus lines
+laidleys
+
+
+dumbarton express
+escalon etrans
+fast
+placer county transit
+san francisco muni cis
+san leandro links
+sonoma county transit
+tahoe truckee area regional transit
+unitrans asucd/city of davis
+university of california berkeley
+
+
+city of west hollywood
+glendale beeline
+omnitrans
+palos verdes transit
+
+
+nova southeastern university
+
+
+indianapolis international airport
+
+
+western kentucky university
+
+
+maine medical center
+
+
+selkirk transit
+
+
+apl
+salisbury university
+
+
+cape cod regional transit authority
+ezride - charles river tma
+mit lincoln lab shuttle
+massachusetts institute of technology
+
+
+university of new hampshire - wildcat transit
+
+
+montclair state university
+
+
+downtown connection
+laguardia airport shuttle
+roosevelt island
+
+
+chapel hill transit
+greenville area transit
+vidant medical center
+western carolina university cat-tran
+winston-salem
+
+
+toronto transit commission
+
+
+portland streetcar
+
+
+societe de transport de laval
+
+
+seattle streetcar
+spokane international airport
+
+
+change
+
+
+
+
+this stop code does not exist. please check your stop code and try again.
+
+enter stop no.
+
+... or select your route, direction, and stop to obtain gps-based arrival and departure times.
+
+
+route
+
+ca california street cable car
+f market & wharves
+fbus market & wharves bus
+j church
+k ingleside
+kbus ingleside bus
+l taraval
+lowl owl taraval
+m ocean view
+n judah
+nbus judah bus
+nowl owl judah
+ph powell-hyde cable car
+pm powell-mason cable car
+t third
+tbus third bus
+1 california
+1x california express
+2 sutter
+5 fulton
+5r fulton rapid
+6 haight-parnassus
+7 haight-noriega
+8 bayshore
+8ax bayshore a express
+8bx bayshore b express
+9 san bruno
+9r san bruno rapid
+12 folsom-pacific
+14 mission
+14r mission rapid
+15 bayview hunters point express
+18 46th avenue
+19 polk
+21 hayes
+22 fillmore
+23 monterey
+24 divisadero
+25 treasure island
+27 bryant
+28 19th avenue
+28r 19th avenue rapid
+29 sunset
+30 stockton
+30x marina express
+31 balboa
+33 ashbury-18th st
+35 eureka
+36 teresita
+37 corbett
+38 geary
+38r geary rapid
+39 coit
+43 masonic
+44 o'shaughnessy
+45 union-stockton
+48 quintara-24th street
+49 van ness-mission
+52 excelsior
+54 felton
+55 dogpatch
+56 rutland
+57 parkmerced
+58 lake merced
+66 quintara
+67 bernal heights
+90 san bruno owl
+91 3rd-19th ave owl
+714 bart early bird
+
+
+
+directions
+
+market & california
+van ness & california
+
+
+
+stop
+
+california st & van ness ave
+california st & polk st
+california st & larkin st
+california st & hyde st
+california st & leavenworth st
+california st & jones st
+california st & taylor st
+california st & mason st
+california st & powell st
+california st & stockton st
+california st & grant ave
+california st & kearny st
+california st & montgomery st
+california st & sansome st
+california st & battery st
+california st & front st
+california st & davis st
+california st & davis st
+california st & drumm st
+
+
+
+
+
+destination
+
+
+california st & van ness ave
+california st & polk st
+california st & larkin st
+california st & hyde st
+california st & leavenworth st
+california st & jones st
+california st & taylor st
+california st & mason st
+california st & powell st
+california st & stockton st
+california st & grant ave
+california st & kearny st
+california st & montgomery st
+california st & sansome st
+california st & battery st
+california st & front st
+california st & davis st
+california st & davis st
+california st & drumm st
+
+optional
+
+
+
+
+
+
+
+
+
+
+show map
+
+arriving in
+
+
+16min*
+31min*
+46min*
+
+
+
+valid as of tuesday, february 18, 2025 9:07 am
+
+
+
+
+
+
+16min*
+31min*
+46min*
+
+
+enlargehide
+
+
+
+
+also at this stop
+
+
+
+
+see more
+
+?key=73c1e0b969f5961af3ccb063887d64e8
+
+cubic transportation systems, inc. proprietary information. all rights reserved.
+
+
+
+
+ website
+ schedule
+
+
+
+
+call  5-1-1
+stop no. 13902
+text 41411
+nextmuni 15650
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+agency initializing ...
+please wait
+
+
+
+
+going to your closest agency...
+please wait
+
+
+
+
+x
+internet connection lost.
+unable to predict until connection restored.
+
+
+
+
+
+
+
+
+
+my settings
+
+language
+ english
+ français
+ español
+show predictions in
+minutes to go, e.g. "5 minutes"
+time, e.g. "2:05pm"
+hide vehicles not moving in selected direction
+
+
+
+
+
+
+
+

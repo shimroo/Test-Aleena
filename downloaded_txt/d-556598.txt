@@ -1,0 +1,364 @@
+
+
+st. louis unix users group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+home |
+about us |
+resources |
+membership | 
+
+other groups |
+sponsors |
+contacts 
+
+
+
+
+   
+
+
+
+
+st. louis unix users group  
+your forum for exchanging information about open standards,
+			 open systems, open source, products, services and architectures
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+saint louis unix users group
+
+  the saint louis unix users group (sluug) is an irs 501c(6) designated not-for-profit
+  professional association dedicated to education and communication among computer users.
+  sluug members include many linux and unix professionals, networking experts, system experts, hobbyists,
+  and students.  also, many who are interested in unix, unix-like operating systems, linux, bsd and
+  other free open source software (foss) applications, products, projects and services.
+  
+
+
+we have met continuously since we incorporated in july 1992.
+all of our meetings are free and open to the public. there is no individual membership fee.
+
+ monthly technical presentations 
+ connection instructions will first be sent to our
+   mailing lists and then
+   
+
+
+linked here 
+.
+  
+
+  we will open the remote session at about 6:00 pm, central time,
+  so that you can join early to test your microphone, screen sharing and video camera .
+  
+
+  then we start at 6:30 pm with our  base  introductory level session ( often focused on personal computing ); which may include either amazing
+  graphical packages, blinking lights, command line wonders, demonstrations of useful applications, displays of newly discovered web sites,
+  major resolution of long standing anomalies, quantum discoveries, smoke and mirrors, superb tutorials, or shifts in both time and space.
+  
+
+  sometime after 7:00 pm we attempt a quick welcome, introductions, announcements, current events of interest, 
+  and a general call for help (questions and answers) segment.
+  
+
+  sometime after 7:15 pm, we may take a short break before our  main  topic ( often focused on enterprise computing ),
+  
+ new
+          in what order or sequence are the meeting events held?  sluug_meeting 
+
+
+
+
+ where! 
+
+online sessions only.
+no physical meetings until further notice.
+these sessions will use zoom remote video service.
+
+ when! 
+wednesday, february 12th, 2025 
+
+
+
+
+
+from 6:30pm till 9:00pm  central standard time  (cst) utc-05 
+   we will open the remote session at about 6:00 pm cst, so that you can join early
+   to test your microphone, screen and video sharing.
+
+    
+
+ next scheduled meeting dates 
+
+
+2025
+
+2025-02-12 topics to be determined offer to talk!
+2025-03-12 topics to be determined offer to talk!
+2025-04-09 topics to be determined offer to talk!
+
+
+
+
+
+
+
+ what! 
+
+something fundamental, introductory, instructive, short, simple or small.
+
+ base topic: ssh keys in 3 easy steps  
+ presenter:  grant taylor  
+ ...use them! 
+
+
+
+create the ssh key
+run the following command once on each client system that you will log in from.
+hit enter through as the defaults should be sufficiently secure for starting with ssh keys.
+clientsystem> ssh-keygen
+you should have a passphrase protecting your key, but i'd rather you use a key without a passphrase than not use a key with a passphrase.
+
+
+copy the key public key to the remote system(s).
+run the following command on each client system for each remote system that the client will log into.
+clientsystem> ssh-copy-id remotesystem
+do this for each remote system that you will log into from the client that you're on.
+
+
+use the ssh key
+using keys which don't have a passphrase is trivial.
+clientsystem> ssh remotesystem
+you should be logged into the remote system without being prompted for a password because your new ssh key authenticated you to the remote system.
+
+
+there are many, many, many, options that can be used.  but the defaults are usually reasonable.  it's better to use any key than to not use keys.
+there are plenty of options that can be done to make the keys safer to use, restrict where they are used from, and what they can be used for.  but those are refinements on how ssh keys are used.
+please create and use ssh keys following the three easy steps above.
+
+
+
+
+
+
+
+
+
+
+
+then something more advanced, detailed, important, new, profound, significant, timely or useful.
+
+ main topic: systemd logging 
+ presenter: andrew_denner  
+ 
+in today's rapidly evolving landscape of system administration, logging is
+no longer about sifting through scattered files but about harnessing
+organized, real-time data for efficient system management.
+
+ 
+andrew will guide you through the transformative journey
+from
+
+*"traditional file-based logging"*
+
+to
+
+*"the powerful, centralized journal system"* provided by `systemd`.
+
+
+ 
+discover how linux logging has matured into a sophisticated process that
+not only consolidates critical information into coherent streams but also
+enhances troubleshooting with tools like `journalctl`.
+
+ 
+learn the significance of structured log entries-crucial for monitoring
+system health, auditing security, and ensuring compliance in ever-demanding
+environments.
+
+about the speaker:
+ 
+andrew denner is a long-time user of linux both professionally and at home
+as well as the president of the central iowa linux users group. he is a
+scientific computing scientist working in agriculture with technologies
+like kubernetes, aws, and programing languages like: python, c++, c#, and
+java.
+
+ editor's request:
+ 
+please think whom you may know that would enjoy or benefit from this talk.
+perhaps someone you haven't seen at one of our meetings in months?  perhaps
+someone from work.  perhaps an old friend?
+
+ 
+please take a moment and extend an invitation.  call them.  txt them.
+email them.  social media them.
+
+
+
+
+
+
+
+
+
+
+
+
+possible future topics
+
+your suggestions?
+
+
+
+sluug annual meeting and elections
+as required by sluug by-laws, a required annual meeting was held 14 february 2024.
+ 
+attending any two sluug sponsored meetings in calendar year 2023 qualified members to vote.
+mail in balloting was held thru out february.
+that resulted in ken johnson and sean twiehaus being elected to our board of governors.
+james conroy continued as chairman of the saint louis linux users group.
+
+as required by sluug by-laws, the next required annual meeting will be held 12 february 2025.
+ 
+attending any two sluug sponsored meetings in calendar year 2024 qualifies members to vote.
+ballots for february 2025 elections are now available for secret balloting.
+an absentee 
+ ballot  could be printed for mailing to us.
+you might be able to use a libreoffice
+ document  that could be printed and mailed to us. 
+
+
+your ballot must reach us for counting by our board well before 3 march 2025 (the next steercom meeting). 
+
+
+ other independent, loosely affiliated sluug sponsored special interest groups: 
+
+st. louis area computer club
+st. louis linux users group
+newcomer linux users group
+
+
+
+
+
+
+
+
+ sluug sponsored meetings
+
+click  here if you do not see sponsored meeting mini-calendar 
+
+
+
+
+
+
+
+        click  here if you do not see past presentations listing 
+
+
+
+
+
+
+
+
+contact
+    sluug if you have a presentation you would like to have considered for selection.
+    
+this site hosted by the saint louis unix users group
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+		home |
+		about us |
+		resources |
+         
+other groups |
+		sponsors |
+		contacts 
+    
+
+copyright © 
+	  st. louis unix users group
+
+	   1992-2025 | 
+	  webmaster@sluug.org
+
+ 
+
+
+

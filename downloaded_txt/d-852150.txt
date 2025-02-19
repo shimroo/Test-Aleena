@@ -1,0 +1,3339 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+narodowy bank polski - internetowy serwis informacyjny | dbamy o wartość polskiego pieniądza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    przeskocz do treści
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+generic selectors
+
+
+
+
+
+
+				tylko dokładne dopasowania			
+
+
+
+
+
+
+
+				szukaj w tytule			
+
+
+
+
+
+
+
+				szukaj w treści			
+
+
+
+
+
+
+
+post type selectors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+menu 
+
+
+
+
+
+
+
+
+                                    tematycznie
+
+                                    alfabetycznie								
+
+
+
+
+            szukaj        
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        nie znaleziono w menu terminu										
+                                        spróbuj										
+                                            wyszukać w całym serwisie.										
+
+
+
+
+
+
+o nbppokaż kategorie
+
+o nbp
+prezes nbp
+rada polityki pieniężnej
+zarząd nbp
+kontakt
+akty prawne i dokumenty
+sprawozdawczość finansowa
+struktura organizacyjna nbp
+badania i konferencje
+praca i kariera
+współpraca techniczna nbp
+
+polityka pieniężnapokaż kategorie
+
+polityka pieniężna
+rpp
+dokumenty rpp
+projekcja inflacji i pkb
+decyzje rpp
+implementacja polityki pieniężnej
+
+system płatniczypokaż kategorie
+
+system płatniczy
+regulacje prawne
+nadzór systemowy
+infrastruktura systemu
+płatności detaliczne w euro
+rada ds. systemu płatniczego
+dane i analizy
+
+system finansowypokaż kategorie
+
+system finansowy
+nadzór makroostrożnościowy
+stabilność systemu finansowego
+rozwój systemu finansowego
+sytuacja na rynku kredytowym
+europejska rada ds. ryzyka systemowego (esrb)
+obroty na rynkach
+
+statystyka i sprawozdawczość
+
+statystyka i sprawozdawczość
+statystyka monetarna i finansowa
+podstawowe wykresy
+statystyka bilansu płatniczego
+instrumenty nbp
+inflacja bazowa
+oczekiwania i prognozy inflacji
+ankieta makroekonomiczna nbp
+sprawozdawczość
+nieskarbowe dłużne papiery wartościowe
+stawka referencyjna polonia
+kalendarz udostępniania danych
+kursy
+wskaźniki i rynki
+
+publikacjepokaż kategorie
+
+publikacje
+działalność nbp
+szybki monitoring nbp
+biuletyn informacyjny nbp
+cykliczne materiały analityczne nbp
+publikacje naukowe
+album walut obcych
+integracja europejska
+polityka banków centralnych
+różne publikacje
+
+banknoty i monetypokaż kategorie
+
+banknoty i monety
+monety obiegowe
+banknoty obiegowe
+monety kolekcjonerskie i okolicznościowe
+plany emisyjne
+banknoty kolekcjonerskie
+sprzedaż monet i banknotów kolekcjonerskich
+rada ds. obrotu gotówkowego
+monety uncjowe nbp
+abc kolekcjonera
+samoobsługowa zamiana monet
+wykorzystanie wizerunków
+zabezpieczenia – zmodernizowane banknoty
+wymiana zużytych pieniędzy
+testy urządzeń
+
+edukacjapokaż kategorie
+
+edukacja
+dofinansowania nbp
+złote szkoły nbp
+akademia nbp
+konkursy | edukacja nbp
+szkolenia dla nauczycieli
+otwarte zasoby edukacyjne
+centrum pieniądza nbp
+centralna biblioteka nbp
+badania wiedzy ekonomicznej polaków
+słownik ekonomiczny
+krakowski salon ekonomiczny nbp
+
+ 
+
+
+
+
+en
+
+ 
+
+
+
+o nbppokaż kategorie
+
+o nbp
+prezes nbp
+rada polityki pieniężnej
+zarząd nbp
+kontakt
+akty prawne i dokumenty
+sprawozdawczość finansowa
+struktura organizacyjna nbp
+badania i konferencje
+praca i kariera
+współpraca techniczna nbp
+
+polityka pieniężnapokaż kategorie
+
+polityka pieniężna
+rpp
+dokumenty rpp
+projekcja inflacji i pkb
+decyzje rpp
+implementacja polityki pieniężnej
+
+system płatniczypokaż kategorie
+
+system płatniczy
+regulacje prawne
+nadzór systemowy
+infrastruktura systemu
+płatności detaliczne w euro
+rada ds. systemu płatniczego
+dane i analizy
+
+system finansowypokaż kategorie
+
+system finansowy
+nadzór makroostrożnościowy
+stabilność systemu finansowego
+rozwój systemu finansowego
+sytuacja na rynku kredytowym
+europejska rada ds. ryzyka systemowego (esrb)
+obroty na rynkach
+
+statystyka i sprawozdawczość
+
+statystyka i sprawozdawczość
+statystyka monetarna i finansowa
+podstawowe wykresy
+statystyka bilansu płatniczego
+instrumenty nbp
+inflacja bazowa
+oczekiwania i prognozy inflacji
+ankieta makroekonomiczna nbp
+sprawozdawczość
+nieskarbowe dłużne papiery wartościowe
+stawka referencyjna polonia
+kalendarz udostępniania danych
+kursy
+wskaźniki i rynki
+
+publikacjepokaż kategorie
+
+publikacje
+działalność nbp
+szybki monitoring nbp
+biuletyn informacyjny nbp
+cykliczne materiały analityczne nbp
+publikacje naukowe
+album walut obcych
+integracja europejska
+polityka banków centralnych
+różne publikacje
+
+banknoty i monetypokaż kategorie
+
+banknoty i monety
+monety obiegowe
+banknoty obiegowe
+monety kolekcjonerskie i okolicznościowe
+plany emisyjne
+banknoty kolekcjonerskie
+sprzedaż monet i banknotów kolekcjonerskich
+rada ds. obrotu gotówkowego
+monety uncjowe nbp
+abc kolekcjonera
+samoobsługowa zamiana monet
+wykorzystanie wizerunków
+zabezpieczenia – zmodernizowane banknoty
+wymiana zużytych pieniędzy
+testy urządzeń
+
+edukacjapokaż kategorie
+
+edukacja
+dofinansowania nbp
+złote szkoły nbp
+akademia nbp
+konkursy | edukacja nbp
+szkolenia dla nauczycieli
+otwarte zasoby edukacyjne
+centrum pieniądza nbp
+centralna biblioteka nbp
+badania wiedzy ekonomicznej polaków
+słownik ekonomiczny
+krakowski salon ekonomiczny nbp
+
+ 
+
+
+
+
+
+
+
+
+
+ocena bieżącej sytuacji ekonomicznej w polsce, luty 2025konferencja prof. adama glapińskiego, prezesa nbp, dotycząca oceny bieżącej sytuacji ekonomicznej w polsce.więcejkomunikat prasowy z posiedzenia rady polityki pieniężnej w dniach 4-5 lutego 2025 r.w dniach 4-5 lutego 2025 r. odbyło się posiedzenie rady polityki pieniężnej.więcej„100-lecie zawarcia konkordatu między stolicą apostolską a rzecząpospolitą polską”narodowy bank polski wprowadza do obiegu srebrną monetę kolekcjonerską o nominale 20 zł.więcejmamy 450 ton złota! – prof. glapiński, prezes nbpnarodowy bank polski pod kierownictwem prof. dr. hab. adama glapińskiego zwiększył zasoby polskiego złota do ponad 450 ton. nasze rezerwy dewizowe przekraczają 225 mld dolarów. polska rodzina jest bezpieczna w kraju, w którym bank centralny jest niezależny i wolny od nacisków politycznych.więcejocena bieżącej sytuacji ekonomicznej w polsce, styczeń 2025konferencja prof. adama glapińskiego, prezesa nbp, dotycząca oceny bieżącej sytuacji ekonomicznej w polsce.więcejkomunikat prasowy z posiedzenia rady polityki pieniężnej w dniach 15-16 stycznia 2025 r.w dniach 15-16 stycznia 2025 r. odbyło się posiedzenie rady polityki pieniężnej.więcej„skarby sztuki medalierskiej – stanisław małachowski”narodowy bank polski poinformował, że od jutra – 16 stycznia –  będą dostępne w sprzedaży srebrne monety kolekcjonerskie „stanisław małachowski” z nowej serii „skarby sztuki medalierskiej”, która odwzorowuje wybrane dzieła sztuki medalierskiej.więcej 
+
+
+poprzedni
+
+ 
+
+następny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aktualności
+
+
+ 17 lut
+
+
+wyniki przetargu sprzedaży bonów pieniężnych nbp przeprowadzonego w dniu 17.02.2025 r.
+
+
+wyniki przetargów
+
+
+
+
+
+
+
+
+
+ 10 lut
+
+
+wyniki przetargu sprzedaży bonów pieniężnych nbp przeprowadzonego w dniu 10.02.2025 r.
+
+
+wyniki przetargów
+
+
+
+
+
+
+
+
+
+ 07 lut
+
+
+wyniki przetargu sprzedaży bonów pieniężnych nbp przeprowadzonego w dniu 7.02.2025 r.
+
+
+wyniki przetargów
+
+
+
+
+
+
+
+
+
+ 07 lut
+
+
+aktywa rezerwowe polski w styczniu 2025 r.
+
+
+aktywa rezerwowe
+
+
+
+
+
+
+
+
+
+
+
+ 17 lut
+
+
+wyniki przetargu sprzedaży bonów pieniężnych nbp przeprowadzonego w dniu 17.02.2025 r.
+
+
+wyniki przetargów
+
+
+
+
+
+
+
+
+
+ 10 lut
+
+
+wyniki przetargu sprzedaży bonów pieniężnych nbp przeprowadzonego w dniu 10.02.2025 r.
+
+
+wyniki przetargów
+
+
+
+
+
+
+
+
+
+ 07 lut
+
+
+wyniki przetargu sprzedaży bonów pieniężnych nbp przeprowadzonego w dniu 7.02.2025 r.
+
+
+wyniki przetargów
+
+
+
+
+
+
+
+
+
+ 07 lut
+
+
+aktywa rezerwowe polski w styczniu 2025 r.
+
+
+aktywa rezerwowe
+
+
+
+
+
+
+
+
+
+
+
+więcej 
+
+
+
+
+
+ostatnio opublikowane
+
+
+ 13 lut
+
+
+bilans płatniczy polski w grudniu 2024 r.
+
+
+bilans płatniczy
+
+
+
+
+
+
+
+
+
+ 10 lut
+
+
+dane finansowe sektora bankowego – xii ’24
+
+
+dane finansowe sektora bankowego
+
+
+
+
+
+
+
+
+
+ 07 lut
+
+
+opis dyskusji na posiedzeniu decyzyjnym rpp w dniu 16 stycznia 2025 r.
+
+
+opis dyskusji rpp
+
+
+
+
+
+
+
+
+
+ 04 lut
+
+
+banknoty i monety – struktura obiegu – styczeń 2025 r.
+
+
+ostatnio opublikowane
+
+
+
+
+
+
+
+
+
+
+
+ 13 lut
+
+
+bilans płatniczy polski w grudniu 2024 r.
+
+
+bilans płatniczy
+
+
+
+
+
+
+
+
+
+ 10 lut
+
+
+dane finansowe sektora bankowego – xii ’24
+
+
+dane finansowe sektora bankowego
+
+
+
+
+
+
+
+
+
+ 07 lut
+
+
+opis dyskusji na posiedzeniu decyzyjnym rpp w dniu 16 stycznia 2025 r.
+
+
+opis dyskusji rpp
+
+
+
+
+
+
+
+
+
+ 04 lut
+
+
+banknoty i monety – struktura obiegu – styczeń 2025 r.
+
+
+ostatnio opublikowane
+
+
+
+
+
+
+
+
+
+
+
+więcej 
+
+
+
+
+
+kalendarz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		35 wydarzenia found.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+luty 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		kalendarz wydarzenia	
+
+
+
+
+						p					
+
+						pon.					
+
+
+
+
+
+						w					
+
+						wt.					
+
+
+
+
+
+						ś					
+
+						śr.					
+
+
+
+
+
+						c					
+
+						czw.					
+
+
+
+
+
+						p					
+
+						pt.					
+
+
+
+
+
+						s					
+
+						sob.					
+
+
+
+
+
+						n					
+
+						niedz.					
+
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			27		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					27			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			28		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					28			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			29		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					29			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			30		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					30			
+
+
+
+
+
+
+
+
+
+			1 wydarzenie,
+		
+
+			31		
+
+
+
+
+
+
+
+		1 wydarzenie,
+	
+
+
+				31			
+
+
+
+
+
+
+
+		10:00	
+
+
+
+		szybki monitoring nbp. analiza sytuacji sektora przedsiębiorstw (styczeń 2025)	
+
+
+
+
+
+31 stycznia @ 10:00 
+
+
+
+		szybki monitoring nbp. analiza sytuacji sektora przedsiębiorstw (styczeń 2025)	
+
+
+
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			1		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					1			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			2		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					2			
+
+
+
+
+
+
+
+
+
+
+
+			1 wydarzenie,
+		
+
+			3		
+
+
+
+
+
+
+
+		1 wydarzenie,
+	
+
+
+				3			
+
+
+
+
+
+
+
+		10:00	
+
+
+
+		sytuacja na rynku kredytowym – i kwartał 2025	
+
+
+
+
+
+3 lutego @ 10:00 
+
+
+
+		sytuacja na rynku kredytowym – i kwartał 2025	
+
+
+
+
+
+
+
+
+
+
+
+
+			1 wydarzenie,
+		
+
+			4		
+
+
+
+
+
+
+
+		1 wydarzenie,
+	
+
+
+				4			
+
+
+
+
+
+
+
+	2025-02-04
+
+
+	posiedzenie decyzyjne rpp
+
+
+
+
+
+	posiedzenie decyzyjne rpp
+
+
+
+
+
+
+4 lutego - 5 lutego 
+
+
+
+		posiedzenie decyzyjne rpp	
+
+
+
+
+
+
+
+
+
+
+
+
+			1 wydarzenie,
+		
+
+			5		
+
+
+
+
+
+
+
+		1 wydarzenie,
+	
+
+
+				5			
+
+
+
+
+
+
+
+	2025-02-04
+
+
+	posiedzenie decyzyjne rpp
+
+
+
+
+
+
+
+
+
+
+
+			1 wydarzenie,
+		
+
+			6		
+
+
+
+
+
+
+
+		1 wydarzenie,
+	
+
+
+				6			
+
+
+
+
+
+
+
+	2025-02-06
+
+
+	emisja wartości kolekcjonerskich
+
+
+
+
+
+	emisja wartości kolekcjonerskich
+
+
+
+
+
+
+6 lutego 
+
+
+
+		emisja wartości kolekcjonerskich	
+
+
+100-lecie zawarcia konkordatu między stolicą apostolską a rzecząpospolitą polską (temat indywidualny)
+
+
+
+
+
+
+
+
+
+
+
+
+			3 wydarzenia,
+		
+
+			7		
+
+
+
+
+
+
+
+		3 wydarzenia,
+	
+
+
+				7			
+
+
+
+
+
+
+
+		14:00	
+
+
+
+		pieniądz rezerwowy i czynniki jego kreacji	
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+		pieniądz rezerwowy i czynniki jego kreacji	
+
+
+
+
+
+
+
+
+
+		14:00	
+
+
+
+		stan oficjalnych aktywów rezerwowych	
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+		stan oficjalnych aktywów rezerwowych	
+
+
+
+
+
+
+
+
+
+		14:00	
+
+
+
+		opis dyskusji na posiedzeniu decyzyjnym rpp	
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+		opis dyskusji na posiedzeniu decyzyjnym rpp	
+
+
+
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			8		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					8			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			9		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					9			
+
+
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			10		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					10			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			11		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					11			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			12		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					12			
+
+
+
+
+
+
+
+
+
+			1 wydarzenie,
+		
+
+			13		
+
+
+
+
+
+
+
+		1 wydarzenie,
+	
+
+
+				13			
+
+
+
+
+
+
+
+		14:00	
+
+
+
+		bilans płatniczy	
+
+
+
+
+
+13 lutego @ 14:00 
+
+
+
+		bilans płatniczy	
+
+
+
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			14		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					14			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			15		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					15			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			16		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					16			
+
+
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			17		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					17			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			18		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					18			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			19		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					19			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			20		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					20			
+
+
+
+
+
+
+
+
+
+			1 wydarzenie,
+		
+
+			21		
+
+
+
+
+
+
+
+		1 wydarzenie,
+	
+
+
+				21			
+
+
+
+
+
+
+
+		14:00	
+
+
+
+		płynne aktywa i pasywa w walutach obcych	
+
+
+
+
+
+21 lutego @ 14:00 
+
+
+
+		płynne aktywa i pasywa w walutach obcych	
+
+
+
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			22		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					22			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			23		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					23			
+
+
+
+
+
+
+
+
+
+
+
+			1 wydarzenie,
+		
+
+			24		
+
+
+
+
+
+
+
+		1 wydarzenie,
+	
+
+
+				24			
+
+
+
+
+
+
+
+		14:00	
+
+
+
+		podaż pieniądza m3 i czynniki jego kreacji	
+
+
+
+
+
+24 lutego @ 14:00 
+
+
+
+		podaż pieniądza m3 i czynniki jego kreacji	
+
+
+
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			25		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					25			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			26		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					26			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			27		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					27			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			28		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					28			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			1		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					1			
+
+
+
+
+
+
+
+
+
+			0 wydarzenia,
+		
+
+			2		
+
+
+
+
+
+		0 wydarzenia,
+	
+
+					2			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        31 stycznia    
+
+
+
+
+
+31 stycznia @ 10:00 
+
+
+
+            szybki monitoring nbp. analiza sytuacji sektora przedsiębiorstw (styczeń 2025)		
+
+
+
+
+
+
+
+
+
+
+
+31 stycznia @ 10:00 
+
+
+
+            szybki monitoring nbp. analiza sytuacji sektora przedsiębiorstw (styczeń 2025)		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        3 lutego    
+
+
+
+
+
+3 lutego @ 10:00 
+
+
+
+            sytuacja na rynku kredytowym – i kwartał 2025		
+
+
+
+
+
+
+
+
+
+
+
+3 lutego @ 10:00 
+
+
+
+            sytuacja na rynku kredytowym – i kwartał 2025		
+
+
+
+
+
+
+
+
+
+
+
+        4 lutego    
+
+
+
+
+
+			cały dzień		
+
+
+
+            posiedzenie decyzyjne rpp		
+
+
+
+
+
+
+
+
+
+
+
+			cały dzień		
+
+
+
+            posiedzenie decyzyjne rpp		
+
+
+
+
+
+
+
+
+
+
+
+        4 lutego    
+
+
+
+
+
+			cały dzień		
+
+
+
+            posiedzenie decyzyjne rpp		
+
+
+
+
+
+
+
+
+
+
+
+			cały dzień		
+
+
+
+            posiedzenie decyzyjne rpp		
+
+
+
+
+
+
+
+
+
+
+
+        6 lutego    
+
+
+
+
+
+			cały dzień		
+
+
+
+            emisja wartości kolekcjonerskich		
+
+
+
+
+
+
+
+
+
+
+
+			cały dzień		
+
+
+
+            emisja wartości kolekcjonerskich		
+
+
+
+
+
+
+
+
+
+
+
+        7 lutego    
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+            pieniądz rezerwowy i czynniki jego kreacji		
+
+
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+            stan oficjalnych aktywów rezerwowych		
+
+
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+            opis dyskusji na posiedzeniu decyzyjnym rpp		
+
+
+
+
+
+
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+            pieniądz rezerwowy i czynniki jego kreacji		
+
+
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+            stan oficjalnych aktywów rezerwowych		
+
+
+
+
+
+
+
+7 lutego @ 14:00 
+
+
+
+            opis dyskusji na posiedzeniu decyzyjnym rpp		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        13 lutego    
+
+
+
+
+
+13 lutego @ 14:00 
+
+
+
+            bilans płatniczy		
+
+
+
+
+
+
+
+
+
+
+
+13 lutego @ 14:00 
+
+
+
+            bilans płatniczy		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        21 lutego    
+
+
+
+
+
+21 lutego @ 14:00 
+
+
+
+            płynne aktywa i pasywa w walutach obcych		
+
+
+
+
+
+
+
+
+
+
+
+21 lutego @ 14:00 
+
+
+
+            płynne aktywa i pasywa w walutach obcych		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        24 lutego    
+
+
+
+
+
+24 lutego @ 14:00 
+
+
+
+            podaż pieniądza m3 i czynniki jego kreacji		
+
+
+
+
+
+
+
+
+
+
+
+24 lutego @ 14:00 
+
+
+
+            podaż pieniądza m3 i czynniki jego kreacji		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		zobacz kalendarz	
+
+
+
+więcej
+                                    agenda rpp
+                                    kalendarz nbp 
+
+
+
+
+
+
+
+ 
+
+więcej
+                                    agenda rpp
+                                    kalendarz nbp 
+
+
+
+
+
+
+
+
+
+
+stopy procentowe 
+
+
+							ładowanie...						
+
+
+
+więcejarchiwum 
+
+
+
+
+
+
+kursy walutostatnia aktualizacja danych: 18-02-2025 
+
+
+
+
+                        ładowanie...                    
+
+
+
+
+
+
+kursy średnie
+(pln)
+
+
+
+
+															1 usd														
+
+
+
+															3,9729														
+
+
+
+															1 eur														
+
+
+
+															4,1574														
+
+
+
+															1 chf														
+
+
+
+															4,4124														
+
+
+
+															1 gbp														
+
+
+
+															5,0074														
+
+
+
+															100 jpy														
+
+
+
+															2,6167														
+
+
+
+
+
+
+więcej
+                                    wykresy
+                                    tabela a 
+
+
+
+
+
+
+
+
+
+
+system płatniczynbp zapewnia sprawne działanie systemu płatniczego, który umożliwia szybki i bezpieczny przepływ pieniędzy pomiędzy ludźmi, jak i podmiotami gospodarczymi. nbp:
+
+organizuje i prowadzi podstawowe rozliczenia pieniężne
+sprawuje nadzór systemowy
+prowadzi działania regulacyjne
+
+więcej 
+
+
+
+system finansowynbp działa na rzecz stabilności systemu finansowego oraz kształtuje warunki niezbędne do rozwoju systemu bankowego:
+
+analizuje i ocenia zagrożenia dla stabilności systemu finansowego
+monitoruje rozwój systemu finansowego
+tworzy z innymi instytucjami państwowymi tzw. sieć bezpieczeństwa finansowego
+
+więcejnadzór makroostrożnościowy 
+
+
+
+
+
+
+                        banknoty i monety					
+
+
+
+
+
+
+
+
+
+
+
+
+
+100-lecie zawarcia konkordatu między stolicą apostolską a rzecząpospolitą polską
+
+
+
+                                            zobacz szczegóły										
+
+
+
+
+
+
+
+
+
+
+
+
+
+skarby sztuki medalierskiej – stanisław małachowski
+
+
+
+                                            zobacz szczegóły										
+
+
+
+
+
+
+
+
+
+
+
+
+
+wyklęci przez komunistów żołnierze niezłomni – ks. władysław gurgacz „sem”
+
+
+
+                                            zobacz szczegóły										
+
+
+
+
+
+
+
+
+
+
+
+
+
+wyklęci przez komunistów żołnierze niezłomni – henryk flame „bartek”
+
+
+
+                                            zobacz szczegóły										
+
+
+
+
+
+
+
+
+
+
+
+
+
+odkryj polskę – zamek w łańcucie
+
+
+
+                                            zobacz szczegóły										
+
+
+
+
+
+
+
+
+
+
+
+
+
+polskie termopile – głogów
+
+
+
+                                            zobacz szczegóły										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+poprzedni
+
+
+
+następny
+
+
+
+
+
+                                monety okolicznościowe							
+
+                                plany emisyjne							
+
+                                zakupy on-line							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+statystyka i sprawozdawczośćdane za: 12-2024 
+
+
+
+                                    ładowanie...                                
+
+
+
+więcej
+                                    podstawowe wykresy
+                                    inflacja bazowa 
+
+
+
+
+
+ edukacjanbp aktywnie wspiera edukację ekonomiczną:
+
+organizuje szkolenia, konkursy, warsztaty
+wspiera i realizuje programy edukacyjne
+udostępnia zasoby edukacyjne
+bada wiedzę finansową polaków
+inicjuje działania w całym kraju
+
+więcej 
+
+
+
+
+polecamy
+
+
+
+
+
+
+
+
+
+
+													mamy 450 ton złota! – prof. glapiński, prezes nbp                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													mamy już 450 ton                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													polski złoty – historia sukcesu                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													bezpieczeństwo płatności elektronicznych: sprawdź, zabezpiecz, aktualizuj                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													publikacja „wielcy polscy ekonomiści. główne nurty polskiej myśli ekonomicznej”                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													banknot polimerowy i srebrna moneta z okazji 550. rocznicy urodzin mikołaja kopernika                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+poprzedni
+
+
+
+następny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								strona: prezes nbp                            
+
+								akademia nbp                            
+
+
+
+
+
+
+
+
+
+
+
+
+polecamy
+
+
+
+
+
+
+
+
+
+
+													mamy 450 ton złota! – prof. glapiński, prezes nbp                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													mamy już 450 ton                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													polski złoty – historia sukcesu                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													bezpieczeństwo płatności elektronicznych: sprawdź, zabezpiecz, aktualizuj                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													publikacja „wielcy polscy ekonomiści. główne nurty polskiej myśli ekonomicznej”                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+
+
+
+
+
+													banknot polimerowy i srebrna moneta z okazji 550. rocznicy urodzin mikołaja kopernika                                                
+
+
+												więcej                                            
+
+
+
+
+
+
+poprzedni
+
+
+
+następny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								strona: prezes nbp                            
+
+								akademia nbp                            
+
+
+
+
+
+
+wskaźniki i rynki
+
+szybki monitoring nbp
+rządowe papiery dłużne
+stawka referencyjna polonia 
+sytuacja płynnościowa 
+operacje narodowego banku polskiego 
+kredyt lombardowy i repo 
+kredyt w ciągu dnia w euro
+system skarbnet4
+ceny i notowania złota
+
+ 
+zobacz również
+
+ewidencja instytucji finansowych (ewib 2.0)
+kontrola dewizowa
+nbp z ukrainą
+
+
+
+ 
+
+więcej 
+
+
+
+
+o nbpnarodowy bank polski jest bankiem centralnym rzeczypospolitej polskiej.
+nbp, zgodnie z konstytucją rp, odpowiada za wartość polskiego pieniądza.
+podstawowym celem działalności nbp jest utrzymanie stabilnego poziomu cen, przy jednoczesnym wspieraniu polityki gospodarczej rządu, o ile nie ogranicza to podstawowego celu nbp.
+organami nbp są prezes nbp, rada polityki pieniężnej oraz zarząd nbp.
+narodowy bank polski jest bankiem centralnym rzeczypospolitej polskiej.
+nbp, zgodnie z konstytucją rp, odpowiada za wartość polskiego pieniądza.
+podstawowym celem działalności nbp jest utrzymanie stabilnego poziomu cen, przy jednoczesnym wspieraniu polityki gospodarczej rządu, o ile nie ogranicza to podstawowego celu nbp.
+organami nbp są prezes nbp, rada polityki pieniężnej oraz zarząd nbp.
+
+
+więcej 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+narodowy bank polski
+ul. świętokrzyska 11/21
+00-919 warszawa
+tel. centr.: 22 185 10 00
+e-mail: listy@nbp.pl
+edoręczenia: ae:pl-86558-35325-fvuie-09
+epuap: /nbp/skrytkaesp
+nip: 525-000-81-98
+regon: 000002223
+swift: nbpl plpw
+
+kontakt   biuro prasowe
+deklaracja dostępności
+regulaminy   rodo
+pytania i odpowiedzi
+
+
+
+linkedin
+facebook
+twitter
+youtube
+instagram
+flickr
+aplikacja mobilna
+ 
+
+
+
+
+ 
+
+sekcje
+o nbp
+polityka pieniężna
+system płatniczy
+system finansowy
+statystyka i sprawozdawczość
+publikacje
+banknoty i monety
+edukacja
+ 
+
+pozostałe
+analitycy i banki
+współpraca techniczna
+azu
+bankowość elektroniczna nbp
+docert
+pki nbp
+web api
+ewib 2.0
+b2b
+zamówienia publiczne
+centrum pieniądza nbp
+centralna biblioteka nbp
+bip
+standardy ochrony małoletnich w nbp
+ 
+
+narodowy bank polski
+ul. świętokrzyska 11/21
+00-919 warszawa
+tel. centr.: 22 185 10 00
+e-mail: listy@nbp.pl
+edoręczenia: ae:pl-86558-35325-fvuie-09
+epuap: /nbp/skrytkaesp
+nip: 525-000-81-98
+regon: 000002223
+swift: nbpl plpw
+
+kontakt   biuro prasowe
+deklaracja dostępności
+regulaminy   rodo
+pytania i odpowiedzi
+
+linkedin
+facebook
+twitter
+youtube
+instagram
+flickr
+aplikacja mobilna
+ 
+
+
+
+
+
+
+
+                        copyright © 1998-2025                    
+
+                        narodowy bank polski.                    
+
+                        wszystkie prawa zastrzeżone.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+generic selectors
+
+
+
+
+
+
+				tylko dokładne dopasowania			
+
+
+
+
+
+
+
+				szukaj w tytule			
+
+
+
+
+
+
+
+				szukaj w treści			
+
+
+
+
+
+
+
+post type selectors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

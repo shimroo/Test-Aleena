@@ -1,0 +1,409 @@
+
+
+
+
+
+
+eovsa - home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle navigation
+
+
+
+
+ home
+
+
+
+
+
+about eovsa
+
+
+science
+
+
+advanced technology
+
+
+instrument specification
+
+
+construction
+
+
+
+
+eovsa data
+
+
+data policy
+
+
+browse data
+
+
+eovsa flare list
+
+
+data products
+
+
+data tutorial
+
+
+requesting eovsa data
+
+
+
+
+today's observing status
+
+
+documentation
+
+
+our people
+
+
+other pages 
+
+
+ eovsa github
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome to the expanded owens valley solar array
+
+
+
+
+
+
+
+ 
+
+latest eovsa spectrogram
+
+
+
+ 
+
+
+
+latest ovro-lwa spectrogram
+
+ 
+
+
+
+ 
+
+
+
+latest ovro-lwa images
+
+
+
+
+ 
+
+
+
+latest sdo/aia 171 image
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+eovsa data
+
+
+browsing and using eovsa data products.
+direct me
+
+
+
+
+
+
+ eovsa wiki
+
+
+access to eovsa documentation, tutorials, and eovsa flare list.
+direct me
+
+
+
+
+
+
+ observing status
+
+
+array status and latest spectrograms/images.
+direct me
+
+
+
+
+
+
+ eovsa publications
+
+
+publications that use eovsa data.
+direct me
+
+
+
+
+
+
+
+
+latest news
+
+
+
+see this stunning radio movie of the april 8, 2024 solar eclipse obtained by the long wavelength array at the owens valley radio observatory (ovro-lwa)!
+
+
+
+
+
+
+overview
+
+
+the expanded owens valley solar array (eovsa) is a university-led community facility dedicated to solar astrophysics and space weather research. eovsa makes daily observations of the sun at microwave frequencies (1-18 ghz) with simultenous imaging and broandband spectroscopy. eovsa is the result of a major expansion of our older array, a project funded by nsf using american recovery and reinvestment act (arra) funds and completed in 2017. the project expanded the array from its old complement of 7 antennas to a total of 13 2.1-m antennas, and replaced the control systems, wiring, and signal processing with modern, far more capable systems. in so doing, we have created a facility that addresses a broad range of new science to serve the scientific community. eovsa is currently being upgraded again by replacing all the remaining old equatorial antennas with new azimuth-altitude-mounted antennas, adding 2 new antennas to the array, and equipping all antennas with new-generation quad-ridge flare feed horns. the upgrade project eovsa-15, supported by the nsf major research instrumentation program (ags-2320478), will create a 15-element array with full imaging spectropolarimetry capabilities and enhanced imaging performance. the project is expected to complete in 2026. please stay tuned.
+the eovsa project aims to support that community by providing open data access and software tools for analysis of the data, to exploit synergies with on-going solar research in other wavelength bands, and to train next-generation scientists. eovsa is a world-class facility for both fundamental research in solar and astrophysical plasma, and also for providing data in areas of important national interest, such as understanding the sun's influence on the earth and near-earth space environment—a subject broadly termed space weather. the solar science being addressed focuses on the magnetic structure of the solar corona, on transient phenomena resulting from magnetic interactions, including the sudden release of energy in solar flares, and subsequent particle acceleration and heating, and on space weather phenomena.
+eovsa operations are funded by nsf under the geospace facilities program and receives additional support from nasa under the hso data support program.
+learn more
+ 
+
+
+
+
+
+
+
+
+
+
+science
+
+
+
+the range of science to be conducted with the expanded ovsa is broad and unique. a list of publications that utilized eovsa data is available at this nasa/ads library. check out the science page for more on each topic.
+
+magnetic and plasma structure above active regions 
+coronal magnetography
+temperature, density, nonthermal electrons
+
+flaring loops and particle acceleration in solar flares
+electrons and magnetic fields in flaring loops
+dynamic imaging and turbulence
+
+drivers of space weather
+f10.7 images
+eruptive events
+
+
+learn more
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+about the instrument
+
+
+
+the ovsa expansion, completed in 2017, was a complete redesign of the array that added 8 new 2-m antennas, and moved the 5 pre-existing 2-m antennas to new locations. these 13 antennas provide 78 baselines for imaging. a 27-m antenna was completely refurbished and modernized with a new control system and a cooled receiver, for dedicated calibration of the array. the maximum baseline grew to more than 1.5 km, for a typical resolution (varies by time of day and season) of about 60"/n ghz. the table at right summarizes the instrument parameters. below are some highlights of the instrument specifications. these are subject to change as the design becomes more detailed during development. 
+learn more
+
+ 
+
+
+
+
+
+ovsa expansion project instrument 
+
+
+
+ovsa upgrade specifications 
+
+
+frequency range 
+1 – 18 ghz 
+
+
+number of data channels 
+2 (dual polarization) 
+
+
+if bandwidth 
+500 mhz per channel 
+
+
+frequency resolution 
+raw: 122 khz (4096
+                          spectral channels)
+science: <40 mhz 
+
+
+time resolution 
+sample time: 20 ms 
+full sweep: 1 s 
+
+
+polarization 
+full stokes (iquv) 
+
+
+number correlator inputs per data channel 
+16 
+
+
+number and type of antennas 
+five 2-m equatorial
+eight 2-m azel
+a 27-m equatorial (cal. only) 
+
+
+angular resolution  
+57"/ n ghz × 51"/ n ghz
+
+
+array size 
+1.08 km ew x 1.22 km ns 
+
+
+
+ 
+
+
+
+
+
+operations of eovsa are supported by the national science foundation under grant no. ags-2130832. additional support is provided by nasa under grant no. 80nssc20k0026. any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the national science foundation and nasa. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+copyright © eovsa website 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

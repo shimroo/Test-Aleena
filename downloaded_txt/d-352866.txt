@@ -1,0 +1,265 @@
+
+
+compression consulting schindler
+
+
+
+
+
+
+
+
+welcome to compression consulting
+
+compression consulting schindler offers its data compression knowledge
+to you. we help choose a method that fits your needs or develop
+a new solution if there is none.
+we also have free giveaways; currently our fast cross-platform
+compressor szip (freeware, executable for various
+systems) and for the programmer the rangecoder,
+one of our entropy coders bundled with a fast and simple probability
+model (gnu gpl source code, other licenses on request). you might also
+want to look at our huffman coding hints page.
+
+
+as michael also has a long experience as configuration manager/configuration
+management system administrator assistence in that area is also offered.
+previous projects included migration of 
+philips speech processing  development
+in vienna from microsoft sourcesafe to 
+rational clearcase  .
+hands-on experience in administrering/planning 
+vss ,
+cvs , 
+subversion  in addition
+to clearcase is is also available.
+
+
+what we can do for you
+what we will not do for you
+what else can we offer
+why should you consult an expert
+costs
+references
+where to find us
+how to contact us 
+szip homepage
+rangecoder homepage
+huffman coding hints
+sort transform homepage
+
+what we can do for you
+
+since you came here you have a desire to make your data smaller.
+reasons could be cut of storage or data
+transfer costs, limitation of bandwidth or storage capacity. we can
+help you by choosing a suitable compression for your needs, or, if
+there is none, develop one. we will also assist you in evaluating
+other's compression proposals and inform you of potential problems.
+
+
+we can also point out to you places where we think a lossy compression
+is possible. we have had a case
+where a technically speaking lossy compression is still regarded lossless
+by the client - the compression could not distinguish 1,2,3 from 3,1,2
+but the client did not care for the sequence anyway. the difference in
+compressed size was 2:1 there.
+
+
+please contact us for configuration management assistence. that area depends
+strongly on the actors and programming style. generally speaking it makes no
+sense to implement new processes that will not work; in most cases it is far
+better to implement something that is used and allow users to make errors
+than to implement a foolproof thing that everyone bypasses by emailing versions
+or sharing unversioned files.
+
+what we will not do
+
+we will not redevelop the wheel; if there is an existing solution to
+your compression needs we will make the contact or show you your
+options. such applications may be image, audio or video where a lot of
+research is done. it may also be that your data matches existing
+standard algorithms or modifications thereof; in that case we could
+tell you what performance to expect and how to modify your data or the
+algorithm for better results. we can help your people writing a
+good compression or we can provide code - the choice is up to you.
+we try to focus on unusual data like high energy
+physics particle tracks, multidimensional raster data or whatever you
+have. our strength is that we try to understand what process causes
+the data and then use that knowledge to design a compression.
+
+
+trying to understand sometimes leads to unusual solutions; in one
+job just changing the readout direction of a 2d-matrix gave 20% less
+compressed data volume; in another place we found that the number of
+detectors could be halved without loss of accuracy; thus not only
+reducing data volume but also device costs (some hundredthousand
+channels less).
+
+other offers
+
+if you need good freeware cross-platform compression program consider
+szip. if your platform is not available
+please contact szip@compressconsult.com  performance tests can be found on
+the monthly 
+archive comparison test  and for
+canterbury corpus .
+
+
+there is our freeware (gnu gpl) range coder
+source code available, bundled with a fast probability model. range
+encoding is similar to arithmetic coding, just faster with slightly
+(usually less than 0.01%) larger files.
+
+
+you can brush up your knowledge about huffman coding on our
+huffman coding hints page. the recipes on that
+page will help you writing a fast huffman coder. at other places you
+might have to pay for that information or do literature work, we
+give it away for free - our job is to choose the right compression for
+your needs, not to hide implementation tricks.
+
+
+if you are looking for a compression algorithm easy to implement in
+hardware which should outperform existing chips in compression and
+throughput please contact us at office@compressconsult.com 
+ - together we can make an excellent product. more information
+is also available at your local patent office; it was filed under
+pct/ep97/06356 for several countries.
+(granted us pat.  6,199,064 )
+
+why consult an expert?
+
+compare design of a data compression with building a car: if you just
+need a low-end play solution you can do it yourself. if you need an average
+solution you go ahead and buy a car; likewise you would use a standard library
+in compression. even there an expert could help, or you may end up
+with a two-seater sportscar to transport a family. if you have unusual
+needs (a "car" to transport spacecrafts, a racing car,...) you go for
+an expert. you should do the same in compression.
+
+what will it cost?
+
+that is a knotty question. you get some savings and you still have
+saved if you give us 90% if it. however we will not take 90% of your
+savings. generally speaking the price must be fixed for each project
+individually after we see what is coming toward us. if you demand
+the impossible we do the same, if your problem can be solved by a
+reference (for example to the the data
+compression library  or some existing code) we most likely do it for free.
+if the problem requires us to read 150 pages of technical documentation
+before we know what is going on you can't expect a free service, the
+same is true if you want an elaborated document of our opinion. we will
+always inform you before we start to charge for our service, so feel
+free to send questions to office@compressconsult.com .
+be sure to give a brief problem description, including parameters
+like required throughput or limited resources.
+
+any references available?
+
+sure, but some are no longer on the web.
+however these should work:
+
+
+two articles for the cern lhc aliche detector (these links are nonlocal, they go to
+cern )
+
+data compression on zero suppressed high energy physics data / schindler, m- alice collaboration.
+alice-int-1996-03; geneva : cern, 1996 
+link to cern 
+
+architectural impact of customised compression methods on the switch based alice daq system / beker, h; carena, w; divià, r; van de vyvre, p; vascotto, alessandro; schindler, m; fuchs, m
+link to cern 
+
+
+my former university institute can be visited here  and i am still mentioned in old staff phone directory 
+
+you may want to know that an uk company distributes its data with a compressed database burnt on cd for direct access. that turned out to be 1/4 of the size and 10 times the speed compared to the normal
+database files. this meant user satisfaction (just 1 cd instead of 2 and a lot faster), cd production cost reduction for them.
+however for security reasons they do not want their name on the web, so please ask who they are and who to contact. they also have an online demo of their product on their website.
+
+
+other references are no longer existing since shutdown of the old university institute server:
+go to michael schindler's old
+university page  and
+look at some papers - the
+cern
+internal paper  has lot of spelling errors due to h. baker, but the technical
+content is ok - none of the authors is english native speaker and it is just
+internal use. a more elaborated version was
+presented
+at osaka   (html )
+(postscript (cern) )
+(postscript (old university page) )
+
+there is also some docs of an
+old project  (no longer) 
+available - be warned, it is technical and you are not familiar with that
+high energy physics experiment.
+
+
+you may test our freeware compressor
+szip, which demonstrates one of our pat. pend.
+((us
+ patent 6,199,064 ; provisional protection in europe was published on oct 27, 1999 under no. 0951753; others
+pending) technologies. a description is available
+here,
+where you will also find the dcc97 paper about it.
+
+
+or you may visit 
+intelligent compression technologies  where michael helped to improve
+their universal coder.
+
+
+a method to nearly double speed of multisymbol arithmetic coding was
+presented at the 
+data compression conference  in 1998, see the 
+rangecoder home page.
+
+
+furthermore if you need an range (arithmetic) coder operating at the speed of a huffman coder  - we have that (unpublished, not the freeware) if your data distribution does not change fast.
+
+where we are
+
+compression consulting schindler is located in vienna, austria. this
+is handy if you are located in the eec and need a development partner.
+customers are typically international: ict 
+is located in usa, cern  in switzerland,
+lnf  in italy, kreutzfeldt
+electronic publishing  in germany, ups  operates globally.
+
+contact 
+
+email: office@compressconsult.com 
+spam is welcomed at spambox@compressconsult.com, it will train the spamfilter.
+
+dipl-ing. michael schindler
+billrothstr. 39/2/21
+a-1190 vienna
+austria - europe
+
+phone, fax: +43 (1) 369 45 45, or +43 (1) 81130415, local time is
+
+
+pgp public key id: 0x656ec49a  fingerprint: b729 1c85 6739 22d4 b309  c4eb 917c 4f11 656e c49a  
+
+
+yes, we have a "gewerbeschein" (permit
+to run a business) for "dienstleistungen in der automatischen datenverarbeitung und informationstechnik".
+our vat-id (umsatzsteuer-identifikationsnummer) is at u43260902.
+
+
+
+
+(c) michael schindler, 2000-2004.
+if you locate a spelling error click here
+
+ 
+
+ szip and the >data</// logo are trademarks or registered trademarks
+of michael schindler.
+all other trademarks or registered trademarks are held by their owners.
+
+
+

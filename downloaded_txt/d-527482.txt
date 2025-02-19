@@ -1,0 +1,964 @@
+
+
+
+
+
+
+
+
+
+wired and wireless network analysis and planning software by tamosoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tamosoft ltd
+
+
+
+
+
+
+en
+
+
+
+
+
+
+
+cn (prc)
+
+
+
+
+
+de
+
+
+
+
+
+en (sg)
+
+
+
+
+
+jp
+
+
+
+
+
+kr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+download
+order
+support
+partners
+
+
+
+
+
+
+
+
+
+
+tamograph site survey
+
+
+a powerful wireless site survey software and rf modeling tool
+
+
+
+
+
+
+
+commview
+
+
+a network monitor and packet analyzer for wired networks
+
+
+
+
+
+
+
+commview for wifi
+
+
+a network monitor and packet analyzer for wireless 802.11 a/b/g/n/ac/ax/be networks
+
+
+
+
+
+
+
+
+
+
+
+tamograph lte and 5g edition
+
+
+our new design and planning tool for 4g lte and 5g nr private cellular networks
+
+
+
+
+
+
+
+throughput test
+
+
+a utility for testing the performance of a wireless or wired network
+
+
+
+
+
+
+
+legacy products
+
+
+information about our products that have reached end-of-life
+
+
+
+
+
+
+
+
+
+
+
+
+
+main downloads
+
+
+download and install our products to experience the difference they can make.
+
+
+
+
+
+
+
+
+
+
+
+manuals and help files
+
+
+explore product documentation, video tours, data sheets, and specifications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+new licenses
+
+
+for those buying from us for the first time.
+
+
+
+
+
+
+
+government users
+
+
+special pricing for government agencies all over the world.
+
+
+
+
+
+
+
+
+
+
+
+upgrades
+
+
+for those who want to upgrade an old product version.
+
+
+
+
+
+
+
+academic users
+
+
+special pricing for schools, universities, and students.
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact support
+
+
+contact us whenever you have questions about products or orders.
+
+
+
+
+
+
+
+
+
+
+
+activation center
+
+
+activate or reactivate your product online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+find a reseller
+
+
+want to buy from a local partner? find one near you.
+
+
+
+
+
+
+
+become a reseller
+
+
+join our partner network if you want to promote and resell our products.
+
+
+
+
+
+
+
+
+
+
+
+reseller login
+
+
+already a reseller? log in here to access special pricing and manage your orders.
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products
+
+
+
+
+
+
+
+
+
+tamograph site survey
+
+
+a powerful wireless site survey software and rf modeling tool
+
+
+
+
+
+
+
+tamograph lte and 5g edition
+
+
+our new design and planning tool for 4g lte and 5g nr private cellular networks
+
+
+
+
+
+
+
+commview
+
+
+a network monitor and packet analyzer for wired networks
+
+
+
+
+
+
+
+commview for wifi
+
+
+a network monitor and packet analyzer for wireless 802.11 a/b/g/n/ac/ax/be networks
+
+
+
+
+
+
+
+throughput test
+
+
+a utility for testing the performance of a wireless or wired network
+
+
+
+
+
+
+
+legacy products
+
+
+information about our products that have reached end-of-life
+
+
+
+
+
+download
+
+
+
+
+
+
+
+
+
+main downloads
+
+
+download and install our products to experience the difference they can make.
+
+
+
+
+
+
+
+manuals and help files
+
+
+explore product documentation, video tours, data sheets, and specifications.
+
+
+
+
+
+order
+
+
+
+
+
+
+
+
+
+new licenses
+
+
+for those buying from us for the first time.
+
+
+
+
+
+
+
+government users
+
+
+special pricing for government agencies all over the world.
+
+
+
+
+
+
+
+upgrades
+
+
+for those who want to upgrade an old product version.
+
+
+
+
+
+
+
+academic users
+
+
+special pricing for schools, universities, and students.
+
+
+
+
+
+support
+
+
+
+
+
+
+
+
+
+contact support
+
+
+contact us whenever you have questions about products or orders.
+
+
+
+
+
+
+
+activation center
+
+
+activate or reactivate your product online.
+
+
+
+
+
+partners
+
+
+
+
+
+
+
+
+
+find a reseller
+
+
+want to buy from a local partner? find one near you.
+
+
+
+
+
+
+
+become a reseller
+
+
+join our partner network if you want to promote and resell our products.
+
+
+
+
+
+
+
+reseller login
+
+
+already a reseller? log in here to access special pricing and manage your orders.
+
+
+
+
+
+
+
+    the store will not work correctly when cookies are disabled.
+
+
+
+
+javascript seems to be disabled in your browser.
+
+                        for the best experience on our site, be sure to turn on javascript in your browser.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tamograph® site survey
+
+                            make smarter decisions based on precise coverage and performance data.
+
+                            if your job involves wi-fi network deployment and maintenance,
+                            you know that radio wave propagation is difficult to predict.
+
+                            it is virtually impossible to consider all the variables that might
+                            affect the health and performance of your wlan.
+
+                            and that’s where tamograph site survey comes to the rescue.
+                        
+
+
+
+
+
+commview®
+
+                            commview is a powerful network monitor and analyzer designed for lan administrators,
+                            security professionals, network programmers, home users... virtually anyone who wants
+                            a full picture of the traffic flowing through a pc or lan segment.
+
+                            this application captures every packet on the wire to display important information such
+                            as a list of packets and network connections, vital statistics, protocol distribution charts, and so on.
+                        
+
+
+
+
+
+commview® for wifi
+
+                            commview for wifi is a network monitor and analyzer for 802.11 a/b/g/n/ac/ax/be networks that displays
+                            important information such as the list of access points and stations, per-node and per-channel statistics,
+                            signal strength, a list of packets and network connections, protocol distribution charts, etc.
+
+                            commview for wifi can help you view and examine packets, pinpoint network problems,
+                            and troubleshoot software and hardware.
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+special offer
+
+everything you need for site surveys and spectrum analysis in a super bundle!
+
+get the bundle
+
+
+
+
+
+
+
+
+
+welcome to tamosoft®
+
+                    tamosoft develops cutting-edge security and network monitoring software for the internet and local area networks,
+                    providing clients with the ability and confidence to meet the challenges of tomorrow's technology.
+                    keeping pace with the industry trends, we offer professional tools that support the latest standards,
+                    protocols, software, and hardware for both wired and wireless networks.
+                
+
+
+
+
+
+
+
+
+
+
+latest news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+february 12, 2025
+
+
+we are excited to announce that wi-spy lucid, the successor to wipry clarity, is now available for ordering. with a shorter sweep time, wi-spy lucid delivers faster and more precise spectrum analysis for your needs.
+
+
+
+
+
+
+
+
+
+read more 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+january 31, 2025
+
+
+tamosoft® throughput test, a utility for testing the performance of wireless or wired networks, has been acquired by netmantics llc. the new product name is tessabyte™ throughput test, and the new version is now available at netmantics.com.
+
+
+
+
+
+
+
+
+
+read more 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+december 20, 2024
+
+
+we are pleased to announce the release of tamograph® site survey 8.3 for windows and macos. the new version includes a search function that allows you to instantly find aps by name, ssid, or mac address, an option to automatically save project backups before important changes, improved zooming and object pasting, as well as many other enhancements and bug fixes. you can download the new version here.
+
+
+
+
+
+
+
+
+
+read more 
+
+
+
+
+
+
+
+
+
+
+^top
+
+
+
+
+
+quick links
+
+home
+purchase
+products
+downloads
+documentation
+support
+
+
+
+
+
+company
+
+news
+blog
+about us
+contact us
+terms and conditions
+privacy policy
+newsletter
+
+
+
+
+
+worldwide sites
+
+chinese (prc)
+english (global)
+english (sg)
+german
+japanese
+korean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                © 1998 - 2025 tamosoft ltd. all rights reserved.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

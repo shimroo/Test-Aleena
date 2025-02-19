@@ -1,0 +1,206 @@
+
+
+
+justin's links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+links.net:
+justin hall's  personal site growing & breaking down since 1994
+
+watch overshare: the links.net story
+
+
+
+contact me
+
+
+
+
+
+
+
+
+human petting zoo
+dated tuesday 23 january 2024
+how to celebrate the 30th anniversary of a personal web site? i considered this morning as i fashioned a three-legged stool over my morning ritual oracular vapors.
+i thought it would be good to have a petting zoo here. basically, i thought, i'll declare links.net a virtual single human petting zoo mostly in text. i've already set myself up as an exhibit, so i don't have to do very much to decorate.
+a good chunk of people will at least peek at a petting zoo. what animals did they bring to this situation which doesn't otherwise have animals in it? and some still-large subset of people will charge in to a petting zoo, sidling up alongside any living thing to begin inter-species speed dating.
+so i can put myself at the center of this justin's links petting zoo. look, my virtual skin - doesn't it look smooth and hairless? that's because most of the photos on this site are from my callow days. now i'm a 49 year old skinbag, who had a basal cell carcinoma removed from his right cheek.
+aren't you curious to touch me, to see what i feel like? meh - you probably have your own problems, and other people in your life you could more meaningfully be in touching. but hey, it's a free petting zoo here today!
+it occurred to me to host a petting zoo for the 30th anniversary of the first visitors to this page probably because these days, i generally feel relieved when i encounter a petting zoo. it means two smaller humans i roam with will be excited, engaged, delighted by the chance to rub their dirty hands across a range of allergens, experiencing small animals who have made some kind of peace being handled by huge strangers.
+so run your rough hands over me. i can take some heavy petting. but no pokey fingers please. nothing in the eyes or mouth. not without consent.
+tbh it's the images
+dated saturday 20 january 2024
+i would update this thing with text strings all the live long. but images, i haven't figured out how i can best get photos from my january 2024 phone situation into my server and embedded in these here texteses. it's a recurring issue over the last few decades of publishing on the web. text is cheap. images are a pain. i'm indulging myself with more and more small text entries, now that i have my software setup to publish. it's the photos though, that would make people feel more touched and stimulated by my affairs. i'm older now and i'm working to spare fewer shits. but i too enjoy the photos, so i'm working on it.
+these blog posts are now written in airtable, the html is created by formulas from the airtable data, and then i paste the results onto links.net via bbedit and sftp. so photos will be slid in somewhere there, as soon as i find an appropriate lubricant.
+
+did figure out how to see the images in my collection of mobile phone commentary cartoons from 2004. but those are old. how about these whiskers???
+
+library usage stats
+dated friday 19 january 2024
+i manage most of the library requests for four people, including one four year old and one seven year old. we can bike past a public library branch on our way to school - mad convenient.  if my kids mention a topic, i open my phone and put a few books on hold about it. i use my phone to request any book i read about online. if it's too new, go back and re-read "best of children's literature 2022" and see if those books are now available from the library, otherwise interlibrary loan. 
+i get a few books for myself now and then - mostly cookbooks. but the vast bulk is children's books. i did some number-crunching on our family library use. here's our stats, not including inter-library loans.
+2023: 427 loans
+2022: 385 loans
+we are loving our library. we have given to the friends of the berkeley public library and we match those donations giving to the friends of the richmond public library and friends of the oakland public library. plus we lived in fort bragg california during the pandemic and we donate to their friends of the fort bragg public library.
+oversharing dean's list
+dated friday 19 january 2024
+in 2014 i marked 20 years on this site by starting production on a documentary: overshare: the links.net story. mercifully only about 40 minutes. and also mercifully i finished in 2015 and didn't have to answer for broader political and social implications of social media. so overshare: the links.net story is what i used to tell people when they asked about my personal web site. then i got older and internet security protocols and internet server setups evolved: while i still felt relatively confident about my life choices, my documentary web site subdomain was insecure. so over many months i finally motivated myself to make a relatively simple change to bring that old moving picture into view again.
+for most sustained historical self-reflection, i'm gifted assistance from another: an internetizen known as michael dean. he sent me an email in october 2023. he had written a 7,917 word essay about my work and he had started his own daily online log. i felt an immediate welling up of overwhelm. i wrote back roughly as follows:
+ thank you michael. iâm moved by your efforts. i havenât yet read your essay; iâm a bit shy at the moment about it. my life has changed so substantially recently i feel more distant from the self of publishing because i havenât made time to make my online presence more authentic to now. a challenging task when i have two live children and i get more emotional succor from our interactions than i feel i would receive from posting for strangers. plus the range of possible outcomes has become so wide online i feel un-calm when i consider an active online public life.
+cleaning the place up for the 30th birthday /bin/bash got me psychologically ready to look at myself again. it took me about four months to read michael dean's link: "the first online writer: lessons from justin hall on rendering your unfiltered consciousness into hypertext".
+that was about thirty minutes agin. i'm flattered and squirming. it's my life told through maybe two rounds of telephone, totally not hip to the new shit. new shit has come to light man. but i am too curtailed to bring the truth as a date to this internet party right now. i eloped with reality.
+michael dean has taken my source material and his 2023 context to re-render me. he has done some serious sifting and analysis of my wordpiles herein. and the papers i've soiled elsewhere. i appreciated greatly his approach: he's steadily encouraging people to find their own self expression, to experiment. the conclusion of his piece has some provocative tips to possibly sustain a life of virtual nudity; public or semi-public personal self-exposure. his dedication to sustained public notation seems to go well with 
+and he provides this amusing graph:
+
+i'm writing this at the time i've read it. i suspect i will have more feelings about being the object of this scholarship. i'm grateful to michael for showing me what a personal commitment to daily weblogging and personal hypertext thinking can look like today.
+leveraging children to ramp exercise
+dated monday 15 january 2024
+i often thought i should keep lifting up my kids consistently. never stop doing 10 lifts of this kid per day. if we keep feeding them, they get heavier, and i will gradually ramp up a great workout.
+it hasn't been that linear and routine, but i did carry 40lbs #2 on my shoulders for maybe 2.5 miles yesterday so that's a form of exercise that persists.
+the last day of last year i met a parent of a 12 and 15 year old, they said the 12 year old can bike along with them and it's pleasant, the 15 year old only bikes with them if he's slowing himself down and bored. she told me her husband trained for 6 weeks to be able to take a mountain bike ride with the 15 year old.
+yesterday i took the kids on a 4.5 mile stroll and #1 walked the whole way. so i figure i have a few years to build up mutual endurance until #1 surpasses me and then i will work to stay in parity with #2 and then once #2 achieves hormonal transformation i begin a more measurable decline.
+dusting off for 30
+dated thursday 11 january 2024
+wow now 30 years a meaningful 10 decento counting of time since the first outside visitor to this inside web site.
+it's still just me, here, hi, i'm the web site, it's me.
+at 20 years anniversary of justin's links from the underground i geared up to make a documentary. overshare: the links.net story emerged free online in 2015. i got my video out before our sense of the internet changed in 2016.
+i'm not inclined at this time to make a video further examining the internet and my body across it. i could show you more details of more hairs. and once a year, around the anniversary of the birth of a child i'm lead to believe is mine, i go in for a skin exam where they take pictures with digital rulers of skin things spreading across me. i was found with basel cell carcinoma and had it removed from my right cheek just before i became a parent. they allowed me to film the proceedings and some of them played camera person. i chatted with a number of people and put together a 20 minute video of my face surgery back when i was making the justin hall show 2016-era but that hasn't been published either. now i go once a year to get body scans update to catch skin cancers sooner. what if you just get folks to line up, naked, spread eagle, take super high-res pictures of them, and have computers look for the difference in growths on their skin? then i would miss the sensations of the medical persons nudging or moving me, lifting my arms, maybe spreading my legs. it's a sensual experience. did i wear my underwear? what says more about how much i regard my genitals: wearing my boxers or not wearing my boxers for this audience of doctor & medical assistant strangers? what's the best live action thing that could happen if i take my clothes off in a certain fashion for my skin cancer screening? the optimist wonders.
+now i'm working on another construction to archive my experience and share some of my most important recent learnings with you. i just found my 29 year old self took a moment to round up 10 years of links.net reflections.
+building a new system
+dated sunday 31 december 2023
+old site, old man, new plumbing. i used movable type, a blogging system, for decades now. the gradual increase of internet security protocols eventually foreclosed on my 2013-era software.
+so i spun up something new for 2024, and maybe i can post again more freely. my fingers itch a bit.
+i posted a few months ago that i couldn't access my old editor, and a helpful tim showed up. thank you tim! he helped me access my archives and prepare to make a move.
+so i have started rebuilding the plumbing here - to make it easier to post. plenty of mess as i clean up an old publisher, someone that used to run this joint. a new general manager is meeting you at the front of the establishment but there is a bit of construction. also screams coming from behind a paint-chipped door. it's me as a child. it's my children. they shout and scream. i had too much energy for adults too. maybe they snuck away to their computers of their day - tall stacks of white paper and red pens.
+i turned 49 this month. i started this site when i was 19. this site is just about 30 years old. haha
+dish of the year: ctm
+dated friday 29 december 2023
+during the pandemic we relocated to live with some friends in more rural california. when my birthday rolled around in december i decided to cook my house my favorite ethopian food dish kik alicha. someone driving up from the city brought enough spices and yellow split peas.
+then we moved to berkeley and i decided i wanted to make soon dubu, korean tofu soup. so good. i ended up saving crab shells during dungeoness crab season and then making broth to load up with tofu and all the stuff recommended in this recipe. i love this soup and fortunately my kids do sometimes.
+then 2023 was the year of chicken tikka masala. i love the dish. i should learn to make it. waited until the end of the year, make it with too many sweet lemons from a tree in our garden. the children loved the chicken that was grilled after a yogurt & spice marinade. and the addition of sauteed onions and tomatoes.
+i cook hot breakfast maybe like 345 days a year. i've now lead breakfast prep for 40-60 person camping trips and a wedding brunch. i like cooking for people and i like breakfast.
+dish of the year is a way to keep myself thinking of dinner experiments. gosh wouldn't it be nice to have focus to make a few new dishes a year. i'm sure i do. but there's one that's a bit more than my usual vocabulary. this year i'm aiming for ma po tofu.
+if i get photos working in this nocode blog arrangement i'll share visual evidence
+back to emacs
+dated wednesday 29 november 2023
+ahah! it's late 2023 and i've lost the ability to login to my weblog editing software dating from the second bush administration. i'm alive and happy, working hard on being a parent, partner, and building bud.com into a useful fun online weed source. if you have experience with sysadmin and antique blogging engines, you might be the perl in the oyster who can help me fire up this ol' blog thing. thanks! and hello.
+thanksgiving 2023
+dated thursday 23 november 2023
+continuing a tradition wherein my mom asks me to prepare a blessing for the thanksgiving table, here is 2023's blessing from late november, chicago:
+are we together in this moment yet?
+let's say yes
+"yes"
+let us give thanks
+thanks for stars and star dust
+coalescing into matter and planets
+spawning biology
+cells became awesome dinosaurs
+and warm soft mammals
+letâs give thanks for being mammals
+we have these bodies to carry around our busy minds
+and community to make sense of our time between birth and death
+we make this whole place shimmer
+we can give thanks for civilization
+all the humans who organized the food and heat
+plates and forks that permit us to feast this day
+the airplanes and cars and trucks that brought us together
+we are born as blank space babies
+and civilization writes our name
+we might love the players and we must love the game
+let's bend our heads to acknowledge our massive good fortune
+the peace we have in our lives today to focus on this family moment
+outside is quarreling and combat and loss and strife. it all awaits us.
+inside here is warmth and sustenance and connection.
+can we always be this close forever and ever?
+let's now consume this warm feeling, and have it power this prayer:
+kind heavenly spirit,
+keep these people safe and healthy
+because we love them.
+help the people of the world make tools from weapons.
+help us understand that tribe should not rise up against tribe.
+help us study the difficult ways of peace.
+may our aggressive convictions yield not angry orphans
+but rich fruit for future minds.
+letâs believe our fulfilled potential will make a better world 
+and we have been fed to make a positive impact.
+be with each member of our human family
+in their continual transitions,
+ all those that need thee.
+guide us and keep us,
+and forgive us,
+these things we ask in the name of love and for its sake.
+thanksgiving 2022
+dated friday 25 november 2022
+continuing a tradition wherein my mom asks me to prepare a blessing for the thanksgiving table, here is 2022's blessing from late november, chicago:
+we gather in joan's home with gratitude:
+for our health,
+for our access to resources and ideas,
+that we have known meaningful work.
+we are grateful that we find ways to connect with each other
+as we evolve ourselves.
+we can be glad that sometimes we outlive our secrets
+and still we might know the gentle touch of forgiveness and camaraderie
+none of us are alone
+in worry and suffering
+and we all hope that we can lead a life of purpose
+in love and connection
+past illness and strife
+we may fill our hearts here for the winter.
+we are the fortunate ones today.
+kind heavenly spirit,
+we thank thee for this food,
+and for thy many blessings
+be with each member of our family
+and all those that need thee,
+guide us and keep us,
+and forgive us,
+these things we ask in the name of love and for their sake. 
+amen.
+previously
+https://links.net/daze/19/11/28-thanksgiving-2019.html
+
+2023 moveable type index and daily archives and overall history.
+
+
+
+
+
+
+
+
+
+
+justin hall of justin's links has been aided and abetted by many folks, including movabletype, rimuhosting and joan hall, ranjit bhatnagar, the swarthmore college computer society, jonathan steuer and cyborganic, scott fisher and university of southern california interactive media division, justin reid and nokia's the feature, joi ito and boris anthony, ryan junell, howard rheingold, ilyse magy, my family, friends i have and haven't met yet.
+
+
+
+
+
+
+
+
+
+

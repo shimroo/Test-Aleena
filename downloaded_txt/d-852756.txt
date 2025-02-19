@@ -1,0 +1,139 @@
+
+
+silmaril information consultantssilmarilinformation consultantshomeservicescontactdownloadsdocumentsparticipationquotesprivacyabout us🦣twitterlinkedinphoneemaila 📶l 📶r 📶x 📶silmaril consultantsthe information consultancyyour information is important. we can help you take
+	    care of it.xml • xslt latex • pdf trainingmillions of people produce billions of words a day between
+	them.how much of it reaches its target audience
+	    intact?how much survives the year in a usable form?does it have the intended effect?is your business losing customers because they cannot
+	actually read what you wrote? — in letters, in reports, in
+	contracts, on web pages, in documentation, in email, in white
+	papers?unknown file format?non-existent font?wrong resolution?information unreadable?too slow to load?not searchable?weird characters?copy won't paste?no application found?if any of these sound familiar, have look at the services we provide.servicesxmlxsltlatextypesettingtrainingeditorial serviceswe are always pleased to discuss your requirements, even if
+	they are not covered explicitly here. the contact page has our number and email
+	address.xmldocument type design (rng/dtd/schema) to guide the
+	    creation of structured documents;document management and workflow design;xslttransformation of xml documents to [x]html and other
+	    dialects of xml, and to latex and other markup languages;implementation of business rules and
+	    exception-handling within transformations.latexdocument class and package design and
+	    management to implement the creation of document structures;document management and workflow design;typesettingformatting to publishers' specifications (books,
+	      journals, articles, reports, etc; see publications below);typesetting from transformations from xml.trainingcourses run on client premisesintroduction to xml editingxml document type design and managementintroduction to latexlatex for publishing stafflatex document class and package
+		  creationeditorial servicesdocument creationcopy-editingproofreadinggrammar-checkingselect publicationsséamas ó direáin (2015) a survey of spoken irish
+in the aran islands, co.galway, galway : nuig, 1000 pp.séamus ó tuama [editor] (2009) critical turns in critical theory: new directions in social and political
+	    thought, amsterdam : rodopi, isbn 9781845115593 (a festschrift for
+	    piet strydom, typeset from the editor's odf xml).mathew macnamara (2004) la textualisation de madame bovary, amsterdam : rodopi, isbn 9789042009844 (an analysis of the way flaubert wrote
+	  madame bovary, with parallel-aligned text
+	  showing flaubert's edits and notes alongside prof
+	  macnamara's crticial explanation and comments).collodi carlo; retold by pádraig ó buachalla; and illustrated by roberto innocenti, edited by seán ua súilleabháin and dáibhí ó cróinín (2003) éachtra phinocchio, london : random house, 142 pp, isbn 0954455401 (a new irish rendering of the traditional
+	  pinocchio story, with illustrations positioned
+	  identically to their location in the other translations).peter flynn (1998) understanding sgml and xml tools: practical programs for handling structured text, boston : kluwer, 429 pp, isbn 0-7923-8169-6 (foreword by steve derose. a comprehensive
+		review of the tools and software available for
+		creating, maintaining, and publishing sgml and xml
+		documents on the web and on paper. with cd-rom).trallero-giner c; r pérez-alvarez; and f garcía-moliner (1998) long wave polar modes in semiconductor heterostructures, oxford : pergamon, 165 pp, isbn 0080426948 (largely mathematical work edited by the authors
+	    in scientific word (latex) with every equation scaled to
+	    a different type-size to fit the page).aloys fleischmann (1997) sources of irish traditional music c.
+	    1600-1855: an annotated catalogue of prints &
+	    manuscripts, 1583–1855, new york : garland, isbn 082406948x (the late prof fleischmann's life's work, edited
+	    and brought to publication by paul mcgettrick and micheál
+	    ó suilleabháin. we provided the programming and
+	    typesetting for the musical index, a unique 12–note
+	    locator for the tunes, titles, and first
+	    lines).seán connolly (1997) bede: on tobit & the canticle of
+	    habakkuk, dublin : four courts press, isbn 1851822836 (translation with notes; with an introduction by
+	    diarmuid scully).seán connolly (1996) bede: on the temple, liverpool : liverpool university press, isbn 0853230498 (translation; with an introduction by jennifer
+	    o'reilly).peter flynn (1995) the worldwideweb handbook: an html guide for users, authors, and publishers, boston : international thomson computer press, 350 pp, isbn 1-85032-205-8 (foreword by tim berners-lee. the world's
+		  second book on html, and the first with a fully
+		  valid explanation of his it works, including details
+		  needed back then on how to connect to the internet,
+		  and how to use a browser, as well as how to create
+		  your own web site.).kirakowski jurek and mary corbett (1990) effective methodology for the study of hci, amsterdam : north-holland, 363 pp [human factors in information
+	    technology 5], isbn 0444884475.jurek kirakowski (1988) human-computer interaction: from voltage to knowledge, london : chartwell-bratt, isbn 9144283717.cleary r.m.; m.f. hurley; and e.a. twohig [editors] (1987) archaeological excavations on the cork—dublin gas
+	    pipeline (1981–82), university college cork : department of archaeology (connolly building, dyke parade, cork t12 cy82, ireland), https://www.ucc.ie/en/archaeology/, 165 pp [cork archaeological studies no.1], isbn 0951288407 (this was the first large-scale document for
+	    which we provided latex typesetting support to ucc. the
+	    complex document is a collection of two-column articles
+	    with extensive illustrations.).contact usireland is on gmt (utc), one hour behind central european,
+	five hours ahead of eastern, and eight hours ahead of pacific
+	time. we love to get your calls, but at 4am our time we're
+	likely to be asleep. +353 86 824 5333  info@silmaril.ie  @silmaril_ieplease do not use web addresses, email addresses, or markup characters in your message.send messagedownloadsapplications and utilities we have developed for
+	general use.xml-to-csv demodecorative ruleautorun cdsdirectory listlinux keyboardunicode private use areasthe software and documents linked here are provided under the 
+	terms of the creative commons cc-by-sa or the latex project
+	public license (lppl), as appropriate.xml-to-csv demoa bourne shell script to convert simple data from
+	      xml to csv using onsgmls and
+	      awk; look, mom — no
+	      xslt!linux keyboarddetails of accented letters and other symbols on
+	    linux keyboards.decorative rulea programmatically derived decorative swelled rule
+	    generated in latex (so no repeated graphics required).unicode private use areasshakespeare's 18th sonnet in the original klingon
+	    with tei xml markup in quenya (elvish).autorun cdsan autorun program to make your cd-roms start
+	      automatically under ms-windows by opening index.html in
+	      the user's default browser or editor.directory listbourne shell script using awk
+	      to create a recursive directory listing
+	      as an xml instance (comes with dtd).documentsfree teaching and self-learning materialsthe xml
+	  faqformatting
+	      informationthe latex brochurelatex typeface samplerthe software and documents linked here are provided under the
+	terms of the creative commons cc-by-sa or the latex project
+	public license (lppl), as appropriate. the xml and latex
+	documents incorporate between them all the informational links
+	which were on our previous links page.the xml
+	  faqfrequently-asked questions on xml and related
+	    technologies, with answers from experts
+	    in the fieldlatex typeface samplerthis is a two-page sampler showing most of the typefaces (type 1 and type 3) which are available free from ctan for any installation of latex.formatting
+	      informationa 200-page introduction to typesetting with latex designed for
+		    those with no previous experience. this is the
+		    fifth edition (an earlier edition was published by
+		    the tex users group in tugboat vol. 23 no. 2).the latex brochurethe revised 4-page a4 marketing brochure, as described and
+		    explained in the paper presented to the tug conference 2001 at the university of delaware.participation and outreachthings we are part ofupcomingtex
+	      users grouptypesetting, document structure, fonts, editing,
+	      automation, and typography (2016 is in toronto, july 25–27).balisagethe markup conference moved in
+	      2013 from its long-time home in montréal to bethesda, md
+	      (in 2016 it’s august 2–5). essential for anyone involved in the markup
+	      business.xml
+	      summerschoolthe xml training event, a
+	      week-long immersion in xslt, xquery, publishing, linked
+	      data, and everything xml (for beginners as well as
+	      experts) at st edmund hall, oxford (september 11–16, 2016)historicalietf
+	  working group on htmlhow html was designedthe celt projectthe world's largest collection of irish texts from
+	    c.650 to the good friday
+	    agreement (all in tei xml, and, incidentally, ireland's and ucc's first web site)those quotationsthings people have said about text and textualitythis is a collection of quotations, some of which used to
+	be on our front page. so many people asked for them we decided
+	to collect them together and keep them. if you have any more
+	to add, please mail them
+	  to us.amanda lynn has very kindly translated them all into belorussian on fatcow.anonymous clienttextual therapy is the new paradigm: massaging your
+	      boss's ego has been replaced by massaging her
+	      information.from the cluetrain
+	      manifestothe clue train stopped there four times a day for
+	      ten years and they never took delivery.peter flynn…persuading users that spreading fonts across
+	      the page like peanut butter across hot toast is not the
+	      route to typographic excellence. (posted 
+		on
+		comp.fonts)…xsl: think like a tree, not like a chainsaw.
+	      (posted on the xsl mailing
+		list)frederic goudyany man who would letter-space blackletter would
+	      shag sheep.clientxml isn't about pointy brackets and arcane rules,
+	      it's about improving your bottom line by making your
+	      information work harder.senior administrator of an irish university in
+	    1987this computer networking thing will never take
+	      off…it's just a device to let operators chat to
+	      each other.anonymous usenet posterlots of systems pretend that what you see is what
+	      you get, but unless you have a 1270dpi paper-white a4
+	      screen, wysiwyg 
+	      is just a bare-faced lie. latex's screen preview is
+	      great, but its real forte
+	      is that it just sets type superlatively well, again and
+	      again. for the technologically aware, the payback can be
+	      immense.beta starchild
+	      the paperless office will arrive at about the same time
+	      as the paperless toilet.privacy policythe silmaril web sites only collect personal information
+	in the contact form.this information is only used to reply to you and is not
+	stored.no cookies are used on these sites.about uswho we aresilmaril is a small consultancy based in cork, ireland,
+	ideally placed for serving clients in both europe and north
+	america.our core activities centre on information handling,
+	especially textual information. we work mainly with sgml and
+	xml systems; information transfer from wordprocessor and dtp
+	formats, including the reuse of legacy information;
+	proofreading and markup validation; and
+	publishing automation systems using xml, xslt, and
+	latex.our client list extends to the uk, switzerland, germany,
+	and north america, and includes publishers, software vendors,
+	multinational manufacturers, financial services companies, and
+	local, national, and european government offices. projects
+	include programming and automation solutions, project
+	management, training and education, quality
+	control, and documentation systems.we are always pleased to discuss your requirements, even if
+	they are not covered explicitly here. the contact page has our number and email
+	address.© 1994–2022 silmaril consultants. all rights reserved.design: html5 upsome images ©: 123rf®some images ©: schwallex

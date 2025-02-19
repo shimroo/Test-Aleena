@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+home | doftnet origami
+  
+
+
+
+
+
+
+
+
+
+
+
+
+doftnet origami
+
+
+
+
+
+home
+
+
+≡
+
+
+home
+
+
+instructions
+
+
+globes
+
+
+gallery
+
+
+about
+
+
+
+
+
+welcome to doftnet origami
+thanks for stopping by the all new doftnet origami site. even though the site has been around for a while, we say "all new" because the old servers crashed a few years ago and we're get the hang of using the shiny new pico instance on the doftnet cloud server because doft didn't feel like sinking another decade in to rewriting his own content manager from scratch again. soon at some point, we'll make an updated set of instructions for roses and finish the origamic chemestry section for molecule models, and of course more new globe kits... and whatever else suits doft's whims.
+what's new
+a summary of new content:
+april 20, 2022
+in the last week or so, doft has been contacted by a few people asking about more updates to his oricamic chemistry section which, as y'all can see, was last updated nearly two years ago.  life and shiny things still...  but due to popular demand, we're going to lock doft in the basement until he churns out more instructions - in particular, people have been asking for more details about the other bonds types needed ot make molecules more complex than water.  we don't know how long it's going to take but we're going to make sure it happens sooner than later.
+may 25, 2020
+finally some instructions! origamic chemistry: modular molecule models!
+so the world has gone all catawompus on us over the last few months.  overall this hasn't affected doft too much, which means life and shiny things have kept him too busy to post meaningful updates. that changed over the weekend when someone reached out to him about his origami molecule instructions (which, at the time, didn't really exist).  considering that he had an extra day off for memorial day, and wasn't otherwise overwhelmed with other projects, he decided to go ahead and get crackin' on some shiny new content. 
+april 16, 2020
+added a link to a papercraft hubble space telescope model to the globes page to celebrate the upcoming 30th anniversary of hubble's launch which, nearly 30 years ago, doft witnessed firsthand during his week attending space camp in florida.
+december 18, 2019
+doft finished writing a pico plugin that takes images on a gallery page and generates thumbnails on gallery pages with sites using the doftnet theme and only loads the full size images if needed.  this should reduce the time it takes for gallery pages to load.  also fixed some styling and some other tweaks in the gallery script to improve useability.  animating image transitions, swiping on mobile devices, and keyboard navication on desktop devices are the last missing bits.  stay tuned!
+december 16, 2019
+doft has fixed the page navigation part of the website theme has been fixed so now the correct tabs and breadcrubmbs show at the top of each page again.  he's also made it so the site navigation remains at the top of the browser  when scrolling. there's still some refinement that needs to be done on the gallery script to get it back to where it was before, and we'll also generate actual thumbnail images that will load much faster than the full-sized-but-scaled-down thumbnails that it's currently using.  beyond that it looks like things are back to (mostly) normal. as normal as things ever get around here, anyway.
+december 3, 2019
+doft has re-written a lot of the gallary code. the basic functionality is back to the point of creating clickable thumbnail images that bring up a larger image and description, but swiping on mobile devices doesn't work, it's not animated, and a few other things doft made it do before... plus a couple of new features he'll be adding as well.  more to come.
+december 1, 2019
+well, after an exhaustive search of a cloned copy of the hard drive that the deleted themes were stored on, doft found some peices of his website themes, but much of the rest was probably overwritten.  he's rewriting the theme based on what he found and a copy of one of the pages that got indexed by google at some point... it's a start.  site navigation is still kinda broken, but we're working on it.  sadly the image gallery script (which, on mobile devices, allowed you to swipe through the enlarged photos) was not recovered so we'll have to just develop a new one. 
+the good news is that doft's nextcloud and pico install are newer versions with improved features so doft will be developing things to take advantage of that (and, hopefully make his life easier in the long run)
+november 19, 2019
+whoops! so it turns out that while doft was doing updates, all of his themes and templates mysteriously vanished *cough*he deleted them*cough*. so for the moment y'all are stuck with the default pico theme until he can either recover them or redevelop them.  in the meantime, navigation is kinda broken so maybe he'll work on that a little bit?
+sorry for the trouble.  the good news is that the content is all still there.
+older
+doft's original set of icosahedron origami globes have now been posted to the globes page.  these were the surviving kits left on doft's google drive after the crash.  the full size images link to the kits so you can once again create your own origami solar system!
+also, the about page has a long-winded story about doft and origami.
+elsewhere on the site, he's filling in content as he finds the time.
+thanks!
+looking forawrd to getting the rest of these pages populated.  if you feel like getting in touch with doft, the best place to do so right now is on facebook. doft has also set up a contact form but if you want him to reply from there, you'll have to tell him how to reach you.
+
+
+
+                hosted by doftnet enterprises
+
+
+
+
+
+
+
+
+
+

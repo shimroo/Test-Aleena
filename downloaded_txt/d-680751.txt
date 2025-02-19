@@ -1,0 +1,885 @@
+
+
+
+
+
+
+
+
+
+kim cameron's identity weblog – digital identity, privacy, and the internet's missing identity layer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+ kim cameron's identity weblog
+digital identity, privacy, and the internet's missing identity layer
+menu and widgets
+
+
+
+
+read the laws of identity…or if you already know the science…about this blogmicro biography
+email me
+privacy policy
+more documentsproposal for a common identity framework (2008)
+the identity metasystem (2006)
+microsoft open specification promise
+wifi positioning systems: beware of unintended consequences
+recent presentations
+
+ the laws of identity on the blockchain
+  — eic keynote may 2018.  the laws of identity, embedded in the gdpr, will drive the adoption of decentralized identity anchored by blockchain
+
+
+categories
+
+anonymity
+
+application development
+
+attacks
+
+bandit
+
+believe it or not
+
+biometrics
+
+blog
+
+business model
+
+cardspace
+
+cardspace faq
+
+claims
+
+cloud
+
+code
+
+definitions
+
+delegation
+
+digital eternity
+
+digital identity
+
+digital rights
+
+digitalme
+
+ethics
+
+events
+
+federation
+
+firefox
+
+fraud
+
+hacking
+
+higgins
+
+human interfaces
+
+identity
+
+identity industry
+
+identity management
+
+identity metasystem
+
+idmaas
+
+infocard
+
+information cards
+
+information cards
+
+information loss
+
+intellectual property
+
+law
+
+laws of identity
+
+liberty
+
+linkage
+
+location
+
+metadirectory
+
+minimal disclosure
+
+mobile
+
+national security
+
+no-ssl
+
+openid
+
+openinfocard
+
+osis
+
+pamelaware
+
+phishing
+
+platforms
+
+podcast
+
+privacy
+
+privacy by design
+
+research
+
+risk management
+
+safari
+
+saml
+
+secure payment
+
+shibboleth
+
+social engineering
+
+spoofing
+
+strong authentication
+
+sxip
+
+u-prove
+
+uncategorized
+
+user centric
+
+user control
+
+virtual directory
+
+visual studio
+
+waad
+
+wifi
+
+windows cardspace
+
+ws-*
+
+xmldap
+
+xri
+
+
+blogroll
+
+1 raindrop
+ad cookbook
+alex barnett’s blog
+andre durand
+andy’s infocard blog
+anti phishing working group
+apache trust services toolkit
+ash’s identity management
+between the lines
+bill barnes
+bob blakley
+cardcarrying
+carl’s spam
+chris ceppi
+christian arnold
+craig burton
+dale olds’ virtualsoul
+dave kearns
+david goodman on identity
+dick hardt
+digital dialogs
+digital id world
+doc searls
+documentation
+don box
+don park’s daily habit
+drummond reed
+emergent chaos
+eric norlin
+eternal optimist
+federated media
+feedback
+feide & simplesaml
+fourre-tout numéro 1 (great site, in french)
+francis shanahan
+futuresalon
+geek feminism blog
+hubert le van gong
+ian grigg
+ideal government
+identity woman
+infosec daily
+it conversations
+jackson shaw
+james governor
+james kobielus
+jamie lewis
+jerry fishenden’s blog
+johannes ernst
+john fontana
+julian bond
+julian on software
+kapil sachdeva
+kim cameron
+marc canter
+martin kuppinger
+matias woloski
+matt flynn’s identity management blog
+michael graves
+mike shaver
+my blog of hr
+my son max cameron
+on the identity trail
+open legal writing
+opinity reputation talk
+p. t. ong
+pamela dingle’s blog
+pangloss
+pat patterson
+pete rowley
+phil becker
+phil windley
+planet identity
+planet security
+planetary.net
+plugins
+privacy and identity theft
+privacy international
+radovan janecek
+raving lunacy
+ray corrigan
+replacegoogle
+robert scoble
+robin wilton
+scott c. lemon
+simon grice
+stefan brands
+steve’s identity corner
+support forums
+technorati identity page
+the hogg blog
+the progress bar
+the tao of xdi
+themes
+tiara.org
+toby stevens
+twisted world
+usable security
+vibro.net
+watching them, watching us
+weaverluke
+web services contraptions
+zero influence
+
+
+archives
+
+august 2020
+november 2018
+october 2018
+may 2018
+july 2016
+november 2015
+november 2012
+july 2012
+june 2012
+may 2012
+february 2012
+october 2011
+august 2011
+july 2011
+june 2011
+april 2011
+march 2011
+february 2011
+december 2010
+november 2010
+october 2010
+september 2010
+august 2010
+july 2010
+june 2010
+may 2010
+march 2010
+february 2010
+january 2010
+december 2009
+november 2009
+september 2009
+august 2009
+july 2009
+june 2009
+may 2009
+february 2009
+january 2009
+december 2008
+november 2008
+october 2008
+september 2008
+august 2008
+july 2008
+june 2008
+may 2008
+april 2008
+march 2008
+february 2008
+january 2008
+december 2007
+november 2007
+october 2007
+september 2007
+august 2007
+july 2007
+june 2007
+may 2007
+april 2007
+march 2007
+february 2007
+january 2007
+december 2006
+november 2006
+october 2006
+september 2006
+august 2006
+july 2006
+june 2006
+may 2006
+april 2006
+march 2006
+february 2006
+january 2006
+december 2005
+november 2005
+october 2005
+september 2005
+august 2005
+july 2005
+june 2005
+may 2005
+april 2005
+march 2005
+february 2005
+january 2005
+december 2004
+november 2004
+
+ 
+
+
+
+
+
+
+
+technical naïveté: uk’s matt hancock sticks an ignorant finger in the covid dike 
+
+the following letter from a group of uk parliamentarians rings alarm bells that should awaken all of us – i suspect similar things are happening in the shadows well beyond the borders of the united kingdom…
+the letter recounts the sad story of one more politician with no need for science or expertise – for him, rigorous attention to what systems do to data protection and privacy can simply be dismissed as “bureaucracy”.  here we see a man in over his head – evidently unaware that failure to follow operational procedures protecting security and privacy introduces great risk and undermines both public trust and national security.  i sincerely hope mr. hancock brings in some advisors who have paid their dues and know how this type of shortcut wastes precious time and introduces weakness into our technical infrastructure at a time when cyberattack by organized crime and nation states should get politicians to sober up and get on the case.
+
+elizabeth denham cbe, uk information commissioner
+information commissioner’s office
+wycliffe house
+water lane
+wilmslow
+cheshire sk9 5af
+dear elizabeth denham,
+we are writing to you about the government’s approach to data protection and privacy during the covid-19 pandemic, and also the ico’s approach to ensuring the government is held to account.
+during the crisis, the government has paid scant regard to both privacy concerns and data protection duties. it has engaged private contractors with problematic reputations to process personal data, as highlighted by open democracy and foxglove. it has built a data store of unproven benefit. it chose to build a contact tracing proximity app that centralised and stored more data than was necessary, without sufficient safeguards, as highlighted by the human rights committee. on releasing the app for trial, it failed to notify yourselves in advance of its data protection impact assessment – a fact you highlighted to the human rights committee.
+most recently, the government has admitted breaching their data protection obligations by failing to conduct an impact assessment prior to the launch of their test and trace programme. they have only acknowledged this failing in the face of a threat of legal action by open rights group.the government have highlighted your role at every turn, citing you as an advisor looking at the detail of their work, and using you to justify their actions.
+on monday 20 july, matt hancock indicated his disregard for data protection safeguards, saying to parliament that “i will not be held back by bureaucracy” and claiming, against the stated position of the government’s own legal service, that three dpias covered “all of the necessary”.
+in this context, parliamentarians and the public need to be able to rely on the regulator. however, the government not only appears unwilling to understand its legal duties, it also seems to lack any sense that it needs your advice, except as a shield against criticism.
+regarding test and trace, it is imperative that you take action to establish public confidence – a trusted system is critical to protecting public health. the ico has powers to compel documents to understand data processing, contractual relations and the like (information notices). the ico has powers to assess what needs to change (assessment notices). the ico can demand particular changes are made (enforcement notices).  ultimately the ico has powers to fine government, if it fails to adhere to the standards which the ico is responsible for upholding.
+ico action is urgently required for parliament and the public to have confidence that their data is being treated safely and legally, in the current covid-19 pandemic and beyond.
+signed,
+apsana begum mp
+steven bonnar mp
+alan brown mp
+daisy cooper mp
+sir edward davey mp
+marion fellows mp
+patricia gibson mp
+drew hendry mp
+clive lewis mp
+caroline lucas mp
+kenny macaskill mp
+john mcdonnell mp
+layla moran mp
+grahame morris mp
+john nicholson mp
+sarah olney mp
+bell ribeiro-addy mp
+tommy sheppard mp
+christopher stephens mp
+owen thompson mp
+richard thomson mp philippa whitford mp
+
+ 
+[thanks to patrick mckenna for keeping me in the loop]
+
+
+posted on august 24, 2020august 25, 2020categories believe it or not, digital identity, national security, privacy by design 
+
+
+
+identity blog active again 
+
+many readers will already know that i retired from microsoft after twenty years working as chief architect of identity and other related roles. i had a great time there, and microsoft adopted the laws of identity in 2005 at a time when most tech companies were still under dark influence of “privacy is dead”, building systems destined to crash at endless cost into a privacy-enabled future. microsoft is a big complicated place, but bill gates and satya nadella were as passionate as me about moving microsoft and the industry towards digital identity respectful of the rights of individuals and able to empower both individuals and organizations.  i thank them and all my wonderful colleagues and friends for a really great ride. 
+in the last years i led microsoft to support decentralized identity as the best way to recognize the needs and rights of individual people, as well as the way to move enterprises and governments past the security problems, privacy roadblocks and dead ends that had resulted from the backend systems of the last century.  truly exciting, but i needed more time for my personal life.
+i love being completely in control of my time, but my interest in digital identity is a keen as ever. so besides working with a small startup in toronto called convergence tech on exciting innovation around verifiable credentials and decentralized identity, i’ve decided to start blogging again.  i will, as always, attempt to dissuade those responsible for the most egregious assaults on the laws of identity.  beyond that, i share my thoughts on developments in the world of decentralized identity and technology that enfranchises the individual person so each of us can play our role in a democratic and secure digital future.
+
+
+posted on august 24, 2020august 24, 2020categories digital identity 
+
+
+
+let’s find a more accurate term than ‘self-sovereign identity’ 
+
+i really liked timothy ruff‘s recent post: 7 myths of self-sovereign identity. 
+i was especially glad to see him confirming my observation that the term “self-sovereign”  seems to create a lot more confusion than understanding.  he makes some excellent points in his post, but it left me scratching my head that such a smart guy has to spend his time busting myths that are really just the result of lazy naming.  then again, should we be surprised?  lazy naming is rampant amongst us technologists, making our lives difficult at every turn…
+timothy writes:
+
+i recently attended the id2020 event in new york, where some of the biggest players in identity were on hand, working toward fulfilling the united nations’ sustainable development goal 16.9: identity for all by 2030. it was an excellent event, lots of energy, very professional, and serious about moving the needle on this bhag (big, hairy, audacious goal).
+we heard first-hand examples of the pains caused by broken identity systems around the world, some of which were truly heartbreaking. most of us take for granted that we can prove things about ourselves, unaware that over a billion people cannot, leaving them unable to obtain desirable work or advanced education, open a bank account, hold title to property, or even travel. as noted by the world bank’s id4d, identity is a prerequisite to financial inclusion, and financial inclusion is a big part of solving poverty.
+that means improving identity will reduce poverty, not to mention what it could do for human trafficking. refugees bring another troubling identity dilemma where the need is critical, and where we are commencing efforts through our partnership with irespond.
+the culprit
+several times throughout the event, self-sovereign identity (ssi) was discussed as a new and potentially big part of the solution. while there was clearly hope, there was also skepticism that, in my opinion, stems from misperceptions about what ssi really is and is not.
+if ssi really was what these skeptics thought, i wouldn’t favor it either. and if they knew what ssi really is, i think they’d embrace it wholeheartedly.
+the perception problem begins with the very term, “self-sovereign.”
+at one point on the main stage, the venerable kim cameron, microsoft’s principal identity architect and author of the seminal 7 laws of identity, quipped:
+“the term ‘self-sovereign’ identity makes me think of hillbillies on a survivalist kick.”
+kim went on to clarify that he is strongly in favor of ssi, he just dislikes the term and the negative perceptions it conjures up.
+me, too.
+self-sovereign identity is not a great term — for lots of reasons — but until we have a better one, (“decentralized identity” is a serious candidate) let’s clarify the one we’ve got.
+
+i guess it’s ok to postpone the search for a better term (and no, “decentralized identity” isn’t an answer except amongst identerati!) while people read the 7 myths of self-sovereign identity –  but not for much longer, since the myths resulting from the awful failed name may be contagious:
+
+self-sovereign means self-attested.
+ssi attempts to reduce government’s power over an identity owner.
+ssi creates a national or “universal id” credential.
+ssi gives absolute control over identity.
+there’s a “main” issuer of credentials.
+there’s a built-in method of authenticating.
+user-centric identity is the same as ssi.
+
+all the points timothy makes (except his definition of user-centric identity – my views were explained here in 2008 in –  er – ‘terse prose’, rather like espresso) should help convince people who understand identity that ssi is worth looking at.
+but the first point stands out as a basic stake in the ground.
+decentralized identity systems must allow us to present claims we make about ourselves (now called self-attested), but must allow us to present claims that express things others say about us too.
+governments offer an excellent example.  governments make laws.  for those of us in contact with civilization our legal identities are key to important aspects of our lives – like signing contracts or crossing borders.  so our identity systems must allow us to present legal, verifiable, government-backed claims whenever it is appropriate and we agree to do so.
+writing this, i get a strange déjà-vue pointing out that “just because some tables are green, it doesn’t mean that all tables are green.”  must we really argue that just because some claims should be self-issued, that doesn’t mean all claims should be self-issued?
+the principle is self-evident.  but i’ll be posting at length about the ways we can combine user-control, self-issued claims and verified claims to create the next big mainstream identity technology.
+meanwhile let’s explain to our colleagues who don’t have the opportunity to interact with real customers that  “self-sovereign identity” has been test-marketed and bombed.  let’s start brain-storming a really good name for the true social network that is controlled by its users and allows us to present claims from whoever we want.
+
+
+posted on november 4, 2018november 5, 2018categories digital identity 
+
+
+
+tim cook knocks it home:  gdpr will impact the whole world 
+
+in my last keynote for the european identity conference i described how the laws of identity, that were increasingly flaunted by the internet giants during the decade following their articulation, culminated in sharp and rigorous pushback by the european union in the form of the gdpr – just as the laws had predicted would happen.  in a word, the gdpr turned laws of computer science into legal constructs.
+i also explained how crucially important this was:  that gdpr would press the digital reset button not just on europe, but on the entire world.  i argued it would usher in a whole new “user-in-control” era of technology, one symptom of which would be the rise of the decentralized identity initiative leveraging blockchain.   
+since then one recurring question people have had is why i thought the gdpr regulation, which only applies in europe, would have a broad international impact, since “things are so different in the us”.
+there are two main dynamics at play:
+first, the same issues that led the european union to create the gdpr impact all societies.  there are countless people in america and elsewhere who have lost all confidence in the internet giants to protect their data or their interests.  this has already given rise to social sentiment that is motivating political leaders to get on the right side of history – introducing data privacy legislation.  and in the discussion around what this will be, the gdpr has set the bar and established expectations that make it easy to lead campaigns describing what bad legislation is missing.
+second, all sentient beings within the internet companies understand the fundamental nature of the internet:  it is world-wide and cannot be bifurcated.  building reliable, defensible services that behave differently in europe and north america is a no-win proposition.  technology companies have lobbied for international harmonization of regulations for many years.  over time practicality will push those who choose to bifurcate and ignore the internet’s fundamental nature back to this principle.
+microsoft, which operates a number of giant internet services, saw from the beginning that the gdpr was consistent with humanistic aspirations and that formalizing protections in the ways specified by the gdpr was simply a best practice that should apply to every service we operate everywhere.  satya nadella has consistently supported not only the gdpr, but the citizen’s right to identity and privacy, and beyond that, the whole principle of user-centric computing and giving people control of and access to their data.
+but those with doubts about the world-wide impact of gdpr can now also read carefully the truly remarkable speech given wednesday by apple’s tim cook. he makes it absolutely clear that apple sees the gdpr as a fundamental technology building-block and fully understands that the eu has effectively pushed the digital reset button world-wide – and that this is hugely positive.
+good morning.
+it is an honor to be here with you today in this grand hall, a room that represents what is possible when people of different backgrounds, histories and philosophies come together to build something bigger than themselves.
+
+i am deeply grateful to our hosts. i want to recognize ventsislav karadjov for his service and leadership. and it’s a true privilege to be introduced by his co-host, a statesman i admire greatly, giovanni butarelli.
+now italy has produced more than its share of great leaders and public servants. machiavelli taught us how leaders can get away with evil deeds, and dante showed us what happens when they get caught.
+giovanni has done something very different. through his values, his dedication, his thoughtful work, giovanni, his predecessor peter hustinx — and all of you — have set an example for the world. we are deeply grateful.
+we need you to keep making progress — now more than ever. because these are transformative times. around the world, from copenhagen to chennai to cupertino, new technologies are driving breakthroughs in humanity’s greatest common projects. from preventing and fighting disease, to curbing the effects of climate change, to ensuring every person has access to information and economic opportunity.
+at the same time, we see vividly — painfully — how technology can harm rather than help. platforms and algorithms that promised to improve our lives can actually magnify our worst human tendencies. rogue actors and even governments have taken advantage of user trust to deepen divisions, incite violence and even undermine our shared sense of what is true and what is false.
+this crisis is real. it is not imagined, or exaggerated, or crazy. and those of us who believe in technology’s potential for good must not shrink from this moment.
+now, more than ever — as leaders of governments, as decision-makers in business and as citizens — we must ask ourselves a fundamental question: what kind of world do we want to live in?
+i’m here today because we hope to work with you as partners in answering this question.
+at apple, we are optimistic about technology’s awesome potential for good. but we know that it won’t happen on its own. every day, we work to infuse the devices we make with the humanity that makes us. as i’ve said before, technology is capable of doing great things. but it doesn’t want to do great things. it doesn’t want anything. that part takes all of us.
+that’s why i believe that our missions are so closely aligned. as giovanni puts it, we must act to ensure that technology is designed and developed to serve humankind, and not the other way around.
+we at apple believe that privacy is a fundamental human right. but we also recognize that not everyone sees things as we do. in a way, the desire to put profits over privacy is nothing new.
+as far back as 1890, future supreme court justice louis brandeis published an article in the harvard law review, making the case for a “right to privacy” in the united states.
+he warned: “gossip is no longer the resource of the idle and of the vicious, but has become a trade.”
+today that trade has exploded into a data industrial complex. our own information, from the everyday to the deeply personal, is being weaponized against us with military efficiency.
+every day, billions of dollars change hands and countless decisions are made on the basis of our likes and dislikes, our friends and families, our relationships and conversations, our wishes and fears, our hopes and dreams.
+these scraps of data, each one harmless enough on its own, are carefully assembled, synthesized, traded and sold.
+taken to its extreme, this process creates an enduring digital profile and lets companies know you better than you may know yourself. your profile is then run through algorithms that can serve up increasingly extreme content, pounding our harmless preferences into hardened convictions. if green is your favorite color, you may find yourself reading a lot of articles — or watching a lot of videos — about the insidious threat from people who like orange.
+in the news almost every day, we bear witness to the harmful, even deadly, effects of these narrowed worldviews.
+we shouldn’t sugarcoat the consequences. this is surveillance. and these stockpiles of personal data serve only to enrich the companies that collect them.
+this should make us very uncomfortable. it should unsettle us. and it illustrates the importance of our shared work and the challenges still ahead of us.
+fortunately this year you’ve shown the world that good policy and political will can come together to protect the rights of everyone. we should celebrate the transformative work of the european institutions tasked with the successful implementation of the gdpr. we also celebrate the new steps taken, not only here in europe, but around the world. in singapore, japan, brazil, new zealand and many more nations, regulators are asking tough questions and crafting effective reforms.
+it is time for the rest of the world — including my home country — to follow your lead.
+we at apple are in full support of a comprehensive federal privacy law in the united states. there and everywhere, it should be rooted in four essential rights: first, the right to have personal data minimized. companies should challenge themselves to de-identify customer data — or not to collect it in the first place. second, the right to knowledge. users should always know what data is being collected and what it is being collected for. this is the only way to empower users to decide what collection is legitimate and what isn’t. anything less is a sham. third, the right to access. companies should recognize that data belongs to users, and we should all make it easy for users to get a copy of, correct and delete their personal data. and fourth, the right to security. security is foundational to trust and all other privacy rights.
+now, there are those who would prefer i hadn’t said all of that. some oppose any form of privacy legislation. others will endorse reform in public, and then resist and undermine it behind closed doors.
+they may say to you, “our companies will never achieve technology’s true potential if they are constrained with privacy regulation.” but this notion isn’t just wrong, it is destructive.
+technology’s potential is, and always must be, rooted in the faith people have in it, in the optimism and creativity that it stirs in the hearts of individuals, in its promise and capacity to make the world a better place.
+it’s time to face facts. we will never achieve technology’s true potential without the full faith and confidence of the people who use it.
+at apple, respect for privacy — and a healthy suspicion of authority — have always been in our bloodstream. our first computers were built by misfits, tinkerers and rebels — not in a laboratory or a board room, but in a suburban garage. we introduced the macintosh with a famous tv ad channeling george orwell’s 1984 — a warning of what can happen when technology becomes a tool of power and loses touch with humanity.
+and way back in 2010, steve jobs said in no uncertain terms: “privacy means people know what they’re signing up for, in plain language, and repeatedly.”
+it’s worth remembering the foresight and courage it took to make that statement. when we designed this device we knew it could put more personal data in your pocket than most of us keep in our homes. and there was enormous pressure on steve and apple to bend our values and to freely share this information. but we refused to compromise. in fact, we’ve only deepened our commitment in the decade since.
+from hardware breakthroughs that encrypt fingerprints and faces securely — and only — on your device, to simple and powerful notifications that make clear to every user precisely what they’re sharing and when they are sharing it.
+we aren’t absolutists, and we don’t claim to have all the answers. instead, we always try to return to that simple question: what kind of world do we want to live in?
+at every stage of the creative process, then and now, we engage in an open, honest and robust ethical debate about the products we make and the impact they will have. that’s just a part of our culture.
+we don’t do it because we have to. we do it because we ought to. the values behind our products are as important to us as any feature.
+we understand that the dangers are real — from cyber-criminals to rogue nation states. we’re not willing to leave our users to fend for themselves. and we’ve shown we’ll defend those principles when challenged.
+those values — that commitment to thoughtful debate and transparency — they’re only going to get more important. as progress speeds up, these things should continue to ground us and connect us, first and foremost, to the people we serve.
+artificial intelligence is one area i think a lot about. clearly it’s on the minds of many of my peers as well.
+at its core, this technology promises to learn from people individually to benefit us all. yet advancing ai by collecting huge personal profiles is laziness, not efficiency. for artificial intelligence to be truly smart, it must respect human values, including privacy.
+if we get this wrong, the dangers are profound.
+we can achieve both great artificial intelligence and great privacy standards. it’s not only a possibility, it is a responsibility.
+in the pursuit of artificial intelligence, we should not sacrifice the humanity, creativity and ingenuity that define our human intelligence.
+and at apple, we never will.
+in the mid-19th century, the great american writer henry david thoreau found himself so fed up with the pace and change of industrial society that he moved to a cabin in the woods by walden pond.
+call it the first digital cleanse.
+yet even there, where he hoped to find a bit of peace, he could hear a distant clatter and whistle of a steam engine passing by. “we do not ride on the railroad,” he said. “it rides upon us.”
+those of us who are fortunate enough to work in technology have an enormous responsibility.
+it is not to please every grumpy thoreau out there. that’s an unreasonable standard, and we’ll never meet it.
+we are responsible, however, for recognizing that the devices we make and the platforms we build have real, lasting, even permanent effects on the individuals and communities who use them.
+we must never stop asking ourselves, what kind of world do we want to live in?
+the answer to that question must not be an afterthought, it should be our primary concern.
+we at apple can — and do — provide the very best to our users while treating their most personal data like the precious cargo that it is. and if we can do it, then everyone can do it.
+fortunately, we have your example before us.
+thank you for your work, for your commitment to the possibility of human-centered technology, and for your firm belief that our best days are still ahead of us.
+thank you very much.
+
+ 
+that this speech represents a really commendable watershed moment is best demonstrated by its low point:  tim’s “embellishment” of apple’s stance towards privacy back in 2010.
+in case facts are still of interest, i’ll quote from an article in cso magazine that made it to the front page of digg.com in 2010:
+a microsoft identity guru bit apple and smacked google over mobile privacy policies. once upon a time, before working for microsoft, this same man took ms to task for breaking the laws of identity.  kim cameron, microsoft’s chief identity architect in the identity and security division, said of apple, “if privacy isn’t dead, apple is now amongst those trying to bury it alive.”
+
+collection and use of non-personal information
+we also collect non-personal information – data in a form that does not permit direct association with any specific individual.  we may collect, use, transfer, and disclose non-personal information for any purpose. the following are some examples of non-personal information that we collect and how we may use it:
+· we may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where an apple product is used so that we can better understand customer behavior and improve our products, services, and advertising.
+the ms identity guru put the smack down not only on apple, but also on google, writing in his blog, “maintaining that a personal device fingerprint has ‘no direct association with any specific individual’ is unbelievably specious in 2010 – and even more ludicrous than it used to be now that google and others have collected the information to build giant centralized databases linking phone mac addresses to house addresses. and – big surprise – my iphone, at least, came bundled with google’s location service.”
+apple’s new policy is also under fire from two congressmen who gave apple until july 12th to respond. reps. edward j. markey (d-mass.) and joe barton (r-texas) sent a letter to apple ceo steve jobs asking for answers about apple gathering location information on its customers.
+cameron seems to believe location based identifiers and these changes of privacy policies may open the eyes of some people to the, “new world-wide databases linking device identifiers and home addresses.”
+
+ 
+for the record, the only error in the cso article is that i actually took microsoft to task for having broken the laws of identity while i worked at microsoft.  and the main reason i stayed at microsoft is because they listened.
+by the way, i’ve never admitted this before, but i was so peaved by apple’s assertion that they could release my identifier and location to anyone they wanted, that i took my iphone, which until then i had liked, put it on my driveway, and squished it into aluminum foil by driving over it several times.
+in light of tim cook’s terrific speech, i think i will probably get one again.  thanks, tim, for pressing that reset button.
+
+
+posted on october 27, 2018october 27, 2018categories digital identity 
+
+
+
+the laws of identity on the blockchain 
+
+these days people tend to ask me two main questions: what do i think about blockchain identity?  and what does it change in the laws of identity? in my keynote at kuupinger cole’s 2018 european identity and cloud conference i took the opportunity to answer both. 
+of course i had no choice about that. neither question can be discussed without considering the other.  identity on the blockchain must be subject to the laws of identity. in fact, the gdpr codifies a number of the laws which originated as computer science into the basic legal fabric of europe – with an impact on technology that i think will be world-wide.  i’ll be discussing the way gdpr will help drive blockchain identity in more detail going forward.  meanwhile, the video of my initial presentation on this subject is here:
+
+
+
+
+posted on may 27, 2018may 27, 2018categories digital identity 
+
+
+
+eic 2016 in munich 
+
+like the other attendees, i very much enjoyed the kuppinger cole european identity and cloud conference (eic) 2016 held in munich in may.  the conference is growing by leaps and bounds but still provides plenty of opportunity for interaction and exchange of information.   run by europeans for europeans, it provides great insights for those of us from outside the eu and gives us a better understanding of the hot-topics in the european it community.
+again i’ll just share tweets hoping it will give a feel for what transpired.  my slightly personal keynote on the cloud is rewiring the world – what does it mean for identity and my presentation the future of ad in the days of azure ad  are posted courtesy of kuppinger cole.
+note: originally a “storify” recapitulation of twitter traffic appeared here, but “storify” disappeared and nuked everyone’s content on may 16th 2018.
+
+
+posted on july 7, 2016may 27, 2018categories digital identity 
+
+
+
+keynote on laws of identity at iiw 
+
+this year phil windley asked me to give “the opening keynote” at the internet identity workshop (iiw) conference in mountain view ca.  i was a little skeptical…
+if you haven’t attended, the iiw is the perfect “un-conference.  it has no keynotes or panels, it’s about getting stuff done.”  besides that, everyone doing anything leading edge in digital identity attends as often as they can – it’s a place to collaborate and a who’s who of experts.  why keynote them?
+but phil explained there were many attending the conference who were new to identity and didn’t have any context or way to grasp what people working in the area had already been through.  so he asked me to talk about “the laws of identity 10 years later”.
+the “later” was intriguing.  it gave me the opportunity to share what we had learned 10 years ago, and then begin to discuss what we have learned since.  i’ve been wanting the chance to get a conversation going about that, so i agreed to take the risk of breaking the no-keynote taboo.
+as the day of the conference approached, i saw there was no mention of a keynote in the conference materials, and began to dread being booed out of mountain view for doing a keynote in a sacred place…  anyway i forsook slides (what a liberating experience!) and just jotted down a few notes in case the keynote (an un-keynote?) actually took place.  which it did – and those in the audience were more than gracious.  it led to great conversations with people approaching identity in new ways, including conversations about one of my big new interests:  blockchain.
+i thought the best way to share the experience is by sharing the kim cameron iiw twitter feed.  so here goes:
+[&lt;a href=”//storify.com/kim_cameron/keynote-at-iiw” target=”_blank”&gt;view the story “keynote at iiw” on storify&lt;/a&gt;]
+
+
+posted on july 4, 2016july 4, 2016categories digital identity 
+
+
+
+lost in translation 
+
+it was pretty exciting to start posting again and once more feel like part of the twitoblogosphere, or digital reality, or whatever we’re calling it.  i have to admit to not a small amount of regret for having neglected my blog for so long – in spite of my long list of “excellent reasons” for having done so. i was therefore prepared for a nudge or two from my friends, like mary branscombe’s:
+
+yet it was wonderful to see the interest from the people i don’t know yet, like naohiro fujie from japan…
+
+… until i actually went to see what he had said, and, since it was in japanese, pressed facebook’s “translation” button:
+
+whew!  that’s a real punishment for neglecting a blog!  or, perhaps worse, a bit extreme as a reaction to seeing me pick up the pen again.
+but given naohiro was just a click away i thought i really had to check in and see what was up:
+
+boy!  it sure shows it’s better to check your understanding of what people are saying before drawing any conclusions!
+meanwhile, i give facebook’s japanese translation engine a double *fail*.  please, facebook!  take off that translate button!  and nice to meet you naohiro.
+
+
+posted on november 6, 2015november 6, 2015categories digital identity 
+
+
+
+a look inside azuread b2c 
+
+alex simons asked me to write a piece for his azure active directory team blog on our policy-based architecture and the “identity experience engine” we developed to handle azuread’s b2c scenarios.  you can read what amounts to my first public description of our new technology at “a look inside azuread b2c with kim cameron” – reprinted here for convenience:
+
+last month stuart kwan wrote a great intro to our new azure active directory b2c service and showed people how to start using it. as he explained, “once you have a b2c tenant, you register applications and configure policies which drive the behavior of sign in, sign up, and other user experiences. policies are the secret sauce of azure ad b2c.” he gave step-by-step instructions and showed examples like this one of using the b2c admin portal to configure a policy based on social network providers:today i’d like to build on stuart’s introduction by explaining why we saw a customizable, policy-based approach to b2c as being essential – and what it means for the rest of our identity architecture. this will help you understand how our b2c basic offering, now in public preview, actually works. it will also provide insight into the capabilities of our upcoming b2c premium offering, currently in private preview with marquee customers. i think it will become evident that the combination of our basic and premium products will represent a substantial step forward for the industry. it means organizations of any size can handle all their different customer relationships, grow without limitation, gain exceptional control of user experience and still dramatically reduce risk, cost, and complexity.
+the why
+readers of this blog probably already know quite a bit about enterprise identity management. so let me begin with what i think is the most important piece of information i can convey to people who are already expert: b2c does not just involve a couple of tweaks on the identity management we have learned to do for employees and devices. the underlying technical infrastructure, the developer model, the protocols and information storage concepts, continue to apply. but whole new technical capabilities are also required that make b2c, well… different.
+to fully understand what’s at play we need to ask, “what are the differences between the way businesses interact digitally with their customers and the way they interact with their employees?” this isn’t the place to explore this – i’ll do so on identityblog. for now i’ll sketch the big picture as i see it.
+organizations and their employees typically have a close and ongoing relationship. employers “know” their employees, having verified their qualifications and made them part of an enterprise team. they assign them a “corporate identity” – an account and password (and potentially a smartcard or otp device) through which they identify themselves to corporate systems. to maximize productivity, employees typically log in once and work using their corporate identity for long periods of time. internal identity systems have not generally been context-aware: the context has simply been that the employee is at work, doing his or her job.
+meanwhile organizations have had a completely different approach towards their customers. relationships with customers have been driven by sales and marketing departments, not by traditional it departments. the goal has been to eliminate friction (and clicks!) so new customers come on board – even before the enterprise knows the slightest thing about them – and then deepen the relationship and get to know the customer based on his or her specific needs and behaviors. succeeding at this results in retention of the customer over time. marketers in a number of industries actually see the ultimate role of customer identity being to learn how to delight their customer.
+clearly there are also cases where customers need access to their own valuable possessions and information, for example, in financial, health, insurance and government scenarios. here customers will be willing to jump through various hoops to prove their entitlement and protect what is theirs. but far from being an exception, such high value scenarios drive home the fact that interacting with customers is all about being able to match the customer experience and related identity interaction to the specific activity a customer is engaged in rather than imposing some inflexible one-size-fits-all approach on everything.
+the essential is that b2c scenarios demand, above all else, the ability to customize the customer’s identity experience to what is right for whatever they are doing.
+the what 
+the requirement for continuous customization led us to create a technology enabling organizations to create “policies” that allow complete control over identity behaviors and experiences, and use these to drive the behavior of a flexible “identity experience engine” that handles all the issues around security, information protection, protocols, support for mobile and web devices and applications, and scalability.
+any application developer, department, enterprise, or group of enterprises can create policies. then applications and portals can, depending on their context, invoke the identity experience engine passing the name of a policy and get precisely the behavior and information exchange they want without any muss, fuss or risk. these policies are what stuart kwan called “the secret sauce of azure ad b2c”.
+what behaviors of the identity experience engine do the policies control?
+
+the set of html and css pages that are scrubbed for security compliance (e.g. cross-site scripting vulnerability) and then presented to users
+user journeys – the visual experiences through which the customer progresses in a given policy
+identity providers (for example the social networks, isvs, and enterprise or national idps that can be used to establish identity)
+relying parties who can use the policy
+authentication requirements, including multifactor orchestration
+integration with claims verifiers (hosted within an enterprise or provided by external partners)
+shared schema and mappings to participants (different systems name things differently)
+claims transformations and data minimization (hashing and/or transformation of attributes revealing pii into non-identifying demographic attributes)
+blinding and encryption
+claims storage
+web service calls and workflow initiation
+protocol conversion (saml, oauth2, and openidconnect)
+
+the idea of user journeys is key to the customization of customer experience and sheds light on how the system works at the protocol level. the identity experience engine operates as a pipeline and uses request/response claims exchanges to communicate with its internal components as well as with external entities.
+the diagram below shows the example of a browser application or mobile application redirecting to the identity experience engine while specifying a policy that invokes a user journey. this particular journey begins with an identity selection experience – completely customized by the policy to blend into the rest of the application or portal. the customer then chooses whether to log in with an email-based “application-specific account” or with a social network. because the journey is intended to control access to a high value resource, the customer’s phone numbers are retrieved from the customer directory and she is asked to up-level her authentication using an sms or phone call. then a token is issued for the application providing a number of claims retrieved from the store. of course the policy author could have created any other journey appropriate for a given use case. there is no requirement to use mfa, consult a store, use social providers or anything else: all is flexible and extensible.
+
+the how 
+it is important to understand that the identity experience engine used in b2c is an intrinsic part of azure active directory, not some new service. the policy-based approach applies to many aad scenarios besides b2c. all enterprise computing can benefit from policy-based identity and you likely already recognize that aad premium’s conditional access introduces these capabilities into b2e scenarios.
+it is our goal to make aad b2c identity management available to every organization regardless of size or complexity. we’ve been working with a host of companies in preview to make sure our b2c basic offering solves the customer identity challenges of a wide cross section of companies solving straightforward issues.
+b2c basic uses all the same technology as will b2c premium. the difference is that the basic policies are 100% written by our b2c basic admin portal. as stuart explained, to author policy, you pick all the options you need to integrate a growing number of social providers and/or a customizable identity provider uniquely for your tenant. you can extend schema and select multi-factor authentication, do email verification and much more. you choose what information is released to which application. as you maneuver through the portal it writes your policy.
+b2c premium will be a superset of b2c basic in which you will be able to take advantage of all the other capabilities of the system that are not present in the basic portal. premium is not yet in public preview. but i invite you to follow a set of posts i will be beginning soon on identityblog to tell you all about it and show examples of how it works.
+i hope to hear from you there. meanwhile, please take a good look at b2c basic in light of the whole world of capabilities aad b2c premium is opening up.
+
+
+
+posted on november 3, 2015november 3, 2015categories digital identity, identity, identity management, idmaas 
+
+
+
+azure active directory b2c is now in public preview 
+
+for the last several years i’ve been working on a new technology and capability that we are calling “azure active directory b2c.”   i’m delighted that i’m finally able to tell you about it, and share the ideas behind it.
+for me it is the next step in the journey to give individual consumers, enterprises and governments the identity systems they need in this period of continuously more digital interaction and increasing threats to our security and privacy.
+i don’t normally put official microsoft content on these pages, but given how important the b2c initiative is, how closely i’ve been involved, and how well it has been received, i think it makes sense to show you microsoft’s announcement about “b2c basic”.  it appeared on the azure active directory blog.  stuart kwan does a great job of introducing you to the product.
+i hope you’ll take a look at his introduction.  i’ll be posting a number of pieces which expand on it – exploring issues we faced, giving you the background on the thinking behind the architecture and implementation, and telling you about the “b2c premium” offering that is coming soon. i think the combination of basic’s accessibility and premium’s feature completeness really offers a new paradigm and amazing opportunities for everyone.
+
+introducing microsoft azure active directory b2c
+by stuart kwan
+with azure active directory b2c we’re extending azure ad to address consumer identity management for your applications:
+
+
+essential identity management for web, pc, and mobile apps: support sign in to your application using popular social networks like facebook or google, or create accounts with usernames and passwords specifically for your application. self-service password management and profile management are provided out of the box. phone-based multi-factor authentication enables an extra measure of protection.
+highly customizable and under your control: sign up and sign in experiences are in the critical path of the most important activities in your applications. b2c gives you a high degree of control over the look and feel of these experiences, while at the same time reducing the attack surface area of your application – you never have to handle a user’s password. microsoft is completely under the covers and not visible to your end users. your user data belongs to you, not microsoft, and is under your control.
+proven scalability and availability: whether you have hundreds of users or hundreds of millions of users, b2c is designed to handle your load, anywhere in the world. azure ad is deployed in more than two dozen datacenters, and services hundreds of millions of users with billions of authentications per day. our engineers monitor the service 24/7.
+unique user protection features: microsoft invests deeply in protection technology for our users. we have teams of domain experts that track the threat landscape. we’re constantly monitoring sign up and sign in activity to identify attacks and adapt our protection mechanisms. with b2c we’ll apply these anomaly, anti-fraud, and account compromise detection systems to your users.
+pay as you go: azure active directory is a global service benefiting from tremendous economies of scale, allowing us to pass these savings along to you. we offer the b2c service on a consumption basis – you only pay for the resources that you use. developers can take advantage of the free tier of the service when building their application.
+
+
+b2c uses the same familiar programming model of azure active directory. you can quickly and easily connect your application to b2c using industry standards oauth 2.0 and openid connect for authentication, and odata v3 for user management via our graph api. web app, web api, mobile and pc app scenarios are fully supported. the same open source libraries that are used with azure active directory can be used with b2c to accelerate development.
+if you want, you can get started right now! the rest of this post takes a look at how b2c works in detail.
+how it works
+the best way to describe b2c is to see it in action. let’s look at an example. our heroes, proseware, have a consumer-facing web site. the site uses b2c for identity management. in this case that means sign in, and user self-service sign up, profile management, and password reset. here’s the proseware homepage:
+
+a new user would click sign up to create a new account. they have the choice of creating an account using google, facebook, or by creating a proseware account:
+
+one quick note. the microsoft button doesn’t work yet, but it will soon. it isn’t available at the start of the preview as we have more work to do in our converged programming model before we enable this.
+what’s a proseware account? as it turns out, there are many people out there who don’t always want to use a social account to sign in. you probably have your own personal decision tree for when you use your facebook, google, microsoft or other social account to sign in, or when you create an account specifically for a site or app. in b2c a proseware account is what we call a local account. it’s an account that gets created in the b2c tenant using an email address or a flat string as a username, and a password that is stored in the tenant. it’s local because it only works with apps registered in your b2c tenant. it can’t be used to sign in to office 365, for example.
+if a person decides to sign up with a social account, b2c uses information from the social account to pre-fill the user object that will be created in the b2c tenant, and asks the user for any other attributes configured by the developer:
+
+here we can see the user is also asked to enter a membership number and offering type. these are custom attributes the proseware developer has added to the schema of the b2c tenant.
+if a person decides to sign up with a proseware account, b2c gathers the attributes configured by the developer plus information needed to create a local account. in this case the developer has configured local accounts using email as username, so the person signing up is also asked to verify their email address:
+
+b2c takes care of verifying the person signing up has control of that email address before allowing them to proceed. voila, the user is signed up and signed in to proseware!
+you might ask yourself, how much code did i need to write to make this elaborate sign up screen? actually, almost none. the sign up page is being rendered by azure ad b2c, not by the proseware application. i didn’t have to write any code at all for the logic on that page. i only had to write the html and css so the page rendered with a proseware look and feel. the logic for verifying the user’s email address and everything else on the page is b2c code. all i had to do was send an openid connect request to b2c requesting the user sign up flow. i’ll go into more detail on this later when i talk about how i wrote the app and configured the b2c tenant.
+let’s look at a return visit. the user returns and clicks sign-in:
+
+if the user clicks one of the social network providers, b2c will direct the person to the provider to sign in. upon their return b2c also picks up attributes stored in the directory and returns them to the app, signing the user in.
+if the user clicks the proseware account button, they’ll see the local account sign in page, enter their name and password, and sign in:
+
+that’s it! now i’ll show you how i built this example.
+configuring azure ad b2c
+step one was to get an azure ad b2c tenant. you can do this by going to the azure ad section of the azure management portal and creating a b2c tenant (for a shortcut, see the b2c getting started page). b2c tenants are a little different from regular azure ad tenants. for example, in a regular tenant, by default users can see each other in the address book. that’s what you’d expect in a company or school – people can look each other up. in a b2c tenant, by default users cannot see each other in the address book. that’s what you’d expect – your consumer users shouldn’t be able to browse each other!
+once you have a b2c tenant, you register applications in the tenant and configure policies which drive the behavior of sign in, sign up, and other user experiences. policies are the secret sauce of azure ad b2c. to configure these policies, you jump through a link to the new azure management portal:
+
+this is also the place where you find controls for setting up applications, social network providers, and custom attributes. i’m going to focus on sign up policy for this example. here’s the list of sign up policies in the tenant. you can create more than one, each driving different behavior:
+
+for the proseware example i created the b2c_1_standardsignup policy. this policy allows a user to sign up using facebook, google, or email-named local accounts:
+
+in sign up attributes i indicated what attributes should be gathered from the user during sign up. the list includes custom attributes i created earlier, membership number and offering type:
+
+when a user completes sign up they are automatically signed in to the application. using application claims i select what attributes i want to send to the application from the directory at that moment:
+
+i’m not using multifactor authentication in this example, but if i did it’s just a simple on/off switch. during sign up the user would be prompted to enter their phone number and we would verify it in that moment.
+finally, i configured user experience customizations. you might have noticed that the sign up and sign-in experiences have a proseware look and feel, and there isn’t much if any visual evidence of microsoft or azure ad. we know that for you to build compelling consumer-facing experiences you have to have as much control as possible over look and feel, so b2c is very customizable even in this initial preview. we do this by enabling you to specify html and css for the pages rendered by b2c. here’s what the sign up page would look like with the default look and feel:
+
+but if i configure a b2c with a url to a web page i created with proseware-specific look and feel:
+
+then the sign up experience looks like this:
+
+you can probably imagine a number of different approaches for this kind of customization. we’re partial to this approach, as opposed to say an api-based approach, because it means our servers are responsible for correct handling of things like passwords, and our protection systems can gather the maximum signal from the client for anomaly detection. in an api-based approach, your app would need to gather and handle passwords, and some amount of valuable signal would be lost.
+one quick side note. in the initial preview it is possible to do html/css customization of all the pages except the local account sign in page. that page currently supports azure ad tenant-branding style customization. we’ll be adding the html/css customization of the sign in page before ga. also, we currently block the use of javascript for customization, but we expect to enable this later.
+that’s a quick look at how i set up a sign up policy. configuring other policies like sign in and profile management is very similar. as i mentioned earlier, you can create as many policies as you want, so you can trigger different behaviors even within the same app. how to do that? by requesting a specific policy at runtime! let’s look at the code.
+building an app that uses b2c
+the programming model for azure ad b2c is super simple. every request you send to b2c is an oauth 2.0 or openid connect request with one additional parameter, the policy parameter “p=”. this instructs b2c which policy you want to apply to the request. when someone clicks the sign up button on the proseware web app, the app sends this openid connect sign-in request:
+get /prosewareb2c.onmicrosoft.com/oauth2/v2.0/authorize?
+response_type=id_token&
+client_id=9bdade37-a70b-4eee-ae7a-b38e2c8a1416&
+redirect_uri=https://proseware.skwantoso.com/auth/openid/return&
+response_mode=form_post&
+nonce= wzrmd9lc95hehvdz&
+scope=openid&
+p=b2c_1_standardsignup
+http/1.1
+the policy parameter in this example invokes the sign up policy called b2c_1_standardsignup. the openid connect response contains an id_token as usual, carrying the claims i configured in the policy:
+post https://proseware.skwantoso.com/auth/openid/return http/1.1
+id_token=eyj0exaioijkv1qilcjhbgcioijsuzi1niisimtpzci6iklkvg9rzw5tawduaw5ns2v5q29udgfpbmvyin0.eyjlehaioje0ndixmjc2otysim5izii6mtq0mjeynda5niwidmvyijoims4wiiwiaxnzijoiahr0chm6ly9sb2dpbi5tawnyb3nvznrvbmxpbmuuy29tl2q3yzm3n2rilwy2mdktndfmmy1izta5ltjinznkzwzkndhhmc92mi4wlyisimfjcii6imiyy18xx3n0yw5kyxjkc2lnbnvwiiwic3viijoitm90ihn1chbvcnrlzcbjdxjyzw50bhkuifvzzsbvawqgy2xhaw0uiiwiyxvkijoiowjkywrlmzctytcwyi00zwvllwfln2etyjm4ztjjogexnde2iiwibm9uy2uioijxeljnrdlmqzk1sgvidkr6iiwiawf0ijoxndqymti0mdk2lcjhdxrox3rpbwuioje0ndixmjqwotysim9pzci6ijjjnzvkmwq1ltu5ywytndc5yi1howmzlwq4ndfmzji5odixniisimvtywlscyi6wyjza3dhbkbtawnyb3nvznquy29til0simlkcci6imxvy2fsqwnjb3vudef1dghlbnrpy2f0aw9uiiwibmftzsi6iln0dwfydcbld2fuiiwizxh0zw5zaw9ux01lbwjlcnnoaxbodw1izxiioiixmjm0iiwizxh0zw5zaw9ux09mzmvyaw5nvhlwzsi6ijeifq.cinnfuomcu4a2zeehbklxauc8b7upkwd9skngxqo8jy19ky3cahhtjljo0kl7oq1p5ymfqys9i4haun3mml5hpyc3n7skju9r0ryl91ekk7qtlrygdpgdp5ucf7ea-iwqr0bmw8outygpjrkfuqp2x8dfxiggmfqkqz0a20-oy1r6qr9paszr2r8ktjplpx97aderkibpdtelrpmkilwqedkzog-bu40lulvprdva4yh4nlhrhn4cnumjzfmwnbccr3i6jbpl2m3qhq10donxne2qzl8galzumynng92oruppz5hmxruxw9yrirrzdgcerfryrbyfuypfu1jjbstca
+decoding the id_token from the response yields:
+{
+typ: “jwt”,
+alg: “rs256”,
+kid: “idtokensigningkeycontainer”
+}.
+{
+exp: 1442127696,
+nbf: 1442124096,
+ver: “1.0”,
+iss: “https://login.microsoftonline.com/d7c377db-f609-41f3-be09-2b73defd48a0/v2.0/”,
+acr: “b2c_1_standardsignup”,
+sub: “not supported currently. use oid claim.”,
+aud: “9bdade37-a70b-4eee-ae7a-b38e2c8a1416”,
+nonce: “wzrmd9lc95hehvdz”,
+iat: 1442124096,
+auth_time: 1442124096,
+oid: “2c75d1d5-59af-479b-a9c3-d841ff298216”,
+emails: [
+skwan@microsoft.com
+],
+idp: “localaccountauthentication”,
+name: “stuart kwan”,
+extension_membershipnumber: “1234”,
+extension_offeringtype: “1”
+}
+here you can see the usual claims returned by azure active directory and also a few more. the custom attributes i added to the directory and requested of the user during sign up are returned in the token as extension_membershipnumber and extension_offeringtype. you can also see the name of the policy that generated this token in the acr claim. by the way, we are in the process of taking feedback on claim type names and aligning ourselves better with the standard claim types in the openid connect 1.0 specification. you should expect things to change here during the preview.
+since azure ad b2c is in fact, azure ad, it has the same programming model as azure ad. which means full support for web app, web api, mobile and pc app scenarios. data in the directory is managed with the rest graph api, so you can create, read, update, and delete objects the same way you can in a regular tenant. and this is super important – you can pick and choose what features and policies you want to use. if you want to build the user sign up process entirely yourself and manage users via the graph api, you can absolutely do so.
+b2c conforms to azure ad’s next generation app model, the v2 app model. to build your application you can make protocol calls directly, or you can use the latest azure active directory libraries that support v2. to find out more visit the b2c section of the azure ad developer guide – we’ve got quickstart samples, libraries, and reference documentation waiting for you. just for fun, i built the proseware example using node.js on an ubuntu linux virtual machine running on microsoft azure (shout out to @brandwe for helping me with the code!).
+how much will it cost?
+b2c will be charged on a consumption basis. you pay only for the resources you use. there will be three meters, billed monthly:
+
+number of user accounts in the directory
+number of authentications
+number of multi-factor authentications
+
+an authentication is defined as any time an application requests a token for a resource and successfully receives that token (we won’t charge for unsuccessful requests). when you consider the oauth 2.0 protocol, this counts as when a user signs in with a local account or social account, and also when an application uses a refresh token to get a new access token.
+you can find the b2c pricing tiers on the azure.com pricing page. there will be a free tier for developers who are experimenting with the service. the current b2c preview is free of charge and preview tenants are capped at 50,000 users. we can raise that cap for you on a case by case basis if you contact us. we’ll lift the cap when billing is turned on. do you have hundreds of millions of users? no problem. bring ’em on!
+what’s next
+we’ve already worked with many developers to build apps using azure ad b2c as part of a private preview program. along the way we’ve gathered a healthy backlog of features:
+
+full ux customization: not just the aforementioned html/css customization of the local account sign in page, but also the ability to have your url appear in the browser for every page rendered by b2c. that will remove the last visible remnant of microsoft from the ux.
+localization: of course you have users all over the world speaking many languages. sign in, sign up, and other pages need to render appropriately using strings you provide in the languages you want to support.
+token lifetime control: the ability to control the lifetimes of access tokens, id tokens and refresh tokens is important both for user experience and for you to tune your consumption rate.
+a hook at the end of sign up: a number of people have said they want the ability to check a user who is signing up against a record in a different system. a little hook at the end of sign up would allow them to do this, so we’re considering it.
+support for more social networks.
+support for custom identity providers: this would be the ability to, say, add an arbitrary saml or openid connect identity provider to the tenant.
+a variety of predefined reports: so that you can review the activity in your tenant at a glance and without having to write code to call an audit log api.
+and more, this is just a fraction of the list…
+
+you can track our progress by following the what’s new topic in the b2c section of the azure ad developer guide, which you can find in the documentation pages and also by following this blog.
+by the way, the proper name of this preview is the azure active directory b2c basic preview. we’re planning a premium offering as well, with features that take policies to the next level. but that’s for another blog post!
+please write us
+we’re eager to hear your feedback! we monitor stackoverflow (tag: azure-active-directory) for development questions. if you have a feature suggestion, please post it in the azure active directory user voice site and put “aadb2c:” in the title of your suggestion.
+stuart kwan (twitter: @stuartkwan)
+principal program manager
+azure active directory
+ 
+
+
+
+posted on november 2, 2015november 3, 2015categories blog, claims, digital identity, identity management, identity metasystem 
+
+
+posts navigation
+page 1
+page 2
+…
+page 107
+next page
+
+
+
+
+
+
+
+				proudly powered by wordpress			
+
+
+
+
+
+
+
+
+

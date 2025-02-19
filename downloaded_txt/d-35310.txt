@@ -1,0 +1,162 @@
+
+
+
+sports cars, classic cars, classifieds, antique cars, all things automotive!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pebble beach concours d´&#160eleganceaugust 17, 2025
+
+
+
+
+
+hillsboroughconcours d´&#160elegance<br>june 23, 2024<br></h3>
+
+</td>
+
+</tr>
+</center>
+</table>
+<center>
+	<table border=0 cellspacing=2 cellpadding=0>
+
+	<tr>
+
+	<td valign=middle align=center width="120" height="180" vspace=0 hspace=0 border=0>
+<a href=http://www.highwayone.com/cgi-bin/search.cgi target=_blank>
+<img width="120" height="180" vspace=0 hspace=0 border=0 alt="find your dream car!" src="images/logos/find_car.gif">
+
+<!--
+<h3>
+find<br> your dream<br> car
+
+</h3>
+-->
+
+</a></td>
+
+
+	<td valign=middle align=center width="120" height="177">
+<a href="automobilia/automobilia.html" onmouseover="window.status='collectibles, automobilia, kitsch, etc...';return true;">
+<img width="120" height="177" vspace=0 hspace=0 border=0 alt="automobilia"  src="images/logos/automobilia.jpg"></a></td>
+
+	<td valign=middle align=center>
+<a href="what.html" onmouseover="window.status='what is highway one?';return true;">
+<img width="120" height="177" vspace=0 hspace=0 border=0 alt="what we do..." src="images/logos/what.jpg"></a></td>
+
+	<td valign=middle align=center>
+<a href="services.html" onmouseover="window.status='featured vendors & service providers...';return true;">
+
+<img width="120" height="177" vspace=0 hspace=0 border=0 alt="services" src="images/logos/services.jpg"></a></td>
+
+	<td valign=middle align=center width="177" height="180">
+<a href="wanted.html" onmouseover="window.status='we are always looking to buy a few good cars...';return true;">
+<img alt="we want you!" width="180" height="177" vspace=0 hspace=0 border=0 src="images/logos/wanted_a.jpg"></a></td>
+
+
+	</tr>
+
+	<tr>
+
+	<td valign=middle align=center><a href="contact.html" onmouseover="window.status='telephone numbers, maps, hours, etc...';return true;"><img vspace=0 hspace=0 border=0 alt="contact us" width="120" height="80" src="images/logos/contact.gif"></a></td>
+
+	<td valign=middle align=center><a href="photo.html" onmouseover="window.status='a library of our favorite photos...';return true;"><!-- graphic tag --><img width="120" height="80" vspace=0 hspace=0 border=0 alt="photos" src="images/logos/photo.gif"></a></td>
+
+
+	<td valign=middle align=center><a href="article.html" onmouseover="window.status='articles & information...';return true;"><!-- graphic tag --><img width="120" height="80" vspace=0 hspace=0 border=0 alt="articles" src="images/logos/article.jpg"></a></td>
+</tr>
+<!--	<td valign=middle align=center><a href="links.html" onmouseover="window.status='sites we enjoy...';return true;"><img width="120" height="80" vspace=0 hspace=0 border=0 alt="links" src="images/logos/links.jpg"></a></td>
+-->
+	</tr>
+
+	
+	</table>
+
+	</center>
+
+	<center>
+
+	<p>
+
+	<br>
+
+	<font size=2>we will always be changing and improving this site.  if something doesn't seem right <a href=mailto:comment@highwayone.com>let us know!</a></font><br></center>
+	<p>
+
+	<!-- begin body footer section -->
+
+	<center>
+	  <!-- #beginlibraryitem "/library/copyright.lbi" --><font size=3><center>
+	    <font size=1><font color="#bfbfbf">copyright 1998 highway one</font></font> 
+	    </center></font><!-- #endlibraryitem -->
+	    </center>
+<!--<font size=1>jgg</font>-->
+<script type="text/javascript">
+
+ 
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setaccount', 'ua-32685216-1']);
+
+  _gaq.push(['_trackpageview']);
+
+ 
+
+  (function() {
+
+    var ga = document.createelement('script'); ga.type = 'text/javascript';
+ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getelementsbytagname('script')[0];
+s.parentnode.insertbefore(ga, s);
+
+  })();
+
+ 
+
+</script>
+	    </body>
+
+	    </html>
+

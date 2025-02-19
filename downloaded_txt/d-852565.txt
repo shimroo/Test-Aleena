@@ -1,0 +1,918 @@
+
+
+
+
+
+
+
+
+
+
+yoa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+disable preloader
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ mail us today
+ info@yorubasofatlanta.org
+
+
+
+
+
+
+
+ location
+ 4984 rockbridge rd, ga
+
+
+
+
+
+
+
+
+
+
+
+home
+about us
+donate
+members
+
+contact us
+
+
+
+donate now!
+
+
+donate with paypal!
+
+
+join us!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yorubas of atlanta
+                
+
+cultural  awareness and economic cooperation
+                
+
+the primary  mission of the yorubas of atlanta is to foster friendship, cultural  awareness and economic cooperation among the members and the society in  general.
+
+
+become a member
+
+
+
+
+
+
+
+
+donate
+                
+
+support our efforts
+                
+
+our every efforts are channeled at proting  the yoruba tradition and heritage.
+
+
+donate now
+
+
+
+
+
+
+
+
+help us in
+                
+
+building a better future for our children
+
+
+every day we bring hope to millions of children in the world's  hardest places as a sign of god's unconditional love.
+
+
+donate now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+become a member
+join a us .
+join us now
+
+
+
+
+
+
+
+adopt a project
+donate to one of our projects. help the community.
+projects
+
+
+
+
+
+
+
+volunteer
+join us in helping the community.
+volunteer
+
+
+
+
+
+
+
+history 
+yorubas of yorubas of atlanta.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we are yorubas of atlanta
+our  mission is to foster friendship, cultural  awareness and economic cooperation among the members, the yoruba comminities and the society in  general.
+about us
+
+
+
+
+
+
+cultural heritage
+yorubas of atlanta promotes the yoruba culture. highlighting its rich heritage ....
+read more
+
+
+
+
+
+
+
+in the spotlight
+read and enjoy the latest news and events within the yoruba community in atlanta georgia
+read more
+
+
+
+
+
+
+
+we the volunteers
+join us to promote in helping the community and promoting our heritage and culture.
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+become a  volunteer?
+our volunteers come from a variety of backgrounds and contribute their special talents for many different reasons. for most, volunteering is a powerful experience and the responsibility of serving the yoruba community is especially gratifying.
+sign up today!
+
+
+
+
+
+
+
+
+
+
+featured causes:
+educational scholarship
+the scholarship was created to help these students offset the cost of their educational finances. the organization has  awarded several scholarships to individuals and groups, both in nigeria  and united states of america.
+
+
+raised: $1890
+goal: $2500
+
+
+donate now
+
+
+
+
+
+
+
+
+
+featured causes:
+library project
+establishing a library of literature about the yoruba culture, language and the yoruba people
+
+
+raised: $1890
+goal: $2500
+
+
+donate now
+
+
+
+
+
+
+
+
+
+featured causes:
+yoruba community house
+a facility for multiple cultural functions and african traditional ceremonies, such as weddings, birthday, etc.
+
+
+raised: $1890
+goal: $2500
+
+
+donate now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what we do?
+what we do .
+
+
+
+
+ the primary mission of the yorubas of atlanta is to foster friendship, cultural awareness and economic cooperation among the members and the society in general.
+
+
+
+
+
+
+
+
+
+
+
+
+promote yoruba culture
+the purposes of which the yorubas of atlanta is organized are exclusively cultural, charitable and educational within the meaning of section 501(c)(3) of the internal 
+                      revenue code of 1986 or the corresponding provision of any future united states revenue law
+
+donate now
+
+
+
+
+
+
+
+
+
+
+
+
+award scholarships
+in 2017; the yorubas of atlanta awarded scholarship grants to one student at the university of lagos, and to another student at the university of ibadan.
+                      the students’ academic major was in yoruba language. the scholarship was created to help these students offset the cost of their educational finances.
+
+donate now
+
+
+
+
+
+
+
+
+
+
+
+
+community services
+through our outreach programs, we are dedicated to improving our communities and our improving the lives of our neighbours. we also tend to introduce the very rich yoruba culture to our communities so they can feel the real yoruba experiences.
+
+donate now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+happy donators
+
+
+
+
+
+
+
+0
+
+success mission
+
+
+
+
+
+
+
+0
+
+volunteer reached
+
+
+
+
+
+
+
+0
+
+globalization work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+make a donation now!
+
+
+
+
+
+
+payment type 
+
+
+                        one time
+                      
+
+
+                        recurring
+                      
+
+
+
+
+donation type
+
+
+
+                          daily
+
+
+                          weekly
+
+
+                          monthly
+
+
+                          yearly
+
+
+
+
+
+i want to donate towards
+
+                       array
+(
+    [id] => 1
+    [0] => 1
+    [causename] => yorubas of atlanta
+    [1] => yorubas of atlanta
+    [cause_goal_target] => 2000
+    [2] => 2000
+    [status] => active
+    [3] => active
+    [dateadded] => 2021-08-19 18:36:35
+    [4] => 2021-08-19 18:36:35
+)
+                        yorubas of atlanta
+                        array
+(
+    [id] => 2
+    [0] => 2
+    [causename] => yoruba community house
+    [1] => yoruba community house
+    [cause_goal_target] => 20000
+    [2] => 20000
+    [status] => active
+    [3] => active
+    [dateadded] => 2021-08-19 18:36:35
+    [4] => 2021-08-19 18:36:35
+)
+                        yoruba community house
+                        array
+(
+    [id] => 3
+    [0] => 3
+    [causename] => educate children
+    [1] => educate children
+    [cause_goal_target] => 20000
+    [2] => 20000
+    [status] => active
+    [3] => active
+    [dateadded] => 2021-08-19 18:36:35
+    [4] => 2021-08-19 18:36:35
+)
+                        educate children
+                        array
+(
+    [id] => 4
+    [0] => 4
+    [causename] => children boot camps
+    [1] => children boot camps
+    [cause_goal_target] => 15000
+    [2] => 15000
+    [status] => active
+    [3] => active
+    [dateadded] => 2021-08-19 18:36:35
+    [4] => 2021-08-19 18:36:35
+)
+                        children boot camps
+                        array
+(
+    [id] => 5
+    [0] => 5
+    [causename] => clean water for life
+    [1] => clean water for life
+    [cause_goal_target] => 5000
+    [2] => 5000
+    [status] => active
+    [3] => active
+    [dateadded] => 2021-08-19 18:36:35
+    [4] => 2021-08-19 18:36:35
+)
+                        clean water for life
+                        array
+(
+    [id] => 6
+    [0] => 6
+    [causename] => campaign for child poverty
+    [1] => campaign for child poverty
+    [cause_goal_target] => 10000
+    [2] => 10000
+    [status] => active
+    [3] => active
+    [dateadded] => 2021-08-19 18:36:35
+    [4] => 2021-08-19 18:36:35
+)
+                        campaign for child poverty
+
+
+
+
+
+
+currency
+
+select currency
+usd - u.s. dollars
+aud - australian dollars
+brl - brazilian reais
+gbp - british pounds
+hkd - hong kong dollars
+huf - hungarian forints
+inr - indian rupee
+ils - israeli new shekels
+jpy - japanese yen
+myr - malaysian ringgit
+mxn - mexican pesos
+twd - new taiwan dollars
+nzd - new zealand dollars
+nok - norwegian kroner
+php - philippine pesos
+pln - polish zlotys
+rub - russian rubles
+sgd - singapore dollars
+sek - swedish kronor
+chf - swiss francs
+thb - thai baht
+try - turkish liras
+
+
+
+
+
+how much do you want to donate?
+
+
+
+                          $20
+
+
+                          $50
+
+
+                          $100
+
+
+                          $200
+
+
+                          $500
+
+
+                          other amount
+
+
+custom amount:
+
+
+
+
+
+donate now
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4984 rockbridge road stone mountain, georgia 30088
+
+
+  contact@yorubasofatlanta.org 
+  www.yorubasofatlanta.org 
+
+
+
+
+
+latest news
+
+
+
+
+nigeria in diaspora
+dec 08, 2020
+
+
+
+
+
+yoruba issues
+dec 08, 2020
+
+
+
+
+
+new member induction
+dec 08, 2020
+
+
+
+
+
+
+
+useful links
+
+registration forms
+by-laws
+upcoming events
+workshops
+donations
+
+
+
+
+
+leadership team
+
+
+  prsident :  
+ mr. femi akindele 
+
+  vice president :
+ mr. taiwo osinaiya 
+
+  secretary : 
+ mr. ademola afonja 
+
+  publicity secretary : 
+ mr. francis adefi 
+
+  treasurer : 
+ mrs. joko alabi 
+
+  asst treasurer : 
+ ms. ibilola babatunde 
+
+
+
+
+
+
+
+
+
+subscribe us
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+
+
+
+yorubas of atlanta
+
+
+            helping the community
+          
+
+
+
+
+connect with us
+
+
+
+
+
+
+
+
+
+
+
+
+copyright ©                        2010 - 2025                 yorubas of atlanta. all rights reserved
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

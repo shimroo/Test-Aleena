@@ -1,0 +1,709 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interactive audio – igda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+log-in
+
+
+
+
+join now!
+
+
+
+
+about
+
+about the igda
+by-laws
+core values & code of ethics
+code of conduct
+advocacy
+staff & board of directors
+elections
+faq
+public privacy policy 
+contact
+media contact
+
+
+membership
+
+join
+member benefits
+discounts
+lifetime members
+igda studio affiliates
+igda academic affiliates
+igda partners
+student portfolios
+
+
+community
+
+chapters
+special interest groups
+global mentorship program
+
+
+news
+events
+
+gdc 2025
+
+
+resources
+
+resource library
+game industry standards
+insider newsletter
+harassment
+developer satisfaction survey (dss)
+covid-19 resources
+visa
+
+
+career center
+ 
+
+
+
+
+
+
+
+about
+
+about the igda
+about igda foundation
+by-laws
+core values & code of ethics
+code of conduct
+advocacy
+staff & board of directors
+faq
+public privacy policy 
+contact
+media contact
+
+
+membership
+
+join
+member benefits
+discounts
+lifetime members
+igda studio affiliates
+igda academic affiliates
+igda partners
+student portfolios
+
+
+community
+
+chapters
+special interest groups
+global mentorship program
+volunteer opportunities
+
+
+news
+
+igda insider
+industry podcasts
+
+
+events
+
+gdc 2025
+
+
+resources
+
+resource library
+game industry standards
+insider newsletter
+harassment
+developer satisfaction survey (dss)
+covid-19 resources
+visa
+
+
+career center
+ 
+
+
+ 
+
+
+
+log-in 
+
+
+
+
+join now!
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+interactive audio
+
+
+
+
+
+
+
+overview
+photos
+leadership
+
+
+contact info/form
+
+
+
+
+
+connect with interactive audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the interactive audio special interest group
+welcome to the interactive audio special interest group— a member-driven organization in partnership with the international game developers association (igda), and the midi association (tma).
+
+
+
+origin story
+iasig is an organization in partnership with the international game developers association (igda) and the midi association (tma) that brings together experts to share their knowledge and help improve the state of the art in audio for games, websites, vr content, and other interactive mediums. our members share tips and techniques, study trends, and create reports and recommendations that game developers, tool makers, and platform owners use to create better products.
+iasig was born out of the audio town meeting at the computer game developers conference in april of 1994. the group first met in june of 1994 to discuss a means for improving audio development tools and upgrading multimedia audio performance. initially called the aiamp (association of interactive audio and music professionals), the midi association (tma) assumed responsibility for the group in august of 1994.
+
+general operation & mechanics
+iasig is a partner of the international game developers association (igda) and the midi association (tma).
+iasig operates as an official special interest group of the igda, & under the auspices of the midi association, with its own advisory board, steering committee and working groups. the majority of activity is in discussion of various topics of interest to the members, which is conducted via private internet mailing lists. every participant is free to choose their own level of contribution, and all are encouraged to define issues and establish solutions with assistance from the greater community.
+working groups are the foundation of the iasig, which operate as explained in the iasig working group process. working groups are supervised by the iasig steering committee. the steering committee ultimately serves the general membership of the iasig.
+in addition, iasig may convene an advisory board. advisory board members are not involved in the day to day management of the organization. as the name suggests, they serve to advise the steering committee in areas of specialized expertise, and as ambassadors for the iasig to specific industry segments.
+the process, in general, is geared towards gaining consensus, and the wider sig membership is given ample opportunity to comment on the progress of each working group through reports given at regular physical meetings as well as via e-mail, internet chat rooms, or regular mail (as the case may be). iasig recommendations will be forwarded to the igda, the midi association, and all other interactive audio industry groups as needed to complete the iasig mission to positively influence the development of interactive audio hardware and software.
+
+iasig membership
+humbled by the technical art of creating and delivering interactive audio, iasig offers agency among the highly specialized tools required for composers, designers, and programmers to succeed in such unique development environments. comprised of industry experts, we share knowledge to improve accessibility, and the state of the art in audio for games, websites, xr, and other interactive mediums.
+your membership through the igda provides community resources created and published through iasig since 1994. as a member, you’re incited to participate in research and reports with ongoing papers and working groups. we celebrate our members’ involvement and encourage you to recommend tips, tools, and techniques within our community.
+
+how to become a member
+we are excited to have you with us. to become a member of the iasig, with an active igda membership, login to the igda website, go to your member dashboard and select primary sig. change your ‘primary interest group’ to ‘audio’. you’re done!
+for a more detailed walkthrough, check out the official iasig onboarding guide.
+
+https://igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2020/04/15212520/final_sig_signup.mp4
+
+links
+consider joining the midi association— it’s free!
+you can also sign up for our newsletter, or join our official discord server.
+connect with iasig on your favorite platform and join the discussion!  view iasig linktree.
+
+the interactive audio special interest group extends appreciation to our sponsors for their continued support.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+see all news
+news
+
+
+
+
+the midi association and iasig at namm 2024
+january 9, 2024… at this year’s namm convention, held january...
+read more 
+
+
+
+
+
+you should join us at gdc24!
+https://gdconf.com/passes-prices?_mc=barter_gdcsf_3pvr_le_x_x_iasig_2024 join us in san francisco march 18 –...
+read more 
+
+
+
+
+newsletter
+a note from the current chair chase bethea it...
+read more 
+
+
+
+
+
+join us for today at 5 pm (et) or friday at 10 am (et) for a special game audio panel!
+today at 5 pm eastern/2 pm pacific, please join...
+read more 
+
+
+
+
+
+
+
+photos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+leaders
+
+
+
+
+
+
+steve horowitz - chair
+
+
+
+kurt heiden - steering committee
+
+
+
+athan billias - steering committee & tma liaison
+
+
+
+
+tom poole - steering committee
+
+
+
+jon pascone - steering committee
+
+
+
+austin smith - steering committee
+
+
+
+
+
+
+see all resources
+resources
+
+
+
+
+igda/iasig member exclusive discount for gdc 2024!
+
+
+
+
+
+interactive audio
+20 nov 2023
+
+login to view
+or
+join today!
+
+
+
+
+
+
+
+(june 1999) 3dxp ™ directsound 3.0 extension api – 3d audio working group
+
+
+
+
+
+interactive audio
+12 oct 2023
+
+login to view
+or
+join today!
+
+
+
+
+
+
+
+(december 2002) interactive audio on the web review and recommendations, prepared by the web audio working group of the interactive audio special interest group
+
+
+
+
+
+interactive audio
+18 sep 2023
+
+login to view
+or
+join today!
+
+
+
+
+
+
+
+(march 2011) game audio curriculum guideline, prepared by the education working group of the interactive audio special interest group
+
+
+
+
+
+interactive audio
+18 sep 2023
+
+login to view
+or
+join today!
+
+
+
+
+
+
+
+(february 17, 2008) interactive xmf: file format specification draft 0.9.1 (public review draft, not final – not for implementation)
+
+
+
+
+
+interactive audio
+18 sep 2023
+
+login to view
+or
+join today!
+
+
+
+
+
+
+
+
+
+contact
+use this form to contact the igda interactive audio special interest group.
+
+
+
+
+
+
+
+name
+
+first name
+
+
+
+last name
+
+
+email
+
+phonemessagecaptchaphonethis field is for validation purposes and should be left unchanged.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+membership
+
+join or renew
+member dashboard
+log in
+
+
+recent posts
+
+news
+events
+resources
+
+
+policies
+
+core values & code of ethics
+cookie policy
+
+
+contact and support
+
+faq
+contact us
+
+
+ 
+
+
+
+
+join now
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2025 by igda all rights reserved.
+
+
+website by  affari
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

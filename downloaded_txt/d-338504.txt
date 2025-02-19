@@ -1,0 +1,241 @@
+
+
+
+bmw parts, modifications,performance,news,links,information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bmw parts sources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bmw resources
+
+
+
+
+
+
+
+
+more bmw articles
+click here for latest bmw articles
+
+
+e36 bmw rear brake and emergency brake problems
+e36 brake light failure obc message: causes and cures
+e36 check coolant level warning display
+e30 bmw 3 series pre purchase checklist
+e36 and e46 bmw rear trailing arm bushing (rtab) r...
+e30, e36, e46 bmw rear shock mount (rsm) replacement
+bmw control arm bushing replacement tips
+e36 exhaust replacement and m3 exhaust upgrade
+the e36 warped rotors saga continues!
+warped brake rotors and steering shudder/shimmy/vi...
+
+
+
+
+<
+     		bmw articles and links
+
+e36 bmw check coolant level obc message
+e30 bmw 3 series pre purchase checklist
+e36/e46 rear trailing arm bushing (rtab) replacement 1
+e36/e46 bmw rear shock mount (rsm) replacement
+bmw control arm bushing replacement tips
+e36 exhaust replacement and m3 exhaust swap upgrade
+e36 warped rotors, ceramic pads, and the fix
+e36 warped rotors and brake pad deposits
+e30 318i and 318is suspension and tie rod replacement
+replacing your bmw's fuel filter
+bmw cooling system flush/refill part 2
+bmw cooling system flush/antifreeze/refill i
+e36 bmw power window problems and repair
+bmw headliner repair and replacement
+m50 intake manifold swap for 328i/328is and m3
+e28 bmw 5 series history and information
+more power for bmw 2002 and 2002tii part 2
+more power for bmw 2002 and 2002tii part 1
+replacing e36 and e46 bmw tie rods
+hints and tips for washing and waxing your bmw
+performance modifications for e36 m52 328i and 328is
+1991 e30 318is performance mods
+e36 bmw 3 series oxygen sensor replacement instructions part 2
+e36 bmw 3 series oxygen sensor replacement instructions part 1
+e30 325i and 325is vs e30 m3: the better street car
+suspension and handling upgrades for e34 bmw 5 series sedans
+bmw differential repair, replacement, and upgrades part 2
+bmw differential repair, replacement, and upgrades part 1
+e46 3 series wear items checklist: what to expect
+e30 bmw 3 series history and performance
+e34/e36/e39 m50/s50/m52/s52 bmw engine coil replacement
+e36 3 series wear items checklist: what to expect
+from e12 to e39: bmw m5 and m535i history and development
+my bmw dream garage
+more bmw radiator and cooling system information
+bmw radiator and cooling system information
+how to get more horsepower from 2.7 eta-engine bmws
+performance mods for m20 2.5 i engines
+replacing sparkplugs and valve cover gaskets
+e24 bmw 6 series history and development: the shark
+brief history of the m3: from e30 to e46
+e36 m3 vs e36 325is and 328is: performance comparison
+replacing e30, e36, and e46 ball joints
+e36 bmw slip ring replacement and why it fails
+buying bmw parts online
+bmw world
+bmw car club of america
+bmw car magazine
+rennlist bmw site
+ben liaw's bmw links
+bmw nation
+bmw e21 info
+bimmers.com bmw info
+bmw usa: bmw na site
+bimmerhead.com
+global web directory project
+more bmw information
+
+2005-07-31
+2005-09-25
+2006-02-05
+2006-02-12
+2006-02-19
+2006-02-26
+2006-03-05
+2006-03-12
+2006-03-19
+2006-03-26
+2006-04-09
+2006-04-16
+2006-04-23
+2006-08-20
+2006-09-17
+2006-10-15
+2006-10-22
+2006-11-05
+2006-11-12
+2006-12-17
+2006-12-24
+2007-01-14
+2007-02-11
+2007-02-18
+2007-08-19
+2007-08-26
+2007-09-30
+
+
+blog directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	 	e36 bmw rear brake and emergency brake problems
+	 	
+    	
+
+
+i last replaced the rear brake pads and rotors on my 1995 bmw 325is back in early 2003. i've since put 100k on the car and figured that it might be time to do this job again. of course, front brakes don't last nearly as long...but that is because that's where the majority of the braking energy/force comes from. recently, a metallic rattling noise had been coming from the back of the car somewhere. given e36 bmw models' propensity for worn subframe, rear trailing arm and other bushings, i thought it might be best for some process of eliminating type preventative maintenance. after jacking up the car and removing the rear wheel, i removed the 2 15mm caliper bracket bolts and slid the brake caliper off of the car. i was shocked to see that the brake pads appeared to be only about half worn! the rotor itself looked a little worn, but was still smooth and straight. i confess to not measuring the thickness to see if it was within spec. besides, i was already in there...might as well do the job anyway.e36 bmws can be maintained relatively inexpensively by experienced do-it-yourself/shade tree mechanics, especially if you know where to look for deals on parts. i bought ate oem replacement rear brake rotors and pbr metalmaster rear brake pads on ebay for about $100 total. using an allen wrench, i removed the rotor locating screw, and pulled on the rotor, which remained steadfastly stuck in place. figuring corrosion to be the culprit, i tapped the rotor on each side with a rubber mallet. one side came free, the other side refused to move, like something was holding it on there. out came a real mallet - old rotor be damned! it still wouldn't come free. turns out that the locating pins for the emergency brake assembly had both pulled their mounts on the brake dust shield backing plate, also referred to as the brake protection plate. this in turn allowed the e brake shoes to expand outward and move around, holding the rotor in place.t0 repair this, i'll need a new brake shield plate. according to the realoem bmw digital microfiche, suggested retail is only something like $18.94. i'm sure my local stealership has marked it up 2 or 3 times that, as they have done for many other pieces.  for a temporary repair, i simply removed the entire emergency brake assembly from the passenger side of the car. the anchor-like cable ending must be removed as well, or it will rub against the hub and or rotor. ask me how i know. it simply pushes out using a hammer and punch. i ended up installing the new rotor and leaving the old pads on for the time being. a week or two like this won't hurt anything, and the driver's side e brake still works.tip: wire brush dirt and corrosion off all bolts prior to re-assembly and lightly coat threads and mating surfaces with some kind of anti-seize compound such as permatex never seize.  i also put a little of this on the hub and the front of the rotor. some people use white lithium grease. i cannot comment on this.ps: while the broken and floating e-brake assembly was indeed rattling around, removing it failed to cure the rear end rattles audible over bumps. i'm puzzled.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+		
+	 	e36 brake light failure obc message: causes and cures
+	 	
+    	
+
+
+another infamous e36 bmw minor malady is the display of messages such as 'brake light failure" or "brake circuit failure' by the obc. sometimes you'll get '1 brake light fail' as well. there are a few basic reasons why this happens, and how you can fix these problems. first of all, if your e36 obc is displaying 'brake circuit failure' this means that the electrical brake circuit switch is no longer operating.  to fix, you need get one from the dealer. figure about $8-30 dollars dependign on how bad the markup is at your local stealership.the brake circuit switch (and there are 2 on some cars...check yours) is located up under the dash under the steering column. remove the ~4 screws holding the cover panel on. the brake light switch is under the top of the brake pedal arm, under the dash.make sure you press the red tab down to lock the switch in place. use pliers to break the red tab off the old switch and pull out. push the braked pedal all the way down to get the old swtuch out. pop the new switch in and reconnect the wiring harness, but again be sure you've pressed the red tab to lock the circuit switch in place.now, if you are not getting a 'brake circuit' related error code on your e36's obc, but rather a 'brake light failure' this means it is either a bad bulb, loose bulb, bad bulb socket, or dirty/corroded electrical contact somewhere where the bulb or socket tabs are. any auto zone, pep boys, napa or wherever should have the correct brake light and high mount stop light bulbs. they are either # 7528 or 7506 depending on the year and model bmw, i believe (please double check and do not take this as gospel). use emory paper and electrical contact cleaner to make sure the taillight electrical contacts for the bulb socket, and the bulb socket contacts themselves, are clean. test the socket with an electrical meter. tip: replacing your e36 rear taillight and brakelight bulbs at the dealer includes the socket for each bulb, and the price is usually under $15. 
+
+
+
+ 
+
+
+
+
+
+
+
+bmw parts, information, news, modification,  repair, and info on bmw 2002,2002tii,2002ti,3.0cs,3.0csi,3.0csl,530i,528e,528i,525i,525it,528xi, 535i,535is,540i,545i,318i,318is,318ti,320i,320is,323i,323is,325i,325e,325is,325ix,325xi,325ic
+,325ci
+,328i,328is,328ic,328ci,330i,330ci,m3,m3 evo,m3 evolution,m3 sport evolution,m5, m6, z3, z8, m coupe, m roadster, 633csi,635csi,euro 635csi,m635csi,735i,740i,750il,740il,745i,e9,e12,e21,e23,e24,e26,e28,e30,e31,e34,e36,e38,e39
+,e46,e52,e53,e60,e65,e66
+	bmw cars, parts, bmw information, fixing bmw's, bmw resoruces, links, bmw performance, bmw racing
+<
+
+
+
+
+
+
+
+
+
+
+
+
+

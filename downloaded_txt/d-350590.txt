@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+robert's talk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					we can’t change history, but we can change the future.
+					be nice to each other.
+
+					@robertnyman
+
+
+skip to main content
+
+
+
+about
+all posts
+speaking
+geek meet
+code
+rss feeds
+
+
+
+
+
+
+
+
+four types of people you will come across during your working life
+
+this blog post is co-written with alexandra white and matthias rohmer
+in our experience, working in many different companies and contexts, there are – very broadly speaking and quite simplified – four types of people you will come across during your working life. for me, at least, being able to identify these archetypes has helped in understanding people and situations better. it’s given me leads for seeing what i can try to improve, but also to avoid particular situations before they become worse.
+published on wednesday, december 20, 2023
+
+
+
+the end of the star wars saga
+
+the year was 1983. i was 9 years old. i used to visit my paternal grandmother who lived in the city, and every time i came by she would take me to the movies, which was wonderful! it was the time when i learned to love both movies and cinemas.
+published on friday, december 20, 2019
+
+
+
+i’m now a developer advocate at google!
+
+after over 4 years at google, i’m now a developer advocate! “wait, i thought you already were that?” is the most common reaction. allow me to tell my story.
+published on monday, april 29, 2019
+
+
+
+what is developer relations, and how to do it
+
+i’ve worked with developer relations for many years now, and i think it’s a fascinating topic with many takes on what it is and how to do it! i wanted to share my view on it here, and what i think it encompasses.
+published on tuesday, september 4, 2018
+
+
+
+we need to create a more inclusive web for developers
+
+when i was a kid, back in the time when there were announcers telling you which the next program on tv would be, you knew it would be good if they said: "we'd like to warn sensitive viewers that next program might upset you". so, with that in mind, i need to start this blog post with saying that it doesn't reflect the opinions of my employer, google, but are all my own.
+published on thursday, february 22, 2018
+
+
+
+the building for just one browser thing
+
+when i got started with blogging back in 2005, i had been an interface developer for the web since 1999. the big challenges back in 2005 were convincing developers and companies to make sure that things worked in more than one web browser, and that javascript wasn't evil and actually pretty competent. and now, in 2018, it's back to the cross-browser support story again (javascript seems to be doing fine).
+published on thursday, january 18, 2018
+
+
+
+mdn product advisory board meeting and experience
+
+having spent almost 20 years working on the web, it is something i strongly believe and am invested in. therefore, when i see or am part of initiatives that i think will help developers and the web platform out there, it makes me very excited! and last week i got very reminded about how good that thing can be.
+published on tuesday, january 16, 2018
+
+
+
+one million kilometers later
+
+one million kilometers. that's a pretty long distance. going through my travel statistics recently, i discovered that is how much i've traveled during the last few years.
+published on tuesday, november 14, 2017
+
+
+
+on #metoo
+
+i’ve been following the stories on #metoo, listening and talking to a lot of people, and have been trying to gather my thoughts.
+first, no one should ever have to feel unsafe. ever. i’m so saddened to hear all the stories and testimonies, women being treated unfairly, as less worthy or as just being there for men’s entertainment. why i’m so grateful about #metoo – despite all the terrible stories – is that it has finally gotten to a point where everyone is listening. where women feel brave, empowered and supported enough to share what has happen, to dare to say no.
+published on tuesday, october 31, 2017
+
+
+
+travel in 2016
+
+travel. such an amazing chance to see the world and meet lots of fantastic people! in 2016, i traveled:
+published on tuesday, january 3, 2017
+
+go to the archive to read all posts since 2005.
+
+
+
+
+
+
+
+@robertnyman
+upcoming speaking
+photos on flickr
+
+
+© robert nyman, unless stated otherwise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

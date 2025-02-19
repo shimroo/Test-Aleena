@@ -1,0 +1,771 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+solutions for the digital world - bring value to the customer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+call us: +49 40 30 68 03 – 0 | e-mail: *protected email* 
+
+
+
+feel free to contact us or follow us
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+     
+
+ 
+
+
+
+
+ 
+
+
+
+
+services
+
+overview
+openedge legacy maintenance
+low-code development
+proalpha services
+
+
+technology
+
+progress openedge
+java
+c|c#|.net
+web|desktop apps
+mobile apps
+
+
+products
+
+of-1
+
+of-1 main page
+feature overview
+version history
+
+
+pcase
+
+pcase main page
+feature overview
+version history
+
+
+skin-client desktop
+skin-client mobile
+viper
+
+viper main page
+viper version 4.0 preview
+
+
+downloads
+pricing
+
+
+blog
+company
+
+about iap
+jobs
+contact us
+
+
+
+ 
+
+services
+
+overview
+openedge legacy maintenance
+low-code development
+proalpha services
+
+
+technology
+
+progress openedge
+java
+c|c#|.net
+web|desktop apps
+mobile apps
+
+
+products
+
+of-1
+
+of-1 main page
+feature overview
+version history
+
+
+pcase
+
+pcase main page
+feature overview
+version history
+
+
+skin-client desktop
+skin-client mobile
+viper
+
+viper main page
+viper version 4.0 preview
+
+
+downloads
+pricing
+
+
+blog
+company
+
+about iap
+jobs
+contact us
+
+
+
+ 
+
+
+
+
+
+
+
+
+welcome to iapsolutions for the digital worldsince 1992 we deliver real value to our customers. we are in the constant process to expand our knowledge to deliver satisfying results.servicesthe companyour servicesour company philosophysatisfied customers through innovative quality software and successful budget oriented implementationsview moreof-1 for developmentreliable, high performance, ui independentdeveloper framework for openedge to develop local enterprise level systems, saas applications, web ui’s in java and html5 from 1 single abl source codeof-1openedge legacy maintenancedeep knowledge about legacy softwarelegacy software is often the stable and reliable backbone of the company, which with tried-and-tested processeslegacy / 4  / 4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+trusted products
+iap offers frameworks and tools for software development. 
+object framework - one (of-1) is our productivity suite for progress openedge. other well known tools are pcase (erd diagrammer), viper (print) and skin client.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+valued services
+main services are customer-oriented bespoke software development and the maintenance of legacy software. we are known for long-standing customer cooperations, close partnerships, flat decision hierarchies and direct communication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+latest technologies
+our developers have a long-term of experience with progress openedge, java, .net and several other platforms. we use most mainstream programming languages and frameworks for mobile, web and desktop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27 years
+
+
+
+
+
+
+
+
+
+
+
+354 projects
+
+
+
+
+
+
+
+
+
+
+
+41 employees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we deliver real value to our customers. we are a reliable partner for developing custom software in germany and abroad.
+ 
+since 1992 we offer professional consulting and software development services. we advise and provide technical services in areas such as:
+ 
+
+erp solutions
+logistics
+trading solutions
+manufacturing solutions
+hospital chains
+diy companys
+mail order solutions
+
+software houses
+
+ 
+our 40+ staff focus on the needs of the customer. as a result we have satisfied long term customers.
+you can contact us without any obligation and free of charge. use the contact form or simply call us.
+we look forward to a productive cooperation.
+ 
+iap is service delivery partner (gold level) of progress software (dach region).
+
+
+
+
+
+
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+we are hiringcurrently we are searching software developers / software engineers for erp systems.
+
+
+jobs at iap
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+blog and newsvisit our blog to see articles about openedge, the tools4progress and other news
+
+
+visit our blog
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iap gmbh valentinskamp 30 d-20355 hamburg, germany
+     
+
+
+
+
+articles
+
+
+introduction of of-1 for vs code at pug challenge workshop
+
+
+exclusive of-1 workshop at the pug challenge 2024
+
+
+iap at the pug challenge 2024 in prague!
+
+
+ 
+
+
+
+subscribe to our newsletter
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+© 2018 – all rights reserved. // imprint // privacy statement 
+
+
+
+
+
+
+
+
+
+
+
+
+manage consent
+
+
+
+
+
+
+to provide the best experiences, we use technologies like cookies to store and/or access device information. consenting to these technologies will allow us to process data such as browsing behavior or unique ids on this site. not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+
+
+
+
+functional
+
+
+
+functional
+
+								always active							
+
+
+
+
+
+
+the technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+
+
+
+
+preferences
+
+
+preferences
+
+
+
+
+
+
+
+the technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+
+
+
+
+statistics
+
+
+statistics
+
+
+
+
+
+
+
+the technical storage or access that is used exclusively for statistical purposes.
+the technical storage or access that is used exclusively for anonymous statistical purposes. without a subpoena, voluntary compliance on the part of your internet service provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+
+
+
+
+marketing
+
+
+marketing
+
+
+
+
+
+
+
+the technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+
+
+
+
+manage options
+manage services
+manage {vendor_count} vendors
+read more about these purposes
+
+
+
+accept
+deny
+view preferences
+save preferences
+view preferences
+
+
+{title}
+{title}
+{title}
+
+
+
+manage consent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

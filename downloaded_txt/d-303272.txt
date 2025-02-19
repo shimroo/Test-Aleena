@@ -1,0 +1,273 @@
+
+
+
+
+
+
+plutor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+plutor
+
+
+
+archive
+
+
+
+
+
+
+
+
+apr 1, 2024 ⌘
+i’ve got two vacations coming up in the next few weeks: 1 night just me and my dog; and 4 nights with my kids and my parents.
+guess which one i’m extremely anxious about.
+
+
+
+
+dec 1, 2023 ⌘
+happy advent of code 2023! i’m learning scala this year. i had a lot of fun with kotlin in 2021, and was traumatized by haskell last year, so i’m hoping scala’s mix of functional and iterative hits the right sweet spot again.
+note to self: this video is super cool, so maybe lua on playdate (or some similar outside-the-box idea) would be good for next year.
+
+
+
+
+oct 17, 2023 ⌘
+there’s a good chance that reading the hobbit to my six year old son will end up being the last time i read my childhood copy.
+
+
+
+
+
+jul 16, 2023 ⌘
+people say “the customer is always right” but the original quote is “the customer of the covenant is always righter than the water of the womb.”
+
+
+
+
+apr 30, 2023 ⌘
+no salute emoji gets it right.
+
+
+
+
+
+apr 17, 2023 ⌘
+imagine a cylindrical glass with radius 1 and a cube of ice in it, and then bourbon poured exactly to the height of the top of the cube. what cube side length will result in the most bourbon poured?
+i have an answer, using calculus for the first time since probably 2000, and the answer is not a particularly notable value.
+
+
+
+
+apr 5, 2023 ⌘
+
+
+
+
+
+mar 26, 2023 ⌘
+make a movie that’s sort of found footage for the 2020s. it’s a continuous view of someone swiping thru their fyp on tiktok or something similar. you have vignettes of various random things happening, but eventually you notice a pattern, several videos talking about the same thing. and a story slowly unfolds, from lots of different perspectives.
+
+
+
+
+mar 18, 2023 ⌘
+in 2005, i went to e3 with a small handful of friends. i wanted to blog a bit from the floor, but didn’t want to go through what would have been a huge hassle to use a laptop. so i set up a system that we could all send emails to with our phones and it would save the text and annotate it with the author’s name based on phone numbers. i called it a “moblog”. this was 10 months before the first tweet, and 16 months before twitter became publicly available. we probably wrote all of this with t9.
+here’s some of what we moblogged for e3:
+
+plutor: the new e3 blogging system is now online. (13 may, 08:36am)
+nomad: i’m at e3! just kidding i’m at crappy work. (13 may, 10:29am)
+nomad: whoever invented getting 4 hovrs of sleep should be shot (17 may, 05:54am)
+chris: we’re on our way and we’ve already had at least 3 arguments. this is going to be the best trip evar!! (17 may, 06:19am)
+chris: logan just mentioned that for what we’re paying for this trip, we could buy a ton of video games. shut up logan. (17 may, 06:29am)
+plutor: boarding takes so long. so inefficient. (17 may, 09:13am)
+nomad: first coast! (17 may, 06:04pm)
+chris: after the flight i had significant hearing loss which still hasn’t come back. (17 may, 06:21pm)
+nomad: in in n out (17 may, 07:17pm)
+nomad: la train stations are clean by train station standards (17 may, 08:53pm)
+nomad: dancing girls = good video games (18 may, 02:05pm)
+plutor: two hours in and i’ve already overloaded. hungry, tired, amazed, and excited for more. (18 may, 02:55pm)
+chris: all the xbox 360 games are running off of apple g5s (18 may, 05:19pm)
+nomad: at the mefi meetup everyone is cool! (18 may, 10:53pm)
+plutor: this mefi meetup is really cool. los angeles is the bomb. (19 may, 12:27am)
+plutor: the xbox 360 controller is so amazing. (19 may, 01:29pm)
+nomad: the workout room has tvs on every treadmill & bike! (19 may, 09:35pm)
+nomad: controls are broke on mine though (19 may, 09:36pm)
+plutor: we’re going early today so we can be first in line for the new zelda. the line was > 2 hours yesterday. (20 may, 11:11am)
+chris: brian and i just met the voice of mario! (20 may, 12:33pm)
+nomad: the last of e3’s children is back in the northeast. i love new york (22 may, 09:24pm)
+
+
+
+
+
+feb 24, 2023 ⌘
+here is calendar prototype 2
+
+(this is what prototype 1 looked like.)
+i’ve been living with this new, larger calendar for a couple weeks now. it’s got 5 weeks instead of 4, and the days are 50% larger. i even used posterninja.com to get a long printed spool that’ll last until october. but it’s not perfect yet, here’s a few notes:
+
+the font is too small to be read from a comfortable distance (the pdf linked above corrects this)
+the top bezel is too small
+the spool is a little too close to the bottom edge, it’s a struggle to advance the calendar (although this will less of a problem after a few weeks).
+poster ninja was the best site i could find that would print something big on normal paper (not just card stock), but the max height wasn’t enough to print a full year. the pdf above is corrected to two pages: jan-july and july-jan.
+
+
+
+
+
+feb 22, 2023 ⌘
+it’s good that the android keyboard is a bit shit because it means i text my friends less dumb shit when i’m high than i would otherwise
+
+
+
+
+feb 14, 2023 ⌘
+if you woke up tomorrow the only human on earth and also immortal, where would be the best place to live? cities wouldn’t be particularly safe because buildings will eventually collapse. you want to be near water and long growing seasons and fertile soil. you want to be far from hurricanes or monsoons or earthquakes. you might want to be near fishing opportunities and existing farm animal populations.
+
+it shouldn’t be surprising that a very good answer is “where the densest forests in the world are”. what is surprising to me is that a lot of europe has a good case, too. in terms of getting started, existing farmland in europe (there’s a lot of it) or newly-cleared land in the amazon (also a lot of that, sadly) might be the best bets. i’d be afraid of the maintenance necessary to keep the amazon at bay, but on the other hand intercontinental travel with no other living humans is bound to be a challenge.
+
+
+
+
+dec 24, 2022 ⌘
+like last year, i played a bit of video games in 2022, almost all on pc. early in the year, i dropped stadia and switched to pc game pass. i loved stadia’s technology, but the game selection on game pass is shockingly good. and everyone knew it was just a matter of time until stadia was killed.
+i again spent most of my gaming playing co-op with my brother. my favorite game of the year was absolutely we were here forever – the fourth in that series. they stepped up the visuals and the story and the puzzles this time around, i was very very impressed with it. other good games we played this year: bbq simulator, biped, unrailed, you suck at parking, deep rock galactic, and grounded. we also continue to get tons of playtime from escape simulator, thanks to two great dlc releases and a very active map building community.
+when i was playing alone, i was typically churning through vampire survivors, but occasionally also the forza horizon 5 hot wheels dlc and trackmania 2020. i also got my playdate just a week ago, and i’m excited to play through those season 1 games in the coming months.
+
+
+
+
+dec 12, 2022 ⌘
+the closest thing i have to synesthesia is a perpetual desire to find the volume of music that “fills” my ears. it’s an indescribable and elusive point that’s pretty loud, but not very loud.
+
+
+
+
+dec 1, 2022 ⌘
+happy december, and happy advent of code. as per my tradition, i’m trying to learn a new language. since i enjoyed the functional-ish aspects of kotlin so much last year, i decided to try a fully functional language this year: haskell. and oh boy was day one a challenge!
+follow my progress at my github repo
+
+
+
+
+nov 27, 2022 ⌘
+i just deactivated my twitter accounts: @plutor and 9 bots. so long, fucko.
+one bot i can’t get into because i can’t get the emailed confirmation code. and another was apparently suspended for some reason i don’t care to investigate and you have to appeal the suspension in order to deactivate the account.
+
+
+
+
+nov 26, 2022 ⌘
+i’m building a storage bench for my kids shoes and hats and such, and it’s gonna turn out fine, but it makes me want to buy a table saw and a build a real workbench so i can make great stuff.
+
+
+
+
+nov 20, 2022 ⌘
+this is my new calendar idea, the spool calendar. the spool currently goes until the first week of feb 2023, each week i can just pull it upwards and cut off the excess.
+
+the biggest problems to resolve for the next prototype are 1) make it easier to mount and feed the spool, and 2) how to keep it from rolling back up (i’ve got it sorta taped there right now, but some sort of little clip might be better)
+also it’s about 14x10 right now but it should probably be more like 18x16, the days are a little cramped and a squarer 5-week layout is more typical for calendars
+
+
+
+
+nov 18, 2022 ⌘
+in response to this tweet, i asserted we were in the latter group and literally everyone else on the server was certain we were in the former. one said “it goes to show how much plutor is holding back”
+
+
+
+
+
+nov 15, 2022 ⌘
+my friend group’s slack in 2020: “we should move to discord”
+my friend group’s slack in 2021: “we should move to discord”
+my friend group’s slack in 2022: “we should move to discord”
+my friend group’s slack today: [tumbleweeds, because everyone’s on discord]
+
+
+
+
+nov 12, 2022 ⌘
+in june 1976, aliens landed on a quiet farm in northern wisconsin. three of them left their ship and walked a couple hundred yards to the farmhouse. when the farmer answered the door, they were shocked to discover that we didn’t look like aliens. we looked just like them. after a brief discussion, the landing party decided this wouldn’t make a very good press release.
+they went back to their ship and left to find a planet with more exotic looking aliens, and have never returned.
+
+
+
+
+nov 10, 2022 ⌘
+i invented a new type of wall calendar last night and i can’t stop thinking about it.
+
+
+
+
+nov 9, 2022 ⌘
+this video allowed john conway to blow my mind from beyond the grave. i can’t stop thinking about it.
+
+
+
+
+
+nov 8, 2022 ⌘
+coding in javascript makes me feel like harrison bergeron
+
+
+
+
+nov 1, 2022 ⌘
+painting of plutor holding a large plate of vegetables, by frida kahlo
+
+stable diffusion trained with dreambooth, try it yourself
+
+
+
+
+next page →
+
+
+
+© 2024 logan ingalls
+powered by hugo️️️
+hosted by micro.blog
+
+
+
+

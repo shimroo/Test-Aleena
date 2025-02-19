@@ -1,0 +1,855 @@
+
+
+
+
+
+
+
+
+healthcare excellence canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        who we are
+                    
+
+
+
+
+
+
+
+
+
+about us
+
+
+
+
+land acknowledgement
+
+
+
+
+our strategy
+
+
+
+
+our story
+
+
+
+
+meet the board of directors
+
+
+
+
+meet the senior leadership team
+
+
+
+
+corporate reports and policies
+
+
+
+
+careers
+
+
+
+
+
+
+what we do
+
+
+
+
+events and opportunities
+
+
+
+
+partnerships
+
+
+
+
+resources
+
+
+
+
+
+
+
+
+                                news
+                            
+
+
+
+
+
+                                contact
+                            
+
+
+
+
+
+                                français 
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+news
+
+
+contact
+
+
+
+                                            français 
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+who we are 
+
+
+about us
+
+
+land acknowledgement
+
+
+our strategy
+
+
+our story
+
+
+meet the board of directors
+
+
+meet the senior leadership team
+
+
+corporate reports and policies
+
+
+careers
+
+
+
+
+what we do
+
+
+events and opportunities
+
+
+partnerships
+
+
+resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+everyone in canada wants and deserves safe, high-quality healthcare
+we’re working with partners to make that possible. 
+learn more
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+what we do 
+we collaborate with people and organizations across the country to spread innovations, build capability and catalyze policy changes that improve healthcare safety and quality. learn more about our work.
+learn more
+
+ 
+
+
+
+
+
+
+
+what we do 
+we collaborate with people and organizations across the country to spread innovations, build capability and catalyze policy changes that improve healthcare safety and quality. learn more about our work. 
+learn more
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featured content
+attend quality forum 2025
+come together with the healthcare community to share and discuss how to improve the safety and quality of care for more people. join hec and hqbc’s pre-forum session, facilitated by nhs’s helen bevan, on the future of change: creating the context & strategies for improvement.
+register for quality forum 2025
+
+
+
+
+
+
+
+featured content
+attend quality forum 2025
+come together with the healthcare community to share and discuss how to improve the safety and quality of care for more people. join hec and hqbc’s pre-forum session, facilitated by nhs’s helen bevan, on the future of change: creating the context & strategies for improvement.
+register for quality forum 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featured content
+health workforce innovation challenge
+the challenge supported healthcare teams across canada to strengthen their workforces and deliver safer, higher-quality care. find out what teams accomplished and how they’re helping make positive changes across health systems.
+learn more
+
+
+
+
+
+
+
+featured content
+health workforce innovation challenge
+the challenge supported healthcare teams across canada to strengthen their workforces and deliver safer, higher-quality care. find out what teams accomplished and how they’re helping make positive changes across health systems.
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featured content
+sparking change in the appropriate use of antipsychotics awards program
+the awards program provides resources, coaching and financial award opportunities to up to 500 teams in long-term care (ltc) settings working to decrease the potentially inappropriate use of antipsychotic medications.
+register for the program
+
+
+
+
+
+
+
+featured content
+sparking change in the appropriate use of antipsychotics awards program
+the awards program provides resources, coaching and financial award opportunities to up to 500 teams in long-term care (ltc) settings working to decrease the potentially inappropriate use of antipsychotic medications.
+register for the program
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+events and opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            {{param_topicfiltertext}}
+                        
+
+
+ {{htmldecode(topictype).replaceall('+', ' ')}}
+                            
+
+
+
+
+
+ 
+                            {{param_filtertext}}
+                        
+
+
+ {{htmldecode(eventtype)}}
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{activity.title}}
+
+{{decode(activity.activitytype)}}
+
+
+
+
+
+
+
+{{param_linktext}}
+
+
+
+
+
+
+{{currentpage == null?'...':currentpage + 1}}/
+→
+
+
+
+
+
+
+all events and opportunities
+
+ 
+
+
+
+
+
+
+
+latest news and announcements
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    blog - january 20, 2025
+                                                
+why join the sparking change in the appropriate use of antipsychotics (aua) awards program?
+why join the sparking change in the appropriate use of antipsychotics (aua) awards program?
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    blog - december 19, 2024
+                                                
+5 resources for 2025
+5 resources for 2025
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    announcement - november 28, 2024
+                                                
+healthcare excellence canada supports teams to strengthen workforce retention
+healthcare excellence canada supports teams to strengthen workforce retention
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    announcement - november 15, 2024
+                                                
+healthcare excellence canada elects new vice-chair
+healthcare excellence canada elects new vice-chair
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    blog - november 04, 2024
+                                                
+cpsw 2024: championing safer care by broadening our view of healthcare harm 
+cpsw 2024: championing safer care by broadening our view of healthcare harm 
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    blog - november 04, 2024
+                                                
+improving the experience of care in the long-term care sector
+improving the experience of care in the long-term care sector
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    blog - october 17, 2024
+                                                
+engaging patients to reduce hospital harm 
+engaging patients to reduce hospital harm 
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    announcement - september 26, 2024
+                                                
+healthcare excellence canada welcomes two new directors to its board
+healthcare excellence canada welcomes two new directors to its board
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    blog - september 17, 2024
+                                                
+sharing métis experiences : cultural safety in healthcare  
+sharing métis experiences : cultural safety in healthcare  
+
+read more
+
+
+
+
+
+
+
+
+
+
+
+
+see more news and announcements
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+subscribe to email updates
+join us in shaping the future of quality and safety. together. subscribe to updates on the information and opportunities that matter most to you.
+subscribe now
+
+
+
+
+
+
+
+
+
+accessibility
+terms of use
+privacy
+sitemap
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+healthcare excellence canada honours the traditional territories upon which our staff and partners live, work and play. we recognize that the stewardship of the original inhabitants of these territories provides for the standard of living that we enjoy today. learn more
+© 2025 healthcare excellence canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+healthcare excellence canada honours the traditional territories upon which our staff and partners live, work and play. we recognize that the stewardship of the original inhabitants of these territories provides for the standard of living that we enjoy today. learn more
+
+
+accessibility
+
+
+terms of use
+
+
+privacy
+
+
+sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2025 healthcare excellence canada
+
+
+
+
+
+
+
+

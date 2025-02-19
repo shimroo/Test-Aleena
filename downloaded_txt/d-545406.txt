@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+home » epcon process engineering software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home
+ engineering software
+
+epcon process innovator
+chempro
+sinet
+column pro
+prv pro
+api data book
+
+
+ modeling services
+
+process unit study
+cooling water study
+instrument air study
+steam & condensate study
+fire water study
+process safety study
+
+
+ awards
+ videos
+ contact us
+
+get a demo
+free training
+tech support
+engineering
+
+
+ 
+
+
+select page
+
+
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+process innovator – design, simulate, analyze
+quickly design, simulation and analyze a simulation model for process or utility systems using this award-winning simulation interface
+
+click to learn more
+
+
+
+
+
+
+
+
+
+become a process innovator
+request a demo and view our training videos to begin learning epcon’s process innovator software to become proficient in the areas of process flow simulation, fluid flow simulation, process equipment sizing and physical properties
+
+start now!
+
+
+
+
+
+
+
+chempro – chemical process engineering suite
+combines fluid flow simulation, process flow simulation, and process equipment sizing in one unified software system.
+
+click to learn more
+
+
+
+
+
+
+
+
+
+process engineering software
+
+if you are creating or updating an industrial facility or want to increase production in yours, then epcon’s process engineering software can help. our software models and simulates real-world environments so that you can best understand how your piping system or process unit is running.
+with decades of experience, epcon has always been at the forefront of engineering software for piping and pump systems. we’re recognized in our industry, having received major awards in 1990, 1992, 1999, 2001, and 2013. trust us to bring you modeling and simulation solutions.
+
+
+
+
+
+models and simulations
+
+our software is perfect for the design stage of your facility. we can model your process and utility services to ensure that unit operation and process equipment components are the right size and work the way they should. these models also allow you to find any problems before installing the system so that you can be productive right after start-up.
+we are proud to say that at epcon, we were one of the first to create and use fluid flow simulation. these simulations show you what is happening with process and utility systems in your facility to minimize leaks and help ensure design flow to all parts of these systems.
+unit operations simulated by epcon international™ include columns and tray or packing internals, reactors, flash drums, compressors, expanders, interchangers, coolers, heaters, pumps, let-down valves, etc. we simulate flow in pipes for liquid and gas 2-phase systems and provide detailed sizing for pipes, pumps, exchangers, flowmeters, relief valves and control valves.
+
+
+
+
+
+
+
+software and more
+
+if you’re not sure what you need for your facility, then contact epcon. our team is ready to find the right solution for you. get in contact with us by calling 800-367-3585 or 281-398-9400. you can also email us about our process engineering software at sales@epcon.com.
+
+
+
+
+
+engineering software
+
+
+
+
+
+
+
+
+process innovator
+design, simulate analyze
+quickly design, simulation and analyze a simulation model for process or utility systems using this award-winning simulation interface.
+
+
+
+learn more
+
+
+
+
+
+
+chempro
+chemical process engineering suite
+combines fluid flow simulation, process flow simulation, and process equipment sizing in one unified software system
+
+
+
+learn more
+
+
+
+
+
+
+sinet
+fluid flow simulator
+epcon pioneered the concept of fluid flow simulation over 25 years ago and sinet is the most widely used in industry due to its ease of use, computational power and value
+
+
+
+learn more
+
+
+
+
+
+
+
+
+column pro
+column hydraulics
+chempro links with column pro to automatically run fri’s drp computations for packing and tray hydraulics to rate column performance (www.fri.org)
+
+
+
+learn more
+
+
+
+
+
+
+prv pro
+relief valve analysis
+the computational engine in prv pro has been widely used in industry for over 30 years and includes integrated scenario management, 2-phase flow and flash computations.
+
+
+
+learn more
+
+
+
+
+
+
+api data book
+refinery thermodynamics
+the industry source for refinery thermodynamics with over 60 years of api research to provide accurate analysis of process systems in the oil, gas and petrochemical industries
+
+
+
+learn more
+
+
+
+
+
+modeling services
+
+
+
+
+
+
+
+
+process units
+increase plant profitability
+determine hydraulic limits on critical separation columns, analyze compressor efficiencies to avoid mechanical failures, perform plant wide steam balances, etc.
+
+
+
+learn more
+
+
+
+
+
+
+cooling water
+improve plant performance
+hydraulically analyze complete cooling water distribution systems and determine low cost solutions to achieve design flow in all critical exchangers
+
+
+
+learn more
+
+
+
+
+
+
+instrument air
+boost plant reliability
+hydraulically analyze complete instrument/plant air systems including a leak survey to determine the root cause of low pressure and flows and lowest cost solutions
+
+
+
+learn more
+
+
+
+
+
+
+
+
+steam/condensate
+conserve energy & water
+hydraulically analyze complete each steam system pressure level and condensate systems including a leak survey to determine to conserve energy and water
+
+
+
+learn more
+
+
+
+
+
+
+fire water
+ensure plant protection
+hydraulically analyze complete fire water systems to determine low cost solutions to achieve required system performance and ensure plant protection
+
+
+
+learn more
+
+
+
+
+
+
+process safety
+enhance plant safety
+analyze pressure relief valves to confirm sufficient capacity for all credible relief scenarios and determine minimum required backpressure for proper flare system design
+
+
+
+learn more
+
+
+
+
+
+
+
+why epcon?
+
+epcon has a proven track record of enabling engineers to simulate, analyze and optimize process and utility systems. improve yourself and your company with epcon international™.
+
+
+
+
+
+epcon past accomplishments and software development history:
+
+
+
+
+
+
+
+
+
+engineer's aide
+
+
+
+
+
+
+epcon released engineer’s aide in 1985 – an integrated suite of process engineering software applications for sizing piping and pump systems which is included in sinet and chempro.
+
+
+
+
+
+
+
+
+
+
+sinet
+
+
+
+
+
+
+first introduced in 1995, sinet includes fluid flow simulation and sizing of pumps, miscellaneous process equipment, control valves and flow meters for liquid and gas systems
+
+
+
+
+
+
+
+
+
+
+chempro
+
+
+
+
+
+
+chempro was first introduced in 1997 including flash/mixture computations. version 10 released in 2020 includes process flow simulation™ and is integrated with column pro
+
+
+
+
+
+
+
+
+
+
+
+
+api data book
+
+
+
+
+
+
+the api data book software was first introduced by epcon in 1998 with version 11 released in 2019. includes 15 chapters of api research over the past 60 years and 20 software programs.
+
+
+
+
+
+
+
+
+
+
+industry awards
+
+
+
+
+
+
+epcon’s software and modeling services received industry awards in 1990, 1992, 1999, 2001, and 2013 for engineer’s aide, sinet, chempro, and the process innovator simulation interface.
+
+
+
+
+
+
+
+
+
+
+modeling expertise
+
+
+
+
+
+
+epcon has significant expertise in the modeling of hundreds of process and utility systems since 1997 that we share with our customers to help them achieve their goals using our software.
+
+
+
+
+
+
+
+
+
+
+
+corporate wide licenses
+corporate-wide licensees of epcon international™ are shown below (partial list). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get in touch
+after sending your message you will be contacted by someone from our engineering staff
+
+
+
+
+find us at the office
+
+
+16225 park ten place, suite 500houston, tx 77084
+
+
+
+
+
+
+
+
+
+give us a ring
+
+
+call us800-367-3585 or 281-398-9400mon – fri, 9:00am-5:00pm
+
+
+
+
+
+
+
+contact us
+
+
+	notice: javascript is required for this content.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+our mission
+epcon’s mission is ingenuity simplified by developing process engineering software that enables plant based engineers to make a significant difference in their company and in their career. this has resulted in many of the world’s leading companies to license epcon international™ corporate-wide.
+
+
+
+epcon international™
+the leader in process engineering software™
+
+
+
+
+
+
+home
+awards
+start now!
+
+
+
+
+© 2025 by epcon international™ all rights reserved.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

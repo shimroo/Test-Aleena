@@ -1,0 +1,477 @@
+
+
+
+
+
+altrion.org | altrion	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+altrion.org
+
+
+altrion
+ 
+
+skip to content
+
+home
+
+
+
+
+
+
+
+visiting the us during covid – part 3 – orlando
+
+posted on december 14, 2021 by mike whitaker 
+
+an extra post for those folks who, like us, have spent a few vacations in orlando, the home of the mouse and theme parks generally.
+things have changed a bit since covid, for obvious reasons. there aren’t as any flights in and out, for a start, and i suspect with the latest covid variant the number of folks visiting may well drop again.
+masks
+there isn’t a state-wide or even city-wide mask mandate, but you will find a majority of restaurants and stores at least request masks, and a sizeable percentage of staff wear them. as far as theme parks go:
+disney require masks in all indoor venues and request them elsewhere.universal request, but do not require, masks.sea world likewise request masks but do not require them. 
+places
+don’t expect everywhere you’re used to to be open. particularly, a number of restaurant chains are closed, and (perhaps more usefully) you’ll find its a lot easier to get a table as a walk-in at many of the international drive restaurant venues than you’re used to! 
+those mainstays of budget british tourist breakfasts, ponderosa and sizzlers, are largely permanently shut, though. there’s one of each near disney on w. irlo bronson, but the  dozen or so that used to be absolutely rammed every morning around international drive/universal drive are gone, possibly for good. i suspect that the business model relied on buffet breakfasts, and with the absence of tourists and the fact that buffets are hard to keep covid-safe, they were in trouble. 
+covid testing
+you will, as noted in the previous post, need a lateral flow/rapid antigen test to get home. if you failed to arrange this before you leave (for which there’s now really no excuse) it won’t be cheap (we saw prices up to $179). remember you need documentary proof of the result to show or upload to verifly, so you can’t just buy and self-administer an over-the-counter one. there are a few places of note:
+at orlando airport: mcocovidtests.com will do tests: note that this link takes you to a ‘you’re in the eu’ holding page over in the uk, but to a more useful page in the us. book at least a week ahead, and they aren’t cheap.the florida mall on sand lake has a drive-thru test station in the sw corner of the carpark – see https://www.covidclinic.org/orlando-fl/ for details. again, book a few days ahead.you can, as with breathe assured in the uk, do a tele-health test. the likes of azova will do the video observation for $20 as long as you can source the right brand of test.a number of local health care centres will test you and email the results. we ended up using paramount urgent care on turkey lake road (across the carpark from the big walmart), who tested us as walk-ins at 10am and had results in email by mid-afternoon. friendly and helpful, but do charge $100 a head (you’re a captive market, live with it!).
+left luggage
+if you need to be able to leave your bags for the last day, virgin’s disney springs’ (formerly downtown disney) check-in is now back open again if you fly with them.
+if (like us) you’re going elsewhere for a day at the end of your trip, we can thoroughly recommend holdmybaggage. they have a desk on the b side at level 1 in orlando airport (to the left of dollar), where you can drop bags, or they will pick up and/or drop to your accommodation. lovely friendly people, and we thought $6/day/bag for not having to lug three cases around raleigh, nc for the night we spent there was money well spent.
+
+
+
+posted in covid travel 
+|
+1 comment
+
+
+
+visiting the us during covid – part 2, getting home again
+
+posted on december 13, 2021 by mike whitaker 
+
+this post covers the uk regulations as of 0400 gmt on 7th december 2021, and the us regulations as of 0501 gmt on 6th december 2021. as such, they are subject to change at the whim of the uk government, the us cdc and viral mutations, and i (as the author of the post) accept no responsibility should they be incorrect due to my error or you following them without checking whether the rules have changed since.
+please double-check the current regulations, and keep tracking them, well before you fly. if you’re going somewhere other than the us, the regulations covered in this post do not apply to you, but the second one (getting home again) will.
+also please note, this post is not for debate on the rights and wrongs of testing, lockdown, required wearing of masks, covid passports etc, and anything that isn’t useful information or questions related to the process of getting in and out of the uk will get summarily deleted. and, once again, i am not a doctor or legal expert. this post is to give you pointers on where to look and what happens, nothing more.
+with that in mind:
+getting home again
+on your way home, you are subject to the uk‘s entry rules. specifically, you’re going to need two (yes two) covid tests and you have a form to fill in. the following applies to any non-red list country (see the regulations for details) such as the usa.
+pre-departure test
+according to the regulations, this can be a lateral flow, rapid antigen or pcr test, and you must take it two calendar days or fewer before you fly out (i.e. if your flight is on a wednesday, you must take the test sometime on or after the monday). and, most importantly, you need documentary proof, so a self-administered test won’t work without some extra legwork.
+your basic options:
+by far the best is to take a test with you from expresstest or similar: you will need a device with a video camera and an internet connection while you’re in the us.
+if you forget (or like us you didn’t have a crystal ball!) you can….
+find a local healthcare clinic or testing station that will take self-pay patients and get you the results by email before you need to leave. these can cost $100 in the likes of orlando (you’re a captive audience!).many, but not all, branches of walgreens will do you a test.you can, as with breathe assured in the uk, do a tele-health test. the likes of azova will do the video observation for $20 as long as you can source the right brand of test from a pharmacy locally or online. don’t forget to allow for delivery times.
+with your results in hand you can upload them to verifly or print them off/save them to your phone ready for check in
+day 2 arrival test
+this one requires pre-planning, ideally before you even leave the uk: you need the reference number of the test you book for the passenger location form (next step below) before you leave the us.
+the day 2 test now needs to be a pcr test – lateral flow will not cut it after 7th dec – taken on or before your second day in the uk, with your landing day counting as day zero. if like us you land in the uk on a sunday, you must take the test on or before tuesday, and you must self-isolate until you get a negative result. note that you can therefore take it on the day you land.
+best tip is to book it before you leave the uk. your airline will probably recommend a few options, and these tend to fall into the approach of mailing you a test kit that you self-administer and send back. the obvious drawback here is that you’re going to have to self-isolate until the results come through, but you don’t have to worry about dealing with it when jet-lagged if you don’t need to be back at work the day after you land.
+if you do need to be working asap, or you just want the whole thing over with, you have options to take advantage of the ‘on or before’ bit of day 2 tests.
+expresstest will let you pre-book a test at their testing stations on many uk airports (including heathrow, gatwick, birmingham). haloverify have a testing station in the sofitel off the right-hand end of t5 arrivals, for which again you have to pre-book. we can throughly recommend the latter – results before we went to bed the same day from tests after we landed at 2pm – it does require a phone app, though. also, if you don’t like throat/nasal swabs, it’s a saliva ‘spit and go’ test (this can, though, be harder than it seems if the plane’s air-conditioning has dried your mouth and throat out – it’s harder than you think to provide 2ml of saliva). also, you need to not eat, drink or smoke for 30 mins before. haloverify can also send you a test kit (as above) to self-admin and send back if you want. 
+passenger locator form
+this is a uk government form you will need to fill in before you head home, a) to assert you’ve been tested etc and b) to allow them to trace your contacts on the flight etc.
+be aware that you will need your day 2 test reference (which the testing company will send you when you book) before you fill it in, and also that it can only be filled in 48 hours (not two calendar days, just to be irritating) before your homeward flight’s scheduled departure time. it can be done on a smartphone.
+once you have completed it, a copy will arrive in your email as a pdf with a barcode which you can scan into verifly or show to the check-in desk. we printed a copy to be safe, but weren’t asked to produce it.
+on the day
+once you have your pre-departure test result, your plf and a test booking for when you get home, you’re sorted. as on your flight out, be ready to show all your documentation (or verifly) to the check-in desk….
+… and remember to keep enough charge in your phone in case you have to show your plf on arrival, or find your test booking number/complete your test details for an on-airport test!
+
+
+
+posted in covid travel 
+|
+leave a comment
+
+
+
+visiting the us during covid – part 1, getting out of the uk
+
+posted on december 13, 2021 by mike whitaker 
+
+last week we took a week’s break in orlando, and as such had to navigate the whole process of testing and paperwork to get out of the uk and back again. 
+this post covers the uk regulations as of 0400 gmt on 7th december 2021, and the us regulations as of 0501 gmt on 6th december 2021. as such, they are subject to change at the whim of the uk government, the us cdc and viral mutations, and i (as the author of the post) accept no responsibility should they be incorrect due to my error or you following them without checking whether the rules have changed since.
+please double-check the current regulations, and keep tracking them, well before you fly. if you’re going somewhere other than the us, the regulations covered in this post do not apply to you, but the second one (getting home again) will.
+also please note, this post is not for debate on the rights and wrongs of testing, lockdown, required wearing of masks, covid passports etc, and anything that isn’t useful information or questions related to the process of getting in and out of the uk will get summarily deleted. and, once again, i am not a doctor or legal expert. this post is to give you pointers on where to look and what happens, nothing more.
+with that in mind:
+getting out of the uk to the us
+for this, you are pretty much going to need a smartphone, or wind up carrying boatloads of extra paperwork. also note that this bit is a matter of complying with the current us regulations, not the uk ones.
+vaccination status
+you need to be fully vaccinated against covid-19. see here for details. (there are exemptions, which are covered there.)
+you will need to be able to prove this on check-in, for which you are going to need either paper proof or a barcode that the airline can check. both of these can be obtained via the nhs, either online or via the nhs app (not to be confused with the nhs covid app!) 
+side note: some venues in the usa require physical paper proof of vaccination, so it may be worth printing this off come what may.
+verifly
+a number of airlines now use the verifly app to consolidate your travel documents: if yours does (ba, aer lingus, american, etc), you can set up a profile and a trip on the app to store all your records for that trip. it will allow you to scan your vaccination pass barcode (you want the one that’s proof of your second vaccine) or upload the documentation. 
+getting tested
+the other main thing you will need is a lateral flow/rapid antigen/pcr test taken within one day of departure (or proof that you have recovered from covid-19 in the last 90 days). for clarification, that means the documentation for your test must show a test time of the day of, or the day before, your departure, not necessarily within 24 hours. yes, that’s pretty tight, and it’s going to cost you 30-50 quid or more per head. for us flights you are going to want to do this the day before.
+a normal self-test is not enough, unless you can book a ‘tele-health’ service to monitor your test and provide you with independent documentary proof. we did this using breathe assured, who send you a rapid antigen test (or tests – they’ll do your group as one appointment) in the mail, and then provide a nurse-supervised testing process over a 30 minute microsoft teams call, and documentary proof via email before the end of it. (they use the flowflex test, which has the pleasant advantage of not requiring the nasal swab to be inserted all the way to your brain to test :d) 
+if you don’t use a tele-health service, you are going to have to find a testing service with a local clinic that will administer the test and deliver you a same-day result. google for uk pre departure covid test, or check your airline’s recommendations page – british airways in particular have discount deals with a few.
+side note: make sure your test provider’s email (in our case customerservices@breatheassured.com) is set to bypass junk mail filters 😀 you really do not want to be panicking about where your results are on the morning of your flight!
+verifly
+once again, you can add your test result to verifly as part of your trip – you may need to learn how to manage files on your phone to do so, as they require you to upload the proof of testing, which they will process in a couple of hours. they will also ask you to answer a short list of questions that boil down to ‘no i don’t have symptoms, yes i’ve done all the paperwork’, and then you get a nice ‘ready to fly’ pass on your phone you can wave at the necessary people. 
+on the day
+so, at this point you should have passport, boarding pass, proof of vaccination and proof of a negative test within the last calendar day. you should be good to go. 
+check-in will be a little bit longer, as you will need to prove the covid-related bits of your status. this is where verifly really scores as you just need to wave the appropriate screen of the app at them, and since ba and american use it and are probably the main airlines likely to be taking you to the us, you should be laughing, 
+the responsibility for checking you’re fit to fly seems to fall with the airline on the departure side, but keep verifly/your paperwork handy just in case us immigration ask you anything.
+masks
+you will be required to wear a mask from the moment you set foot in the airport till you leave again at the other end, unless you have proof of a medical exemption or you’re actively eating or drinking. take several, as you’re going to want to swap every few hours for a fresh and dry one. also, many locations in the us will require you to mask up as well. 
+
+
+
+posted in covid travel 
+|
+leave a comment
+
+
+
+getting your instagram feed to discord
+
+posted on june 30, 2020 by mike whitaker 
+
+not so long ago, it was possible with a bit of effort, a third party feed generator and a discord bot, to get instagram to feed new images from your page to a discord channel, complete with image preview. this then stopped working because as far as i can tell instagram’s /p/<post> link is now behind their login wall, so anonymous feeds can’t get it. result, lots of ugliness on my discord, viz:
+
+this bugged me enough to find a better solution, and one of my co-admins suggested ifttt: some googling later i found the bones of a recipe, which didn’t work. so here’s the result of me fixing it.
+step 1: create a discord webhook
+
+go to server settings (c’mon, you should know where that is by now), webhooks, and hit the blurple[1] create webhook button. 
+fill in the fields, upload an avatar image for the webhook if you want. most importantly, you need to pick which channel you want the webhook to post to, and then copy the webhook url (keep it private) and hit save.
+step 2: use ifttt to scrape your instagram feed
+go to ifttt, hit explore, scroll down to make your own from scratch. then hit create. hit +this, search for instagram, select it and pick one of the triggers (i chose ‘any new photo by you’). easy.
+step 3: feed it to discord
+
+now hit +that, and search for webhooks – there is only one result, and from there only one action (‘make a web request’), so select it. now you need to configure it.
+easy bits first – paste your webhook url into the url field. set the method to post, and the content type to application/json.
+finally, copy this into the body field (or use the add ingredient button to add the caption, url and sourceurl ingredient tokens):
+{
+  "content": "{{caption}} {{url}}",
+  "embeds": [
+    {  
+      "image": {
+        "url": "{{sourceurl}}"
+      }
+    }
+  ]
+}
+hit save. go post to your instagram feed and wait.
+and there you are!
+[1] ‘blurple’ is the name of discord’s official button colour 
+
+
+
+posted in virtual un-distancing 
+|
+
+tagged discord, instagram 
+|
+10 comments
+
+
+
+virtual un-distancing and de-isolation #4 – video chat 1
+
+posted on april 15, 2020 by mike whitaker 
+
+it is, eventually, kinda nice to see people’s faces, and a voice on a phone or a line of text is only so good. there are quite a few solutions out there. let’s mention in passing some of the more long established ones:
+
+ facetime – if you have an iphone, or even a mac with a webcam (most of them these days), then you’re set skype – if you’ve been using this already, then no reason not to carry ongoogle hangout – again, if you use google talk regularly, then you can add video to your text chat just by clicking on the little camera icon and allowing the browser to access your camera, like so…
+
+if you’re on your phone, i’d recommend at least headphones, as this stops the sound from your speakers getting back into your mic, which tends to either a) cause nasty feedback or b) cause the people at the far end of your call to hear themselves delayed by the time it takes for sound to get from them to you and back, which is really off-putting. we’ll talk about better approaches to sound in another post, but headphones of some sort are probably a bare minimum. (some apps do have clever noise-cancelling software to combat the whole hearing yourself on someone else’s mic thing, but in general? headphones.)
+next choice, and obviously, if you’ve been following the previous posts, you’ll be wondering how long before i got there, is discord.
+
+discord voice channels are just that – voice only – but you can do video chat with someone you’re having a direct message conversation with now optionally video as well.  you’ll find when you connect to a ‘voice’ channel there’s a big ‘video’ button now!
+in direct messages, just select the video icon (or obviously the phone icon if you want voice only)… and hey presto. like a lot of video chat tools, you have the option to screen share as well. 
+it’s also worth noting that you can create group chats with up to 10 people: click on the + next to direct messages in the sidebar and you can add friends to a group chat.
+…thank you to my wife anne for being online for once….
+
+there are a bunch of settings you can tweak – go click on the gearwheel icon bottom left by your account name, and find the voice and video section.
+first up, the audio bit: if like me you have a headset, you can switch to that rather than speakers (mine plugs into the imac’s audio socket, which handles both). you can choose push to talk (another common feature on video chat these days), which means the spacebar acts as a transmit switch.  
+
+on the video side, you can choose your webcam (i have two, as my imac is off to one side so i tend to use a second one on top of my second monitor). in advanced settings, there’s a bunch of stuff you probably won’t need to touch for ordinary talking (and indeed, the default noise cancelling is pretty good at keeping noises from your speakers out of your microphone), but if you’re trying to feed audio from something more complex (like music) you might.
+
+next post, some of the more serious video conferencing options: zoom, and new kid on the the block, jitsi. and you may get to hear me vent on the subject of microsoft teams.
+
+
+
+posted in uncategorized 
+|
+
+tagged discord, video 
+|
+1 comment
+
+
+
+virtual un-distancing and de-isolation #3 – discord bots
+
+posted on march 26, 2020 by mike whitaker 
+
+bots, for those not in the know, are handy bits of software that do assorted clever things in response to user interaction with them in discord. they can do as simple as ‘spot a new arrival and send them a welcome message’, through ‘give someone a role if they like a certain post’ to ‘roll dice’, and a whole range of other things, 
+i’m going to kick off with a couple of the more popular ones: first up, mee6. mee6 does a bunch of handy stuff, like welcome messages, etc, and if your server grows at all, it’s probably worth having.
+
+here’s what you see if you go to mee6’s home page. click on add to discord, and you will see a list of all the servers you administer (you need to be an admin here), and a button to setup mee6. click the appropriate one, and you’ll get this dialog:
+
+make sure the right server is selected. and click continue. 
+this will take you to a confirmation screen (which tells you the rather scary list of permissions mee6 is going to get – you can trust it), and then to a screen to prove you aren’t a robot.
+once you’ve proved you’re at least human enough, you will find mee6 has arrived on your server, and you’re at the plugins tab of the config screen in your browser like this:
+
+here you can start to set up various mee6 features. let’s start with a welcome message: so click on welcome. your options here include:
+send a message when a user joins the serversend a private message to new userssend a welcome picture
+click the slide button to enable the one you want, type your message or add your picture, and away you go (click on plugins to get back to the main config screen). most of the bot really is that simple.
+unless you enjoy keeping track of who’s talkative on your server, i’d suggest turning off  the levels plugin – just click on it, click the yellow disble button. you might want to turn on the moderator plugin, depending on your audience: it allows you to detect and block various things like bad language, spam etc.
+if you enable the reaction roles plugin, you can automatically grant a role to people who react appropriately to a post: this is particularly useful if your server has channels not everyone is interested in, in which case you can make them private and use this plugin to save you having to add people to the appropriate role.
+have a play – you can’t do much damage while you’re exploring what the bot can do. there are also lennoxbot and dyno, which do very similar things.
+ok. next up, diceparser – if you’re running a server for any kind of games that need dice, this is very handy. go here and click invite to invite it to your server. the process is the same as before as regards the invitation process. it’s quite a complex bot (full docs are here) but, for example, if you say “!3d6” where it can hear you, it’ll roll 3 six sided dice and give you the result.
+
+however, and this is probably true of a lot of bots, people will play with it just for fun and it can get a bit spammy after a while, so here’s a way to keep it to just a small group of channels.
+
+go back to the previous post, create a role called gamebots, and add diceparser to it. create two categories, add all the channels you don’t want the bot to work in to one, and the ones you do to the other. in the one you don’t want the bot to work in, right click on the category name, and edit category:
+now click permissions in the left sidebar, and then the + next to roles. add the gamebots role you created, scroll down until you fund the text messages section (see below), click on the cross next to send messages to disable it from sending messages to the channel, and you’re done.
+
+this is a handy trick for other bots as well.
+ok. enough for now. back with some fresh virtual un-distancing stuff tomorrow.
+
+
+
+posted in virtual un-distancing 
+|
+
+tagged discord 
+|
+1 comment
+
+
+
+virtual un-distancing and de-isolation #2 – configuring discord
+
+posted on march 24, 2020 by mike whitaker 
+
+now you have a discord server. if (like one or two of the ones i manage) you have a largish group discussing various topics, you might want to add more channels. easy! click on the little + next to “text channels” and you’ll get a dialog:
+
+
+type your channel in there and away you go!
+now, this is fine, but what if you want to restrict the channel to certain people? again, simple. first off, let’s go to the server menu (click on the downward v top left by your server name).
+select ‘server settings’ (ignore the others for now), and then roles, and then the little + just to the right of the ‘roles’ in the centre column.
+
+now you can create a new rôle: give it a name (i chose admins) and a colour, and for now that’s it – hit the green save changes button bottom right and then the close x top right (or the esc key).
+now let’s create another channel. because you now have a rôle defined, you can create a private channel, which is what we’re going to do. 
+
+select the rôle you want to have access to the channel: everyone else won’t. 
+“but wait”, i hear you ask. “how do i give someone a rôle?” easy. right click on their name in the user list on the right (or swipe right to display it, tap, and hit manage on a phone), and then select roles and check the box for the rôle you want them to have.
+
+all of these also apply to voice channels.
+you will notice that your text channels are in a category called ‘text channels’. you can add other categories. go to the server menu, select create category:
+
+categories allow you to group channels together, and more usefully share the same permissions. notice again, you can make a category private, so any channel in that category will share those permissions.
+we can also drag any existing channel onto that category, and if it doesn’t already have the same permissions, you will be asked if you want to give it those permissions:
+
+and there you go. i think that’s enough for one post, so we’ll save discussion of bots and such until the next one. 
+
+
+
+posted in virtual un-distancing 
+|
+
+tagged discord 
+|
+1 comment
+
+
+
+virtual un-distancing and de-isolation: #1 – discord
+
+posted on march 23, 2020 by mike whitaker 
+
+no, i’m not suggesting you immediately head outside and start hugging everyone you meet.
+
+this is a series of posts, for the slightly technical at heart, covering how to set up various means of contacting your fellow human beings, above and beyond the likes of facebook and twitter. not that there’s anything wrong with either of the above, but sometimes it’s good to hear a voice or see a face. with that in mind, then, let’s get cracking.
+discord is a text based chat app (at least on the surface) that started life as an outside-the-game means of video gamers keeping in touch. as such, it also has group voice chat channels, and 1:1 or small group voice and video chat. 
+most of the time, you’ll get brought into discord via an invite link: just click it, create a discord account (they’re centralised) if you don’t have one already, and off you go. you can survive on the website, or there are clients for computers and tablets.
+
+if you want to create your own server, it’s surprisingly simple:
+on almost all the clients, down the bottom of the left hand sidebar is a big plus sign. click it, select create a server, give it a name, and off you go.
+
+next, you’ll be prompted with a list of friends to invite and also an invite link, like the one you probably got to start your time on discord. the default link expires after a day, or you can choose to create one with a longer expiry time up to and including never. guard it relatively jealously, if you’re creating a server for a closed community, so not just anyone can join (i just expired the one below :d)
+
+click the x to make that go away (you can always find the invite link again if you need to) and there you are – a discord server with one text channel (#general) and one voice channel (called general as well) and a page of useful links. 
+
+text chat is easy: just type in the channel, and people will see. if you have other folks (who’ve accepted your invite), and you type @, it will auto-complete as you keep typing with people’s nicknames, if you need to get their attention. note that as well a visible nickname, which you can set per server, there’s a full nickname (usually the first one you picked plus a string of numbers) which is unique across all of discord. 
+text chat is persistent, and you will be able to catch up on what you missed when you weren’t logged in, also, you can edit and delete posts after the fact, as well as share links and images.
+
+voice chat requires a mic and speakers, though i’d recommend headphones so the sound from the speakers doesn’t get into your mic.  if you right click on the gear icon next to your nickname (bottom left of screen) you can get into voice and video settings, and set up audio. down bottom left you’ll also find ‘mute’ and ‘deafen’ icons to turn off your mic and/or audio, and just above it a little handset icon with a cross, which is where you can disconnect from the voice channel.
+
+next time, i’ll explain about roles (to restrict who can do what on various channels) and also some useful bots you can invite to your server to help out with various functions.
+
+
+
+posted in virtual un-distancing 
+|
+
+tagged discord 
+|
+leave a comment
+
+
+
+hello world!
+
+posted on july 15, 2013 by mike whitaker 
+
+welcome to altrion.org, the home of mike and anne whitaker on the internet.
+for now, this is just a holding page while we move a bunch of stuff over from the old site.
+
+
+
+posted in admin 
+|
+
+tagged hello 
+|
+leave a comment
+
+
+
+
+
+
+
+
+search for:
+
+
+
+donateif you're finding these posts useful, and would like to leave me a small thank you to help offset hosting costs (this is my server on my fibre), do feel free,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+recent posts
+
+
+visiting the us during covid – part 3 – orlando
+
+
+visiting the us during covid – part 2, getting home again
+
+
+visiting the us during covid – part 1, getting out of the uk
+
+
+getting your instagram feed to discord
+
+
+virtual un-distancing and de-isolation #4 – video chat 1
+
+
+recent commentskayswell on visiting the us during covid – part 3 – orlandoart licensing on getting your instagram feed to discordraleigh crispen on virtual un-distancing and de-isolation #3 – discord botskayswell on virtual un-distancing and de-isolation #4 – video chat 1discord on getting your instagram feed to discordarchives
+
+december 2021
+june 2020
+april 2020
+march 2020
+july 2013
+
+categories
+
+admin
+
+covid travel
+
+uncategorized
+
+virtual un-distancing
+
+
+meta
+
+log in
+entries feed
+comments feed
+wordpress.org
+
+ 
+
+
+
+
+
+
+					altrion.org				
+
+
+
+					proudly powered by wordpress.				
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,347 @@
+
+
+
+mind mined productions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+online since 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+audio    
+    library    
+    gallery    
+    
+
+dark mode    
+    home  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+useless checkbox
+
+
+
+
+
+                    mind mined productions
+                        
+                        home
+public library
+audio funhouse
+gallery
+meet the editor
+
+
+
+
+
+
+
+
+
+august 13, 2024
+
+
+                long overdue perhaps, but better late than never, we've finally put together a website to represent marc del greco's long career in music.  head on over to arjuna recording & publishing for songs never before released in digital format.the arjuna logo
+
+
+
+
+march 02, 2024
+
+
+                proper religions have their relics.  these are objects such as a shriveled bishop's hand, the skull of a nun... that type of thing.  ideally they should be items weathered by time, and musty.  people should look upon them with confused wonder. we have our relics too, thankfully of a less morbid nature, which hopefully disqualifies us as a religion.  pictured below is our magna carta document, our stone tablet... these notepad pages, bearing the letterhead of the hospital my stepfather worked for in massachusetts, on which jeff and i first jotted down a poem called "the mind mined" in 1993.  the poem became an idea for an acting company, then became an idea for a summerstock program, and ultimately became a kind of label for releasing independent art projects and happenings.     it's not a bishop's hand, but it's something   it's really a shame that "...a dialog between pals" never got produced officially, but maybe something staged in your mind alone can be enough.  i'll retype the poem sometime to, for posterity, since it's all over the place here... along with an  appointment happening 2:00-2:30 and some other odds and ends.     wordsworth?  no.  whitman?  perhaps not.  forgive us, we were eighteen and we were high. 
+
+
+
+
+january 01, 2024
+
+
+                what better way to start the new year than by adding a brand new collection to our gallery, and  from an artist so close to our hearts?  join us in welcoming our very own, as they say, abby del greco to the merry band of artists who generously share some of their work online here.    by abby del greco 
+
+
+
+
+november 23, 2023
+
+
+                previously i had subscribed to the new yorker, but let it lapse, not being able to quite keep up.  i still sometimes stumble on links to the excellent magazines's website when reading news on my phone, like the link that took me here:   the irony!  paywalls are part of what makes the internet no (or less) fun.  amiright? it's not that i oppose paywalls.  i understand the cost of journalism, and writers deserve to make a living.  spare me that lecture.  it's more that i'm nostalgic for the early internet, like i imagine the author of that new yorker article might be, had i been able to easily read it.  or perhaps paywalls aren't mentioned at all.  let me know, if you subscribe. the website you're reading now is an artifact from an earlier internet.  it is november 2023 as i write this, but in 1998 we first lit up this domain, when banner ads were the worst scourge the web had to offer (and they couldn't track you).  a lot has changed since then.  we've always avoided loading third party advertising into your browser, chasing you around with cookies, and the like.  the experience of being here should not be sullied by such things, or affected by capital interests, to my mind. it reminds me of how a friend responded once, as i observed her reading tarot cards, and remarked at the money she could make in doing so. "join the circus," she said.
+                
+
+
+
+october 21, 2023
+
+
+                there are people who know computers, and people who know computers.  telling the difference between these two groups can be easier than you think.  the former group can talk a good game, is fully buzzword compliant, and likely wants your money.  the latter group, those who really know computers... and don't ask me why... can most often be seen with untucked shirts. the technology industry is no stranger to capitalist ambition: that's what industry is.  but as the cybersecurity field continues to expand, it's most troubling to see this particular area  become tainted by the lies of snake oil salesmen: the area of trust.  computer security is founded on trust relationships between systems.  but trust is a profoundly difficult thing to maintain, be it between computers or humans.  digital security obeys the laws of espionage, and adversaries are everywhere.  friend and enemy blur.   your worst enemy in cybersecurity is not the attacker looking to infiltrate your network on that zero-day exploit.  that enemy is a known concern, from whom you have already revoked trust.  your worst enemy is the pretend-friend, the software and appliance vendor selling you additional infrastructure.  trust us, they say... we've got your best interests... and your credentials... well in hand. the fundamental problem is that the more "hands" through which credentials pass, the less secure your network is.  this is a law that can never be escaped, no matter how many value-add features are bundled.  if you take point-to-point authentication from one server to another and add additional servers between the original two, you have greatly increased the attack surface of that authentication.  not only have you introduced additional hosts, but additional software handoffs, for your precious credentials to pass through, hoping to encounter no frenemies on their now-longer journey.  this is the legacy of commercial single sign-on. but it's even worse than that.  as cybersecurity "solutions" grow in complexity, it's not just the system attack surface that grows.  the human attack surface grows as well.  that's exactly what's happened to okta, and by extension, their technology partner beyondtrust.  hilariously, but completely on brand for a company called beyondtrust, they take full credit for exposing the breach.  we're not supposed to notice that they detected the breach precisely because okta is part of their infrastructure, an expansion of the credential-handling footprint that is the very anti-pattern we are calling out. what's the lesson?  ask yourself: who do i really trust?  who wants my money?  who in my circle will really tell me the truth... keep your circle small.  and check their shirts. update 10/27: now 1password admits to being part of this ever expanding attack surface.  also, this message: 
+
+
+
+
+october 07, 2023
+
+
+                in hopes of uncovering the secrets of modern ai image generation software, we've fed it prompts of all flavors until we arrived at an avatar that summarizes the pursuit.  behold the first (and last?) artificially generated artwork on mind mined.
+                
+
+
+
+
+august 11, 2023
+
+
+                like most, i've dabbled in social media, doomscrolling my way to distraction and wondering how something could be so compelling yet so deflating at once. after hopping around a bit and finally abandoning the blue bird a year or so before elon took it over and renamed it x, i thought i might be done.  but i was tempted by mastadon, then beckoned by bluesky, the jack dorsey-backed twitter clone where you skeet instead of tweet, and where a slow-rolling beta is slowly expanding its user base. so mind mined is on bluesky for now, but maybe not for long, because it's still basically the same medium we wandered away from before.  nonetheless, we have an available bluesky invitation for the curious and adventurous first asker who emails me and wants to see what this one is all about.
+                
+
+
+
+july 26, 2023
+
+
+                a very special technology has been at the foundation of this website for over 25 years, a dynamic and magical touchstone that makes the impossible possible: to precisely instruct these mysterious computing machines.  i speak of perl, the programming language that turned me on to software development, and for which i haven't yet found a replacement that would be an honest upgrade. the perl community remains vibrant.  mã³nika and i met because of perl.  we weren't able to make it to toronto for this year's conference, but maybe vegas next year. what's new in perl?  check it out:  
+
+
+
+
+
+
+
+subscribe via  
+
+    image of the day from the gallery
+by sergei chernenko
+
+
+
+
+
+    track of the day from the audio funhouse
+
+
+
+        sorry, your browser does not support the
+        audio element.
+    
+    lily by cactus highway
+
+
+
+
+
+
+
+    title of the day from the library
+
+
+    man-machine by adam voss
+    a short play of ?biological? intrigue... with a killer surprise ending!
+
+
+
+
+
+
+
+
+long overdue perhaps, but better late than never, we've finally put together a website to represent marc del greco's long career in music.  head on over to arjuna recording & publishing for songs never before released in digital format.the arjuna logo
+
+
+
+
+proper religions have their relics.  these are objects such as a shriveled bishop's hand, the skull of a nun... that type of thing.  ideally they should be items weathered by time, and musty.  people should look upon them with confused wonder. we have our relics too, thankfully of a less morbid nature, which hopefully disqualifies us as a religion.  pictured below is our magna carta document, our stone tablet... these notepad pages, bearing the letterhead of the hospital my stepfather worked for in massachusetts, on which jeff and i first jotted down a poem called "the mind mined" in 1993.  the poem became an idea for an acting company, then became an idea for a summerstock program, and ultimately became a kind of label for releasing independent art projects and happenings.     it's not a bishop's hand, but it's something   it's really a shame that "...a dialog between pals" never got produced officially, but maybe something staged in your mind alone can be enough.  i'll retype the poem sometime to, for posterity, since it's all over the place here... along with an  appointment happening 2:00-2:30 and some other odds and ends.     wordsworth?  no.  whitman?  perhaps not.  forgive us, we were eighteen and we were high. 
+
+
+
+
+what better way to start the new year than by adding a brand new collection to our gallery, and  from an artist so close to our hearts?  join us in welcoming our very own, as they say, abby del greco to the merry band of artists who generously share some of their work online here.    by abby del greco 
+
+
+
+
+previously i had subscribed to the new yorker, but let it lapse, not being able to quite keep up.  i still sometimes stumble on links to the excellent magazines's website when reading news on my phone, like the link that took me here:   the irony!  paywalls are part of what makes the internet no (or less) fun.  amiright? it's not that i oppose paywalls.  i understand the cost of journalism, and writers deserve to make a living.  spare me that lecture.  it's more that i'm nostalgic for the early internet, like i imagine the author of that new yorker article might be, had i been able to easily read it.  or perhaps paywalls aren't mentioned at all.  let me know, if you subscribe. the website you're reading now is an artifact from an earlier internet.  it is november 2023 as i write this, but in 1998 we first lit up this domain, when banner ads were the worst scourge the web had to offer (and they couldn't track you).  a lot has changed since then.  we've always avoided loading third party advertising into your browser, chasing you around with cookies, and the like.  the experience of being here should not be sullied by such things, or affected by capital interests, to my mind. it reminds me of how a friend responded once, as i observed her reading tarot cards, and remarked at the money she could make in doing so. "join the circus," she said.
+
+
+
+
+there are people who know computers, and people who know computers.  telling the difference between these two groups can be easier than you think.  the former group can talk a good game, is fully buzzword compliant, and likely wants your money.  the latter group, those who really know computers... and don't ask me why... can most often be seen with untucked shirts. the technology industry is no stranger to capitalist ambition: that's what industry is.  but as the cybersecurity field continues to expand, it's most troubling to see this particular area  become tainted by the lies of snake oil salesmen: the area of trust.  computer security is founded on trust relationships between systems.  but trust is a profoundly difficult thing to maintain, be it between computers or humans.  digital security obeys the laws of espionage, and adversaries are everywhere.  friend and enemy blur.   your worst enemy in cybersecurity is not the attacker looking to infiltrate your network on that zero-day exploit.  that enemy is a known concern, from whom you have already revoked trust.  your worst enemy is the pretend-friend, the software and appliance vendor selling you additional infrastructure.  trust us, they say... we've got your best interests... and your credentials... well in hand. the fundamental problem is that the more "hands" through which credentials pass, the less secure your network is.  this is a law that can never be escaped, no matter how many value-add features are bundled.  if you take point-to-point authentication from one server to another and add additional servers between the original two, you have greatly increased the attack surface of that authentication.  not only have you introduced additional hosts, but additional software handoffs, for your precious credentials to pass through, hoping to encounter no frenemies on their now-longer journey.  this is the legacy of commercial single sign-on. but it's even worse than that.  as cybersecurity "solutions" grow in complexity, it's not just the system attack surface that grows.  the human attack surface grows as well.  that's exactly what's happened to okta, and by extension, their technology partner beyondtrust.  hilariously, but completely on brand for a company called beyondtrust, they take full credit for exposing the breach.  we're not supposed to notice that they detected the breach precisely because okta is part of their infrastructure, an expansion of the credential-handling footprint that is the very anti-pattern we are calling out. what's the lesson?  ask yourself: who do i really trust?  who wants my money?  who in my circle will really tell me the truth... keep your circle small.  and check their shirts. update 10/27: now 1password admits to being part of this ever expanding attack surface.  also, this message: 
+
+
+
+
+in hopes of uncovering the secrets of modern ai image generation software, we've fed it prompts of all flavors until we arrived at an avatar that summarizes the pursuit.  behold the first (and last?) artificially generated artwork on mind mined.
+
+
+
+
+
+like most, i've dabbled in social media, doomscrolling my way to distraction and wondering how something could be so compelling yet so deflating at once. after hopping around a bit and finally abandoning the blue bird a year or so before elon took it over and renamed it x, i thought i might be done.  but i was tempted by mastadon, then beckoned by bluesky, the jack dorsey-backed twitter clone where you skeet instead of tweet, and where a slow-rolling beta is slowly expanding its user base. so mind mined is on bluesky for now, but maybe not for long, because it's still basically the same medium we wandered away from before.  nonetheless, we have an available bluesky invitation for the curious and adventurous first asker who emails me and wants to see what this one is all about.
+
+
+
+
+a very special technology has been at the foundation of this website for over 25 years, a dynamic and magical touchstone that makes the impossible possible: to precisely instruct these mysterious computing machines.  i speak of perl, the programming language that turned me on to software development, and for which i haven't yet found a replacement that would be an honest upgrade. the perl community remains vibrant.  mã³nika and i met because of perl.  we weren't able to make it to toronto for this year's conference, but maybe vegas next year. what's new in perl?  check it out:  
+
+
+
+
+daily features
+
+
+
+
+man-machine by adam voss
+    a short play of ?biological? intrigue... with a killer surprise ending!
+
+    enter the public library
+
+
+
+
+
+
+    track of the day
+
+
+
+        sorry, your browser does not support the
+        audio element.
+    
+    lily by cactus highway
+
+
+enter the audio funhouse
+
+
+
+
+
+
+artist of the day: sergei chernenko
+
+    enter the gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+                  meet the editor
+
+
+audio    
+            library    
+            gallery    
+            
+
+dark mode    
+            home  
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

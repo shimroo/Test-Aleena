@@ -1,0 +1,991 @@
+
+
+
+
+
+sharkscope - online and live poker statistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+login
+logout
+pricing
+faq
+options
+
+account
+
+change email
+change password
+cancel subscription
+
+
+opt in
+opt out
+reset statistics
+report missing game
+configuration
+
+preferences
+personal player names
+define player classes
+multi player search
+
+
+change language
+
+deutsch
+english
+espaã±ol
+franã§ais
+italiano
+portuguãªs
+ð ñññðºð¸ð¹
+
+
+manage private leaderboards
+manage widgets
+manage stable
+share searches
+subscribe to newsletter
+
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+permittedon all majorpoker sites
+
+
+
+
+track your poker stats,avoid the sharks
+
+
+
+
+99.9% of all online tournaments tracked
+view playerâs roi and profits
+tournament selection, collusion detection & more!
+
+
+
+
+join for free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+opt-in for a chance towin $20,000 in weekly prizes
+
+
+
+
+set your stats to public on any opt-in network
+check your stats weekly for a prize icon
+prizes paid in cash or subscriptions
+
+
+
+
+opt-in now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gold standardfor onlinetournamentleaderboards
+
+
+
+
+find out whois on top1000âs of categories, including:game types, stakes, countries
+
+
+
+view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+receive auto-alertsvia social media or email
+
+
+
+
+
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sharkscope & hand history statistics directly on your tables
+
+
+
+free with gold
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+up your game with thesharkscope sng guide
+
+
+
+
+20+ hours of training from wsop winner mark schmid
+learn every aspect of sng strategy
+free for gold subscribers
+
+
+
+
+start learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mobile app & hud
+
+
+
+
+view player profiles on the go
+android and ios supported
+
+
+
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+player search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+sharkscope coverage
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+tournament selector
+
+
+registering
+completed (<1 month)
+
+
+
+select filter
+clear all
+set as default
+save current
+delete filter
+------------------
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+search
+select an action
+
+
+auto refresh for 1 minute
+
+
+
+all games
+sit & go
+scheduled
+
+
+
+
+
+
+
+
+
+
+
+starts <10min
+starts <1h
+starts <3h
+starts <24h
+anytime
+
+
+
+
+
+:
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+										
+
+
+
+
+
+
+
+
+
+
+
+contains
+not contains
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+registering tournaments
+
+ 
+
+
+ 
+
+
+completed tournaments
+
+
+ 
+
+
+ 
+
+
+
+
+tournament search by id
+
+ 
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+basic search
+advanced search
+natural language query
+
+
+
+select filter
+clear all
+set as default
+save current
+delete filter
+------------------
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+all games
+sit & go
+scheduled
+
+currency:
+
+upload your results
+
+
+
+
+
+:
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													av. rebuys:
+													
+
+
+													rakeback:
+													%
+												
+
+
+versus:
+not versus:
+
+
+
+
+
+last
+first
+best
+worst
+largest
+smallest
+highest roi
+lowest roi
+
+
+
+
+
+
+
+
+
+contains
+not contains
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+contacts
+
+for queries relating to sharkscope email us at 
+for queries relating to sharkscope desktop email us at 
+please check the faq before contacting us to see if it answers your question. thanks.
+if you wish to opt out your player name please click here.
+if you wish to opt in your player name please click here.
+if you wish to report a missing game click here.
+unfortunately our support staff can only reply in english, but we are generally able to translate and understand non english incoming emails.
+
+
+
+manage personal player names
+
+
+						configure your own poker player names here.
+					
+
+						if you choose to add a reset date to one of your player names, all users (including yourself) will not be able to view any results that occurred before the chosen reset date. your player name will however have an icon next to it showing that a reset is in place. resets do not affect leaderboards.
+					
+
+
+
+
+
+
+
+
+
+
+
+
+change password
+
+new password:
+confirm new password:
+old password:
+
+
+
+
+
+
+change email
+
+new email:
+confirm new email:
+password:
+
+
+
+
+
+forgotten your password?
+
+
+
+						enter the email address you used to create your account and a new password will be sent to you.
+						if you do not receive the email with your new password please check your spam folder.
+
+
+email:
+
+
+
+
+				    	if you no longer have access to this email address please click here.
+				    
+
+
+
+
+password reset
+
+
+					if you are or have been a subscriber, your password can be reset by entering the email address you used to create your account and the order number from any payment that was made on that account.
+					you can get the order number from your purchase receipt email, paypal or moneybookers transaction history.
+
+email:
+order number:
+
+
+
+
+
+bonus code
+
+
+bonus code:
+
+
+
+
+
+
+
+ 
+
+
+
+player statistics
+find a tournament
+tournament selector
+sharkscope desktop & hud
+sharkscope mobile app
+
+leaderboards
+sharkscope tutorials
+sng guide
+opt in / out out
+
+
+
+
+
+market data
+
+
+
+
+
+
+
+
+
+
+									get sharkscope free!
+								
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+resources
+
+terms & conditions
+sharkscope api
+resellers
+privacy policy
+
+
+
+sharkscope news
+
+
+
+
+trending searches
+
+
+
+
+monthâs funniest new names, as judged by ai
+
+
+
+
+notable recent wins
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+group name:
+
+
+ public (can be searched and viewed by anyone.)
+ consolidated (merges all the players into a single combined player.)
+ 
+
+
+select a filter name:  
+
+select filter
+
+
+ 
+
+
+filter name:  
+
+
+ 
+
+
+purchase nowcancel
+
+
+
+upgrade nowcancel
+
+
+
+upgrade nowcancel
+
+
+
+
+gold subscribers only
+				
+
+
+
+
+choose format:
+
+
+json
+
+
+
+xml
+
+
+
+csv
+
+
+
+
+
+
+
+
+
+
+
+
+
+enter player names (one per line):
+
+
+
+
+select filter
+
+
+
+
+
+
+
+
+graphs
+
+
+
+tournament history
+
+
+
+add note
+
+
+
+refresh row
+
+
+
+delete row
+
+
+
+copy statistics
+
+
+
+copy player name
+
+
+
+use this filter
+
+
+
+
+
+
+
+player search
+
+
+
+add note
+
+
+
+copy statistics
+
+
+
+copy player name
+
+
+
+
+
+
+
+reset table layout
+
+
+
+add other statistics
+
+
+
+delete selected row(s)
+
+
+
+
+
+
+
+
+
+
+

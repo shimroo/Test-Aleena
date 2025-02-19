@@ -1,0 +1,180 @@
+
+
+
+
+wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main page
+
+from wiki
+
+jump to navigationjump to search
+
+contents
+
+1 welcome!
+2 news
+3 projects
+4 embedded controller related pages
+5 weather & lake data links
+6 pets
+7 humor
+8 amateur radio
+9 my, my, my...
+
+
+welcome!
+welcome to tinymicros.com.  this is a collection of things that interest me, from code i've written to cooking to hydroponics to owner's manuals for darn near everything i own to amateur radio to... well, check out the 'browse categories' link on the left for a top level view.  i add content rather infrequently, even though the home page itself rarely gets updated (some of the links to projects are a little dated...)
+if you find something interesting, i'm happy.  if you see spelling or grammar errors, or mis-information, please feel free to let me know.  if you find some of the humor a little off-color, too bad!
+
+news
+my latest project is an attempt at beekeeping
+
+projects
+1-wire network - temperature and squirrel trap sensing
+comp-u-kat & kats-eye - on-board computer for a suzuki gsx600f motorcycle
+fish tank - cindy and i decided we needed a fish tank
+z80 sbc - a z80-based single board computer
+category:projects - other assorted projects
+embedded controller related pages
+nxp lpc21xx
+msp430 bugspray database
+forth language related info
+pic (gag) info
+8051 code repository
+printed circuit board houses
+category:processors - information on various processors
+weather & lake data links
+lake lanier levels (daily rss feed), lake lanier trivia, song of the chattahoochee
+lake allatoona levels (daily rss feed)
+national weather radio locator database (database updated 2009/01/24)
+temperatures around the house
+s.e. region lightning strike map
+weather at n1ips house
+weather at ke4ikcs house
+weather equipment and gear
+pets
+the story of a very expensive dog
+pictures of the pets
+category:pets - pet related pages
+humor
+letter to kitchenaid, requesting exchange of a defective mixer
+lunacy - a play for our times
+web comics i enjoy
+category:humor - other humorous things (to me, at least)
+amateur radio
+list of current and past radios and antennas
+some interesting digital modes for amateur radio
+my, my, my...
+my blog
+my photo gallery
+my flickr pictures
+my youtube videos
+my librarything
+my del.icio.us links
+my google rss feed
+my facebook page
+my tumblr page
+my linkedin page
+my amazon wish list
+my stuff i might be selling on ebay
+really obsolete material
+
+
+
+
+
+
+retrieved from "https://tinymicros.com/mediawiki/index.php?title=main_page&oldid=8880"
+
+
+
+
+
+
+
+
+navigation menu
+
+page actions
+
+
+main pagediscussionreadview sourcehistory
+
+
+
+
+page actions
+
+main pagediscussionmoretools
+
+
+
+personal tools
+
+
+log in
+
+
+
+
+
+
+
+
+navigation
+
+main pagebrowse categoriesrecent changesrandom pagehelp
+
+
+
+search
+
+ 
+
+
+
+tools
+
+what links hererelated changesspecial pagesprintable versionpermanent linkpage information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ this page was last edited on 18 january 2020, at 17:06.
+privacy policyabout wikidisclaimers
+
+
+
+
+

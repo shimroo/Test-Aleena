@@ -1,0 +1,1274 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it & data - strategy, solutions, support - interworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interworks
+
+
+cultureour storyour  cultureour approachworkdata & analyticsdata strategydata solutionsdata supportdata services menuit strategyprotectioninfrastructurenetworkingend-user solutionsservicescase studiespartnershipspeoplemeet the teamcareerslocationsresourcesblogeventsviz galleryvideo librarywhite papers & downloads
+
+
+
+
+
+
+global
+germany
+
+
+
+
+×
+
+search for:
+
+
+
+
+
+
+contact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it & data – strategy, solutions, support
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+data & analytics 
+
+
+
+
+find your path to
+
+
+				 unified data			
+
+				 bi cost optimization			
+
+				 ai readiness			
+
+				 bi flexibility			
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+find your path
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+									there are many paths to success with your data.
+wherever you’re wanting to go, we will help you get there.								
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+our why
+it strategy
+data & analytics
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our approach 
+
+
+
+it and data may be rife with change and challenges, but the interworks team is obsessed with finding answers.
+we’re problem-solvers, tinkerers and collaborators. from the big picture to obscure side quests, we love every facet of tech.
+more than anything, we love applying our passion to the pursuit of helping others. whatever you need, we’re here to lend a hand. 
+
+
+
+
+
+
+see our approach
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it strategy 
+
+
+
+we got our start doing it networking back in 1996 with the goal of complete client satisfaction always in mind. today, we help organizations big and small with their entire it infrastructure.
+we know that one size doesn’t fit all, so flexibility comes standard. whether you need solution-specific expertise, extra muscle for an upcoming project, ongoing it support or total it outsourcing, we’re here to help. 
+
+
+
+
+
+
+explore it strategy
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data & analytics 
+
+
+
+knowledge is power, and data is knowledge. we help you maximize the potential of your data through expert consulting and services.we maintain strong partnerships with technologies leaders like tableau, snowflake, dbt, aws, thoughtspot and more to give you a truly modern analytics stack.but the real magic happens when it all comes together to surface valuable insights via analytics. that’s where we come in. 
+
+
+
+
+
+
+explore data & analytics
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+partners like these help us do our best work 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+see all partners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+see our knowledge in action 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+insert_comment
+building interactive applications with snowflake and 
+							february 17, 2025 by roger garcia 
+							one of the most exciting advancements in the snowflake ecosystem as of late is the 
+							view the blog 
+							
+ 
+
+
+
+insert_comment
+solving data chaos: the case for 
+							february 14, 2025 by kevin pemberton 
+							i’m seeing in today’s data landscape that many companies find themselves drowning in a sea 
+							view the blog 
+							
+ 
+
+
+
+insert_comment
+interworks is now a gold partner 
+							february 11, 2025 by robert curtis 
+							interworks is proud to announce that we have been promoted to the gold partner tier 
+							view the blog 
+							
+ 
+
+
+
+insert_comment
+3 ways to modernize your bi 
+							february 6, 2025 by robby white 
+							i’ve had the benefit over the last few years of listening to hundreds of our 
+							view the blog 
+							
+ 
+
+
+
+insert_comment
+interworks blog roundup — january 2025 
+							february 3, 2025 by mark cordeiro 
+							happy new year, dear readers! (now that i think about it, it's probably been about 
+							view the blog 
+							
+ 
+
+
+
+insert_comment
+advice for new data engineers from 
+							january 29, 2025 by matthew moffatt 
+							having recently been brought on as one of interworks' newest data engineers, i wanted to 
+							view the blog 
+							
+ 
+
+
+
+insert_comment
+interworks' 2025 data ins and outs 
+							january 25, 2025 by kevin pemberton 
+							while there is no crystal ball that can predict exactly where the data industry will 
+							view the blog 
+							
+ 
+
+
+
+insert_comment
+snowflake cortex: parsing unstructured data with 
+							january 21, 2025 by roger garcia 
+							snowflake has transformed how businesses manage and interact with data, providing a powerful platform for 
+							view the blog 
+							
+ 
+
+
+
+insert_comment
+unlock faster tableau workbooks with these 
+							january 14, 2025 by robby white 
+							recently, i have been involved in working with larger datasets. anyone who has done extensive 
+							view the blog 
+							
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+people & places 
+
+
+
+
+
+
+
+
+
+
+
+
+rachel kurtz 
+										analytics architect 
+										rachel does it all. data science wizard, baker extraordinaire, half-marathon runner, owner of two master’s degrees and a dataiku neuron - there’s nothing this renaissance woman can’t do. 
+										meet rachel 
+										 
+
+
+
+
+giovanna brisotti 
+										marketing coordinator 
+										when giovanna was five years old, she told a teacher she wanted to sell ice cream when she grew up. now, at interworks, she handles interworks' marketing needs for all of australia. while marketing and ice cream are entirely different games, giovanna’s sure to say her work is just as sweet. 
+										meet giovanna 
+										 
+
+
+
+
+garrett sauls 
+										content manager 
+										garrett has always wanted to do it all. growing up on the high plains of northwest oklahoma instilled in him a relentless desire to learn new things and see new places. 
+										meet garrett 
+										 
+
+
+
+
+stillwater, oklahoma 
+										headquarters 
+										1425 s. sangre rd.
+stillwater, ok 74074
+
+405.624.3214 
+										map 
+										 
+
+
+
+
+angela kang 
+										account executive 
+										angela always wanted to be a hotelier since she was little, as the excitement of staying at hotels was a highlight of her youth. after 10 years in the hospitality industry, her love slowly but surely evolved from helping guests with their stay to companies with their data. 
+										meet angela 
+										 
+
+
+
+
+scott matlock 
+										it lead and training coordinator
+when he's not leading one of our it teams, scott's either enjoying the outdoors, fixing up his 1970's vw camper van or spending time with his family... and, of course, his dog. 
+										meet scott 
+										 
+
+
+
+
+chris hastie 
+										data lead 
+										a snowflake data superhero, a snowpro subject matter expert and blog author extraordinaire, chris is perhaps one of the most qualified experts in snowflake operating today. and if you have the time, ask him what video games he’s been playing lately. 
+										meet chris 
+										 
+
+
+
+
+oklahoma city, ok 
+										regional office 
+										14000 quail springs parkway, suite 4000 oklahoma city, ok 73134
+
+405.624.3214 
+										map 
+										 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+subscribe to our newsletter 
+
+
+
+
+
+
+
+
+
+
+subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stay connected 
+
+culture
+
+our story
+our culture
+our approach
+
+
+work
+
+data & analytics
+it strategy
+case studies
+partnerships
+
+
+people
+
+meet the team
+careers
+locations
+
+
+resources
+
+blog
+events
+viz gallery
+video library
+white papers & downloads
+newsletter
+
+
+contact
+
+support
+
+
+kultur
+
+über uns
+kultur
+strategie
+
+
+expertise
+
+business intelligence
+
+architektur
+entwicklung und technik
+produkte & beschleuniger
+
+
+fallstudien
+partnerschaften
+
+
+menschen
+
+team
+karriere
+standorte
+
+
+ressourcen
+
+blog
+events
+viz gallery
+
+
+kontakt
+ 
+
+
+
+
+
+
+
+
+
+
+privacy policy
+terms and conditions
+impressum
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+newsletter
+stay up to date with all the latest.
+
+
+
+company informationcompany*billing contact*billing email*
+
+technical contact*technical email*
+
+phone*type of business*individual/sole proprietor or single-member llcc corporations corporationpartnershiptrust/estatepublic sector/government entity/educationssn / federal id*invoice preference*
+
+mail
+
+
+email
+does your company use a third-party invoicing platform?*
+
+
+yes
+
+
+
+no
+what is the name of the platform?physical address*
+
+
+
+street address
+
+
+address line 2
+
+
+city
+
+
+state / province / region
+
+
+zip / postal code
+
+afghanistanalbaniaalgeriaamerican samoaandorraangolaanguillaantarcticaantigua and barbudaargentinaarmeniaarubaaustraliaaustriaazerbaijanbahamasbahrainbangladeshbarbadosbelarusbelgiumbelizebeninbermudabhutanboliviabonaire, sint eustatius and sababosnia and herzegovinabotswanabouvet islandbrazilbritish indian ocean territorybrunei darussalambulgariaburkina fasoburundicabo verdecambodiacamerooncanadacayman islandscentral african republicchadchilechinachristmas islandcocos islandscolombiacomoroscongocongo, democratic republic of thecook islandscosta ricacroatiacubacuraçaocyprusczechiacôte d'ivoiredenmarkdjiboutidominicadominican republicecuadoregyptel salvadorequatorial guineaeritreaestoniaeswatiniethiopiafalkland islandsfaroe islandsfijifinlandfrancefrench guianafrench polynesiafrench southern territoriesgabongambiageorgiagermanyghanagibraltargreecegreenlandgrenadaguadeloupeguamguatemalaguernseyguineaguinea-bissauguyanahaitiheard island and mcdonald islandsholy seehondurashong konghungaryicelandindiaindonesiairaniraqirelandisle of manisraelitalyjamaicajapanjerseyjordankazakhstankenyakiribatikorea, democratic people's republic ofkorea, republic ofkuwaitkyrgyzstanlao people's democratic republiclatvialebanonlesotholiberialibyaliechtensteinlithuanialuxembourgmacaomadagascarmalawimalaysiamaldivesmalimaltamarshall islandsmartiniquemauritaniamauritiusmayottemexicomicronesiamoldovamonacomongoliamontenegromontserratmoroccomozambiquemyanmarnamibianaurunepalnetherlandsnew caledonianew zealandnicaraguanigernigerianiuenorfolk islandnorth macedonianorthern mariana islandsnorwayomanpakistanpalaupalestine, state ofpanamapapua new guineaparaguayperuphilippinespitcairnpolandportugalpuerto ricoqatarromaniarussian federationrwandaréunionsaint barthélemysaint helena, ascension and tristan da cunhasaint kitts and nevissaint luciasaint martinsaint pierre and miquelonsaint vincent and the grenadinessamoasan marinosao tome and principesaudi arabiasenegalserbiaseychellessierra leonesingaporesint maartenslovakiasloveniasolomon islandssomaliasouth africasouth georgia and the south sandwich islandssouth sudanspainsri lankasudansurinamesvalbard and jan mayenswedenswitzerlandsyria arab republictaiwantajikistantanzania, the united republic ofthailandtimor-lestetogotokelautongatrinidad and tobagotunisiaturkmenistanturks and caicos islandstuvalutürkiyeus minor outlying islandsugandaukraineunited arab emiratesunited kingdomunited statesuruguayuzbekistanvanuatuvenezuelaviet namvirgin islands, britishvirgin islands, u.s.wallis and futunawestern saharayemenzambiazimbabweåland islands
+country
+
+
+billing address
+
+billing address is different than shipping address
+the shipping address calculates shipping costs and delivers the product to customers. the billing address verifies that the customer is an authorized user of the purchasing credit card.billing address*
+
+
+
+street address
+
+
+address line 2
+
+
+city
+
+
+state / province / region
+
+
+zip / postal code
+
+afghanistanalbaniaalgeriaamerican samoaandorraangolaanguillaantarcticaantigua and barbudaargentinaarmeniaarubaaustraliaaustriaazerbaijanbahamasbahrainbangladeshbarbadosbelarusbelgiumbelizebeninbermudabhutanboliviabonaire, sint eustatius and sababosnia and herzegovinabotswanabouvet islandbrazilbritish indian ocean territorybrunei darussalambulgariaburkina fasoburundicabo verdecambodiacamerooncanadacayman islandscentral african republicchadchilechinachristmas islandcocos islandscolombiacomoroscongocongo, democratic republic of thecook islandscosta ricacroatiacubacuraçaocyprusczechiacôte d'ivoiredenmarkdjiboutidominicadominican republicecuadoregyptel salvadorequatorial guineaeritreaestoniaeswatiniethiopiafalkland islandsfaroe islandsfijifinlandfrancefrench guianafrench polynesiafrench southern territoriesgabongambiageorgiagermanyghanagibraltargreecegreenlandgrenadaguadeloupeguamguatemalaguernseyguineaguinea-bissauguyanahaitiheard island and mcdonald islandsholy seehondurashong konghungaryicelandindiaindonesiairaniraqirelandisle of manisraelitalyjamaicajapanjerseyjordankazakhstankenyakiribatikorea, democratic people's republic ofkorea, republic ofkuwaitkyrgyzstanlao people's democratic republiclatvialebanonlesotholiberialibyaliechtensteinlithuanialuxembourgmacaomadagascarmalawimalaysiamaldivesmalimaltamarshall islandsmartiniquemauritaniamauritiusmayottemexicomicronesiamoldovamonacomongoliamontenegromontserratmoroccomozambiquemyanmarnamibianaurunepalnetherlandsnew caledonianew zealandnicaraguanigernigerianiuenorfolk islandnorth macedonianorthern mariana islandsnorwayomanpakistanpalaupalestine, state ofpanamapapua new guineaparaguayperuphilippinespitcairnpolandportugalpuerto ricoqatarromaniarussian federationrwandaréunionsaint barthélemysaint helena, ascension and tristan da cunhasaint kitts and nevissaint luciasaint martinsaint pierre and miquelonsaint vincent and the grenadinessamoasan marinosao tome and principesaudi arabiasenegalserbiaseychellessierra leonesingaporesint maartenslovakiasloveniasolomon islandssomaliasouth africasouth georgia and the south sandwich islandssouth sudanspainsri lankasudansurinamesvalbard and jan mayenswedenswitzerlandsyria arab republictaiwantajikistantanzania, the united republic ofthailandtimor-lestetogotokelautongatrinidad and tobagotunisiaturkmenistanturks and caicos islandstuvalutürkiyeus minor outlying islandsugandaukraineunited arab emiratesunited kingdomunited statesuruguayuzbekistanvanuatuvenezuelaviet namvirgin islands, britishvirgin islands, u.s.wallis and futunawestern saharayemenzambiazimbabweåland islands
+country
+
+
+tax informationsales tax will be added to invoices for shipments into alabama, arizona, arkansas, california, colorado, connecticut, dc, florida, georgia, hawaii, illinois, indiana, iowa, kansas, louisiana, maine, maryland,
+massachusetts, michigan, minnesota, missouri, nebraska, nevada, new jersey, new york, north
+carolina, ohio, oklahoma, pennsylvania, rhode island, south carolina, tennessee, texas, utah, virginia, washington, west virginia and wisconsin unless customer is either a reseller or sales tax exempt.  please submit exemption forms to ar@interworks.com for review.is customer a reseller?*
+
+
+yes
+
+
+
+no
+file upload*
+
+drop files here or 
+select files
+
+accepted file types: jpg, png, gif, pdf, max. file size: 100 mb. please provide a resale certificate for each applicable state. (seller's permit does not meet requirement for deferring sales tax.) is customer tax exempt?*
+
+
+yes
+
+
+
+no
+file upload*
+
+drop files here or 
+select files
+
+accepted file types: jpg, png, gif, pdf, max. file size: 100 mb. please provide tax exempt status documentdo you require a purchase order?*
+
+
+yes
+
+
+
+no
+do you require any documents from interworks?
+
+w-9
+
+
+certificate of insurance
+
+
+other
+other documents requiredpayment optionsselect one*
+
+
+credit card
+
+
+
+check
+
+
+
+electronic fund transfer
+other informationdo you have any other information that you think might be helpful?terms* due upon receipt (unless other arrangements have been made). past due accounts may be subject to a late payment charge of 2% or $15 per month. the applicant agrees to pay any reasonable collection costs and legal fees. additionally, the applicant agrees that this agreement shall be construed under and enforced in accordance with the laws of the state of oklahoma and that any action commenced hereunder shall be venued in payne county. interworks may terminate any credit availability within its sole discretion. the undersigned agrees to the above terms and authorizes interworks to utilize any outside credit reporting services to obtain information on the applicant and certifies that all the above information is true and correct.name*
+
+
+first
+
+
+
+last
+
+title*date*
+
+month
+
+
+day
+
+
+year
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+δ
+
+
+
+
+×
+
+
+interworks uses cookies to allow us to better understand how the site is used. by continuing to use this site, you consent to this policy. review policy ok
+
+
+
+×
+
+			interworks gmbh
+			ratinger straße 9
+			40213 düsseldorf
+			germany
+			geschäftsführer: mel stephenson
+		
+
+			kontaktaufnahme: markus@interworks.eu
+			telefon: +49 (0)211 5408 5301
+
+
+			amtsgericht düsseldorf hrb 79752
+			ustldnr: de 313 353 072
+		
+
+
+
+
+
+
+×
+
+was this article helpful?
+
+
+
+
+
+this field is hidden when viewing the formwas this article helpful?
+
+
+yes
+
+
+
+no
+please share your thoughts.please click submit feedback below to submit your feedback. 
+  
+
+
+
+
+
+
+
+
+
+
+
+δ
+
+
+
+
+
+
+
+
+×
+love our blog? you should see our emails. sign up for our newsletter!subscribe
+
+
+
+ 
+xunsere webseite verwendet cookies, jedoch nicht, um ihnen persönliche daten im rahmen einer geheimen mission zu entlocken. vielmehr dienen sie dazu, inhalte und anzeigen zu personalisieren, funktionen für soziale medien bereitzustellen und die zugriffe auf unsere webseite zu analysieren. darüber hinaus teilen wir informationen über ihre nutzung unserer webseite mit unseren partnern für soziale medien, werbung und analysen. diese partner können diese informationen mit anderen daten kombinieren, die sie ihnen zur verfügung gestellt haben oder die im rahmen ihrer nutzung ihrer dienste gesammelt wurden. datenschutzerklärungablehnenakzeptiereneinstellungenzustimmung verwalten
+
+
+
+
+close
+
+
+
+
+
+
+überblick über den datenschutz
+
+diese website verwendet cookies, um ihre erfahrung zu verbessern, während sie durch die website navigieren. von diesen cookies werden die cookies, die als notwendig eingestuft werden, in ihrem browser gespeichert, da sie für das funktionieren der grundlegenden funktionen der website unerlässlich sind. wir verwenden auch cookies von dritten, die uns helfen zu analysieren und zu verstehen, wie sie diese website nutzen. diese cookies werden nur mit ihrer zustimmung in ihrem browser gespeichert. sie haben auch die möglichkeit, diese cookies abzulehnen. das ablehnen einiger dieser cookies kann jedoch auswirkungen auf ihr surferlebnis haben.
+
+ 
+
+
+
+
+
+                        non necessary 
+                    
+
+
+non-necessary
+
+
+
+
+any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. it is mandatory to procure user consent prior to running these cookies on your website.
+
+
+
+
+
+
+save & accept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

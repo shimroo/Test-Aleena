@@ -1,0 +1,899 @@
+
+
+
+
+
+
+
+
+
+what is itsm (it service management)? | ibm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+  
+    what is itsm (it service management)? 
+
+
+
+
+
+
+    
+
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    it automation
+                                
+
+
+
+                                    business operations
+                                
+
+
+
+                                    it infrastructure
+                                
+
+
+
+                                    cloud
+                                
+
+
+
+
+
+
+                    
+
+
+
+  
+    22 october 2024
+
+
+
+
+
+
+    
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                link copied
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dan  nosowitz
+
+
+
+
+
+
+
+
+        what is itsm (it service management)?
+    
+
+
+
+information technology service management (itsm) is the practice of planning, implementing, managing and optimizing the end-to-end delivery of information technology services to meet user needs and business goals.
+
+
+by systematically improving processes for service requests, it support, it asset management and change management, itsm helps businesses improve the user experience and gain greater productivity from it infrastructure. itsm can also help organizations drive business strategies, maintain compliance with regulatory and organizational requirements and reduce risk by embedding controls into it service design, delivery and management.
+the primary objective of itsm is to provide the optimal deployment, operation and management of every it resource for every user across an enterprise. users include customers, employees or business partners. it resources include hardware, software and other computing assets such as laptop computers, software applications, cloud storage solution and virtual servers.
+itsm relies on software tools, automation and proven procedures. if a customer contacts a service desk to report a problem with a computer workstation, request a new license or ask for access to a software asset, itsm outlines the process and guides the workflow that will fulfill these requests.
+there are a wide variety of itsm software solutions, processes and guiding frameworks for itsm implementation, including the it infrastructure library (itil). it teams customize their approach to itsm based on customer needs and business initiatives.
+
+some organizations extend their itsm capabilities to include enterprise service management (esm), which focuses on the broader business needs of specific teams, departments or units. itsm is also forward-looking—it maintains emphasis on continually improving the user or customer experience.
+
+
+
+        how does itsm improve service delivery?
+    
+
+
+
+by implementing repeatable, consistent and predictable services, with a clear set of procedures and systems, itsm can increase it system efficiency and productivity. it does this in several ways:
+
+
+promotes flexibility
+
+
+as technology evolves and changes, it demands also change. strong itsm practices help organizations manage changes in a way that is easily understood, efficient and minimally disruptive.
+
+
+enforces standardization
+
+
+one key tenet of itsm is standardization. itsm frameworks offer standardized protocols and practices that reduce the ad hoc nature of older it strategies. standardization allows for the easier and more precise creation of a knowledge base and helps employees learn and use a common language that can be extended to any it-related tasks.
+
+
+improves visibility
+
+
+by using real-time dashboards and management platforms, itsm promotes transparency and gives stakeholders greater visibility into it processes. many platforms include self-service features that provide stakeholders with the information and tools needed to resolve issues without assistance from it personnel.
+
+
+drives process efficiency
+
+
+imagine that a client needs something that falls under the service desk’s bailiwick, such as a new laptop. itsm provides a well-established, easy-to-follow procedure for such requests.
+the exact workflow varies due to an organization’s specific needs, but the idea is to make service desk requests trackable through request tickets, which are then routed to the appropriate team, istead of being handled on an ad hoc case-by-case basis. this improves service delivery by reducing uncertainty: the customer or client who needs a new laptop knows exactly what to do to secure their new equipment and where in the process their request stands.
+
+
+accelerates response times
+
+
+itsm systems use automation to process and assign requests, check for errors in the resolution process and even resolve more straightforward requests that don’t necessarily require employee attention. by eliminating repetitive and administrative tasks from workflows, itsm systems can streamline it service delivery, accelerate response and resolution times and increase customer satisfaction. 
+
+
+
+
+        what are important itsm frameworks?
+    
+
+
+
+itsm is an approach aimed at improving the way it operations are conducted. because it’s more of a conceptual goal than a specific program, there’s no “right” way to approach the task. however, that very flexibility can make it difficult to know where to start. luckily, there are a few existing frameworks that can help guide an organization as it begins the task of modernizing, optimizing and streamlining it.
+
+
+information technology infrastructure library (itil)
+
+
+itil is the most widely adopted framework for implementing and documenting itsm. it consists of a highly detailed library of processes that cover functional areas such as service strategy, service design, service transition, service operation and continual service improvement.
+
+originally created in the 1980s by a uk government agency, it initially took the form of a series of physical books. the itil framework is periodically updated to reflect the evolving it needs of modern businesses; the latest version of itil processes, itil 4, focuses on digital transformation and was released in 2019.
+
+
+devops
+
+
+more than a framework, devops is a methodology designed to help development and it operations teams work together more efficiently to create, test and deliver software. in some organizations, devops is used in place of or as an alternative to itsm. but many organizations see devops and itsm as complementary: devops focuses primarily on speed and agility and itsm focuses on user and customer satisfaction.
+
+
+cobit (control objectives for information and related technologies)
+
+
+cobit is an it governance framework created in 1996 by the information systems audit and control association (isaca). it provides guidance for businesses that seek to use it services to minimize risk, help ensure compliance with regulatory mandates and achieve better business outcomes and can be especially useful for organizations that have significant interactions with governance.
+
+
+iso/iec 20000
+
+
+the first international standard for service management, iso/iec 20000 was created in 2005 and is used by organizations around the world. iso 20000 is a formal specification and provides requirements for things like terms and definitions, leadership structures, planning and evaluation. it’s essentially a way to certify itil compliance.
+
+
+microsoft operations framework (mof)
+
+
+mof was created in 2008 as a management system for implementing and optimizing it services that use microsoft technologies and products. because many of microsoft’s products, from outlook to word to excel, are such important parts of many businesses, having a tailored system from microsoft can really come in handy. mof is usually used alongside other frameworks, such as itil.
+
+
+
+        itsm processes and practices
+    
+
+
+
+itsm is much more than reaction, repair and support—it provides a holistic view and plan for the management of information technology resources and processes. itsm processes are designed to work together with the rest of the business to achieve an organization’s objectives. these processes include:
+incident management
+in itsm, an incident is an unplanned outage or interruption in service. incident management is the process of responding to an incident with the goal of restoring the service with minimal impact to users and business processes.
+problem management
+problem management takes place when multiple incidents are related to the same root cause. itsm defines how the it department investigates, analyzes and eliminates the problem so it does not happen again.
+change management
+change management is the establishment of protocols to minimize it service disruptions, compliance issues and other risks that might result from changes made to critical systems.
+configuration management
+configuration management is the process of tracking configuration items for hardware and software components. a tool such as a configuration management database can serve as a central repository of all it assets and the relationships between them.
+service request management
+service requests for new assets, permissions or licenses can come from employees, customers or partners. service request management defines the most efficient and accurate method for granting or denying these requests, often by using a combination of automation and self-service capabilities.
+service catalog
+a service catalog is a directory that can be integrated with service request management. accessed through a menu or portal, it lists the it services that are available to users across the organization.
+knowledge management
+knowledge management (km) is the process of identifying, organizing, storing and disseminating information within an organization. a searchable, self-service knowledge base is a core km tool. it gives users across the organization easy access to it service-related issues and resolutions, metrics, documentation, tech topics and other resources.
+service level management
+service level management is the process of creating, tracking and administering the lifecycle of a service level agreement (sla). an sla is a contract between a service provider and a customer that defines the level of service to be provided and the consequences for not meeting that threshold.
+it service desk
+in itsm, the it service desk is the central point of contact for fielding and managing all incidents, problems and requests. more than a simple help desk, some service desks also handle software licensing, service providers, pricing and third-party contracts and maintain self-service portals and knowledge bases.
+it asset management
+it asset management, or itam, is the process of ensuring that an organization’s assets are fully tracked, up to date and operational. these assets can include hardware such as laptops and monitors as well as non-physical assets such as software licenses. it’s vital that all these assets be collected under a centralized it department to avoid redundancy and inefficiency.
+
+
+
+        ai and itsm
+    
+
+
+
+as artificial intelligence (ai) continues its breakneck evolution, there are many potential opportunities for it to optimize itsm tools and service delivery by increasing efficiency, improving end user experience and strengthening it security. areas of overlap between ai and itsm include:
+it security: ai can be used to monitor huge networks in real-time, looking for any potential security risks and performing vulnerability assessments beyond detection, ai can be used to help resolve security issues, for example, triaging events and ai can be used to automate responses to common issues. ai is used for user authentication, phishing prevention, fraud analysis and any other it security functions.
+issue resolution: ai and automation can be used to build faster, more consistent issue resolution processes, directing tickets to the appropriate team and reducing manual effort and error.
+prediction: through machine learning, ai systems can predict potential issues by analyzing historical data. these systems can be designed to alert it workers to possible vulnerabilities.
+knowledge base improvement: maintaining a thorough knowledge base is vital for any organization’s operations, but that maintenance can be tedious and difficult. ai can identify topics to add to a knowledge base and consistently contribute to the knowledge base without human intervention.
+chatbot support: ai-powered chatbots can be used to communicate with stakeholders in real-time and advanced language processing capabilities and the ability to index internal documents can facilitate and accelerate the resolution of it issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+            guide
+        
+
+            the enterprise guide to ai and it automation
+        
+learn how to reposition your it teams and add ai and it automation to your organization for business success.
+
+read the guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+  
+    resources
+
+
+
+
+
+
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            report
+        
+
+            unlock cloud cost savings with turbonomic
+        
+discover how ibm® turbonomic helps manage cloud spend and application performance, with a potential 247% roi over 3 years.
+
+read the report
+
+
+
+
+
+
+
+            report
+        
+
+            peerpaper report 2023: cloud optimization best practices
+        
+learn best practices and considerations for selecting a cloud optimization solution from peerspot members who use turbonomic.
+
+read the report
+
+
+
+
+
+
+
+            report
+        
+
+            achieving sustainable it with turbonomic
+        
+learn how users of ibm turbonomic achieved sustainable it and reduced their environmental footprint while assuring application performance.
+
+read the report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+     
+    related solutions
+
+
+
+
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+  
+    business automation solutions
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+rethink your business with ai and ibm automation, which helps make it systems more proactive, processes more efficient and people more productive.
+
+
+
+explore automation solutions
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+  
+    aiops consulting
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+step up it automation and operations with generative ai, aligning every aspect of your it infrastructure with business priorities.
+
+
+
+explore aiops consulting
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+  
+    ibm z it automation
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+it automation software from ibm z plays a crucial role in providing high-end solutions that monitor, control and automate an extensive range of system elements across your enterprise's hardware and software resources.
+
+
+
+explore ibm z it automation
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+take the next step
+
+
+
+
+discover how ai for it operations delivers insights to drive exceptional business performance.
+
+
+
+
+
+explore turbonomic
+
+
+
+explore aiops solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

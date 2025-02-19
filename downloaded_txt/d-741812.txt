@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+
+photoshop tips | photoshop tips and tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+photoshop tips
+photoshop tips and tutorials
+
+
+menu
+skip to content
+
+homelink to us
+suggest
+table of contents
+
+
+
+
+
+
+
+
+
+photoshop preferences
+
+
+
+
+in order to get the most performance out of photoshop, you should check out the photoshop preferences. let’s go ahead and explore the most important settings in the preferences window of photoshop. if you are in a hurry then scroll down and do the stuff that is in black font in order to increase the performance of photoshop.
+go ahead and open the preferences window. windows users should go to edit > preferences > general or use the keystroke ctrl+k. mac users should go to photoshop > preferences > general or cmd+k.
+ continue reading →
+
+
+			this entry was posted in photoshop tips and tagged faster, interface, memory, performance, photoshop, preferences, speed on march 16, 2008 by khurrum.								
+
+
+
+
+creating curves with the pen tool
+
+
+
+ 
+learn how to create smooth curves using the pen tool. it is recommended that you follow along on photoshop while reading this article. this will make the learning experience much more enjoyable
+ continue reading →
+
+
+			this entry was posted in photoshop tutorials on july 8, 2007 by khurrum.								
+
+
+
+
+photoshop christmas ornament
+
+
+
+
+the holiday season is fast approaching and people will soon be using photoshop to create christmas greeting cards, banners, and flyers. most of them will probably want to create some pictures of christmas decorations on those cards. this is a quick and dirty tutorial to get started with creating ornaments
+ continue reading →
+
+
+			this entry was posted in photoshop tutorials and tagged christmas, ornament, photoshop, tutorial on november 27, 2006 by khurrum.								
+
+
+
+
+alpha channels: an introduction
+
+
+
+if you have ever found your self selecting and then re-selecting the same portion of an image in photoshop then you are in dire need of alpha masks.
+scenario: imagine that you are working on a photoshop project where you had to carefully select something. you took about 10 minutes to successfully select something. then you worked in the selection for another 10 minutes and then you deselected only to realize that you forgot to apply a stroke (edit > stroke) to the image. what now? you’ll have to spend another 10 minutes re-selecting. 🙁
+the whole re-selecting process could have been avoided if you had used alpha channels to save your selection.
+selecting an alien flower
+1) here i have selected what appears to be an alien flower. it took me about five minutes (i selected in quick mask mode). i wouldn’t want to spend another 5 minutes re-selecting it in the future.
+
+saving the selection for ever
+2) so now i want to save this selection. with a stroke of genius, i glide my mouse pointer with extraordinary skill all the way to the select menu. while in this menu i click on save selection. tada! i have successfully saved the selection. i’ll never have to re-select that alien flower ever again. 
+if you did the same then you should see something like the following window appear: 
+ 
+enter a name and click ok. 
+wait? what happened?
+3) nothing appeared to happen but if you go to your channels palette ( window > channels ) then you will see an alpha channel. this is the saved selection. 
+ 
+moment of truth.
+4) de-select the current selection ( press ctrl/cmd+d). now if you want the selection to come back then just ctrl/cmd+ click on the new alpha channel (called alien flower in this example) and your selection will return. whew! 
+not only will this selection re-use allow you to save time but now you have access to a whole new list of channel features. 
+some facts
+5) if you click on the alpha channel, the entire image will  turn black and white. 
+
+the areas that are not selected will be black
+the areas that were with in the selection will be white. 
+the areas that are translucent or partially transparent will appear as shades of gray.
+
+ 
+this view is helpful because you can check if you have errors in your selection. if your selection is fuzzy then you can adjust the levels ( image > adjustments > levels ) or sharpen the selection ( filter > sharpen > smart sharpen ).
+you are allowed to use most of the filters and image adjustment tools in this view. you can use this for your advantage and create lots of fun and useful effects. i’ll try to cover some of these in the days ahead. 😉
+you can also use the paint brush, paint bucket, or pencil tool to reshape the selection. if you paint black then that area will get deselected. if you paint white then those areas will get selected. gray areas will be semi-transparent. 
+what’s next?
+
+line art – how to separate the lines from the paper
+spot colors
+channel effects
+and more.
+
+[tags]channels, alpha, tutorial, tips, photoshop, alpha channels, howto[/tags]
+please leave a comment 🙂 
+
+
+			this entry was posted in photoshop tips, photoshop tutorials on november 26, 2006 by khurrum.								
+
+
+
+
+channels: an introduction
+
+
+
+let’s just jump right in to the subject of channels. i will attempt to explain everything as it happens. you don’t have to do everything shown below. hopefully, i have provided enough screen shots that reading about it will explain the basic concepts of channels.
+1) create a new image in photoshop with the following settings:
+
+the most important setting here is the color mode setting (cmyk).
+cymk stands for:
+c = cyan
+m = magenta
+y = yellow
+k = black
+when the cmyk color mode is selected it can be assumed that you are creating an image that is to be used for printing at a printing press. if you take a look at your news paper you should notice that all the images are made up of tiny colored dots. these dots are originally cyan, magenta, yellow, and black. when these are combined they can create almost any hue.
+2) after clicking on ok you should find your self on a blank new canvas. open up the colors palette ( window > color or just press f6 key on most windows machines). you should see the following:
+
+if you dont’ see c m y k sliders then click on the arrow in the circle on the upper right corner of the color window and choose cmyk sliders from the menu. also make sure that cmyk spectrum is selected as shown in the following image:
+
+3) in the color window choose the following settings:
+c (cyan slider) = 100%
+m ( magenta )      =  0%
+y ( yellow )          = 0%
+k ( black )            = 0%
+make a square selection and fill it with the color that we just made (solid cmyk cyan). it should look something like this:
+
+now repeat the process but this time with magenta. use the following settings:
+c (cyan slider)   =  0%
+m ( magenta )      =  100%
+y ( yellow )          = 0%
+k ( black )            = 0%
+keep repeating this. make one color 100% and all the rest should be zero. make a square with each. in the end you’ll have the following:
+
+4) finally, open up the channels window / palette. you should see 5 channels. cmyk, cyan, magenta, yellow, black. currently, they are all selected, therefore, you see all the colors. click on the cyan channel and the areas with cyan color will turn black. the rest will disappear. click on magenta, yellow and black and you will notice the same.
+if you don’t want it to turn black then go to edit > preferences > display and cursors and choose color channels in color. now when you click on a channel only that color will be visible.
+
+if you press the shift key and then click on two channels then only those selected colors will be visible:
+
+think of this as ink on a white newspaper. if you put the ink on the paper then the paper will be colored. if there is no ink on the paper then it will appear white.
+it is completely opposite for rgb channels. rgb stands for:
+r = red
+g = green
+b = blue
+your highschool art or physics teacher probably taught you that when you add all the primary colors of light then you get white light. and if you shine white light through a prism you get a rainbow effect.
+also if you color the fins of a paper windmill red, green and blue and spin it very fast then the colors disappear and you get white light.
+basically, you can think of rgb channels as being huge red, green and blue flood-lights. when you turn on all flood lights you’ll get white light because all the three primary colors combine.
+if you only turn on red light you will only see stuff as red because green and blue will be missing and so on.
+lets try the above steps in rgb mode. since we went through all that cmyk stuff above i won’t go into as much detail with rgb.
+1) make a new image. make sure that the color mode is rgb.
+
+2) open the colors window / palette. click on the options arrow on the upper right corner and make sure you select rgb sliders and rgb spectrum. 
+
+3) make the red value 255, make sure green and blue are 0. then create a square and fill it with that color. repeat the process with green (make green 255 and the rest 0). then create a square and fill it with that color. finally, repeat the process with blue (make blue 255 and the rest 0). then create a square and fill it with that color.
+you should end up with something like:
+
+4) choose the red channel and you’ll notice that it acts completely different than cmyk. everything turns red instead of the areas with green and blue. green and blue turn black.
+
+don’t forget that we are dealing with light and not ink. when there is absense of light then that area becomes dark/black. obvious, isn’t it? when you turn off the lights the room goes dark.
+but why is everything else red? the white areas are red?
+if you remember from a few paragraphs back when you add red, green and blue together then that forms white. when you only turn on the red light and turn off blue and green then what will you have left? red. turn on green and blue lights back on and you’ll get white again (because they have combined together again).
+now you are the master of understanding basic rgb and cmyk channels.
+cmyk = coloring with ink
+rgb = coloring with light
+next in the channel series:
+
+channels! what are they good for?
+alpha channels
+spot colors
+line art using channels
+and more…
+
+
+
+			this entry was posted in photoshop tools on november 25, 2006 by khurrum.								
+
+
+post navigation
+← older posts
+
+
+
+
+
+recent commentsvarious stuff | the open source ninja on adjustment layersvarious stuff | james likes freedom on adjustment layersphotoshop elements keeps freezing | wallpapers on layer maskslayer mask tutorial photoshop elements 8 | pdf finder on layer maskscleaning up grainy, low-quality digital photos with photoshop | my professional hub on clone toolpages
+
+link to us
+suggest
+table of contents
+
+ 
+
+
+
+
+				proudly powered by wordpress			
+
+
+
+
+
+

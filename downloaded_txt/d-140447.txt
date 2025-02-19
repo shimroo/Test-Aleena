@@ -1,0 +1,306 @@
+
+
+
+
+
+
+
+eltan | your pc and communication technology partner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++31 73-594 46 60
+info@eltan.com
+
+
+
+ linked in
+
+
+
+
+x
+
+
+ 
+
+
+
+
+
+ linked in
+
+
+
+
+x
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+company
+services
+
+firmware development
+
+uefi firmware
+coreboot
+intel slim bootloader
+openbmc
+
+
+hardware development
+
+
+development tools
+
+espi post code card
+lpc post code card
+dediprog programmer
+
+
+partners
+careers
+contact
+ 
+
+
+selecteer een pagina
+
+
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+your communication technology partner
+with our advanced tools and extensive knowledge, we assist our customers in optimizing their operating systems and implementing specialized functions.
+
+get to know us
+
+
+
+
+
+
+
+
+
+
+
+
+why eltan?
+eltan offers a robust development environment for crafting and debugging firmware solutions. with our advanced tools and extensive knowledge, we assist our customers in optimizing their operating systems and implementing specialized functions.
+
+
+
+
+the firmware that you need
+eltan has a very long track record in creating customer specific firmware solutions. distributor for phoenix uefi and legacy bios since 1998 and experts in open source firmware like coreboot and intel slim bootloader.
+
+
+
+
+
+
+cooperation is the key
+your project is supported by a dedicated engineer. to make sure that the firmware you will be using is well understood and the system can work without issues, this engineer intensively cooperates with you. during and after the project phase.
+
+
+
+
+
+
+support of hardware design
+with in-house experts for hardware design, firmware, device drivers, (real time) operating systems and security, eltan provides a unique concentration of experts to create new products and fully exploit the opportunities of the changing technologies.
+
+
+
+
+
+
+
+
+
+firmware development
+every design requires a unique firmware solution to retrieve the maximum performance of the system. we can provide you with different firmware solutions.
+
+solutions we work with:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+learn more
+
+
+
+
+
+
+
+hardware development
+
+
+
+
+
+
+
+
+hardware design
+our experienced engineers specialize in custom hardware design, ensuring your project aligns with the latest technology and industry standards.
+
+
+
+
+
+
+
+
+schematic reviews
+we offer professional schematic review services to optimize your hardware’s performance and reliability.
+
+
+
+
+
+
+
+
+measurement and debug
+our team provides comprehensive measurement and debug assistance to enhance the functionality and efficiency of your hardware.
+
+
+
+
+
+
+
+learn more
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+contact us eltan b.v.
+ambachtstraat 23
+5481 sm schijndel
+the netherlands
+ info@eltan.com
+ +3173 594 46 60
+
+kvk nummer: 17104099
+btw nummer: nl806800355b01
+
+company contact
+development tools
+
+ 
+
+
+
+
+
+
+ linked in
+
+
+
+
+x
+
+
+ⓒ 2023 all rights reserved | privacy
+ 
+
+
+
+
+
+
+
+
+
+
+

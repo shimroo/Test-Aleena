@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+asther - advanced solution in thermodynamics
+
+
+
+
+
+
+ 
+
+the
+                    thermodynamic database 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   contact
+   deutsch
+   conditions
+   faq
+ 
+ datasets
+
+
+
+
+
+
+
+
+
+
+   thermodynamic database
+                      and
+                      applications
+ 
+ database administration, pure substance, reaction,  
+ equilibrium, recalculator 
+process calculator for ms excel
+
+also integration into other process simulation software
+ useful tools to calculate complex thermodynamic problems for 
+
+ metallurgical processes, thermic power plant, cement work,
+                  aqueous systems, waste incineration, distillation . . .
+et al.
+ in not ideal systems - with the real gas laws
+ even if you usually need only a few split time for thermodynamic calculations
+                    asther is the correct decision  
+                all you need is, a few basic knowledge in thermodynamics and pc
+  
+    
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+ operation system conditions: 
+               linux (fedora, mandriva, red head, suse, kubuntu
+              later than 2005)  
+              ms windows: nt 4.0  sp3 or higher  (2000, xp,
+              vista, 7, 8 etc., reduced speed  in ms windows 9x) ; 
+              12 mb ram; 16 mb hard disk space, processor  900 mhz
+              or higher    
+for help files: browser supporting frames 
+              (like. firefox, mozilla,  ms ie version 4 or higher
+              ) 
+prices  
+standard version: database administration, pure substance, reaction, equilibrium, recalculator 
+              :price: 650.00 eur  + taxes depends of country +
+              shipping
+              standard version for education (university, high schools,
+              etc.) : 250.00 eur+ taxes depends of country 
+ single applications of the standard version
+equilibrium: 250 eur  + taxes depends of
+              country + shipping
+recalculator: 250 eur  + taxes depends of
+              country + shipping
+pure substance, 
+            reaction: free
+professional versions:
+process calculator for ms excel: 
+            950.00 eur  +
+              taxes depends of country + shipping 
+
+database administration: 
+            950 eur  + taxes
+              depends of country + shipping
+datasets only: 950.00 eur  + taxes depends of
+              country + shipping
+ basic
+                version  for  students   ( to learn
+                or test )  free.
+              contact us for special versions 
+
+
+            download, fill and send order form please per mail or fax  
+
+
+
+
+
+
+ 
+
+
+
+
+     
+    
+
+
+
+
+ 
+
+
+
+
+
+
+               
+
+
+
+
+current version 7.0,   upgrades always free
+
+
+
+
+
+
+  free   email  support
+
+                      for    one year 
+
+
+
+
+ 
+      
+
+
+
+
+
+ imprint
+
+
+
+
+
+
+
+
+
+page
+                  information: all pages without  java, 
+                  activex or cookies; cgi only  in contact,
+                  order  forms 
+                  else  html, gif orr jpeg (256 color)
+
+
+
+
+
+       
+

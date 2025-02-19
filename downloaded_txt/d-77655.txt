@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+pspad - freeware universal text editor for developers with html, php, python, javascript, and unicode support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+editor pspad - freeware editor
+
+
+pspad - a freeware text editor
+
+
+pspad - the developer’s text editor for microsoft windows
+pspad is a universal, feature-rich text editor designed to meet the needs of developers and anyone who works with text. best of all, it's completely free. here's why pspad stands out:
+
+plain text editing made easypacked with advanced formatting options and a built-in spell checker, pspad streamlines your work with plain text files.  
+effortless web developmentas a web authoring tool, pspad is loaded with time-saving, unique features tailored for creating web pages.  
+advanced functionalityenjoy powerful tools like code folding and even direct integration with chatgpt for enhanced productivity.  
+a robust ide alternativepspad doubles as an excellent ide, capable of capturing and parsing compiler outputs, integrating external help files, comparing code versions, and much more.
+
+with no complicated setup required, pspad is ready to use straight out of the box. it supports a wide variety of file types and programming languages, complete with syntax highlighting. automate repetitive tasks effortlessly with macros, clip files, and templates.  
+						from its integrated hex editor and project management tools to the built-in ftp client, macro recorder, file search/replace, code explorer, and code page conversion capabilities, pspad offers an impressive suite of features designed to make your workflow smooth and efficient.  
+						discover the power of pspad, the go-to text editor for developers and creators alike.
+
+
+
+
+
+
+
+
+
+pspad – der ideale editor für entwickler auf microsoft windows systemen
+pspad ist der vielseitige und kostenlose texteditor, der genau das bietet, was entwickler und autoren brauchen:
+
+arbeiten sie mit reinen textdateien: profitieren sie von zahlreichen formatierungsfunktionen, einschließlich einer integrierten rechtschreibprüfung.  
+erstellen sie webseiten effizient: mit spezialisierten werkzeugen für die webentwicklung sparen sie wertvolle zeit und optimieren ihren workflow.  
+nutzen sie eine leistungsstarke ide für ihren compiler: pspad analysiert compiler-ausgaben, integriert externe hilfedateien, ermöglicht versionsvergleiche und vieles mehr.
+
+die einrichtung könnte nicht einfacher sein: pspad ist sofort nach der installation einsatzbereit – ohne komplizierte anpassungen. der editor unterstützt eine vielzahl von dateitypen und programmiersprachen, komplett mit syntaxhervorhebung.  
+						dank makros, clip-dateien und vorlagen können sie wiederkehrende aufgaben mühelos automatisieren. zu den weiteren highlights gehören ein integrierter hex-editor, projektverwaltung, ein ftp-client, makro-aufzeichnung, leistungsstarke such- und ersetzungsfunktionen, ein code-explorer und die umwandlung von zeichenkodierungen. dies sind nur einige der zahlreichen funktionen, die pspad zu einem unverzichtbaren tool machen.
+
+
+
+
+
+pspad - l'éditeur de texte incontournable pour les développeurs sous microsoft windows
+pspad est un éditeur de texte universel, entièrement gratuit, conçu pour répondre aux besoins de ceux qui:
+
+travaillent avec du texte brut: profitez d'une multitude d'options de mise en forme et d'un correcteur orthographique intégré;
+développent des pages web: pspad regorge d'outils uniques spécialement conçus pour vous faire gagner un temps précieux;
+recherchent un environnement de développement (ide) puissant pour leur compilateur: pspad intercepte et analyse les sorties du compilateur, intègre des fichiers d'aide externes, compare des versions et bien plus encore.
+
+simple à installer et immédiatement opérationnel, pspad ne nécessite aucune configuration complexe. il prend en charge une grande variété de types de fichiers et de langages grâce à sa coloration syntaxique avancée. l'éditeur offre également des fonctionnalités pratiques telles que des macros, des fichiers de clips et des modèles pour automatiser les tâches répétitives. 
+						parmi ses nombreuses fonctionnalités, vous trouverez un éditeur hexadécimal intégré, une gestion de projets, un client ftp, un enregistreur de macros, des outils de recherche et remplacement dans les fichiers, un explorateur de code, une conversion des pages de code... et bien plus encore. pspad, c'est bien plus qu'un simple éditeur: c'est un compagnon indispensable pour les développeurs.
+
+
+
+
+
+pspad — мощный текстовый редактор для разработчиков на платформе microsoft windows
+универсальный и полностью бесплатный инструмент, который станет незаменимым помощником для тех, кто:
+
+работает с текстовыми файлами — pspad оснащён множеством функций для форматирования текста, включая встроенную проверку орфографии.  
+создаёт веб-страницы — редактор предлагает уникальные инструменты, которые значительно ускоряют работу веб-разработчиков.  
+ищет удобную ide для компилятора — pspad перехватывает и анализирует вывод компилятора, поддерживает интеграцию с внешними файлами справки, позволяет сравнивать версии и многое другое.
+
+pspad не требует сложной установки — он готов к использованию сразу после загрузки, без необходимости дополнительной настройки. программа поддерживает широкий спектр форматов файлов и языков программирования, обеспечивая подсветку синтаксиса для каждого из них.  
+						для упрощения рутинных задач pspad предлагает макросы, шаблоны и файлы заготовок. среди других полезных функций: встроенный hex-редактор, поддержка проектов, ftp-клиент, запись макросов, мощные инструменты поиска и замены, проводник кода и конвертация кодировок.  
+						pspad — это всё, что нужно разработчику, и даже больше!
+
+
+
+
+
+a pspad szerkesztő – a microsoft windows környezetben dolgozó fejlesztők nélkülözhetetlen eszköze
+a pspad egy szabadon terjeszthető (freeware), univerzális, ms windows-kompatibilis szövegszerkesztő, amely mindenki számára hasznos lehet, aki:
+
+egyszerű szövegekkel dolgozik – a szerkesztő számos szövegformázási lehetőséget kínál.  
+weboldalakat készít – egyedi, időtakarékos funkcióival megkönnyíti és felgyorsítja a munkát.  
+programozik és egy hatékony ide-re van szüksége a fordítóprogramjához – a pspad képes a fordító kimenetének fogadására és elemzésére, integrálható súgófájlokkal, valamint támogatja a verziók összehasonlítását és még sok mást.
+
+a pspad telepítés után azonnal használatra kész, bonyolult konfiguráció nélkül. számos fájltípust és programozási nyelvet támogat, a szintaxis kiemelése mellett előre definiált sablonokat is biztosít.  
+						további kiemelkedő funkciói közé tartozik az integrált hex-szerkesztő, ftp-kliens, projektek kezelése, makrók rögzítése, fájlokon belüli keresés és csere, több környezetben használható kódböngésző, kódoldal-konverziók (beleértve az unicode és utf-8 támogatást), valamint a helyesírás-ellenőrző.  
+						ez azonban csak ízelítő a pspad által kínált számtalan hasznos funkcióból, amelyek garantáltan megkönnyítik a munkavégzést, legyen szó szövegszerkesztésről, webfejlesztésről vagy programozásról.
+
+
+
+
+
+
+
+
+
+
+
+pspad: špičkový textový editor pro vývojáře na platformě microsoft windows
+pspad je univerzální textový editor, který je k dispozici zdarma (freeware) a ocení ho každý, kdo:
+
+pracuje s prostým textem – pspad nabízí bohaté možnosti formátování a zahrnuje i kontrolu pravopisu.  
+tvoří webové stránky – díky řadě jedinečných funkcí zaměřených na tvorbu webu ušetříte čas a zautomatizujete rutinní činnosti.  
+programuje a hledá ide pro svůj kompilátor – pspad dokáže zachytit a analyzovat výstup kompilace, integrovat nápovědu, porovnávat verze a mnohem více.
+
+jednou z hlavních předností pspadu je jeho jednoduchost – není nutná složitá instalace ani nastavování, editor je okamžitě připraven k použití. podporuje desítky různých typů souborů a programovacích jazyků, přičemž nabízí zvýraznění syntaxe a předdefinované šablony pro často používané formáty.
+						mezi další klíčové funkce patří integrovaný hex editor, ftp klient, možnost práce na projektech, záznam maker, vyhledávání a nahrazování v souborech, průzkumník kódu pro různá prostředí či konverze kódových stránek včetně podpory unicode a utf-8. to vše doplňuje řada dalších užitečných nástrojů, které tento editor činí nepostradatelným pomocníkem při práci.
+						pspad není jen textový editor – je to multifunkční nástroj, který vám pomůže zjednodušit a zefektivnit práci, ať už tvoříte web, programujete, nebo upravujete textové soubory.
+
+
+
+
+pspad version:
+
+            full version:  5.5.1 (825) - 5 february 2025   
+            
+            developer build:  5.5.1 (817)
+
+editor pspad localization:
+arabic, bahasaindonesia, belarus, bulgarian, catalan, cesky, chinesebig5, chinesegb, croatian, dansk, deutsch, english, esperanto, estonian, finnish, french, galician, greek, hrvatski, hungarian, indonesian, italian, japanese, korean, kurdish, latvian, lithuanian, nederlands, norsk, polski, portuguese (brazilian), portuguese (europian), romanian, russian, serbian, slovenian, slovensky, spanish, srpski, swedish, turkish, ukrainian, valencian
+editor pspad supports file types:
+c++, cobol, ms-dos batch, css, foxpro, html, xhtml, ini, java, javascript, kixstart, object pascal, perl, php, python, rss, sql, tcl/tk, unix shellscript, vbscript, visual basic, x86 assembler and other 170+ languages included as user highlighter definition.
+            
+
+
+
+
+      websites use pspad editor:  
+instinctools 
+              pay essaypro for a research paper 
+              dealspotr coupons 
+        knoji promo codes 
+       
+      	bitcoin vps 
+              christian high school online  
+		
+ai essay writer by essayservice is your go-to solution for all your academic writing needs.
+		  
+            
+      
+      
+
+
+
+jazykové verze
+
+česky
+slovensky
+english
+deutsch
+français
+italiano
+russian
+español
+
+
+
+ 
+webhosting tojeono.cz
+design by: webdesign pay & soft
+privacy policy       © 2001 - 2025 jan fiala
+
+
+

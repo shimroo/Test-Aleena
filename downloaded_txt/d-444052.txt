@@ -1,0 +1,2734 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the dossing times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tuesday, may 17, 2016
+
+
+
+
+
+
+
+magic mirror code
+
+
+
+
+
+#!/usr/bin/python
+import metoffer
+
+import sys
+
+import datetime
+import os
+import dateutil.parser
+import htmlprint
+from apiclient.discovery import build
+from httplib2 import http
+import oauth2client
+from oauth2client import client
+from oauth2client import tools
+import requests
+import apikeys
+scopes = 'https://www.googleapis.com/auth/calendar.readonly'
+#client_secret_file = 'client_secret.json'
+
+
+tomtomapi=apikeys.tomtomapi()
+def get_travel_duration_tomtom(source, destination, optional=none):
+
+    if not optional:
+        url = "https://api.tomtom.com/routing/1/calculateroute/{},{}:{},{}:{},{}/".format(source[0], source[1], optional[0], optional[1], destination[0], destination[1]) +\
+              "/json?traffic=true&key="+tomtomapi
+
+    else:
+        url = "https://api.tomtom.com/routing/1/calculateroute/{},{}:{},{}:{},{}/".format(source[0], source[1], optional[0], optional[1], destination[0], destination[1]) + \
+              "/json?traffic=true&key="+tomtomapi
+   
+    r = requests.get(url) #get the json file
+    trip=r.json()['routes'][0]['summary']['traveltimeinseconds']#pull out journey time
+    res=(float(trip))/60
+    return res
+
+def get_credentials():
+    """gets valid user credentials from storage.
+
+    if nothing has been stored, or if the stored credentials are invalid,
+    the oauth2 flow is completed to obtain the new credentials.
+
+    returns:
+        credentials, the obtained credential.
+    """
+    home_dir = os.path.expanduser('~')
+    credential_dir = os.path.join(home_dir, '.credentials')
+    if not os.path.exists(credential_dir):
+        os.makedirs(credential_dir)
+    credential_path = os.path.join(credential_dir,
+                                   'calendar-api-quickstart.json')
+
+    store = oauth2client.file.storage(credential_path)
+    credentials = store.get()
+    if not credentials or credentials.invalid:
+        flow = client.flow_from_clientsecrets(client_secret_file, scopes)
+        flow.user_agent = application_name
+        if flags:
+            credentials = tools.run_flow(flow, store, flags)
+        else: # needed only for compatability with python 2.6
+            credentials = tools.run(flow, store)
+        print 'storing credentials to ' + credential_path
+    return credentials
+
+def calanderprint():
+    """shows basic usage of the google calendar api.
+
+    creates a google calendar api service object and outputs a list of the next
+    10 events on the user's calendar.
+    """
+    credentials = get_credentials()
+    service = build('calendar', 'v3', http=credentials.authorize(http()))
+
+    now=datetime.datetime.utcnow().isoformat() + 'z'
+    #print test
+    #now = datetime.utcnow().isoformat() + 'z' # 'z' indicates utc time
+    #print now
+    #print 'getting the upcoming 10 events'
+    eventsresult = service.events().list(
+        calendarid='primary', timemin=now, maxresults=4, singleevents=true,
+        orderby='starttime').execute()
+    events = eventsresult.get('items', [])
+
+    if not events:
+        print 'no upcoming events found.'
+    for event in events:
+       # start = event['start'].get('datetime', event['start'].get('date'))
+         start = event['start'].get('datetime')#, event['start'].get('time'))
+         start=dateutil.parser.parse(start).strftime('%a, %h:%m')
+         print start, event['summary'], '<br>'
+   
+
+
+
+api_key=apikeys.metofficeapi()
+
+m = metoffer.metoffer(api_key)
+weatherdata = m.nearest_loc_forecast(latitude here, longitude here, metoffer.three_hourly) #get the three hourly forcast
+
+
+y = metoffer.parse_val(weatherdata) #parse the data into a useable format.
+htmlprint.headhtml() #print the html head code
+x=0
+for i in y.data:
+ if x<2:
+  pass #skip this as seems to the be the weather for the 2 previous hours
+ elif x==2:
+  print (str(i['temperature'][0])+'&deg'+(metoffer.weather_codes[i['weather type'][0]])) #temperature
+  print ('<br></div>')
+  #print (metoffer.weather_codes[i['weather type'][0]]) #weather pic
+ 
+  print ('</div><div class="customfontmed">')#change to small print
+  print (str(i['wind speed'][0]))+'mph '+(str(i['wind direction'][0]))
+  print ('<br><br></div><div class="customfontsmall">')
+ 
+ elif x==21: #only show 9 forcasts
+  break
+ #else:
+  #print('{}- {}'.format(i['timestamp'][0].strftime('%a, %h:%m    '))
+ elif x % 2 ==0:
+  print('{}  &nbsp &nbsp &nbsp &nbsp &nbsp {}'.format(i['timestamp'][0].strftime('%a, %h:%m    '), metoffer.weather_codes[i['weather type'][0]])+str(i['temperature'][0])+'&deg'+"")+" "+(str(i['wind speed'][0]))+'mph '+(str(i['wind direction'][0])+'<br>')
+ else:
+  pass
+  #print (str(i['temperature'][0])+'&deg'+"<br>")
+  ##print('<br>')
+ x=x+1
+#print('</td><td style="border-width : 0px;"><iframe src="http://free.timeanddate.com/clock/i46u0mcs/n1233/fn17/fs48/fcfff/tc000/pc000/ts1" frameborder="0" width="238" height="61"></iframe>')
+ 
+print ('</div><div class="customfontsmallsmall"> <font color="white"><br>')
+
+busarrary=[datetime.time(7,33), datetime.time(9,35),datetime.time(10,30),datetime.time(11,35),datetime.time(12,30),datetime.time(13,35),datetime.time(14,30),datetime.time(15,30),datetime.time(16,30),datetime.time(17,29)] #bus times
+hr=datetime.datetime.now().time()
+x=0
+wday=datetime.datetime.today().weekday()
+
+
+#wday=6
+#x=10
+
+
+home_lat=latitude here,
+home_long= longitude here
+home = (home_lat, home_long)
+work = (latitude here, longitude here )
+route1 =latitude here, longitude here
+route2=latitude here, longitude here
+if sys.argv[1]=="2": #only do traffic stuff if called i.e. only in the morning.
+
+ if __name__ == '__main__':
+   print "<br><br>"
+ res = get_travel_duration_tomtom(home, work, route1)
+
+ print "time to work via route one "+str( res)+ " minutes<br>"
+ res = get_travel_duration_tomtom(home, work, route2)
+ print "time to work via route two "+str( res)+ " minutes<br>"
+#***********************************************************************#
+#bus portion
+while true:
+ if x==10 or wday==6:
+  print "next bus at " + format(busarrary[0].strftime('%h:%m'))
+  break
+ elif busarrary[x] > hr:
+  print "next bus at " + format(busarrary[x].strftime('%h:%m'))
+  break
+ x+=1
+if wday==5 and x==10:
+ print "monday"
+elif wday==6 or x==10:
+ print "tomorrow"
+else:
+ print "today"
+if wday==2:
+ print "bins"
+
+if sys.argv[1]=="1": #if called get the calander details
+
+ if __name__ == '__main__':
+   print "<br><br>"
+  # calanderprint()
+
+
+
+htmlprint.htmlend()
+
+
+
+
+
+
+
+posted by
+
+
+
+simon
+
+
+
+
+at
+
+5/17/2016 08:17:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+monday, december 08, 2014
+
+
+
+
+
+
+
+
+is maintaining museums more important than maintaining the corporation tax rate
+
+
+
+
+
+it is often said that the only reason foreign companies are in ireland is because of the 12.5% corporation tax rate. that if we increased this rate these companies would go and never return. you may be surprised to learn the 12.5% rate wasn’t something concocted by sean lemass in the 60s or something created in the depths of the depression of the 80s to save the good ship le ireland from doom. no. in fact the 12.5% corporation tax rate was introduced by charlie mccreevy in 2003 during the height of the boom.
+ 
+
+the belief that this rate and this rate alone is why the companies are here doesn’t stack up to much consideration. if it is all about the corporation tax rate why are all facebook’s software engineers not just based in the caymen islands or the isle of mann? in 2013 facebook paid €2.3 million euro in tax on profits of around €7 million in ireland. going by the logic that corporation tax is the be all and end all, a doubling  of the corporation tax rate in ireland and thus a bill of an extra €2.3 million would cause them to leave. so that then poses the question. if €2.3 million extra is enough to get them to leave ireland, how come €10.49 million yearly rent is not enough to get them to leave the city center of dublin for say the cheaper office space of longford?
+
+ 
+the profits that facebook made in 2013 were on the back of revenues of €2.9 billion so an astute observer might point out. what the relevant aspect of the irish taxation system is not the 12.5% rate but the double dutch irish sandwich and that is why these companies are here. and indeed it is true,  there are many companies that are based in ireland for these reasons. many of them are in the ifsc and consist of no more than a single office and a letter box. so then the question becomes. why if facebook etc’s purpose here is purely for the tax regime, would they go to the expense and bother of hiring 1000s of people and spending millions on rent, when they could achieve the same effect with a small office in the ifsc? 
+ 
+the location of companies are not arbitrary (something politicians and governments seem unable to grasp when they keep promising to get some multinational to move to a provincial town). at the start of the industrial revolution in britain, factories were formed in very precise places, beside water. they needed streams and rivers to provide the power to run their looms and mills, it was the key resource. without water their factories didn’t function. later on in the industrial revolution and with the invention of steam power, companies were no longer tied to rivers, what they were tied to was their most vital resource, coal. and thus the great factories of the victorian era were built near coal fields, making the towns of birmingham and manchester, cities. today, companies are still restricted to locate near their most valuable resource, however that resource is now talent instead of the water and coal of yesteryear.
+ 
+google, facebook, twitter all require talented individuals to make them their billions. they need for want of a better word nerds. so how do you get nerds? well first of all you have to pay them a salary but anyone can do that and not all nerds are motivated purely by money. want to know where the best paid university academic positions in the world are? saudi arabia. why? because no nerds want to live in riyadh where its 52 degrees in the shade and you have a religious police. neither do they want to live on the caymen islands and sit on the beach drinking cocktails with umbrellas all day. nerds want to live in cities preferably english speaking because that is the international language and also if in europe in the eu to allow ease of movement. but it is not just any cities. look at america, nerds live in san francisco, boston, seattle, not detroit, miami, or las vegas. they want cities with character, history and culture. they don’t want sprawling suburbs they want town centers. 
+ 
+they want theatres, coffee shops, cosy pubs, music, restaurants, art galleries, museums. and this is why the recent news about the impending closure of museums in dublin is so serious. dublin can attract nerds to live there because it can offer them the type of life they want, it is big but still small enough compared to say a london to retain a community feel to it, it offers restaurants, coffee shops, theatres and other cultural outlets that a small town like longford (or indeed the isle of mann) just can’t compete with. and because it has these things, it attracts and retains nerds. and because it does, it attracts and retains facebook, google etc. once it does this it attracts even more nerds which attracts even more companies chasing the talent already in big companies. 
+museums are an integral part of a city's cultural life. if the cultural life of the city is not treated with respect and supported by the government, if galleries, theatres, museums are shut, dublin will become a far duller place to live, and the young mobile nerds that facebook and similar depends on might think twice about living in dublin. and if they up and leave, well facebook isn’t going to stay. for facebook an inability to recruit the best of the best is going to have them out of the country far quicker than an extra €2.3 million in tax will ever have.        
+
+
+
+
+
+posted by
+
+
+
+simon
+
+
+
+
+at
+
+12/08/2014 10:51:00 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thursday, july 24, 2014
+
+
+
+
+
+
+
+why is there a left right split on gaza
+
+
+
+
+
+
+if one was to judge the scale of the devastation wrought by a present conflict judging by media and social media coverage you would conclude that the current conflict between israel and palestine is the most serious conflict currently raging. however you would be wrong. to date the current conflict has taken the lives at the time of writing of around 200 people. to put this into some context, in june 3,298 lives were lost in conflicts in africa of which 1,176 were in nigeria. if you read the website of the  armed conflict location & event data project  you can see comprehensive cataloguing of these numbers. this is not an attempt to belittle the suffering in gaza at the moment, but to ask why is it that this conflict rather than the conflicts that are most costly in lives, exercises ourselves and the media so much?   
+
+
+here is a quick question. what is your opinion on minimum wage in ireland? would you think a.) it should be increased to a living wage, or b.) it should be abolished as it prices people out of work? on the face of it this question has nothing to do with the israel –palestine conflict. but if you dig a bit deeper you can see that is has absolutely nothing to do with the israeli- palestine conflict. yet i would imagine over 95% of those who answered a would be pro-palestinian and the bs would be similarly pro-israeli. why?  name one public commentator who is of a left wing persuasion and is pro-israel? it is not easy. yet why is that?
+
+
+the israeli-palestine conflict is not a conflict that is based upon a left-right divide. it isn’t hard to articulate a left wing pro-israeli argument if one wanted to.  israel is far more liberal on issues of gender equality, sexuality equality, trade unionism etc than most of its neighbours. you could also argue that they are more tolerant of religious minorities than hamas are. likewise it isn’t hard to argue for palestine from a right wing point of view. israel’s government’s use of the control of utilities in the west bank is the ultimate argument for why utilities shouldn’t be in the hands of governments with their management being more political then services provision. the blockade is a real barrier to free enterprise which is the hope for the future prosperity of gaza and the entire israeli state is one massive block on the path to individual freedom for the people of gaza.  yet these are arguments that are rarely if ever articulated. instead we get a polarised debate that is split precisely on ideological grounds that have zero to do with the conflict. why?
+
+
+some on the left would say that they stand on the side of the oppressed and therefore by default would side with the palestinians. but being on the side of the oppressed was the reason many on the right gave for supporting the invasion of iraq. and israel is a country that is surrounded by countries that wish it was annihilated and the jewish are a race who  were almost annihilated. they are not a people or nation that cannot themselves make some justified claim to the term oppressed.  rightly or wrongly neither side has a monopoly on the ideal of justifying support on the basis of protecting the oppressed.
+
+on the right, people would claim the high moral ground that the israelis target terrorist sites and that hamas target civilians and use this as a justification of who to support. but this idea ignores the simple reality of the situation that israel has laser guided missiles that can accurately target a few meters. while to suggest that hamas missiles are technologically sophisticated enough to target is stretching the definition of the word target. also, while israel may intend not to kill civilians and hamas may intend to kill them, at the end of the day israel is the one that kills the most civilians.
+
+so why then is a conflict that contains no obvious right-left divide so divided in the west on a right-left divide? that is a question i cannot answer but here is a theory to disregard.
+the cold war was the last great ideological conflict split on traditional left-right lines. now as you all know this war was fought via proxies. america armed south vietnam so russia armed north vietnam. likewise america armed israel, russia armed egypt, syria and the plo. therefore the middle-east conflict while not explicitly a left-right divide gained a left-right divide. one which even after the fall of the soviet union it has not shaken off. political ideologies are very much like political parties. once you gain one you enter a situation where you have an enemy and the purpose of the exercise is to win. winning requires a unified front and a consistent ideological front. that encompasses a coherent united message on all topics. any deviating from the message weakens the collective front, and makes the opposing ideology stronger. crossing the aisle on any issue feels like betrayal. so few do. it is easier to default to the “party line” than assess every single issue in the world individually. and thus we arrive at the polarised nature of the palestinian conflict.
+africa however doesn’t really have that same framework, while many of the troubles are derived from the western colonialism. there isn’t really much western influence present on the ground to really hang an ideological hat on. the causes and the divides that exist in these countries are too complicated for us to understand and don’t really affect us. so we don’t bother and simply don’t care as much for the to date (15th of july ) 20,462 lives that have been lost in africa in conflict in 2014.  
+
+if we were truly concerned about the rights of the oppressed, human rights, rights to individual freedom, the right to live without fear. africa would garner more debate, more searching for solutions, more protests, then the middle-east. in truth, it seems we are just interested in squabbling amongst ourselves and point scoring. we don’t have a grand vision for a peaceful world, we just fall back on hot topics. as a result africa is ablaze unnoticed, whilst we cry over the relative, few sparks in palestine  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+posted by
+
+
+
+simon
+
+
+
+
+at
+
+7/24/2014 12:25:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thursday, may 05, 2011
+
+
+
+
+
+
+
+as we were saying
+
+
+
+
+
+break out the hammock, its time for a little more dossing.
+
+
+
+
+
+posted by
+
+
+
+eamonn
+
+
+
+
+at
+
+5/05/2011 01:38:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thursday, january 10, 2008
+
+
+
+
+
+
+
+
+dossing times is moving.
+
+
+
+
+
+there comes a time in every blogs life that is must change. sometimes the change is to stop other times the change is to move to a new home. we are doing the latter. the new home of the site is www.thedossingtimes.com
+
+this post will not contain any long goodbyes because this is not a good bye this is just a move down the road. so if you have any book marks please update them. the achieves of the dossing times will remain here. frozen for ever.  they are also on the new blog so don't worry.  so to everyone that read us here  at blogspot.com thanks  hopefully you will continue to read us over on www.thedossingtimes.com 
+
+the reason for the move is two fold one wordpress and your own domain is better then blogger and there is new and exciting features coming to the dossing times that require our own domain so stay tuned.
+
+thank you and see you on the flip side.
+
+
+
+
+
+
+posted by
+
+
+
+simon
+
+
+
+
+at
+
+1/10/2008 03:20:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wednesday, january 09, 2008
+
+
+
+
+
+
+
+fight club musical?
+
+
+
+
+
+this sort of thing could have potential for a top 6 friday - a tongue in cheek, list of films that could potentially be made into musicals. that fight club be made into a musical is just the type of suggestion that could be made yet never taken seriously. well not in the mind of david lynch, who has raised the prospect of bringing the violence fuelled mind mess to the stage, not in an angsty drama with barren stage settings but in the form in the form of a musical. i reckon 'sweeney todd' will work wonders for musicals street cred in the coming weeks and this won't seem such crazy talk!
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/09/2008 09:42:00 am
+
+
+
+2 comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+good night for hilary, not so much for pollsters
+
+
+
+
+
+this story has echoes of the predictions our media made of the results of last years general election, plaguing us at every turn with opinion pools each ultimately turning out to be out of tune with public opinion. the transcript i have linked to here is one where media analysts correctly question the use of the analysis they carry out before hand and the methodologies applied. the excerpted transcript went as follows, it's an exchange between msnbc news anchors.
+
+matthews: we’re going to have to go back and figure out the methodology, i think, on some of these.
+
+brokaw: you know what i think we’re going to have to go back and do? wait for the voters to make their judgment.
+
+matthews: what do we do then in the days before balloting–
+
+brokaw: what a novel idea–
+
+matthews: –we must stay home then i guess.
+
+brokaw: no, no, we don’t stay home. there are reasons to analyze what they’re saying. we know from how the people voted today what moved them to vote. we can take a look at that. there are a lot of issues that had not been fully explored in all this.
+
+but we don’t have to get in the business of making judgments before the polls have closed and trying to stampede and affect the process.
+look, i’m not picking just on us. it’s part of the culture in which we live these days.
+
+but i think the people out there are going to begin to make some judgments about us, if they haven’t already, if we don’t begin to temper that temptation to constantly try to get ahead of what the voters are deciding, in many cases as we learned in new hampshire, as they went into the polling place today or in the past three days. they were making decisions very late.
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/09/2008 09:23:00 am
+
+
+
+4 comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tuesday, january 08, 2008
+
+
+
+
+
+
+
+some music
+
+
+
+
+
+so my housemate just managed to lose a load of music by syncing her i-pod to a new laptop, silly buttons! only two songs survived and quite the gems they are. a wonderful piece of music from bjork called 'play dead' and 'for what its worth' from buffalo springfield, which i haven't heard since i saw 'breakfast on pluto'. enjoy.
+
+
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/08/2008 08:59:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+golden globes cancelled
+
+
+
+
+
+it was wartime the last time such an awards show was cancelled. read the story here.
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/08/2008 09:08:00 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+monday, january 07, 2008
+
+
+
+
+
+
+
+irish blog award nominations
+
+
+
+
+
+so its that time of the year again when readers get to nominate and vote for the posts and blogs that made their browsing time that little bit more enjoyable this past year. with the golden globes and oscars in doubt with the ongoing writers strike its looking like these gongs will be the ones to watch! tuathal ceased posting last year but not before lending thoughts and words to some well written posts and simon's writing here and on irish election is consistently excellent and the irish election team put together coverage of last years general election comparable to that of any other media outlet and such an achievement should not go unmarked. nominations can be submitted through the following link.
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/07/2008 11:14:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2008: 80 years of superman
+
+
+
+
+
+superman has a tough time surviving in our cynical world, he is a creation of a black and white world of good and evil while we have evolved as a people more openly admitting to the light and shade that guides our characters.  this is a symptom of the character being a first and so too a symptom of being such a distinctive cultural icon associated with such outright values. i am reading watchmen at the moment, by all accounts a ‘graphic novel’, full of adult themes and more readily categorised amongst the pulp novels which pre-dated action comics and superman. nevertheless, a character in watchmen, in explaining his decision to seek change by donning an alter ego and take to the streets cites superman as his inspiration. indeed superman has this revered aura to him, one that comes from his struggle for ‘truth, justice and all that stuff’, and in some senses a holier than thou evocation of clean living, sacrifice and nobility with aspirational rhetoric and comparisons with christ fitting perfectly.unfortunately the general consensus is of superman being a character that’s unappealing. his invulnerability makes the character difficult to empathise with and ultimately he is viewed as a big boy scout far removed from the cooler and more layered characters such as batman which followed only two years after superman, intentionally designed as a balance to the virtue of the man of steel. little can be done to counteract that perception, an argument based on an analysis of the 80 years of comic book storylines i want to celebrate this year is not going to impress or sway those who know him through the actors who have played him on screen. nevertheless it does deserve mention that there is a hugely rich legacy behind the comics, with month long stories of superman going through multiple crises, his identities, his rivals, his responsibilities and his feelings each challenging him as he struggles to balance how he can act as an objective guardian of peoples safety and all the while construct a life where the woman he loves looks through the real him and idolises his created self.
+
+such huge amounts of power, a power he fears and in most instances holds back on has of course corrupted him in his time and been abused by enemies. the stand out decision though is to choose to do good with this power. his power is a part of him, not a creation of his wealth or the consequence of an accident, and his human upbringing moulds him into a man that wants to help. as soon as simon invited me to contribute to the blog i never doubted the identity i would choose to construct, one that ties together ideas of anonymity and a hope of writing well. clark kent living in metropolis is a tangle of excuses and appearances. however the one constant has been the use of his role as a reporter to achieve almost as much as superman. his powers gone the week before his wedding to lois lane, she aptly reminds him of what clark kent can accomplish. superman: the movie doesn’t open with a shot of the exploding planet krypton, it opens with a boy opening his comic book and reading of the daily planet, its globe acting as a beacon in the skyline of the great city of metropolis and its paper acting as a record that could be trusted in.
+
+to think that we’ve seen him rescue a plummeting plane and lift an entire country into the sky and still be able to say that superman’s potential has never been fully realised on screen is something substantial. his is such a small story, it is one of what a single person can achieve but it is capable of being told on such an epic, awe inspiring scale. these are the times when limits and imagination have no bounds and superman is such a case - to give in to the wonders of believing a man can fly and yet watch him choose which of the cries for help he should serve first in the cities below him is the beginning of great story telling and the basis for inspiring tales of heroism and courage. i plan to mark this anniversary with a number of posts during the year, i’m looking forward to the opportunity to re-appreciate the character.
+
+
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/07/2008 10:55:00 pm
+
+
+
+1 comment:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+saturday, january 05, 2008
+
+
+
+
+
+
+
+nomines will not be attending the golden globes
+
+
+
+
+
+the screen actors guild announced friday that, to maintain solidarity with striking hollywood writers, none of this year's 72 acting nominees will attend the 65th annual golden globe awards. "after considerable outreach to golden globe actor nominees and their
+representatives over the past several weeks, there appears to be unanimous
+agreement that these actors will not cross wga picket lines to appear on the
+golden globe awards as acceptors or presenters," sag president alan
+rosenberg
+said in a statement.nbc are still intending on airing the awards show, though what such a show - with no nominees in attendance - will actually entail is beyond me. reports say the most likely outcome is that she show will be postponed. 
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/05/2008 01:40:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+friday, january 04, 2008
+
+
+
+
+
+
+
+
+i am legend
+
+
+
+
+
+do go see 'i am legend' - every movie deserves a subjective appreciation though don't expect the intelligent blockbuster you may have been lead to expect by the astronomical performance of the movie in the states. some of the poorest cgi i have seen in quiet a while and ultimately a lacklustre impact to the film left me dissatisfied. a highlight though is a movie poster worth keeping an eye out for as will smith walks though a deserted, grass strewn time square - the superman and batman logo meshed, suggesting a point in the future where the oft suggested superman v batman movie becomes a reality. i know who i think would win, the man of steel could possibly take out the dark knight with his pinky. nevertheless, empire brings bad news today with the suggestion that brandon routh may not return as superman and also suggests a sequel may not be even be made to 'superman returns'. sad news indeed. this shot however is a nice touch. 
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/04/2008 01:58:00 pm
+
+
+
+3 comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+comic relief
+
+
+
+
+
+i had forgotten about this - ricky gervais came up at lunch today and so too this clip of him and a number of high profile celebrity campaigners was mentioned. a sketch from comic relief 2007 with gervais, bob geldof, bono and jamie oliver each taking jibes at their proactive approach to various issues, the clip makes for great watching and impressive green screen backgrounds.
+
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/04/2008 01:45:00 pm
+
+
+
+1 comment:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+surprise wins for obama and huckabee in iowa
+
+
+
+
+
+irish times coverage
+
+'mr obama, an illinois senator, captured the first democratic prize on the road
+to the white house with a comeback triumph over former north carolina senator
+john edwards, who edged out one-time front-runner ms clinton for second.' 
+
+the huffington post coverage
+
+'a victorious barack obama portrayed his decisive first-place finish in the iowa
+democratic caucuses as a "defining moment" that he said would lead the way to
+change in washington and an end to the war in iraq.' 
+
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/04/2008 09:19:00 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thursday, january 03, 2008
+
+
+
+
+
+
+
+
+top 6 friday: the alternative movies of '08
+
+
+
+
+
+incoming blockbusters like indy, batman and iron man have been mentioned here a plenty and along with these, movies like the next narnia and harry potter are in no need of pre publicity. my selection today is movies you may not have heard of, though nevertheless sound promising whether it be the talent or premise and all too often are the gems that restore our faith after the promise of the action laden trailers and huge budgets falls flat.
+
+6. where the wild things are - we will be kept waiting for this one, it has an october release however you can't but be excited about the new spike jonze. starring catherine keener, benicio del toro, forest whitaker, lauren ambrose and catherine o'hara the film is an adaptation of maurice sendak's classic children's story, where max, a mischievous little boy, creates his own world - a forest in habited by fabulous wild creatures who crown max as their ruler.
+
+5. fanboys - starring sam huntington (superman returns) and kristen bell (heroes), i lilke the comedic potenial in the story of star wars fans travel to skywalker ranch to steal an early copy of episode i: the phantom menace for their dying friend!
+
+4. the curious case of benjamin button - brad pitt and david fincher (fight club) reunite to tell the story of benjamin button, a man who starts aging backwards with bizarre consequences.
+
+3. i recently rewatched 'monster house' a great little movie - its director has gone all live action on us in telling of 'city of ember' where once powerful generator is failing, and the great lamps that illuminate the city are starting to flicker. the major selling point for me? - bill murray.
+
+2. surely the best line up of '08 - george clooney, john malkovich, brad pitt, frances mcdormand and tilda swinton are directed by the coen brothers 'burn after reading' in a film about a disk containing the memoirs of a cia agent ending up in the hands of two unscrupulous gym employees who attempt to sell it.
+
+1. ok so i have previously mentioned the no. 1 entry but 'be kind, rewind' just has too good a premise - a man (jack black) whose brain becomes magnetised unintentionally destroys every tape in his friend's video store. in order to satisfy the store's most loyal renter, an aging woman with signs of dementia, the two men set out to remake the lost films, which include back to the future, the lion king, and robocop - and so too is directed by michael gondry who bought us 'eternal sunshine' and 'science of sleep'. i just don't think an 'alternative' choice of movies would be complete without its inclusion.
+
+
+
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/03/2008 10:20:00 pm
+
+
+
+1 comment:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the israel factor: ranking the presidential candidates
+
+
+
+
+
+there is no denying the strength of the jewish lobby in the states, though said influence has rarely been analysed despite the anomaly of 2% of the us population actually being jewish. it is by all accounts a lobby and indeed a people who seem to excel at self preservation despite their small numbers. i find the biggest impact the lobby has is one of censorship - reading just a selection of topics on the power of the lobby, it seems anyone at all who dares to ask a question or broach the topic of their power has an anti-semetic label thrown at them. this is a brandishing a presidential nominee could not afford at any cost to have associated with them. a daily newspaper in israel is undertaking a project ranking the candiates based on how good or bad they wil be for israel and her interests. a select panel of israeli analysts and academics discuss and vote anonymously each month with some analysis by the papers us correspondent. it will definitely be a page i return to in the following months. 
+
+currently guiliani with some choice words for yasser arafat in his profile is leading the table with clinton coming in second, with comments on her defence of the security wall and objection to the international court of justice finding the wall illegal. barack obama is finding himself in the lowly position of being 'worst' for israel with a score of 5 out of a possible 10. none of the selection of comments for any of the top 3 candidates mention a 2 state solution and the emphasis throughout is on recognition of israel and its right to defend itself against terror. obama's comments are certainly the weakest, his inexperience in issues of foreign policy has followed him around the campaign trail and it will be interesting to see how positions he presents on such topics. of course there is no denying these are snapshots of what candidates say removed from context, however previous remarks and voting records inevitably come back to haunt candidates. find the ranking here.
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/03/2008 09:46:00 pm
+
+
+
+1 comment:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the year of indy
+
+
+
+
+
+
+the january edition of vanity fair gets some access to the much shrouded in mystery 4th installment in the indiana jones series. i am equal parts worried and excited and you can expect any number of posts on this movie in the lead up to its may release. the vanity fair article is available online in full, as well as some q&as with spielberg and lucas. 
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/03/2008 09:46:00 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a new year of posting
+
+
+
+
+
+happy new year everyone! so its a return to work, routine and posting for 2008. it seems apt for my year to kick into gear the day of the iowa primaries, with what has been a long gestation period of campaigning coming to bear as the first round of elections are cast. commentators are quick to point out the iowa votes will not have huge bearing over all, though there is no denying the momentum and claims of leading the race that can be garnered from winning this first nomination contest. the democrat contest is getting perhaps the most coverage but the race as a whole is made the more interesting by the fact no sitting president or vice president is seeking the nomination of their party, a first in almost 50 years according to reuters. it all kicks off tonight, with iowans to leave their homes in what is expected to be sub-zero conditions, and join their neighbors at a community gathering spot to publicly declare their support for a candidate.
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+1/03/2008 09:16:00 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thursday, december 27, 2007
+
+
+
+
+
+
+
+
+the dossing times movies of the year 2007
+
+
+
+
+
+10. sunshine
+
+as much an ode to space set movie classics such as ‘2001: a space odyssey’ and ‘alien’, ‘sunshine’ is a master class in suspenseful examinations of people within claustrophobic confines in its own right. so too it matches some of the best visual treats of the year with its simple, yet excellently executed story.
+
+
+9. waitress
+
+yes this is a shamelessly girly movie, in fact a girl sat crying behind me during one scene in which our heroine sang to her unborn child while making pies. nevertheless this earns a mention for being the type of insightful romantic comedy i want to see more of, one that manages to undo the damage inflicted by a hundred meg ryan movies – the problems are real, unwanted pregnancies, abusive husbands – the humour is real, it is the type that strives to distract from misfortune and the overall effect is that this movie is full of real charm and enjoyment. the lead, kerri russel , is set to deservedly make a name for herself. i read during the year she had auditioned for the role of lois lane and her work in ‘waitress’ makes me wonder what she could have done with the role.
+
+
+8. stardust
+
+the surprise of the year for me, in the vein of ‘the princess bride’, this intelligent, funny and heartful treatment of a fairytale is a great adventure, ‘stardust’ is the post modern take on fairytale conventions ‘shrek’ could only ever manage pop culture digs at. the combination of spectacle, young talent as well as stalwarts such as robert de niro and michelle pfeiffer refusing to take themselves too seriously combines to deliver a great movie.
+
+
+7. half nelson
+
+ryan gosling sitting slumped in a dingy hotel room, looking both apologetic and unrepentent in his need for drugs, as one of the students he must teach high school english to the following day delivers his supply, earns in my eye the performance of the year for gosling. this story of conflicted conscience, class and race divide and human frailty is perfectly tied together in the redeeming friendship struck up between student and teacher. subtle, effective film-making.
+
+
+6. michael clayton
+
+along with this year’s ‘breach’, ‘michael clayton’ is a good old-fashioned thriller, with issues and political commentary taking a passenger seat to the driving force of tension, pacing and great performances. tom wilkinson can do no wrong in my book and so too george clooney and tilda swinton lend great credibility to this story of corporate greed. more of the same please.
+
+
+5. transformers
+
+the most fun and original of what i am classing the popcorn set of output which filled our summer. good simple mindless plotting, sees shia le beouf somehow evoking allenesque neurosis while managing to be a hero and get the ridiculously hot girl from the wrong side of the tracks. all the while transforming robots have arrived from space to track down a box and that’s as much exposition as we shall be getting so as not to take from the time given to blowing stuff up and directing destructive killing machines towards populated areas. ridiculous fun.
+
+
+4. once
+
+the underdog story of the year, this movie could not but melt even the coldest heart. a story set within a naturalistic world of bitter sweet romance told through music, the audience is gripped to the story of characters whose names we never even learn. this is the first film i saw having moved to dublin this year and it served as a perfect reminder of the wonder of small stories set to a big canvas. the closing sequence is my scene of the year, which is posted below, though nothing will match the great experience of watching the entire movie.
+
+
+3. the bourne ultimatum
+
+few films can come along and set the standard that an entire genre of film will subscribe to and more so the standard that the longest running franchise of films in history will reboot to match. the bourne trilogy has achieved this and the third and final entry is a perfect testament to why these films have such impact. demanding, fast paced and making innovative use of film making tools to add to the effect ‘ultimatum’ is an apt resolution to the trilogy, with a moroccan roof top chase and a waterloo station chase being amongst the best sequences of the year.
+
+
+2. the darjeeling limited
+
+i begrudge the characters of wes anderson films, they get to live in worlds where their dysfunction and eccentricities are unapologetically on show. whether i subscribe too much to the world around me or the reality is these fictional characters could never exist in the real world, i know that these films and their moments of reflection are always stand out and ‘the darjeeling limited’ is one in a canon of consistently great films coming from anderson and the talent he draws together. my exchange of the year is a train stewart asking jason schwartzman ‘what’ wrong with you?’, his response being simple ‘i’ll have to get back to you’.
+
+
+1. the dossing times movie of the year: the assassination of jesse james by the coward robert ford
+
+in terms of the films i have seen, i feel something new was achieved in film this year and it came in the shape of this movie. set to one of the bleakest, yet most beautifully evoked surrounds, the film has neither a traditional structure nor a crowd-pleasing pace. the film is full of pensive, stalled tension with characters minds riddled with paranoia and mistrust a world away from the gun totting legend of jesse james and his gang. pitt has the least to work with but does a stellar job in evoking a man tormented by his own legend and casey affleck delivers the most unnerving, layered portrayal of a man. an outstanding piece of work, a perfect marrying of image, characterisation and atmosphere to create a unique film experience.
+
+
+
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+12/27/2007 01:10:00 pm
+
+
+
+1 comment:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+monday, december 24, 2007
+
+
+
+
+
+
+
+12 posts of christmas (no. 12) holy night
+
+
+
+
+
+
+now for something more traditional placido domingo & charlotte church
+
+to you and yours a very happy christmas from all here at the dossing times.
+
+
+
+
+
+posted by
+
+
+
+simon
+
+
+
+
+at
+
+12/24/2007 01:34:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sunday, december 23, 2007
+
+
+
+
+
+
+
+12 posts of christmas (no. 11)
+
+
+
+
+
+i still remember the christmas where i was over awed by the presents i got - very simply - a tractor, a game boy. so too i remember that christmas eve more than most, having being awoken the night before by the front door opening convinced i had heard santa downstairs, though i was of course too terrified to ever leave my bed. so too christmas 2004 i will always remember for it being the most picture postcard perfect christmas day. i was woken up around 8.30 by a text from a great friend i had made that year to wish me a happy christmas and a hope that we were having a white one as well. i had no sense that snow was expected and presuming that his homestead was lucky enough to experience snow i nevertheless sensed there was a brighter than normal light coming through the cracks in my curtains. it was literally magical to open the curtains and see the snow and how it dressed every visible surface and the stillness it created all around our house. then being up so early i proceeded to watch willy wonka, while the rest of the house alighted, each with a sense of excitement on their faces at what the day had brought. i don't remember the crappy tv choice or even the presents i just know it was a peaceful relaxing day, my dog bemusedly running around after us on the snow, probably wondering how we got such enjoyment from the snow crunching under our feet. it was a great day, one in which i felt thouse around me got to see that bit of magic christmas that i see but sometimes the busy world around us allow us treasure.
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+12/23/2007 02:13:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 posts of christmas (no. 10)
+
+
+
+
+
+having had clarence the angel guide george bailey (jimmy stewart) through the reality of life had he never been born, the once despondent, suicidal man realises the value and fullness of the life he has. these final minutes of 'it's a wonderful life' are a classic of heartfelt christmas cheer. track down the movie in full over christmas.
+
+
+
+
+
+
+posted by
+
+
+
+ck
+
+
+
+
+at
+
+12/23/2007 02:08:00 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+older posts
+
+home
+
+
+
+
+subscribe to:
+posts (atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contributors
+
+
+ck
+eamonn
+simon
+
+
+
+
+
+blog archive
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2016
+
+(1)
+
+
+
+
+
+        ▼ 
+      
+
+
+
+may
+
+(1)
+
+magic mirror code
+
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(2)
+
+
+
+
+
+        ► 
+      
+
+
+
+december
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+july
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2008
+
+(15)
+
+
+
+
+
+        ► 
+      
+
+
+
+january
+
+(15)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2007
+
+(465)
+
+
+
+
+
+        ► 
+      
+
+
+
+december
+
+(36)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+november
+
+(37)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+october
+
+(29)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+september
+
+(43)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+august
+
+(45)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+july
+
+(65)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+june
+
+(45)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(32)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+april
+
+(33)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+march
+
+(42)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+february
+
+(22)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+january
+
+(36)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2006
+
+(600)
+
+
+
+
+
+        ► 
+      
+
+
+
+december
+
+(31)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+november
+
+(34)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+october
+
+(26)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+september
+
+(38)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+august
+
+(61)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+july
+
+(50)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+june
+
+(60)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may
+
+(61)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+april
+
+(70)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+march
+
+(55)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+february
+
+(69)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+january
+
+(45)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2005
+
+(259)
+
+
+
+
+
+        ► 
+      
+
+
+
+december
+
+(39)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+november
+
+(47)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+october
+
+(21)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+september
+
+(17)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+august
+
+(25)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+july
+
+(87)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+june
+
+(23)
+
+
+
+
+
+
+
+
+
+irish politicians blogs
+
+
+paul kennedy
+liz mcmanus td labour deputy leader & spokesperson on health
+councillor damien blake fianna fail mayor of letterkenny
+ciaran cuffe green party td for dun laoghaire
+chris andrews fianna fail candidate dublin south east
+senator david norris
+cllr. aidan culhane labour dublin south
+cllr. seamus ryan labour waterford
+phd deadline
+sinead gleeson tom raftery ms ann thrope anton@eire phil pankov the land of ireland twenty major sliabh
+ag smaoineamh
+the day shift
+pretty cunning
+damian mulley
+it law in ireland
+an spailpin fanach
+howl @ the mooon
+pampooties
+winds and breezes
+fustar
+limerick blogger
+an timeall
+blag shomhairle
+hilary ny
+an caomhach
+cuisle
+ian dale
+house speaker dennis hastert
+daily kos
+little green footballs
+free thoughts on iran
+this is zimbabwe
+brussels journal
+california conservative
+crooked timber
+orange ukraine
+blast furnace canada
+pajanas media
+caracas chronicles
+musings of a palestinian princess
+god whacker
+washington rox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+simple theme. powered by blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

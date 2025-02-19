@@ -1,0 +1,701 @@
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gemini observatory |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+
+
+
+
+
+ 
+    
+             
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+observing
+                    
+
+start here!
+phase i: proposing for timepit
+standard semester program
+tac
+pw
+llp
+ft
+ddt
+queue
+classical
+pv
+too
+eavesdropping
+joint proposals
+
+phase ii: requesting & monitoring observationsot
+ot/phase ii checklist
+instructions
+useful to know
+non-sidereal targets
+
+phase iii: retrieving & reducing datadownloading and understanding the data
+reducing the data
+getting help
+acknowledging gemini
+providing feedback
+
+getting helpsubmit a general helpdesk request
+
+schedules and queuenightlog gn
+nightlog gs
+2025a classical schedule
+2024b classical schedule
+queue summary  (bands, dd, lp, ft, pw)
+previous semesters
+
+resourcesmagnitudes and fluxes
+multi-object spectroscopy
+near-ir resources
+optical resources
+integration time calculator (itc)
+advice
+available filters
+
+science operations statisticshistorical statistics
+
+telescopes and sitestelescopes
+sites
+
+policies regarding observing
+visiting geminigraduate student visitor program
+visitas al telescopio
+maunakea visitor's guidelines
+
+operations developmentoperations development documentation
+
+ 
+
+
+
+
+
+
+instrumentation
+                    
+
+current instrumentsaltair
+ghost
+niri
+texes
+gnirs
+igrins-2
+gmos
+gems
+flamingos 2
+gsaoi
+`alopeke & zorro
+maroon-x
+
+future instrumentsspecs and documents
+scorpio
+girmos
+gpi 2.0
+gnao
+
+visiting instrument programtelescope interfaces
+
+instrument upgrade programpreviously awarded updates
+2017 request for proposals
+
+retired instruments
+performance monitoring
+timing information in gemini instruments
+ 
+
+
+
+
+
+
+about
+                    
+
+conduct
+careers and jobs
+publications
+gemini telescopes, science and technologies
+gemini in the era of multi-messenger astronomygemma team
+publications
+gemma outreach
+documents
+
+national gemini offices (ngo)
+governance
+participant shares
+web accessibility
+contact us
+gemini contact scientists
+gemini strategic planning
+gemini research staff
+ 
+
+
+
+
+
+
+news
+                    
+
+press releases
+announcements
+operations updates
+gemini e-newscast
+ 
+
+
+
+
+
+
+gallery
+                    
+
+images
+videos
+cloudcam
+ 
+
+
+
+
+
+
+learn
+                    
+
+virtual tour
+activities at geminilive from gemini
+astroday chile
+viaje al universo
+journey through the universe
+
+facility tours
+gemini card game
+ 
+
+
+
+
+
+
+events
+                    
+
+gemini science meetings
+gemini at national meetings
+topical science meetings
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exploring the universe, sharing its wonders
+the international gemini observatory consists of twin 8.1-meter diameter optical/infrared telescopes located on two of the best observing sites on the planet. from their locations on maunakea in hawai‘i and cerro pachón in chile, gemini observatory's telescopes can collectively access the entire sky.
+the international gemini observatory is operated by nsf noirlab.
+about gemini
+
+
+
+
+operations updates
+
+
+
+
+february 3, 2025
+fast turnaround call for proposals
+february 2025 call for proposals
+
+ 
+
+
+
+
+december 13, 2024
+general announcements
+25a programs and schedule announced
+
+ 
+
+
+
+
+january 27, 2025
+science operations announcements
+2025a ot available
+
+ 
+
+
+
+
+august 30, 2024
+general announcements
+2025a call for proposals released
+
+ 
+more operations updates
+
+
+
+-->
+
+
+
+
+access the calls for proposals
+
+
+
+semester program:
+2025a cfp 
+
+closed
+
+
+large and long program:
+2025b llp cfp
+open
+
+
+
+fast turnaround:
+this month's cfp
+open
+
+
+
+
+
+
+
+
+
+ 
+press releases
+
+
+
+
+
+
+
+
+                                a fiery rose captured by gemini south                            
+february 14, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    gemini north teams up with lofar to reveal largest radio jet ever seen in the early universe                                
+
+february 6, 2025
+
+
+
+
+
+
+
+
+
+
+
+                                    journey through the universe celebrates 21 years of exploration on hawai‘i island                                
+
+february 3, 2025
+
+
+
+
+
+
+
+
+
+
+
+                                    decam and gemini south discover three tiny ‘stellar-ghost-town’ galaxies                                
+
+january 15, 2025
+
+
+
+
+
+
+
+
+
+
+
+                                    dark energy camera captures the glittering galaxies of the antlia cluster                                
+
+january 1, 2025
+
+
+
+
+
+                    more press releases                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+international gemini observatory
+the international gemini observatory  provides the astronomical communities in six participant countries with state-of-the-art astronomical facilities that allocate observing time in proportion to each country's contribution. in addition to financial support, each country also contributes significant scientific and technical resources. the national research agencies that form the gemini partnership include: the us national science foundation (nsf), the canadian national research council (nrc), the chilean agencia nacional de investigación y desarrollo (anid), the brazilian ministério da ciência, tecnologia e inovação, the argentinean ministerio de ciencia, tecnología e innovación, and the korea astronomy and space institute (kasi). the observatory is managed by the association of universities for research in astronomy, inc. (aura) under a cooperative agreement with the nsf. the nsf also serves as the executive agency for the international partnership.     
+ 
+
+
+
+
+
+
+
+
+follow gemini observatory
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+observing
+
+start here!
+phase i: proposing for time
+phase ii: requesting & monitoring observations
+phase iii: retrieving & reducing data
+getting help
+schedules and queue
+resources
+science operations statistics
+telescopes and sites
+policies regarding observing
+visiting gemini
+operations development
+ 
+
+
+instrumentation
+
+current instruments
+future instruments
+visiting instrument program
+instrument upgrade program
+retired instruments
+performance monitoring
+timing information in gemini instruments
+ 
+
+
+about
+
+conduct
+careers and jobs
+publications
+gemini telescopes, science and technologies
+gemini in the era of multi-messenger astronomy
+national gemini offices (ngo)
+governance
+participant shares
+web accessibility
+contact us
+gemini contact scientists
+gemini strategic planning
+gemini research staff
+ 
+
+ 
+
+
+gallery
+
+images
+videos
+cloudcam
+ 
+
+
+news
+
+
+
+
+learn
+
+virtual tour
+activities at gemini
+facility tours
+gemini card game
+ 
+
+ 
+
+
+events
+
+gemini science meetings
+gemini at national meetings
+topical science meetings
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gemini observatory |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gemini observatory
+
+ 
+ 
+ 
+
+
+
+error 
+            the website encountered an unexpected error. please try again later.           
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+

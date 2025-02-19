@@ -1,0 +1,557 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aaron stebner's weblog | microsoft learn
+
+
+
+
+skip to main content
+
+
+this browser is no longer supported.
+upgrade to microsoft edge to take advantage of the latest features, security updates, and technical support.
+
+download microsoft edge
+more info about internet explorer and microsoft edge
+
+
+
+
+
+
+
+
+
+
+
+
+
+table of contents
+
+
+
+exit focus mode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+read in english
+
+
+
+
+save
+
+
+
+
+
+
+
+
+
+
+table of contents
+
+
+
+read in english
+
+
+
+
+save
+
+
+
+
+
+add to plan
+
+
+share via
+
+
+
+
+facebook
+
+
+
+
+
+x.com
+
+
+
+
+
+linkedin
+
+
+
+
+
+email
+
+
+
+
+
+print
+
+
+
+
+
+
+
+
+
+table of contents
+
+aaron stebner's weblog
+
+article
+9/25/2024
+
+
+in this article
+thoughts about setup and deployment issues, wix, xna, the .net framework and visual studio
+.net framework setup verification tool, cleanup tool and detection sample code now support .net framework 4.7.2
+the windows 10 april 2018 update recently shipped, and it includes the .net framework 4.7.2 as an os...
+date: 05/17/2018
+.net framework setup verification tool, cleanup tool and detection sample code now support .net framework 4.7.1
+i have posted updated versions of the .net framework setup verification tool, the .net framework...
+date: 11/21/2017
+.net framework setup verification tool, cleanup tool and detection sample code now support .net framework 4.7
+i have posted updated versions of the .net framework setup verification tool, the .net framework...
+date: 05/26/2017
+link to announcements from gdc 2017 that impact xbox one developers and gamers
+gdc 2017 is happening this week in san francisco, and chris charla (the director of the id@xbox...
+date: 03/01/2017
+.net framework setup verification tool, cleanup tool and detection sample code now support .net framework 4.6.2
+i have posted updated versions of the .net framework setup verification tool, the .net framework...
+date: 10/24/2016
+links with more information about the windows device portal wrapper project
+as announced at the end of last week in this post on the windows developer blog, we recently...
+date: 10/10/2016
+new for xbox dev mode - publish apps for xbox one and xbox dev mode companion app
+i want to highlight a couple of new features available starting this week for developers using xbox...
+date: 08/31/2016
+app dev on xbox online event coming next week
+the windows apps team announced an app dev on xbox online event on august 30, 2016 (a week from...
+date: 08/23/2016
+notes about the uwp on xbox one program and the xbox summer update
+as previously reported by xbox wire and major nelson, the xbox one summer update has been released....
+date: 08/03/2016
+june 2016 developer preview for uwp on xbox one is now available
+a new developer preview build is now available for uwp on xbox one.  here are some links with...
+date: 06/17/2016
+new channel 9 video about xbox one dev kit mode
+a couple of months ago, we announced a uwp apps on xbox one developer preview that allows anyone to...
+date: 06/07/2016
+uwp apps on xbox one developer preview now available
+as announced earlier today at the build 2016 conference, a developer preview is now available that...
+date: 03/30/2016
+mailbag: how to revert to older versions of the .net framework 4 family
+question: i recently installed the .net framework 4.6.1 but ran into a compatibility issue with an...
+date: 03/04/2016
+.net framework setup verification tool, cleanup tool and detection sample code now support .net framework 4.6.1
+i have posted updated versions of the .net framework setup verification tool, the .net framework...
+date: 12/18/2015
+why windows installer removes files during a major upgrade if they go backwards in version numbers
+recently, i investigated an issue where some files were missing from a userâs pc after installing...
+date: 11/16/2015
+.net framework setup verification tool, cleanup tool and detection sample code now support .net framework 4.6 and windows 10
+i have posted updated versions of the .net framework setup verification tool, the .net framework...
+date: 07/31/2015
+a couple of notes about .net framework 4.6 setup behaviors
+i have gotten a couple of questions from customers recently about the behavior of .net framework 4.6...
+date: 06/17/2015
+mailbag: how can i revert shared files to older versions when uninstalling the new version of my msi-based product?
+question: i have 2 versions of my msi, and each version installs some files to a shared...
+date: 03/31/2015
+blog post about silent repair and uninstall has been updated to include information about the .net framework 4.5.2
+i was recently asked a question about how to silently repair and uninstall the .net framework...
+date: 01/14/2015
+how to work around a possible xna game studio setup failure on windows 10 technical preview
+a while back, i wrote about an application compatibility issue that can cause the windows phone sdk...
+date: 11/06/2014
+bing developer assistant now available on visual studio gallery
+a colleague told me about a recently released plug-in for visual studio 2012 and visual studio 2013...
+date: 09/12/2014
+.net framework setup verification tool, cleanup tool and detection sample code now support .net framework 4.5.2
+i have posted updated versions of the .net framework setup verification tool, the .net framework...
+date: 06/24/2014
+system update readiness tool for windows 7 and windows server 2008 r2 now does more in-depth repair of .net framework 2.0
+updated versions of the system update readiness tool were released last week. the new versions of...
+date: 05/23/2014
+.net framework repair tool now supports diagnosing and repairing .net framework 4.5 and 4.5.1 setup issues
+the .net framework setup team has released an updated version of the .net framework repair tool that...
+date: 04/28/2014
+blog post about silent repair and uninstall has been updated to include information about the .net framework 4.5 and 4.5.1
+i was recently asked a question about how to silently repair and uninstall the .net framework 4.5...
+date: 04/22/2014
+link to msdn article with information about which .net framework versions are in which versions of windows and visual studio
+i have been maintaining a blog post for a while that lists which version(s) of the .net framework...
+date: 03/28/2014
+links to deployment guides for all versions of the .net framework
+recently, i was looking for links to some of the deployment guides for previous versions of the .net...
+date: 03/24/2014
+link to information about .net framework 2.0 installation error caused by visual c++ runtime files
+recently, i was trying to help someone investigate a .net framework 3.5 sp1 installation...
+date: 01/23/2014
+link to more information about the windows installer cache verifier package troubleshooter
+there is a new general-purpose installation troubleshooting tool called the windows installer cache...
+date: 01/07/2014
+fixing a .net framework 4.5.1 detection logic problem on windows 8.1
+last week, i posted an updated version of the .net framework setup verification tool that supports...
+date: 11/11/2013
+.net framework setup verification tool and cleanup tool now support .net framework 4.5.1
+i have posted updated versions of the .net framework setup verification tool and the .net framework...
+date: 11/06/2013
+updated sample .net framework detection code that works with the .net framework 4.5 and 4.5.1
+someone recently asked me about the availability of an updated version of my sample .net framework...
+date: 10/17/2013
+how to work around windows phone sdk 8.0 installation failure caused by invalid digital certificate
+update - a new windows phone sdk 8.0 setup package has been published that contains a fix for this...
+date: 10/09/2013
+mailbag: does my application need to install the .net framework 4 on windows 8 or windows server 2012?
+question: i have an application that requires the .net framework 4. the application supports running...
+date: 08/27/2013
+updating the last modified time to prevent windows installer from updating an unversioned file
+someone recently asked me a question about the unversioned file replacement scenarios that i wrote...
+date: 05/23/2013
+cannot install .net framework 1.0 service packs if .net framework 4 or 4.5 is installed
+there are some known compatibility issues between .net framework 4 and 4.5 setup and .net framework...
+date: 04/16/2013
+system update readiness tool is included as a part of windows 8 and windows server 2012
+recently, while investigating an issue related to a .net framework hotfix installation problem, i...
+date: 03/22/2013
+more information about the versions of the .net framework that ship with windows 8
+since the release of windows 8 last fall, iâve gotten a few questions about what versions of...
+date: 02/02/2013
+windows phone sdk update for windows phone 7.8 is now available for download
+as announced earlier today on the windows phone developer blog, the windows phone sdk update for...
+date: 01/22/2013
+link with more information about developing xbox live-enabled games for xbox, windows, web, and windows phone
+every once in a while, i see an email or a post on the forums from a developer who has created a...
+date: 01/16/2013
+uninstalling the windows phone sdk 8.0 will break xna game studio 4.0 and vice versa
+the xna game studio components that are installed as a part of the windows phone sdk 8.0 have a...
+date: 12/18/2012
+xna windows phone project templates are not available if visual studio 2012 is installed to a non-default path
+the xna game studio component that ships with the windows phone sdk 8.0 has a setup bug that causes...
+date: 11/17/2012
+xna windows phone projects must be upgraded from 7.0 to 7.1 to use with the windows phone sdk 8.0
+the windows phone sdk 8.0 supports xna windows phone game projects that target windows phone os...
+date: 11/03/2012
+windows phone sdk 8.0 now available for download
+as announced earlier today on the windows phone developer blog and the visual studio blog, the...
+date: 10/30/2012
+links to .net framework 4.5 deployment guides
+the official .net framework 4.5 deployment guides for developers and administrators are available on...
+date: 10/29/2012
+.net framework repair tool now supports diagnosing and repairing .net framework 2.0, 3.0 and 3.5 setup issues
+a little while ago, i posted an introduction to a new .net framework repair tool that can be used to...
+date: 10/12/2012
+the xna framework can be used to create games that run on the windows 8 desktop
+with the release of windows 8 and the new development platform for windows store applications, there...
+date: 09/29/2012
+updated .net framework setup verification tool that addresses application compatibility issues
+a little while ago, i posted an updated version of the .net framework setup verification tool that...
+date: 09/13/2012
+link to new .net framework repair tool that can diagnose and repair .net framework 4 setup issues
+there was a .net framework repair tool posted on the microsoft download center earlier this summer,...
+date: 09/05/2012
+final versions of windows 8, .net framework 4.5 and visual studio 2012 now available for download
+as announced on the windows 8 app developer blog, somasegarâs blog and jason zanderâs blog, the...
+date: 08/15/2012
+next>
+
+
+
+
+
+
+
+additional resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your privacy choices
+
+
+
+
+
+
+
+
+theme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+high contrast
+
+
+
+
+
+
+
+
+previous versions
+blog
+contributeprivacyterms of usetrademarks© microsoft 2025
+
+
+
+additional resources
+
+
+
+
+in this article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your privacy choices
+
+
+
+
+
+
+
+
+theme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+light
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+high contrast
+
+
+
+
+
+
+
+
+previous versions
+blog
+contributeprivacyterms of usetrademarks© microsoft 2025
+
+
+
+
+

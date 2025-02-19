@@ -1,0 +1,364 @@
+
+
+
+
+
+
+
+
+
+automation solutions for barcode software and hardware
+
+
+
+
+
+
+
+
+
+
+
+
+           
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+home
+
+
+
+
+
+home
+idautomation home
+support forum
+
+
+
+
+
+
+barcode fonts
+
+
+
+micr & ocr fonts
+
+micr e 13b
+micr cmc7
+ocra & ocrb
+security fonts
+
+barcode linear fonts
+
+code 128
+code 39
+codabar
+databar
+interleaved 2 of 5 itf
+upc/ean
+
+
+barcode 2d fonts
+
+aztec font & encoder
+data matrix font & encoder
+maxicode font & encoder
+pdf417 font & encoder
+qr-code font & encoder
+
+bundled fonts
+
+gs1 linear suite
+premiere barcode package
+truetype 1d barcode fonts
+universal barcode fonts
+2d universal barcode
+
+
+font installation procedures
+font problems and solutions
+
+
+font encoders
+
+all font encoders
+
+
+
+
+
+barcode components
+
+
+
+native generators
+
+access native generator
+aspx generator script
+crystal reports native
+excel native generator
+filemaker native generator
+ssrs generator
+
+
+
+controls, dlls & scripts
+
+all barcode components
+hosted services
+
+dynamic barcode generator
+streaming integration
+
+
+applications
+
+barcode label software
+image generator
+micr check software
+scanner ascii decoder
+
+
+
+
+
+barcode hardware
+
+
+
+sc5-usb barcode scanner
+
+product information
+
+
+sc5 wireless scanner
+
+product information
+sc7 2d scanner with pqa
+
+product information
+
+
+
+additional information
+
+scanner integration
+
+
+
+
+
+application integration
+
+
+
+
+
+integration guide index
+crystal reports
+microsoft access
+microsoft excel
+
+
+
+
+
+
+barcode faq
+
+
+
+linear barcodes
+
+code 128
+code 39 
+gs1-128 (ucc/ean 128)
+gs1-databar
+interleaved 2 of 5
+isbn | bookland
+isbt-128
+sici / sisac
+sscc-18
+upc, ean & gtin
+4-state mailmark
+
+
+
+2d barcodes
+
+aztec
+data matrix ec200
+gs1-datamatrix
+gs1-qrcode
+maxicode
+micropdf417
+pdf417 
+qr-code
+
+reference guides
+
+ascii chart
+barcode for beginners
+barcode educational guide
+gs1 ai reference
+barcode properties glossary
+
+
+usps postal barcodes
+
+gs1-128 impb
+intelligent mail imb
+im container barcode
+mail innovations
+usps 24 digit im
+4-state mailmark
+complex mail data mark 
+unique device identification
+
+gs1 udi
+hibc (hibcc) udi
+isbt (iccbba) udi 
+
+
+
+
+
+contact us
+
+
+
+customer sales
+
+contact sales
+affiliate program
+product return process
+
+
+technical support
+
+contact support
+submit support question
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+advancemeants.com is the original site for idautomation.com, a developer of automation and barcode products including barcode fonts, components and applications. these software products support the 
+generation of barcode symbologies including code 128, gs1 databar, code 39, micr, ocr, upc, and ean.
+barcode font products
+linear barcode 
+fonts
+code39,
+code128,
+codabar,
+gs1 databar,
+ean-13,
+	upc-a,
+	interleaved 
+2 of 5 itf,  
+and 
+others.
+micr & ocr check writing fonts
+
+micr e13b,
+cmc7,
+ocr-a,
+and
+ocr-b.
+try the free code 39 truetype 
+barcode font for printing barcodes in code 3 of 9, compatible with most barcode scanners.
+applications
+idautomation barcode 
+label softwareeasy to use wysiwyg barcode label printing software 
+application that prints barcodes, text and graphics on standard laser 
+or inkjet printers. 
+barcode image 
+generator 
+create barcode images that can be saved, or copied 
+and pasted into other windows applications such as photoshop and others.
+barcode symbology faqs
+
+aztec
+code 39
+code 128
+data 
+matrix
+
+
+gs1-128
+
+
+gs1 databar
+maxicode
+micropdf417
+pdf417
+
+upc, 
+ean, jan, isbn & bookland fonts
+
+
+about us
+
+
+reseller & 
+affiliate program
+contact 
+idautomation
+license 
+agreements
+more about 
+our company
+
+
+
+ ©copyright idautomation.com, all rights reserved.
+		legal notices.
+ barcode 
+		fonts | components 
+		| scanners |
+		support |
+		contact us
+
+
+
+
+
+
+
+
+over 70% of fortune 100 companies use idautomation's products to automate their businesses.
+
+
+
+
+

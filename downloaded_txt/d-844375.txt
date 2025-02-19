@@ -1,0 +1,7688 @@
+
+
+
+
+pump ed 101
+
+
+
+
+
+ 
+pump ed 101
+understanding pumps, motors, and
+              their controls
+
+
+ 
+
+joe evans, ph.d  
+(about the author)  
+                             
+   
+
+
+
+
+
+                    about the
+                          tutorials
+
+                      click on the categories below to view the
+                      available tutorials 
+ 
+
+
+
+
+
+
+
+   
+
+
+
+
+
+                                       
+                                        basic hydraulics -
+                                  centrifugal pumps 
+                                             
+
+
+
+
+
+
+                              pump
+
+
+
+
+
+                              evaluation, selection & testing tools 
+
+   
+                                       
+                                        basic hydraulics -
+                                  displacement pumps  
+                                        
+                                  electricity, motors,
+                              & controls
+
+
+   
+                                       
+                                        other pump topics  
+
+
+
+
+                                        
+                                        
+                                        
+                                      the puzzler
+
+
+   
+                                       
+                                        sewage &
+                                  wastewater  
+                                        
+                                        
+                                        
+                                   pumps &
+                              systems magazine columns
+
+
+    
+                                       
+                                        variable speed pumping   
+
+
+
+
+                                       
+                                       
+                                       
+                                   other
+                              educational sites 
+
+   
+
+
+
+
+
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                     
+                          vast 
+
+
+
+
+
+                                (various and
+                                        sundry things)
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          basic hydraulics - centrifugal
+                          pumps
+
+click
+
+
+
+
+
+                                on a topic below for a brief description
+                                of its contents.
+
+
+
+
+
+a
+                        brief introduction to centrifugal pumps
+
+centrifugal farce & affinity
+
+centrifugal
+
+
+
+
+
+                        pump dynamics
+
+liquid friction - the
+                        tarantino effect
+
+specific gravity & viscosity
+                        - parts 1 & 2
+
+net positive suction head - npsha
+                        & npshr
+
+centrifugal
+
+
+
+
+
+                        pump efficiency
+
+preservation of efficiency
+                        - affinity revisited
+ 
+
+
+
+cavitation
+-
+
+
+
+
+
+                        a largely misunderstood phenomenon
+
+when bubbles don't burst - why
+                        cavitation is damaging
+
+waterhammer - its
+                        all about conserving energy
+
+waterhammer - parts 1
+                        & 2
+
+radial thrust
+                        calculator
+
+                        suction specific speed & suction energy
+                        calculators
+
+                        wire to water energy calculator
+
+                        centrifugal pump operation at off design
+                        conditions - karassik
+ 
+
+
+
+
+                return to categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                waterhammer - parts 1 & 2
+
+this
+waterhammer
+
+
+
+
+
+                  tutorial looks at the subject from a different
+                  perspective than does my earlier one.  part 1
+                  covers what? & why? while part 2 looks the the
+                  causes and variables.  see my august &
+                  september 2008 pumps & systems magazine articles
+                  for additional reading.
+
+download
+part
+
+
+
+
+
+                    1
+
+download
+part
+
+
+
+
+
+                    2
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              when bubbles don't burst - why cavitation is damaging
+
+this
+tutorial
+
+
+
+
+
+                  takes a look at cavitation from a different
+                  perspective.  it expands upon my original turoral
+                  "cavitation - a largely misunderstood phenomenon.
+
+download
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                preservation of efficiency - affinity revisited
+
+in
+"centrifugal
+
+
+
+
+
+                  farce & affinity" we took a look at the affinity
+                  laws and showed how the predict pump performance when
+                  its speed changes or its impeller is trimmed. 
+                  this tutorial goes a step further and describes the
+                  effect of these changes on pump efficiency.
+
+download
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                net positive suction head - npsha & npshr
+
+this
+tutorial
+
+
+
+
+
+                  provides a simple yet detailed explaination of the
+                  components of npsh.  it also discusses their
+                  relationship to cavitation in a centrifugal
+                  pump.  see my may 2008
+                  pumps & systems magazine article for additional
+                  reading.
+download
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                specific gravity & viscosity - parts 1 & 2
+
+specific
+gravity
+
+
+
+
+
+                  and liquid viscosity affect centrifugal pump operation
+                  in very different ways.  this two part tutorial
+                  discusses the impact of each.  part 1 covers sg
+                  while part 2 looks at viscosity.  see
+
+
+
+
+                  my march & april 2009 pumps & systems magazine
+                  articles for additional reading.
+download
+
+
+
+
+
+                    part 1
+
+download
+
+
+
+
+
+                    part 2
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ liquid
+                friction - the tarantino effect
+
+the
+physics
+
+
+
+
+
+                  of liquid friction is still pretty sketchy. 
+                  unlike solid friction, velocity and surface area are
+                  major considerations.  this tutorial compares
+                  these two forms of friction and goes into some detail
+                  about each.
+
+download
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                centrifugal farce & affinity
+
+centrifugal
+force
+
+
+
+
+
+                  is a farce!  it is all about the velocity added
+                  by a pump's impeller.  this tutorial dispells
+                  this myth and explains the relationship of velocity to
+                  the three affinity laws.
+
+download
+
+return to titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                energy calculators
+
+
+wire to
+                water energy calculator
+this
+excel
+
+
+
+
+
+                  based calculator allows you to compare the energy
+                  consumption of two different pumps based upon
+                  hydraulic and motor efficiency.  it computes
+                  annual operating costs for both and the payback period
+                  for the more efficient system.  see
+
+
+
+
+
+                  my march 2001 pumps & systems magazine article for
+                  additional information.
+download
+
+return
+to
+
+
+
+
+
+                  titles
+
+system energy
+              calculator
+this
+excel
+
+
+
+
+
+                  based calculator allows you to compare the energy
+                  consumption of two pumps operating under different
+                  system conditions.  it computes annual operating
+                  costs for both and the payback period for the more
+                  efficient system.  the example included is for a
+                  pump that is pumping 600 gpm through 600 feet of 6"
+                  and 8" steel pipe.
+
+download
+
+return
+to
+
+
+
+
+
+                  titles
+
+
+off bep energy
+              calculator
+see
+
+
+
+
+
+                  my january 2012 pumps & systems article for
+                  information on this calculator.
+
+download
+
+return to titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          basic hydraulics - displacement pumps
+
+              click on a topic below for a brief description of its
+              contents.
+
+ positive displacement pumps
+                - part 1 reciprocating pumps
+
+ positive
+                    displacement pumps - part 2 rotary pumps
+
+viking pump
+                      company - pd pump white papers
+
+
+return to
+                categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          other pump topics
+
+click
+
+
+
+
+
+              on a topic below for a brief description of its contents.
+
+constant
+
+
+
+
+
+                              pressure booster systems
+
+the self priming
+                pump
+
+                how curve shape can influence pump selection
+
+siphons & the siphon effect - that
+                sucking sound
+
+pascal's principle - paradox lost
+
+parallel pumping - parts 1 & 2
+
+                two steps to longer pump life - parts 1 & 2
+
+centrifugal pump operation
+                at off design conditions - igor karassik
+ 
+
+return to
+                categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                centrifugal pump operation at off design conditions -
+                parts 1 - 3
+
+ 
+              in the mid eighties, igor karassik wrote a three part
+              series that described the problems associated with off bep
+              operation.  part 1 explores radial thrust and
+              temperature rise while part 2 looks at internal
+              recirculation and air binding.  part 3 discusses
+              discharge recirculation and discharge bypasses.  all
+              are written in a very understandable manner which is the
+              goal of pump ed 101.  these are scanned files and the
+              resolution is not very good.  in your acrobat tool
+              bar, increase the page size to 130% for an easier read.
+
+download
+                  part 1
+
+ download part 2
+
+ download part 3
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                two steps to longer pump life - parts 1 & 2
+ 
+              this tutorial explores the two most important preventive
+              maintenance steps that influence pump and motor
+              life.  part 1 looks at off bep operation and outlines
+              how to determine the "as built" operating point. 
+              part 2 investigates current unbalance and the corrective
+              measures that should be taken.
+
+download
+
+
+
+
+
+                  part 1
+
+download
+
+
+
+
+
+                  part 2
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                parallel pumping - parts 1 & 2
+
+              sometimes the flow and head of two pumps operating in
+              paralle is not what we expect it to be.  this
+              tutorial takes a look at the performance of identical and
+              dissimilar pumps and the effect of the system curve. 
+              part 1 compares the pumps and part 2 factors in the system
+              curve.
+
+download
+
+
+
+
+
+                  part 1
+
+download
+
+
+
+
+
+                  part 2
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                pascal's principle - paradox lost
+
+              the pressure exerted by a colum of water depends upon its
+              density and hight - - it has absolutely nothing to do with
+              the its volume.  in this tutorial we take a close
+              look at this paradox and provide various examples that
+              support pascal's principle.
+
+download
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              siphons & the siphon effect - that sucking sound
+
+              in this turorial we explain how a pipeline siphon works
+              and provide several examples of how they can affect pump
+              performance.
+
+download
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              how curve shape can influence pump selection
+
+              some pump curves are very steep while others are pretty
+              flat.  and, ofcourse there many inbetween.  this
+              turorial looks at how the shape of a performance curve can
+              influence a pump's performance in a particular
+              application.
+
+download
+
+return to titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          sewage & wastewater
+
+click
+
+
+
+
+
+              on a topic below for a brief description of its contents.
+
+air vs oil filled
+                  sewage pump motors 
+
+sewage
+                pump impeller selection
+
+vortex action - how lower efficiency can
+                reduce cost
+
+                lower flow nonclogs - solids handling options
+
+pressure
+
+
+
+
+
+                sewer systems
+
+lift
+
+
+
+
+
+                station maintenance
+
+pump cycle time
+                    calculator
+
+wastewater
+                      pump draw down calculator
+
+
+return to
+                categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                pump start and cycle time calculator
+ 
+              see my april 2010 pumps & systems article for a
+              description of this calculator.
+
+download  
+excel 
+
+
+
+
+
+                xlsx
+
+download
+                   excel xls
+ 
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+                lower flow nonclogs - solids handling options
+ 
+              there are times when pumps installed in lower flow
+              applications need the ability to pass a full 3" spherical
+              solid.  should you install a 4" pump and run to the
+              left of the performance curve?  probably not. 
+              this tutoral provides several options that will enhance
+              pump life.
+
+download
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                vortex action - how lower efficiency can reduce cost
+ 
+              vortex pumps have a bad reputation in the engineering
+              community because of their low hydraulic efficiency. 
+              it turns out that their lower maintenance will often
+              substantially reduce overall operating costs even though
+              electrical costs may be slightly higher.  this
+              tutorial explains vortex action and provides several
+              examples that show why this type of pump may be a better
+              choice.
+
+download
+
+return
+to
+
+
+
+
+
+                  titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          variable speed pumping systems
+
+click
+
+
+
+
+
+              on a topic below for a brief description of its contents.
+
+ 
+
+
+  
+
+
+
+variable frequency 101
+
+resonant
+                            frequency & critical speed
+
+resonant frequency
+                            demonstration
+
+pid control
+                        - what, why, how ?
+
+ balancing voltage & frequency -
+                        fluxuating flux
+
+                        variable frequency control - other advantages
+
+comparing energy
+                        consumption - to vfd or not to vfd
+
+vfd pump
+                            selection - frequency vs rpm ?
+
+lift station level control -
+                        almost utopia
+
+ variable fixed
+                      speed control - float switch activation
+ 
+vfd pump selection - constant pressure
+
+ vfd pump selection -
+                        circulation
+
+vfd pump
+                      selection - level control
+
+variable speed pump selection -
+                      parts 1 - 3
+
+
+
+
+
+
+
+
+return to categories
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                variable speed pump selection - parts 1 - 3
+ 
+              this tutorial takes a different approach to pump selection
+              for vfd operation.  part 1 addresses constant
+              pressure / variable flow while part 2 addresses variable
+              pressure / variable flow.  part 3 adds an elevation
+              or constant pressure component to variable pressure /
+              variable flow.
+
+ download part 1
+
+download part 2
+
+download part 3
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                  lift station level control - almost utopia
+
+              back in the old days level control had nothing to do with
+              saving energy.  in fact it was often a necessary
+              evil.  with the advent of the vfd you may be able to
+              achieve relatively constant flows and reduce the energy
+              required.  this tutorial investigates the
+              possibilities.
+
+ download
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                comparing energy consumption - to vfd or not to vfd
+ 
+              if the goal of your vfd application is to reduce energy
+              consumption, you have to do a careful comparison between
+              vfd and constant speed operation.  this tutorial uses
+              a constant pressure application to show you the proper way
+              to do that comparison.
+
+ download
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                variable frequency control - other advantages
+ 
+              vfd's can reduce energy consumption by allowing a pump to
+              run at the duty point required by the system and it can
+              change that duty point in real time.  but they offer
+              several other advantages that can often justify their use
+              even if pump speed is not varied.  this tutorial
+              explores those other advantages.
+
+ download
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                balancing voltage & frequency - fluxuating flux
+ 
+              we all know that a vfd varies the frequency seen by an
+              electric motor.  that is how it varies the motor
+              speed.  but, did you know that it must also vary the
+              voltage?  if it did not, the magnetic field produced
+              by the stator would become saturated and torque would
+              become unreliable.  this tutorial explains the volts
+              / hertz relationship that must be maintained by the vfd.
+
+ download
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+                resonant frequency & critical speed
+ 
+              the vibration that occurs in a pumping system due to
+              resonance is not a good thing.  resonance arrises
+              when a variable speed pump reaches a critical speed. 
+              it turns out that the first or lowest critical speed can
+              be easily calculated from simple data provided by the
+              manufacturer.  this tutorial explores resonant
+              frequency and shows how to calculate the speed that causes
+              it.
+
+download
+
+return to titles
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+                          pump evaluation, selection & testing tools
+
+click
+
+
+
+
+
+              on a topic below for a brief description of its contents.
+
+ 
+
+
+
+vfd evaluation &
+                            selection tools
+
+ variable
+speed
+
+
+
+
+
+                                  pump analysis comprehensive - excel
+
+parallel pump
+                                  control analysis - excel
+
+parallel pump
+                                      performance analyzer 12/13 - excel
+
+
+vspa50 -
+                        50hz variable speed pump analyzer - excel
+ 
+ vspa60 - 60hz variable
+                        speed pump analyzer - excel
+
+hertz: my original
+                              variable frequency sizing tool - excel
+
+cpsa: an older
+                                  centrifugal pump selection assistant -
+                                  exel
+
+wwpsa: a
+                            variable frequency sizing tool for level
+                            control - excel
+ 
+ pump evaluation &
+                            testing tools
+
+series / parallel
+                                  pumping analyzer - excel
+
+sdsca:
+                            simplex / duplex system curve analyzer -
+                            excel
+ 
+radial
+
+
+
+
+
+                          thrust calculator - excel
+
+suction
+                          specific speed & suction energy
+                          calculators - exce
+
+
+
+
+pump field
+                          test calculator - excel
+
+pump cycle time calculator -
+                            excel
+
+simple wastewater pump
+                                          draw down calculator - excel
+
+wire to water energy
+                          calculator - excel
+
+system energy
+                          calculator - excel
+
+off bep energy
+                          calculator - excel
+
+other calculators
+
+pump
+
+
+
+
+
+                                      rpm, hertz, impeller trim &
+                                      pulley calculators - excel
+
+submersible
+                                                      motor flow
+                                                      velocity
+                                                      calculator - excel
+
+tdh calculator -
+                        domestic submersible well pumps - excel
+
+pump & motor hp
+                        at lower frequencies - excel
+
+pipe &
+                            fitting friction calculator - excel
+
+lots of pump & motor stuff calculator
+                        - excel
+
+
+
+
+return to categories
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+                parallel pump performance analyzer (12/13)
+ 
+              pppa provides both across the line and variable speed
+              analysis of up to eight pumps running in parallel. 
+              see my december, 2013 pumps & systems article for a
+              full description of its capabilities.
+
+download   
+excel
+
+
+
+
+
+                xlsx
+
+ download   
+50
+
+
+
+
+
+                hz version excel xlsx
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+                pump field test calculator 
+ 
+              the 2013 version of my field test calculator allows
+              detailed testing of pumps in the field.  there are
+              four different tabs that directly address testing of above
+              ground centrifugals (suction & discharge gauge
+              method), submersible wastewater (discharge gauge method)
+              and lineshaft turbines (discharge gauge method). 
+              after entering the required data the calculator will
+              calculate velocity, velocity head, tdh, average voltage,
+              average current, unbalanced voltage and current, water hp,
+              test point hp, pump efficiency and the cost per 1000
+              gallons pumped.  if multiple points are tested an h/q
+              test curve is generated automatically on page 3.  all
+              equations used for calculations are shown on the
+              spreadsheet.  complete instructions are
+              included.  see my jan 2011 and may 2014 pumps &
+              systems articles for more information.
+
+download   
+excel
+
+
+
+
+
+                xlsx
+
+ 
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                submersible motor flow velocity calculator
+ 
+              this simple calculator allows you to enter the motor od
+              and casing id for a submersible well pump
+              application.  it then calculates the flow velocity
+              past the motor, the effective flow id and the friction per
+              motor foot.
+
+download   
+excel
+
+
+
+
+
+                xlsx
+
+return to titles
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wastewater pump draw down
+                calculator
+
+draw down is a common
+                  technique for evaluating wastewater pump
+                  performance.  this simple, excel program
+                  standardizes the measurement process and also
+                  calculates tdh.  both flow and tdh are required
+                  to evaluate pump performance and locate the operating
+                  point on the pump h/q curve.  discharge velocity
+                  head is also calculated and included in the tdh
+                  calculation.  see my december 2011 pumps &
+                  systems article for more information.  the
+                  drawdown combo calculator is designed for older wells
+                  that use a partition to accommodate both wet and dry
+                  pits in the same well.  a drawing on the sheet
+                  explains their use.
+
+drawdown
+                   excel xlsx  updated 12/13
+
+drawdown
+
+
+
+
+
+                  combo    excel xlsx   updated
+                12/13
+ 
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              pump rpm, hertz, impeller
+                trim & pulley calculators
+
+these four
+                  calculators use the affinity laws to calculate changes
+                  in pump flow, head & bhp based upon changes in
+                  pump speed or impeller diameter.  follow the
+                  directions for data entry and then click on the tabs
+                  to view the h/q curves.  (these calculators were
+                  updated on 11/17/12.  the origional versions were
+                  test versions that were uploaded accidentally. 
+                  if you downloaded the calculators prior to 11/17/12,
+                  you should replace them with the current ones.)
+
+rpm
+
+
+
+
+
+                  calculator    excel xlsx
+
+hertz
+
+
+
+
+
+                  calculator    excel xlsx
+ 
+ trim
+
+
+
+
+
+                  calculator    excel xlsx
+
+pulley
+
+
+
+
+
+                  calculator    excel xlsx
+ 
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                pump start and cycle time calculator
+ 
+              see my april 2010 pumps & systems article for a
+              description of this calculator
+
+download   
+excel
+
+
+
+
+
+                xlsx
+
+download
+                   excel xls
+ 
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                pump & motor hp at lower frequencies
+ 
+              when pump speed is reduced, the required hp reduces as the
+              cube of the change in speed.  when a vfd reduces
+              motor speed the available hp is also reduced.  in
+              cases where lower hp motors are used to run a pump at some
+              maximum frequency, it is important to make sure that the
+              hp available at that frequency is sufficienct.  this
+              calculator will show you the required vs available
+              hp.  see my january 2013 pumps & systems article
+              for more information.
+
+download   
+excel
+
+
+
+
+
+                xlsx
+ 
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+pipe & fitting
+                  friction calculator
+ 
+              there are many online friction calculators available but,
+              there are times when you cannot go online to use
+              them.  although not as comprehensive as some of the
+              online versions, this calculator allows you to compute the
+              friction for up to three piping segments.  it also
+              allows you to select the valves and fittings for each
+              segment.
+
+download   
+excel
+
+
+
+
+
+                xlsx
+ 
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+lots of pump &
+                  motor stuff calculator
+ 
+              this calculator allows you to compute lots of pump and
+              motor stuff from catalog and field test data.  on the
+              pump side it computes specific speed, suction specific
+              speed, min & max acceptable flow, actual pump
+              efficiency and cost per 1000 gallons pumped just name a
+              few.  on the motor side it computes hp, torque, kva,
+              power cost per hour, voltage unbalance and current
+              unbalance just to name a few.  it also includes a
+              simple pipe friction calculator.  you will have to
+              check it out to see the rest.
+
+download   
+excel
+
+
+
+
+
+                xlsx
+ 
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+                          electricity, motors, & controls
+
+ click
+
+
+
+
+
+              on a topic below for a brief description of its contents.
+
+ 
+
+
+
+
+ac power
+
+the ac induction motor
+
+ the
+single
+
+
+
+
+
+                      phase induction motor
+
+
+motor
+selection,
+installation,
+
+
+
+
+
+                        & start up
+
+three phase motor
+                        starting techniques
+ 
+
+the cowern papers
+
+power factor -
+                        parts 1 & 2
+
+process control - parts 1 & 2
+
+confusing units of measure - work,
+                        power,  & torque
+
+inertia - confusing units
+                        revisited
+
+
+
+
+
+
+
+
+return to categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                confusing units of measure - work, power, & torque
+ 
+              this tutorial could be located under other categories
+              because it applies to all rotating machinery.  it
+              compares the units of measure, used in a rotational
+              environment, with their linear cousins.  hopefully it
+              makes them a little more understandable.
+
+ download
+
+return
+to
+
+
+
+
+
+                  titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inertia - confusing units
+                revisited
+ 
+              rotational inertia is quite different than its linear
+              cousin but there are times when we need to understand its
+              relationship with torque.  this tutorial investigates
+              rotational inertia, compares it with linear inertia, and
+              uses some simple examples to show the effects of its
+              contributors.
+
+ download
+
+return
+to
+
+
+
+
+
+                  titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                process control - parts 1 & 2
+ 
+              this two part tutorial attempts to make process control
+              understandable.  part 1 takes a look at very simple
+              control algorithms while part 2 investigates the more
+              complex pid control used in vfd applications.  also
+              see "pid control" under the variable speed section for
+              another approach.
+
+ download part 1
+
+download part 2
+ 
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+                power factor - parts 1 & 2
+ 
+              this tutorial takes a detailed look at the cause and
+              effects of pf.  part 1 (electricity behaving badly)
+              explains pf and it causes.  part 2 (electricity
+              behaving better) investigates potential fixes and shows
+              their effect.
+
+ download part 1
+
+download part 2
+
+ return
+to
+
+
+
+
+
+                  titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+ 
+
+                          vast (various and sundry
+                                things)
+
+ click on a topic below for
+              a brief description of its contents.
+ 
+ 
+
+
+
+publications
+
+
+
+
+
+                        from a previous life
+ 
+ other
+                        educational sites
+ 
+ pump
+
+
+
+
+
+                        calcs
+ 
+ operators
+
+
+
+
+
+                        guide to centrifugal pumps
+
+salinity - the
+                        very best finishing salts
+ 
+ hawaiian
+                        vacation
+ 
+ pump
+                        ed 101 background image
+convert -
+                        desktop conversion utility
+ 
+ why newton invented
+                        calculus
+ 
+  sizing pumps after sunset
+ 
+  pumptech
+                          pipeline newsletters & product info
+
+web site
+                        development & hosting
+
+ 
+
+
+
+
+ 
+ return to categories
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            the tutorials
+
+
+the tutorials and topics presented
+          here were developed over the past twenty years.  several
+          were written for my own employees in an effort to further
+          their understanding of the equipment and applications that
+          were our life's blood.  others were written specifically
+          for specifying engineers so that they could gain an unbiased
+          understanding of different options.  but, most were
+          developed to provide information for the overall pump
+          community.  so far, they have been well received and i
+          have shared them via one web site or another since 1997.
+           many emails from around the world have offered
+          compliments, corrections, and suggestions.  please keep
+          them coming.
+
+some are short and simple -- "the
+          self priming pump", for example, gives a brief overview of
+          self priming pumps and the applications for which they are
+          intended.  these will usually reference another tutorial
+          for more detailed study.  others, like "ac power", are
+          far more detailed and present a thorough overview from
+          generation to consumption.  "hertz" and "hpsa", on the
+          other hand, are designed to be interactive learning and sizing
+          tools.  "centrifugal pump dynamics" is html based and
+          uses animations to get its points across.  my "pumps
+          & systems" magazine articles offer a short review of a
+          broad range of pump, motor and control topics.  some of
+          the "two part" articles, such as "power factor" provide an in
+          depth review.
+
+the "puzzler" is a totally different
+          animal.  it uses the findings of simple physics to help
+          explain some of the every day and, even more complex phenomena
+          that we encounter in  pumping applications.  i
+          developed the puzzler as the basis for my weekly "lunch &
+          learn" seminars that i presented to my employees.  the
+          beauty of the "puzzler" is that it promotes learning rather
+          than memorization.  for example, why memorize a fact such
+          as -- the head produced by a centrifugal pump changes as the
+          square of a change in speed -- when the "falling body"
+          equation shows you why?
+
+if you have questions or
+          suggestions, please drop me an email.
+
+joe evans
+
+return
+              to categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ the
+          puzzler - joe evans, ph.d  
+have you ever wondered why the
+          pressure of a fluid flowing in a pipe decreases as its
+          velocity increases? could it have something to do with why
+          airplane's fly? why does 115 volts plus 115 volts equal 230
+          volts in some cases, but only 208 volts in others? doesn't the
+          pressure that a liquid exerts have anything to do with its
+          volume? when is a watt not a volt-amp?  is centrifugal
+          force really a farce?   how come liquid friction, but not
+          solid friction, is affected by velocity and surface area?
+if you find these and other
+          questions relating to pumps, motors, and electricity
+          especially titillating, you are going to love the puzzler. the
+          puzzler poses a pointed question, but that question is just
+          the tip of the iceberg! the discussion that follows explores
+          not only the question but also the physics surrounding it.
+the current puzzler series consists
+          of more than forty brain teasers designed to expand your
+          knowledge of mechanics, hydraulics, and electricity.  the
+          dowload button is below the titles.
+
+
+
+
+
+basic puzzlers 
+the
+
+
+
+
+
+                      up and down puzzler (initial & final velocity) 
+the restricted pipe puzzler
+                      (bernoulli principle) 
+                      the water column puzzler (hydrostatic paradox) 
+the sinking float puzzler
+                      (buoyancy)
+                      the barrel burst puzzler (pascals experiment) 
+the false force puzzler
+                      (centrifugal force) 
+                      the my shafts bigger than yours puzzler (torque) 
+the wk2
+                      puzzler (inertia)
+the
+
+
+
+
+
+                      belt tightening puzzler (mechanical friction) 
+the warranty puzzler (time
+                      dilatation)
+                            the water supply puzzler (exponential
+                            function)
+
+hydraulic puzzlers
+the affinity puzzler
+                        (the affinity laws) 
+                        the impeller trim puzzler (peripheral velocity)
+                        the variable speed puzzler (variable frequency
+                        control) 
+the crazy impeller puzzler
+                        (runners)
+the hot and
+                          cold puzzler (liquid friction & viscosity)
+                        
+
+ 
+
+the worn pump puzzler ( axial
+                      & radial thrust)
+the
+                      differing pressure puzzler (eductors)
+
+the
+
+
+
+
+
+                      corrupted curve puzzler (positive displacement
+                      pumps i & ii)
+the
+
+
+
+
+
+                      leaking pump puzzler (hydraulic ram)
+
+the air lock puzzler
+                      (siphon)
+                      the drawdown puzzler (hydropneumatic tanks)
+the priming puzzler
+                      (centrifugal pump priming)
+the
+                            suction air puzzler (pipeline & system
+                            air)
+
+electrical puzzlers
+                       
+the mumbo-jumbo puzzler
+                      (motor insulation)
+                      the right motor puzzler (service factor) 
+the kill a watt puzzler
+                      (reactance) 
+the starting puzzler
+                      (motor starting techniques) 
+the changing voltage puzzler
+                      (three phase connections) 
+                      the distorted wave puzzler (harmonics) 
+the syntax puzzler (boolean
+                      logic)
+                      the grounded pump puzzler (corrosion protection) 
+the country boy puzzler
+                      (phase generator) 
+the 4 motor puzzler
+                            (tesla meets newton) 
+
+ 
+
+
+
+download
+            the complete puzzler series (918 k acrobat document)    
+ 
+return
+              to categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ a brief
+          introduction to centrifugal pumps - joe evans, ph.d        
+                     
+              
+
+this
+              short course is intended for the new comer to the
+              centrifugal pump environment. it is also a good review for
+              those who are a bit rusty. topics covered include the
+              performance curve, centrifugal force & peripheral
+              velocity, series operation, parallel operation, the
+              affinity laws, friction, specific gravity & viscosity,
+              suction lift, and npsh. it also references several
+              "puzzlers" for further study of specific topics.
+download
+            ( 1001 k acrobat document) 
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          constant
+          pressure
+          booster systems -
+          joe evans, ph.d
+
+this
+                tutorial will allow you to enter the realm of constant
+                pressure and the booster systems that support it.
+                 it starts with a brief overview of the
+                differential pressure booster and then takes a look at
+                prv controlled simplex, duplex, and triplex constant
+                pressure systems.  from there it moves on to vfd
+                control and the advantages it can offer.  topics
+                covered include tank vs tankless systems, sequencing,
+                pressure vs flow control, and pump selection.  if
+                you are unfamiliar with the vfd, download "variable
+                frequency 101"  as you will need an understanding
+                of their operation for the second half of this
+                discussion.
+
+download
+            ( 263 k acrobat document)
+
+return
+
+
+
+
+
+              to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the self priming pump
+this
+brief
+
+
+
+
+
+            overview discusses the advantages and limitations of self priming centrifugal
+            pumps.  it also references a "puzzler" for a more
+            detailed understanding of centrifugal pump priming.
+download
+            ( 108 k acrobat document)
+ return to
+              titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+ the ac
+          induction motor  - joe evans, ph.d
+this
+                introduction is intended for those with little or no
+                background in electric motors. it begins with the very
+                basics including magnetism, direct current, and the
+                operation of a simple dc motor. from there it moves on
+                to alternating current, induction, and the operation of
+                a simple ac motor. it concludes with a discussion of
+                work, torque, and horsepower. it is an excellent primer
+                for some of the electrical "puzzlers".  for a more
+                comprehensive review of induction motors, see my five
+                part series (march - july 2011) on the "pumps &
+                systems magazine columns" page of pumped101.
+
+download
+            ( 422 k acrobat document)
+return to
+              titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ the
+          single phase
+          induction motor - joe evans,
+          ph.d
+the major
+            difference in single and three phase motors is that the
+            single phase motor requires some sort of starting mechanism
+            to get it rotating.  this overview looks at four of the
+            most popular starting (and two running) techniques and the
+            pros and cons of each.  it also includes a discussion
+            of single and three phase rotational fields.  it is
+            aimed at the pump professional who works with single phase
+            submersible wastewater pumps, well pumps, and small
+            centrifugals.  for a more comprehensive
+                review of induction motors, see my five part series
+                (march - july 2011) on the "pumps & systems magazine
+                columns" page of pumped101.
+ 
+download
+            ( 547 k acrobat document)
+return to
+              titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ac
+          power - joe evans, ph.d
+why is ac power the
+            standard in the us?  what is the difference between
+            single phase and three phase sine waves?  why does a
+            voltmeter read 115v, 230v, or 460v when the actual voltage
+            is quite a bit higher?  how does a transformer work?
+            what is the difference between wye & delta versions?
+             do resistive and inductive circuits behave
+            differently?  what is power factor and what does it
+            have to do with reactance?  how can capacitive
+            reactance be used to correct the problems caused by
+            inductive reactance? this short course is designed for the
+            pump professional who wants to gain a basic understanding of
+            ac power and its application to electric motors.  see my
+            june through september 2010 pumps & systems magazine
+            articles for additional reading.
+
+download  ( 397k
+                  acrobat document)
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          variable frequency 101 -
+          joe evans, ph.d
+why not
+                debunk some of those myths surrounding vfd's and learn
+                how simple they really are.  did you know that they
+                have been around, in one form or another, since the
+                invention of the ac induction motor?  this short
+                introduction will help the pump professional gain an
+                understanding of their inner workings, potential
+                problems, and some of the applications for which they
+                are well suited. topics include: the relationship
+                between frequency and motor windings (poles), pulse
+                width modulation (pwm) output, effective voltage,
+                insulation stress, harmonics, bearing damage, and
+                typical applications in the pumping environment.
+download (368 k acrobat document) 
+return
+
+
+
+
+
+            to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ centrifugal pump motor selection,
+            installation, & start up - joe evans, ph.d
+ the vast
+              majority of failures of new electric motors can be
+              attributed to improper selection, installation, and start
+              up. although factory defects do occur, they are rare and
+              are quite apparent upon tear down and inspection.  this short
+            publication is a guide to the proper selection,
+            installation, and start up of new and replacement
+            centrifugal pump motors.  (this tutorial was updated on
+            2/12/06)
+
+download
+            ( 35 k acrobat document)
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ resonant
+            frequency  
+ the
+              resonant frequency of and object is the frequency at which
+              it begins to vibrate of its own accord.  in this
+              demonstration, by the university of michigan physics
+              laboratory, sound waves are porduced at various
+              frequencies and projected upon a wine glass.  a
+              strobe light allows us to view its vibrations and eventual
+              shattering.  download "variable frequency 101" for a
+              detailed explaination of resonant frequency and its
+              potentially damaging effect upon pumps.
+
+
+download (
+            3.48m quick time movie)
+return
+
+
+
+
+
+            to titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ air vs oil
+          filled sewage pump motors - joe evans, ph.d 
+some
+              manufacturers believe that filling a motor with oil is the
+              only way to go while others think air to be a better
+              solution (pun intended). this paper takes an honest look
+              at these two popular submersible sewage pump motor designs
+              and compares the advantages and disadvantages of each.
+              topics covered include motor efficiency, heat transfer,
+              bearing lubrication, maintenance, and environmental
+              concerns.
+download
+          (235k acrobat document)
+
+return
+            to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ sewage
+          pump impeller
+          selection -
+          joe evans, ph.d        
+                          
+                           
+                   
+this
+overview
+
+
+
+
+
+              discusses the various impeller designs used in raw sewage
+              pumping applications.  designs covered include the
+              major members of the radial vane family, the vortex
+              impeller, and the centrifugal screw.   topics include
+              centrifugal impeller basics, design pros & cons,
+              operational characteristics, and application selection
+              criteria.  
+download
+            (339k acrobat document)
+
+
+
+return to
+            titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ pressure sewer systems:  centrifugal
+            vs positive displacement - joe evans, ph.d
+during
+the
+
+
+
+
+
+              past thirty years, low pressure grinder pump sewer systems
+              have become a popular alternative to traditional gravity
+              systems. the two basic pump designs, centrifugal and
+              positive displacement, used in these systems are as
+              different as night and day. this short article discusses
+              the operating characteristics of centrifugal and positive
+              displacement grinder pumps when installed in a pressure
+              sewer system.  topics covered include pipeline
+              velocity, unvarying vs dynamic flow, self limiting system
+              pressure, operating power, and impeller / cutter design.
+download
+            (115k acrobat document)
+
+return to
+              titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+ hertz:  a variable frequency / speed
+            calculator and plotting tool - joe evans, ph.d
+hertz
+is
+
+
+
+
+
+              an excel program that allows you to illustrate the laws of
+              affinity, perform a design point calculation, and plot
+              centrifugal pump performance curves as a function of
+              frequency or rpm.  it is named for the german
+              physicist, heinrich hertz, who discovered the very low
+              frequency electromagnetic radiation we now call radio
+              waves. after many decades of cps (cycles per second) we
+              are finally giving him credit.
+directions
+for
+
+
+
+
+
+              its use can be found at the bottom of the spread sheet.
+               "auto plot" automatically plots the 60, 55, 50, 45,
+              40, 35 and 30hz  performance curves (in feet and psi)
+              for the data you entered.  you can also enter a
+              system curve so that you can evaluate your selection.
+               instructions for custom plots are also included.
+  
+
+download
+            (115k excel document)
+
+return
+
+
+
+
+
+              to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+               variable speed pump analysis - joe evans, ph.d
+vspanalysis is a
+        comprehensive excel program that will allow you to view the
+        operational characteristics of a centrifugal pump operating
+        under vfd control and allows you to select the best pump for a
+        particular application.   it produces variable speed
+        curves showing head, efficiency, horsepower, kw and cost per
+        1000 gallons pumped.  it has complete instructions and a
+        discription of the included example.  for more information
+        see my jan 2011 pumps & systems magazine article.  the
+        standard version plots the variable frequency curves from
+        30-60hz in 5hz increments.  "vspanalysys 2hz" plots the
+        variable frequency curves from 40-60hz in 2hz increments.
+
+
+
+vspanalysis
+
+vspanalysis 2hz
+
+
+return
+
+
+
+
+
+              to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+               variable speed parallel pump control analysis - joe evans, ph.d
+vfppa is excel programs
+        that allows you to view the operational characteristics of two
+        or more centrifugal pumps operating under vfd control.  it
+        will help you determine the most efficient operating method
+        (synchronous or individual speed control).  it has complete
+        instructions and a discription of the included example. 
+        for more information see my oct 2010 pumps & systems
+        magazine article.
+
+
+
+vfppanalysis 07 version
+vfppanalysis
+
+
+
+
+
+                03 version
+ 
+  return to titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cpsa:  centrifugal pump
+          selection assistant - joe evans, ph.d 
+cpsa
+is
+
+
+
+
+
+              an abbreviated and simpler version of hertz but, also has
+              some additional features.  it plots a system curve
+              and  the 60 - 30 hz curves (in feet and psi) for the
+              pump selected.  there is nothing else to muddle the
+              picture and there is no need to scroll side to side or up
+              and down.  it also asks for the hydraulic
+              efficiencies for each of the flow points and, in return,
+              prints the hp required as "data lables" on each of the
+              frequency curves.  this allows you to quickly
+              determine the power savings for an application using a
+              given pump.
+
+
+download  (121k
+excel
+
+
+
+
+
+            document)
+  
+return
+to
+
+
+
+
+
+              titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+vspa-50:  variable speed pump
+          analyzer 50hz
+          - joe evans, ph.d 
+vspa-50
+is
+
+
+
+
+
+              an international version of cpsa.  it plots a system
+              curve and  the 50 - 25 hz performance curves (in any
+              unit of measure).  it can accomodate up to eight h/q
+              points.  if you enter the power requirement for each
+              of the flow points for the 50hz curve, it will generate
+              "power data lables" on each of the frequency curves. 
+              this allows you to quickly determine the power savings for
+              an application using a given pump.  see my
+            may 2009 pumps & systems magazine article for additional
+            information.
+
+download
+             (116k excel document)
+  
+return
+to
+
+
+
+
+
+            titles 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vspa-60:  variable speed pump
+          analyzer 60hz
+          - joe evans, ph.d 
+vspa-60
+is
+
+
+
+
+
+              an international version of cpsa.  it plots a system
+              curve and  the 60 - 30 hz performance curves (in any
+              unit of measure).  it can accomodate up to eight h/q
+              points.  if you enter the power requirement for each
+              of the flow points for the 60hz curve, it will generate
+              "power data lables" on each of the frequency curves. 
+              this allows you to quickly determine the power savings for
+              an application using a given pump.  see my
+            may 2009 pumps & systems magazine article for additional
+            information.
+
+download
+             (116k excel document)
+  
+return
+to
+
+
+
+
+
+            titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+radial thrust
+          calculator -
+          joe evans, ph.d 
+the
+unbalanced
+
+
+
+
+
+              radial thrust that arises in a single volute pump is
+              lowest at or near bep depending upon the pump's specific
+              speed (ns).  but as operation moves away from bep
+              (especially to the left) the net radial thrust increses
+              quickly.  unbalanced radial thrust can cause
+              increased shaft deflection which can lead to increased
+              seal, bearing, and wear ring wear.  in some cases it
+              can cause the shaft to break.  this calculator allows
+              you to quickly calculate the radial thrust in psi at any
+              point on a pump's h/q curve.  see my
+            jan 2010 pumps & systems magazine article for additional
+            information.
+
+download
+             (58k excel document .xlsx)
+
+download
+             (58k excel document .xls)  
+
+return to titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+suction calculators - joe evans, ph.d
+
+two
+useful
+
+
+
+
+
+            pieces of information that can be used to identify pumps
+            that are prone to cavitation due to suction recirculation
+            are suction specific speed (s) and suction energy
+            (se).  this calculator will allow you to calculate
+            both.  for more information on s see terry henshaw's
+            oct - dec 2009 pumps & systems
+            articles on npsh and suction specific speed.  you can
+            read them at www.pump-zone.com. 
+
+
+
+
+
+          see my feb 2010 pumps & systems
+          magazine article for additional information.  the
+          calculators were updated on 3/31/11.
+
+
+
+download
+           (2.4m excel document .xlsx)
+
+download
+             (480k excel document .xls)  
+
+return to titles
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+convert:  a desktop conversion utility
+ 
+ 
+ 
+convert
+
+
+
+
+
+                is a windows based, desktop, conversion utility that is
+                one of the most comprehensive i have run across.
+                 it allows you to convert just about any unit of
+                measure to dozens of others.  it also allows you to
+                set up your own custom conversions.
+
+                it was eveloped by josh madison ( http://www.joshmadison.com/software/convert/
+                )
+
+download
+                   (156k winzip file - unzips to a 548k exe file)
+
+return
+to
+
+
+
+
+
+                titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ vfd pump selection
+            - constant pressure - joe evans, ph.d
+
+  
+ 
+this
+
+
+
+
+
+                    tutorial goes into a fair amount of detail
+                    concerning the proper selection of booster pumps for
+                    vfd applications.  it starts by comparing a prv
+                    controlled booster with one under vfd control and
+                    then outlines five rules that should be followed
+                    during pump selection.  it ends with examples
+                    of good and poor selections.  another
+                    discussion of this topic can be found in the "pumps
+                    & systems" section of this site.
+
+download
+                       (215k acrobat document)
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ vfd pump selection - variable flow /
+            variable pressure - circulation - joe evans, ph.d
+
+  
+ 
+with
+
+
+
+
+
+                    this tutorial, we begin our discussion of
+                    applications that require varying flows but do not
+                    require constant pressure. circulation is one of the
+                    more popular variable speed applications for many
+                    reasons.  we begin with a discussion of closed
+                    loop applications, show a typical system curve, and
+                    then illustrate the pump curves used for single and
+                    variable speed operation.  we then move on to
+                    open loop systems and provide  similar
+                    information.  another
+discussion
+
+
+
+
+
+                    of this topic can be found in the "pumps &
+                    systems" section of this site.
+
+download
+                       (183k acrobat document)
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ vfd pump
+                selection - level control - joe evans, ph.d
+
+  
+ 
+in
+
+
+
+
+
+                        this tutorial, we take a close look at waste
+                        water pump down applications and show how they
+                        can often benefit from conversion to level
+                        control.  we begin with a discussion of wet
+                        and dry pit installations and show an example of
+                        the pumps used in pump down applications.
+                         we then show the same pump operating in a
+                        level control environment.  we end with
+                        some guidelines on pump selection. 
+
+
+
+
+
+                        another discussion of this topic can be found in
+                        the "pumps & systems" section of this site.
+
+download
+                           (232k acrobat document)
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tdh
+                    calculator - domestic submersible well pumps
+- joe
+                    evans, ph.d
+
+  
+ 
+the
+
+
+
+
+
+                            tdh calculator is a very simple visual that
+                            allows easy calculation of the tdh required
+                            for domestic submersible well pump
+                            applications.  it breaks down tdh into
+                            six, individual components and illustrates
+                            their relationship both above and below
+                            ground.  they are available as a pdf
+                            document or excel spreadsheet.  the
+                            excel version performs interactive
+                            calculations.
+
+download
+                               (54k acrobat document)
+
+download
+                               (excel spreadsheet)
+ 
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lift station maintenance for
+                        the complete idiot - steve cottrell, enco
+                        southwest inc.
+
+     don't
+
+
+
+
+
+                            let the title offend you (dummies was
+                            already taken).  steve's guide is
+                            written for that building maintenance guy
+                            who wakes up one morning and finds that he
+                            now has responsibility for a submersible
+                            lift station!  it is simple, straight
+                            forward and will keep that station up and
+                            running.  
+
+download
+                               (1120k acrobat document)
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+centrifugal pump intro for pp
+                        (part 1 elementary mechanics & hydraulics) - joe
+                        evans, ph.d
+
+     this
+
+
+
+
+
+                            power point presentation is designed for
+                            audiences with a "limited" knowledge of
+                            centrifugal pumps.  it can be presented
+                            in as little as an hour or as a morning or
+                            afternoon class if you go into more
+                            detail.  use the script to guide you
+                            through the slide show.  don't have
+                            power point on your pc?  no problem - -
+                            download the pdf version and show it as
+                            slides on  a pp projector or tv
+                            monitor.
+
+                            as the title implies, this tutorial presents
+                            the basic mechanics and hydraulics of
+                            centrifugal pump operation.  it begins
+                            by dispelling the myth of "centrifugal
+                            force" and shows that acceleration of a
+                            fluid is its sole purpose.  it then
+                            moves on to a discussion of the pump "curve"
+                            and shows examples of series and parallel
+                            operation.  it touches on specific
+                            gravity and why we typically rate pump
+                            performance in feet of head.  we review
+                            the laws of affinity and illustrate them
+                            with a pump operating under vfd
+                            control.  we finish with a discussion
+                            of suction conditions and liquid friction.
+
+ 
+download
+                               (707k power point)  
+                                    download 
+(177k
+
+
+
+
+
+                              pdf version)       download 
+(92k
+
+
+
+
+
+                              pdf script)
+
+ 
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wwpsa 
+
+
+
+
+
+                        a variable frequency sizing tool - level control
+- joe
+                        evans, ph.d
+
+  
+ 
+the wastewater pump
+                                selection assistant is an excel program
+                                that allows you to evaluate a
+                                submersible or dry pit pump that will be
+                                used in a level control
+                                application.  you can enter up to
+                                eight flow and head points from a 60 hz
+                                performance curve and then view its
+                                operating curves from 30 to 60 hz. 
+                                if you enter a system curve and the
+                                "pump down" elevation you can also view
+                                the same pump operating in a pump down
+                                environment.  finally, if you enter
+                                the hydraulic efficiencies for each
+                                point, brake horsepower will be
+                                calculated automatically and displayed
+                                as "data labels" on each of the
+                                curves.  scroll down to the bottom
+                                of the spreadsheet for complete
+                                directions and notes on the example that
+                                is included.
+ 
+download
+                                   (128k excel document)
+
+ return to
+                                titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cavitation
+
+
+
+
+
+                            - a largely misunderstood phenomenon
+-
+                            joe evans, ph.d
+
+  
+ 
+the goal of this tutorial is
+                                to help you gain a intuitive
+                                understanding of the cavitation process
+                                and its causes.  i
+                                will leave its prevention to the many
+                                articles that already exist.  since boiling
+                                is the precursor to cavitation, we begin
+                                by taking a look at some of the
+                                properties of water and their role in
+                                the cavitation process. 
+
+
+
+
+                                we then put npsh into perspective
+                                and  review
+                                some of the dynamics of centrifugal pump
+                                operation that also directly affect the
+                                process.  we
+                                conclude with a discussion of the
+                                different types of centrifugal pump
+                                cavitation and the conditions that can
+                                cause them to occur.  another
+                                    discussion of this topic can be
+                                    found in the "pumps & systems"
+                                    section of this site.
+ 
+download
+                                       (519k acrobat document)
+
+ return to
+                                    titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+                        the author 
+
+  
+ 
+joe
+                            evans lives in beautiful rhododendron oregon
+                            and retired from pumptech inc on
+                            12/31/15.  since entering graduate
+                            school, a continuing interest has been one
+                            of computer control of mechanical and
+                            electronic systems.  it began with the
+                            introduction of the minicomputer, in the
+                            late sixties, and continued with the advent
+                            of the pc and plc in the eighties and
+                            nineties.  he accidentally entered the
+                            pump industry in 1986, and has been trapped
+                            there since.  he is passionate about
+                            the sharing of knowledge and its ability to
+                            replace memorization with
+                            understanding.  click below if you
+                            would like to view a resume of his academic
+                            and professional experience.  for a
+                            little history, click on the "publications
+                            from a previous life" link which can be
+                            found in the vast section of my home page.
+ 
+download
+                                   (resume acrobat document)
+
+ return to
+                                categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
+the
+                              cowern papers
+ 
+    
+ed cowern
+                            received his bs in electrical engineering
+                            from mit and is a district manager for
+                            baldor.  his clear and understandable
+                            technical papers on electricity and electric
+                            motors make them a very useful reference.
+ 
+download
+                                   (1 mb acrobat document)
+
+ return to
+                                titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+web
+                            site development & hosting
+
+  
+ 
+pueo advanced media
+                                offers web site development &
+                                hosting and is the brain child of my son
+                                jamie.  whether you need a "plain
+                                jane" site like mine (well maybe not
+                                quite as plain as mine) or something
+                                much more sophisticated, he can provide
+                                it at a reasonable cost.  hosting
+                                is also inexpensive and starts at under
+                                $ 7.00 per month.  click below and
+                                take a look at some of his work. 
+                                and, i am sure that he would want to
+                                make it perfectly clear that he did not
+                                do mine (but he does host it).  i
+                                have to take full responsibility for its
+                                "no frills" look.
+ 
+pueo
+
+
+
+
+
+                                        advanced media 
+
+ return to
+                                    titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why
+
+
+
+
+
+                                newton invented calclus - joe
+                                  evans, ph.d
+
+  
+ 
+math
+
+
+
+
+
+                                    -- one of those four letter words
+                                    that can bring on anxiety
+                                    attacks.  it is sad that such a
+                                    useful science has gotten such a bad
+                                    rap.  but, quite frankly, you
+                                    can blame it on the teachers for it
+                                    is they who have missed this great
+                                    opportunity.  this short
+                                    tutorial provides a brief history of
+                                    calculus and gives some every day
+                                    examples of why is still needed
+                                    today -- even in the pump
+                                    industry.  it also takes a few
+                                    jabs at our educational system for
+                                    not doing a better job of presenting
+                                    math in high school and
+                                    college.  but, most
+                                    importantly, it promotes less
+                                    complex math (algebra) as a
+                                    component that can help us better
+                                    understand basic hydraulics and
+                                    mechanics.
+ 
+download 
+(122k
+
+
+
+
+
+                                      acrobat document)
+
+
+ return
+                                        to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+three phase motor starting
+                                    techniques - joe evans, ph.d
+
+  
+ 
+new comers to the
+                                        pump industry are often
+                                        unfamiliar with many of the
+                                        three phase motor starting
+                                        techniques that employed
+                                        pre-semiconductor technology.  surprise
+
+
+
+
+                                        - - most of them are still in
+                                        use and will probably be here
+                                        for some time to come.  the
+                                        primary purpose of alternative
+                                        starting techniques is to reduce
+                                        the system loading during
+                                        starting.  the
+typical
+
+
+
+
+
+                                        ac induction motor has an inrush
+                                        current, during starting, that
+                                        is about five to seven times
+                                        that of run current.  today,
+                                        the vfd can provide a soft start
+                                        and stop automatically just by
+                                        ramping the input frequency.  in the
+                                        past it was not always that
+                                        easy.  this
+tutorial
+
+
+
+
+
+                                        will review the most common
+                                        methods of motor starting.
+
+
+download 
+(282k
+acrobat
+
+
+
+
+
+                                          document)
+
+
+ return
+to
+
+
+
+
+
+                                            titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+positive displacement
+                                        pumps - parts 1 & 2 -
+                                          joe evans, ph.d
+
+  
+ 
+there are
+                                            many pump designs that fall
+                                            into the positive
+                                            displacement category but,
+                                            for the most part, they can
+                                            be nicely divided into two
+                                            basic groups.  the
+                                            reciprocating group operates
+                                            via pistons, plungers, or
+                                            diaphragms while rotary
+                                            pumps use gears, lobes,
+                                            screws, vanes, and
+                                            peristaltic action.  their
+
+
+
+
+
+                                            common design thread is that
+                                            energy is added to the
+                                            pumped fluid only
+                                            periodically where, in
+                                            dynamic pumps, it is added
+                                            continuously.  see
+
+
+
+
+
+                                              my september & october
+                                              2009 pumps & systems
+                                              magazine articles for
+                                              additional reading.
+ 
+part 1 of
+                                            this tutorial covers
+                                            reciprocating designs while
+                                            part 2
+                                            deals with rotary units.
+  
+download 
+(part
+
+
+
+
+
+                                              1 - 187k acrobat
+                                              document)  
+                                                 download 
+(part
+
+
+
+
+
+                                              2 - 138k acrobat document)
+ 
+
+ return
+to
+
+
+
+
+
+                                                titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+viking
+                                            pump pd pump white papers
+
+in the mid 80's
+                                              viking pump company
+                                              published a couple of very
+                                              useful white papers for
+                                              positive displacement pump
+                                              users.  ad-19 was all
+                                              about npsh while ad-6
+                                              covered pressure and
+                                              vacuum.  both are
+                                              available below in pdf
+                                              format.
+
+download 
+                                              ad-19 2 mb pdf
+
+download 
+                                              ad-6  2 mb pdf
+
+
+
+ 
+
+ return
+to
+
+
+
+
+
+                                                titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sizing
+                                            pumps after sunset - joe evans, ph.d
+
+  
+ 
+i really
+                                                had to think long and
+                                                hard about putting this
+                                                up on my web site. 
+                                                hopefully you will never
+                                                have to use it but, it
+                                                can allow you to size a
+                                                replacement end suction,
+                                                centrifugal pump with a
+                                                minimal amount of
+                                                information.  it
+                                                uses something i call
+                                                bep sizing and includes
+                                                several "family" curves
+                                                that are made up of
+                                                average bep flows and
+                                                heads from almost 400
+                                                individual pumps. 
+                                                if you decide to
+                                                download this tutorial,
+                                                use it carefully.
+  
+download 
+(79k
+acrobat
+
+
+
+
+
+                                                  document)
+ 
+
+ return
+to
+
+
+
+
+
+                                                    titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+background
+
+
+
+
+
+                                            image - impellers
+
+   
+ the
+                                            background on my home page
+                                            is one i developed for my
+                                            first web site in the mid
+                                            90's.  it provides a
+                                            bit of pump based art work
+                                            without detracting from the
+                                            content.  below are a
+                                            couple of images of the area
+                                            where i live.  mt.
+                                            hood is a
+                                            dormant volcano that last erupted in
+                                            1907 and is the second most
+                                            climbed mountain in the
+                                            world.  it is
+                                            surrounded by the 1.2
+                                            million acre mt. hood national
+                                            forest which has over 1200
+                                            miles of hiking
+                                            trails.  most
+                                            importantly, it is in my
+                                            back yard!  the image
+                                            on the left is the north
+                                            side as seen from lost
+                                            lake.  the one on the
+                                            right is the sandy river
+                                            which originates in
+                                            the glaciers and runs
+                                            through our community.
+
+   
+  
+
+
+
+
+
+                                                   
+                                                   
+                                                   
+                                                   
+                                               
+  
+
+
+
+
+
+                                                   
+                                                   
+                                                
+                                                 
+
+
+return
+to
+
+
+
+
+
+                                                titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+series / parallel
+            pumping analyzer with autoplot - joe evans, ph.d
+
+  
+ 
+the resulting pressure and flows obtained
+                when identical pumps are operated in series or parallel
+                can be intuitively obvious. but, when those pumps are
+                not identical, our analog brains often need to see a
+                graphical presentation of those results.  the
+                series / parallel calculator is an excel program that
+                allows you to view the combined performance curves of
+                identical and similar pumps when running in series and
+                parallel installations.  it also allows you to
+                enter a system curve so that you can  evaluate
+                their performance.  after you download and start
+                the program, scroll down for detailed instructions and a
+                description of the example that is included.
+  
+download 
+(130k
+
+
+
+
+
+                  excel file revised 5/20/06)
+ 
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+vfd pump selection - frequency vs rpm ? - joe evans, ph.d
+
+ 
+  
+ 
+i receive several emails each month asking why
+              my vfd sizing programs (hertz, hertz vhf, hpsa, &
+              ppsa) show the resulting curves in hz rather than
+              rpm.  this short paper explains my reasoning.
+  
+download 
+(55k
+
+
+
+
+
+                acrobat file)
+ 
+
+ return to titles
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+            centrifugal pump efficiency - what, how, why, when ?
+- joe evans, ph.d
+ 
+  
+
+
+in
+this
+
+
+
+
+
+                tutorial, we will investigate several aspects of
+                centrifugal pump efficiency.  first
+
+
+
+
+                i will define efficiency and give some examples.  next we will examine some of
+                the design criteria that ultimately dictate the
+                efficiency exhibited by a particular pump. 
+
+
+
+
+
+                we will also try to make that somewhat nebulas
+                quantity, known as specific speed, more meaningful.  i will also show its effect on
+                the shape of a pumps performance and power curves.  finally, we will discuss the
+                importance of (or, sometimes, unimportance) of
+                efficiency as it relates to a particular application or
+                process.  we will also
+                illustrate the relationship of efficiency, head, and
+                flow as they apply to both steep and flat performance
+                curves and their roles in constant and variable speed
+                applications.  we will end
+                with a brief look at the combined efficiency of a pump
+                and its driver.  for a more recent look at this
+                topic see my feb through july 2012 pumps & systems
+                magazine articles.
+  
+download 
+(461k
+
+
+
+
+
+                  acrobat file)
+ 
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+              waterhammer - its all about conserving energy - joe evans, ph.d
+
+ 
+  
+
+
+most of us are
+                  familiar with the phenomenon known as waterhammer
+                  (water hammer) but few realize how destructive its
+                  force can be.  neither can we visualize some of
+                  the events that lead to its inception and those that
+                  occur afterwards.  did you know that waterhammer
+                  is a real life example of one of physics' most
+                  fundamental laws?  in this tutorial we will
+                  investigate both the cause and effect of
+                  waterhammer.  we will also look at several
+                  methods of mitigating its damage and inception. 
+
+
+
+
+
+                    another discussion of this topic can be found in the
+                    "pumps & systems" section of this site.
+  
+download 
+(233k
+
+
+
+
+
+                  acrobat file)
+ 
+
+ return to titles
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              educational seminars &  training 
+
+ 
+  
+
+
+the recipie for
+                  pump ed 101's educational seminars and training is a
+                  simple one.  combine the subject matter with many
+                  years of hands on experience, a dash of simple
+                  physics, a bit of history, and a generous portion of
+                  practical examples.  stir well and sprinkle with
+                  interaction.  the result is a learning experience
+                  for everyone involved, regardless of their prior
+                  knowledge of the subject.
+
+                  the seminars shown below have been presented to a wide
+                  range of audiences over the past twenty years. 
+                  they are updated continuously and the current power
+                  point versions include lots of java based animations
+                  that can often clarify many of those, otherwise,
+                  subtle points.  my audiences include engineering
+                  firms, refineries, utilities, awwa, wef, mea, ngwa,
+                  rwa, and other pump oriented organizations.  drop
+                  me an email if you are interested in an on site
+                  seminar or have questions.
+
+click below to download the pdf that describes
+                    the seminars that are approved for ceu credits in
+                    oregon, washington & idaho.  depending upon
+                    the acrediting agency, presentations must be a
+                    minimum of one or three hours.   half day
+                    seminars can be a mix of various one hour
+                    presentations.  seminars are sponsored by
+                    pumptech and can be presented in washington, oregon,
+                    idaho and parts of montana.
+
+
+seminar
+
+
+
+
+
+                        descriptions 
+
+   
+return to categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+              centrifugal pump dynamics - joe evans, ph.d
+
+ 
+  
+
+
+"dynamics -
+                  the branch of mechanics that deals with the motion and
+                  equilibrium of systems under the action of forces
+                  related to motion."  well, no wonder you have
+                  never investigated this before - - it sounds pretty
+                  boring!  but, believe or not, dynamics is
+                  actually quite interesting (and simple) and it is the
+                  key to understanding how centrifugal pumps work. 
+                  this short tutorial will allow you to fully appreciate
+                  what goes on inside those pumps - - all the way from
+                  the inlet to the discharge.  i have chosen the
+                  html format for this one so that i can take advantage
+                  of some imbedded animations and links to several other
+                  sites that will help us visualize what is going
+                  on.  make sure that java and flash are
+                  enabled.  it is also available as a pdf document
+                  but you will not be able to take advantage of the
+                  animations.  enjoy!
+  
+dynamics
+
+
+
+
+
+                      html version     
+                             
+                     dynamics
+
+
+
+
+
+                      acrobat version (98k pdf file)
+ 
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+              anti vfd (beware of the nazi's)
+
+ 
+as you search the web for more information on
+              variable frequency applications you might get the feeling
+              that we have reentered the era of pre wwii.  some of
+              the sites out there profess that vfd's have no rightful
+              place in our society and that there is no pump application
+              worthy of their use.  most of these opinions come
+              from those who offer competing products and they will show
+              a pump curve or power analysis that proves that their
+              product can always do a better job.  i have even read
+              some tax payer sponsored research that goes way over the
+              line.  one concluded that magnetic coupling systems
+              offer power savings similar to that of vfd's.  this
+              certainly may be true in some instances but, the data used
+              in this particular study was so skewed even enron would
+              have been concerned !
+
+              the same thing can happen on the other side of the aisle -
+              - but it is usually due to a lack of knowledge rather than
+              deceit.  many of the vfd articles in the trade press
+              tend to be written by vfd manufacturers.  and,
+              although they have some pretty smart people, most have a
+              limited knowledge of pump applications. therefore the
+              examples given tend to be more theoretical than practical.
+
+              here is a good rule of thumb:  no single application control technique
+                will always be the best choice for a given
+                application.  if
+
+
+
+
+
+                  someone tells you that theirs is always best - - take
+                  them off your "favorites" list.  in my variable
+                  frequency tutorials, i try to use pump curves that are
+                  more typical rather than one that is "perfect". 
+                  this allows you to compare application results in a
+                  more realistic light.  
+ 
+
+
+  
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              pid control - what, why, how ? - joe evans, ph.d
+
+ 
+
+the p
+            (proportional) in pid is not too frightening but, what about
+            those other two letters?  are not the integral and
+            derivative parts of that mathematics known as
+            calculus?  and, isn't calculus frightening?  well
+            fear no more because this "layman's" discussion of pid
+            control will help you understand what it is, why we use it,
+            and how it works.  we start with a discussion of open
+            and closed loop control and give examples of each.  we
+            then move on to proportional control and the applications it
+            supports.  we end with a discussion of the integral and
+            derivative functions and how they can temper the, sometimes,
+            unruly nature of the proportional controller. 
+
+
+
+
+
+                another discussion of this topic can be found in the
+                "pumps & systems" section of this site.
+ 
+
+
+
+  
+download 
+(75k
+
+
+
+
+
+                  acrobat file)
+ 
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              variable fixed speed control - float switch activation - joe evans, ph.d
+
+ 
+
+so, your
+            waste water application will not lend itself to level
+            control operation.  or, maybe you just prefer float
+            switches over transducers and ultrasonic devices. 
+            whatever the reason, vfs or variable fixed speed control
+            might be a viable alternative to that pump down
+            application.  today you can combine an inexpensive vfd
+            with standard float switch technology and get a multispeed
+            pumping system that can increase application flexibility and
+            efficiency.  this short tutorial takes a look at vfs
+            control and how it compares to standard pump down
+            applications.
+  
+
+
+
+  
+download 
+(92k
+
+
+
+
+
+                  acrobat file)
+ 
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              sdsca - simplex / duplex system curve analyzer - joe evans, ph.d
+
+ 
+
+there can be
+            times when we over estimate the flow expected during
+            parallel operation of two non-clogs.  sdsca is an excel
+            spread sheet that allows you to analyze the operation of the
+            same non-clog running under simplex and duplex (parallel)
+            operation.  it will generate a system curve based upon
+            the information entered and give you the head required at
+            design flow.  you can then enter the curve data for a
+            selected pump and the simplex and duplex operational curves
+            will be plotted against the system curve.  scroll down
+            for detailed instructions.  the data used in the
+            example can be found under the "notes" tab.
+  
+
+
+
+  
+download 
+(80k
+
+
+
+
+
+                  excel file)
+ 
+
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              pumps & systems magazine columns - joe evans, ph.d
+
+                in september of 2006 i began contributing a monthly
+                educational column to pumps & systems
+                magazine.  the unedited versions will be available
+                here in pdf format as they are published.  some of
+                these columns are also listed under the proper category
+                on the home page and include a short description. 
+                most, however, are not so be sure to browse through all
+                of the titles below.  if you do not already
+                subscribe to p & s you can do so online at http://www.pump-zone.com/
+
+ 
+ sept 2006
+              - centrifugal farce & affinity    
+                         
+                       
+                          
+                   
+
+nov 2006 - preservation of
+              efficiency - affinity revisited  
+                      
+                     dec 2006 - liquid friction -
+              the tarantino effect
+
+jan 2007 - when bubbles don't
+              burst - why cavitation is damaging  
+                 feb 2007 - pascal's principle
+              - paradox lost
+ 
+ 
+
+mar 2007 - balancing
+                  voltage & frequency - fluxuating flux  
+                            
+                     apr 2007 - comparing
+                  energy consumption - to vfd or not to vfd
+
+may 2007 - how curve shape
+                  can influence pump selection    
+                            
+                    jun 2007 - power factor
+                  part 1 - electricity behaving badly
+
+july 2007 - power factor
+                  part 2 - electricity behaving better  
+                            
+                    aug 2007 - vortex action -
+                  how lower efficiency can reduce cost
+
+sept 2007 - lift station
+                  level control - almost utopia 
+                          
+                             
+                       oct 2007 - confusing units
+                  of measure - work, power, & torque
+
+nov 2007 - siphons and the
+                  siphon effect - that sucking sound    
+                         dec 2007 - variable
+                  frequency control - other advantages
+
+jan 2008 - process control
+                  part 1 - smart and not so smart control 
+                       feb 2008 - process control
+                  part 2 - even smarter control
+
+mar 2008 - parallel
+                  pumping part 1 - parallel and  not so
+                  parallel          
+                april 2008 - parallel
+                  pumping part 2 - other considerations 
+
+may 2008 - net positive
+                  suction head - npsha & npshr  
+                             
+                          june 2008 - two steps to
+                  longer pump life - part 1
+
+july 2008 - two steps to
+                  longer pump life - part 2    
+                             
+                          
+                       aug 2008 - waterhammer -
+                  part 1  what & why
+
+sept 2008 - waterhammer -
+                  part 2  causes &
+                  variables                        
+ 
+
+
+
+
+
+                oct 2008 - lower flow
+                  nonclogs - solids handling options
+
+nov 2008 - variable speed
+                  pump selection - part 1 cp-vf   
+                             
+                         dec 2008 - variable speed
+                  pump selection - part 2 vp-vf
+
+jan 2009 - variable speed
+                  pump selection - part 3 vp-vf (+cp)  
+                             feb 2009 - resonant
+                  frequency & critical speed
+
+mar 2009 - specific
+                  gravity & viscosity - part 1  
+                             
+                             
+                            april 2009 - specific
+                  gravity & viscosity - part 2
+
+may 2009 - variable speed
+                  performance analyzer - 50hz     
+                             
+                       june 2009 - inertia -
+                  confusing units revisited
+
+july 2009 - why the left
+                  can be dangerous        
+                             
+                             
+                           aug 2009 - planning for
+                  system growth
+
+sept 2009 - pd pump
+                  hydraulics - part 1 reciprocating  
+                             
+                       
+                        oct 2009 - pd pump
+                  hydraulics - part 2 rotary
+
+nov 2009 - corrosion - a
+                  natural process       
+                             
+                             
+                             
+                      dec 2009 - magnetic
+                  couplings - extra benefits
+
+jan 2010 - radial thrust
+                  calculator        
+                             
+                             
+                             
+                             feb 2010 - suction
+                  calculators
+
+mar 2010 - energy
+                  calculator       
+                             
+                             
+                             
+                             
+                            april 2010 - cycle time 
+
+may 2010 -
+                  bebop        
+                             
+                             
+                             
+                             
+                             
+                               june 2010 - ac power - part
+                  1
+ 
+
+ july 2010 - ac power - part
+                  2           
+                             
+                             
+                             
+                             
+                       aug 2010 - ac power - part
+                  3
+
+sept 2010 - ac power - part
+                  4           
+                             
+                             
+                             
+                             
+                       oct 2010 - vfd parallel
+                  pump analyzer
+
+ nov  2010 - coating &
+                  restoration - part 1   
+                             
+                             
+                             
+                          dec  2010 - coating &
+                  restoration - part 2
+
+jan 2011 - variable
+                  speed  pump analysis     
+                             
+                             
+                             
+                        feb 2011 - testing pumps
+                  in the field
+
+mar 2011 - ac motors part
+                  1           
+                             
+                             
+                             
+                             
+                           april 2011 - ac motors part
+                  2
+
+may 2011 - ac motors part
+                  3           
+                             
+                             
+                             
+                             
+                          june 2011 - ac motors part
+                  4
+
+july 2011 - ac motors part
+                  5           
+                             
+                             
+                             
+                             
+                          aug 2011 - ac motor torque
+
+sept 2011 - switched
+                  reluctance motors     
+                             
+                             
+                             
+                           oct 2011 - modeling &
+                  design software
+
+nov 2011 - suction
+                  specific speed revisited   
+                         
+                         
+                         
+                         
+                           dec 2011 - wastewater
+                  drawdown calculator
+
+jan 2012 - off bep energy
+                  calculator        
+                             
+                             
+                             
+                            feb 2012 - centrifugal
+                  pump efficiency part 1
+
+mar 2012 - centrifugal
+                  pump efficiency part 2     
+                             
+                             
+                              april 2012 - centrifugal
+                  pump efficiency part 3
+
+may 2012 - centrifugal
+                  pump efficiency part
+                  4                                         
+
+
+
+
+
+
+                june 2012 - centrifugal
+                  pump efficiency part 5
+
+july 2012 - centrifugal
+                  pump efficiency part 6     
+                             
+                             
+                              aug 2012 - bernoulli -
+                  part 1
+
+sept 2012 - bernoulli -
+                  part 2        
+                             
+                             
+                             
+                             
+                              oct 2012 - velocity head
+
+nov 2012 - affinity
+                  calculators        
+                             
+                             
+                             
+                             
+                           dec 2012 - learning
+
+jan 2013 - volts per hertz
+                  & vfd hp        
+                             
+                             
+                             
+                              feb 2013 - branch line
+                  pumping options part 1
+
+mar 2013 - branch line
+                  pumping options part 2     
+                             
+                             
+                              april 2013 - three false
+                  forces & one real force
+
+may 2013 - motor hp &
+                  torque versus vfd frequency  
+                         
+                         
+                         
+                      june 2013 - wye / delta
+                  part 1
+
+july 2013 - wye / delta
+                  part 2        
+                             
+                             
+                             
+                             
+                           aug 2013 - wye / delta
+                  part 3
+
+sept 2013 - breadth of
+                  efficiency        
+                             
+                             
+                             
+                             
+                      oct 2013 - dezincification
+
+nov 2013 - wastewater pump
+                  s values        
+                              
+                            
+                             
+                            dec 2013 - parallel
+                  analyzer
+
+ jan 2014 - hydraulic
+                  rams        
+                             
+                             
+                             
+                             
+                             
+                     feb 2014 - the cost of
+                  pumping
+
+   mar 2014 - ac motor
+                  efficiency        
+                             
+                             
+                             
+                             
+                         april 2014 - igor karassik 
+  
+may 2014 - submersible ww
+                  pump testing part 1     
+                             
+                             
+                           june 2014 - submersible ww
+                  pump testing part 2
+
+july 2014 - voltage
+                  variation & unbalance part 1  
+                             
+                             
+                              aug 2014 - voltage
+                  variation & unbalance part 2
+
+sept 2014 - power factor a
+                  tale of two currents part 1     
+                             
+                            oct 2014 - power factor a
+                  tale of two currents part 2
+
+nov 2014 - power factor a
+                  tale of two currents part 3     
+                             
+                             dec 2014 - goodbye!!
+
+return to categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                other publications -
+                  joe evans, ph.d
+
+                the work i did prior to 1986 was quite different than
+                what i do today.  i attended grad school (69 - 73)
+                during an interesting era.  the advent of the
+                minicomputer in the late 60's and early 70's allowed us
+                to accomplish things that were impossible for those
+                before us.  all of a sudden, data generated by
+                scientific instruments (especially the gas chromatograph
+                - mass spectrometer (gc-ms)) that used to take months to
+                analyze provided results within days.  back then
+                the typical minicomputer was the size of a filing
+                cabinet and had 2 - 4 k of memory.  data storage
+                was on paper tape or maybe mag tape if you were
+                lucky.  it was still the time of the slide rule and
+                analog recorders and just comparing the area under two
+                plotted curves could take hours.  much of our work
+                on instrument automation was sponsored by nasa and the
+                robert a welch foundation. we were also chosen as one of
+                the few labs to analyze the soil samples gathered by the
+                first nasa lunar lander project.
+
+                in 1973 i entered the army as captain and chief of the
+                air chemistry branch of the army environmental hygiene
+                agency.  this agency was the army's version of the
+                epa/nih and its research was designed to protect our
+                troops and reduce our impact on the environment. 
+                one of our major projects at the time was monitoring the
+                detoxification and disposal of our wwii nerve gas stock
+                pile at rocky mountain arsenal (which, by the way, was
+                stored for decades right at the end of the main runway
+                of the old denver airport).  during my stay i
+                continued my work on instrument automation and also the
+                miniaturization of those instruments for use in the
+                field.
+
+                after leaving the army in 1975 i joined finnigan
+                corporation, a major gc-ms developer and manufacturer of
+                the era.   i was in charge of the east coast
+                applications lab in washington dc and later moved into
+                the position of product manager.  by the mid 70's
+                the minicomputer had advanced substantially and this
+                technology gave us the ability analyze the data provided
+                by a gc-ms in real time - - not days.
+
+                in 1977 i made the decision to move to hawaii and,
+                except for the university of hawaii, there were no job
+                opportunities that could make use of my past
+                experience.  hawaii is a major union state and
+                unfortunately this spilled over to the university and i
+                doubted that i would fit in well in that
+                environment.  so, on a lark, i changed directions
+                and took a position with ibm.  oddly enough, my
+                minicomputer experience paid off and over the next five
+                years i worked in industrial automation as well as
+                distributed processing in the business community. 
+                one of our major accomplishments was the implementation
+                of a on line directory assistance system at hawaiian
+                telephone.  it was a distributed processing system
+                that consisted of three layers of minicomputers and
+                fixed head disk drives that could perform searches as
+                deep as nine levels of indent in seconds.  
+                the result was a directory assistance operator reduction
+                of about two thirds which the union, of course, did not
+                see this as a useful technological advance. 
+                although it was nowhere near the speed of google, it was
+                lightning fast for its day.
+
+                in 1983, the queen's medical center (hawaii's largest
+                healthcare organization) offered me the position of vp
+                of information services.  i learned early on that
+                accepting this job was a mistake as i was unaware of the
+                politics and in fighting that went on in these
+                "non-profit" organizations.  still, in less than
+                three years we were able to take them to the forefront
+                of the information age.  we were the first company
+                in hawaii to employ personal computers instead of dumb
+                terminals and we had our own "intranet" email system in
+                early '84.  unfortunately continuing confrontations
+                with the ceo (a psychiatrist who was having an affair
+                with the head of nursing who had a striking resembalance
+                to "miss piggy") led to my demise in late '85.
+
+                in 1986 i accidentally fell into the pump
+                industry.  and, as most of you know, once you are
+                in this industry it is hard to escape!  below are
+                several papers that i published or took part in prior to
+                that fall.
+
+
+                  isolation and partial characterization of supernatant
+                  and mitochondrial shrimp muscle malate dehydrogenases
+
+                this paper, published in comparative biochemistry &
+                physiology (pergamon press), was a result of the
+                research performed for my masters thesis.  it is
+                co-authored by my advisor and two of my
+                associates.  the work was sponsored by the national
+                institutes of health and the robert a welch foundation.
+
+                  program elal:  an interactive minicomputer based
+                  elemental analysis of low & medium resolution mass
+                  spectra
+
+                this paper, published in analytical chemistry (american
+                chemical society), was a result of some of my doctorial
+                research and follow on work done at the u.s. army
+                environmental hygene agency.  the program was the
+                first to computerize the manual elemental analysis
+                methods developed by dr. fred mclafferty at cornell
+                university.
+
+monitoring
+
+
+
+
+
+                  organic vapors
+
+                this paper, published in  environmental science
+                & technology (american chemical society), was a
+                result of my continuing work at the u.s. army
+                environmental hygene agency.  it discusses the
+                ongoing micro-computerization and miniaturization of
+                environmental monitoring instruments.  it was
+                co-authored by jim arnold of varian associates, a
+                physicist and major contributor to technology advances
+                in mass spectrometry and nuclear magnetic resonance
+                (nmr) spectrometry (now known as magnetic resonance
+                imaging (mri) due to our ignorance and fear of that
+                other "n" word).  the mass spectrometer described
+                in this paper was the predecessor of the one that was
+                aboard the mars lander.
+
+user
+                  written software extends the use of gc-ms data systems
+
+                published in finnigan spectra (finnigan corporation),
+                this article revisits the use of program elal and
+                introduces a new program known as finl (fragment ion and
+                neutral loss analysis).  finl automated another
+                manual elemental analysis methodology that was developed
+                by mclafferty at cornell university.
+
+info
+
+                in 1983 i left ibm and assumed the position of vp of
+                information services at the queen's medical center in
+                honolulu.  one of the first things that we did was
+                to initiate a news letter to keep the employees of our
+                almost 150 departments up to date on what we were
+                doing.  this is the first issue.
+
+the
+                  queen's medical center - - a royal link to the past
+                  and the future
+
+                in late '83 we entered into an agreement with management
+                science america (msa) to install their gl, ap, and
+                payroll/personnel systems and their "peachpak"
+                interactive pc products.  this article highlights
+                our accomplishments over a period of just one year.
+
+oa
+
+
+
+
+
+                  reigns supreme at queen's medical center
+
+                in 1985, "today's office" (hearst business publications)
+                selected queen's as one of the nation's leader's in
+                office automation and asked me to write an article
+                outlining what we had done to get there.  this was
+                my last non-pump article!
+
+return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                education links
+ 
+
+ 
+pump fundamentals - lots of good pump & pump system
+            info
+ 
+http://www.pumpfundamentals.com
+
+intro to pumps - basic pump
+                  training & weekly pump industry news
+http://www.introtopumps.com
+ 
+             freecalc.com - lots of good online calculators 
+
+http://www.freecalc.com
+
+      
+
+all about circuits - ac, dc, and much more
+http://www.allaboutcircuits.com/vol_2/index.html
+
+
+
+integrated publishing - electrical engineering training series
+
+http://www.tpub.com/content/neets/
+
+
+       
+
+the engineering tool box - pump information &
+                  calculators
+
+ 
+http://www.engineeringtoolbox.com/
+
+
+ light & matter - free physics text books
+ 
+http://www.lightandmatter.com/
+
+
+            pump school - a rotary
+            pump course
+ 
+ www.pumpschool.com/
+
+
+
+cheresources - chemical engineering resource
+ 
+http://www.cheresources.com/indexzz.shtml
+
+
+math and physics help - simplifying math
+            & physics by kenny felder
+
+www.ncsu.edu/felder-public/kenny/home.html
+
+
+ 
+  motion mountain- free physics text book
+ 
+   
+http://www.motionmountain.net/
+
+ 
+  applied flow technology - free pump system modeling software
+ 
+http://www.aft.com/products/psim.php
+
+
+ 
+
+
+ 
+university of michigan - pid tutorial
+http://www.engin.umich.edu/group/ctm/pid/pid.html
+
+
+ 
+ return
+to
+
+
+
+
+
+            titles
+ 
+
+
+
+  
+   
+  
+ 
+
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+pump calcs
+
+ 
+  
+ 
+pump calcs is a web site that offers a number of
+          very useful calculators and conversion utilities.  it is
+          sponsored by pumps & systems magazine.
+
+http://www.pumpcalcs.com
+
+ 
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+your hawaiian retreat
+
+ 
+  
+ 
+my nephew hugh and his wife
+                elvira own and operate a very different vacation rental
+                outside pahoa, on the big island of hawaii, just 25
+                miles north of the volcanos national park.  it
+                offers ocean views in a truly rual environment.  in
+                this area of the island, lava pools and black sand
+                beaches rim the coast but just a few yards inland it
+                becomes a beautiful forest.  they have several
+                different units that can accomodate from two to fifteen
+                people and will even provide three meals a day if you
+                wish.  the rates - - outrageously
+                inexpensive!  the picture below is of the ohana
+                house.  for more information and a tour of the
+                grounds, click on their web site link below.
+
+
+
+
+
+
+http://www.yourhawaiianretreat.org
+
+ 
+ return to titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+robert perez has worked in the petrochemical
+        industry
+        for 30 years.  he has written many papers on rotating
+        equipment and also taught the rotating equipment course
+        at texas a & m university.  his new book was written
+        specifically for those who are responsible for the
+        operation and maintenance of centrifugal pumps. click on
+        the link below to review the topics covered.
+
+http://www.noria.com/secure/product_detail.asp?catalogid=149
+you can also
+          purchase the book at amazon.com, barnes and noble, etc.,
+or contact mr. perez directly
+          at rxperez@pumpcalcs.com for quantity
+discount orders.
+
+
+
+
+return to
+                titles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pumptech, inc. newsletter - -
+                      pumptech pipeline
+
+in 2010, i
+                              began a quarterly newsletter for my
+                              employer pumptech.  pdf versions are
+                              available below.  in addition to
+                              featuring our products and packaged
+                              systems, it also has lots of pump related
+                              info.  if you use full screen mode in
+                              acrobat you can use the page links to move
+                              through the document.  if you would
+                              like to subscribe to the email version,
+                              click on the email link below and send us
+                              your name, company and preferred email
+                              address.
+
+                              check out pumptech at: http://www.pumptechnw.com 
+or
+
+
+
+
+
+                              sign up for the email newsletter at: 
+                              newsletter@pumptechnw.com
+
+spring
+
+
+
+
+
+                                2010      
+                                   summer
+
+
+
+
+
+                                2010      
+                                   fall 2010  
+                                 
+                                   winter 2011  
+                                   spring 2011   
+   
+
+
+
+
+
+                            summer 2011     
+  
+
+
+
+
+
+                            fall 2011    
+                                 winter 2012
+
+spring 2012   
+  
+
+
+
+
+
+                                summer 2012
+                              
+                               fall 2012  
+                                                    
+                                                   winter 2013    
+                                                   summer
+
+
+
+
+
+                                                  2013  
+                                                   winter
+(feb)
+
+
+
+
+
+                                                  2014 
+
+          winter (dec) 2014
+
+spring (may) 2016
+
+chick
+on
+
+
+
+
+
+                                          the links below to download
+                                          the brochures & data
+                                          sheets for several pumptech
+                                          packaged systems.
+
+irover  
+
+
+
+
+
+                                          wet
+well
+
+
+
+
+
+                                            retrofit   vacuum
+
+
+
+
+
+                                            assist   hydronix
+
+
+
+
+
+                                            brochure   meterman
+
+
+
+
+
+                                            brochure   polyman
+                                          
+
+
+return
+to
+
+
+
+
+
+                        titles
+                             
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ salinity llc - gourmet herb and spice infused finishing
+            salts handcrafted in southern oregon
+
+   
+my stepdaughter,
+            laine, and her friend jody own a very unique business down
+            in grants pass oregon.  they handcraft the most
+            delicious finishing salts that i have ever tasted. 
+            they combine the finest grey sea salt with organically grown
+            herbs and spices to create a unique end to any of your
+            favorite dishes.  the herbs and spices are all grown
+            locally with one exception.  the ginger comes from my
+            nephew hugh's organic ginger farm on the big island of
+            hawaii !  click on the link below to learn more and
+            order online.
+
+
+   
+
+
+
+
+
+                         
+                          
+
+
+http://www.salinitysalts.com
+
+ 
+ return to titles
+
+
+
+
+
+
+
+
+

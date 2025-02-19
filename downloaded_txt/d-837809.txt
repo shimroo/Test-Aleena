@@ -1,0 +1,228 @@
+
+deekoo.net
+
+
+
+  deekoo.net
+
+
+
+
+deekoo is a peripatetic and
+iconoclastic game programmer with a thing for tentacles and a deep and abiding
+mistrust of the creeping surveillance state.
+
+software i've written
+
+politics
+
+
+.
+
+
+
+
+august 8, 2014:
+
+
+
+
+how to clone and align a windows xp partition from a linux command line
+the problem: you have an xp filesystem that's almost full by now,
+between the need to keep around a pile of craptastic windows-only dev
+tools that you hate but might need to use someyear and the need to keep
+a copy of every game ever, plus scratch copies of the data for games you're
+actually working on.  so you get a terabyte on sale.  you've now got a
+blank big hard drive and an old windows drive.
+the maundering begins here.  if you just want to clone windows without
+the rant, skip to the 'end maundering' section.
+it's possible to just partition the new drive, dd the old partitions over,
+and hit them with ntfsresize to expand the filesystems to fill the new
+partitions.  the problem is that, for performance reasons, xp aligns 
+filesystems to start on a cylinder boundary.  this gives a major performance
+boost when you install xp on a drive that exposes its real chs geometry to
+the os, like exactly no drive still on the market when xp was released.
+if you've taken apart any recent drive, you'll have noticed that none
+of them actually have the 32 platters that a 63-head chs geometry implies.
+modern hard drives tend to have a 4k physical sector size.  (ssds have
+a much larger physical sector size for reasons - but they tend to be aligned
+to powers of 2, not powers of 512*63.)  and an assortment of random people
+on the internet say that an unaligned partition will have shitty performance
+on a newstyle drive, which seems credible to me.
+so after getting xp to boot on the new drive, i promptly turned around and
+tried to move the partitions to be properly aligned.  everyone says that xp
+boot partitions really don't like being moved, because they store a bunch
+of geometry information in the filesystem somewhere.  everyone is very, very
+right about this.  a few hours and a few permutations of parted, fdisk,
+ntfsresize, and ntfsreloc later, i'm actually beaten down enough to try
+a gui tool.
+gparted is recommended by a lot of people, but the fact that the
+documentation has been rendered unreadable by dodgy seo makes me less than
+comfortable using it.  so i take a look at the acronis alignment tool that
+everyone's recommending, because apparently western digital gave it away
+free to everyone - even non-wd customers - when they introduced 4k sector
+drives.
+western digital's site is a pain to navigate.  ooh, they have 6gb drives-
+but i shouldn't be distracted by big hard drives, i already have all the big
+hard drives i need.  the form to download acronis is broken - it asks a bunch
+of questions about the system i intend to use it on, then sends me to a page
+of search results instead of a download page.  blundering around their site
+further, i finally find an actual download link.  <clickety>.
+...  it's an exe file.  according to various peoples' instructions, i need
+to install it on a winbox to burn the iso to actually move the partitions.
+what?  this sounds dodgy, but i *suppose* actively distributing malware would
+do enough damage to wd's rep that they wouldn't...  so i recreate the unaligned
+clone of c i'd been using, boot the new drive into windows, click 'ok' to
+all the unsigned drivers it wants to install to access the drives that it's...
+er, already accessing, turn the network back on, download acronis from my
+real computer.  scan it for viruses.  nothing that $virusscanner recognizes,
+though that doesn't mean much.  run it.  read the eula.
+bluh bluh bluh legalese bluh bluh customer agrees to provide feedback to
+acronis about the operation of their tool bluh customer agrees that
+acronis may collect and transmit information in secret and without further
+notification (whaaat?  right, packet logger on, i want to see what
+secret information this thing is transmitting) bluh bluh commercially
+reasonable efforts to notify customer of changes in terms of service,
+but... (well, i can uninstall it when i'm done) bluh bluh
+several pages about backup services ... will not disclose information
+unless required by law or regulation or government request (so
+basically acronis can only turn over the information they collect to the
+nsa if the nsa asks them to.) also we can disclose any child
+porn (huh?  well, i don't have any child porn.) content must
+comply with us law, swiss law, and any other applicable law (... so
+no criticism of putin or erdogan or whoever your local authoritarians
+happen to be, check.  good thing i'm not under the jurisdiction of a country
+where it's illegal to criticize the leaders - oh wait, swiss lese majeste
+laws also protect foreign leaders.)
+so, by now i'm rather confused and uncomfortable about their eula - it's
+pretty clearly the eula for a private-sector panopticon thinly disguised as
+a cloud backup service, not a disk alignment tool.  did i download the wrong
+file or something?  (legal disclaimer: i'm
+summarizing the contract from memory.  there may be errors in my summary.
+don't rely on it.).  but i kind of want to see what this damn thing tries
+to upload, and i can uninstall it when it's done, so...  finishes skimming
+contract, clicks agree, waits...  slow install is slow.  slow install is
+still slow.  slow install wants to install a driver which has not passed whql
+testing for 'system device'.  what, no, no you cannot install fucking drivers,
+you're just there to save a fucking iso, cancel.
+installation fails.  apparently it really doesn't like not being allowed
+to muck with the kernel.  it saves an install log.  which locks up notepad.
+what the hell is this thing, anyhow?  a post-install spybot scan finds an
+ask.com toolbar - should check with the person who actually uses this machine
+to see if it's intentional or something acronis dropped.
+do further research.  find out that actually, everyone who said wd made the
+tool available free to everyone is full of shit (or, more charitably, perhaps
+it was available to everyone at the time the wrote it and now is only for wd
+customers.)  apparently the random search page was wd's user-friensdly way of
+saying 'you are not logged in.  you need to log in to download this.  you
+need the serial number from a western digital drive to log in.  also you
+need the serial number to be from a drive old enough that we think using
+xp on it is ok, not one of our new nas drives.'
+upon consideration of the wisdom of jumping through hoops to install
+unlicensed probable malware, i decide 'screw this, i'm going to try
+gparted.'
+so i install debian, flail about for a while with grub and parted and
+fdisj (because after enough flailing and argh, my typing kind of suffers)
+and ntfsreloc and ntfsresize, install gparted, start trying to move
+the partitions around.  resizing them doesn't make it clear whether they'll
+be aligned or not, and the fact that maxing out the size causes gparted to
+say i'm doing nothing at all makes me think it probably isn't actually
+going to align them.  maybe if i shrink the partition and move it to
+the end and then back to the beginning it will be properly aligned?
+dunno, may as well try.
+beginning read-only test, 2:30:14 remaining.
+...  screw this.  my flailing has left the new drive's partition
+arrangement a complete and unholy mess, with an sda5 that linux doesn't
+recognize, an out-of-order partition table (most of which is unaligned), no
+free space, and filesystems that have a good chance of still not booting
+even after i finish mucking with 'em.  hastur only knows what acronis
+has left on the drive.  screw this.  i'm going to delete all the partitions
+and start over.
+end maundering
+so, here's the actual fast instructions.
+make sure the new drive is the only one connected to the computer.
+boot from the debian netinst cd.  i used the standard (non-graphical)
+installer to create the partitions - which gave me properly sector-aligned
+partitions starting at 2048.  (the extended partition it created was unaligned,
+but the logical partitions within it were properly aligned - and it's only
+the logical partition alignment which matters performance-wise imo.)
+finished the install, making sure to disable the 'debian desktop' and
+'print server' options when selecting default package sets (no point
+downloading those for my purposes - the debian install on this box
+will be used for sysadminly tasks, not as a desktop.  if i need desktop
+stuff on it it'll probably all have updated _anyhow_.
+make sure you mark your c: partition bootable.  i don't remember when
+i did it or whether i used fdisk or the installer's friendly partitioner,
+but.
+boot debian on the new drive.  apt-get install ntfsprogs.  mkfs.ntfs
+on your shiny new ntfs partitions.  (note: by default, mkfs.ntfs will zero
+the entire partition.  you can use the -q option to skip that step if it's
+not needed.  i see reports that zeroing is needed if you're planning to
+install windows on the drive, as otherwise it may decide it needs reactivation
+or something.  it started to zero the c: drive but was taking too long,
+so i ^c'd it and tried again with -q.  the data drive wasn't zeroed at
+all.)
+plug the old drive back in.  make sure the computer will boot off the
+new drive, not the old one.
+boot debian.  mount your old windows partitions.  also mount your shiny
+new windows partitions.  this example assumes that the new c: drive is
+mounted on /c and the old one on /old-c/ .
+cp -a /old-c/* /c
+seriously that is it.  format the bootable ntfs partition under linux
+and cp everything onto it, and it will be bootable.
+repeat the cp for any other windows partitions you're copying over.
+umount them all.  shut down.  unplug the old drive.  boot debian.  run
+update-grub.  optionally, edit /boot/grub/grub.cfg so the default option
+is your xp install.
+the only weirdness i've noticed so far is that it opens the desktop.ini
+files from the startup items folders in notepad at boot.  depending on
+how you arranged the new partitions, there's a possibility you might wind
+up needing to manually reassign their drive letters.
+{ 0x0 comments | comment }
+
+
+may 4, 2013:
+
+
+
+
+the city lights twinkle underfoot
+wreathed in tendrils of mist
+and still further below
+dendritic inclusions of quartz
+arc piezoelectric discharges
+as, aeons-long slumber disrupted
+the mountains shift uneasily
+{ 0x1 comments | comment }
+
+
+november 21, 2012:
+
+
+
+
+i see time travellers, and they work in 'journalism'.
+bloomberg is happily running a puff
+piece under the headline "wal-mart shoppers seen overrunning black friday
+protesters" (never mind that the timestamp on the article is november 19th,
+and today is the 21st, and the protests they're talking about?  haven't
+happened yet, thanks.)
+...  i have to wonder how much of wal-mart's marketing budget goes to
+clandestine memetic manipulation - this isn't the first time i've noticed
+'news' coverage of them that reads like advertising content.
+meanwhile, from the other direction, docstoc sends the following gem:
+
+docstoc newsletter - november 20, 2012 - smb stat of the day
+61% of small business owners plan to vote for romney
+romney is favored by small business owners over president obama by a 35% margin.
+who will small business owners vote for in november?
+
+...  hmm.  i wonder who will win the election?  personally, my money's
+on dewey.
+{ 0x0 comments | comment }
+
+
+
+
+
+

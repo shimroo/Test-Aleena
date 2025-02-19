@@ -1,0 +1,1858 @@
+
+
+
+
+
+
+
+
+
+
+
+
+warp2search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+reviews
+
+archive
+
+community
+
+
+
+
+
+
+
+
+ login/register
+
+
+
+ search 
+
+
+
+
+
+
+
+ search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ home
+
+
+
+
+
+date: 2025-02-18 03:30 | last update: 2025-02-17 22:18
+
+
+
+
+
+
+software
+display driver uninstaller (ddu) 18.0.9.3
+published 2025-02-16 03:45 by kt
+                            
+                            
+ 0
+
+
+
+
+
+                            display driver uninstaller (ddu) is a freeware graphics driver removal tool that helps remove all remnants of amd, nvidia, and intel graphics card drivers. video tutorial available.
+                        
+
+
+
+
+
+software
+ez cd audio converter 12.0.3.1
+published 2025-02-15 19:45 by kt
+                            
+                            
+ 0
+
+
+
+
+
+                            ez cd audio converter is an all-in-one music converter that rips audio cds, converts audio files from one format to another, edits metadata of audio files.
+                        
+
+
+
+
+
+software
+winrar 7.10
+published 2025-02-17 09:00 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            winrar for windows and linux is an excellent program for opening, creating, extracting, or adding files to your zip and rar files.
+                        
+
+
+
+
+
+software
+imagine 1.8.1
+published 2025-02-15 08:54 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            imagine is a free image-animation viewer developed as an alternative to many other free popular viewers such as irfanview, xnview, or faststone image viewer.
+                        
+
+
+
+
+
+software
+start menu helper 1.2.1
+published 2025-02-16 03:36 by kt
+                            
+                            
+ 0
+
+
+
+
+
+                            start menu helper is an open source app to clean up your start menu now and in the future.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+wau manager 3.8.2.0
+published 2025-02-17 22:18 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            wau manager (windows automatic updates manager) is a free portable replacement for the default windows updating interface.
+                        
+
+
+
+
+
+
+
+
+software
+deansbury 1.05
+published 2025-02-17 22:00 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            deansbury is a comprehensive windows device tree viewer that provides you with the ability to explore and search the intricate structure of the windows device tree.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+whoisconnectedsniffer 1.30
+published 2025-02-17 22:00 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            whoisconnectedsniffer is a networking discovery tool that listens to network packets and accumulates a list of computers and devices currently connected to your network.
+                        
+
+
+
+
+
+
+
+
+software
+bisbee 1.04
+published 2025-02-17 22:00 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            bisbee is a helpful little battery monitoring tool that provides real-time updates on the battery charge levels of your wireless devices.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+onecommander 3.95.7.0
+published 2025-02-17 21:54 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            onecommander lets you access a highly advanced and sophisticated file management tool that offers a modern and intuitive user interface.
+                        
+
+
+
+
+
+
+
+
+software
+dark reader for chrome, firefox, edge, safari, and thunderbird 4.9.103
+published 2025-02-17 19:18 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            dark reader is a free extension for chrome, firefox, edge, safari, and thunderbird that will make surfing the web easier on the eyes through customizable dark themes.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+remote desktop manager 2024.3.29.0
+published 2025-02-17 19:09 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            remote desktop manager is designed for managing all of your remote connections - from adding and editing to organizing or finding a remote connection quickly.
+                        
+
+
+
+
+
+
+
+
+software
+mozilla firefox 136.0 beta 7
+published 2025-02-17 19:00 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            mozilla firefox beta is a fast, free, open source web browser that provides a highly customizable interface with numerous third-party add-ons and multiple mozilla-authored add-ons. firefox stable/final is also available.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+tessabyte throughput test 2.0 build 52 beta
+published 2025-02-17 19:00 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            tessabyte throughput test is specifically designed to evaluate the performance of both wired and wireless networks. this tool provides insights into your network's capabilities, helping you identify any potential issues or areas for improvement.
+                        
+
+
+
+
+
+
+
+
+software
+multialarm 1.4.0
+published 2025-02-17 18:27 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            multialarm is a versatile application that enables users to set multiple timers and clock alarms. it features convenient systray and desktop notification widgets, ensuring you never miss an important reminder or scheduled event.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+pdflip 1.2
+published 2025-02-17 18:09 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            pdflip enables you to transform pdfs into visually appealing digital flipbooks. with this platform, you can design and customize flipbooks to enhance your documents, making them more engaging and interactive.
+                        
+
+
+
+
+
+
+
+
+software
+snort 3.7.0.0 / 2.9.20
+published 2025-02-17 17:54 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            snort is an open source network intrusion prevention system capable of performing real-time traffic analysis and packet logging on ip networks.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+don't sleep 9.71
+published 2025-02-17 17:27 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            don't sleep is a free portable app used to prevent system shutdown, standby, hibernate, turn off, and restart.
+                        
+
+
+
+
+
+
+
+
+software
+memorycleaner 1.8.0
+published 2025-02-17 17:18 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            memorycleaner is a straightforward tool to help your machine's memory with a single click.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+winmute 2.5.2.0
+published 2025-02-17 16:45 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            winmute is an open source utility for auto-muting your pc's volume when running the lock screen or screensaver.
+                        
+
+
+
+
+
+
+
+
+security
+malwarebytes browser guard for chrome and firefox 3.0.12
+published 2025-02-17 16:36 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            malwarebytes browser guard for chrome and firefox is a free extension designed to bring the protection of malwarebytes direct to your browser.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+passy 1.9.0
+published 2025-02-17 15:54 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            passy provides you with an offline password manager that is easy to set up and use.
+                        
+
+
+
+
+
+
+
+
+software
+privacyroot secure delete 207
+published 2025-02-17 15:36 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            privacyroot secure delete lets you securely erase files and folders permanently from your machine without going to the recycle bin.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+win debloat tools 2025-02-17
+published 2025-02-17 15:09 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            win debloat tools provides a collection of scripts for debloating, customizing/improving privacy/performance, and overall windows system responsiveness.
+                        
+
+
+
+
+
+
+
+
+software
+duckduckgo browser 5.226.0
+published 2025-02-17 14:54 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            duckduckgo browser offers seamless protections from third-party trackers while you search and browse and even access tracking protections when receiving email. currently available for android with windows and macos versions in development. duckduckgo is also available for chrome/firefox/edge/opera and windows 10/11/mac.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+duckduckgo for windows and mac 0.99.5.0
+published 2025-02-17 14:54 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            if you're looking for privacy protection on your windows device, duckduckgo for windows and mac has got you covered. with features like private search, tracker blocking, and site encryption, you can browse the web with ease and confidence. duckduckgo is also available for chrome/firefox/edge/opera and android.
+                        
+
+
+
+
+
+
+
+
+software
+mirillis action! 4.44.1
+published 2025-02-17 14:54 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            mirillis action! allows you to record and stream real-time video and more right from your desktop in hd - perfect for recording and streaming gameplay or making tutorial videos.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+metamask 12.12.0
+published 2025-02-17 14:27 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            metamask is designed to create a seamless environment for interaction with blockchain applications and cryptocurrencies.
+                        
+
+
+
+
+
+
+
+
+software
+fhash 3.11.6 / 2.4.0
+published 2025-02-17 14:18 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            fhash is a portable multi-platform hash calculator.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+homebrew 4.4.21
+published 2025-02-17 14:18 by jon ben-mayor
+                            
+                            
+ 0
+
+
+
+
+
+                            homebrew is a package manager that installs the stuff you need that apple or linux didn’t.
+                        
+
+
+
+
+
+
+
+
+software
+evernote 10.127.4
+published 2025-02-17 14:00 by admin
+                            
+                            
+ 0
+
+
+
+
+
+                            evernote is a note management application that offers you a single place for the organization, easy input and quick retrieval of all types of notes and clippings.
+                        
+
+
+
+
+
+
+
+
+
+
+
+security
+trellix stinger (formerly mcafee stinger) 13.0.0.292
+published 2025-02-17 13:54 by kt
+                            
+                            
+ 0
+
+
+
+
+
+                            trellix stinger (formerly mcafee stinger) detects and removes specific viruses. video tutorial and portable version available.
+                        
+
+
+
+
+
+
+
+
+software
+manager desktop edition 25.2.17.2099
+published 2025-02-17 13:36 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            manager desktop edition is a free accounting software app for small business.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+calendartask (formerly desktopcal desktop calendar) 3.21.223.6991
+published 2025-02-17 13:36 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            calendartask (formerly desktopcal desktop calendar) helps you manage appointments, to-do lists, schedules, and more without blocking access to your desktop icons.
+                        
+
+
+
+
+
+
+
+
+security
+eset sysinspector 2.0.17.0
+published 2025-02-17 13:27 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            eset sysinspector allows you to monitor your details about your os such as processes, startup items, registry content and network connections.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+postman 11.33.0
+published 2025-02-17 13:09 by admin
+                            
+                            
+ 0
+
+
+
+
+
+                            postman is a comprehensive app that allows you to design, test and document apis.
+                        
+
+
+
+
+
+
+
+
+software
+mariadb 11.7.2 and mariadb 11.8.1 released
+published 2025-02-17 12:45 by alien
+                            
+                            
+ 0
+
+
+
+
+
+                            a new software update is available: mariadb 11.7.2 and mariadb 11.8.1 released
+                        
+
+
+
+
+
+
+
+
+
+
+
+linux
+linux kernel 6.13.3 released
+published 2025-02-17 12:10 by alien
+                            
+                            
+ 0
+
+
+
+
+
+                            a new linux article has been published: linux kernel 6.13.3 released
+                        
+
+
+
+
+
+
+
+
+linux
+linux kernel 6.12.14 released
+published 2025-02-17 12:10 by alien
+                            
+                            
+ 0
+
+
+
+
+
+                            a new linux article has been published: linux kernel 6.12.14 released
+                        
+
+
+
+
+
+
+
+
+
+
+
+linux
+linux kernel 6.6.78 released
+published 2025-02-17 12:10 by alien
+                            
+                            
+ 0
+
+
+
+
+
+                            a new linux article has been published: linux kernel 6.6.78 released
+                        
+
+
+
+
+
+
+
+
+software
+image tuner 10
+published 2025-02-17 12:09 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            image tuner is a program for batch resizing, converting, watermarking, and renaming your digital photos/images from/to jpeg, bmp, png, tiff, and gif formats.
+                        
+
+
+
+
+
+
+
+
+
+
+
+software
+xtratools 25.2.1
+published 2025-02-17 12:09 by admin
+                            
+                            
+ 0
+
+
+
+
+
+                            xtratools is an all-in-one system optimization tool that optimizes the registry, removes unnecessary programs, tweaks network connections, and boosts ram speed.
+                        
+
+
+
+
+
+
+
+
+mobile
+tubebuddy for chrome, edge, opera, and android 2.1.1769
+published 2025-02-17 12:09 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            tubebuddy for chrome, firefox, edge, opera, and android provides youtube creators with straightforward optimization and channel management.
+                        
+
+
+
+
+
+
+
+
+
+
+
+security
+atlantis word processor lite 4.4.4.2
+published 2025-02-17 09:00 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            atlantis word processor lite is a powerful, fast-loading companion for all your word processing tasks.
+                        
+
+
+
+
+
+
+
+
+software
+winrar 7.10
+published 2025-02-17 09:00 by timothy tibbetts
+                            
+                            
+ 0
+
+
+
+
+
+                            winrar for windows and linux is an excellent program for opening, creating, extracting, or adding files to your zip and rar files.
+                        
+
+
+
+
+
+
+02-17 08:18
+refined github for chrome, firefox, and edge 25.2.27
+
+
+ 0
+
+
+
+
+
+
+02-17 08:18
+psiphon 185.20250217
+
+
+ 0
+
+
+
+
+
+
+02-17 08:10
+flowblade 2.18.1 released
+
+
+ 0
+
+
+
+
+
+
+02-17 07:36
+digital clock 5.1.1
+
+
+ 0
+
+
+
+
+
+
+02-17 07:27
+winger for firefox 2.9.0
+
+
+ 0
+
+
+
+
+
+
+02-17 07:27
+explzh 9.65
+
+
+ 0
+
+
+
+
+
+
+02-17 07:27
+similarimagesfinder 1.020
+
+
+ 0
+
+
+
+
+
+
+02-17 07:27
+avira password manager for chrome, firefox, edge, opera, and android 2.21.0.4995
+
+
+ 0
+
+
+
+
+
+
+02-17 07:27
+jellyfin 10.10.6
+
+
+ 0
+
+
+
+
+
+
+02-17 06:50
+asus proart pa27jcv review and more
+
+
+ 0
+
+
+
+
+
+
+02-17 06:30
+linux kernel 6.14-rc3 released
+
+
+ 0
+
+
+
+
+
+
+02-17 06:25
+unigetui 3.1.7 beta 1 released
+
+
+ 0
+
+
+
+
+
+
+02-17 06:25
+nanazip 5.0 update 2 (5.0.1263.0) released
+
+
+ 0
+
+
+
+
+
+
+02-17 06:20
+libxml2, ipa, idm updates for rhel
+
+
+ 0
+
+
+
+
+
+
+02-17 01:00
+vim 9.1.1117
+
+
+ 0
+
+
+
+
+
+
+02-17 00:27
+qownnotes 25.2.7
+
+
+ 0
+
+
+
+
+
+
+02-17 00:18
+windowtop 5.26.6
+
+
+ 0
+
+
+
+
+
+
+02-17 00:18
+calcpad 7.1.9
+
+
+ 0
+
+
+
+
+
+
+02-17 00:18
+dbeaver 24.3.5
+
+
+ 0
+
+
+
+
+
+
+02-17 00:09
+get my ip 0.14.0
+
+
+ 0
+
+
+
+
+
+
+02-16 20:18
+exportizer 10.0.4.340
+
+
+ 0
+
+
+
+
+
+
+02-16 20:18
+windowmanager 10.21.6
+
+
+ 0
+
+
+
+
+
+
+02-16 20:18
+vovsoft contact manager 1.9
+
+
+ 0
+
+
+
+
+
+
+02-16 20:18
+argus monitor 7.2.1.3003
+
+
+ 0
+
+
+
+
+
+
+02-16 20:09
+xyplorer 26.90.000
+
+
+ 0
+
+
+
+
+
+
+02-16 17:54
+stats 2.11.31
+
+
+ 0
+
+
+
+
+
+
+02-16 17:36
+whatsapp 2.2506.4.0
+
+
+ 0
+
+
+
+
+
+
+02-16 17:27
+quickimagecomment 64-bit 4.65
+
+
+ 0
+
+
+
+
+
+
+02-16 17:27
+zhpdiag 2025.2.16.3
+
+
+ 0
+
+
+
+
+
+
+02-16 17:18
+screentemperature 1.0.1
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+endorfy fortis 5 black argb cpu cooler review and more
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+asus rog strix xg27acdng 360 hz oled gaming monitor review and more
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+chromium and microcode_ctl updates for fedora
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+ruby3.4-rubygem-rack and libecpg6 updates for suse
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+freerdp2, trafficserver, tryton-client updates for debian 11 lts
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+fort firewall 3.16.2 released
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+darktable 5.1 nightly build 20250216 released
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+linux security roundup for week 7, 2025
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+fedora linux 41-20250214 updated isos released
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+windows server 2025 ltsc preview build 26360 released
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+rtx 5080 roundup: msi, gigabyte, and palit and more
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+gnome 48.beta released
+
+
+ 0
+
+
+
+
+
+
+02-16 16:10
+gnome 47.4 released
+
+
+ 0
+
+
+
+
+
+
+02-16 13:54
+robotask lite 10.3 pro / 9.8.0
+
+
+ 0
+
+
+
+
+
+
+02-16 13:36
+weatherly for chrome 2.7
+
+
+ 0
+
+
+
+
+
+
+02-16 13:27
+zhpcleaner 2025.2.16.3
+
+
+ 0
+
+
+
+
+
+
+02-16 13:27
+winsnap 6.2.1
+
+
+ 0
+
+
+
+
+
+
+02-16 13:27
+find.same.images.ok 5.71
+
+
+ 0
+
+
+
+
+
+
+02-16 12:27
+picview 3.0.2
+
+
+ 0
+
+
+
+
+
+
+02-16 08:18
+special k 25.2.15.0
+
+
+ 0
+
+
+
+
+
+
+02-16 08:18
+balabolka 2.15.0.888
+
+
+ 0
+
+
+
+
+
+
+02-16 08:09
+lenovo vantage 10.2501.20
+
+
+ 0
+
+
+
+
+
+
+02-16 03:45
+display driver uninstaller (ddu) 18.0.9.3
+
+
+ 0
+
+
+
+
+
+
+02-16 03:36
+start menu helper 1.2.1
+
+
+ 0
+
+
+
+
+
+
+02-16 03:36
+beaver notes 3.9.0
+
+
+ 0
+
+
+
+
+
+
+02-16 03:36
+cpufrequenz 4.39
+
+
+ 0
+
+
+
+
+
+
+02-16 03:36
+web translate 5.9
+
+
+ 0
+
+
+
+
+
+
+02-16 03:27
+clippy 1.4.1
+
+
+ 0
+
+
+
+
+
+
+02-16 03:27
+remount 2.3.2
+
+
+ 0
+
+
+
+
+
+
+02-16 03:27
+todolist 9.0.7
+
+
+ 0
+
+
+
+
+
+[ archive ]
+
+
+
+
+
+latest news
+
+
+
+
+
+software
+
+wau manager 3.8.2.0
+2025-02-17 22:18 by timothy tibbetts
+
+
+
+
+software
+
+deansbury 1.05
+2025-02-17 22:00 by jon ben-mayor
+
+
+
+
+software
+
+whoisconnectedsnif-fer 1.30
+2025-02-17 22:00 by jon ben-mayor
+
+
+
+
+software
+
+bisbee 1.04
+2025-02-17 22:00 by jon ben-mayor
+
+
+
+
+software
+
+onecommander 3.95.7.0
+2025-02-17 21:54 by jon ben-mayor
+
+
+
+
+
+
+advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+imprint 
+terms of service 
+privacy policy 
+rss 
+atom
+
+copyright ©2001-2025 warp2search.netpowered by contentteller® cms system
+
+
+
+
+
+
+
+
+

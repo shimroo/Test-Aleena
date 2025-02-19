@@ -1,0 +1,134 @@
+
+
+
+
+déjà vu
+
+
+
+
+
+
+
+
+
+
+
+home  •  
+                support  •  
+                store  •  
+                
+contact    
+			
+
+
+
+
+
+
+
+
+
+déjà vu
+effortless backupssince 2002
+you have better
+things to do.
+
+
+
+
+
+
+
+
+
+free trial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+déjà vu 5.5.2 (mojave, high sierra) — learn more
+
+
+
+*catalina: déjà vu is not compatible with macos catalina.we are working on it.
+
+
+
+
+about déjà vu
+
+					déjà vu offers an intuitive, transparent, and reliable way to back up your data. it's a preference pane that lives in your system preferences, and it allows you to schedule unattended backups of important folders, or even your entire system.
+					
+with déjà vu, you can:
+
+
+make a full, bootable copy (or "clone") of your disk. if anything should ever happen to your mac's hard drive, you can start up from the clone and be back up and running in almost no time.
+
+
+back up any number of individual folders separately. perhaps you only want to back up your home folder or your documents folder on a daily basis, while making a full backup of your hard drive on a weekly basis. déjà vu gives you just this kind of flexibility.
+
+
+archive changed and deleted files using "safety net". you can keep as many of these archives as you like, thereby allowing you to go back and retrieve a document as it existed, say, three days or three weeks ago.
+
+
+perform backups manually at the click of a button, or schedule them to run whenever it's convenient for you. backups may be scheduled to run every hour, every few hours, or on a daily, weekly, or monthly basis, and may be performed even when you aren't logged in.
+
+
+save time by backing up only the files that have changed since the last backup. after déjà vu performs your initial backup, only files which are new or which have been changed will be copied during subsequent backups.
+
+
+perform backups over a network. déjà vu can even automatically connect to remote servers at backup time.
+
+
+mirror the contents of folders. files which have been deleted from the source folder can optionally be deleted from the destination folder as well.
+
+
+keep your system in good health by automatically repairing your disk and/or checking its s.m.a.r.t. status before backing up.
+
+					déjà vu has been localized for english, french, german, italian, dutch, swedish, japanese, traditional chinese, ukrainian, finnish, and russian.
+					let déjà vu take care of backing up your files. you have better things to do with your time.
+					
+
+
+
+reviews:
+
+
+
+...visually clean, easy to configure, and automatic... this is what apple's backup solution should have been.
+
+does what it says close to perfection... unfortunately no six star rating is available.
+
+one of the best backup tools i've seen anywhere. it's lean, mean and fast...
+
+...the best support i have had from any product.
+
+
+
+
+
+copyright © 2002-2019 propaganda productions. all rights reserved.
+
+

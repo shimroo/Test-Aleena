@@ -1,0 +1,673 @@
+
+
+
+
+university information technology - the university of utah
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+skip to content
+
+
+
+ 
+
+
+
+
+
+search site:
+
+
+
+powered by
+
+
+
+
+
+
+search campus:
+
+
+
+powered by
+
+
+
+
+
+
+
+
+
+search campus
+
+
+
+
+
+
+
+
+
+
+university of utah covid-19 updates
+
+ the university of utah 
+
+
+university information technology (uit)
+
+
+
+
+
+services
+service catalog
+box
+cis
+google workspace
+microsoft 365 (umail)
+service quick links
+
+
+strategic plans
+governance
+overview
+committees
+
+
+cio office
+about the cio
+uit leadership
+support staff
+
+
+departments
+about
+about
+org charts
+job openings
+job openings
+student program
+
+
+it policies
+committees
+it organization memberships
+
+
+node 4
+
+
+
+searchreveal menu
+
+
+
+
+
+reveal menu
+main navigation
+
+
+
+
+main menu
+home
+services
+service catalog
+box
+cis
+google workspace
+microsoft 365 (umail)
+service quick links
+
+
+strategic plans
+governance
+overview
+committees
+
+
+cio office
+about the cio
+uit leadership
+support staff
+
+
+departments
+about
+about
+org charts
+job openings
+job openings
+student program
+
+
+it policies
+committees
+it organization memberships
+
+
+node 4
+subscribe to uit news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+university information technology
+
+
+
+
+
+
+
+it service catalog
+virtual machine
+firewall change
+network port activation
+pinnacle billing inquiries
+shared email resources
+telephone add request
+telephone change/move request
+more servicescustomer survey
+
+
+
+
+
+
+get help from experts
+submit a help ticket (login required)
+call the uit help desk 801-581-4000 or 833-981-0049 toll-free from asia campus
+email helpdesk@utah.eduvisit the help desk website
+search it support resources knowledge base service catalog  
+
+
+
+
+
+
+
+top support topics
+duo two-factor authentication (2fa): overview
+wired and wireless (wi-fi) networks
+using a vpn to remotely access the u network
+about umail
+leaving the u: what happens to your it accounts and resources
+more top topics
+
+
+
+
+
+
+system outage?
+check system status
+u of u it servicesstatus:    operational
+
+
+
+iconplanned downtime
+
+iconplanned changes
+iconreport a problem
+
+
+
+
+
+
+
+
+
+
+
+
+
+recent news  more uit info resourcessubscribe to uit news
+
+
+
+
+
+
+search tool helps faculty learn more about classroom tech
+a classroom search tool launched at the beginning of spring semester for digital learning
+                                    technologies is designed to help faculty familiarize themselves with the audiovisual
+                                    capabilities and space attributes of 188 classrooms on main campus.
+
+
+
+
+
+
+
+data privacy week: web browser privacy review
+when selecting a browser, consider the privacy protections it offers, update the default
+                                    settings, and limit the information you share online.
+
+
+
+
+
+
+
+meet your colleagues: dlt learning experience team
+
+based out of kahlert village, adobe creative consultants for digital learning technologies’
+                                       learning experience team specialize in providing students and faculty with general
+                                       and application-specific adobe software support.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it guides and resources
+
+
+
+
+
+icon
+new student it guide
+
+
+
+
+
+
+  
+                                 icon
+new faculty it guide
+
+
+
+
+
+
+  
+                                 icon
+new staff it guide
+
+
+
+
+
+
+  
+                                 icon
+new it staff guide
+
+
+
+
+
+
+
+umail
+
+
+
+
+
+
+icon
+box
+
+
+
+
+
+
+
+cis
+
+
+
+
+
+
+
+canvas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information security office
+iso news and information, cybersecurity resources and training, incident management, identity and access management, and risk assessment
+                                    services.
+visit iso website
+
+
+
+
+
+
+
+
+core infrastructure services
+core infrastructure services news and information about campus and u of u health wired
+                                    and wireless networks, firewalls, load balancing, vpn services, and more.
+visit core infrastructure services website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+node 4: news from around uit
+our monthly newsletter includes:
+
+news from uit and other campus/university of utah health it organizations
+features about uit employees
+it governance news
+various announcements and updates
+
+it’s available online or by subscribing to our email newsletter.
+read node 4 online subscribe to node 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+events
+view all events
+
+
+
+
+
+feb 18
+
+
+tuesday 12pm - 12:20pm
+tech tips tuesday
+zoom
+
+
+
+
+
+
+feb 19
+
+
+wednesday 11am - 1:30pm
+macadmins group
+
+
+
+
+
+
+
+feb 19
+
+
+wednesday 11am - 1pm
+headshot wednesday
+marriott library - j. willard (m lib)
+
+
+
+
+
+
+feb 19
+
+
+wednesday 1pm - 3pm
+idea colab
+marriott library - j. willard (m lib)
+
+
+
+
+
+
+feb 20
+
+
+thursday 2pm - 2:30pm
+bits & bytes forum: topic a
+
+
+
+
+
+
+
+
+
+
+announcements
+archive of it announcements sent to uit news service subscribers (login required).
+access announcements
+
+
+job openings
+
+university information technology (uit)
+university of utah health it (its)
+
+access job openings
+
+
+uit service guide
+the uit service guide highlights uit services and resources, as well as how we support
+                              our partners.
+download the guide
+
+
+uit news
+
+node 4 newsletters
+software announcements
+planned downtime notices
+it security alerts
+
+subscribe to uit news
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+featured articles
+it leadership spotlight: clint criddle, manager, it enterprise architecture
+web support & usability honors slain student employee 
+it governance roundup
+kudos & congratulations
+photos: 2024 uit holiday party
+ciso corey roach honored during retirement reception
+dcio fall events feature pirates, halloween contests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+university information technology
+
+
+the university of utah102 s 200 e ste. 110salt lake city, ut 84111801-581-4000
+
+
+
+stay in touch
+
+
+find us
+contact us
+webmaster
+
+
+
+quick links
+
+
+a-z index
+campus directory
+campus map
+shuttle tracker 
+cis
+umail
+@ the u
+
+
+
+
+
+
+
+
+© 2025 the university of utah
+
+indigenous land acknowledgment
+nondiscrimination & accessibility
+disclaimer
+privacy
+credits & attributions
+media contacts
+
+
+
+
+
+
+x
+facebook
+instagram
+youtube
+
+
+
+
+
+
+
+
+
+
+
+
+
+last updated: 2/13/25
+
+

@@ -1,0 +1,267 @@
+
+
+
+my ipod blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	my ipod blog
+	
+  
+...my ipod blog reborn.  all things ipod-related blogged from my 12-inch, with attention paid to the slightly odd members of the ipod family, like the 15gb ipod, the ipod mini, and older ipods...
+links:
+
+obsessable
+apple ipod touch
+apple ipod
+apple ipod classic
+apple ipod nano
+apple ipod shuffle
+apple iphone 3g
+apple iphone
+super eco
+
+
+
+contributors
+
+unknown
+c.k.
+
+
+
+
+
+technorati profile
+previous posts
+
+ipod information over at obsessable
+thoughts on the convenience of the new ipod shuffle
+entertaining list of uses for your ipod
+ipod shuffle tip caveat
+my podcasting story: getting started as a listener...
+nonviolent ipod shuffle disassembly
+attention nyc muggers looking to lift an ipod
+macdevcenter on ipod shuffle
+machined aluminum hard case for ipod shuffle
+plantronics headset connects ipod and cell
+
+archives
+
+01/01/2004 - 02/01/2004
+02/01/2004 - 03/01/2004
+03/01/2004 - 04/01/2004
+04/01/2004 - 05/01/2004
+05/01/2004 - 06/01/2004
+06/01/2004 - 07/01/2004
+07/01/2004 - 08/01/2004
+08/01/2004 - 09/01/2004
+09/01/2004 - 10/01/2004
+10/01/2004 - 11/01/2004
+12/01/2004 - 01/01/2005
+01/01/2005 - 02/01/2005
+02/01/2005 - 03/01/2005
+03/01/2005 - 04/01/2005
+11/01/2005 - 12/01/2005
+02/01/2006 - 03/01/2006
+09/01/2006 - 10/01/2006
+02/01/2009 - 03/01/2009
+
+
+
+
+
+
+
+thursday, february 05, 2009
+
+
+
+
+	 ipod information over at obsessable
+	 
+
+
+
+obsessable has a good list of pages about the different ipod models and the iphone:obsessableapple ipod touchapple ipodapple ipod classicapple ipod nanoapple ipod shuffleapple iphone 3gapple iphonelabels: iphone, iphone 3g, ipod, ipod classic, ipod nano, ipod shuffle, ipod touch, obsessable
+
+
+
+posted by c.k. @ 2/05/2009 01:49:00 pm 
+
+       
+
+    
+
+
+
+
+friday, september 22, 2006
+
+
+
+
+	 thoughts on the convenience of the new ipod shuffle
+	 
+
+
+
+      the super-small footprint, integrated clip, and anodized aluminum casing make the new ipod shuffle hott (that's with two 't's). however, the new  suffle dock leaves something to be desired.it's included, which is nice, but it's required, which is not. i'd like to get a macbook in the near future, so my computing will become mobile. that means if i want to sync a new shuffle, i'll have to connect the usb dock before dropping the shuffle in the dock--with the older shuffle, you could just slap that sucker into a usb port. of course, if you have a desktop, like i currently do, it's no big thing; a dock might even be nice; indeed, i spent $30 to buy the old shuffle dock so i could stop having to reach around the back of my mac and find a usb port.a more glaring flaw is with the shuffle's ability to store files. if you want to use the new suffle as a usb drive, you'll now have to cart around the dock, too, to connect to other systems. that's a serious drop in usefullness. of course, i don't use my current old shuffle as a usb drive because doing so causes a major loss of stability (i'd have to do a system restore almost weekly when it started locking up).one of the major selling points of ipods is their ease of use. other mp3 players i've owned have been a real hassle to use. these little issues are only slightly nagging, but still, that's a step backwards for apple.xposted on hipsmart
+
+
+
+posted by unknown @ 9/22/2006 11:20:00 am 
+
+       
+
+    
+
+
+
+
+friday, february 03, 2006
+
+
+
+	 
+	 entertaining list of uses for your ipod
+	 
+    
+
+
+ipod youpod wepod is a nice-looking clearinghouse of entertaining and frivolous uses for your ipod, such as a toilet dock or an antique stereoscopic viewer retrofitted to hold two color ipods.crossposted to hipsmart.
+    
+
+
+posted by unknown @ 2/03/2006 11:53:00 am 
+
+       
+
+    
+
+
+
+
+friday, november 18, 2005
+
+
+
+	 
+	 ipod shuffle tip caveat
+	 
+    
+
+
+      okay, so this comment is eight months after the op ("ipod shuffle tip" by jason). if you follow the recommendation to downsample your files on-the-fly while tranferring them to your ipod shuffle, expect to chew up a lot of processor time. if you happen to have a 350mhz g3, don't even bother--it'll take hours and freeze up your mac.
+    
+
+
+posted by unknown @ 11/18/2005 01:31:00 pm 
+
+       
+
+    
+
+
+
+
+thursday, march 03, 2005
+
+
+
+	 
+	 my podcasting story: getting started as a listener, applications for jaguar
+	 
+    
+
+
+the latest issue of wired, with a special section of the future of radio, finally piqued my interest in podcasting enough to give it a go (at least as a listener). one of my favorite sites, boardgamegeek has been offering an almost-weekly podcast for the last six months, and i decided that my recent aquisition of an ipod shuffle deserved some indie talk radio to fill it.unfortunately, in the past few weeks, i've discovered that all of the mac applications listed at ipodder.org (the definitive starting place for podcasts) require mac os x 10.3 to run. even if they don't list system requirements, all of the freeware and commercial software, including the natural choice of ipodder itself, either crash when you run them or simply fail to install.the solution? well, what i've found to be the best rss aggregator out there, netnewswire from ranchero software, has released a new beta of version 2.0, which includes support for downloading enclosures, and it runs great on my os x 10.2.8 system. after subscribing to a few podcast feeds (i chose the above mentioned boardgamegeek feed, adam curry's daily source code, and the laporte report), i let netnewswire do its thing--it downloaded a few recent mp3s of shows, created playlists in itunes for them, and transferred them into itunes (in the nnw preferences, i had all the mp3s put into playlists named after their feeds, and set the genre field on all of them to "podcast"). i created a smart playlist to dig out all files with the podcast genre with a playcount of 0--that way, i have a list of the ones i haven't yet heard, ready to drag onto the shuffle, and netnewswire will happily chug along in the background looking for new episodes. i chose the playcount restriction because the ipod shuffle updates the playcount without updating the last played field.if i had a different ipod, i could choose to have my smart playlist automatically synced whenever i plug the sucker in, but not so with the shuffle. as is, i have to add them manually, and then use autofill to fill up the rest of the space with random songs.the only problem at the moment is that my ipod shuffle doesn't seem to be updating the playcount field. i'm guessing this is because all i've tested so far are episodes of boardgamegeek, which average over an hour long each--i can't listen to one in full in one sitting. perhaps the shuffle isn't updating the playcount because i'm often shutting it off in mid-episode, and resuming later. do i have to listen to an entire show without turning the shuffle off to get a playcount update? stay tuned for further testing: the adam curry and leo laporte episodes are considerably shorter.
+
+
+
+posted by unknown @ 3/03/2005 10:44:00 am 
+
+       
+
+    
+
+
+
+
+wednesday, march 02, 2005
+
+
+
+	 
+	 nonviolent ipod shuffle disassembly
+	 
+    
+
+
+      check out this post over at hack a day:we mentioned earlier that someone posted photos of an ipod shuffle disassembly.  the previous disassembly left a few key questions unanswered, namely:do you need to butcher the buttons to take your shuffle apart?will the average joe be able to replace the battery?what else is under the hood?can it be cleanly reassembled?this howto will attempt to answer these questions while disassembling the shuffle in a non-destructive manner.pretty cool and with pictures.*x-posted on sample the web
+
+
+
+posted by c.k. @ 3/02/2005 01:48:00 pm 
+
+       
+
+    
+
+
+
+
+thursday, february 17, 2005
+
+
+
+	 
+	 attention nyc muggers looking to lift an ipod
+	 
+    
+
+
+      just thought the criminals among you might like to know that someone has made a convenient map for you:invasion of the ipod listeners—tuaw: khoi winh, a resident of new york city, has noticed the same phenomenon in his fair city and unlike me he did something about it. he printed out a map of his walk from his home to work and marked the map with a red dot each time he saw an ipod listener. a little over 13 blocks later he saw 32 ipods. not too shabby.32 opportunities to swipe an ipod conveniently on your way home! and two of the largest clusters are right around union square and madison square park, so  you can easily get bonus points for rolling one of the rummies passed out on the park benches!(for some reason, this was the first thing that popped in my head when i read this story. thought i'd share...)
+    
+
+
+posted by c.k. @ 2/17/2005 06:54:00 am 
+
+       
+
+    
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

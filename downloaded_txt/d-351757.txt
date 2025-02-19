@@ -1,0 +1,727 @@
+
+
+
+
+
+
+
+freesoft.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		skip to content	
+
+
+
+
+
+
+
+freesoft.org
+
+  
+			scroll down to content		
+
+
+
+
+
+
+
+
+posts
+
+
+
+
+   
+posted on june 27, 2024june 27, 2024welcome! 
+
+
+icarus wing
+a novel
+modern integration
+a university mathematics textbook
+(under construction)
+kyle’s thai travelogue
+free software
+collaborate
+hurd    xoscope    hoffman
+wavelet auditory model
+guardian alert
+knjn saxo
+spanish reading aid
+connected: an internet encyclopedia
+…other software i’ve worked on…
+brent’s blog
+
+
+
+
+   
+posted on february 28, 2023january 14, 2025a new pseudo-solution of hydrogen 
+
+a new pseudo-solution of hydrogen
+an january 2023, i discovered a previously unknown solution to the simplest schrödinger equation for the hydrogen atom.  it’s my only truly new mathematical discovery to date, so i like to keep it pinned at the top of the blog.
+it turns out that this wavefunction:
+      
+where j₀ is the ordinary bessel function j₀, solves the schrödinger equation for hydrogen:
+      
+with e=0.
+it does not, however, satisfy the global integrability condition required for it to be a valid wavefunction:
+      
+therefore, it is only a pseudo-solution, since it satisfied the differential equation but is not a valid wavefunction.
+what i find surprising about the result is that it solves one of the best known equations in mathematical physics, yet has apparently remained undiscovered for over a hundred years!
+continue reading “a new pseudo-solution of hydrogen” 
+
+
+
+posted on january 14, 2025january 20, 2025the way the world is 
+
+i have often heard the phrase “that’s just the way the world is”.
+here’s the way the world is, as i see it:
+
+this world is basically unjust. just because you hand someone a sandwich doesn’t mean you get a reward for your effort. this is just the way the world is.
+to get a reward for their work, most people refuse to provide goods or services unless they get paid.
+capitalism teaches that behaving in this way benefits society, and that maximizing your profit is what benefits society the most.
+socialism teaches that the way to overcome these injustices is for the government to run everything.
+christianity teaches that what god wants is to prioritize selfless love. forget about what benefits society; prioritize god.
+the “right” preaches a watered down christianity that teaches we should split our lives into two parts. some of the time we’re preaching the gospel and helping the poor; some of the time we’re running a business and taking care of ourselves.
+the “left” preaches that we don’t really need god at all and the government will fix these injustices.
+the book of revelation tells us that humanity will never fix these problems, that we’ll never invent a system of government that does, and that left to our own devices, human beings will eventually exterminate ourselves.
+from beginning to end, from the garden of eden to the new jerusalem, the bible preaches a decidedly anti-populist message. the majority are immoral; only a minority are righteous.
+this society, like almost all human society, is systemically discriminatory, anti-christian, and oppressive.  it is, however, better than many others.  at least i can write this on my website without being arrested by the police.
+when jesus says “…i have chosen you out of the world.  that is why the world hates you” (john 15:19), he’s not just talking about the roman empire of two thousand years ago.  jesus’s message is timeless and universal.
+
+
+
+
+
+
+posted on june 30, 2024june 30, 2024is cold fusion a twistronic effect? 
+
+i have a hypothesis to explain the excess heat produced in a fleischmann-pons reaction, that the heat is produced by a nuclear reaction, and that reaction is triggered by a twistronic effect.
+continue reading “is cold fusion a twistronic effect?” 
+
+
+
+posted on june 30, 2024january 14, 2025my advice to the church 
+
+how would i advise the roman catholic church?
+first, end the schism.  admit protestants to full communion, and do so in the following way.  give discretion to local bishops to set their own guidance on who can receive the eucharist.  many of the bishops already exercise this discretion; they’re just called methodists or baptists, etc.  issue guidance from rome for those bishops who choose to follow it, and that guidance is to administer the eucharist to all those who accept jesus christ as their lord and savior.  don’t excommunicate anybody if they won’t do this.
+next, open the religious communities to couples and families.  presumably they were already opened to protestants in the first step.  recognize that the “widows” spoken of in acts 6:1 were probably admitted to the church in that state – it wasn’t old enough for them to have joined as young women.  end the caste division in the church where we have religiosos and laity.  religious community, in some form or another, is the preferred organizational style for the saints.
+communities will probably attract a crowd of homeless followers.  they should be accommodated to the greatest extent possible.  provide space for tent cities, and don’t neglect the need for basic hygiene such as toilets and showers.  organize food banks and community feedings.
+preach the authentic christian gospel.  quit focusing so much on sexuality and teach against the economic immorality of the majority.  our default answer to most requests should be “yes, of course” instead of “here’s how much it will cost”.  it’s so hard to believe that god will give us the greatest gift of eternal life for free, when we won’t let people fly on an airplane for free.
+
+
+
+
+
+posted on april 21, 2024october 20, 2024ain’t no grave 
+
+i was recently at a performance of the chester river chorale that featured an asl performance of ain’t no grave, a traditional gospel song.
+i think one of my students will appreciate this!
+
+
+ 
+
+
+
+posted on january 20, 2024june 30, 2024u.s. patent 11,669,350 
+
+last year, i was awarded a u.s. patent for the remote desktop video conferencing system that i developed, collaborate.
+collaborate is, and will remain, open source and free to use.  the purpose of the patent is only to claim my legal rights as the inventor; i have no intention of trying to monopolize the use of this technology.
+collaborate is hosted on a github repository.
+11669350download
+
+
+
+
+posted on october 30, 2023april 5, 2024baccala v. vec 
+
+last week i filed a lawsuit against the virginia employment commission.
+they seem to have developed an illegal administrative procedure called “vacate” and have used it twice on my claims for unemployment benefits.  this goes back to the summer of 2020.  i fought them in federal court in 2022 and had them in state court earlier this year (2023).  i had a lot of trouble finding a lawyer to take the case and have been representing myself pro se.
+update: i lost the case.
+continue reading “baccala v. vec” 
+
+
+
+posted on july 28, 2023the a.i. revolutions 
+
+the recent surge of interest in large language models (llms) like gpt-4 has motivated me to set aside my mathematical research for a time and focus instead on a.i.  the current llm revolution does not seem to be a passing fad.
+i’m predicting not one, but three a.i. revolutions that i expect to follow in fairly short order:
+
+the large language model revolution
+the machine vision revolution
+the personal robotics revolution
+
+continue reading “the a.i. revolutions” 
+
+
+
+posted on january 1, 2023april 5, 2024a pilgrimage to rome 
+
+i recently attended a software developer’s summit in berlin, then extended my stay in europe for another week to visit rome. i read somewhere that any christian visiting rome is a pilgrim, so i guess that made my trip a pilgrimage…
+continue reading “a pilgrimage to rome” 
+
+
+posts navigation
+page 1
+page 2
+…
+page 8
+next page  
+
+
+
+
+categories
+
+biography
+
+christian revolution
+
+computer networking
+
+computer software
+
+mathematics
+
+other technology
+
+religion
+
+speeches
+
+tirades
+
+uncategorized
+
+
+people
+
+brent baccala
+kyle hourihan
+
+
+donate
+
+please support freesoft.org
+
+
+
+
+posts
+
+
+the way the world is
+january 14, 2025
+
+
+is cold fusion a twistronic effect?
+june 30, 2024
+
+
+my advice to the church
+june 30, 2024
+
+
+welcome!
+june 27, 2024
+
+
+ain’t no grave
+april 21, 2024
+
+
+u.s. patent 11,669,350
+january 20, 2024
+
+
+baccala v. vec
+october 30, 2023
+
+
+the a.i. revolutions
+july 28, 2023
+
+
+a new pseudo-solution of hydrogen
+february 28, 2023
+
+
+a pilgrimage to rome
+january 1, 2023
+
+
+the soul of quantum mechanics
+february 2, 2022
+
+
+the golden age of computing
+november 9, 2021
+
+
+afghanistan
+august 16, 2021
+
+
+resolution of singularities
+november 13, 2020
+
+
+an abelian integral
+january 21, 2020
+
+
+elevator speech
+january 6, 2020
+
+
+sage 9: function fields
+january 2, 2020
+
+
+christmas message
+december 23, 2019
+
+
+the facebook integral
+december 21, 2019
+
+
+impeachment!
+december 18, 2019
+
+
+homelessness: a constitutional right?
+december 16, 2019
+
+
+sage 9: multivariate factorization over q̅
+december 12, 2019
+
+
+do we hate freedom?
+december 4, 2019
+
+
+exact computation of algebraic varieties using numerical techniques
+september 18, 2019
+
+
+power, privacy, and the u.s. constitution
+july 31, 2018
+
+
+/etc: please stop enabling
+march 22, 2018
+
+
+ke alaka’i
+december 1, 2016
+
+
+an open letter to surfing the nations
+july 9, 2016
+
+
+give up everything you have
+june 30, 2016
+
+
+enter through the narrow gate
+june 30, 2016
+
+
+convicted!
+february 28, 2014
+
+
+video exhibits
+january 7, 2014
+
+
+cloud computing
+january 3, 2014
+
+
+winter protest
+december 12, 2013
+
+
+campfire
+september 9, 2013
+
+
+delay!
+august 26, 2013
+
+
+testimony 43
+july 1, 2013
+
+
+philosophy of christian education
+july 1, 2013
+
+
+arraignment
+june 17, 2013
+
+
+day 11
+june 4, 2013
+
+
+day 10
+may 18, 2013
+
+
+day 9
+may 17, 2013
+
+
+day 7
+may 15, 2013
+
+
+day 6
+may 15, 2013
+
+
+day 4
+may 12, 2013
+
+
+day 0
+may 9, 2013
+
+
+my confession
+december 1, 2012
+
+
+faster sailboats
+april 20, 2009
+
+
+cold fusion
+april 7, 2009
+
+
+dynamic addressing
+july 26, 2008
+
+
+is neuromancer closer than you think?
+july 22, 2008
+
+
+dns-based identification
+june 10, 2008
+
+
+corrupt education
+may 28, 2008
+
+
+idictionary
+january 12, 2007
+
+
+dynamic dvd
+january 11, 2007
+
+
+building chess tablebases over the internet
+august 23, 2006
+
+
+java caches
+august 23, 2006
+
+
+software checkpointing using networking
+july 2, 2006
+
+
+demand tv… we could have it today
+june 15, 2006
+
+
+my response to thomas friedman
+june 5, 2006
+
+
+will multicast kill packet switching?
+may 18, 2006
+
+
+nat and the failure of source routing
+may 15, 2006
+
+
+lightweight multicast (lwm)
+may 14, 2006
+
+
+network distributed databases
+may 11, 2006
+
+
+a theory for analyzing addressing structures
+may 8, 2006
+
+
+the location layer
+april 21, 2006
+
+
+standardized caching of dynamic web content
+august 1, 2002
+
+
+data-oriented networking
+august 1, 2002
+
+
+the spirit at thirty
+september 1, 2001
+
+
+capitalism and christianity
+june 1, 2001
+
+
+christianity and democracy in les misérables
+march 1, 2001
+
+
+on napster
+january 1, 2001
+
+
+wireless internet
+september 1, 2000
+
+
+smart cars
+august 1, 2000
+
+
+personal robotics
+july 1, 2000
+
+
+bicycling across america
+september 1, 1993
+
+
+
+
+
+
+
+
+
+		proudly powered by wordpress	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

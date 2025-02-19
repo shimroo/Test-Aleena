@@ -1,0 +1,1070 @@
+
+
+
+
+
+
+	realtime koersen, beursnieuws en analyse - beurs.nl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+beurs.nl
+
+
+ market monitor
+
+
+
+
+
+
+
+
+
+beurscodes, betekenis en hulp bij zoeken
+europa
+
+aex
+euronext amsterdam
+bru
+euronext brussels
+pse
+euronext paris
+lis
+euronext lissabon
+chx
+cboe europe, grote(re) eu aandelen
+nav
+investment funds (nav)
+
+noord-amerika
+
+nys
+new york stock exchange
+otc
+cboe bzx exchange (us)
+tse
+toronto stock exchange
+
+kunt u een instrument niet vinden?
+
+   zoek dan via de zogenaamde isin code. elk instrument, aandeel etc. heeft een unieke code.
+ 
+
+  kies vervolgens - wanneer er meerdere resultaten zijn - de notering op de beurs van uw keuze.
+
+waar vind ik die isin code?
+
+   google de naam van het instrument, aandeel etc. met de toevoeging 'isin'.                             
+ 
+als zoeken op isin code geen resultaten oplevert hebben wij het instrument of aandeel niet in onze 
+ koersendatabase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    aex
+                
+
+-0,09%
+
+
+
+
+947,72
+
+
+-0,82
+
+
+
+
+
+
+
+
+                    germany40^
+                
+
+0,00%
+
+
+
+
+22.798,09
+
+
+0,00
+
+
+
+
+
+
+
+
+                    us500^
+                
+
+-0,33%
+
+
+
+
+6.112,66
+
+
+-20,13
+
+
+
+
+
+
+
+
+                    us30^
+                
+
+-0,50%
+
+
+
+
+44.466,40
+
+
+-223,90
+
+
+
+
+
+
+
+
+                    eur/usd
+                
+
+-0,23%
+
+
+
+
+1,0457
+
+
+-0,0025
+
+
+
+
+
+
+
+
+                    wti oil^
+                
+
++0,42%
+
+
+
+
+71,55
+
+
++0,30
+
+
+
+
+
+
+
+
+                    goud
+                
+
++0,96%
+
+
+
+
+2.926,19
+
+
++27,89
+
+
+
+
+
+
+menu 
+
+
+koersen
+
+aex 
+amx 
+ascx 
+amsterdam overig
+bel20 
+
+
+
+nieuws
+
+binnenland
+buitenland
+
+
+
+indexen
+
+aex
+amx
+ascx
+germany 30^
+us30
+us500
+eur/usd
+treemaps
+
+
+
+opinie
+
+market talks
+advies & analyse
+
+
+
+diensten
+
+abonnementen
+gids
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+indices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+947,71
+(-0,83)
+ -0,09%
+
+
+
+
+
+
+
+
+
+
+
+
+stijgers & dalers
+
+
+
+
+
+
+
+
+
+
+
+
+stijgers
+
+
+
+abn amro bank n.v.
+17,405
++2,90%
+
+
+prosus
+45,330
++1,88%
+
+
+ing
+16,648
++1,60%
+
+
+umg
+29,040
++1,08%
+
+
+nn group
+45,440
++0,98%
+
+
+aegon
+6,394
++0,69%
+
+
+asr nederland
+48,590
++0,64%
+
+
+adyen nv
+1.851,200
++0,54%
+
+
+philips koninklijke
+27,080
++0,30%
+
+
+randstad nv
+38,490
++0,23%
+
+
+kpn
+3,474
++0,23%
+
+
+shell plc
+32,515
++0,20%
+
+
+
+
+dalers
+
+
+
+besi
+117,500
+-1,30%
+
+
+asml
+719,300
+-1,17%
+
+
+unilever plc
+52,360
+-0,72%
+
+
+asmi
+573,400
+-0,69%
+
+
+heineken
+78,560
+-0,63%
+
+
+ahold delhaize
+34,090
+-0,61%
+
+
+exor nv
+96,050
+-0,41%
+
+
+arcelormittal
+27,760
+-0,39%
+
+
+dsm firmenich ag
+105,650
+-0,38%
+
+
+imcd
+150,100
+-0,30%
+
+
+wolters kluwer
+177,950
+-0,20%
+
+
+akzo nobel
+59,760
+-0,13%
+
+
+relx
+48,620
+-0,12%
+
+
+
+
+
+
+
+treemap
+
+
+aex
+amx
+ascx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+abn amro bank n.v.
+17,405
++2,90%
+
+
+adyen nv
+1.851,200
++0,54%
+
+
+aegon
+6,394
++0,69%
+
+
+ahold delhaize
+34,090
+-0,61%
+
+
+akzo nobel
+59,760
+-0,13%
+
+
+arcelormittal
+27,760
+-0,39%
+
+
+asmi
+573,400
+-0,69%
+
+
+asml
+719,300
+-1,17%
+
+
+asr nederland
+48,590
++0,64%
+
+
+besi
+117,500
+-1,30%
+
+
+dsm firmenich ag
+105,650
+-0,38%
+
+
+exor nv
+96,050
+-0,41%
+
+
+heineken
+78,560
+-0,63%
+
+
+imcd
+150,100
+-0,30%
+
+
+ing
+16,648
++1,60%
+
+
+kpn
+3,474
++0,23%
+
+
+nn group
+45,440
++0,98%
+
+
+philips koninklijke
+27,080
++0,30%
+
+
+prosus
+45,330
++1,88%
+
+
+randstad nv
+38,490
++0,23%
+
+
+relx
+48,620
+-0,12%
+
+
+shell plc
+32,515
++0,20%
+
+
+umg
+29,040
++1,08%
+
+
+unilever plc
+52,360
+-0,72%
+
+
+wolters kluwer
+177,950
+-0,20%
+
+
+
+
+
+
+
+nieuws
+
+
+16:17
+vertrouwen amerikaanse huizenbouwers flink gedaald
+
+
+16:15
+beursagenda: macro-economisch
+
+
+16:13
+beursagenda: buitenlandse fondsen
+
+
+16:09
+beursagenda: nederlandse bedrijven
+
+
+15:59
+beursblik: vopak boekt waarschijnlijk licht hogere ebitda
+
+
+15:35
+beursblik: aegon haalde in 2024 waarschijnlijk eigen outlook
+
+
+15:00
+wall street koerst af op hogere opening
+
+
+14:43
+empire state index fors gestegen
+
+
+14:31
+beursblik: asr genereert naar verwachting meer kapitaal
+
+
+13:07
+futures wijzen op hogere opening van wall street
+
+
+12:43
+beursblik: bank of america verhoogt koersdoel euronext
+
+
+12:28
+europese beurzen verdeeld rond middaguur
+
+
+12:22
+winstverdubbeling voor baidu
+
+
+
+
+
+11:31
+stijging duitse zew-index
+
+
+11:29
+financials en theon aan de leiding op het damrak
+
+
+10:55
+britse toezichthouder keurt desinvestering twee fabrieken forfarmers voorwaardelijk goed
+
+
+10:04
+abu: uren en omzet uitzendbranche blijven onder druk
+
+
+10:00
+must read: aanpassing onrechtvaardige spaartaks lijkt onmogelijk
+
+
+09:59
+franse inflatie weer gestegen
+
+
+09:31
+kbc securities verlaagt koersdoel alfen
+
+
+09:12
+prosus en theon uitblinkers op vlak damrak
+
+
+08:53
+tang capital meldt flink belang in galapagos
+
+
+08:33
+britse toezichthouder start fase 2 onderzoek na desinvestering forfarmers
+
+
+08:30
+geopolitiek geweld maakt de aex nog niet aan het schrikken
+
+
+08:06
+rustige opening op damrak verwacht
+
+
+
+meer nieuws
+
+
+
+
+
+
+market talks
+
+
+15:59
+beursblik: vopak boekt waarschijnlijk licht hogere ebitda
+
+
+15:35
+beursblik: aegon haalde in 2024 waarschijnlijk eigen outlook
+
+
+14:31
+beursblik: asr genereert naar verwachting meer kapitaal
+
+
+12:43
+beursblik: bank of america verhoogt koersdoel euronext
+
+
+09:31
+kbc securities verlaagt koersdoel alfen
+
+
+07:16
+berenberg zet koopadvies op theon
+
+
+17 feb
+kleine omzetgroei voor besi verwacht
+
+
+17 feb
+vlakke omzet en meer winst verwacht bij philips
+
+
+17 feb
+bank of america verhoogt koersdoel heineken fors
+
+
+17 feb
+barclays verhoogt koersdoelen banken benelux
+
+
+
+
+beleggingsideeën
+
+
+02 dec
+de ervaringen van fisher investments nederland met misvattingen over begrotingstekorten 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+neem nu iex premium met 58% korting>
+nu 3 maanden aandelenanalyses en tips voor €24,95
+
+
+
+
+
+
+
+aandelenadviezen van iex.nl
+
+
+premium
+
+
+een nederlands koopje op wall street
+
+05 feb
+ | sectorfavoriet
+
+
+
+
+premium
+
+
+vooruitblik: besi, philips, verzekeraars en gaat xi jinping jack ma rehabiliteren?
+
+16 feb
+ | vooruitblik
+
+
+
+
+
+premium
+
+
+koersdoel fugro fors omlaag; is het nog koopwaardig? 
+
+11 feb
+ | analyse en advies
+
+
+
+
+premium
+
+
+vooruitblik: trump strikes again, ai, oekraïne en powell
+
+09 feb
+ | vooruitblik
+
+
+
+
+
+premium
+
+
+tip van de maand januari nu al +25%. hoe nu verder?
+
+17 feb
+ | analyse en advies
+
+
+
+
+
+meer aandelenadviezen
+
+
+
+technische analyses van tostrams.nl
+
+
+premium
+
+
+update: nieuwe herstelpoging voor just eat takeaway?
+
+07 feb
+ | trades
+
+
+
+
+premium
+
+
+adyen voltooid bodempatroon; correcties bieden kansen
+
+13 feb
+ | lange termijn adviezen
+
+
+
+
+premium
+
+
+prosus: nieuwe kansen aan de horizon
+
+11 feb
+ | lange termijn adviezen
+
+
+
+
+premium
+
+
+correctie ahold delhaize kan nieuwe kansen opleveren
+
+14 feb
+ | lange termijn adviezen
+
+
+
+
+premium
+
+
+tesla nadert potentiële koopzone
+
+13 feb
+ | lange termijn adviezen
+
+
+
+
+
+meer technische analyses
+
+
+
+
+
+
+
+
+
+
+
+
+meld u aan voor de dagelijkse beursupdate
+dagelijks een update van het laatste beursnieuws en beleggingskansen in uw mailbox!
+
+
+
+
+
+uw emailadres 
+                    
+                    
+                    
+
+
+
+
+
+
+
+
+
+koersen
+
+aex
+amx
+ascx
+amsterdam overig
+bel20
+
+
+
+nieuws
+
+binnenland
+buitenland
+
+
+
+indexen
+
+aex
+amx
+ascx
+germany 30^
+us30
+us500
+eur/usd
+treemaps
+
+
+
+opinie
+
+market talks
+advies & analyse
+
+
+
+diensten
+
+abonnementen
+gids
+disclaimer
+
+instellingen
+
+privacy settings
+
+
+
+
+
+
+over beurs.nl
+privacy info
+gebruiksvoorwaarden
+© 2025 iex media
+colofon
+contact
+adverteren
+
+
+             
+  quotedata brussel & amsterdam 15 min. delayed by , 
+
+  other (*) realtime by cboe europe ltd.
+  
+  '^' by ,  
+  
+  streaming powered by 
+
+
+
+
+ © 2025 iex / van beleggers voor beleggers
+beurs.nl is onderdeel van 
+
+
+
+
+
+
+
+

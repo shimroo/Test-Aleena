@@ -1,0 +1,291 @@
+
+
+
+
+
+
+
+
+
+
+home - wilco marsh buggies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+/* hide image titles on hover */
+img {
+pointer-events:none;
+}
+
+@media only screen and (min-width: 768px) {
+    #et-info { float:right !important; }
+}
+
+
+
+
+
+
+
+
+
+
+
+ (504) 341-3409
+bwilson@wilcomarshbuggies.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+about
+equipment
+gallery
+blog
+contact
+
+ 
+
+
+select page
+
+
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+wilcomarsh buggies
+
+specialty amphibious equipment
+designed especially for your project
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+contracting
+
+
+
+
+
+
+
+
+leasing
+
+
+
+
+
+
+
+
+rentals
+
+
+
+
+
+
+
+
+
+handbuilt amphibious excavators by dedicated craftsman
+
+wilco’s specialty equipment is hand built by dedicated craftsmen in manufacturing and fabrication facilities in harvey and lafayette, louisiana. each element of the wilco soft terrain vehicle is crafted according to strict engineering specifications, making every model a trusted piece of equipment. speciality amphibious excavator equipment for any project of any size.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+no job too large, too small, or too far away
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new equipment
+if you’re interested in purchasing new equipment, click here to find out more about wilco manufacturing.
+
+learn more
+
+
+
+visit our shop
+if you would like to visit our facility, feel free to stop by and check out our equipment for contracting, leasing or rentals.
+
+check us out
+
+
+
+contact us
+
+
+
+
+call us (toll free)
+1-800-253-0869
+
+
+
+get in touch
+
+
+
+follow us
+if you would like to be part of our community, then follow us on our facebook page to stay updated on all we have going on.
+
+check us out
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+copyright 2025 wilco marsh buggies | all rights reserved
+
+
+
+phone: 504-341-3409 | email: bwilson@wilcomarshbuggies.com
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

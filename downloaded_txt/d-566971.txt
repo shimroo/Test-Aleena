@@ -1,0 +1,727 @@
+
+
+
+
+
+
+
+
+
+
+
+healthcare software for registries, rehabilitation, and workers’ comp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 800.424.1007  
+
+  info@cedaron.com 
+
+
+home
+software
+
+registries
+rehab
+workers’ comp
+perinatal outcomes
+interventional analytics
+
+
+roi calculators
+
+cardiaccare roi calculator
+connect roi calculator
+
+
+about
+careers & culture
+resources
+
+news & events
+library
+
+
+request a demo
+training
+
+sign-in to training dashboard
+
+
+
+
+
+
+
+menu
+
+
+menu
+
+ 
+
+
+
+
+
+
+
+
+“cedaron improved our patient care.”
+— suzanne, rn —
+clinical database coordinator
+epic customer  |  ancc magnet hospital
+world’s best hospital (newsweek)
+best regional hospital (u.s. news & world report)
+
+hcahps
+
+previousnext
+
+
+
+calm the storm.
+sunny days are ahead with our best-in-class healthcare software for registries, rehabilitation, and workers’ compensation.
+free enterprise analytics take your data from info to real-time knowledge.
+
+
+
+30+ years of happy customers
+our software delights because it starts with your great ideas.
+
+
+free customization of workflows and enterprise dashboards
+free analytics software & development of flash reports
+design based on how you work
+
+24/7 live support from our california headquarters
+we answer our own phones. always.
+relationships first - customers are like family
+
+
+
+24/7customer care from our human team in california. no phone trees, no bots.
+
+
+
+subject: so thankful!!
+karen,
+i know i’ve said this a lot – but, your customer support is beyond amazing! cedaron never lets me down – ever. i am so very thankful. all of your team is amazing, your blessing is our blessing.
+heidi, quality & operations improvement engineer; university health systemtop 10 hospital for customer loyalty (nrc health and becker’s review) | ancc magnet hospital | top 10 healthcare employer (forbes magazine)
+
+
+
+
+myth: one company can satisfy all your healthcare it and data requirements.
+
+
+you don’t have to sacrifice specialty needs for the benefits of an enterprise ehr. cedaron complements your ehr by filling the expensive specialty gaps.
+
+“we’re happy with our decision to integrate epic with cedaron.”
+– steve, senior project manager, epic ambulatory
+ ‘most wired’ hospital (chime) | regional health system
+
+
+learn more
+cedaron integrates with all major ehrs: allscripts, cerner, epic, ge, meditech . . . .
+cedaron is vendor neutral and certified for interoperability.our interfaces work!
+
+make the most use of your it investments and big data
+increase satisfaction with tools designed especially for you.
+
+
+truth: cedaron solves your specialty needs.
+
+
+we’re listening. tell us about the challenges of your day-to-day.
+
+
+registries
+cardiaccare is for you if:
+
+data abstraction takes too long, especially when you participate in multiple registries.
+you’re not sure if the data is complete or if it contains unusual values.
+different facilities participate in different registries, but abstraction and registry data isn’t centralized.
+outcomes reporting takes too long.
+
+
+
+learn more
+rehabilitation
+connect is for you if:
+
+you can’t keep up with the changing rules and you’re tired of the busywork.
+your physicians have individual preferences for treatment plans and progress reports.
+you’re worried about denied claims or triggering an audit. maybe you don’t even know.
+you need to negotiate better reimbursement rates.
+
+
+
+learn more
+healthcare analytics
+cento analytics is for everyone!
+it’s included with all cedaron solutions, for free. you’ll love cento if you:
+
+want to explore data on the fly…but you’re a clinician or admin, not a sql expert.
+need a real-time, enterprise view of what’s going on. or maybe you want to drill down on a burning question.
+
+our customer family is inquisitive. with cento, they’re able to find answers.
+
+
+learn more
+
+
+
+
+
+return on investment
+what will you gain with cedaron software?
+use this roi calculator to get started.
+
+
+cardiaccare roi
+connect roi
+
+roi engine built from customer-reported results. 
+we didn’t just make this up.
+
+
+
+
+uncompromised security
+
+
+
+cedaron achieved soc2 type ii. no exceptions.
+the cedaron cloud is hipaa compliant.
+cedaron has an unblemished security record.
+
+
+
+our software solutions
+
+
+
+
+
+
+registries & data abstraction
+reduce complications and readmissions.  have real-time quality data at your fingertips so you can intervene while your patient is still admitted.
+we also offer data abstraction services. engage as needed, no mandatory number of cases.
+learn more about cardiaccare⏵
+
+
+
+rehab & practice management
+relieve your mental load and speed your reimbursement.
+our rehab emr is used in hospitals, private practices, and teaching clinics. it’s the only emr endorsed by—and designed in partnership with—the apta, aota, and asht.
+learn more about connect⏵
+
+
+
+analytics & big data
+create sophisticated, real-time healthcare analytics—without needing sql experience or knowledge of database queries.
+our enterprise analytics package is groundbreaking, free with all cedaron solutions, and a favorite of our customer family.
+learn more about cento analytics⏵
+
+
+
+workers’ comp
+simplify and automate the process of workers’ compensation reporting.
+powered by the ama’s guides to the evaluation of permanent impairments, our workers’ compensation software automatically cites the guides and generates clean, consistent reports.
+learn more about impairmentcare⏵
+
+
+
+
+
+malcolm bond, phd
+chief scientist and founder
+founder’s message: from nasa to quality outcomes
+in 1990, we launched cedaron with an innovation grant from nasa. our immediate goal was to create a way to assess, document, and preserve the functioning of astronauts’ hands after their flights in space. the idea that what we were creating would be used at nasa was both pretty cool and a bit overwhelming.
+after watching nasa in action, we quickly realized the positive impact cedaron could have on the rest of us: patients, providers, all the people who support the care team. it’s been remarkable to watch the evolution of our software and services as we’ve collaborated with our customer family over the past three decades.
+(really, we consider them part of the cedaron family and they are one of the reasons i love coming to work everyday. our talented staff is another.)
+cedaron’s vision has always been to greatly improve specialty outcomes documentation. i’m humbled to know that we’ve had such a positive impact on the quality of care and bottom line for so many healthcare systems and private practices.
+from all of us at cedaron, thanks for stopping by. i hope we have a chance to talk.
+— malcolm
+
+  
+
+how can we help? cardiaccare+ data abstraction
+una vita perinatal database
+connect rehab emr
+impairmentcare workers’ comp
+cento analytics
+request a demo
+about
+careers & culture
+news & events
+
+
+
+
+
+search for:search button
+1990 — from nasa to you: celebrating 34 years of innovation — 2024
+
+
+
+
+let’s connect
+
+
+
+ info@cedaron.com
+
+
+ 800.424.1007 or 530.758.7007
+
+
+ 1644 da vinci court
+davis, ca 95618
+
+
+ p.o. box 2100
+davis, ca 95617
+
+ 
+
+
+
+
+
+
+  
+
+
+© 1990-2025 cedaron medical. all rights reserved. | web design by bizzy bizzy
+
+
+
+
+
+
+scroll to top
+
+this site uses cookies. by continuing to browse the site, you are agreeing to our use of cookies.oklearn more
+
+cookie and privacy settings
+
+how we use cookieswe may request cookies to be set on your device. we use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. 
+click on the different category headings to find out more. you can also change some of your preferences. note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+essential website cookiesthese cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. you always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. but this will always prompt you to accept/refuse cookies when revisiting our site.
+we fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. you are free to opt out any time or opt in for other cookies to get a better experience. if you refuse cookies we will remove all set cookies in our domain.
+we provide you with a list of stored cookies on your computer in our domain so you can check what we stored. due to security reasons we are not able to show or modify cookies from other domains. you can check these in your browser security settings.
+check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. we need 2 cookies to store this setting. otherwise you will be prompted again when opening a new browser window or new a tab.
+click to enable/disable essential site cookies.
+other external serviceswe also use different external services like google webfonts, google maps, and external video providers. since these providers may collect personal data like your ip address we allow you to block them here. please be aware that this might heavily reduce the functionality and appearance of our site. changes will take effect once you reload the page.
+google webfont settings:
+click to enable/disable google webfonts.
+google map settings:
+click to enable/disable google maps.
+google recaptcha settings:
+click to enable/disable google recaptcha.
+vimeo and youtube video embeds:
+click to enable/disable video embeds.
+privacy policyyou can read about our cookies and privacy settings in detail on our privacy policy page. 
+terms and conditions
+accept settingshide notification only
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				login			
+
+
+username or email address
+
+
+password
+
+ remember me
+
+
+ lost your password?
+
+
+
+ 
+ 
+ 
+
+
+
+
+						register					
+don't have an account? register one!
+register an account
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

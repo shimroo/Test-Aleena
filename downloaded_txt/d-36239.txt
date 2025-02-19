@@ -1,0 +1,137 @@
+
+
+
+smps switching power supply design; circuit diagrams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lazar's power electronics guide
+smps switching power supply design basics:
+circuits, schematics, electrical engineering reference, software and other info
+
+
+<--------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+home
+handbook
+tutorial
+topologies
+smps design
+thermal design
+software
+pcb design
+computer psu
+ups
+circuit
+transformers
+formulas
+ee reference
+inverters
+generators
+solar
+
+
+the electric energy obviously is not used in the form in which it was produced or distributed. all electronic systems require some form of energy conversion, which can be accomplished by different methods. for those new to this subject, power supply unit (psu) refers to a device that transfers electric energy from a source to a load by using electronic circuits. of course, a psu does not really supply power, it just converts it from one form to another, so "converter" would be a more accurate term for such a device. 
+
+
+
+
+
+
+
+
+a typical application of a power supply is to convert utility ac voltage into a set of regulated dc voltages required for electronic equipment. there are different types of psu depending on their mode of operation. back in the 70's, most psu were linear, their efficiency was around 50%, power density was less than one watt per cubic inch, and power factor was 0.5-0.7. nowadays most psus are of smps type with efficiency over 90%, power density of tens of watts per cubic inch, and power factor up to 0.99. this type is the main subject of this site.
+what is it? smps stands for switched mode power supply. it is an electronic device in which energy conversion and regulation is provided by power semiconductors that are continuously switching with high frequency between "on" and "off" states. an output parameter (usually output voltage) is controlled by varying duty cycle, frequency or a phase shift of these transitions.
+how does it work?. in any psu the energy flow is controlled by power semiconductors. however, in different systems they operate in different modes. in legacy systems they worked in linear mode, and excessive power dissipated in a series transistor. unlike linear mode, when a semiconductor operates in switching mode, it can control energy flow with low losses: when a switch is "on", it has low voltage drop and will pass any current imposed on it; when it is "off", it blocks the flow of current. as the result, in such an electronic device the power dissipation being product of voltage and current, can be relatively low in both states. that's why switch mode psus offer greater efficiency compared with linear ones. such units are also smaller in size and lighter in weight due to the reduced size of passive components and lower heat generation. higher efficiency and smaller size coupled with advancements in semiconductor technology and various energy efficiency regulations have made "switcher" the dominant type of psu across practically the full spectrum of applications. most psu manufactured today for ac input applications also include another conversion stage- a power factor correcting (pfc) front end. there is a huge variety of complete off-the-shelf power supplies and dc-dc modules on the market to meet most practical requirements and safety standards. 
+
+
+
+
+
+
+
+nevertheless, custom designs are still being done when there is a need for special characteristics or an unusual form-factor, particularly for harsh environment military applications or avionics.
+in general, power converters can be classified into four types according to the form of input and output voltages: ac to dc (also called off-line dc power supply), dc to dc (voltage or current converter), ac to ac (frequency changer or cycloconverter), and dc to ac (inverter). in addition to the main dc-dc converter, most psu manufactured today for ac input applications also include another switching regulator- power factor correction (pfc) front end, and may include additional pcb-mounted regulators for auxiliary outputs. 
+power supply design is a true cross-disciplinary task. it involves the circuit, magnetics, thermal management, control and compliance issues. this site is smps/power electronics information guide. here you will find a tutorial, tools, reviews, schematics, and other free online resources on all aspects of switching power supply design and selection, information on other energy conversion devices, as well as basic electrical engineering reference and electronic formulas.
+
+
+
+
+
+power electronics / smps design- theory & tutorials
+ti/unitrode seminar books online
+power supply design tutorial - basic concepts and operation
+smps design handbook (with free chapter download)
+electronic parts search and cross-reference
+
+
+free simulation software and calculators
+an overview of circuit simulation programs, working demos of analog and mixed-signal simulators, and other engineering software & calculators
+mplabâ® analog designer - free online tool for design and simulation of low-voltage dc-dc converters
+quick online quiz- test how well do you know power supply safety
+
+
+psu topologies: application notes, guides, schematics
+switching mode converter topology selection
+a review of standard computer psu connectors and pinouts
+the basics of switched mode regulators, design guides, smps circuit diagrams, and other design resources
+
+
+pcb design of electronic circuits
+layout guidelines for printed circuit board;
+trace spacing for voltages;
+trace width calculator per ipc-2152;
+guidelines, calculators, and other pcb design resources.
+
+transformer and inductor- theory & calculations
+magnetic unit conversion: table, formulas and calculator;
+power transformer and inductor design: formulas, software, and other tools and guides.
+
+backup power devices
+home generators - overview and comparison;
+solar power fundamentals;
+ups guide and review.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+disclaimer, disclosure and terms of use | contact us | about | privacy
+â© 2003, 2022 lazar rozenblat
+all rights reserved
+
+
+
+
+
+
+

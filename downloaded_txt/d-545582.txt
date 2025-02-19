@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+snap backup • the one-click backup utility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+☰
+
+
+ home
+ preview
+ download
+ answers
+translate
+ about
+
+
+
+
+
+snap backup
+
+
+
+
+
+fork me on github
+
+
+
+
+         snap backup® is the one-click backup utility that makes it simple to
+         protect your important work.
+      
+
+download
+
+user guide
+
+
+protecting your data should be easy
+
+         snap backup is open source
+         (gplv3)
+         and free for all to use and modify.
+      
+supported languages:
+
+
+the one-click backup utility
+
+
+
+
+         albanian (shqip)       
+dutch (nederlands)     
+english                
+esperanto              
+german (deutsch)       
+indonesian (bahasa)    
+italian (italiano)     
+korean (íêµ­ì´)          
+portuguese (portuguãªs) 
+romanian (romã¢nä)      
+russian (ð ñññðºð¸ð¹)      
+spanish (espaã±ol)      
+slovene (slovenå¡äina)  
+
+snap backup:
+
+a single click to perform a backup
+configurable settings
+runs on macos, linux, unix, and windows
+supports multiple languages
+
+
+         the first time you run snap backup, you configure where your data files reside and where
+         to create backup files. 
+         snap backup will also copy your backup to an archive location, such as a usb flash drive
+         (memory stick), external hard drive, or
+         cloud backup. 
+         snap backup automatically puts the current date in the backup file name, alleviating you
+         from the tedious task of renaming your backup file every time you backup. 
+         the backup file is a single compressed zip file that can be read by standard zip programs
+         such as gzip, 7-zip, the unarchiver, and mac's built-in archive utility.
+      
+
+
+news
+
+
+
+december 11, 2024
+snap backup release 6.7.0 improves the italian translation thanks to
+         wvam.
+
+
+february 4, 2024
+snap backup release 6.6.0 supports apple silicon (m1, m2, and m3).
+
+
+september 30, 2022
+snap backup release 6.5.0 autosaves your settings.
+
+
+august 5, 2017
+snap backup release 6.2.0 improves the show largest files option.
+
+
+august 16, 2015
+snap backup 6.0.0 is released with support for larger backup files.
+
+
+
+more news...
+
+
+
+january 26, 2014
+the new code repository has been created on
+      github
+.
+      
+
+
+january 27, 2013
+domain registration for snapbackup.org is now with
+      namecheap.
+
+
+march 28, 2012
+snap backup + dropbox =
+      free cloud backup
+
+
+april 23, 2011
+albanian is now included in version 5.6 thanks to
+      vahidin qerimi.
+
+
+january 2, 2011
+romanian is now included in version 5.5 thanks to
+      dany.
+
+
+october 27, 2010
+version 5.4 has a performance improvement to launch quicker.
+
+
+april 18, 2010
+indonesian is now included in version 5.3 thanks to
+      andy
+      saksono.
+
+
+january 2, 2010
+version 5.2 adds a feature to report on the largest files in the backup.
+
+
+june 2, 2009
+version 5.1 adds a feature to check for updates.
+
+
+may 6, 2009
+version 5.0 adds export and import for user settings.
+
+
+september 10, 2008
+slovene (slovenian) is now included in version 4.5 thanks to
+      saå¡o
+      topolovec.
+
+
+april 12, 2007
+snap backup is now open source under the gnu general public
+      license.  the project is was hosted on google code.
+
+
+june 9, 2006
+korean
+      is now included in version 4.4.
+
+
+may 7, 2006
+portuguese is now included in version 4.3 thanks to
+      antonio
+      de rezende, jr.
+
+
+april 23, 2006
+spanish is now included in version 4.2 thanks to
+      angel herrã¡ez.
+
+
+january 18, 2006
+dutch is now included in version 4.1 thanks to
+      oscar laurens schrover.
+
+
+december 1, 2005
+version 3.8 adds support for selectable user interface skins.
+
+
+september 22, 2005
+version 3.6 adds a command-line option and support for esperanto by
+      suzanne bolduc.
+
+
+september 2, 2005
+with version 3.4, the filter feature now supports folder names in
+      addition to file names.
+
+
+july 5, 2005
+german is now included in version 3.3 thanks to
+      pascã¡l bihler and
+      carlos maltzahn.
+
+
+june 17, 2005
+italian is now included in version 3.2 thanks to
+      giorgio
+      ponza.
+
+
+june 1, 2005
+version 3.1 adds filters for increased control over exactly which files
+      to backup.
+
+
+may 9, 2005
+version 3.0 adds multiple profile support for saving different backup
+      settings.
+
+
+
+
+
+take control
+
+         system administrators have backup procedures for their company servers, databases, and
+         network files. 
+         individual computer users, on the other hand, are usually left to fend for
+         themselves. 
+         snap backup is the simple answer for individual users, in the corporation or at home, who
+         want to protect their valuable data.
+      
+
+
+for everyone
+
+
+
+
+
+         snap backup is written in java swing and designed to run on any computer with java. 
+         the project is
+         open source
+         and internationalized (meaning we just need to translate the words to
+         support new languages). 
+         check out the translation page if you want to help translate snap
+         backup into your favorite language.
+      
+
+
+random
+
+
+
+"i've used snap backup for some years, so simple! can i donate some $$$"
+      — r.b. 
+"your snapbackup application is very nice."
+      — j.s. 
+"love the program, simple, doesn't overwrite existing backups."
+      — c.m. 
+"very good efforts, easy to use, compact, very impressive work thanks for keeping it os"
+      — v.s. 
+"truly amazing product!  thanks a million for making my backup routines so incredibly easy :)"
+      — s.m. 
+"excelent software!!!  it make backups easy and fast..."
+      — m.c. 
+"very good ,excellent utility i have everseen for backup"
+      — a. 
+"nice software.  simple and java based"
+      — a.k. 
+"very nice backup tool, thanks a lot."
+      — r.k. 
+"thank you for the very good backup tool."
+      — m.k. 
+"i just used snap for the first time last week.  i had been using winzip for backups for years.  i'm totaly hooked and like your product!  i hope you are well and thank you!"
+      — b. 
+"have found the program very useful.  i suspect may other people have / will too.  do you guys have a pay pal account where we mortals can make donations."
+      — g.r.j. 
+"snapbackup is a wonderful utility"
+      — b.c. 
+"that is a greate app for backup"
+      — i.l. 
+
+
+more...
+
+
+"snap backup is exactly that, what i need.  simply and useful  :-) 
+      thanks for this program."
+      — d.v.b. 
+"just wanted to comment that snap backup works well under os/2, which is an old operating
+      system however still in use and has java v 1.42."
+      — e.d. 
+"what a good app, well done!"
+      — p. 
+"bigthx 4 d great app"
+      — m. 
+"great product, and so easy to use.  i have tried numerous backup utilities (paying
+      ones), and have abandoned using them due to complexity.  hard to believe it's free,
+      so thanks again.  will certainly recommend to others."
+      — w. 
+"thanks for this great utility!"
+      — j.n. 
+"i recently downloaded snap backup and began using it.  i like it... a nice simple,
+      'user freindly' application.  thanks."
+      — k.h. 
+"thanx for this cool platform independent backup solution that is very easy to handle on
+      both linux and windows boxes!  exactly what i've been looking for."
+      — k.s. 
+"love it!  clean and easy.  thanks!"
+      — b.g. 
+"very clear interface!"
+      — t. 
+"great software!"
+      — k.s. 
+"excellent utility - thanks."
+      — d. 
+"i love your backup program, thanks for building it..."
+      — g.b. 
+"thanks for a nice program..."
+      — l.b. 
+
+
+
+
+more information
+
+         if you have a question, check out the faq or create a new
+         issue.
+      
+
+
+
+
+
+
+
+
+
+
+snapbackup.org
+         snap backup® is a registered trademark of
+         center key
+         java is a registered trademark of oracle
+         other registered trademarks are the property of their respective owners
+      
+
+
+
+

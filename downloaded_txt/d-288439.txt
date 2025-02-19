@@ -1,0 +1,85 @@
+
+
+
+
+improware ag – antispam
+
+
+
+
+
+skip to content
+
+
+
+
+improware ag – antispam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our dnsbl services:
+
+dnsrbl.swinog.ch (realtime blacklist assembled by spamtraps)
+spamrbl.swinog.ch (ip-adresses from catched spammails)
+uribl.swinog.ch (realtime blacklist built from spamtrap sources)
+
+dnsbl (dns-based black list) and rbl (real-time black list) are lists of ip addresses that are suspected of sending spam and are used to prevent unwanted email messages from reaching unsuspecting recipients.uribl lists domains that appear in spam, not where they were sent from.more information about rbl -> wikipedia
+
+procedure to request delisting
+
+ if you are not an email administrator and don't own or manage your own email server, you should never have to remove yourself from this list. 
+ip removals for our dnsbl-services are 100% free.
+most removal requests are processed within 48 hours
+you can't submit an ip removal more than once every week!
+
+
+check your ipv4 address: 
+
+
+
+check your ipv6 address: (coming soon) 
+
+
+
+check your uri address: 
+
+
+
+
+
+
+
+
+
+
+
+footer content
+
+
+
+
+			
+			
+		 improware ag - zurlindenstrasse 29 - 4133 pratteln - switzerland
+
+		
+
+		
+
+
+
+
+
+
+

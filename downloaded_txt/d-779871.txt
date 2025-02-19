@@ -1,0 +1,436 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pulsonix | pcb design software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+products & solutions
+
+products
+new in version 13.0
+pulsonix scm/pcb
+high-speed design
+spice simulation
+advanced autorouter
+pulsonix vault
+database connection (pdc)
+all features
+download free trial
+
+
+solutions
+schematic capture
+pcb layout
+3d design
+embedded component technology
+chip-on-board design
+flexi-rigid pcb design
+rf design
+plm integration
+migrating from other systems
+
+
+
+sales
+
+customer stories
+datasheets
+request a free trial
+where to buy
+contact us
+
+
+
+technical
+
+product documentation
+product downloads & updates
+
+tools & utilities downloads
+component search engine
+
+online gerber viewer
+
+
+
+services & support
+
+contact support
+training courses
+user forum
+technical information
+partners, tools & libraries
+
+
+
+about
+
+user login
+about us
+esg
+policies
+contact us
+
+
+free trial
+
+
+
+sign in
+request new login account
+forgot password
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+request a free pulsonix trial
+
+read about the latest version 13.0
+
+
+
+
+
+
+
+
+
+pulsonix pcb design software
+scalable schematic capture & pcb design software
+
+
+
+
+pulsonix pcb design software
+scalable schematic capture & pcb design software
+
+
+
+
+pulsonix pcb design software
+flexi-board design
+
+
+
+
+pulsonix pcb design software
+integrated 3d pcb and mechanical cad environment
+
+
+
+
+
+
+
+
+
+
+
+
+upgrade your electronic design process
+
+
+do you struggle with expensive annual costs, not owning a perpetual license or inferior functionality? 
+					try pulsonix today as an easy solution
+
+
+
+
+
+
+
+here are just some of the pulsonix highlights...
+
+
+schematic capture
+
+easily create schematic designs using the feature rich toolset within the pulsonix schematic editor. use pulsonix scm and the 
+                    built-in spice library to simulate your design ensuring electrical correctness at all stages of your designs. buy additional 
+                    schematic only seats for a cost-effective solution.
+
+
+pcb layout
+
+sophisticated design rules enable all aspects of the pcb design to be managed and created. easy to use routing and layout features 
+                    including push-aside routing and component placement and full assembly variants are all included as standard in pulsonix.
+
+
+high-speed design
+
+easy to define and powerful high-speed design tools including constraint manager, differential pair routing, dynamic serpentine 
+                    routing, pin package lengths, intelligent path definition and online length displays to help with ddr, pci express and usb designs.
+
+
+
+
+flexi-board support
+
+advanced technology to support flexi-rigid designs, chip-on-board and embedded components including embedded resistors, 
+                    capacitors, thinned-dies and planar transformers.
+
+
+3d view & mcad outputs
+
+real time 3d view of your design in the built-in pulsonix step preview engine. add cases and enclosures, run clash detection in 
+                    real-time. additional bi-directional step, idf and dxf exports to your mechanical cad system.
+
+
+pulsonix vault
+
+full access control, revision history and saved search capability of pulsonix designs, libraries and technology files in the 
+                    pulsonix vault provides you with total control and in an audited environment.
+
+
+
+see all features
+
+
+
+
+
+
+
+discover why thousands of companies around the world choose pulsonix
+
+
+"the capability of pulsonix and the supportive team at westdev haveâ helped us make this importantâ transition and to move forward." 
+                        
+mark wilkinson - copernica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+request a free trial
+all the features of the full edition and only limited to 100 component pins.
+request pulsonix for free
+
+
+
+contact us
+we have sales channels throughout the world that will be able to help you.
+contact us
+
+enter your country in the box below to find your nearest distributor
+
+
+
+
+
+
+
+request free trial
+contact us
+
+
+
+
+
+
+
+
+
+sales
+
+where to buy pulsonix
+
+product datasheets
+
+
+careers
+
+career opportunities
+
+
+
+support
+
+search pulsonix.com
+technical support
+user forum
+
+access the component search engine
+
+
+
+pulsonix
+
+                ph. +44 (0) 1684 296 551
+				email. sales@pulsonix.com
+
+
+
+
+policies
+
+
+
+
+
+
+
+
+
+copyright westdev ltd 1997-2025
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

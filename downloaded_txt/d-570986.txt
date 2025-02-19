@@ -1,0 +1,274 @@
+
+
+home page of marat fayzullin
+
+
+
+
+
+
+
+
+
+
+
+
+fmsx
+
+
+vgb
+
+
+vgba
+
+
+ines
+
+
+mg
+
+
+colem
+
+
+speccy
+
+
+almostti
+
+
+
+
+
+
+windows
+
+
+android
+
+
+symbian
+
+
+how?
+
+
+who?
+
+
+tell!
+
+
+
+
+
+
+
+marat fayzullin
+
+
+
+my resume
+
+
+i have got my phd degree in
+computer science from the
+university of maryland in college park,
+worked for intel inc. for a while, and
+am now doing software consulting work for different clients. i am always 
+open to new job opportunities though, contract or otherwise. if you are 
+interested in hiring me, please, see my
+resume. i have also written several freeware and
+shareware emulators of old computer systems 
+and game consoles and maintain a variety of web pages that you will find 
+linked below.
+
+
+at this site
+
+web pages
+
+
+
+computing history page
+
+
+computer emulation resources
+
+
+nintendo gameboy page
+
+
+#russian irc channel homepage
+(ancient)
+
+
+msx page
+
+
+
+
+
+emulators
+
+
+
+
+computer emulation resources
+
+portable emulators of z80 and 6502 cpus that my other emulators are based 
+upon, sound chip emulators, tools, as well as other assorted source code 
+and information.
+
+
+
+fmsx
+
+fmsx emulates msx, msx2, and msx2+ 8-bit home computers. fmsx is written 
+in c and successfully ported to amiga, macintosh, pc (msdos and windows 
+versions), and other platforms by a dozen of different people around the 
+net. the original version has been developed on unix.
+
+
+
+virtual gameboy
+
+virtual gameboy (vgb) is an emulator of gameboy and gameboy color portable 
+videogame systems produced by nintendo. virtual gameboy is written in c 
+and therefore can be run on any sufficiently fast system, given the 
+hardware-dependent drivers for display and keyboard.
+
+
+
+colem
+
+colem is an emulator of the old colecovision videogame console. it is 
+basically a simplified version of fmsx, as colecovision has almost the 
+same hardware as msx1.
+
+
+
+ines
+
+ines emulates an old 8-bit nes (also known as famicom or dandy) console 
+from nintendo that has been very popular all over the world, albeit under 
+different names.
+
+
+
+mastergear
+
+mastergear emulates several 8-bit sega consoles and home computers: the 
+old sg1000 / sc3000 / sf7000 family, the mastersystem, and the portable 
+gamegear. mastergear is using the same z80 emulation as fmsx and colem.
+
+
+
+virtual gameboy advance
+
+virtual gameboy advance (vgba) emulates the newer gameboy advance handheld 
+console from nintendo. equipped with a 32-bit arm cpu and snes-derived 
+graphics chip, gba is not easy to emulate in software, but it can be done 
+:).
+
+
+
+speccy
+
+portable sinclair zx spectrum emulator. speccy runs software written
+for 48k and 128k spectrums and timex sinclair computers. it also supports
+many hardware addons, such as joysticks, mice, printers, etc.
+
+
+
+almostti
+
+portable emulator of graphing calculators from texas instruments.
+almostti currently supports ti82, ti83, ti83+, ti85, and ti86
+calculators from texas instruments.
+
+
+
+
+
+usenet faqs (old)
+
+
+
+at some point in my life, i maintained several usenet faq documents. other 
+people have taken over the maintenance of these faqs since then. for
+historical purposes, i am providing the original faqs below:
+
+
+
+msx.faq
+
+faq about msx computers from comp.sys.msx.
+i have been maintaining this faq for a while, as nobody else has taken the 
+job.
+
+
+
+gameboy.faq
+
+faq about nintendo gameboy portable videogame console from
+rec.games.video.nintendo.
+after a while, it turned into a separate web site.
+
+
+
+spectrum.faq
+
+faq about sinclair zx spectrum computers from
+comp.sys.sinclair.
+damien bourke has eventually taken over its maintenance.
+
+
+
+
+
+ham radio control software (old)
+
+
+ scannow for aor ar8000
+ scannow is a program to control a radio scanner from the computer.
+     it takes very small screen estate and disk space, but includes a
+     lot of features one would expect from a much bigger program. only
+     ar8000 scanner is supported at the moment.
+
+
+
+
+
+amiga software (ancient)
+
+
+ wbgames 2.5
+ six simple games which can be played on any public screen: tetris, 
+     columns, 15, minesweeper, boxman (soukoban clone), and boulder 
+     (boulderdash clone).  picture 
+     included.
+
+ dashboard 1.7
+ a utility showing cpu load and memory usage with two nice gauges 
+     (a la xload).  picture 
+     included.
+
+ superdashboard 1.1
+ a newer version of dashboard which also includes system structures 
+     browser and real-time zoom.  picture 
+     included.
+
+ protector 1.2
+ password protection for amiga. this program is supposed to be run 
+     in startup sequence before any other program. it opens a screen 
+     and displays a login window on it. program supports multiple users 
+     and logging.  picture  included.
+
+
+
+
+
+periodically maintained by marat fayzullin [marat at komkon dot org]
+
+

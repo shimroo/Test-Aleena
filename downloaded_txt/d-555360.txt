@@ -1,0 +1,939 @@
+
+
+
+
+
+
+
+
+
+
+
+egosoft · community · news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+developed by    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ communitynews 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+news
+
+
+
+
+games
+
+
+
+
+community
+
+
+
+
+
+
+
+
+
+
+forum
+
+
+
+x-universe news
+
+
+
+wiki
+
+
+links
+
+chat
+
+
+
+developer network
+
+
+
+
+
+
+
+
+
+
+support
+
+
+
+
+downloads
+
+
+
+
+company
+
+
+
+
+shop
+
+
+
+
+
+
+
+
+
+
+
+buy x-series online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30.jan.25
+revealing the x4: hyperion pack – coming in q1  (85 comments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+if you’ve seen our xmas card and the roadmap for the near- to mid-term future of x4: foundations, then you might already have a pretty good idea of what new content is coming to x4 this quarter. but now, it’s time to make it official and end the suspense!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our next dlc for x4: foundations will be titled x4: hyperion pack, and as previously mentioned in our roadmap news, it will be "more compact than previous x4 expansions." as the name suggests, the x4: hyperion pack will focus on bringing the hyperion ship into x4 – one of the most frequently requested ships from the community. alongside this, additional new content will be introduced, which we outline below and on the x4: hyperion pack steam page (make sure to wishlist it, please - it helps us a lot with visibility on steam!).
+
+>> x4: hyperion pack reveal teaser @ youtube <<
+
+depending on the success of this first "mini dlc," we plan to follow up with similarly sized dlcs to accompany future free base game updates. as outlined in our roadmap news, our primary focus in 2025 is on delivering consistent and impactful improvements to the base game. as in the past, these base game updates will be free for all existing x4 players, while purchases of the mini dlc, such as the x4: hyperion pack, will support ongoing development.
+
+thank you for your continued support and loyalty to x4: foundations. we still have plenty of exciting plans for the game, and we’re looking forward to another thrilling year with all of you.
+
+what can i look forward to in the x4: hyperion pack?
+
+the x4: hyperion pack expands the universe of x4: foundations with:
+the legendary hyperion expeditionary ship a new mission chain to discover and unlock the hyperion a new gamestart, granting immediate access to the hyperion if you prefer to jump into the new ship straight away a brand new sector, waiting to be explored in the open universe new music tracks that enrich the x4 soundtrack, elevating your auditory space journeyrediscover a legend
+the hyperion is back, reimagined and ready to leave its mark on the universe once more! this iconic ship introduces an exciting new ship classification: the expeditionary class. seamlessly blending raw power, agility, and a compact yet versatile design, the hyperion captures the essence of the paranid like never before.
+
+a new class of power and agility
+the hyperion redefines the limits of what a capital ship can achieve. despite its classification as an l-class ship, it stands out with its sleek, lightweight frame and unparalleled manoeuvrability. slightly larger than a frigate, this unique ship punches above its weight class by combining heavy-duty large (l) equipment with an exceptionally small target signature. its capabilities include:
+six main gun mounts, designed for devastating offensive capabilities m-sized turrets, offering robust defensive coverage l-class shielding and engines, delivering superior durability and mobility in a remarkably compact frame enhanced missile capacity, ensuring sustained firepower in prolonged engagementsits agility and firepower make it an ideal choice for daring solo operations or engaging in high-stakes battles, provided there's room to leverage its impressive manoeuvrability. the hyperion also comes equipped with a single docking bay, capable of accommodating and repairing up to two s-class ships, adding logistical and strategic flexibility to your missions.
+
+new adventures await
+the hyperion isn't just a ship - it's a symbol of innovation and adaptability. with features like repair and resupply capabilities for docked ships, above-average cargo capacity for a combat ship, and a crew complement well-suited to boarding operations, this ship thrives in the hands of skilled pilots. whether you're navigating dangerous trade routes, engaging in piracy, or leading fleets into uncharted territory, the hyperion is your ultimate companion.
+
+prepare to command a legend. are you ready to reshape your destiny in the universe of x4: foundations?
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+24.dec.24
+merry x-mas and a happy new year  (12 comments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+dear x-fans, we would like to wish you a merry x-mas and a happy new year!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+another year has almost passed, and once again, a lot has happened in our beloved studio and with our game. as always we've worked tirelessly, and have brought you two very important things for x4: foundations:the 7.00 major update, which introduced numerous new features, improved upon lots of existing ones, and fixed various bugs. the x4: timelines expansion, which offers a unique game mode, in which you can play different historic and skill-based scenarios, and even compete against the scores of your fellow players.this year also marked the 25th anniversary of the launch of our very first x game, x: beyond the frontier. we celebrated it with a fantastic sale and a heartfelt "thank you" video from our founder and managing director, bernd lehahn.
+
+you helped grow our wholesome community: our official forum, the x4: foundations steam forum, the x4 subreddit, and even the egosoft discord gained thousands of new members who now have welcoming places to connect. thank you. if you're looking for an overview of all our communication channels, please visit our linktree.
+
+so what's next, you might ask?
+long story short: we are far from being done with x4: foundations, and boy, do we have some goodies in the works for you. you might have already seen our recently released roadmap for x4, which loosely outlines what you can expect in the future. let's focus on what's coming in the first quarter of 2025:flight model update: we're deploying a major update that will enhance the flight model of all ships, among other things. this is no small change, as it will affect every pilotable spacecraft. their specifications and movement will vary significantly depending on which engines and thrusters you install. we kindly ask that, if you have the time and energy, you join the public beta and share your feedback. "mini dlc 1": well, what could this be? "introducing a fan-favourite ship"? but there are so many to choose from! eventually, we had to pick one, and we've gone with arguably the "bestest ever" option: the hyperion, as the game's very first expeditionary ship!so, what is the hyperion?
+our veteran players are hopefully already screaming in joy at this point. if you take a closer look at the x-mas postcard above, you might be able to find the ship under the numerous festive ornaments. the paranid hyperion has quite the story, having played a major role in x3: reunion's bala gi missions. it was a fan-favourite vessel from the start, and we hope that it will meet your expectations in x4: foundations as well! to tease you a little, we think you will consider it as one of your larger "daily drive" ships, but don't let its size fool you; it will easily outrun and outmanoeuvre its adversaries, and will make short work of smaller targets quickly and efficiently. it also comes with a brand-new classification: an expeditionary ship. what could this mean? time will tell!
+
+we hope you've enjoyed playing our games and felt welcomed in our community. here's to another great year!
+
+best wishes,
+the egosoft team
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+03.dec.24
+x4: foundations 7.50 flight model update - public beta starts now!  (70 comments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+we're excited to announce the start of the public beta for the upcoming 7.50 update for x4: foundations, also known as the "flight model update"! this major update introduces a substantial overhaul of the game's flight model, bringing smoother and more realistic ship controls to the x4 universe. check out the full changelog at the end of this news post and join our public beta today to support us in preparing for the update's release in the first quarter of 2025.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for this ambitious transformation, we've partnered with john pritchett, a former senior physics programmer from the star citizen development team, who has been instrumental in reworking ship handling in x4. this update brings significant changes to ship control and flight pathing, and we're thrilled to give you the chance to experience it first-hand.
+
+be sure to watch our latest xlog episode, where egosoft founder and managing director bernd lehahn shares his thoughts on the upcoming changes and our plans for the next year. also, don't miss our recently posted roadmap news, which offers a broader look at our vision for the future of x4.
+
+in addition to the new flight model, we're making balancing adjustments across all ships in the game. expect refined engines, thrusters, and other ship components as we work to create a balanced, optimised experience that fully leverages the new flight dynamics.
+
+this update also expands the x4 universe with several new sectors, connecting previously distant terran and boron regions. and alongside these new areas of space, we're introducing adjustments to the in-game economy.
+
+on the visual front, the 7.50 update will bring major enhancements to our graphics engine, including dlss and fsr 3 support.
+
+how do i take part in the public beta?
+every player who owns x4: foundations has the opportunity to download the new 7.50 public beta version. to ensure that beta participants are aware of the risks and rules involved, we ask all interested players to visit our forum (no registration required), where they will find the rules, disclaimers, and practical instructions for participating in the beta.
+
+we're excited to hear your feedback on this transformative update. follow our steam updates and other channels via our linktree to stay informed as we move closer to the official release.
+
+(please visit our forum for the complete changelog)
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+27.nov.24
+what’s next for x4? an early look into 2025  (114 comments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+the 25th anniversary year for the x series is rapidly approaching its end, and it’s been a few months since 7.10, our last major update for x4: foundations, launched in august. those familiar with our development journey will already know that this apparently quiet period actually means that behind the scenes we’re working hard on future developments. at such times we’ve always tended to be a bit more cautious in our public communication, to avoid setting expectations that may turn out to be unrealistic. our highly iterative development process, and the shifting plans that lie behind it, often mean that we can’t predict exactly what will happen and when.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+however, we’re now at a point where we believe that we can comfortably share a picture of what lies ahead for x4 in 2025. so, today we’re excited to present a general roadmap, which will provide an insight into our direction and give you an idea of what you can look forward to. please keep in mind, though, that some of the details of this roadmap may still evolve – so consider this our current vision rather than a finalised plan!
+
+first quarter 2025 – flight model update
+our next major free update for the base game will feature a significant change that’s been in the pipeline for a long time: a complete overhaul of the flight model. over the past few years, we’ve been working towards making flying in the x4 universe smoother, more realistic, and more natural. this latest update involves substantial changes to ship control and flight pathing, and has required extensive mathematical expertise to execute.
+
+to facilitate this, we’ve partnered with john pritchett, a former senior physics programmer on the star citizen development team, to lead the transformation of x4’s flight model. we’re delighted to be able to incorporate john’s contributions, and we look forward to hearing your feedback once you’ve experienced it first hand. it’s definitely something you’ll need to feel in-game rather than see in screenshots or videos, so stay tuned for a public beta (soon™).
+
+as part of these flight model changes, we’re also adjusting the balancing of every ship in x4 to make the most of these improvements. this task involves revisiting engines, thrusters, and other ship components, with our team running extensive iterations to prepare a balanced experience.
+
+beyond the flight model changes, we’re also adding several new sectors to the game as part of this update, creating additional connections to the terran and boron areas of space that were added in their respective expansions, x4: cradle of humanity and x4: kingdom end. these new connections will be paired with some adjustments to the in-game economy – we’ll be giving more details on that once the public beta has started.
+
+on the graphical front, this update will introduce yet more significant enhancements to our graphics engine, including dlss and fsr 3 implementation.
+
+we’re looking forward to launching the public beta for this transformative update as soon as possible. however, as you can imagine, these “game-changing” features require a little more time in the internal and private testing phases, so follow our steam updates or our other communication channels (see linktree to stay informed).
+
+first quarter 2025 – “mini dlc 1” (working title)
+alongside the free updates to the base game, we’re planning a smaller-than-usual dlc release early next year. while content specifics are still in the works, this “mini dlc” will be more compact than previous x4 expansions. a confirmed feature is the re-imagining of a fan-favourite ship from earlier x series games; one which has been eagerly requested by members of the community. the dlc will also feature some activities surrounding the acquisition of this ship, and maybe even its blueprints. stay tuned, as we may reveal the ship as a christmas surprise this year!
+
+third quarter 2025 – diplomacy update
+later in 2025, we are planning a free base game update that will focus on diplomacy gameplay in x4: foundations. this update will introduce a new room in the player’s headquarters, where faction representatives can gather and offer you strategic options. in addition to this room, players will have access to agents (npcs) who can be dispatched on independent missions to achieve diplomatic goals in the x universe. the highlight of this update will be diplomatic events, giving players the opportunity to manipulate their own relations with other factions, and even in some cases between specific npc factions. we’ll have more to share regarding further features of the diplomacy update as we get closer to its release.
+
+third quarter 2025 – additional mini dlc
+depending on the success of the first mini dlc, we may follow up with similarly sized dlcs to accompany other free base game updates. as you can see, our focus in 2025 is on consistent, impactful improvements to the base game and, as in the past, those base game updates will be free to existing x4 players, with mini dlc purchases supporting ongoing development.
+
+2026 – exploration update
+in early 2026, we aim to release another major update, this time with the focus on exploration. this update will introduce new anomalies that guide players to unexplored sectors of the x universe, each with unique and exciting discoveries. as development progresses, we’ll refine the details around this overall theme, such as improvements to long-range scanner gameplay, and a range of missions for discovering these anomalies. although this feature is still fairly early in its development cycle, exploration will definitely be an essential part of x4’s future vision. we welcome your thoughts on this theme!
+
+2026 – another major update, too early to really talk about!
+looking further ahead, most likely in the latter part of 2026, we have plans for yet another major update marking another milestone in the game’s development. while we’re keeping details very much under wraps for now, we can assure you that exciting additions and premieres are planned for the series.
+
+we hope this roadmap gives you a clearer, though admittedly still somewhat vague, vision of what’s in store for x4 in the coming year. we can’t wait to kick off the public beta for the next update, so be sure to stay connected to our communication channels. if you’re new, then check out our linktree for a comprehensive overview of our news and community resources.
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+02.sep.24
+celebrating 25 years of x!
+
+
+
+
+
+
+
+
+
+
+
+
+
+on a fateful day, test pilot kyle brennan made a jump from earth into the x universe with the iconic xperimental shuttle. this set in motion the events in x: beyond the frontier, which was released in 1999, and started the x series of games.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this year marks the 25th anniversary of the x series!
+
+for two and a half decades we have explored space, immersed ourselves in lore, managed economic empires, and fought in epic battles, through several main game releases, numerous add-ons, expansions and major updates - and we are far from done!
+
+we would like to take this opportunity to reminisce a little about the past 25 years of x games, and have prepared a video in which bernd lehahn, creator of the x universe, takes a flight down memory lane. enjoy!
+
+celebrate the x series during the steam space exploration fest!
+from september 2nd to september 9th, 2024, steam is celebrating our favourite genre with its "steam space exploration fest". whether you want to complete your collection of x games or jump into the x universe for the first time, now is the best moment to do so!
+
+thank you all for following us on this quarter-century-spanning journey, and for being a vital part of our history. we are truly privileged to have such a great community.
+
+feel free to share your favourite memories from your years with the x series in the comments below.
+
+see you in space!
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+19.aug.24
+important update for x4: foundations players regarding gog cloud saves  (0 comments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+we would like to bring to your attention an important update from gog that will affect cloud save functionality for x4: foundations. starting august 31st, 2024, gog is implementing new storage limits for cloud saves. this restriction limits the available space for cloud saves to 200mb per game, i.e. 200mb for all saves for that game combined. this change could result in the deletion of your save files stored on gog's cloud if they exceed this limit.key points to note:
+cloud save limitation: gog has announced that any save files exceeding 200 mb per game will be deleted after the specified date. this means that continuing to rely on cloud saves might not be viable, since x4: foundations will often have save files which, in combination or potentially even individually, exceed this limit.back up your saves: we strongly recommend that you back up your cloud saves locally using gog galaxy before the deadline. this will ensure that your progress is not lost. you can manage your cloud saves through gog galaxy by downloading them and reviewing your saved data.disable gog cloud saves: to avoid any complications, users can disable the cloud save feature using the gog galaxy settings. this will prevent any potential issues related to the new storage limitations.we understand that this change may be inconvenient, and our aim is to help you navigate it. if you have any questions, or need assistance, feel free to reach out to the gog support team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+08.aug.24
+update 7.10 now available  (34 comments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+a mere seven weeks or so after the release of our major 7.00 update for x4: foundations, we're pleased to announce the release of the 7.10 update, bringing a range of improvements and fixes to enhance your space-faring adventures. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in addition to improvements to ship behavior during activities such as docking, mining and combat, fixes for smoother progression and completion of various missions, performance and stability enhancements, and a number of small but impactful improvements to the user interface, this update also features a new factions and relations tutorial to help players navigate the complex political landscape.
+
+for a detailed list of all the changes and fixes, check out the full changelog in our forum.
+
+featuring as ships in the new x4: timelines expansion, the dart now includes a travel drive when unlocked in the open universe, allowing it to be used as a fast and efficient way of getting around the galaxy, while the sapporo has been upgraded with a new anti-fighter missile to boost its combat effectiveness. further improvements have been made in x4: timelines itself, making its exploration and combat scenarios more engaging. 
+
+for those looking to make their mark, the x4: timelines leaderboards offer an exciting competitive element to the expansion. we're sharing a quick video guide here, to help more players learn how to log in and track their ranking. join in and see your name rise to the top!
+
+the 7.10 update for x4: foundations is now live. dive into the game to experience these enhancements and fixes that elevate your gameplay experience. fly safe, and may your journeys through the stars be ever thrilling. and a big thank you to everybody who has been involved in beta testing 7.10 over the past few weeks!
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+07.aug.24
+interview with x series composer alexei zakharov  (6 comments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+the x-universe is vast and beautiful. no matter where you are in the game, or what pursuits you are involved in, music is omnipresent. the music composed by alexei zakharov plays an integral part in creating the atmosphere of the universe and breathing life into its different locations and situations, from calm explorations to massive battles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+today, we want to give you a glimpse into the mind of the artist behind the music, so we welcome alexei for a short interview about his art and work for the x4 soundtrack. enjoy! 
+
+welcome, alexei! how did you get into composing music?
+i think that i always loved music. even though none of my parents were musicians, music was always playing in our house. my dad was a fan of classic rock and was listening to queen, pink floyd, deep purple, uriah heep… and little me was happy to be around that. my dad later told me that instead of lullabies, he was singing metal songs to me when i was born. though i have never had a chance to get a proper music education, i was eager to play all musical instruments i saw, like old detuned and distorted sounding pianos at friends and relatives' houses, my granddad's broken balalaika (which i inherited), and every good sounding surface to use as a drum. when i grew up, i think that it was at the age of 13, my friend and i discovered our first music software, and i think that was one of the trackers, probably fast tracker. there were many other software tools we tried back in the days, it was more out of the fun and i never thought that i would end up producing music professionally.
+
+what are your biggest musical influences?
+there have been many and they were changing throughout my life. as i have already said, i was really a fan of classical rock and i'm still listening to it. also, some much heavier metal music. it always gives me energy, not always positive, but every energy and emotion is good for producing your own music. i also love to listen to some classical music: sveridov, tchaikovsky, rachmaninov. movie soundtracks too, but i am not a fan of modern soundtracks, when the sound is more important than the melody. howard shore is great in that regard, an amazing composer of an old school of soundtrack writing. as for games soundtracks, a lot are also way too generic these days. i can probably note gareth coker as one of the best composers in the games industry now. that guy rocks!
+
+how did you come to create music for the x games?
+it was a mix of luck and coincidence. back in the day, i think it was the summer of 2003, i was already a fan of the x series and just on a whim decided to write an email to egosoft, saying how much i love their games and how good the music in there was. i also mentioned that i am producing electronic music and would love to write something for them. a couple of days later, i received an answer from bernd, the boss himself! i was shocked and happy at the same time, but he said that they don't really need any techno music, but that i am free to send whatever i have. i decided to write something completely new and after two days i had a track that i sent to him. he seemed to like it a lot and said that it will definitely end up being used in x2. this track was "aurora" and you can find it on the x3: albion prelude soundtrack, which was released much later. after that, i composed several additional tracks like this and bernd asked me to do music for a rolling demo, which was supposed to be released just a couple of days after his request. i composed four tracks for it on a very tight schedule, and the music was added to it just an hour before it was released. that was my first work for egosoft. the rest is history.
+
+your music provides the x games with a strong identity. how do you explore the themes of the x-universe musically?
+i just play, explore and see myself... but trying to do that in small pieces. for example, we needed music for the hub in our newly released expansion - x4: timelines, i was just starting the game and making it run on a desktop for some time and was trying to imagine and feel what could fit each place there. after some time, i had a strict idea of what i should compose and how it would sound. after putting the tracks inside the game, i am also spending some time running around or just standing still and listening to the music and how it feels to be inside the game. then i am showing the stuff to the team and listening to the feedback. that's my algorithm.
+
+how do you approach your work on new x music? what does your creative process look like?
+i have already partially answered that question in a previous one, but i can try to explain how it goes on a more global scale. on a global scale, it is always going very differently and sometimes even chaotic. music production is spread throughout the whole development cycle. since i am doing not just music, but the whole sound in our game, sound effects production and music production stages interchange with each other all the time. sometimes it is hard to always change the way you work, but in other ways it helps to not be overly bored with doing the same stuff all the time. when it comes to the music composing itself, it is also coming very differently. sometimes i just force myself to sit and write something, because i have to! but sometimes, i just manically wake up in the night and run to my studio pc to write a theme that just came to me in a dream. music is such an unpredictable thing that it can get you in very uncommon places and you never know when exactly. and of course, these spontaneous tracks are the best. for example, track "rise of the protectorate" was composed like that. the idea of a vocoded robotized sounding choir came to me at night.
+
+do you compose only with electronic instruments, or do you also work with analog instruments?
+i am mostly composing using hardware synthesizers and sampled orchestra. i own 6 synthesizers which i purchased during my career in egosoft. not everything at once, of course. my first purchase was a virus ti, one of the most iconic modern synthesizers, which was sadly discontinued this year. it's one of my favourites for composing space-oriented music and i think that i will never ever get rid of it. also, i own a couple of korgs, and the last purchase was a clavia nord stage 4. but if i need to enhance my tracks with live instruments, i contact my friends in the orchestra to record things for me. whether it's a large-scale orchestra or just single instruments, it always sounds much better. quite often i am also using real world sounds to enhance my music. for example, for the track "mission control" in x4: timelines, i recorded the sound of my metal door. after working with that sound, i pitched it down and heavily effected it, it turned into this very ominous growling sound that you can hear throughout the whole track. that is just a small example of how these tracks become alive.
+
+which track that you have created for x are you most proud of and why?
+i think that there is not one super specific one. of course, i love what i do, but there is always room for improvement. we should never stop learning and evolve. so, i would leave that choice to our dear players and listeners.
+
+have you ever encountered a creative barrier while composing? how have you overcome those hurdles?
+of course, i have and that is a part of the creative work process, when you always have to do something new, but in a way, so that your audience will be happy and not disappointed. i think that is my main blocking factor, not to disappoint, and make it as good so the team and myself are happy with the results. but, as always, most of these blocks are mainly in my head and i tend to give them too much room. what helps? hmm... maybe walking in the forest, or sitting on a bench at the river, always different stuff. but sometimes, the most helpful thing is just to force myself to sit down and just do it.
+
+are there themes or musical influences that you would like to explore further in the future?
+we are always trying something new. though in slow portions. but for the future, i would like to make a bigger step in changing music. it could become darker and much heavier, but of course, it will stay melodic.
+
+what is your single most important advice for aspiring artists?
+don't start it, haha. it will take all of your time, heart, emotions and even eats you alive… and it is not guaranteed that you will become successful in any way and make you profit. but if you are not afraid, and have already decided to overcome all of this, it is your first step to becoming successful. just remember how hard the road can be and that many famous composers were not actually famous during their lifetime. many of them were unhappy and never believed truly in their work. only much later have people acknowledged their genius. so, after saying this, my advice would be to believe in your work. maybe today, nobody listens to it, but if you will be truly faithful to your job, there will be a time when it will be appreciated!
+
+besides creating music for a whole universe, what do you enjoy in life right now?
+oh, i don't have much time for anything else. probably just playing games sometimes, since this is my first passion after music. travelling to mountains, once a year. mountains give me a lot of energy and inspire me a lot. i would say that this is my place of power.
+
+where can people follow you and your work?
+sadly, i don't have any website at the moment, since all we need are social networks these days. so, here are my social pages and music streaming profiles:soundcloud spotify apple music youtube music amazon music deezer tidal yandex musicany last words you want to direct to your fans?
+thank you very much for being with me for all these years! love you all!
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+02.jul.24
+7.10 public beta now available  (16 comments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+when one beta finishes, another one starts - here we are again! following the great reception of the free 7.00 update for x4: foundations, we're diving straight into preparations for the next update. we look forward to your support in the 7.10 public beta, which is now available. you'll find the changelog in our forums.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+how do i take part in the public beta?
+every player who owns x4: foundations has the opportunity to download the new 7.10 public beta version. in order to ensure that beta participants are aware of the risks and rules involved, we ask all interested players to visit our forum, where they will find the rules and disclaimers, as well as practical instructions for participating in the beta. follow this link to our forum - no registration required - to find the relevant information.
+
+please share your feedback / bug report in our public beta feedback forum. before doing so, please make sure you read the public beta rules and information, which you can find in a sticky thread at the top of that forum.
+
+faq on x4: timelines and the future of x4
+in case you missed it: shortly after the release of the latest expansion, x4: timelines, we published an extensive faq addressing some of your most pressing queries about timelines. in the faq, we list all the rewards you can unlock in timelines for your x4 sandbox, and explain how the development of x4: timelines has positively impacted, and will continue to impact, the future of x4. we also provide a brief outlook on our priorities for the next major updates (likely to be numbered 7.50 and 8.00). feel free to check out the faq in our steam news.
+
+sapporo and dart ship showcase
+the 7.10 public beta is making some changes to two of our exciting new ships, so we're showcasing them a bit more closely in this news. both of these ships can be used in your x4 sandbox by playing our latest expansion, x4: timelines (see faq for unlock conditions). please check the changelog at the end of the news to see the changes made to these ships in 7.10 public beta 1.
+
+sapporo
+(originally a sturdy terran deep-space explorer, later refitted to fill in as a nimble light destroyer and saviour of humanity)
+
+"the sapporo class was created as a non-combatant exploration vessel to be used to scout out new locations for the terran to colonise. as the terraformer conflict ramped up, the sapporo was quickly redesigned to perform as a mobile command and control centre, able to oversee larger battles and provide a powerful pivot point for any battle. it still maintains several features of its originally planned role, such as its high speed and manoeuvrability."
+
+dart
+(an unreasonably fast racer for the reckless, which pilots with a stronger sense of self-preservation may prefer to keep as a trophy)
+
+"the dart was initially released as a mail-in kit project, to which an aspiring racer could subscribe and have parts shipped to them periodically. due to its popularity, the dart was quickly offered as a ready-to-fly ship, and the project took no new kit customers. it is easy to identify a kit-built dart from a production one, as the tooling for the rear titanium fins was recreated due to complaints about the fins' shape not fitting that of the rest of the ship. despite being discontinued, the kits remain remarkably popular, and incomplete kits regularly sell for beyond the price of a production ship."
+
+modding support: new documentation in the x wiki
+we would like to inform x4 modders that we have changed the structure of the "modding support" section of our x wiki. additionally, four new guides have been added to the wiki:attachment docking bays elevator setup tags & flagscommunity modders have also added new guides to their parts of the wiki, so be sure to check it out; it will certainly make a modder's heart beat faster!
+
+
+
+
+
+
+
+
+
+
+
+
+posted by gregory
+
+
+
+
+find older news in our archive...
+
+
+
+
+
+
+
+
+
+
+
+
+community
+
+
+users: 362517logged in: 20
+
+
+
+latest screenshot
+
+
+
+
+
+
+x4: foundations
+
+
+
+
+
+
+
+
+
+x rebirth
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ disclaimer / impressum ] | [ privacy policy / datenschutz ]copyright © egosoft 1990-2025
+
+
+

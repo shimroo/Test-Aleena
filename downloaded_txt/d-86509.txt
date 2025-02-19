@@ -1,0 +1,2384 @@
+
+
+
+
+
+
+ktm - always ready to race
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+models
+
+
+
+
+
+select range
+
+
+
+            motocross
+            
+          
+
+            enduro
+            
+          
+
+            cross country
+            
+          
+
+            electric
+            
+          
+
+            dual sport
+            
+          
+
+            travel
+            
+          
+
+            sports tourer
+            
+          
+
+            supermoto
+            
+          
+
+            naked bike
+            
+          
+
+            supersport
+            
+          
+
+            x-bow
+            
+          
+
+            brabus
+            
+          
+
+
+
+
+
+
+
+
+
+
+motocross
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+4-stroke
+
+
+
+
+
+                          2025 ktm 250 sx-f adamo edition
+                          
+                        
+
+
+
+                          2025 ktm 450 sx-f factory edition
+                          
+                        
+
+
+
+                          2025 ktm 250 sx-f factory edition
+                          
+                        
+
+
+
+                          2025 ktm 450 sx-f
+                          
+                        
+
+
+
+                          2025 ktm 350 sx-f
+                          
+                        
+
+
+
+                          2025 ktm 250 sx-f
+                          
+                        
+
+
+
+
+
+2-stroke
+
+
+
+
+
+                          2025 ktm 300 sx
+                          
+                        
+
+
+
+                          2025 ktm 250 sx
+                          
+                        
+
+
+
+                          2025 ktm 150 sx
+                          
+                        
+
+
+
+                          2025 ktm 125 sx
+                          
+                        
+
+
+
+                          2025 ktm sx 85 19/16
+                          
+                        
+
+
+
+                          2025 ktm 85 sx 17/14
+                          
+                        
+
+
+
+                          2025 ktm 65 sx
+                          
+                        
+
+
+
+                          2025 ktm 50 sx factory edition
+                          
+                        
+
+
+
+                          2025 ktm 50 sx
+                          
+                        
+
+
+
+
+
+electric
+
+
+
+
+
+                          2025 ktm sx-e 5
+                          
+                        
+
+
+
+                          2025 ktm sx-e 3
+                          
+                        
+
+
+
+                          2025 ktm sx-e 2
+                          
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+enduro
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+4-stroke
+
+
+
+
+
+                          2025 ktm 500 exc-f champion edition
+                          
+                        
+
+
+
+                          2025 ktm 450 exc-f champion edition
+                          
+                        
+
+
+
+                          2025 ktm 350 exc-f champion edition
+                          
+                        
+
+
+
+                          2025 ktm 350 exc-f champion edition
+                          
+                        
+
+
+
+                          2025 ktm 250 exc-f champion edition
+                          
+                        
+
+
+
+                          2025 ktm 500 exc-f
+                          
+                        
+
+
+
+                          2025 ktm 450 exc-f
+                          
+                        
+
+
+
+                          2025 ktm 350 exc-f
+                          
+                        
+
+
+
+                          2025 ktm 250 exc-f
+                          
+                        
+
+
+
+                          2025 ktm 500 exc-f six days
+                          
+                        
+
+
+
+                          2025 ktm 450 exc-f six days
+                          
+                        
+
+
+
+                          2025 ktm 350 exc-f six days
+                          
+                        
+
+
+
+                          2025 ktm 250 exc-f six days
+                          
+                        
+
+
+
+                          2025 ktm 450 xcf-w
+                          
+                        
+
+
+
+
+
+2-stroke
+
+
+
+
+
+                          2025 ktm 300 exc champion edition
+                          
+                        
+
+
+
+                          2025 ktm 250 exc champion edition
+                          
+                        
+
+
+
+                          2025 ktm 300 exc hardenduro
+                          
+                        
+
+
+
+                          2025 ktm 300 exc six days
+                          
+                        
+
+
+
+                          2025 ktm 250 exc six days
+                          
+                        
+
+
+
+                          2025 ktm 300 exc
+                          
+                        
+
+
+
+                          2025 ktm 250 exc
+                          
+                        
+
+
+
+                          2025 ktm 150 exc
+                          
+                        
+
+
+
+                          2025 ktm 300 xc-w champion edition
+                          
+                        
+
+
+
+                          2025 ktm 300 xc-w factory edition
+                          
+                        
+
+
+
+                          2025 ktm 300 xc-w hardenduro
+                          
+                        
+
+
+
+                          2025 ktm 300 xc-w
+                          
+                        
+
+
+
+                          2025 ktm 250 xc-w
+                          
+                        
+
+
+
+                          2025 ktm 150 xc-w
+                          
+                        
+
+
+
+                          2025 ktm 125 xc-w
+                          
+                        
+
+
+
+                          2024 ktm 150 exc
+                          
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+cross country
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+4-stroke
+
+
+
+
+
+                          2025 ktm 450 xc-f
+                          
+                        
+
+
+
+                          2025 ktm 350 xc-f
+                          
+                        
+
+
+
+                          2025 ktm 250 xc-f
+                          
+                        
+
+
+
+                          2025 ktm 350 xc-f factory edition
+                          
+                        
+
+
+
+
+
+2-stroke
+
+
+
+
+
+                          2025 ktm 300 xc
+                          
+                        
+
+
+
+                          2025 ktm 250 xc
+                          
+                        
+
+
+
+                          2025 ktm 125 xc
+                          
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+electric
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+kids electric motocross
+
+
+
+
+
+                          2025 ktm sx-e 5
+                          
+                        
+
+
+
+                          2025 ktm sx-e 3
+                          
+                        
+
+
+
+                          2025 ktm sx-e 2
+                          
+                        
+
+
+
+
+
+kids electric balance bikes
+
+
+
+
+
+                          2023 ktm sx-e 1.12
+                          
+                        
+
+
+
+                          2023 ktm sx-e 1.16
+                          
+                        
+
+
+
+                          2023 ktm sx-e 1.20
+                          
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+dual sport
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+
+
+                    2025 ktm 125 enduro r
+                    
+                  
+
+
+
+                    2025 ktm 390 enduro r
+                    
+                  
+
+
+
+
+
+
+
+
+
+travel
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+
+
+                    2025 ktm 890 adventure r
+                    
+                  
+
+
+
+                    2025 ktm 790 adventure r
+                    
+                  
+
+
+
+                    2025 ktm 790 adventure
+                    
+                  
+
+
+
+                    2025 ktm 450 rally replica
+                    
+                  
+
+
+
+                    2025 ktm 390 adventure r
+                    
+                  
+
+
+
+                    2025 ktm 390 adventure x
+                    
+                  
+
+
+
+                    2025 ktm 250 adventure
+                    
+                  
+
+
+
+                    2024 ktm 1290 super adventure r
+                    
+                  
+
+
+
+                    2024 ktm 1290 super adventure s
+                    
+                  
+
+
+
+                    2024 ktm 890 adventure r rally
+                    
+                  
+
+
+
+                    2024 ktm 690 enduro r
+                    
+                  
+
+
+
+                    2024 ktm 890 adventure
+                    
+                  
+
+
+
+                    2024 ktm 390 adventure 
+                    
+                  
+
+
+
+                    2024 ktm 390 adventure sw
+                    
+                  
+
+
+
+                    2024 ktm 250 adventure
+                    
+                  
+
+
+
+
+
+
+
+
+
+sports tourer
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+
+
+                    2024 ktm 1290 super duke gt 
+                    
+                  
+
+
+
+                    2024 ktm 890 smt
+                    
+                  
+
+
+
+
+
+
+
+
+
+supermoto
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+
+
+                    2025 ktm 450 smr
+                    
+                  
+
+
+
+                    2025 ktm 390 smc r
+                    new
+
+
+
+
+                    2025 ktm 125 smc r
+                    new
+
+
+
+
+                    2024 ktm 690 smc r 
+                    
+                  
+
+
+
+
+
+
+
+
+
+naked bike
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+
+
+                    2025 ktm 1390 super duke r evo
+                    
+                  
+
+
+
+                    2025 ktm 1390 super duke r
+                    
+                  
+
+
+
+                    2025 ktm 790 duke
+                    
+                  
+
+
+
+                    2025 ktm 390 duke
+                    
+                  
+
+
+
+                    2025 ktm 250 duke
+                    
+                  
+
+
+
+                    2025 ktm 200 duke
+                    
+                  
+
+
+
+                    2025 ktm 125 duke
+                    
+                  
+
+
+
+                    2024 ktm 990 duke
+                    
+                  
+
+
+
+                    2024 ktm 790 duke
+                    
+                  
+
+
+
+                    2024 ktm 390 duke
+                    
+                  
+
+
+
+                    2024 ktm 250 duke
+                    
+                  
+
+
+
+                    2024 ktm 125 duke
+                    
+                  
+
+
+
+                    2023 ktm 890 duke gp
+                    
+                  
+
+
+
+                    2025 ktm 990 duke gp
+                    
+                  
+
+
+
+
+
+
+
+
+
+supersport
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+
+
+                    2024 ktm rc 8c
+                    
+                  
+
+
+
+                    2024 ktm rc 390
+                    
+                  
+
+
+
+                    2024 ktm rc 200
+                    
+                  
+
+
+
+                    2024 ktm rc 125
+                    
+                  
+
+
+
+
+
+
+
+
+
+x-bow
+                  
+
+
+revolutionary. puristic. radical.
+
+discover
+
+
+
+
+
+
+
+
+                    x-bow gt-xr 2023
+                    
+                  
+
+
+
+                    x-bow gt4
+                    
+                  
+
+
+
+                    x-bow rr
+                    
+                  
+
+
+
+                    x-bow r
+                    
+                  
+
+
+
+                    x-bow gt
+                    
+                  
+
+
+
+                    x-bow gtx 2020
+                    
+                  
+
+
+
+                    x-bow gt2 2020
+                    
+                  
+
+
+
+
+
+
+
+
+
+brabus
+                  
+
+
+
+
+discover
+
+
+
+
+
+
+
+
+                    brabus 1300 r masterpiece edition
+                    
+                  
+
+
+
+                    2023 brabus 1300 r edition
+                    
+                  
+
+
+
+
+
+
+
+
+
+
+
+x-bow
+
+
+
+
+explore
+models
+x-bow news
+racing
+racing schools
+e-sports & gaming
+locations
+dealer search
+contact
+
+
+
+
+powerparts & powerwear
+
+
+
+
+powerparts
+powerwear
+powerwear collections
+online configurator
+ktm exc plastic part kits 
+
+
+
+
+racing
+
+
+
+
+racing news
+motogp™ 
+motocross/supercross
+enduro / offroad us
+rally
+ktm motogp™ experience
+
+
+
+
+ktm world
+
+
+
+
+news
+stories
+ride ktm
+ktm adventure rally
+ktm tech guide
+ktm magazine
+
+
+
+
+service
+
+
+
+
+finance
+safety
+manuals
+maintenance
+mobility
+service & safety check
+freeride e hotline
+spare parts finder
+tire recommendation
+warranty
+
+
+
+
+
+
+
+
+find a dealer
+
+
+
+international
+
+
+
+
+
+
+
+
+international
+
+
+
+
+europe
+        
+
+
+austria
+
+
+belgium (en)
+
+
+belgium (fr)
+
+
+croatia
+
+
+czech republic
+
+
+denmark
+
+
+estonia
+
+
+finland
+
+
+france
+
+
+germany
+
+
+greece
+
+
+hungary
+
+
+ireland
+
+
+italy
+
+
+latvia
+
+
+lithuania
+
+
+luxembourg
+
+
+netherlands
+
+
+norway
+
+
+poland
+
+
+portugal
+
+
+romania
+
+
+russia
+
+
+serbia
+
+
+slovenia
+
+
+slovakia
+
+
+spain
+
+
+sweden
+
+
+switzerland (de)
+
+
+switzerland (fr)
+
+
+switzerland (it)
+
+
+turkey
+
+
+united kingdom
+
+
+cyprus
+
+
+
+
+
+
+north america
+        
+
+
+canada (en)
+
+
+canada (fr)
+
+
+mexico
+
+
+united states
+
+
+
+
+middle east
+        
+
+
+bahrein
+
+
+jordan
+
+
+kuwait
+
+
+lebanon
+
+
+qatar
+
+
+saudi arabia
+
+
+united arab emirates
+
+
+iraq
+
+
+
+
+
+
+latin america
+        
+
+
+argentina
+
+
+bolivia
+
+
+brazil
+
+
+chile
+
+
+colombia
+
+
+costa rica
+
+
+dominican republic
+
+
+ecuador
+
+
+guatemala
+
+
+nicaragua
+
+
+panama
+
+
+paraguay
+
+
+peru
+
+
+uruguay
+
+
+venezuela
+
+
+
+
+asia
+        
+
+
+bangladesh
+
+
+cambodia
+
+
+china
+
+
+french polynesia (fr)
+
+
+hong kong (cn)
+
+
+india
+
+
+indonesia
+
+
+japan
+
+
+malaysia
+
+
+myanmar
+
+
+nepal
+
+
+new caledonia (fr)
+
+
+philippines
+
+
+singapore
+
+
+south korea
+
+
+sri lanka
+
+
+taiwan region
+
+
+thailand
+
+
+vietnam
+
+
+
+
+
+
+oceania
+        
+
+
+australia
+
+
+new zealand
+
+
+
+
+africa
+        
+
+
+benin
+
+
+egypt
+
+
+kenya
+
+
+madagascar
+
+
+mauritius
+
+
+morocco
+
+
+nigeria
+
+
+seychelles
+
+
+south africa
+
+
+togo
+
+
+
+
+
+
+
+
+my.ktm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                supremely capable 
+
+                2025 ktm 390 adventure r 
+
+
+
+
+                  explore more
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                versatility redefined 
+
+                2025 ktm dual sport 
+
+
+
+
+                  explore more
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                behave somewhere else 
+
+                2025 ktm 390 smc r 
+
+
+
+
+                  explore more
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                adventure for everyone 
+
+                2025 ktm 790 adventure 
+
+
+
+
+                  explore more
+                
+
+
+
+
+
+
+
+
+
+
+
+scroll down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dealer search
+
+
+
+
+
+
+
+book a test ride
+
+
+
+
+
+
+
+spare parts finder
+
+
+
+
+
+
+
+
+
+
+
+recently launched
+
+
+
+
+
+
+
+
+
+
+
+
+2025 ktm 390 adventure r
+supremely capable
+
+
+
+
+
+
+                  visit model page
+                
+
+
+
+
+
+
+
+2025 ktm 390 enduro r
+for when mother nature says no
+
+
+
+
+
+
+                  visit model page
+                
+
+
+
+
+
+
+
+2025 ktm 125 enduro r
+keep your inner child wild
+
+
+
+
+
+
+                  visit model page
+                
+
+
+
+
+
+
+
+
+
+discover more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#getduked
+naked
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#raceorange
+enduro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#goadventure
+travel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#ktmelectric
+electric
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ktm x-bow
+
+
+                                explore more
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ktm powerwear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ktm powerparts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unlock your bikes full potential
+ktm tech guide
+
+
+                                explore more
+                            
+
+
+
+
+
+
+
+
+ktm news
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            13 feb 2025
+          
+
+
+              red bull ktm riders up to speed as the final building block for 2025 motogp™ is set at thai test
+            
+
+
+              view profile
+            
+
+
+            red bull ktm factory racing and red bull ktm tech3 can now look to the first of 22 grands prix this season after completing two hot and hectic days of testing activity at the buriram international circuit in thailand.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            11 feb 2025
+          
+
+
+              jeffrey herlings eyeing rapid 2025 mxgp return
+            
+
+
+              view profile
+            
+
+
+            red bull ktm factory racing icon jeffrey herlings is working towards a competitive return to motocross action and through the final stages of rehabilitation after surgery to repair a torn right acl.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            9 feb 2025
+          
+
+
+              top-five finishes for tom vialle and chase sexton in tampa supercross
+            
+
+
+              view profile
+            
+
+
+            red bull ktm factory racing's reigning 250sx east champion tom vialle has opened his defense with a measured p5 finish in tampa's first round of the eastern regional series, as 450sx teammate chase sexton extended his advantage in the 2025 ama supercross championship standings with a fifth-place result at raymond james stadium. tampa marked the opening round for the 250 sx east division, with two-time mx2 world champion vialle sporting the number 1 plate aboard his ktm 250 sx-f factory edition and ready to mount another title challenge this season. after qualifying 10th at the conclusion of this afternoon's sessions, vialle rallied in the night’s opening heat race, racing up front with the leader before posting a strong ride that earned the frenchman a third-place finish. vialle paced himself during the 250sx east main event, with the track proving to be a significant challenge to the riders with its slick, hard-packed base. with that in mind, a measured performance at the season-opening round saw him register an eventual p5 result. tom vialle: "i had a big crash through the whoops in qualifying, so i was lucky to get away with that one. i didn't feel great in practice or qualifying, although felt a bit better for the night show and p5 for our first main event of the year. it's not bad, and although it's not where we want to be, we'll build from here and get better for next weekend." equipped with the ktm 450 sx-f factory edition, sexton powered his way to the top of the 450sx qualifying timesheets, achieving comfort early in the day on what proved to be a difficult circuit layout. the momentum would continue for the number 4, who braved a chaotic first turn during his heat race to emerge in the mid-pack. from there, a patient ride eventuated in a late pass for the lead, with sexton breezing to the race win from there. the main event was going to plan for the championship red plate-holder, as he held the lead early, building upon his margin as the race continued. an untimely late-race fall saw sexton surrender p1, and have to nurse his way home in order to consolidate and maximize points, which he would achieve with a gritty fifth place on the night. chase sexton: "not the way i wanted to end my night after a good day in tampa. i was solid all day and qualified fastest, but on a bad lap in the main event i went down in the whoops while leading and damaged my front brake and throttle, so basically just had to salvage what i could, limping it home to finish out the race – not an ideal way to finish out the weekend. we’ll get to work again this week and come out swinging at detroit." red bull ktm factory racing teammate aaron plessinger raced to an impressive second-place finish during the night’s opening 450sx heat race, with recent progress paying dividends for 'the cowboy' in florida. with starts now at a premium in the highly-competitive 450sx field, plessinger suffered from track position in the main event, and was battling for position inside the top 10 throughout. continuing to fight, he would finish the night with a p8 result, which marks his best finish of the year so far. aaron plessinger: "the afternoon was tough, but we found a setting heading into the heat race and felt like i ripped in that one! i made a few good passes in the first couple of laps, then ended up second. come the main, my start was decent before i got shuffled back early, and just rode around in eighth from there. that was the best i had today, so we'll go back and do some homework before detroit." next race: february 15 – detroit, michigan results 450sx class – tampa 1. malcolm stewart (husqvarna) 2. cooper webb (yamaha) 3. jason anderson (kawasaki) 5. chase sexton (red bull ktm factory racing) 6. justin barcia (gasgas) 8. aaron plessinger (red bull ktm factory racing) 9. justin hill (ktm) 14. anthony rodriguez (ktm) 19. kevin moranz (ktm) standings 450sx class 2025 after 5 of 17 rounds 1. chase sexton, 101 points 2. cooper webb, 96 3. jason anderson, 84 6. malcolm stewart, 77 9. justin barcia, 68 11. justin hill, 57 13. aaron plessinger, 40 results 250sx east class – tampa 1. max anstie (yamaha) 2. daxton bennick (yamaha) 3. cameron mcadoo (kawasaki) 5. tom vialle (red bull ktm factory racing) standings 250sx east class 2025 after 1 of 10 rounds 1. max anstie, 25 points 2. cameron mcadoo, 20 3. seth hammaker, 18 5. tom vialle, 16
+          
+
+
+
+
+
+
+
+
+read more 
+
+
+
+
+
+
+join the ktm newsletter
+
+sign up
+
+
+
+
+
+
+
+
+
+the illustrated vehicles may vary in selected details from the production models and some illustrations feature optional equipment available at additional cost. all information concerning the scope of supply, appearance, services, dimensions and weights is non-binding and specified with the proviso that errors, for instance in printing, setting and/or typing, may occur; such information is subject to change without notice. please note that model specifications may vary from country to country. in the case of coated surfaces, there may be color differences due to the usual process fluctuations. the consumption values stated refer to the roadworthy series condition of the vehicles at the time of factory delivery.
+
+
+
+
+
+the company
+    
+
+
+
+ktm ag
+
+
+contact
+
+
+careers
+
+
+press center
+
+
+procurement
+
+
+media library
+
+
+brand values
+
+
+become a dealer
+
+
+investor relations
+
+
+
+
+ktm world
+    
+
+
+
+news
+
+
+racing
+
+
+ride ktm
+
+
+ktm motohall
+
+
+ktm tech guide
+
+
+ktm newsletter
+
+
+ktm connect app
+
+
+ktm adventure rally
+
+
+ktm academy of speed
+
+
+
+
+service
+    
+
+
+
+safety
+
+
+manuals
+
+
+maintenance
+
+
+configurator
+
+
+freeride e hotline
+
+
+spare parts finder
+
+
+service & safety check
+
+
+
+
+legal
+    
+
+
+
+imprint
+
+
+legal notices
+
+
+privacy policy
+
+
+cyber security
+
+
+code of conduct
+
+
+
+
+connect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copyright 2025 ktm sportmotorcycle gmbh, all rights reserved
+back to top 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

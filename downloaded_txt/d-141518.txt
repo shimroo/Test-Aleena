@@ -1,0 +1,544 @@
+
+
+about the all-inclusive dixie chicks page
+
+
+
+
+
+
+
+
+
+about the all-inclusive dixie chicks page
+
+
+
+home
+timeline
+resources
+about
+
+
+
+
+2024 update: it's just this page now
+it's sad to admit it, but i'm not in a position any more to keep this site maintained at the level that the historic dixie chicks (and their present incarnation, the chicks) deserve. but the history of the site is a time capsule of the early days of the internet, before social media, when fan-created web pages, online forums, email lists, and blogging reigned. in fact, this site's history intertwines with the dixie chicks' own website history to reveal some of the behind-the-scenes tensions between dallas' beloved "nightingales o' the prairie" and the new-look, nashville-polished group that hit the country charts in january, 1998.
+you can find the latest news on the chicks, and archival information on the dixie chicks, all over social media. many of the dixie chicks' early-1990s promo materials are now on youtube, and you can even find the guitar tabs for their songs on the ultimate guitar app. sadly, the group has still not chosen to re-release their three independent releases, thank heavens for dale evans, little ol' cowgirl, and shouldn't a told you that, but i've heard that there are places to find them. i won't go into further detail, because one cease and desist letter is enough for me. :)
+i wish i could put together a proper memorial for laura lynch, who along with robin lynn macy and a couple of talented young musicians named emily and martie erwin formed the original version of the dixie chicks. i was privileged to meet her in person when i went to her ranch (then near fort worth) to buy a truckload of horse hay, which is about as cowgirl as it gets. she graciously showed me some of her collection of dixie chicks memories. laura, a west texas native, was driving along the roads in the original wide open spaces on december 22, 2023, when she was killed in a head-on collision. the el paso times ran several wonderful stories about the life and accomplishments of their hometown hero, but a good start would be laura lynch's obituary.
+
+- robert b, november 2024
+
+2018 partial reboot
+the all-inclusive dixie chicks page started with a bang in 1998, but it died with a whimper in 2016. the site hadn't been updated in several years, and even though its content was largely historic, the design was outdated when it was created. i knew that it would need to be rebuilt from scratch, but didn't have time. according to my old webcounter.com counter, it hit 100,000 hits on september 7, 2000, and went over one million total hits sometime in 2006. but by then, it was already littered with dead links and awards from sites that were long gone.
+i moved the site to a new host when my 2000's web hosting provider went out of business, but barely touched the content. dryline hosting, home to some storm-chaser web sites and based in the texas panhandle (ironically, the maines family's stomping grounds), was a stable home for several years. but in mid 2016, the one-man operation abruptly ceased operations. with too much going on in the real world to worry about my web sites (also including my dfw karaoke blog, tequila karaoke), i kept the domain names but let the web site disappear. for a while, i redirected them to a page suggesting that anyone who missed them could send me a tweet (@tequila_k) to ask me to bring the sites back - nobody responded, so when the latest host (gandi.net) had a configuration change, i ignored it and even that placeholder disappeared.
+but now, i've resurrected the site! i took a web design class from the university of denver, working on a degree to match my 30 years of experience as a computer programmer. part of the class, of course, is to create a working web site, using modern css and html5 markup. what better place to start than to revive my dixie chicks content? the focus of the site has always been the group's history, so all the site needed (in theory) is for me to go through every page, fix the terrible layout, reformat the content, and check all the 20-year-old links. that didn't happen by the end of the semester, and it's an ongoing process. but at least for the timeline content, i'm happy to say that i brought the site back, just in time to celebrate the 20th anniversary of the all-inclusive dixie chicks page in august!
+below is the "site history" page, which only covers the site's first two years. that's when most of the site came together, as the dixie chicks went from an overnight success (10 years in the making) to the top group in the young country era. it was a fun couple of years, as you'll see! although this was largely written when "party like it's 1999" was still in the future, i've added a few notes.
+the notes look like this.
+
+until i can rebuild it, the full site is still (mostly) available at the internet archive, and there's even an old beta version at tripod. finding my site on tripod was definitely a surprise. i figured that tripod, one of the original "create your own free website" hosts, had disappeared long ago.
+
+also, here are some old site addresses, because some ancient links can't be fixed (like the one in the dallas observer article). hopefully, someone searching on an old link might find the site! since these sites no longer exist, they're not clickable links.
+
+my original isp-based site in 1998: http://www.dallas.net/~totoro/dixiechicks/
+the site was hosted for a while by a fan of the old sound (full story below): http://dixiechicks.mixedsignal.net/
+
+
+site history (circa 2000)
+the history of this site starts long before the day in 1998 when i got tired of the misstatements and
+obfuscation and decided to tell the full and complete history of the dixie chicks.
+in fact, it's not possible to tell the whole story of my dixie chicks site without detailing the group's own
+'net history.
+
+it goes back to 1996, and the spring issue of the chick chat
+links to pages on this site point to the old tripod site, and may not be functional.
+newsletter.
+along with laura lynch's farewell and natalie maines' welcome,
+it included the chicks' first venture into cyberspace -- an email address, and a web page.
+the chicks' first web site
+the first dixie chicks site was a small affair, intended to introduce the chicks to the world.  the site,
+decorated in george toomer's distinctive "nightingales o' the prairie" style,
+the pages included a short bio, tour dates, and some sound samples.
+
+the site was hosted by austin-based quadralay corporation,
+formerly quadralay.com, now webworks.com.
+which
+portrayed quite a different look then from the look it sports now.  that link will now take you to a slick, corporate online
+publishing site... but in 1996, quadralay was just another startup trying to find a niche in a business that nobody really
+understood.  one of their endeavours was to sponsor sites for a handful of worthy austin causes, and one of their
+beneficiaries was the dixie chicks.
+
+
+the sound samples page may have been the most interesting.  it does not include any samples from the group's
+first release, thank heavens for dale evans, saying "a clip is on the way!" (emphasis theirs).
+the only song sampled from little ol' cowgirl is the nice but totally non-commericial "irish medley".
+does this choice of selections have something to do with legal wrangling surrounding robin lynn macy's
+departure shortly after little ol' cowgirl's release?  there may be no way to know.
+
+
+the page also includes cover scans of thank
+heavens for dale evans and little ol' cowgirl, but only a wagon wheel dixie chicks logo
+for shouldn't a told you that.  this may have been due to the difficulty of getting a good scan of
+the dark-colored cd cover, though, and not any legal issues.
+getting a good scan was surprisingly difficult in the 90s!
+
+
+the url changed as quadralay reworked their focus.  the austin music section of the site was eventually spun
+off to its own domain, austinlinks.com, but updates became less and
+less frequent.  when the dixie chicks decided to put together a web site with their new look in 1997, quadralay
+removed the links to the dixie chicks pages on their site... but they didn't delete it altogether.  it moved to this url:
+http://www.austinlinks.com/music/trash/dixiechicks.html -- the trash folder.
+
+
+finally, by mid-1999, the austinlinks.com server stopped working altogether, as quadralay evolved from
+a startup looking for direction into a corporate entity with an image to project.  the
+quadralay site carries no hints of its former residents, the dixie chicks.
+
+
+fortunately, i saved a copy of the site before it drifted into oblivion.  click the link below to see what the
+dixie chicks' web presence looked like before they hit the big time.  these files were downloaded in october 1998,
+and the only changes from the originals are in the directory references and the "mirror site" header.
+
+
+the dixie chicks [original website mirror]
+
+a new direction... and a dead end
+in late 1997, the dixie chicks' major-label debut, "i can love you better", was getting
+airplay and was about to crack the billboard top 40.  the chicks' style had evolved from
+western frills to shania-style spandex.  by this time, george toomer was no longer
+associated with the group, and the quadralay/austinlinks.com site didn't match their
+new look.
+
+while on the road in reno, nevada, the chicks met with a web designer named phil casella.
+casella's worked with a company that hosted local country station
+katm 103, cat country.
+still the home of "continuous country favorites & fun"
+somehow -- possibly through the radio
+station -- the chicks and casella decided to create dixiechicks.com, and on december 17,
+1997, casella registered the domain with internic
+(aka network solutions.
+back then, network solutions was the only game in town!
+
+
+casella even put together some pictures of the group, their reno concert, and the radio station.
+see the pictures page to see them.
+
+
+then, the chicks hit big.  "i can love you better" hit the top 40, and suddenly nobody
+would return casella's calls.  sony nashville
+put together a basic, cookie-cutter site for the chicks on their own server, and dixiechicks.com finally
+disintegrated into a one-line message: "this directory is not public".
+
+
+while the domain languished, 'net interest grew.  in february 1998, then 13-year-old fan nici larson
+created the unofficial dixie chicks site,
+former address: http://www.geocities.com/nashville/9426/
+the group's first fan site.  it even caught the chicks' interest -- for details, see the
+office manager note
+announcing that the chicks' fan club was disbanding.  nici's site spawned an active mailing list that
+quickly became the primary source for up-to-date information on dixie chicks happenings.
+
+
+dixiechicks.com remained silent... but we'll pick up phil casella's story again shortly.
+
+an "old chicks" fan gets fed up
+when "there's your trouble" hit #1, the dixie chicks' popularity started to soar.  everyone wanted to interview them,
+and as always, they were always available and accessible.  but some disturbing trends started to emerge.
+sony's "official" timeline implied that it was just emily and martie on the street corner in dallas in 1989, conveniently
+forgetting original lead singers and gifted instrumentalists laura lynch and
+robin lynn macy.  in interviews, natalie started talking as though she'd been with
+the group all along.  hardly anyone even mentioned the chicks' three strong independently produced albums,
+and if they did, they omitted one or more that weren't readily available for purchase.
+
+
+the final straw was the article that tried to give a brief overview of the group's history... they added three current
+members plus two former members and decided that there must have been five original dixie chicks
+singing on the street corner.  nobody had the straight story, and the chicks and their handlers showed no interest
+in setting things straight.  so on august 19, 1998, i took the task upon myself.
+
+
+"the unofficial all-inclusive dixie chicks page" started out at just that -- a page of info about the group, hosted on my
+free isp space.  it didn't take long, though, for the page to blossom into several pages, with the centerpiece being
+a complete discography of the dixie chicks.  then, i found out just how little i knew!  stories started coming in.
+real dixie chicks old-timers like jay rury
+rury still sells violins in dallas: jayruryviolins.com
+found the site and told me about their own days
+with the chicks before they were famous -- even before they were a group.
+
+
+thanks to dallas' cd warehouse stores (online at cdbargains.com),
+unbelievably still around: facebook page
+i was able to grab cd copies of the rapidly disappearing indie releases -- i'd previously only had them on cassette.
+and with the magic of the .mp3 format, i was able to create
+sound samples of the pre-sony releases, as a way to let the group's new fans know
+where that amazing, unique sound came from.  i was so proud of my site, i sent a note about it to the chicks'
+email address, which was still active at that time.
+
+oops!
+in november, 1998, as the title track from wide open spaces was enjoying its four-week run
+at the top of the charts, i got a note by certified mail... not from the dixie chicks, but from their lawyers:
+
+
+dear mr. brooks: 
+
+
+this letter is sent to demand that you immediately cease and desist your infringement of the rights of the dixie chicks.
+
+
+
+someone in the dixie chicks' management had decided that the old sound was something to be feared, something
+that they "hope never surfaces", as one of the chicks said to entertainment weekly that year.  but if the group's
+handlers had hoped the group's history under the rug, their plan blew up in their faces.
+
+
+from the december 10, 1998 dallas observer:
+
+
+
+despite [attorney john] beiter and [dixie chicks manager simon] renshaw's legal arguments against brooks' site, the
+cease-and-desist letter appears to be part of a broader strategy --
+constructed by the band, its management, and its label, sony music
+subsidiary monument records -- to rewrite history, mostly with an
+eraser, and brooks' web site is just caught in the middle.
+
+
+since signing with monument in 1995, the dixie chicks' story has
+undergone a page-one polish, excising the contributions of founding
+members robin macy and laura lynch. macy and lynch are not even
+mentioned by name in any of the press material distributed by the
+label, skipping over an integral part of the group's past faster than
+you can say "two other members," as the band's bio does.
+
+
+
+you'll find the complete cease and desist letter, my response, and links to the dallas observer article and more
+on the cease and desist page.
+here's the link to the article: teaching a (history) lesson
+
+
+i removed the sound samples, but the site remained... the focus of the site was always the stories and the history,
+not flashy multimedia.
+i later returned the sound samples, but cut them back to 30 second snippets.
+i also removed "unofficial" from the site's name... it had become rather obvious that the site
+was in no way sanctioned by the dixie chicks or their management.  and the buzz started to grow...
+
+back to reno
+
+just as a nashville attorney was sending me a nasty letter, i was sending a note to the then-unknown
+owner of dixiechicks.com,
+hoping to find out if it had been swiped by an unscrupulous domain squatter.
+
+
+
+to: webmaster@
+
+from: robertb@geocities.com
+
+date: 11/10/1998
+
+subject: dixiechicks.com
+
+
+hello!  you are listed as the administrative contact for the dixiechicks.com domain.  as far as dixie chicks
+fans can tell, the site has remained dead (with a "directory not public" message) since it was registered
+in december 1997.
+
+
+i would like to report back to my fellow fans, if i could, what your plans might be for this domain name.  have
+you been contracted to create an official site for the group?  or are you engaged in the lucrative but
+dubious practice of "domain squatting" in the hopes that they or their label will pony up some dough?
+
+
+if you are in the process of creating an official (or semi-official) dixie chicks site, would it be possible to
+change the default page to include a link to either the official site or else to one of the many fan sites?  even
+a link to the yahoo! category would be very useful.
+
+
+if you are waiting for someone to pay ransom, then you may still be interested in linking to a fan site... you
+could compile the click-through numbers as proof that your "virtual real estate" is worth what you're
+asking.  or you could just put a single link to the cdnow discography and make commissions off of
+fans' purchases.  heck, you could link to my site and really upset the marketing department!
+
+
+as a long-time fan -- long before 12/1997 -- i just want to see dixiechicks.com become more than just a dead end.
+
+
+thank you for your time, and for your consideration.
+
+
+
+phil casella wrote back, and told me the story detailed earlier.  he was even kind enough to send me the
+pictures of the chicks in reno featured on the pictures page.  but as late as
+january 7, 1999, he was holding out for the dixie chicks to come through on their committments.  you see,
+registering a domain name like dixiechicks.com is not free... and it was time to pay the piper.
+
+
+
+from: phil  casella <phil@>
+
+to: robertb@geocities.com
+
+subject: fw: dixiechicks.com
+
+date: sun, 10 jan 1999 10:49:49 -0800
+
+
+robert.
+
+
+i'm not going to sell the domain to the chicks.
+
+
+wanna host your site on my domain?
+
+
+let me know, i'll give you a ftp login if you do!
+
+
+phil casella
+
+
+
+that decision took about five seconds to make... and on january 13, 1999, dixiechicks.com became
+the new home of the all-inclusive dixie chicks page.  casella let me include
+a counter on the page... and on the first day, the page that had been "directory is not public" for a year received
+900 hits on the basis of its domain name alone.
+
+
+that rate of hits stayed steady, then increased as portals and indexes took note of the new resident at the choice domain.
+yahoo! noticed, and changed my link even without my asking.  
+at that time, i think yahoo listings were still manually maintained, not spidered.
+but i wouldn't
+have asked, because i knew one thing was for sure... dixiechicks.com was not my property.
+casella needed to recoup his investment, and i was his lightning rod.
+
+
+but for two months, the skies were clear and sunny.  hits per day rose to 1400 as the
+search engines indexed the site's content and the portals took note.
+
+
+the first clouds appeared on the horizon on march 3, 1999.  this exchange took place on
+whitney's
+dixie chicks message board
+i think whitney was one of many teen girls whose chicks fan sites were popping up all over
+:
+
+
+
+"mark":
+
+is there a website with lyrics from the last album??
+
+
+"terry":
+
+go to dixiechicks.com in about three months and you will be able 
+to get them there. the site will be changing soon. what else 
+would you like to see?
+
+
+of course, i sent a note right away to "terry" asking how exactly does he know that there will be changes...
+and of course, i never got a response.  i also asked casella what was going on...
+his reply was that "i think i will eventually have to give the chicks their name... but i
+will stall the process for as long as possible."
+
+
+that turned out to be one week.  on march 10,
+phil casella sent me a copy of the internic domain ownership change notification that transferred ownership
+to the dixie chicks, with manager simon renshaw as the billing contact.
+on march 11, dixiechicks.com became a pointer to a "403 - access forbidden" page
+at nashville isp telalink.  1400 visitors a day got... nothing.
+
+a site reborn
+
+fortunately, the site was still available at the dallas.net isp address,
+i'll have to look for this later and see if it's on archive.org
+but firewalls prevented me from keeping it updated... and isp addresses have always been notoriously slippery.
+i put out feelers to several potential third-party hosts, from mike hays'
+twangcast.com
+to cyber-country.com
+and roughstock.com...
+all well-known country music web sites, once upon a time
+i even discussed it with bill hartzer, then the owner of dixie-chicks.com.
+
+
+but the site was rescued from long-url oblivion by ken hohoff, owner of a
+small but high-quality provider of isdn and adsl
+connection services to small office/home office subscribers in chicago's
+western suburbs.  ken, a "new chicks" fan who fell in love with the "old chicks" sound,
+gave the site a solid and reliable home on his mixed signal solutions server
+(http://www.mixedsignal.net/).
+
+
+i dedicated the reborn site "to the memory of dixiechicks.com
+which was the address of this site from 1/13/1999
+through 3/10/1999, with thanks to the 68570
+fans of the dixie chicks (old and new) who stopped by to visit."
+
+
+meanwhile, the dixie chicks finally put something together at
+dixiechicks.com.  unfortunately, it
+turned out to be a "multimedia experience"... which to me means, "takes too long to download, hit the back button."
+remember, this was in the dialup modem days!
+it was unveiled on 8/31 to coincide with the chicks' fifth cd,
+fly, and the site immediately
+became overloaded and inaccessible.  reports on the mailing list indicate that there's nothing
+on the site that you couldn't have learned on the fan pages.
+
+out of the frying pan...
+
+one september day, a note came across the dixie chicks mailing list:
+
+
+
+date: wed, 08 sep 1999 15:50:04 -0700
+
+from: hotresume@hotmail.com
+
+to: dixiechicks@egroups.com
+
+subject: [dixiechicks] dixie-chicks website for sale
+
+
+hi!
+
+
+i came across some news that you might be interested in.
+
+
+the dixie chicks' fan site is now for sale.  why don't you check it out
+and bid on it.  you might win it!  it'd be a great place to show off
+your love for the dixie chicks!
+
+
+
+a little research work showed that the site in question was dixie-chicks.com, with a dash,
+and digging a little deeper (for technical details, click here)
+the dns reverse lookup tool i used is long gone
+revealed that it was actually the domain's owner who sent the note to the list.  hey, there's nothing wrong with
+self-promotion -- if you don't promote yourself, who will?
+
+
+on the darker side, though, the site's ebay listing was not exclusively targeted at
+dixie chicks fans.  as any surfer knows, "chicks" is a keyword that is more likely to be associated with the word "naked"
+than with the word "dixie", and the ebay listing suggested that dixie-chicks.com might make a good
+so-called "adult" site.  here's the original description text (and you may be able to use
+this link
+to view it for yourself)
+no you can't, ebay doesn't keep ancient listings any more
+:
+
+
+
+the dixie chicks country music group are one of the hottest bands on country radio! we've spent hours building
+quality traffic to this site, and now want to get out of the "internet business". 
+
+
+new owner must pay all internic transfer fees.
+
+
+this could also work as a great "adult" domain.
+
+
+see http://www.dixie-chicks.com/index.html to see the site.
+
+
+
+a sound business judgement... but i and others did not agree with hartzer's decision to change
+the site to an adult site pointer during the auction.  yikes!  worse still, he spammed the 'net indexes
+with duplicate pages with names like index1.html, index2.html, and the like.  again, a sound
+choice with revenue-enhancing potential... but completely inappropriate for a domain name easily entered
+by the chicks' underage fans.
+
+
+bidding started low... my bid of $10 actually stood for a while.  but ken hohhof, whose servers host my site, pointed out
+to prospective bidders on the mailing list that transferring domain ownership involves more than just changing the admin
+contacts at network solutions -- you've got to pay the us$70 2-year
+registration as well.
+even network solutions doesn't charge that much these days!
+that cut back on the amateur bids.
+
+
+
+but as the bidding deadline approached, the professionals took over.  in the end, it was a bidding war between two netizens
+with great credentials.  one was katie pruett, midday dj and webmistress at dallas'
+young country 105.3.
+the other was vincent chhabra,
+webmaster of the online prescription purchase sites rxleader.com and rxclinic.com.
+online pharmaceuticals were a new thing. but that .gif already looked old.
+
+
+
+in an ironic twist that could only happen on the internet, both vincent and katie had the same goal.  they wanted
+to buy dixie-chicks.com and make it the home of the all-inclusive dixie chicks page.
+after their bids were processed, katie was the winner... but the competitive bidding may have raised the final price
+by as much as us$150.  being ladies and gentlemen, though, neither one complained... please visit their sites and say "hi!"
+katie pruett went on to be an investment banker. no idea about mr. chhabra.
+
+
+it is important to note that as soon as bidding was over, bill hartzer deleted all the adult content from the site and
+changed the index page to automatically send visitors to the young country web page.  but i'm still trying to
+get those spam pages removed from the search engines (grumble, grumble).
+my web logs showed hits to those pages for years!
+
+... and into the fire!
+
+on october 18, 1999, domain servers around the world started directing dixie-chicks.com to
+the all-inclusive dixie chicks page!  while this didn't generate the instant hit blizzard of dixiechicks.com
+(no dash), it's still great to have my own domain name.  and this time, it's all mine -- katie saw
+to that, and did it on her own without any compensation by the radio station.  the dallas - fort worth metroplex is truly
+blessed to have a person like katie pruett in its midst.  thank you, katie!
+
+dallas' young country 105.3fm switched to shock jock talk radio a few years later. the last song they played was garth brooks, "the dance" - which was interrupted as it was ending by the new, purposefully annoying djs. that didn't last either, though, and it's now the "the fan", a sports talk station, radio home of the texas rangers and dallas cowboys games. the memory of young country lives on, though, on facebook
+
+
+but no thanks to network solutions.  formerly known as "the internic", they were the original domain name
+registrar for the internet -- the only game in town.  when the us and international governing bodies mandated competition
+in the domain registration market, network solutions responded by positioning themselves to serve high-end deep-pocket
+clients like microsoft and pepsi -- customers who think nothing of paying $200 or more for fast service.
+
+
+obviously, paying several hundred dollars extra was not an option.  so for months after the auction, the owner of record
+of dixie-chicks.com remained bill hartzer.   for months, calls and letters to network solutions went
+unanswered.  finally, in july 2000, we found out the problem -- the "company name" field on one piece of paperwork
+was blank.  the intricate levels of high security designed to prevent some hacker from hijacking aol.com (again).
+
+
+so i went to the competition!  a site like mine has no reason to fear a hacker attack for the same reason thieves don't
+steal yugos -- what's the point?
+the 1990s, when security-by-obscurity still worked.
+domain direct,
+a branch of the well-known tucows software house, is one of the new breed of discount domain registrars.
+for reference: one of the newcomers wanted to call their company "big daddy", but bigdaddy.com was taken, so they went with "go daddy". now you know.
+for a much better price, you get faster service and better end-user site control and update features.  if you're apple.com
+and you want pgp encryption for all your domain change requests, go to network solutions.
+if you're putting up a page dedicated to your favorite country group, make it easy on yourself and go to
+domain direct.
+
+
+full disclosure: i'm in the domain direct affiliate program, so i get a cut off of purchases just like
+i do from cdnow.
+cdnow was acquired by amazon in 2002.
+if that rubs you the wrong way, feel free to type "domaindirect.com" -- but
+why not support this site and click my link?
+of course, domaindirect.net no longer exists.
+
+what's next?
+
+at this writing, all-inclusive is two years old -- and has grown beyond my wildest imaginations.
+yep, this page wasn't updated for 18 years - it can buy cigarettes now.
+what lies in store in the future?  nobody knows!  will the lawyers get involved?
+if they do, i'll be sure to keep the members of my
+update announcement list
+informed.
+sign up today!  (no spam, i promise!)
+egroups.com became yahoogroups.com, but i haven't sent an email to the originalchicks@yahoogroups.com list in years.
+
+
+
+copyright © 2018 robert brooks, little cutie consulting
+
+robert b at little cutie dot com
+
+
+

@@ -1,0 +1,395 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+servo magazine - covering the world of personal robotics | servo magazine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+covering the world of personal robotics
+
+
+buy the print and get free access online! 
+
+
+
+subscribe or manage your account
+
+
+
+      
+						  
+						  
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+store
+magazine
+
+the magazine
+about servo mag
+past issues
+advertising
+writers guidelines
+free media downloads
+
+
+subscriptions
+
+new subscriptions
+renew subscription
+gift subscription
+pay invoice
+update account info
+subscription faqs
+
+
+community
+
+forum
+blogs
+
+
+contact
+
+contact servo
+submit an article idea
+biofeedback
+
+
+digital edition 
+
+log in
+faqs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the rov manatee - part 1
+living near the ocean opens up an opportunity to view and take video of underwater sea life – especially if you have your own rov that is waterproof. follow this short series to build your own underwater rover with easily acquired parts that can be assembled with basic tools.
+
+
+
+tips for selecting dc motors for your mobile robot
+when building a mobile robot, selecting the drive motors is one of the most important decisions you will make. it's a perfect example of an ideal world meeting the real one. here are some of the basic physics and the rules of thumb for proper motor selection.
+
+
+
+the multi-rotor hobbyist — adding telemetry to the elev-8
+pilots of regular aircraft have a panel of instruments that indicate important parameters such as the aircraft altitude, air speed, attitude, and engine system status. in this episode, we are going to add a telemetry kit to the elev-8 v3 to get real time aircraft data sent back to our tablet in the field.
+
+
+
+
+
+
+
+
+
+
+
+
+
+robots
+underwater remote operated vehicles: the next big thing in robotics?
+underwater remotely operated vehicles (urovs) — the little brothers to the massive commercial underwater vehicles used to inspect hulls, ship wrecks, and pipe lines — are where quadcopters were five years ago. however, with time, prices will drop, parts will become more plentiful, and the web will be full of videos of underwater sea life and perhaps even battling urovs.
+
+
+
+
+
+
+
+
+building blocks
+coils of war
+after a tough match at the franklin institute combat robot event, the windings (or coils) had come loose and had been damaged and in some places cut. get some tips on how to harden and make effective repairs on these kinds of parts.
+
+
+
+
+
+
+
+
+building blocks
+analog servos for robotics
+in some ways, analog servos are the “unsophisticated brutes” of the robotics world.thoroughly understanding their strengths and limitations can help you identify which things are better handled in hardware vs. software.
+
+
+
+
+
+
+
+
+robots
+animatronics for the do-it-yourselfer
+this new series of articles will explore the many methods, materials, and innovative new ideas to bring your robotic creations to life.
+
+
+
+
+
+
+
+
+building blocks
+using stepper motors for wheeled robot propulsion
+stepper motors have the ability to precisely turn a wheel at a calculated distance and also the ability to brake, which makes them an interesting choice for robot propulsion, but not without some some tradeoffs.
+
+
+
+
+
+
+
+
+history
+robots - how we’ve built them over the years
+we take for granted all the motors, sensors, high power density batteries, and microcontrollers that are contained within today’s experimental robots. but, back in the day, some of the very best parts came from jukeboxes and pinball machines. anything with parts that moved usually had something that was useful to robot builders.
+
+
+
+
+shop best sellers in the hobbyist junkbox
+the official webstore of nuts & volts and servo magazine
+
+
+
+
+arduino robot bonanza
+build autonomous robots using ordinary tools and common parts. learn how to wire things up, program your robot's brain, and add your own unique flair.
+$29.95
+
+
+
+pic robotics: a beginner’s guide to robotics projects using the pic micro
+ 11 easy-to-build robots each with a picmicro "brain.”
+$22.00
+
+
+
+servo 2015 cd-rom
+includes all of vol 13, issues 1 - 12 in pdf format, along with the 2015 article media downloads!
+$24.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mind/iron
+
+seeing things in a new light: affordable color ir imaging
+real time color infrared imaging has come a long way in terms of availability and affordability. if you’re serious about circuit design and diagnosis, then consider adding one of the new portable color ir cameras or imagers to your toolbox.
+
+
+
+
+
+popular stories
+
+the turing test: from inception to passing
+analog servos for robotics
+robots - how we’ve built them over the years
+
+
+
+
+recent blog posts
+
+april 30 - bovine backscratcher
+april 30 - mind over multiple matters
+
+read more
+
+
+
+archives
+
+january 2025
+november 2024
+april 2024
+march 2024
+november 2023
+
+view complete archives list
+
+
+
+
+
+
+
+
+
+
+2022 issue-5
+
+can puzzlebot solve a sliding number puzzle?
+build this pwm signal generator circuit
+ai, chatbots, and more
+
+
+
+
+2022 issue-4
+
+recreating the red light, green light doll from squid game
+robogames 2023: the times, the bots, the people
+rescue robots – a biomimetic approach
+
+
+
+
+2022 issue-3
+
+robotics: how to get started — part 8: using behaviors to build applications
+efficient multitask learning possible with a predictive model for door opening and entry
+robogames returns!
+
+
+
+
+2022 issue-2
+
+build a bluetooth controlled tank
+thumb-shaped sensor offers a novel way to develop touch sensing in robotics
+seeing things in a new light: affordable color ir imaging
+
+
+
+connect with us
+  
+					  
+					
+				
+				
+subscribe to our newsletter
+sign up now
+
+
+
+
+
+
+
+copyright © 2025 t & l publications. all rights reserved | 
+						privacy policy |
+						terms & conditions |
+						copyright statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

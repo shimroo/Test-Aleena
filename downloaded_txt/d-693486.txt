@@ -1,0 +1,547 @@
+
+
+
+
+
+            
+                
+                    jpl robotics: 
+                
+            
+            
+                home
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip navigation
+
+
+
+
+
+nasa
+
+jet propulsion laboratory
+
+
+california institute of technology
+
+
+
+
+jpl robotics
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+who we are
+
+
+
+groups
+
+
+people
+
+
+
+
+what we do
+
+
+
+applications
+
+
+flight projects
+
+
+research tasks
+
+
+charter
+
+
+
+
+how we do it
+
+
+
+systems
+
+
+facilities
+
+
+
+
+gallery
+
+
+achievements
+
+
+
+publications
+
+
+patents
+
+
+awards
+
+
+
+
+careers
+
+
+news
+
+
+
+
+
+
+
+
+
+
+
+
+mobility and robotic systems
+section 347brett kennedy, managerjulie townsend, deputy managerjessica millenbach, business managerwelcome to the jpl robotics website! here you'll find detailed descriptions of the activities of the mobility and robotic systems section, as well as related robotics efforts around the jet propulsion laboratory. we are approximately 190 engineers working on all aspects of robotics for space exploration and related terrestrial applications. our primary objectives are to develop technology for in-situ exploration of the solar system, and infuse this technology into spaceflight missions. we focus on providing capabilities for mobility across and above planetary surfaces, and manipulation for instrument placement and sample collection. this includes system architectures; mechanical and electrical design; and software for perception, control, simulation, and operations. to learn more, please use the menu bar above to browse our website.
+student opportunitiesjpl's robotics internship opportunities can be found posted at jpl's student careers website. hr manages those student programs for jpl and offers exciting and rewarding experiences for students in a variety of disciplines.additional student opportunities can be found at the jpl education office student opportunities page. jpl's education office offers a several student programs that afford stem students the opportunity to gain valuable experience at jpl.postdocs interested in gaining experience in the field of robotics are encouraged to apply to opportunities listed at the jpl postdoc website.
+
+
+
+
+
+
+
+graphical user interface:  mer rsvp
+
+
+
+
+
+roams simulation of rover slippage
+
+
+
+
+
+jpl stereo vision
+
+
+
+
+
+msl manipulation
+
+
+
+
+
+insight mars lander instrument deployment
+
+
+
+
+
+autonomous puffer
+
+
+
+
+
+multimodal locomotion enabling ocean worlds science operations
+
+
+
+
+
+darpa subterranean challenge
+
+
+
+
+
+mars science helicopter
+
+
+
+
+
+previous
+
+
+
+next
+
+
+
+
+
+
+
+
+
+
+what we do
+
+
+
+
+
+
+
+
+driving
+
+
+
+
+
+
+
+
+
+
+
+floating
+
+
+
+
+
+
+
+
+
+
+
+small body orbiting
+
+
+
+
+
+
+
+
+
+
+
+subsurface access
+
+
+
+
+
+
+
+
+
+
+
+instrument placement
+
+
+
+
+
+
+
+
+
+
+
+sampling
+
+
+
+
+
+
+
+
+
+
+
+construction
+
+
+
+
+
+
+
+
+
+
+
+modeling & simulation
+
+
+
+
+
+
+
+
+
+
+
+user interfaces
+
+
+
+
+
+
+
+
+
+
+
+military & terrestrial
+
+
+
+
+
+
+
+
+
+
+
+onboard science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end-to-end sample acquisition and caching demonstration
+in preparation for the mars 2020 rover mission to mars, jpl researchers demonstrated autonomous sampling and sample caching in the laboratory. this video shows the complete sequence of activities of the manipulator and caching subsystems. (7m27s)
+more videos
+
+
+
+
+
+
+
+
+in the news
+
+
+
+
+
+
+jpl racer completes experiment 5
+the racer project has recently completed a successful demonstration during darpa's racer experiment 5 at fort cavazos, tx.
+
+
+
+
+
+
+
+aerobots on the rise
+the venus aerobot project team completes a successful field test in blackrock desert, nevada.
+
+
+
+
+
+
+
+robotic snake, coming to a glacier near you
+jpl's eels project team to conduct field test at the columbia icefield in jasper national park.
+
+
+
+more news
+
+
+
+
+
+
+
+get the newsletter
+
+your email
+
+
+
+
+
+
+follow jpl
+
+
+
+
+
+
+
+all
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+
+who we are
+
+
+
+
+
+what we do
+
+
+
+
+
+how we do it
+
+
+
+
+
+gallery
+
+
+
+
+
+achievements
+
+
+
+
+
+careers
+
+
+
+
+
+news
+
+
+
+
+
+
+
+
+
+
+nasa
+
+
+
+
+caltech
+
+
+
+
+jpl privacy statement
+
+
+
+
+image policy
+
+
+
+
+feedback
+
+
+
+
+
+
+
+
+
+site manager: tony tran
+webmaster: designlab digital
+                jpl clearance: cl# 21-6518
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

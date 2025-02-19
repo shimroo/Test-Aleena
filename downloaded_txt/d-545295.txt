@@ -1,0 +1,470 @@
+
+
+
+
+all spectrum electronics - hobby kits and electronics supply
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+  catalog
+my account  |  cart contents  |  checkout   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+categories
+
+
+
+
+
+
+
+
+
+
+3d printer's & accessoriesac / dc adaptersanderson power products / powerpoles / etcbatteries - rechargeablebattery chargersbattery holderscapacitorsccd cameras / surveillancecircuit breakersconnectors / adapters / cablescrystals / oscillatorseducational giftsenclosures / project casesexperimentersfansflashlight replacement lampsfusesheat shrink tubingkitslcd displaysleds/displayslighting / strobesmeasurement /  thermometersmeasurement / counters / timersmeasurement / function generatorsmeasurement / meters / dmmsmeasurement / panel metersmeasurement / probesmeasurement / specialtymicro-controllersmodulesmotorsneat stuffneon lampsnetworking equipmentnixie tube clocks and kitsnixie tubes & accessoriespanavisepotentiometers / trimmerspower plugs & socketspower suppliesprototyping equipmentraspberry pirelaysresistorsrf productssecurity productssemiconductorssockets & headerssolar cellssoldersoldering toolsspeakers / buzzers / sirens / microphoneswitchestelecom / networking toolstoolswire / hookup wirezip / cable ties / velcro / tapefree reference cards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manufacturers
+
+
+
+
+
+
+
+
+
+
+please selectamerican superl..anderson power ..camelionconsolidated wi..elencoextechkestermaglitepanaviseportable sound ..ramsey electron..tenergyvellemanweldex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+all spectrum electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our new line of wifi/ntp enabled vintage nixie and numitron clock kits are now shipping!
+
+iv-9 numitron clock kit!with esp32-devkitc-ve controller
+iv-9 numitron clock kit!with xiao esp32c3 controller
+6 digit nixie tube clock kit!
+
+
+
+
+
+
+
+
+
+
+february specials!
+
+   cat5e rj45 plug for round solid cable, 8p8c, 50ui gold plate $0.29$0.25 
+  fuse holder cover for fuse/h $0.30$0.15 
+  fuse holder cover for fuse/hl $0.30$0.15 
+  battery alligator clip, 10a, red $0.45$0.23 
+
+   battery alligator clip, 10a, black $0.45$0.23 
+  battery holder for 1 x n-cell (with solder tags) $0.65$0.33 
+  battery holder for 3 x aa-cell (with snap terminals) $0.65$0.33 
+  battery holder for 2 x c-cell (with snap terminals) $0.70$0.35 
+
+   battery holder for 4 x aa-cell (with snap terminals) $0.75$0.38 
+  2p din panel-mount jack, black, screw connection $0.79$0.59 
+  5x20mm low-cost pcb fuse holder $0.79$0.40 
+  screw connector for pcb, 3 points $0.79$0.40 
+
+   ntc thermistor - 50k $0.79$0.40 
+  battery holder for 2 x n-cell (with leads) $0.79$0.40 
+  spare bit for vts20u - 0.04" $0.89$0.45 
+  battery holder for 3 x aaa-cell (with wires) $0.89$0.45 
+
+   dc plug 2.1 x 5.5 x 9.5mm $0.99$0.50 
+  pvc insulation tape - red $0.99$0.50 
+  pvc insulation tape - yellow $0.99$0.50 
+  6p, 240° din jack - black $0.99$0.74 
+
+   usb b female, single connector 180°, pcb mount $0.99$0.50 
+  pvc insulation tape - green/yellow $0.99$0.50 
+  5p, 180° din plug - black $0.99$0.74 
+  pvc insulation tape - blue $0.99$0.50 
+
+   5p, 180° din jack - black $0.99$0.74 
+  usb a female, single connector 180°, pcb mount $0.99$0.50 
+  dc plug 2.5 x 5.5 x 9.5mm $0.99$0.50 
+  pvc insulation tape - black $0.99$0.50 
+
+   battery holder for 6 x aa-cell (with snap terminals) $0.99$0.50 
+  5p, 180° din panel-mount jack - black $0.99$0.74 
+  pvc insulation tape - green $0.99$0.50 
+  6p, 240° din plug - black $0.99$0.74 
+
+   mains plug adapter for american socket $0.99$0.50 
+  usb a female, single connector 90°, pcb mount $0.99$0.50 
+  5x20mm pcb fuse holder $0.99$0.50 
+  4p mini din plug - black $1.29$0.97 
+
+   6p mini din plug - black $1.39$1.04 
+  spare bit for vtss5u $1.49$0.75 
+  trim capacitor 2-10pf $1.49$0.75 
+  loudspeaker connection terminal - round $1.49$0.99 
+
+   2.1 mm dc plug to spring terminal $1.49$0.75 
+  dc plug 5.5x2.5mm female to fixed screw terminal, each $1.50$0.75 
+  dc plug 5.5x2.5mm male to removable screw terminal, each $1.50$0.75 
+  dc plug 5.5x2.5mm male to fixed screw terminal, each $1.50$0.75 
+
+   dc plug 5.5x2.1mm male to removable screw terminal, each $1.50$0.75 
+  dual binding post, red/black $1.59$0.80 
+  dc plug 5.5x2.1mm female to removable screw terminal, each $1.60$0.80 
+  dc plug 5.5x2.5mm female to removable screw terminal, each $1.60$0.80 
+
+   2.1 mm dc male plug to 2p spring terminal $1.79$0.90 
+  battery holder for 9v-cell with leads and switch $1.80$0.90 
+  bnc male to 2p spring terminal $1.90$0.95 
+  precision resistor set for pmled/pmlcd $1.99$1.00 
+
+   dual binding post, red/black, gold $1.99$1.00 
+  spare plug 5.5 x 2.5mm $1.99$1.00 
+  loudspeaker connection terminal - square $1.99$0.99 
+  3.5 mm stereo female to 4p screw terminal $1.99$1.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shopping cart
+
+
+
+
+
+
+
+
+
+
+0 items
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quick find
+
+
+
+
+
+
+
+
+
+
+ use keywords to find the product you are looking for.advanced search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bestsellers
+
+
+
+
+
+
+
+
+
+
+01.all spectrum electronics bookmark reference card, resistor color code chart, ohms law wheel, logic gates, binary/hex/dec ==free==02.copper braid, flat, tinned, qq-w-343 type s and astm b-33, 1/8", per foot03.silicone thermal compound, heatsink grease, 1 gram tube04.toothless alligator clip steel 5 amp05.all spectrum electronics combined resistor color code and ohms law formula wheel reference card ==free==06.infrared led / ir emmiter, t-1 3/4 (5mm), liteon07.individual pcb mount tube pins/receptacles, for in-12 and in-1808.neon lamp, ne-2, 6x20, 30mm leads09.anderson powerpole contacts, 30 amp, silver plated, 12-16 awg10.neon lamp, ne-2, 6x12, 30mm leads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+specials
+
+
+
+
+
+
+
+
+
+
+tenergy tn190 nimh/nicd advanced universal smart charger with lcd display$36.99$18.90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reviews
+
+
+
+
+
+
+
+
+
+
+worth the price.
+don't be disappointed if it comes with a d ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what's new?
+
+
+
+
+
+
+
+
+
+
+3.5mm stereo jack extension, 3.5mm stereo jack male to 3.5mm stereo jack female, 3 meters / 9.8 feet$3.99$2.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reference
+
+
+
+
+
+
+
+
+
+
+resistor color code chart and ohms law formula wheel chart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information
+
+
+
+
+
+
+
+
+
+
+shipping infoterms and conditionscredit application / net30 accountslocationcontact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  tuesday 18 february, 2025   
+
+
+
+
+
+contact usvan nuys, californiacopyright © 2004-2017 all spectrum
+
+
+
+
+
+
+
+
+
+
+

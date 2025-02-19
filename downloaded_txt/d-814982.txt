@@ -1,0 +1,408 @@
+
+henry neeman
+
+
+henry neeman
+
+
+
+
+
+
+
+welcome to
+henry neeman's
+homepage!
+
+
+
+
+
+
+
+
+want to know where i am?
+check out my
+2019 travel schedule,
+which includes links to my older travel schedules,
+which i care about but no one else seems to. odd, that.
+
+
+
+
+
+work
+curriculum vita
+
+you can have a look at
+my
+cv.
+
+
+
+office
+
+
+
+i work at the
+university of oklahoma
+in
+norman,
+ok,
+where i'm
+the
+executive director of research computing
+and
+the director of
+the
+ou supercomputing center
+for education & research (oscer)
+—
+a division of
+ou information technology
+—
+as well as
+an associate professor in the
+college of engineering
+and
+an adjunct associate professor
+in the
+school of computer science.
+my office is
+3200 marshall ave suite 130
+(just off campus),
+
+but i'm usually elsewhere.
+
+
+
+
+
+
+teaching
+
+
+
+i've been teaching 
+cs 1313,
+computer programming for non-majors,
+since spring 2000,
+though not every semester.
+i also taught
+cs 2413
+in the summer of 2000.
+
+
+
+
+in fall 2003 and summer 2005, i also co-taught
+che 5480,
+
+a course that combined nanotechnology and supercomputing.
+i taught the supercomputing part (surprise!).
+
+
+
+
+previous work
+
+
+
+before working for ou it,
+i worked for ou's
+center for analysis & prediction
+of storms.
+
+
+
+
+before coming to ou,
+i was a postdoctoral research associate
+(and before that, a graduate research assistant)
+working
+under
+michael
+norman
+at the
+laboratory for computational astrophysics,
+which at the time was
+part of the
+national
+center for supercomputing applications
+at the
+university of illinois
+at
+urbana-champaign.
+mike is now at the
+university of california, san diego,
+where he's faculty in the
+center for astrophysics &
+space sciences
+as well as
+director
+of the
+san diego supercomputer center.
+
+
+
+
+before ncsa,
+i served as a graduate research assistant at the
+center for supercomputing research & development,
+
+which is now defunct.
+
+
+
+
+
+education
+
+i got my phd in uiuc's
+
+department of computer science
+in may 1996 (though officially it's recorded as october),
+working under advisors
+michael
+heath,
+michael
+norman
+and
+dennis
+gannon.
+also on my committee were
+paul
+saylor,
+faisal
+saied
+and
+don hearn.
+my dissertation title was
+"autonomous hierarchical adaptive mesh refinement
+for multiscale simulations."
+
+you
+can download my dissertation in
+
+postscript
+or
+
+pdf
+format.
+
+
+
+
+as part of my dissertation,
+i developed
+
+hamr,
+the hierarchical adaptive mesh refinement system,
+which is an autonomous,
+general-purpose structured adaptive mesh refinement system
+for multiscale simulations
+that implements the samr strategy of
+
+marsha berger
+--
+now a professor of
+
+computer science
+
+at the
+
+courant institute of mathematical sciences
+
+at
+
+new york university
+--
+and various collaborators.
+
+
+
+
+i also picked up an ms in computer science along the way,
+under dennis and don.
+my master's thesis was called
+"visualization techniques for three-dimensional flow fields,"
+and i wrote it while working for dennis at the
+center for supercomputing research and development
+(now defunct),
+just next door to beckman.
+
+
+
+
+before uiuc,
+i went to the
+university at buffalo,
+state university of new york,
+where i got a bs in
+
+computer science
+
+and a ba in
+statistics
+(note: not biostatistics).
+(at the time, both were part of the now-defunct
+faculty of natural sciences & mathematics,
+but now computer science
+—
+which has become computer science & engineering
+—
+is in engineering,
+and statistics
+has become biostatistics
+and is
+in the school of public health & health professions.
+weird.)
+while at ub,
+i also worked as a programmer,
+research assistant and lab teaching assistant
+for
+the late
+beverly
+bishop,
+a professor of physiology.
+i developed software for running experiments in a neurophysiology lab course,
+and for conducting research into the relationship
+between spatiotemporal movement and motor neuron activity
+in human chewing.
+
+
+
+
+personal
+
+i'm married to rebecca (mashburn) neeman.
+our first child was born in late 2007.
+
+here's some pictures.
+our second child was born in fall 2009.
+
+
+
+
+i was born and raised in
+
+buffalo,
+new york
+and still have family there.
+i have 
+two sisters.
+
+i'm the baby of the family.
+about my brother ed,
+see below.
+
+
+
+
+
+some of my free time is spent ballroom dancing.
+i have taught for the
+sooner ballroom dance club
+at ou,
+and i'm
+a former officer of the
+dancing illini,
+which is the ballroom club at uiuc.
+
+
+
+
+i also like 
+movies,
+reading,
+biking
+and
+figure skating.
+
+
+
+
+i'm a big fan of
+spiny echidnas.
+
+
+
+
+there used to be a band in columbus, ohio called
+the neemans.
+they even had a song called lisa.
+unfortunately, it looks like they may have gone out of business,
+since their website is defunct.
+
+
+
+
+
+
+
+about my brother ed
+
+
+my older brother ed, who i loved very much,
+died
+on saturday august 19 2000.
+i miss him terribly.
+we named our older daughter for both him and rebecca's grandfather.
+
+
+
+
+
+
+about my dad
+
+
+my father, moshe, who i loved very much,
+died
+on monday april 6 2009.
+he lived 90 years and 5 days,
+and died at home in his own bed,
+with his loving wife caring for him,
+after having just eaten a bit of chocolate pudding.
+we named our younger daughter for him and rebecca's great aunt.
+
+
+
+
+disclaimer
+
+links on these pages to non-university sites
+do not represent endorsement by the university of oklahoma or its affiliates.
+
+none of the content on this or any other of my web pages
+is guaranteed to be correct, useful or even especially interesting,
+nor should it be construed as officially sanctioned by
+the university of oklahoma,
+ou information technology,
+the ou college of engineering,
+the ou school of computer science,
+or anyone else of the remotest consequence.
+so there.
+
+
+
+
+
+
+
+maintained by henry neeman
+(hneeman@ou.edu)
+
+
+
+
+url:  http://hneeman.oscer.ou.edu/
+
+
+
+
+copyright (c) 1996 - 2022
+
+
+
+

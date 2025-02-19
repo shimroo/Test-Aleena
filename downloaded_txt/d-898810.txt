@@ -1,0 +1,323 @@
+
+
+
+gergo erdi -- érdi gergő -- erdi gergo -- cactus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about myself
+
+
+      i'm dr. gergő érdi (érdi gergő in the original hungarian order
+      of surname first), born in budapest and living in singapore
+      since 2011.
+    
+
+      i graduated from semmelweis university of
+      medicine with an md in 2005. meanwhile, in 2003 i also
+      started studying at the computer science faculty of
+      eötvös loránd university, and got my cs master's degree in
+      2011.
+    
+
+      between 2005 and 2011, i've worked at intentional
+      software. since 2011, i'm currently at standard chartered
+      bank.
+    
+
+retrocomputing with clash: haskell for fpga hardware design
+
+      
+      my new book on everything clash,
+      haskell, and old computers, is out now! check
+      out the sample chapters and
+      buy it from leanpub
+      (e-book) or
+      lulu (hardcopy).
+    
+
+formatting serial streams in hardware12 august 2024 (programming haskell clash fpga)
+
+      i've been playing around with building a sudoku solver circuit
+      on an fpga: you connect to it via a serial port, send it a
+      sudoku grid with some unknown cells, and after solving it, you
+      get back the solved (fully filled-in) grid. i wanted the output
+      to be nicely human-readable, for example for a 3,3-sudoku
+      (i.e. the usual sudoku size where the grid is made up of a 3 ⨯ 3
+      matrix of 3 ⨯ 3 boxes):
+    4 2 1  9 5 8  6 3 7  
+8 7 3  6 2 1  9 5 4  
+5 9 6  4 7 3  2 1 8  
+
+3 1 2  8 4 6  7 9 5  
+7 6 8  5 1 9  3 4 2  
+9 4 5  7 3 2  8 6 1  
+
+2 8 9  1 6 4  5 7 3  
+1 3 7  2 9 5  4 8 6  
+6 5 4  3 8 7  1 2 9
+      this post is about how i structured the stream transformer that
+      produces all the right spaces and newlines, yielding a clash-protocols
+      based circuit.
+    continue reading »
+
+older entries
+
+
+my software
+
+  these days, i'm mostly
+  just writing small programs for fun, or throw-away code relevant to
+  some theoretical subjects i happen to get interested in in the field
+  of functional programming, and then push them to my
+  github repos or write
+  about them in my blog. ones you might find
+  interesting include:
+
+
+
+space
+    invaders arcade machine implemented on an fpga, running the
+    original firmware on its intel 8080-compatible cpu. the cpu and
+    the whole machine are all written in clash.
+  
+
+
+      a mos 6502-compatible cpu implemented in kansas lava.
+     i've turned this into a full
+    commodore
+    pet and i plan to eventually build a complete commodore 64
+    from it.
+  
+
+    scope- and typechecker for the simply typed λ-calculus,
+    in agda
+    and in haskell.
+    the latter utilizes many of the same techniques as the former.
+  
+
+alef: a lazy functional programming
+    language (interpreter and compiler). i later reworked that into a
+    simpler version for
+    this blogpost.
+  
+
+metafun: compile a haskell-like functional language into c++ template metaprograms
+  
+
+tandoori: compositional type checker for haskell 98 (my m.sc. thesis)
+  
+
+brainfuck
+    compiler & transpiler for the commodore 64
+  
+
+
+
+        
+        full list (including older stuff)
+      
+
+
+
+talks
+
+
+    these are slides and recordings from some talks i've done over the years at
+    various meetup groups and conferences.
+  
+
+
+executable,
+      synthesizable, human readable: pick three (intro video): a short walkthrough of a clash
+      implementation of pong, as an illustration of the hardware
+      design approach i explore in detail in my upcoming book.
+      (haskell love 2021, september 2021)
+    
+
+scottcheck:
+      an adventure in symbolic execution (video
+      recording): a whirlwind tour through classic text adventure
+      games, interpreters, smt solvers, and monad transformer stacks,
+      to answer the eternal question of mankind: "can you get the coin
+      into the throne room, if it is behind a locked door, and the key
+      is guarded by a vampire?".  (berlin functional programming
+      meetup group, october 2020)
+    
+
+free
+      monoids take a price hit: a short étude in
+      representing free algebraic structures as syntax modulo theory,
+      using higher inductive types (well, just quotient types, really,
+      but when all you have is a hammer...).  source
+      code of literate agda slides contains the cubical agda proof
+      that all free monoids are isomorphic.
+      (haskell.sg meetup, january 2020)
+    
+
+cooking
+      a haskell curry with applicative functors: i was asked to
+      give a talk at the singapore institute of
+      technology for cs students learning fp. i haven't googled
+      these terms, but i'm pretty sure "cs" means "cooking school" and
+      "fp" means "food preparation". this is all based on this
+      old blog post of course, but is updated to use a
+      representation more direct than the (not really correct)
+      free applicative over a co-yoneda functor.
+      (singapore institute of technology fp day, march 2019)
+    
+
+
+        cubical
+      type theory: from i0 to i1, or as i put it
+      on twitter: breaking news! industry programmer writes
+      integer addition in cubical type theory in one
+      week! (haskell.sg meetup, december 2018)
+    
+
+generic
+      description of well-scoped, well-typed syntaxes (midlands
+      graduate school, april 2018)
+    
+
+
+        resurrecting
+        an 8-bit text adventure game with 5 programming languages and a
+        bit of puzzle solving
+      
+      (hack && tell singapore, july 2017)
+    
+
+matt brown, jens
+      palsberg: typed self-evaluation via intensional type
+      functions (papers we love.sg ⨯ haskell.sg, february 2017)
+    
+
+pattern
+      synonyms (haskell symposium 2016)
+    
+
+compositional type
+      checking (video recording)
+      (haskell.sg meetup, july 2016)
+    
+
+matt brown, jens palsberg: breaking
+      through the normalization barrier: a self-interpreter for
+      fω (papers we love.sg, november 2015)
+    
+
+conor mcbride: "the derivative of a
+      regular type is its type of one-hole contexts" (paper we
+      love.sg, june 2015)
+    
+
+hobbist
+      fpga development with kansas lava (haskell.sg meetup, may
+      2015)
+    
+
+practical
+      introduction to agda (singapore functional meetup,
+      june/july 2012)
+    
+
+compositional
+        type checking for hindley-milner type systems with ad-hoc
+        polymorphism (masters thesis defense, january 2011)
+    
+
+
+
+papers
+
+pattern synonyms
+
+
+
+          m. pickering, g. érdi, s. peyton jones, r. eisenberg:
+          pattern synonyms: our paper from haskell symposium 2016
+      
+
+
+          slides from my haskell symposium 2016 talk
+        
+
+
+symbolic execution
+
+
+
+          g. érdi: an adventure in symbolic execution (extended
+          abstract): a brief experience report on checking text
+          adventure games for soluability using smt solvers.
+          my talk
+          from ifl 2020 is on youtube. i also did a much more
+          extended version of this talk at the berlin functional
+          programming meetup;
+          here
+          are the slides from that version and
+          here
+          is the recording.
+      
+
+syntax-generic programming
+
+
+
+          g. érdi: generic description of well-scoped, well-typed
+          syntaxes:
+        never write a substitution proof for your particular
+        extended lambda calculus manually ever again!
+      
+
+
+          agda library implementation of the above paper
+        
+
+
+compositional type checking
+
+
+g. érdi: compositional
+        type checking for hindley-milner type systems with
+        ad-hoc polymorphism: my 2011 msc thesis
+      
+
+the
+        case for compositional type checking: an introductory blog
+        post explaining the basic difference between linear and
+        compositional type systems
+      
+
+defence presentation
+
+
+slides
+        and
+        video recording
+        from my talk at haskell.sg in 2016, based on a new
+        implementation that aims for simplicity and understandability
+      
+
+homeretroclashblogpaperstalksopen sourcegpg pubkey		
+	    this xhtml /
+	    css
+	    page is created by gergő érdi.
+	    send your comments to gergo@erdi.hu.
+	  
+

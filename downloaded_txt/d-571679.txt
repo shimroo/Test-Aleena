@@ -1,0 +1,839 @@
+
+
+
+
+	speech technology - comprehensive, independent coverage of information impacting speech technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+cx connect
+speechtek
+crm evolution
+smart customer service
+digital experience conference
+
+
+
+
+get speechtech eweekly in your inbox - sign up for free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle menu
+
+
+speech recognition
+customer self service
+virtual assistants
+analytics
+artificial intelligence
+more topics
+
+chatbots
+customer interaction technologies
+development tools and apis
+intelligent agents
+internet of things (iot)
+mobile solutions
+natural language, machine/cognitive learning
+omnichannel technology
+smart devices
+speaker identification and authentication
+speaker verification/biometrics
+speech to text
+text to speech
+translation/globalization/localization services
+usability testing
+user interface design
+visual ivr
+voice control
+voice search
+workforce optimization solutions
+
+
+industry solutions
+
+advertising
+assistive technology
+automotive/telematics
+call centers
+consumer electronics
+education
+entertainment/gaming/toys/robotics
+financial services/insurance
+government/security
+healthcare/pharmaceuticals
+manufacturing/distribution/warehouse
+retail
+travel/hospitality
+
+
+
+
+
+home
+subscribe
+
+magazine
+newsletter
+download current issue
+previous issues
+rss feeds
+
+
+news
+in depth
+
+features
+industry voices
+speech technology case studies and market spotlights
+columns
+q&a
+
+
+white papers
+industry research
+webinars
+resources
+
+speech technology magazine's reference guide
+speech industry awards
+current issue
+previous issues
+
+
+conferences
+
+cx connect
+speechtek
+crm evolution
+smart customer service
+digital experience conference
+past conferences
+
+
+about
+
+contact us
+how to advertise
+reference guide
+media kit
+editorial calendar
+editorial submissions
+ 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+                top story
+            
+
+
+
+succeeding in the battle against deepfakes
+
+                new ai tech is helping detect voice and video fraud attempts.
+            
+
+phillip britt //
+                 
+                
+                    05 feb 2025
+
+
+
+
+
+                latest news
+            
+
+
+
+
+
+honeywell awarded u.s. government contract to develop technology that anonymizes speech in real time
+
+
+
+
+
+deepgram introduces nova-3 speech-to-text model
+
+
+
+
+
+canary unveils end-to-end ai voice platform for hospitality
+
+
+
+
+
+easeus releases free ai youtube transcript generator
+
+
+
+
+
+soundhound adds brand personalities to chat ai automotive
+
+
+
+
+
+augnito signs huge saudi deal
+
+
+
+
+
+emergen eyes big growth for medical speech recognition
+
+
+
+more articles
+
+
+
+
+
+                features
+            
+
+
+
+
+
+ai rapidly automating audio content generation
+
+
+
+
+
+voice is poised to take a quantum leap
+
+
+
+
+
+eliminate ambient noise to make speech recognition more accurate
+
+
+
+
+
+the top speech technologies and vendors: the 2024 speech industry awards
+
+
+
+
+
+2024 speech industry award winner: aiola speaks your business’ unique language
+
+
+
+
+
+2024 speech industry award winner: capacity deepens voice and contact center capabilities with acquisitions
+
+
+
+more articles
+
+
+
+
+
+                industry voices
+            
+
+
+
+
+
+conversational ai is transforming customer experience, so adapt it now
+
+
+
+
+
+asr vs. llms – why voice is among the biggest challenges for ai 
+
+
+
+
+
+companies need to set ai agent interaction policies and procedures
+
+
+
+
+
+solving voice ai latency could herald an entirely new human-computer interaction
+
+
+
+
+
+the last-mile challenges in speech-to-text
+
+
+
+
+
+the evolution and importance of voice surveillance 
+
+
+
+more articles
+
+
+
+
+
+
+
+
+
+
+
+free
+for qualified subscribers
+
+subscribe now
+current issue
+past issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+site sponsors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                web events
+            
+
+
+
+avatar platforms in customer service
+            coming march 11, 2025
+        
+
+
+ethical implications of voice generation
+            coming july 15, 2025
+        
+
+
+driving speech technology trends with ai
+            coming october 14, 2025
+        
+
+
+more web events
+
+
+
+
+
+
+                popular articles
+            
+
+
+
+
+
+ai rapidly automating audio content generation
+
+
+
+
+
+voice and ai could assist nurses, researchers find
+
+
+
+
+
+succeeding in the battle against deepfakes
+
+
+
+
+
+conversational ai is ushering in huge contact center advances
+
+
+
+
+
+
+
+
+
+
+
+
+            speech tech columns
+            
+                
+more
+
+
+
+
+
+
+
+
+the business case
+
+
+conversational ai is ushering in huge contact center advances
+
+                these solutions are getting better just as self-service becomes a top priority.
+            
+
+donna fluss //
+                
+                    05 feb 2025
+
+
+
+
+
+
+
+voice value
+
+
+customer experience ai: will perception drive or deter adoption?
+
+                we've not yet seen the tipping point for customers when it comes to ai in the contact center.
+            
+
+nancy jamison //
+                
+                    05 feb 2025
+
+
+
+
+
+
+
+interact
+
+
+ai can elevate in-store music
+
+                so-called elevator music can be jazzed up by genai, but there are gray areas.
+            
+
+kashyap kompella //
+                
+                    08 jan 2025
+
+
+
+
+
+
+
+forward thinking
+
+
+shopping made easy: features of a modern conversational assistant
+
+                an imaginary interaction shows the possibilities. plus, speech technologies deserve their own nobels.
+            
+
+james a. larson //
+                
+                    03 dec 2024
+
+
+
+
+            speech tech case studies & market spotlights
+            
+                
+more
+
+
+
+
+
+
+
+
+case studies
+
+
+verint speech analytics saves money for premier bankcard
+
+                time and cost savings add up.
+            
+
+
+                    05 feb 2025
+
+
+
+
+
+
+
+case studies
+
+
+amelia ai agents drive 20 percent productivity increase
+
+                soundhound's technology reduces call volume and supports 100,000 calls for apivia courtage.
+            
+
+
+                    05 feb 2025
+
+
+
+
+
+
+
+case studies
+
+
+southwest recovery services achieves 10x roi with skit.ai's inbound voice ai solution
+
+                southwest recovery automated inbound consumer calls with skit.ai's voice ai solution.
+            
+
+
+                    16 jan 2024
+
+
+
+
+
+
+
+market spotlights
+
+
+market spotlight: hotels offer a room for voice assistants
+
+                as travel slowly starts to return following covid-19 lockdowns, hotels today need to place a strong emphasis on safety and comfort. for many, speech-enabled in-room virtual assistants are the answer.
+            
+
+leonard klie //
+                
+                    10 nov 2021
+
+
+
+
+
+
+
+                    speech industry q & a
+                
+
+
+
+a q&a with verint ceo dan bodner
+
+a q&a with barry cooper, nice's cx division head
+
+q&a with uma challa, senior director in the gartner customer service & support practice
+
+q&a: nigel cannings, founder and chief technology officer of intelligent voice
+
+
+
+
+                    speech industry fyi
+                
+
+
+
+researchers expand on-device speech recognition
+
+not-so-natural language
+
+voice’s disease detection capabilities expand
+
+microsoft turbocharges voice capabilities in windows 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+kmworld.com
+
+
+
+
+breaking down the realities of genai implementation at km & ai summit 2025
+
+unearth the importance of creativity in knowledge management at km & ai summit 2025
+
+kmworld conference wrap-up and look ahead
+
+avoiding legal pitfalls through savvy data governance
+
+
+
+
+smartcustomerservice.com
+
+
+
+
+call center ai market to grow by $4.3 billion to 2028
+
+ivr market to hit $6.1 billion by 2030
+
+emotion ai market to be worth $9.01 billion by 2030
+
+ai chatbots market to be worth $22.6 billion by 2031
+
+
+
+
+destinationcrm.com
+
+
+
+
+sprinklr integrates with bluesky for insights and publishing
+
+uptiq launches ai workbench developer edition
+
+8x8 announces 8x8 aftersale assist 
+
+sprout social launches rebranded influencer marketing platform
+
+
+
+
+
+
+
+
+ 
+speechtechmag.com is the premier online destination for comprehensive, independent coverage of information impacting speech technologies.
+all content copyright © 2009 - 2025information today inc. 
+
+   
+
+
+speech technology magazine143 old marlton pikemedford, nj 08055(609) 654-6266
+privacy/cookies policy
+
+
+resources
+
+home
+speech technology magazine
+digital editions (pdf download)
+industry research
+speech technology newsletters
+speech technology topic centers
+speech technology industry solutions
+speech industry awards
+sponsored videos
+reference guide
+about/contacts
+
+
+
+other iti sites
+
+database trends and applications
+destinationcrm
+faulkner information services
+infotoday.com
+kmworld
+enterprise ai world
+online searcher
+smart customer service
+streaming media
+streaming media europe
+streaming media producer
+unisphere research
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,127 @@
+
+
+
+planetgis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+
+documentation
+downloads
+order
+contact
+my account
+
+
+
+
+
+
+
+
+
+
+
+
+
+on this page
+
+
+introduction
+
+how planet differs from other geographic information systems
+what planet is ideally suited for
+what planet is not ideally suited for
+
+getting started
+
+based in south africa and just looking for maps?
+need to work with gis data and have no idea where to start?
+comfortable with gis, but looking at alternatives?
+looking at using planet for a large data collection project?
+
+
+
+
+
+
+
+introduction
+planetgis is a geographic information system (gis) that
+    focuses on efficient data collection and management and less on spatial analysis and design.
+planetgis is much faster than a typical gis and this will be especially noticeable with very large datasets.
+planetgis is much easier to use than any other gis if you only need the basics.
+planetgis will save you a lot of time if your main focus is on data collection and management.
+planetgis is a complete information system designed for teams in the field, at the office or working from home.
+planetgis explorer is free, runs on windows 10 or 11 and will allow you to easily:
+import shapefiles, kml/kmz (google earth), dxf (from a cad), gpx (from a gps device), csv (coordinates and information from a spreadsheet) and more.
+create maps with multiple views and themes based on information from your database.
+attach documents and photographs to features in your map and host these in the cloud.
+supply your work to your clients.
+planetgis explorer can be licensed for a low fee to allow unlimited data capture and project organisation (e.g. adding your own data attributes).
+    a licensed explorer is referred to as explorer+ and includes planetgis mobile for windows tablets, which works great for data collection in the field.
+the full version (simply, planetgis) adds incredible power for designing a complete distributed database system for
+    data collection, management, automated tasks, reporting and even a web interface for your information. (this entire website, including
+    our invoicing and accounting system, is a planetgis project that can be managed from anywhere, using planetgis on a desktop.)
+how planet differs from other geographic information systems
+planetgis started out in the mid-nineties as a simple and fast viewer for gis projects and soon became a highly productive tool for capturing geographic
+    features due to its rendering speed and simplicity. a user base then developed that relied on planetgis as their sole gis solution, which prompted the addition of
+    cartographic (presentation) and analytical functionality to cater to this base.
+today, main-stream gis solutions, despite their impressive analytical abilities in the spatial domain, do not provide a great environment for non-programmers
+    to design information systems to support their projects. in many ways, planetgis offers more in the
+    i (information) domain than the g (geographic) domain.
+early versions used microsoft access databases. then, planet evolved to sql databases (usually requiring a centralised server for the data). recent versions, however, use
+    sql extensively without relying on an sql server. planet's approach to the database, in fact, has become radically different from how most systems work.
+most gis solutions today require multiple technologies from various providers to be integrated in order to build a useful system. planet, however, uses homegrown technologies
+    that allow complete systems to be built without any other software except the operating system.
+in summary, planet is very different from anything else out there.
+what planet is ideally suited for
+planet's strength lies in its ability to create intricate data models that can be used to create detailed inventories of things in the material world
+    or data models of complex systems in general. planet is best suited to applications in support of the built environment, e.g., for cataloguing and managing the assets of governments and utilities.
+what planet is not ideally suited for
+except when used in conjunction with other tools, planet is less suitable for theoretical or modelling applications and for designing systems or layouts that are yet to be built.
+getting started#
+planet has three very different types of users/uses:
+
+consumers of existing map-based information.
+in-house simple gis without the extravagant cost and learning curve.
+inventory data collection and management systems.
+
+based in south africa and just looking for maps?
+you will need to download and install planetgis explorer, in addition to some of our maps. click here to start your journey.
+need to work with gis data and have no idea where to start?
+do you have shapefiles or cad drawings, or have you been doing gis on google earth? we'll help you start your own gis.
+comfortable with gis, but looking for an alternative?
+if you're familiar with a different product, you might be looking for something that is easier to use and perhaps more cost-effective. planet isn't better than, say, arcgis or
+    qgis, but there are certain things that planet does a whole lot better if you are prepared to make a radical change to your approach. planet doesn't try to be an alternative to these products,
+    but happens to be a good alternative in many situations. for some, it can be a great addition to their existing tools. (more information will be added soon.)
+looking at using planet for a large data collection project?
+forget gis and think about an information system that has location/mapping capabilities. then prepare to be blown away by what can be done with planet that will otherwise take a
+    team of programmers to implement a custom solution in arc or q. (more information will be added soon.)
+
+
+
+
+
+
+
+
+

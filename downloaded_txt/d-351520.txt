@@ -1,0 +1,236 @@
+
+";
+	echo "";
+}else{
+	echo "";
+}
+?>
+
+ ?>
+
+
+
+
+
+
+
+
+
+
+
+7) ? " of ".$cat_num[0]." websites" : "";
+
+	if(!$sr) $sr = (isset($_get['sr']))?$_get['sr']:0;
+	if(!$cp) $cp = (isset($_get['cp']))?$_get['cp']:0;
+	$begin1 = ($sr==0)? 1 : $sr+1;
+	$end1 = ($cp==0 || $cp==1)? 10 :$cp*$pp;
+	if($show != 'new' && $show != 'pop' && $show != 'reviews'  && ($end1 > $cat_num[0])) $end1 = $cat_num[0];
+
+	$ppage = ($number=='') ? "": "| listings ".$begin1."-".$end1;
+
+	$site_title_suffix = ' in and around bristol '.$ppage;
+	switch($show){
+		case 'reviews' : $site_title_suffix = ' of bristol websites | reviews '.$begin1.'-'.$end1;
+		break;
+        	case 'pop' : $site_title_suffix = ' | most popular listings '.$begin1.'-'.$end1;
+        	break;
+		case 'review' : 
+
+                       if(isset($id)){
+                                $this_listing_sql = "select
+                                        sitename, down from $tb_links
+                                        where id= '".$id."'";
+                                $this_listing = sql_query($this_listing_sql);
+                                while ($listing = sql_fetch_array($this_listing)){
+                                        $site_name = $listing['sitename'];
+                                        $site_down = $listing['down'];
+                                }
+			}
+			$site_title_suffix = $site_name . " | reviews in ";
+		break;
+        	case 'new' : 
+        // get the newest
+        // max listing then round up to next 10
+        $sql = sql_query("
+        select
+                max(id)
+        from
+                $tb_links
+        ");
+        $res = sql_fetch_row($sql);
+        $totalnew = ceil(($res[0]/10)) * 10;
+	if($new_start==$totalnew){
+		$new_page = 'page 1';
+	}else{
+		$npage = round(($totalnew - $new_start)/10,0);
+		$new_page = 'page '.($npage+1);
+	}
+	$site_title_suffix = ' | most recent listings - '.$new_page;
+	if(isset($new_start)) $site_title_suffix .= ' incl '. $new_start;
+        	break;
+        	case '': $site_title_suffix = ' | over '. $num_current_listings.' listings';;
+        	break;
+		default: $site_title_suffix = ' in and around bristol '.$ppage;
+	}
+
+	if((!empty($subcat_name)) || (!$subcat_name=="")){
+		
+		echo $subcat_name . $site_title_suffix . $number." | bristol-online - bristol's website of websites\">\r\n"; 
+	} elseif($show == 'review'){
+
+		echo $site_title_suffix . $site_title."\">\r\n";
+	} else {
+		echo $site_title." : over ".$num_current_listings." bristol websites".$site_title_suffix."\">\r\n";
+	}
+/*
+
+	if($_server['http_referer'] && !stristr($_server['http_referer'],'www.bristol-online.com')){
+		$referer_arr = explode('?',$_server['http_referer']);
+	//	echo "";
+		if($referer_arr[1] && (stristr($referer_arr[1],'q=') || stristr($referer_arr[1],'p='))){
+			$query_arr = explode('&',$referer_arr[1]);
+			foreach($query_arr as $v){
+				if(stristr($v,'q=')) $referer_query = str_replace('q=','',$v);
+				if(stristr($v,'p=')) $referer_query = str_replace('p=','',$v);
+			}
+		//	echo "";
+			$referer_query = str_replace('+',' ',$referer_query);			
+			echo "".$referer_query."\r\n";
+			
+		}elseif((!empty($subcat_name)) || (!$subcat_name=="")){
+			echo "
+			" . $subcat_name .$site_title_suffix.$number."\r\n";
+		}else{
+			echo "".$site_title.$site_title_suffix."\r\n";
+		}
+	}else
+*/
+	if((!empty($subcat_name)) || (!$subcat_name=="")){
+		//echo "";
+
+		if($subcat_name == 'reviews') $subcat_name = 'latest '.$subcat_name;
+		echo "" . $subcat_name .$site_title_suffix.$number."\r\n";
+		
+		} else {
+			if(isset($id) && $show=="review"){
+				$this_listing_sql = "select
+					sitename, down from $tb_links
+					where id= '".$id."'";
+				$this_listing = sql_query($this_listing_sql);
+				while ($listing = sql_fetch_array($this_listing)){
+					$site_name = $listing['sitename'];
+					$site_down = $listing['down'];
+				}
+				if($site_down<2){
+					echo "".$site_name." | reviews | bristol-online\r\n";
+				}else{
+					echo "sorry - review/listing ".$id." no longer available\r\n";
+				}
+				
+			}else{
+		
+				echo "".$site_title.$site_title_suffix."\r\n";
+			}
+		
+		}
+
+/*			if($_server['remote_addr']=="82.33.93.205" || $_server['remote_addr']=="94.169.111.252"){
+				echo "\r\n";
+				echo "\r\n";
+			//	echo "\r\n";
+				echo "\r\n";
+				echo "\r\n";
+
+			}else{
+*/				echo "";
+//			}			
+		
+?>
+
+
+
+
+	    var gb_root_dir = \"".$gl["baseurl"]."/greybox/\";
+	
+
+
+
+
+";
+                echo "
+";
+	}elseif($pid<999){
+		echo "
+";
+	}elseif($pid==999 && ($show=='new' || $show=='pop' || $show=='my')){
+		echo "
+";		
+	}
+}elseif(!isset($id)){
+	echo "";
+}elseif($show=="update"){
+	echo "
+
+
+
+";
+}
+if(isset($my) && $my!=''){
+	echo "";
+}
+if($show=='review'){
+	echo "";
+}
+echo "
+
+
+";
+?>
+
+
+>
+";	
+	//if($show!="update" && $show!="owner" && $show!="add" && $show!="add_site" && $show!="enhancement_works" && $show!="enhance" && $show!="problem" && $show!="review_add" && $show!="rc"){
+		//include("themes/$theme/header3.php");		
+	//}
+//	}else{
+//		include("themes/$theme/header.php");
+//	}	
+//}
+include("themes/$theme/navbar.top-msie.php");
+
+//if(strstr($browser, "msie") || strstr($browser, "firefox")){
+	//include("themes/$theme/navbar.top-msie.php");
+//} else {
+//include("themes/$theme/navbar.top.php");
+//}
+
+?>
+
+
+";		
+		include("include/line.cat.php");
+
+		include("include/main.cats.php");
+		include("include/sites.php");
+
+		include("include/activity.php");
+	}
+}elseif(is_numeric($show)){
+		include("include/line.cat.php");
+		include("include/main.cats.php");
+		include("include/sites.php");
+		include("include/activity.php");
+}
+if ($show=="my") {
+	echo "";
+}
+include("themes/$theme/navbar.bottom.php");
+echo "";
+
+include("themes/$theme/footer.php");
+?>
+
+
+
+

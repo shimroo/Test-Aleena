@@ -1,0 +1,256 @@
+
+
+
+
+
+
+jeff wolfe's web site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+welcome to jeff wolfe's web site. if you're a new visitor, please
+visit the welcome page. if you're using a browser that doesn't
+support tables, this link should take you to the contents.
+if you would like to link to jeff wolfe's web site, please see this link
+information. if you arrived at jeff wolfe's web site inside a frame,
+please try this deframe-ifying link.
+
+mirror sites: [ http://www.jeffwolfe.com/
+| http://home.insight.rr.com/jeffwolfe/
+]
+
+
+
+favorite links:
+my yahoo!
+| cnn
+| espn
+| reason
+| dynamist
+| instapundit
+| dave barry
+| slashdot
+| uf
+| aml
+| proth
+| riesel
+| blogger
+| yahoo!
+
+
+
+
+index
+
+my pages 
+companion web sites
+
+jeff wolfe's weblog.
+jeff wolfe's government and politics web site.
+jeff wolfe's amateur radio web site.
+
+other web pages i currently maintain.
+
+jw computer consulting, inc.
+jeff wolfe's online resume.
+wolfe ranch, about the ranch started by my great-great-grandfather.
+instapundit inspired blogs.
+liberty.
+presidents of the united states of america.
+presidents and vice presidents of the united states of america.
+states in the united states of america.
+notable dates in the history of the united states of america, which includes information from the above three pages, with a bit of additional information.
+some pictures of my cat, liberty.
+
+some of the pages i've maintained in the past.
+
+libertarian party of ohio
+the brettish empire.  i created this site and maintained it for the first four years of its life, but it's now maintained by lisa oldham.  lisa has been author/editor of tbe since its beginnings as an email newsletter.
+
+web page about me developed by someone else.
+
+jeff wolfe for franklin county commissioner.  this is the archive of my 2000 campaign web site, which was maintained by my campaign webmaster.
+
+
+index
+
+
+about jeff wolfe's web site
+this is where you'll find notes, disclaimers, and such.
+
+
+standard
+disclaimer: views expressed here do not necessarily represent those
+of any person, company, or other entity i might represent. depending on
+context, they might not even represent my own views. so there. have a nice
+day.
+
+items i maintain are marked "".
+i used to mark recently new and updated items with little
+"new" and "updated" graphics. but i'm not doing that any more.
+for a while, i thought maybe i would replace it with something, but that
+hasn't happened.  so i guess you're on your own for new or updated items.
+when i started developing this page, i generally used netscape as a browser.
+occasionally i viewed it in lynx. then i went to internet explorer.
+then i went back to netscape again. then, well you get the idea.
+hopefully it's mostly viewable in
+any browser. a browser with javascript support is recommended.
+i try to keep the sections rather smallish to make it easier
+to get to things. the idea is to make each section fit on the screen at
+once (originally, it was 800x600 resolution; it goes up over time).
+as i further subdivide some of the sections,
+the distinctions can become a little arbitrary. hopefully not so much that
+you can't find things. let me know if you have any major problems.
+for most of its life, this page was edited with the
+likes of windows notepad and windows wordpad. for the longest time, i couldn't
+find an editor i liked enough to actually pay for, or a free one that was worth the price.
+i tried to get netscape's editor to happily change my page, without success.
+i've been using homesite for a while now.  homesite
+has some problems, but so far i've not had a major problem with it breaking my pages, like
+i have with about every other editor i've tried.
+this site went several years without any significant updates, mainly because i didn't
+have a good deployment mechanism.  manually updating with ftp (even drag-and-drop ftp) is
+not fun, to say the least.  i'm now using a more or less automated system, which seems to be
+working out ok.
+this whole deal started as kind of a universally accessible
+bookmark file. is it out of hand, or what?
+i'm in the amazon.com associates program.  i joined about seven years after i started the web page, so it's not like selling books is my motivation here.  but there are some links to merchandise here and there, so feel free to buy stuff.  here's a link to the amazon.com home page for your convenience.  amazon.com is the registered trademark of amazon.com, inc.
+
+comments, questions, and (especially) notifications of broken links are welcome. send them to jwolfe@jwcc.com.
+sometimes i don't fix the broken links right away, but the notifications are still appreciated.
+
+
+index
+
+
+about jeff wolfe
+i'm a full-time computer consultant,
+part-time developer, and full time computer junkie (aka nerd), who spends
+far too much time online. when i'm not online, i enjoy reading, pencil
+puzzles, juggling, playing
+cards (mostly euchre).  more recently, i've gotten involved in politics.
+i haven't decided if that's a good thing or not.
+
+
+i'm a member of (in no particular order):
+
+the national space society
+the international jugglers association.
+the libertarian party of ohio.
+amateur radio relay league.
+american mensa.
+the franklin society.
+
+i'm an alumnus of devry institute of technology, columbus.
+i'm also in the bexley high school alumni association.  to find out about the
+school system, visit the bexley city schools web site.
+i support the reason foundation
+and recommend its primary publication, reason magazine.  you can subscribe here.
+you can look at my online resume,
+although i usually do not respond to unsolicited offers.
+
+read about my company, 
+jw computer consulting.
+
+in 2000, i ran for franklin county commissioner.  the archive of
+my campaign web site is still available.  the old location of my campaign web site is now a generic political web site.
+a photo of me.  a better photo is available on my campaign web site (linked above).
+
+living in columbus, ohio, with the name "wolfe" has its drawbacks.
+people who meet me often ask if i'm related to the family that owns several
+local broadcast and print media outlets. the answer is no. but if you're
+ever in utah,
+visit the wolfe ranch,
+which was started by my great-great-grandfather.
+
+i've submitted some jokes to rec.humor.funny
+over the years, and several have been accepted. the ones i've been able
+to find in the rhf archives
+are all political. imagine that! on further examination, they're all clinton
+jokes.  yeah, i know; that's redundant.
+
+hey, rocky! from 3rd quarter of 1994.
+not a bad idea, though. from 4th quarter of 1993.
+and i had a joke called "you're so good at it...." in a political
+digest (it's at the very bottom). from september of 1996.
+one joke they don't seem to have was about someone concerned their job would be exported to mexico if nafta passed (which it eventually did, of course).  they worked for the city of chicago.  i originally saw it told as a true story by a member of congress appearing on a news program on television.
+another joke they don't seem to have is about my grandfather getting a letter from a charity around april of 1994 saying, "wondering why we haven't heard from you."  he died in january.  of 1992.  i can update the joke by saying that a couple of years later, he got another letter just like it.  and he still occasionally gets junk mail to this day. from charities i'll now never support because i know they spend all their money soliciting contributions from dead people.
+
+to send me mail, use my preferred email address: jwolfe@jwcc.com.
+
+
+index
+
+
+jeff wolfe's web site / copyright © 1995-2003, jeffrey a. wolfe / jwolfe@jwcc.com
+
+
+
+
+
+
+contents:        
+             
+
+
+front page
+my pages
+about jeff wolfe's web site
+about jeff wolfe
+
+news page
+...of the day
+directories
+news services
+blogs
+sports information
+sports teams, leagues, and events
+entertainment
+magazines
+
+link page
+people
+companies
+clubs and organizations
+
+hobby page
+fannish pages
+science fiction/fantasy fandom
+sherlock holmes/jeremy brett
+comics
+humor
+games and puzzles
+
+info page
+general reference
+prime numbers
+investments and money
+technical reference
+linux
+html reference
+religion
+space
+disabilities
+
+other pages
+ham radio
+government and politics
+weblog
+
+
+
+
+
+

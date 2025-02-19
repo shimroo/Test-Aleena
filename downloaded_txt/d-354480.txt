@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+canned heat - canned heat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+biography
+tour dates
+merchandise
+fito’s book
+discography
+resources
+
+photos
+credits
+interviews & reviews
+press kit
+promoter info
+links
+
+
+contact | booking
+
+
+
+
+
+menu
+
+
+menu
+
+ 
+
+
+
+
+
+
+
+
+
+
+founded in 1966, canned heat rose to fame because their knowledge and love of blues music was both wide and deep. canned heat attained three worldwide hits with their rock anthems “on the road again,” “going up the country,” and “let’s work together.” they secured their niche in rock ‘n roll history with their performances at the 1967 monterey pop festival and a headlining slot at the original woodstock festival in 1969.
+now, almost sixty years later and with forty albums to their credit, canned heat is still going strong. they have been anchored throughout the past fifty-eight years by the steady hand of drummer/band leader and historian, adolfo “fito” de la parra. continuing on into his eighteenth year, new orleans’ legend, dale spalding is on harmonica, guitar and lead vocals and for the past four years, inventive bassist, rick reed became part of the lineup after stints with paul butterfield, john mayall and the chicago blues reunion. the newest addition on lead guitar and vocals is the incredible jimmy vivino. jimmy is best known for his 28 year association as guitarist, arranger and music director for late night with conan o’brien. before that, he had a 20 year career playing with artists including al kooper, charlie musselwhite, michael mcdonald and many others.
+in 2024, the band released their first studio album in fifteen years.  “finyl vinyl” has put the band back on the charts all over the world and has been voted by many publications as one of the top 10 blues albums of the year.
+canned heat remains committed to delighting their fans with creativity and musical energy as they continue to play “live” throughout the u.s. and around the world. do yourself a favor, and plan to see them when they come to your neighborhood!
+
+
+
+read full biography
+
+
+founded in 1966, canned heat rose to fame because their knowledge and love of blues music was both wide and deep.  canned heat attained three worldwide hits with their rock anthems “on the road again”, “let’s work together” and “going up the country”.  
+they secured their niche in rock ‘n roll history with their performances at the 1967 monterey pop festival and headlining slot at the original woodstock festival.
+now, more than fifty years and forty albums later – despite the untimely deaths of original members bob hite, alan wilson & larry “the mole” taylor – canned heat is still going strong.
+legendary original drummer adolfo “fito” de la parra and bassist rick reed are now joined by dale spalding on harmonica, guitar and lead vocals, and john “jp” paulus on lead guitar and vocals. 
+canned heat remains committed to delighting their fans around the world, continuing to record as well as touring in the u.s. and internationally.
+
+read full biography
+
+
+
+
+
+special offers
+
+
+
+living the blues, 3rd edition
+buy it exclusively here
+“living the blues” has gotten great reviews and fito has signed an agreement with famous director/producer mike judge to make a film based on the book.
+get your signed copy plus a free copy of the double cd boogie house tapes 2 with your purchase of the book for $50. enjoy and boogie on!
+
+buy the book
+
+
+clearance cds
+limited time only
+“rock ‘n’ roll made in mexico”
+english version only $15.00 usd
+.
+“boogie house tapes vol 2”
+1969 – 1999
+double cd – $15.00 usd
+
+
+shop clearance
+
+   
+
+ booking u.s.
+skip taylor
+two goats entertainment llc
+mobile: 818-268-2515
+4twogoats@gmail.com
+
+ booking europe:
+kultopolis gmbh
+phone: +49 (0)686-193-9980
+e-mail: promo@kultopolis.com
+.
+booking scandinavia:
+dp agency
+phone: +35 84 00 76 42 18
+e-mail: robert.hagnas@anvianet.fi
+
+ 
+official canned heat merch: book, cds, shirts, hats & more!
+
+ 
+see our news, events &
+releases on facebook!
+
+
+
+
+
+
+
+© copyright 2020 canned heat - all rights reserved 
+
+
+
+
+
+
+scroll to top
+
+
+jquery(document).ready(function($) {
+  $('.p.toggler').on('click', function(event) {
+       event.preventdefault();
+
+       var currentposition = $(window).scrolltop();
+
+    $(window).scrolltop(currentposition);
+  });
+});
+
+ 
+
+
+
+
+
+
+
+
+
+

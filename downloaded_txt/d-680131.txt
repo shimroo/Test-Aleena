@@ -1,0 +1,784 @@
+
+
+nintendo 64 tech
+
+
+
+
+
+
+
+sponsored links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+new stuff
+
+03/17/16: restored pv-backup mirror since it outlasted valery's own web presence.
+
+05/17/07: located n64 patent online :-)
+05/24/05: remove pv-backup mirror at valery request.
+04/24/04: added n64pro 512mbit pof file.
+02/26/04: updated mirror of pv-backup and fix valery's contact email.
+08/07/03: link to n64 manuals removed at request of noa.
+bad docs!  very baddocs!
+08/01/03: fab's elitendo.com is back up.  if anyone would like
+to maintain it, contact me.
+05/01/03: added some high quality scans of the n64 jumper pak pcb.
+04/29/03: added 64scener mirror of 2002/01/20.  thanks spr!
+04/19/03: updated some links.  please, if anyone has a 64scener mirror, send it my way!
+04/07/03: added sn systems tech library.
+03/04/02: added n64 scene nfo archive.  more mirrors.  added n64 function
+reference manual.
+02/20/02: added mirror of valery's pv-backup site, with all links fixed, and tcsr.
+02/19/02: newer psy-q kit.  mirror of redbox's release lists.
+02/16/02: added mirrors of various copier-tech sites.
+02/07/02: added information about dk64, and a demo source with some libultra headers.  thanks rocco.  mirrored zaphod's z64 hd mod and tristar 64 pages.
+02/01/02: added fab's updated z64patch.dat.  added some fun stuff to the dev section.
+01/30/02: added z64 box and cover scans, z64 2.18 bios, v64jr transfer speed comparisons, and cd64 ppa schematics, 512m info, and other miscellaneous bits.
+ moved cd64 tech help to another page.
+01/28/02: corrected some information about rare copy protection and z64 saving quirks.  thanks fab.  also made rcp info more specific.
+
+
+nintendo 64 tech
+this page is about the nintendo 64 game console.  it has information
+about the following topics:
+
+the n64 hardware
+backup units
+reviews of backup units
+development information
+my n64 projects
+n64 rom images
+links
+mirrors
+thanks
+
+
+
+the n64 hardware
+the nintendo 64, originally known as the ultra 64, was released in the us
+by nintendo in 1996.  it was nintendo's third game console, and the first
+one on the market with a fully 64-bit cpu.  (the atari jaguar, though
+advertised as 64-bit, had a 16-bit main processor.)
+
+the nintendo 64 has the following hardware:
+mips r4300i 64-bit risc cpu running at 93.75mhz (1.5x bus multiplier)
+    rcp (reality coprocessor), a custom vector processor developed by nintendo and sgi, running at 62.5mhz
+    4 megabytes of parity rambus rdram (expandable to 8mb)
+    four digital controller ports using a serial protocol
+
+the rcp is a powerful multimedia
+processor that handles the 3d rendering and sound output for the console.
+its display capabilities are comprised of two parts: the rsp (reality signal
+processor), a microcode-upgradable vector and audio processor, and the rdp (reality display processor),
+the texture mapping unit and framebuffer device.
+a vector processor such as the rsp is one that can operate on many sets of data
+in one pass,
+which makes it ideal for crunching the linear equations that are used in 3d
+polygon setup.
+
+the mips r4300i cpu has a 64-bit execution unit and a 32-bit data path.
+thus, it is able to perform complex 64-bit calculations in full stride, while
+maintaining interface compatibility with 32-bit peripherals that are in mass
+production.  according to an online magaizine, the n64 
+can execute 125 dhrystone mips and is rated at 60 specint92 and 45 specfp92.
+
+the n64 is an interesting machine because it is the most powerful console that
+is based on cartridge format.  this could be a blessing or a big problem,
+depending on how you look at it.  on one hand, it is free of the load times
+that plagued cd-rom based consoles such as the psx and saturn.  it is also
+extremely difficult to damage the media.  however, rom chips used in cartridges
+are quite a bit more expensive than cd-rom discs.  this caused the price of
+most n64 games to be in the $50-70 range as opposed to the $30-50 range that
+psx and saturn games sold for.  it also limited the size of the cartridges;
+the average n64 cart was 128 megabits to 256 megabits (16-32mb), and the
+biggest n64 cartridges made were 512 megabits (64mb).  so there isn't much
+room for voice acting or cutscenes.
+
+however, many people (myself included) believed that the n64 upheld
+nintendo's traditional values in its design.  it was designed to play games;
+not interactive movies, or have lots of glitzy cutscenes to attract people
+impressed by such things.  the cartridge format provided instantaneous action;
+the four controller ports and memory pack interface meant that it was a piece of
+cake to organize 4-player get-togethers with friends.  and the cartridge saving
+meant that we didn't have to worry about losing the contents of our memory
+cards on most nintendo-developed games.
+
+since nintendo wasn't interested in impressing
+the layman through multimedia, it focused on creating some of the best games
+ever, and it succeeded exquisitely.  unfortunately, the n64 proved in the end
+to be a market failure, showing once again that good engineering and a passion
+for gaming does not necessarily win the market.
+
+
+the tristar 64
+here is a neat little invention to come out of hong kong.  the tristar 64
+allows you to play super nes and nes games on your n64.  unfortunately, the
+video quality is sort of poor, and it won't play snes games that originally had
+a coprocessor on the cartridge, but it can be found pretty cheap now.
+
+here is a mirror of zaphod's tristar 64
+pictures, and a dump of the tristar 64 bios.
+
+
+
+backup units
+one of the greatest things about the society we live in today is the balance
+of forces.  for every action, there is an equal and opposite counteraction.
+the reaction to the n64 was lukewarm for many people who believed that there
+were more advantages to the cd-rom format, and were irate at the high prices
+that nintendo charged for its games.  thus, the console got a number of
+taiwanese and hk manufacturers to build units that would interface with the
+n64 console and emulate a game cartridge that wasn't really there.
+
+the four n64 backup units in wide use are the: doctor v64 and v64jr by
+bung, the cd64 by ufo company, and the z64 by interesting devices.  all of
+these units are very handy for a n64 user.  even though they were primarily
+designed to play pirated games, they have many other legitimate uses.
+homebrew development is one.  not every aspiring game developer can afford
+the official nintendo dev kits.  with a backup unit, anyone can create their
+own programs and run them on the n64.  also, cheat codes and save management
+are two other widely used features on backup units.  another legitimate use
+(but still one nintendo would not like you to do) is to play import game
+cartridges, which are normally locked-out from the n64 booting them.
+
+backup unit users are really not all the scumbag pirates that nintendo
+would have you believe.  as crowtrobo of obsidian would agree, the people that
+have spent money on a backup unit also must own a real n64, and thus are
+much more likely to buy original nintendo software than the idiots who
+swarm around the n64 emulation "scene" and download entire goodn64 collections.
+typically, backup unit users are a more tech-savvy crowd than the typical
+consumer, and thus they are the people that can benefit the most from having
+access to the neat features that backup units offer.  in addition, nintendo
+benefits from having a homebrew development scene and having more people
+familiar with coding for its console.  nintendo would not agree with this,
+but i firmly believe that a backup unit is just one more reason to own a n64,
+and thus helps nintendo more than it hurts in the long run, as a console's
+install base is much more important than individual game sales ever will be.
+
+also, the n64 backup-scene (main hub at www.dextrose.com -- i'm known as "runderwo" over there) employs many talented coders and otherwise intelligent
+individuals who are dedicated to advancing the n64 and helping each other.  this
+is the kind of partnership that you will never see in the n64 emulation world,
+as the people are typically lame consumers looking to score a free game and
+not caring about anything else.
+
+that said, i really do think that backup units are neat toys and are worth
+investing in, at the price of only a few game cartridges.
+
+problems we encounter with backup units
+unfortunately for the user, nintendo learned their lesson with the ease of
+use and wide proliferation of the super nes backup units.  this time, they
+knew what was coming, and intentionally made it difficult to operate a backup
+unit to play pirated games.  here is a summary of the problems a user might
+face, and the workarounds.
+
+boot chips.  the n64's lockout scheme employs quite a few different
+boot chips (called cics) that reside in the game cartridge, and unless the cic
+provides the correct response to the n64, it will refuse to boot the game that
+is inserted.  so, without a proper cic at all, the n64 will refuse to boot.
+this is also a problem, say, if you are attempting to boot your
+backup device with a cartridge that has a nus-cic-6102 bootchip, and the
+program that you are attempting to boot uses a different chip, such as a
+nus-cic-6105.  since the boot code in the 6105 program image does not work
+with the 6102, the n64 will not allow the program to run.
+
+at the beginning, each game with a different bootchip would be cracked
+in order to work with a different boot chip (according to fab, star fox 64 was the first
+us game to use a different boot chip than the standard 6102), but as the
+games with alternate bootchips grew in number, this process soon became
+tedious, and sometimes the cracks would not work 100%, causing crashes or
+save problems.
+
+the solution that n64 scene members and backup unit bios developers came
+up with is called the boot emulator.  this is a program that is
+loaded into n64 ram and executed before the emulated cartridge rom is accessed.
+it needs a 6102 cartridge to run (since it has its own boot code), and the
+result of the boot emulator will be that the n64 is soft-rebooted, and the
+cartridge data is available to the n64 regardless of the bootchip it was
+designed for.
+
+there are boot emulators that have been created by scene members for
+individual bootchips, but these are of little use now.  lac, one
+of the foremost contributing members of the n64 scene, developed in 2000 a
+universal boot emulator, which is able to boot almost any n64 cart.  this
+makes it quite easy for a backup unit to run almost any game, as only the
+universal bootemu has to be loaded first.
+
+another feature of some backup units is that they have a boot emulator
+built into the bios of the unit, a program that is already running on the n64.
+the z64 and cd64 have this feature when working with the on screen display.
+as a result, you can seamlessly load any game that works with the built in
+boot emulator of the bios.  the cd64 boot emulator seems to boot more games
+successfully than the z64 boot emulator.  even when you run across a game that
+you cannot boot with the bios boot emulator, you can either use the universal
+boot emulator by lac, use a game-specific boot emulator, or use a crack that
+replaces the boot code in the program image.
+
+so, to sum up, if you are having problems running a program on a backup
+unit, check to make sure that your boot cartridge has the same cic chip as that
+of the program you are booting.  if not, you must find a crack for it, or use
+a boot emulator that is either a file that is loaded separately from the game,
+or built in to the bios of the backup unit.
+
+also, if you have a doctor v64, you must use an "emulation adapter" to prevent
+the n64 from reading the rom from the cartridge.  otherwise, the n64 will
+simply boot the cartridge and ignore the backup unit.  other units prevent
+any access to the cartridge rom by the n64, and pass through only the cic and save
+lines.
+
+the other significant problem to playing backed-up n64 games is the
+save chip.  there are five different types of data saving in n64 games:
+eeprom (512 bytes), 4x eeprom (2kbytes), sram (32kbytes), flashram (128kbytes),
+and the controller pak (256kbytes).  the controller pak plugs into the n64
+controller, and is the easiest to deal with.  all of the other chips are
+built into individual game cartridges, and thus require specific support to
+be handled by a backup unit.
+
+in a nutshell, if the save type of the game that you are using is not
+emulated internally by your backup device (like the z64 and cd64 do), you
+must use a boot cartridge with the proper save type, a protected cartridge
+decoder (pcd) that ufo sells in order to mix and match boot and save types,
+or find a crack for the game that changes its save type.
+
+the first option is easy.  find the save type that the game you are loading
+uses from this
+page.  then use the following chart to find out what cartridge to use, if you
+can use a boot emulator for the game:
+
+
+4kb eeprom - super mario 64, or dx256 supersaver
+16kb eeprom - star wars episode 1 racer
+sram - mario golf, or ds1
+flashram - command and conquer
+in this case, remember that each game you run will overwrite the save data
+with its own.  so make sure to use the appropriate utility for your backup
+unit (sram manager for v64, evekii for v64jr, ghemor for cd64) to transfer
+the data to a controller pak or to your computer, for later use.
+
+if you decide to use a pcd (protected cartridge decoder), you insert the
+cartridge with the boot chip that you want in the slot that is straight out
+from the pcd's "cartridge" insert, and the cartridge with the save type that
+you want in the slot that forms a 90 degree angle with the card.  this device
+was created because the cd64 cannot boot at all with a non-6102 host cart.
+it allows access to the boot cic of the cart that is facing down, while
+redirecting rom and save chip access to the cart that is at the 90 degree
+angle.  so for instance, if you wanted to play perfect dark, which has a
+6105 boot chip and 16kb eeprom, you could place another 6105 cartridge in
+the straight slot, and star wars ep1 racer in the 90 degree slot, and use the
+contraption to boot a v64jr or z64 without a boot emulator and with proper
+saving.  (this won't work on a cd64, since it requires a 6102 boot cart.)
+
+the last option is to find a crack for the game that has problematic saving.
+lac made a series of cracks for flashram games in particular to save to sram
+instead.  this makes it much more convenient to use on a cd64 or z64, which
+have built-in sram management, but can't handle flashram and would otherwise
+need to use the pcd on the cd64, or have a boot cart with flashram on the
+z64.
+
+the final problem facing us is software protection built into the
+programs of some game cartridges.  these protections, mostly on games from
+rare company, generally check the boot chip after the game has booted in
+order to see if it is really what it claims to be.  if you are using a boot
+emulator, this check will fail, and the game will do whatever weird things it
+is designed to do.
+
+
+in jet force gemini, the game will boot, but you will not be able to
+run, jump, or shoot.
+in banjo tooie, the game will not completely boot under a boot emulator,
+and furthermore will not save unless a real 4x eeprom is present.
+donkey kong 64 was reported to have problems, but according to fab, the
+problems were all related to a bad dump.
+however, rocco submits the following:
+
+ps, about that donkey kong 'problem'. yes, the first release was a bad dump. 
+however, the good dump was released and tk (czn) did a crack.  however he 
+missed a protection that "wiped" the save when you got a certain distance into 
+the game.  we never saw titanik again.  a year later, lac released a similar 
+crack.  this crack also missed the sneaky protection that wiped your save 
+later in the game.  a week later, lac released another crack, this time it was 
+100% working.
+
+
+software protection can only be gotten around in two ways:  using a crack
+to defeat the protection, or using a boot cartridge that actually has the real
+boot cic of the game you are booting.  (these games all have 6105 boot chips,
+to my knowledge.)  luckily, only a few games have this sort of protection,
+and cracks exist for most of them.
+
+
+
+backup unit reviews and suggestions
+i own both a z64 and cd64, and have used a v64jr in the past.  i will
+attempt to explain what is good and bad about all these units, from my
+knowledge.
+
+the cd64
+**you can find schematics for the cd64 parallel port adaptor (ppa)
+  here, or here
+  as a tarball.  thanks chrism.
+
+**go here for cd64 troubleshooting and miscellaneous
+cd64 tech info.
+
+the cd64 was developed by ufo/success company and released in 1998.  there
+are a few different versions of the cd64 unit.  the original cd64 had a black
+case, and shipped with 128 megabits of ram.  eventually, ufo began shipping
+the cd64 with 256 megabits of ram, and called it the "cd64 plus".  later,
+some of the design was altered, and the case was changed from solid black to
+a translucent grey.  these are the units that are still shipping today.
+
+to begin with, many users have complained about low quality of the cd64,
+from units being doa, to eventual problems that develop.  these problems tend
+to be more prevalent in the earlier black units, though there are plenty of
+black units that are still functioning perfectly.
+
+anyway, with all the fixes mentioned in the cd64 help doc, you might think this is a pretty crappy
+unit, but the problems are pretty easy to solve, and when the unit is working
+fine, it is pretty nice to use.
+
+the cd64 can load n64 programs from the cd drive (obviously) and accept
+sends via the parallel port.  using ghemor by crowtrobo, you can send or
+receive any save data or the cartridge rom.
+
+since the cd64's bios runs as a n64 program, it requires a 6102 boot cart
+to even power on.  normally, this means that you would only be able to load
+6102 programs, but fortunately, the cd64 bios has an excellent boot emulator
+built-in that will boot nearly any game with no problem.  the only problem i
+have encountered is that occasionally a 6105 game will not detect the
+expansion pack.  usually this can be gotten around by re-loading the game
+and attempting the boot again.  for perfect dark, however, you may have to
+use lac's universal bootemu.  otherwise, the cd64 automatically detects the bootcode
+for a given game and runs the proper boot emulator, so the loading process
+is completely transparent to the user.
+
+the cd64's save management is not a problem either.  it will save eeprom,
+4x eeprom, and flashram directly to the boot cart if the boot cart has the correct save type. 
+in addition, it comes with an sram manager that will allow you to transfer
+sram to and from your controller pak and a cartridge with sram.  (thanks crowtrobo.)
+using ghemor however, it is trivial to back up and restore any type of save information to and
+from your pc.
+
+the cd64 also has a built in pal-fixer.  i would say that 99% of all games
+boot and save on the cd64 without any intervention besides matching the save
+cart.
+
+one drawback to the cd64 is its susceptibility to software protection.
+since it relies completely on a boot emulator to boot non-6102 carts, any
+carts that have software protection must be cracked, since it is physically
+impossible to operate the cd64 with the proper boot chip for protected
+software.  fortunately, these games are few and far between.
+
+the cd64 also tops out at 256 megabits of ram.  while this is fine for the
+vast majority of n64 games, some games such as conker's, mario story, ogre
+battle, all pokemon games, and resident evil 2 will not work on the cd64.
+this really isn't a big deal, and most of these games are worth buying anyhow.
+(besides pokemon, hehe).  however, the cd64 is capable of dumping >256mbit
+carts through the comms port with ghemor, even though it can't play them.
+
+read this post from crowtrobo on
+dextrose to find out why the cd64 will never support 512mbits in any way,
+shape or form.
+
+also, parallel port sends are quite slow, and will take 5 to 10 minutes for
+a 256mbit game.  if you're not using ghemor, the original cd64comm utility
+is pretty bad at dropping sends.
+
+right now, the cd64 is unique in that it is the only n64 backup unit still
+being sold and supported.  you can buy one at www.cd64.com.
+
+i would summarize the cd64 as the hacker's unit.  it's not something i
+would suggest to a friend to buy, but i would not trade it for any other unit
+to do development or game hacking with.  the cd64 is definitely best used with
+a pc nearby, for save management and cart dumping.
+
+
+the z64
+
+
+here are high-quality scans of the z64 hw2.0 manual (warning, 300-400k apiece):
+
+
+
+
+
+
+
+
+
+also, the z64 hw2 manual in m$ word format here.
+
+the hard to find unofficial 2.18 bios for the z64 is here.  blame zaphod if it hoses your box, he sent it to me.
+
+here is fab's unofficial
+z64patch.dat that should properly crack/fix all usa games to play on the z64.
+
+here is zaphod's method to add a hard drive
+to your z64 without making a mess.
+
+the z64 is manufactured in taiwan and was distributed in the us
+by harrison electronics.  it uses a zip drive to store and load cartridge and
+save information.  the system is based around a i386 compatible computer;
+the z64 bios is actually an image of a fat filesystem, and it boots an
+ms-dos clone internally.  thus, it is pretty trivial to hack, and people
+have produced upgrades to the bios that add hard drive support or support for
+other removable drives like the orb.  the program z64.exe operates the
+on-screen display and loads the bios into memory for the n64 to access if it
+is turned on.
+
+the z64 came in three models, referred to as hw1, hw2, and hw3.  hw1 only
+supported 128mbits of dram.  hw2 upgraded to 256mbits of dram, and hw3
+simplified the design in order to lower the price to 299.00 from $399.00us.
+
+a zip disk can hold approximately 750mbits of information; that is, it just
+barely doesn't have enough room for three 256mbit images.
+
+one word that i would use to sum up the z64 is "convenience".  the z64 is
+extremely easy to use.  it has a nifty lcd display that you can use to
+load a game before the n64 is powered on, or to load a boot emulator or back
+up the cart in the slot (in case it is not a 6102 cart).  in
+addition, if you turn the n64 on before loading a game, the z64 has a nice bios
+menu that runs as a n64 program, like the cd64 bios. (you can only use the
+z64 bios menu with a 6102 boot cart though.)  in this case, you have a small
+advantage over the cd64, since you are not forced to operate with a 6102
+boot cart only; you can choose whether to use the bios or operate the lcd
+menu depending on what you want to do.
+
+the z64 also has a boot emulator built into the bios like the cd64, and can
+boot most games regardless of the host cart.  the hacked 2.18 bios uses code from
+lac's universal boot emulator, and corrects problems with some 6105 games not
+detecting the expansion pak.
+
+in the z64 menu, you can set up options for each individual game, such
+as what boot chip it uses, slowdown function, tell it to redirect controller
+pack saves to the zip disk (for transfer to pc or copy to friends), or to
+pal-fix it.  the information is saved in an ini file on the zip disk.  you
+can also set global options that are stored in the eprom of the z64, like
+automatic patching, cheat loading, saving, etc.  file management is pretty
+easy too, you can copy programs to another zip disk, delete, and such.
+
+saving is handled by redirecting the save to the zip disk for each game.
+the z64 can handle eeprom, sram, and 4x eeprom natively.  however, sram and
+4x eeprom can be quirky.  (zelda ocarina of time will not boot without a crack,
+due to bugs in the sram emulation.)
+flashram games must be cracked.  the z64 will attempt to download the first
+64k of from a flashram cart, but this is only because the z64 thinks it's
+actually handling sram.  you can't depend on this "feature", and flashram
+games certainly will not work with it.  (thanks fab.)
+
+if you have automatic saving turned on in the menu, the save process is completely transparent and
+quite convenient.  the manual claims you must use a boot cart with eeprom
+in order to save eeprom and sram games.  this seems to work fine for the most
+part.  there are the occasional sram and 4x eeprom games that will need to be
+cracked.  and flashram games are best off being cracked.
+
+also, the z64 can automatically load aps or ips patch files for trainers,
+intros, or cracks.  no more hand-patching on your pc, just name the patch
+file with the same base name as your program file (i.e. zelda64.rom, name
+the patch zelda64.aps or zelda64.ips depending on the type) and the z64 will
+automatically apply the patch after loading the program.  the z64 can load
+z64/cd64 format (big endian) files, and like the cd64, it can also load
+doctor v64 (little endian) format files.
+
+the z64 is an extremely well-constructed unit.  this may be due to the
+fact that it is built in taiwan, where the cd64 and bung units are built in
+hong kong and china.  it is solid and looks very nice on top of your n64.
+it definitely does not have as many quality problems as the cd64 has had.
+(there was a problem with some hw3.0 units where a transistor needed to be
+replaced to correct freezing problems.)
+however, this quality does come at a high price.
+
+the zip drive is a standard pc atapi zip drive, and can be easily replaced
+if anything goes wrong with it.  the ram is standard pc edo ram like the cd64,
+and can be replaced with standard type 72-pin simms.
+
+the z64's biggest advantage is that there is literally no pc needed for
+most tasks.  you can back up, copy, bootemu, save, delete, etc all from
+within the unit itself.  since the saves are on zip disk, there is no
+shuffling save data via the pc link.  the only time i've needed to use a pc
+is for loading patch files for problematic games. (see below.)
+
+now for the bad.  in addition to the transistor that may need to be replaced in some units, the z64 also has a flaw inherent to its design.  since it sits
+on top of the n64, it completely blocks the vent on top of the n64 that would
+normally allow air to circulate.  it also partially impedes airflow around the
+expansion pack.  this combination is not good;  the rambus memory that the
+n64 uses gets quite hot, and when the expansion pack is being used and the
+n64 is being stressed concurrently, it's not uncommon to lose a game session to
+the n64 freezing up.  removing the cover from the expansion pack slot seems to
+have helped with my z freezing up, but i can't make any guarantees.  if
+anyone has any ideas on how to improve this situation, i'm all ears.
+
+the z64 supports 256mb only, like the cd64.  obviously this is only a
+problem for a few games, so it's not that big a deal.  also like the cd64, it can
+dump >256mbit carts, even though it cannot play them.
+
+no pc connection.  unfortunately, there is no way to connect a pc to the
+z64 at all.  so doing things that are possible with the cd64 like editing
+memory, running a debugger, downloading save information directly from a
+cart, etc, are not possible.  this may or may not be a big deal.  personally,
+it's a trade-off between simplicity of use and flexibility between the z64
+and cd64.  the z64 is designed to be operated by a couch potato, where the
+cd64 will require some computer knowledge and manual intervention to get the
+most from.
+
+at $399.00, dropped to $299.00 at hw3 revision, the z64 has always been
+the most expensive unit.  even the upgrades from harrison were expensive.
+you might say that there is a price to pay for quality, but price alone may
+warrant the buyer to look elsewhere.  (the cd64 is less than $200.)  i'm not
+sure if i would ever have gotten a z64 if i hadn't found a hw3 being sold
+for $100. :p
+
+all in all, i would summarize the z64 as the ideal playtime or living room
+unit.  it's very portable, works well for almost all game-playing tasks, won't
+break down easily, and is brain-dead easy to use.  the only real drawbacks
+relate to the price, and the lack of a pc connection, which was by design anyway.
+
+the v64jr
+the v64jr was the successor to the doctor v64, both manufactured by bung.
+it is a simple device, shaped just like a n64 cartridge.  it has a slot in it
+for the boot cartridge, a connection for pc link, some edo dram inside,
+and an altera asic.  the memory is backed up by 6 aa
+batteries and can last up to 8 hours or so without n64 power.
+
+the v64jr's main advantage at the time it was being manufactured (late 1999)
+was its price.  for $179 you would have the only device capable of playing
+512mbit carts.  (z64 and cd64 can back them up but not play them.)  in addition,
+it's the most portable backup unit, as it's basically just a bigger and taller
+n64 cart.  since the unit does not have a bios, you are not constrained as to
+what you load onto it.  using the excellent evekii by wt_riker/obsidian, you
+can load a rom and simultaneously crack it, pal-fix it, load your previous save,
+and retrieve the save when you're done.
+
+however, the drawbacks start to mount when we examine the v64jr closely.
+
+again, like the z64, the v64jr's main drawback is by design.  as the z64
+was designed to be used completely without a computer, the v64jr _requires_ a
+computer.  this can be inconvenient if your computer and n64 room are nowhere
+near each other.  also, if you're at a friends house, you only get to bring
+1 game with you on the v64jr.
+
+another annoyance with the v64jr is load time.  since you dont have the
+choice to load from media such as cd or zip, you have to wait for the
+parallel transfer on every load.  this gets old quickly, especially when
+you're trying different patches to try to get a certain 256mbit game to run.  v64jr
+is definitely not the most optimal unit for playing games on, and this is
+where the cd64 has an advantage:  it has nice dev features, but is also very
+usable for gaming time.
+
+also, due to the v64jr's cost-cutting design (you'd swear you're holding a toy),
+we have the same sort of problem that the cd64 related to passive components.
+i'm not sure of the exact problem, but there is a mod posted on dextrose
+that takes care of it.  it doesn't help that bung is no longer in business,
+so there is no way to get a v64jr repaired in case you would have problems
+with it.
+
+in the end, the v64jr was a great buy in its day, but it's difficult to
+recommend one now, especially since they are selling for almost $300us at
+online retailers.  if you come across one cheap, go for it, but i would
+recommend a cd64 over the v64jr for hacking and overall flexibility, given
+the current price points.
+
+however, the v64jr has one advantage over the rest -- it's the only unit
+that will play 512mbit carts.  the list of 512mbit carts is:
+
+bio hazard 2 (j)
+conkers bad fur day
+ogre battle
+paper mario
+pokemon stadium 2
+resident evil 2
+
+in reference to v64jr send times, hcs writes:
+
+as for v64jr send rates, i pulled up the results of an old experiment i did:
+
+first, i took a byteflipped (.v64) resident evil 2 rom (64 mb) and sent it with both evek and drjrwin2.0 twice. the average time for drjrwin was 97.5 seconds and for elim 87.055 seconds. this works out to 672.16 kb/s for drjrwin and 752.81 kb/s for elim.
+
+then, i took a byteflipped zelda 64 rom (32 mb) and sent it twice with both programs. the average time for drjrwin was 45.4 and the average time for elim was 44.105. the speed for drjrwin was 720.18 kb/s and the speed for elim was 742.95 kb/s.
+*then* i took a non-byteflipped (.rom) version of the zelda 64 rom (32 mb) and sent it.  for drjrwin it took an average of 46.5 seconds and for elim it took an average of 44.685 seconds.  drjrwin transferred at 704.69 kb/s and elim transferred at 733.31 kb/s.
+
+
+drjrwin2.0 average transfer rate: 699.01 kb/s
+elim average transfer rate: 743.02 kb/s
+
+elim enjoys a 6% speed advantage over drjrwin.
+
+note that i used my own figures for the elim speed calculation. it calculates its own speed, but it is rather higher (by about 100 kb/s) than mine. maybe its is more accurate . . .
+
+
+aleste adds:
+
+
+timethis drjrdos castle~1.n64
+timethis :  elapsed time :  00:00:20.540
+
+timethis jrsend castle~1.n64
+timethis :  elapsed time :  00:00:19.550
+
+timethis elim castle~1.n64
+timethis :  elapsed time :  00:00:17.140
+
+timethis elim castle~1.n64 --nocrc
+timethis : elapsed time : 00:00:16.100
+
+timethis start /w wjrwrite /send castle~1.n64
+timethis : elapsed time : 00:00:18.350
+
+(castlevania 64 is a 128mbit image in abcd [big-endian] format.)
+
+overall
+the overall best n64 backup unit, given price, flexibility, features, and
+support, appears to be the cd64.  at the lowest price point, it has something
+for coders, cheats, pirates, and gamers, and really there isn't much that it
+isn't capable of doing well.
+
+is the cd64 best for you?  not necessarily.  remember that due to the
+quality concerns, there is a reason that you are paying less.  compare the cd64
+to buying an apex dvd player at walmart, compared to a sony at best buy.  yes,
+it's got a lot of great features at a low price, but you have to be ready to put up with
+possible problems.  if quality is your top concern, i would suggest trying
+to find a z64 instead.  however, be sure that you can have a guarantee that
+it works fine, or else you might be getting a "freezer" that harrison won't
+fix for you anymore.
+
+that's it.  hope i got all the facts right.
+
+
+
+development information
+
+if you are an official nintendo developer, go to warioworld.com.
+
+
+
+
+my n64 projects
+i wrote a library called libcd64 which is now part of ucon64.  it provides
+access to the cd64 through any known mechanism and is portable to any system.
+it can use either the cd64 bios or ghemor as the cd64 slave.  still in progress
+is a cd64 debug stub for gdb.
+
+tototek's n64 flash cart was never released due to developer failure, which
+disappointed me.  also creating a free firmware for the z64 once i figure out
+how to program the z64 from the n64 side.
+
+another thing i'm messing with currently is adding functionality to
+libn64, which should eventually be an open source replacement for libultra,
+the proprietary library developed by nintendo and sgi that nearly all
+commercial n64 software is linked against.  once some more core functionality
+is in place, we can begin adding rsp support to it based on source code from
+n64 emulators, and enable some real 3d homebrew action.
+
+a last project i'm messing around with is getting a linux kernel to boot on
+the n64.  this may not be as crazy as one might think at first: it would make
+coding and debugging trivial with standard gnu tools.  the hard part is getting
+console input into the n64.  i believe it will be possible to do via serial
+console, connecting one of the controller ports to a host pc through a wishtech
+adaptoid.  (this depends if it is possible to have low-level access of any kind
+to the si interface; the pif may be in the way.)  it would also be possible to
+set up a slip network connection through the adaptoid and log into the n64 that
+way.  the n64 could nfs-mount a filesystem on the host pc.   if the si cannot
+be accessed so directly, then a method of controller-based keyboard input could
+be devised, and a cramfs can be used as root.  difficulty is the lack of system
+memory on the n64, a maximum of 8mb doesn't leave much to work with especially
+with a ramdisk.  you could have a large filesystem in rom, but only a small
+portion would be cached in ram.  exaggerating this problem is the fact that
+mips binaries are quite large, even though we don't use 64-bit pointers on the
+n64.  executable compression may help here.  one could swap onto copier memory
+if it is available....
+
+more documentation and more time is needed. :-)
+
+
+
+rom images
+if you are looking for n64 rom images, go
+here.  this
+n64 rom image collection is second only to tcsr. (note, this site is a joke)
+
+blame zaphod.
+
+here are some high quality scans of the n64 jumper pak.  it is a terminator for the rambus
+memory in the n64 and is composed of some resistor packs and smd capacitors. [front] [back]
+
+
+
+links
+
+open source nintendo 64 at sourceforge
+nintendo64 technical information
+rcp64, a new italian n64 site
+underground console mods, home of n64 overclocking mod
+simone caronni's site
+home of neon64, n64 nes emulator, and other info by hcs
+pv-backup sourceforge site
+nintendo 64-bit dev site
+
+
+
+mirrors (of dev-related sites)
+here are all the mirrors of sites that i've collected.
+you can also download tarballs of each individual site.
+
+
+redbox n64 release lists in one file
+simone caronni's site.  note this mirror is outdated.
+64scener, second only to dextrose in the n64 legacy
+elitendo.com, fab's copier boot/save and faq site.
+interesting devices z64 info site. (www.z64.co.uk)
+softidea's z64 info site. (www.softidea.com/z64)
+ufo/success company's old site with full cd64 info. (www.cd64.com)
+valery's pv-backup, a homebrew n64 development device similar to v64jr
+zaphod's z64-hd page.
+zaphod's tristar 64 page.
+z64 orb, hd, and zip 250 mod info page. (zmod.onestop.net)
+tcsr, wt_riker and nintense's archive of n64 cartridge photos/scans
+n64 design information and pics. (www.white-tower.demon.co.uk/n64)
+handy's backup info page.
+ultra 64 dev system information.  the official sgi indy-based dev system.  more pics here and info from starcaine here.
+a blast from the past, a n64 fan page from when the ultra 64 was not yet released.
+
+
+
+
+
+thanks
+thanks go out to all of the crew at dextrose for making the n64-scene
+such an enjoyable and honorable place, even after 5 years now!  there is hardly
+anywhere else on the web that is so free of lameness these days.
+
+thanks to all the releasers who made the n64 scene alive in its early days.
+(you can see an archive of release .nfo files here, or
+download them all in one zip file here.
+
+all the n64 scene coders: lac, crowtrobo, wt_riker, titanik, wildfire, lemmy
+
+the "tech support" crew at dextrose: _kid, fab, handy/sarah, ctr again, onnichiwa
+
+those guys that you just couldn't do without:  peroy, hectic, sjos, arrid, the doctor, aleste, zaphod, erm...schweino, <your name here>
+
+and the rest of the oldschool n64 crowd:  actraiser, jl_picard...
+
+...and most of all redbox -- the single handed champion of the n64-scene!  without
+his endless contributions, it'd be difficult to imagine where we would be
+today.
+
+
+you may freely redistribute any information on this site that is authored by me according to the following license.  please credit either myself or www.dextrose.com if you reuse portions of this site.
+
+
+
+
+

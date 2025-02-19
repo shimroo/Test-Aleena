@@ -1,0 +1,634 @@
+
+
+
+
+taskboy :: latest articles
+
+
+
+
+
+
+
+
+
+
+
+
+
+taskboy
+
+
+
+
+
+
+
+latest articles
+
+
+notes
+
+
+archive
+
+
+tags
+
+
+
+                    feeds
+                  
+
+
+articles
+
+
+notes
+
+
+
+
+bandcamp
+
+
+soundcloud
+
+
+youtube
+
+
+studio
+
+
+games
+
+
+
+
+
+
+latest articles
+
+
+
+
+
+utilities
+
+
+about this site
+this is the web site of joe johnston [
+ resume ], a software architect and team leader
+ in the greater boston area with over two decades of industry
+ experience developing web applications for the cloud, intranet, and
+ desktop using many open source tools.
+this site embraces indieweb.  take back
+ control of your content.
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+recent posts
+
+
+
+
+latest notes
+
+
+
+
+html validation
+validate now
+
+
+
+
+
+
+
+
+
+
+the harbinger of mood
+
+
+
+
+
+
+the estimated reading time for this article is about 1 minute.
+
+
+
+my first bandcamp ep is call the
+harbinger of mood and is available now.  this album was recorded
+over the summer of 2023 using many of the synthesizers i obtained in
+2022.  the four tracks have a distinctly synthwave flavor to them, but
+without over nostaglia.
+five original pieces of art were commissioned for this album from the
+talented michal kváč.
+the great thing about bandcamp is you can listen to the tracks before
+you purchase them.  when you are ready to join my cult, i mean, fan
+club, consider purchasing a
+t-shirt featuring michalâs artwork.
+if you enjoy the ep, please drop me a note.
+cheers.
+
+
+
+                    published by joe johnston
+                    on november 10, 2023
+                    
+                    .
+                
+
+
+
+tags:
+
+music
+
+
+
+
+
+ð¬ share a response to this post
+
+
+loading...
+loading...
+
+
+
+
+
+
+
+share a response
+
+×
+
+
+
+to share a response that links to this page from somewhere else on the web, paste its url here.
+
+url to the response
+
+
+
+
+close
+save changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+wordle solver revisited
+
+
+
+
+
+
+the estimated reading time for this article is about 1 minute.
+
+
+
+a few rounds of testing suggested that adding a ârequiredâ list of
+letters would be helpful.  these are letters for which the position is
+unknown, but wordle has identified as correct.
+the usage pattern is:
+wordle-solver.pl ...er wat ulc
+
+also, the world list gets additional prefiltering.  no words with
+capitals or apostrophes are considered.
+#!/usr/bin/env perl
+use strict;
+use warnings;
+
+sub main {
+    my ($pattern, $exclude, $required) = @argv;
+
+    if (!$pattern) {
+        die("$0 [pattern] [exclude] [required]");
+    }
+
+    if (length($pattern) != 5) {
+        die("pattern must be 5 characters\n");
+    }
+
+    $exclude //= "";
+    $required //= "";
+    my @required;
+    if ($required) {
+        @required = split //, $required;
+    }
+
+    open my $wordsfh, "<", "/usr/share/dict/words" or die("words: $!");
+
+  next_word:
+    while (my $word = readline($wordsfh)) {
+        chomp ($word);
+        next next_word if length($word) != 5;
+        next next_word if $word =~ /['a-z]/;
+
+        if ($word =~ /^$pattern$/i) {
+            for my $r (@required) {
+                if ($word !~ /$r/) {
+                    next next_word;
+                }
+            }
+
+            if ($exclude) {
+                if ($word =~ /[$exclude]/) {
+                    next next_word;
+                }
+            }
+
+            print "$word\n";
+        }
+    }
+    close $wordsfh;
+}
+
+main();
+
+i am thinking about making this functionality available through a web
+app.  drop me a note if you think this is a good idea.
+
+
+
+                    published by joe johnston
+                    on february 11, 2022
+                    
+                    .
+                
+
+
+
+tags:
+
+perl
+
+
+
+
+
+ð¬ share a response to this post
+
+
+loading...
+loading...
+
+
+
+
+
+
+
+share a response
+
+×
+
+
+
+to share a response that links to this page from somewhere else on the web, paste its url here.
+
+url to the response
+
+
+
+
+close
+save changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+solving wordle with perl
+
+
+
+
+
+
+the estimated reading time for this article is about 1 minute.
+
+
+
+wordle, love it or hate it, has grabbed the popular imagination for
+many.  it is a solo puzzle game that is like mastermind, but with
+words and you have but six tries to figure out the 5 word puzzle.
+of course, this is a task for perl
+#!/usr/bin/env perl
+use strict;
+use warnings;
+
+sub main {
+    my ($pattern, $exclude) = @argv;
+
+    if (!$pattern) {
+        die("$0 [pattern] [exclude]");
+    }
+    $exclude //= "";
+
+    open my $wordsfh, "<", "/usr/share/dict/words" or die("words: $!");
+    while (my $word = readline($wordsfh)) {
+        chomp ($word);
+        next if length($word) != 5;
+        if ($word =~ /^$pattern$/i) {
+            if ($exclude) {
+                if ($word =~ /[$exclude]/) {
+                    next;
+                }
+            }
+            print "$word\n";
+        }
+    }
+    close $wordsfh;
+}
+
+main();
+
+give it a regex pattern to match like âgr.atâ and an optional list of
+letters you know are not in the solution to get back the list of
+possible words that fit the pattern.
+no, i didnât take the fun out of this game â you did.
+
+
+
+                    published by joe johnston
+                    on february 8, 2022
+                    
+                    .
+                
+
+
+
+tags:
+
+perl
+
+
+
+
+
+ð¬ share a response to this post
+
+
+loading...
+loading...
+
+
+
+
+
+
+
+share a response
+
+×
+
+
+
+to share a response that links to this page from somewhere else on the web, paste its url here.
+
+url to the response
+
+
+
+
+close
+save changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+jon stewart has left the building
+
+
+
+
+
+
+the estimated reading time for this article is about 3 minutes.
+
+
+
+
+jon stewart appeared to be backing the racist, debunked idea that covid-19 was made in a wuhan science lab on the very first late show filmed in front of a full audience in more than 400 days.
+on the one hand, this is just a drop in the ocean that is âpeople being wrong in publicâ problem that is the scourge of our information economy times.  further, to speak unpopular or even wrong ideas is (in the u.s.) a fiercely protected right.  lastly, history has shown us enumerable examples of smart people holding odious beliefs.  humans are complicated, yet we seem to pretend that they are not.
+if you believe that the chinese government manufactured covid-19, there is little i can do change your mind.  but, here is rebecca watson speaking about this very topic and why the consensus of virologists who have studied this pathogen do not see evidence of human manufacture.
+i am old enough to know this will change almost no oneâs belief on this, but it is there for those with an open mind.
+but this particular person espousing this particular conspiracy theory is disquieting.  stewart was, during the bush years, a fact-checking juggernaut.  sure, he had a research staff then and yes, i was happy to hear neo-conservative propaganda trashed.  but it seemed then and seems even now that stewart is a pro-little-guy and pro-truth crusader.  his decades-long work for getting benefits for 9-11 first responders is a testament to this.
+now, take that guy off the air, fire the fact-checking team and stick him on a farm for several years and you have a very ordinary rich guy free to consume media that feeds his preconceptions, just like mike the mypillow guy or elon musk or the former president.  then recall that, like all public figures, stewart likes an audience and that âhot-takesâ are the currency of the same, should we be that surprised to see him digging in on a controversial position?
+i hope that stewartâs performance was a kaufman-esque stunt.  that stewart wanted to point out the criticality of media literacy in a world where  monied interests lie to the public.  but i am not holding out a lot of hope for this outcome.
+much is made on the political right of how the left is turning into thought police who mandate a party line (which is an irony so rich i trust i need not point it out).  as stewart gets called out for supporting a debunked idea promulgated mostly by zealot supporters of the former president, it is important to remember the challenge of epistemology.  how do we know what we know?  we all have to defer to the considered, professional opinions of those technocrats who study the subjects that we do not.  do these experts get it wrong sometimes?  they do, but at a much lower frequency than non-experts do.  if not, then there is no reason to have experts at all.  an expert opinion can be and should be challenged in good faith.  but most of the time, the experts are closer to the truth than anyone else.  reality is not obliged to agree with our preconceptions or crazy ideas.
+still, this example of a dude being wrong in public hurts.
+
+
+
+                    published by joe johnston
+                    on june 16, 2021
+                    
+                    .
+                
+
+
+
+tags:
+
+epistemology
+
+
+
+
+
+ð¬ share a response to this post
+
+
+loading...
+loading...
+
+
+
+
+
+
+
+share a response
+
+×
+
+
+
+to share a response that links to this page from somewhere else on the web, paste its url here.
+
+url to the response
+
+
+
+
+close
+save changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+escape rooms at home: a personal journey
+
+
+
+
+
+
+
+the estimated reading time for this article is about 6 minutes.
+
+
+
+
+even before the covid-19 lockdown, my family and i enjoyed doing escape rooms.  we are lucky enough to be a place with easy access to commercial escape rooms like escapology live escape games - worldwide escape rooms, plus a few other smaller ones.  however, we are not master puzzle breakers.  our track record for solving the puzzles is rather low.  still, the experience of doing escape rooms is so enjoyable for all involved the a string of loses, though galling, is not a deal-breaker.
+we are a natural market for âboard gameâ versions of escape rooms and we have going through at least three of the following titles: exit: the game, unlock!, and deckscape.  in this post, i would like to offer my impressions of each system and its suitability to casual family gaming.
+i will forego any pseudo-scientific rating system, but instead lay bare my biases.  each system has been judged by my experience playing the game with three people, one of which is a pre-teen.   how well each delivered a memorable and pleasant gaming experience is my primary criterion.
+one last note: my family does not play with timers.  these introduce far too much drama into a process that is sufficiently fraught for the players.  if you too are looking for casual fun, do discard any timing device.  the game ends when the last puzzle is solved or your players are uninterested in continuing.
+deckscape
+deckscape, as the name suggests, is merely a deck a cards!  puzzles are both visually based (meaning you have to find hidden figures in cards), and logic based.  no additional device is needed. 
+by far, this is the best series for casual escape room fun.  no, these games will not impress you hard-core gamer friends, but they are all replayable and the stakes never feel too high.  aside from logic and math, you rarely need any outside knowledge to complete the puzzles.  i only wish there were more of these!
+the only drawback to this system is the lack of an in-game hint system.  however, i donât find these puzzles rarely necessitate them.
+great starter titles from this series:  test time and the fate of london.
+unlock!
+these games require a tablet or mobile device to play.   it is possible to disable the timer for most of these games, although a few specific titles do have timed events (like tombstone express and the nautilusâ traps), and i do not recommend those specifically. 
+my family has had the best luck with this series.  there are many titles to choose from, with a variety of fantasy settings that should appeal to many.   some real-world knowledge (especially for the arabian nights themed title) are very helpful for solving the puzzles.  this is not typically the case.
+the app has a hint system, which works well.  some of the âfigure out the weird deviceâ type puzzles are less interesting to me, but i know these appeal to some (as this kind of thing is all over interactive fiction games).
+great starter titles from this series: the house on the hill and the formula.
+exit
+the exit series has the most of titles of any of the offerings mentioned in this post.  each title has self-contained game that is card-based with additional custom âfeeliesâ and make this series extremely popular.  the system consists a riddle deck, a solutions deck, and a hints deck.  there are 10 puzzles per game.  puzzles are visual, logical, spatial, and may require some crafting skills, like precision cutting and measuring.   by far, this series has the most creative puzzles and the most unique puzzle solving experiences.  why is this not my favorite series? 
+although we have done 3-4 of titles in exit, we have never completed any title.  we always quit before the end.   frequently, we get dead-ended in the game, where is it unclear what the puzzle is.   in the last on we did, we got to a point where we need a âhidden feeliesâ to solve the puzzle, but we were never told by the game to obtain that.   we just took the the thing anyway and moved on.
+many of the puzzles require more careful crafting of cards or feelies items than my family (or me) is interested in doing.   iâm not terrible with rotating objects in my head, but i am terrible at crafting in general and worse doing so under pressure.  when you are a parent, you cannot give any one task 100% of your attention, but the exit series, which often has a lot of âgame stateâ to manage requires this.
+one last point, the production values of exit games are very high.  each title is gorgeous.  although i find some of the puzzles rather opaque, i am inclined not to blame the game designers but my own limitations for this.  i wish i could enjoy this series more.
+great starter titles from this series: the abandoned cabin.  if you do not like this one, do not bother with the rest of the series.
+honorable mention: journal29
+one last entry that i recommend as an excellent family activity is journal 29, which is a book-based âescape roomâ or series of puzzles.  the fiction of this is that a group of researchers working on a secret project have disappeared, leaving behind one last journal filled with clues to suggest the nature of their work and the reason for their disappearance.  this will be very familiar to x-files fans.
+you do need an internet-enabled device to solve the puzzles, some of which require gps look-ups, or special media files from journal29.   most of the puzzles are visual and logic based.   some may require light googling.
+on the other hand, i found these puzzles incredibly approachable (4 out of some 60 utterly stumped me).  doing this puzzles with your family over the course of several sessions is very enjoyable. 
+i hope this helps you find the right escape room experience for your family.    these games are a great way to keep your brain engaged while providing a  unique (mostly non-digital) shared experience.
+
+
+
+                    published by joe johnston
+                    on february 15, 2021
+                    
+                    .
+                
+
+
+
+tags:
+
+games
+
+
+escape_rooms
+
+
+
+
+
+ð¬ share a response to this post
+
+
+loading...
+loading...
+
+
+
+
+
+
+
+share a response
+
+×
+
+
+
+to share a response that links to this page from somewhere else on the web, paste its url here.
+
+url to the response
+
+
+
+
+close
+save changes
+
+
+
+
+
+
+
+
+
+
+
+                powered by taskboy plerd v1.0
+
+
+
+
+
+
+
+

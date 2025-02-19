@@ -1,0 +1,136 @@
+
+
+
+
+
+takedown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+significant events in the case 
+1994-1995
+1995-2000
+
+
+voice mail messages, online sessions and analysis of machine 
+after break in.
+
+links to newspaper articles and photos related to the case
+
+a selection of interesting online sessions and voice messages. 
+
+the biographies of tsutomu shimomura, john markoff, and kevin mitnick
+
+
+
+
+
+
+
+
+
+
+
+site powered by sun
+
+
+
+
+
+
+
+        
+kevin mitnick, "america's most wanted computer outlaw," eluded the police,
+us marshalls,
+and fbi for over two years after vanishing while on
+probation for his 1989 conviction for computer and access device fraud.  his
+downfall was his christmas 1994 break-in to tsutomu shimomura's computers in
+san diego, california.  less than two months later, tsutomu had tracked
+him down after a cross-country electronic pursuit. mitnick was arrested
+by the fbi in raleigh, north carolina, on february 15th, 1995.
+
+
+        
+while he was on the run, he broke into countless computers, intercepted
+private electronic communications, and copied off personal and 
+confidential materials.  among the materials he copied off and stashed in
+readily accessible locations around the net were personal electronic mail,
+stolen passwords, and proprietary software.  much of the stolen software was
+the trade secret source code to key products in which companies has invested
+many millions of dollars of development effort in order to maintain their
+competitive edge.  his activities on the systems he broke in to, often
+altering information, corrupting system software, and eavesdropping on
+users, sometimes prevented or impeded legitimate use.  he tried
+to stay a step ahead of the law by using cloned cellular telephones and
+stolen cellular and internet service for many of his intrusions.
+
+
+        
+mitnick was charged in north carolina with 23 counts of access device fraud
+for his activities shortly before his arrest.  in order to expedite his
+return to california, he agreed to plead guilty to one count and have his
+case consolidated in los angeles.  in california, he was charged with an
+additional 25 counts of access device, wire, and computer fraud.  on march 16,
+1999, mitnick plead guilty to five of these counts and two additional
+counts from the northern district of california.  he was sentenced to 46
+months and three years probation, to be served in addition to eight months
+for his north carolina plea and 14 months for his probation violation.  he
+was released from prison on january 21, 2000, being eligible for early
+release after serving almost 60 months of his 68 month sentence.
+
+
+        
+this site contains technical details of the break-in and pursuit,
+including actual analysis of the original break-in, voice messages
+left after the break-in, live transcripts of some of kevin mitnick's
+sessions, conversations, and much more. 
+
+
+
+
+
+mail comments to 
+
+webmaster@takedown.com.
+
+
+copyright 1995 vicious
+fishes web design and dan meriwether.
+all rights reserved.
+contact: webmaster@takedown.com
+
+
+
+
+
+
+
+
+

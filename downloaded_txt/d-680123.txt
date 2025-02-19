@@ -1,0 +1,576 @@
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                home
+              
+
+
+
+                publications
+              
+
+
+
+                music
+              
+
+
+
+                photography
+              
+
+
+
+                connect
+              
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+
+
+
+                home
+              
+
+
+
+                publications
+              
+
+
+
+                music
+              
+
+
+
+                photography
+              
+
+
+
+                connect
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+李晓雷
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+february 19, 2015
+
+
+
+
+random investment co.
+
+
+
+xiaolei li
+
+
+february 19, 2015
+
+
+
+
+
+
+
+beating the s&p 500 is something companies always brag about. most funds can't do it so when it happens consistently over time, it's kind of a big deal.or is it? companies like fidelity or vanguard have tens and hundreds of funds. a subset of them just have beat the s&p 500 by random chance. below is an example that i'll call random investment co. (randco for short).randco features 25 funds, each consisting of 50 stocks. but instead of categories like biotech or transportation, the 50 stocks are randomly selected from the s&p 500.  in other words, they are 25 random subsets of size 50 each.by definition (unless i have extremely bad luck), a subset of these 25 funds will just have to outperform the s&p 500.let's verify this claim with real numbers. to make calculations easy, we place equal weighting on the holdings. the real s&p 500 is weighted; but fortunately, there is an equal-weighting etf: rsp. from jan. 27, 2012 to jan. 30, 2015, rsp gained 58%. let's see how randco compares.overall, randco gained 60% over the same time period. a slight beat over rsp. but one of its 25 funds gained 76%, that's 31% higher than rsp. here are its holdings: luv zmh mnst stx syk pm agn wfm cmi lyb kr nwl cma orcl ctl abt sndk swk bbt eix celg bll dps r amat rost rok wfc amzn aee ess pfg ppl lnc chrw gm flir srcl apd scg len v ba txt d vmc mo rf ca.interestingly, half (13) of the 25 funds outperformed rsp and the rest underperformed. how statistically likely. but we won't share the underperformers with cnbc :-)i also simulated 100,000 different incarnations of randco. the average gain over the same time period? 58%.every now and then, i'll run into a list of mutual funds that beat the s&p 500 over 5 years or over 10 years. whenever i see it, i think about randco and its 31% beat. is it all just random chance? my bet is on yes.
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+february 12, 2015
+
+
+
+
+the data-driven offensive coordinator
+
+
+
+xiaolei li
+
+
+february 12, 2015
+
+
+
+
+
+
+
+i was listening to the tony kornheiser podcast a while ago and he was raising a suggestion of going after a sabermetrics coach for the redskins. nfl scouting is less data-oriented than baseball and basketball, and kornheiser was suggesting maybe a billy bean like figure for the redskins to shake things up.the suggestion got me thinking. sabermetrics for scouting is easy. but could a machine do play calling better than an offensive coordinator? not something like the play calling in madden but a real data analytics based solution.  the nature of football with stoppage between plays makes it a natural fit.here is how it could work. it requires a lot of data that isn't readily available today, but maybe one day. first, offline, gather as much historical data on individual plays as possible. each play contains features such as:downyards to goclockfield positionscorehome/awayweatheropponentdefensive formationdefensive personnel (maybe even down the individuals)defensive coordinator/teamoffensive formationoffensive personneloffensive playlet's say you could gather the above for every single play for your team in the past x seasons. you could in theory learn a function that takes the above input features and outputs yards gained. there is a question of how much data you have or need (especially if you want to build a different model per opponent). but let's suppose you get it done.then, at runtime (aka play calling time), some assistant coach can enter in all observable features. they would have to watch the defense line up to get the formation and personnel. this is a bit tricky since the defensive usually waits for the offense. anyway, let's assume it's doable. then it's a simple matter of applying the model to every single play in the playbook and seeing which one returned the most predicated yards gained.this offense would be pure data-driven, no emotions.  will probably go for it on 4th down more than a human being. but somehow i feel like it could revolutionize the game, even more than sabermetrics did to baseball.
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+february 13, 2013
+
+
+
+
+on being data driven
+
+
+
+xiaolei li
+
+
+february 13, 2013
+
+
+
+
+
+
+
+"data driven" is a buzzword many people/teams/companies throw around these days. like many other buzzwords, it's often misused and misunderstood.to many, "data driven" equals ab-testing. they setup a live ab test, look at metrics (e.g., click-through rate, revenue, etc.), and make a launch decision based on which treatment has the bigger number.while valid, this is only a small part of what being data driven means.what it really means is something much more pervasive throughout the product cycle. most of them seem obvious, but it's funny how the obvious is often forgotten.rely on data in product planning. often, one is faced with many possible choices of how to iterate on a product and having to prioritize amongst them. instead of relying purely on instinct/experience, add data to the mix. use analysis to figure out which areas have the most gap, which areas have the most to gain, etc.invest in metrics infrastructure. many companies have analysts whose fulltime job is to run data warehouse queries and make pretty charts, often the same ones over-and-over. though the charts can be useful or even critical, the process does not move the org forward. instead, hire engineers to build the infrastructure to automate those charts. use the analysts to discover new charts that should be automated.focus on data quality. pick any internet company and its data warehouse is full of logs. raw, dirty, noisy logs. every team who wants to use data has to clean those logs from scratch, often in different ways. as a result, different people will come up with different numbers for the same question. instead, have a single source of cleaned logs that can be universally accepted. if different teams have different definitions of "clean", use the least common denominator.look beyond the top-line metrics. with ab testing, some people just look at the top-line metrics such as revenue or clicks and make a decision based on that. but when asked why the metrics are the way they are, the answer is often just a hypothesis. validate that hypothesis with more data. if that data is not available, make it available and understand the cause behind the top-line metric.
+
+
+
+
+
+1 comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+january 18, 2013
+
+
+
+
+facebook vs. flickr vs. 500px
+
+
+
+xiaolei li
+
+
+january 18, 2013
+
+
+
+
+
+
+
+about a year and half ago, i decided to ditch flickr as my primary method of picture sharing online. since more and more of my friends were using facebook exclusively for everything, i started to post all pictures to facebook.i could tag people, places, things, etc. my photos were getting comments from friends rather than strangers. and although the facebook picture viewing experience sucked back then, i decided the pros outweighed the cons.fast forward to now. i'm still on facebook but i'm feeling the pains. album, set, tag management in facebook is nonexistent. there are many bugs, especially when photos are put into albums. though the actual picture viewing experience has been improved, everything else is still pretty old.in addition, i'm starting to miss the occasional comment from a stranger on my photos. i needed another way to share my photos.so, i looked around and 500px seemed like the "in" thing. it looks like a more beautiful flickr with less random photos.i posted a few random photos on there, and voila, there were comments almost instantly! but as i looked further, it was basically a circle jerk within 500px to promote each other. none of the comments were actually useful.so now i'm lost again. should i just live with facebook? should i try out 500px a little more? should i go back to flickr? should i give google+ a try?
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+april 24, 2011
+
+
+
+
+settling down
+
+
+
+xiaolei li
+
+
+april 24, 2011
+
+
+
+
+
+
+
+signed the lease on our more permanent place yesterday. found a great townhouse in sunnyvale, 3 bedroom, 2 bath, a couple of patio areas, awesome living room with floor-to-ceiling glass walls. going to be pretty sweet. moving there in roughly 2 weeks, can't wait.i've been using the magic trackpad lately. before, i thought it was kind of a lame device. basically yet another attempt by apple to make some cash. but after using it for a few days, i get it now. it lets me do all the multi-finger gestures i do on a laptop with a desktop. for example, i use the 2-finger scroll and 4-finger expose a lot. the 3-finger drag is also pretty useful.
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+april 15, 2011
+
+
+
+
+groupon
+
+
+
+xiaolei li
+
+
+april 15, 2011
+
+
+
+
+
+
+
+just finished my second day of work at groupon today. lots of learning happening; very exciting. feels a little weird not inside the ms world. bash/vim commands are slowly coming back to me. i find myself pressing key combinations with some kind of muscle memory and they actually do things that i want! sucks that i lost my .vimrc and .bash_profile from those days. it's going to take a while to get all that configured right.for the past week, i've been driving a rented nissan versa while waiting for my actual car to be transported here. i've grown attached to the thing. it's weak but cute. feels like a toy. i like throwing it around corners at speeds that almost feel like i'm going to roll over. parking is also way easier with a tiny car.
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+april 8, 2011
+
+
+
+
+new old world
+
+
+
+xiaolei li
+
+
+april 8, 2011
+
+
+
+
+
+
+
+after spending almost 3 years in seattle, i'm now back in california, bay area to be exact. the wife and i flew down yesterday and are now living in mountain view. i quit microsoft and will be joining groupon next week. the wife is transferring to the microsoft down here.lots of changes but it also feels like we never left. the wife's previous job was in the bay area and i spent a few summers here as well. everything around has that familiar feel to it. reduces the stress of moving i suppose.along with the move back, i'm also going to re-introduce a couple of old hobbies back into my life. first is music. i haven't seriously listened to music, old or new, in at least a year. i almost exclusively listen to podcasts these days. it's good and bad i suppose. i keep up with current happenings with podcasts but a lot of them are redundant (anyone else feel like 90% of the twit network is just reverberation of the different shows?). i've been missing out on a lot of new music (mogwai, red sparowes, the whole "chill-wave" scene, etc).second is photography, specifically film photography. i haven't touched a film camera in ages. i basically just use my panasonic micro 4/3 these days. kinda sad to have all that equipment sitting around gathering dust. in the next couple of weeks, i'm definitely going to break out one of the medium formats, shoot a couple of rolls, and develop them at home. let's just hope i still remember how to load film, how to meter, ... :-)one last thing. i've decided to stop subscribing to cable tv. with the hd, dvr, hbo, etc. packages, it was adding up to something like $100/month just for tv, even though i just watch a handful of shows. ridiculous. instead, i'm going to start subscribing to hulu plus on the ps3. i already have netflix on that. add espn3 on the xbox, that's basically 90% of what i watch these days.
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+june 18, 2010
+
+
+
+
+finally back
+
+
+
+xiaolei li
+
+
+june 18, 2010
+
+
+
+
+
+
+
+i forgot the password to my stupid blogger form and couldn't remember it for the life of me. finally got them to reset it for me and now i can finally write to this! some random musings...red dead redemption is a pretty awesome gamepansonic gf1 is a pretty decent camera but i'm having a hard time seeing it replacing the 5d mk iikobe sucks. fisher sucks. lakers suck.still using my ipad everyday, not a fadtired of the iphone though, looking to jump shiplistening to podcasts at 2x speed at the gym, a very good idea
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+september 9, 2009
+
+
+
+
+tk back on the radio
+
+
+
+xiaolei li
+
+
+september 9, 2009
+
+
+
+
+
+
+
+seriously. best show on the radio. people still listen to the radio, right?
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+
+
+
+xiaolei li
+
+
+august 24, 2009
+
+
+
+
+fire walk with me
+
+
+
+xiaolei li
+
+
+august 24, 2009
+
+
+
+
+
+
+
+i recently watched twin peaks again. that show still holds up after all these years. weird wild stuff in there. it's even more weird that i live so close to the supposed location of twin peaks.
+
+
+
+
+
+comment
+
+
+
+
+
+
+
+
+
+older posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+back to top
+
+
+
+
+
+
+
+

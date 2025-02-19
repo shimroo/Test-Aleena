@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home | software design group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to main content
+
+
+
+
+
+homepeopleprojectspublicationsopportunities
+
+
+
+
+
+
+
+
+software design group
+
+
+
+
+
+
+
+search form
+
+search 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+the software design group at mit's computer science and artificial intelligence laboratory explores new ways to design software. our ultimate goals are to improve the quality of software, making it more usable and robust, and to help developers achieve this with less effort and cost. the problems we address are usually the focus of the fields of software engineering and human-computer interaction, but the ideas and techniques we use tend to be drawn from the fields of programming languages and formal methods. we are also strongly influenced by work in design, most notably by christopher alexander.
+the centerpiece of the group's work is currently conceptual design, a new theory of software design that addresses the most fundamental issues in software design that are rarely even made explicit: what functionality actually gets built and how it's structured. more information about daniel jackson's recent book on conceptual design, and a series of posts applying conceptual design in a variety of contexts, on a separate website. be found here.
+recent projects include:
+riffle: a new architecture for local-first applications in which all state (including ui state) is held locally in a relational database;
+lachs: in collaboration with colleagues in the internet policy initiative, a new approach to recognizing and fixing dark patterns;
+espalier: a new kind of spreadsheet, augmented with object structure, to support low-code development of apps;
+déjà vu: a framework for implementing conceptual design in which an app is constructed with almost no code, using a library of prebuilt concepts;
+wildcard: a web extension for end-user customization of web apps;
+certified control: an architecture for safety critical control systems (such as autonomous cars) that avoids reliance on replication, with an interlock that checks a controller-generated certificate of safety;
+alloy: a modeling language and analyzer for software design, recently extended with temporal logic features.
+our group consists of postdocs, research staff, doctoral and masters students and undergraduate researchers. if you're interested in finding out more about the group, do contact us!
+research described on this website was supported by a grant from the international design center at the singapore university of technology and design (sutd); by a grant from a collaboration between csail and the wistron corporation; and by the national science foundation under grants 0541183 (deep and scalable analysis of software) and 0707612 (cri: crd -- development of alloy tools, technology and materials).
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+recent news
+
+
+
+
+ mon, 11/06/2023 
+ daniel will deliver the opening keynote at er23, the 42nd international conference on conceptual modeling.
+  
+
+ mon, 08/21/2023 
+ josh's paper, language model agents enable semi-formal programming, coauthored with arvind satyanarayan and daniel, has been accepted and he'll present it at thethe ninth workshop on live programming (live 2023), october 2023.
+  
+
+ fri, 07/21/2023 
+ our uist submission describing riffle has been accepted. geoffrey will present at uist in san francisco in october.
+  
+
+ thu, 07/13/2023 
+ geoffrey litt defended his thesis, presenting riffle, a new paradigm for front-end design. 
+  
+
+ tue, 10/19/2021 
+ kapaya katongo presented his work on joker: a unified interaction model for web customization (coauthored with geoffrey litt, kathryn jin, and daniel jackson) at the live 2022 workshop.
+  
+
+
+
+    more  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+login
+
+
+
+
+
+
+
+report web site issues
+
+
+
+
+
+
+accessibility
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3471 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+parry aftab's blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+parry aftab's blog
+
+
+
+where parry aftab blogs on cybersafety, privacy and cybersense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+friday, may 02, 2014
+
+
+
+
+
+
+
+canada's cyberbullying/sexting protection legislation - c-13 and its voluntary disclosure provision
+
+
+
+
+
+canada was the first nation in the world to adopt a law targeting cyberstalking and cyberharassment. now, 20 years or so later, it is the first country in the world to address hostile sexting and revenge porn. i applaude the leadership of canada and minister mackay in their forward thinking.
+
+but, not all about c-13 is designed to address cyberbullying/hostile-sexting/revenge porn. in a broad stroke many security and law enforcement empowering provisions were added, some (imho) far beyond what is needed to accomplish its purposes. spousal immunity is challenged in c-13. and c-13 attempts to provide immunity for industry members voluntarily turning over personal information to governmental agencies.
+
+while i may have privacy concerns over this provision in a vacuum where canada is the sole country with digital networks and providers, my concerns are more for the industry itself in the real world. canada, although the most digitally socially engaged country in the world does not exist in a vacuum. the twitter, googles, microsofts, facebooks, yahoos, minecrafts, ubisofts and blizzards of the world exist globally. most are headquartered in the us with some having offices or subdivisions in canada.
+
+these companies create contracts with their users. those contracts include privacy policies, terms of service and use and limited licenses of use of software and resources. when we blindly click "i accept" we are signing that contract. by offering you the ability to accept, the company has offered and signed their end.
+
+if the company fails to live up to its end of the contract it can be sued in the civil courts, may face regulatory enforcement actions by privacy or consumer protection agencies and may even be charged with a crime. since the privacy practices are contractual, the government of canada has no legal authority to provide immunity to a network provider for breaching that contract. the user would still have a right of action in the us or other countries around the world. and, the network could still face liability for that "voluntary" breach by regulatory authorities in the us and elsewhere.
+
+in the rare case when canadian-providers only do business with canadians within canada and are exempt from international legal authority, c-13's immunity for voluntary disclosures may work. and there canadians are losing substantial civil rights when legal process can be ignored and investigators can request information be provided "voluntarily." what company would want to be seen as standing in the way of child recovery, terrorism curtailment or threats against the innocent? but, this assumes that law enforcement doesn't have a legal option that protects the privacy and security of canadians and visitors to canada. it assumes it is all or nothing. and that is an inherently faulty assumption.
+
+if the subpoena power were streamlined to protect the privacy of canadians, their civil rights and the ability of law enforcement to protect all of us, we don't have to choose between our privacy and community safety. we don't have to trade one right for another.
+
+thinking outside of the box is harder, but worth the work. i don't want cyberbullying victims, or hostile sexting victims or any victims to have to give up their privacy rights as a canadian to be protected from digital hate and harassment. it's not fair. it's not right. it's not canadian.
+
+
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+3:57 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wednesday, april 30, 2014
+
+
+
+
+
+
+
+pennsylvania legalization of online gambling - may 1st hearings wiredsafety's white paper and parry aftab's testimony
+
+
+
+
+
+tomorrow i testify yet again on online gambling. i spend my time protecting consumers, seniors, families, parents and kids online. i identify risks and seek solutions to those risks.
+
+the industry and media are often surprised that i have taken a position that is not, on its face, consistent with my straight-laced positions on cybercrime and abuse. i support the legalization of certain online gambling. sticking our heads in the sand pretending it doesn't exist, that people aren't being scammed because no one can look out for them or police whether minors can access these sites and apps, is dangerous.
+
+the only way to effectively outlaw and stop cyberscams, fraud and gambling abuses is to license and regulate trustworthy industry members in developing online gambling avenues that manage the risks caused by unregulated online gambling.
+
+the risks range from addictive/problem gambling, to minors gambling, to seniors being scammed by sketchy unregulated online gambling sites, to unpaid winnings, financial credential crimes, identity theft, money laundering and malicious code/malware/hacking. ironically, these risks are more easily managed online than in brick and mortar situations.
+
+wiredsafety, the us charity i founded and run, commissioned an important review of international practices and experiences conducted by malcolm sparrow from the kennedy school at harvard. this was presented to the congressional committee charged with the review of laws impacting online gambling. both malcolm and i testified before the democratic-chaired committee. (i had testified previously before the same committee when controlled by the republicans.) the paper can be accessed at wiredsafety.org (https://www.wiredsafety.org/pdf/can_internet_gambling_be_effectively_regulated_managing_the_risks%20final.pdf)
+
+powerful voices agreed with my opinion and malcolm's paper - louis freeh (former director of the fbi) and governor tom ridge (the first head of homeland security) joined me on the board of the non-profit freeplay, also convinced that the only way to be effective in managing the risks and preventing abuses was to legalize and then heavily regulate online gambling.
+
+once legalized and regulated, our work begins - educating parents, assisting seniors, helping make online gambling less accessible to problem/addictive gamblers and making sure that experienced digital security, privacy and best practices professionals help build safer, more private and more secure networks and enforcement processes.
+
+that's what i will tell the legislators tomorrow.
+
+
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+10:46 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+friday, april 18, 2014
+
+
+
+
+
+
+
+finally, the beginning of closure for carol todd and amanda's loved ones. accused under arrest for sextorting amanda todd
+
+
+
+
+
+i love carol todd. she is funny, kind, creative and cares deeply about kids and people facing adversity. i met her for the first time when both of us attended the dropping of c-13, canada's sexting/revenge porn bill, at the invitation of the prime minister of canada.
+
+on that day she was overwhelmed. many of the leading cyberbullying and child protection advocates form north america were there. but the media followed carol, hanging on her every word. she rarely has a moment to herself. amanda is always with her. and, amanda is always with us.
+
+we connected again not long thereafter. and became friends and partners in stopping pain. carol does this from her heart. i worry that she will burn out or break down, but with the exception of some teary and quiet moments, she is incredibly strong. she is also tireless and devoted to her cause, which is supporting amanda's cause and passions.
+
+both of us were troubled that the person who sextorted amanda, by threatening to put her intimate picture online. (he followed through with that threat.) when we spent an entire week together in march, we talked often about how great it would be to find him.
+
+she just texted me. he's caught!
+
+now, we'll all work to make sure that justice is done.
+
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+4:59 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+monday, march 10, 2014
+
+
+
+
+
+
+
+what does whatsapp collect that everyone is so worried about? report of findings investigation into the personal information handling practices of whatsapp inc.
+
+
+
+
+
+
+findings under the personal information protection and electronic documents act(pipeda)
+
+pipeda report of findings #2013-001
+
+report of findingsinvestigation into the personal information handling practices of whatsapp inc.
+
+january 15, 2013
+
+
+complaints under the personal information protection and electronic documents act (the “act”)
+
+1. on january 26, 2012, the office of the privacy commissioner of canada initiated a complaint against whatsapp inc. (“whatsapp”), a california corporation, pursuant to subsection 11(2) of the act, having reasonable grounds to believe that it was collecting, using, disclosing and retaining personal information in a manner contrary to certain provisions of schedule 1 of the act.
+
+2. the investigation was conducted in collaboration with the dutch data protection authority (college bescherming persoonsgegevens) and focused on alleged privacy violations concerning consent, limiting collection, limiting use and retention, and safeguards. the investigation was limited to privacy issues identified during the period january 26, 2012 through november 30, 2012.
+
+3. whatsapp was notified of the complaint on february 16, 2012 and cooperated fully with our investigation.
+
+4. representations were received from whatsapp from march 22, 2012 through to january 4, 2013. on october 15, 2012, based on the results of our investigation, our office issued a preliminary report of investigation to whatsapp (“preliminary report”). in our preliminary report, we made recommendations to whatsapp with the aim of ensuring that it was meeting its obligations under the act vis-à-vis the issues we investigated. this report of findings reflects those recommendations and whatsapp's response.
+
+introduction
+
+5. whatsapp inc. owns and operates “whatsapp messenger” (hereafter “the application”), a cross-platform mobile messaging service which allows individuals to exchange messages on their mobile devices through the internet rather than by short message service (sms). the application is available on a variety of mobile devices and platforms, including apple's iphone, research in motion's blackberry, and google's android. in addition to basic messaging, the application allows users to send and receive images, video and audio media messages.
+
+6. whatsapp is a us corporation registered and headquartered in california. whatsapp actively promotes and distributes its service to canadians. at the time our investigation was initiated, the application was considered one of the top-five best selling apps in the world, and was widely used by canadians. by some estimates, the application is said to facilitate the transmission of over one billion messages per day globally.
+
+7. at the time our investigation was initiated, a subscription to use the application cost $0.99. the application operates free of advertising, and messages sent and received using the application are free of charge to users, but for applicable network data fees. according to whatsapp, it does not currently sell marketing data and does not share personal information with third parties. personal information means information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization.
+
+enrolment and account registration
+
+issue
+
+8. based on a technical review of the application, our office initiated a complaint in respect of whatsapp's service registration process to investigate whether that process allowed for unauthorized access to a user's account, contrary to principle 4.7 of schedule 1 of the act. more specifically, this office investigated whether a user's whatsapp account could be used prior to the completion of the user authentication process, thereby allowing a third party to create and control accounts associated with phone numbers which they did not own.
+
+summary of investigation
+
+9. individuals may download whatsapp's messenger service from a variety of on-line stores. in some cases, the application is pre-loaded to an individual's phone by a network carrier or device manufacturer.
+
+10. once the application has been downloaded to a mobile device, an individual is required to register with whatsapp using his or her mobile device.
+
+11. during the registration process, individuals are asked to read and accept whatsapp's terms of service and privacy policy. the terms of service and privacy policy are provided in a pop-up window at the time of registration and are also available on-line on whatsapp's website.
+
+12. once an individual has read and accepted whatsapp's terms of service, he or she is asked to specify the country in which they reside and to provide their mobile phone number. in some cases, the application may also ask a registrant for their preferred notification name (i.e., the name the user wishes to appear in out-going messages).
+
+13. according to whatsapp, once an individual has provided his or her country code and mobile telephone number, the application collects the following information from the registrant's mobile device: device identifier information, mobile subscriber id, mobile country code, and mobile network code.
+
+14. using that information, whatsapp sends an account confirmation message to the registrant by way of standard sms. using the registrant's reply to that message, whatsapp then verifies that the personal information provided by the user during the registration process matches that attached to the mobile device. once confirmed, a user is registered and his or her account is activated. the user may then begin sending and receiving messages with other whatsapp users world-wide.
+
+15. notwithstanding the verification procedures above, in early 2011 it was reported in various technical reviews that whatsapp's registration process allowed for the application's use even in cases where a user failed to respond to whatsapp's account confirmation message. in other words, even in cases where a registrant failed to authenticate, the application would verify the registered device and allow for the transmission of messages to that device.
+
+16. it was further reported that whatsapp's account confirmation messages were being sent using ordinary web traffic ports, allegedly without encryption or safeguards. absent appropriate security measures, confirmation messages and any personal information attached thereto ran the risk of being intercepted. once intercepted, a confirmation number could be used to access and receive a user's messages and/or any other personal information sent to the programmed number (as detailed in the paragraphs following).
+
+application of the act
+
+17. in making our determination on this issue, we applied principles 4.7 and 4.7.1 of schedule 1 of the act. principle 4.7 requires that personal information be protected by security safeguards appropriate to the sensitivity of the information. principle 4.7.1 goes on to say that an organization's security safeguards shall protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+
+18. in our view, a registrant's device identifier information, mobile subscriber id, mobile country code, and mobile network code constitute personal information under the act, since that information, alone or in combination with other information, could render a specific individual identifiable.
+
+19. according to whatsapp, it first identified the registration issues outlined above in may 2011. upon becoming aware of the potential for a security breach in registration, and prior to the initiation of our investigation, whatsapp took measures to correct the problem.
+
+20. in order to assess the accuracy of publicly reported registration flaws, and to confirm that the remedial actions undertaken by whatsapp were sufficient in ensuring compliance with the act, customized tests were performed of whatsapp's registration process. based on the test results, we were satisfied that issues identified with respect to whatsapp's mobile registration process had been resolved.
+
+finding
+
+21. based on the results of our testing, and following confirmation from whatsapp that it is not aware of any security issues outstanding relating to its registration process, we find concerns relating to the matter of whatsapp's registration process to be not well founded.
+
+integration with a user's address book
+
+issue
+
+22. based on a technical review of the application, our office initiated a complaint to investigate whether whatsapp was collecting more personal information than necessary for the purposes of allowing its users to send and receive messages, contrary to principle 4.4 of schedule 1 of the act. we also investigated whether whatsapp required the upload of a user's full address book or contact list as a condition of service – as opposed to allowing for the use of contact information belonging only to those individuals a user chose to communicate with – contrary to principle 4.3.3 of schedule 1 of the act.
+
+summary of investigation
+
+23. whatsapp's messenger service provides an instant messaging system that can be used across mobile devices, whether blackberrys, iphones, windows-based phones or androids. blackberry users, for example, may message android users and iphone users, and vice versa – a feature generally not available on the proprietary messaging systems built into phones by mobile manufacturers. in order to send and receive messages using the application, however, both the sender and recipient of a message must have the application installed and registered on his or her device.
+
+24. in order to facilitate contact between application users, whatsapp relies on a user's address book to populate his or her whatsapp “all contacts” list. once a user consents to the use of his or her address book, contact information from the user's mobile device is periodically transmitted to whatsapp's servers to assist in the identification of other whatsapp users.
+
+25. according to whatsapp, the application is designed to upload a user's mobile address book to whatsapp's servers up to two times daily, or as initiated by the user during a contact refresh. according to whatsapp, personal information collected during the contact discovery process is limited to mobile numbers. whatsapp contends that it does not collect the names, email addresses or other information stored in a user's address book. association between contact names and numbers occurs on a user's device only, and not by virtue of any data matching by whatsapp.
+
+26. once a user has consented to the use of his or her contact information for contact discovery, mobile numbers from the user's address book are transferred securely to whatsapp's servers using secure socket layer / transport layer security or ssl/tls encryption.
+
+27. once uploaded, a contact number is categorized by whatsapp's corporate servers as being either “in-network” (i.e., registered with whatsapp) or “out-of-network”. only numbers listed as in-network can be contacted using the whatsapp service. an out-of-network number would only become associated with a whatsapp user once the application was installed and registered on a device with that number.
+
+28. according to whatsapp, in-network numbers are stored as original values (i.e., in clear text) on their servers. out-of-network numbers are stored as one-way, irreversibly hashed values. whatsapp uses a multi-step treatment of the numbers, with the key step being an “md5” hash function. the phone number and a fixed salt value serve as input to the hash function, and the output is truncated to 53 bits and combined with the country code for the number. the result is a 64-bit value which is stored in data tables on whatsapp's servers. according to whatsapp, this procedure is designed to render out-of-network numbers (i.e., the mobile numbers of non-users) anonymous.
+
+application of the act
+
+29. in making our determination on this issue, we applied principles 4.3.3 and 4.4.1 of schedule 1 of the act, and subsection 5(3) of the act. principle 4.4.1 precludes organizations from collecting personal information indiscriminately. by law, the collection of personal information must be limited to that which is necessary for stated purposes identified by an organization.
+
+30. principle 4.3.3 states that an organization shall not, as a condition of the supply of a product or service, require an individual to consent to the collection, use or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes.
+
+31. subsection 5(3) of the act states that an organization may only collect, use, or disclose personal information for purposes that a reasonable person would consider appropriate in the circumstances.
+
+32. at the time our investigation was initiated, paragraph 3b of whatsapp's terms of service provided the following information to users on the collection and integration of contact information:
+
+in order to access and use the features of the service, you acknowledge and agree that you will have to provide whatsapp with your mobile phone number. you expressly acknowledge and agree that in order to provide the service, whatsapp may periodically access your contact list and/or address book on your mobile device to find and keep track of mobile phone numbers of other users of the service...
+
+you hereby give your express consent to whatsapp to access your contact list and/or address book for mobile phone numbers in order to provide and use the service. we do not collect names, addresses or email addresses, just mobile phone numbers.
+
+33. according to whatsapp, if a user withholds consent for the upload or integration of address book information, the application may continue to operate, but in a limited or degraded manner only. users are not able to send and receive messages to individuals of their choice through the manual input of single or proposed contacts.
+
+34. in the course of our investigation, customized tests were performed of the application's contact discovery process. based on the test results, we confirmed that personal information collected during the contact discovery process is limited to mobile numbers only.
+
+recommendations and finding
+
+35. principle 4.4 of schedule 1 of the act provides that the collection of personal information must be limited to that which is necessary for the purposes identified by the organization. principle 4.5.3 states that personal information that is no longer required to fulfil the identified purposes should be destroyed, erased or made anonymous.
+
+36. notwithstanding the fact that information collected by whatsapp during its contact discovery process is limited, users should have the ability to manually add and manage contacts, rather than being compelled to provide their complete address books in the identification of other application users. at the time our investigation was initiated, whatsapp required users to consent to the collection and use of all the phone numbers in their address books as a condition of service, rather than allowing a subscriber to use the individual phone number of the contact he or she wishes to correspond with.
+
+37. furthermore, since whatsapp does not require the mobile numbers of non-users in order for the application to function, we recommended in our preliminary report that those numbers be destroyed immediately after their identification and classification as “out-of-network” numbers. while non-user numbers may be collected with a user's consent in the course of the application's contact discovery process, those numbers should not be retained by whatsapp.
+
+38. whatsapp has instead implemented a procedure to render out-of-network numbers “anonymous”. although our preference was to see those number deleted, according to whatsapp, the collection and retention of both in-network and out-of-network numbers is necessary to facilitate the operation of its application.
+
+39. in order to render out-of-network numbers anonymous, whatsapp employs a cryptographic hashing technique which, in its view, renders the original value of out-of-network numbers difficult to determine. according to whatsapp, this hashing process precludes the identification of non-users, providing subscribers of the service on the one hand with an effective mechanism to find new contacts, while on the other hand protecting the mobile numbers of non-users.
+
+40. in the course of our investigation, we reviewed technical flowcharts and functional narratives supporting whatsapp's anonymization process for out-of-network numbers. we also spoke with a member of whatsapp's engineering team in an effort to better understand the underlying logic supporting the company's anonymization process.
+
+41. based on our review of the above process, we found that whatsapp's treatment of out-of-network numbers was not an effective form of anonymization. true anonymity is only achieved where information can never be linked to an individual, either directly or indirectly. in our view, whatsapp's use of all digits in an out-of-network phone number, coupled with a fixed salt value for the hash function, does not result in a true anonymization of out-of-network numbers. this is because the number could be recovered, with a modest amount of computing effort, if the out-of-network number database and salt value were breached. indeed, simple test programs created by our technical experts showed that phone numbers could be recovered, once the salt is known, in under 3 minutes using a standard, low-power desktop computer. the fact that the phone numbers can be recovered – albeit through a data breach and some computing effort –means that the storage is not truly anonymous.
+
+42. furthermore, we note that re-submitting the same telephone number to the process will always result in the same value, so the company could adopt a practice (or be compelled) to reprocess a phone number and find it in their databases.
+
+43. although whatsapp has stated that their treatment procedure will result in some overlap in attempts to recover out-of-network numbers (i.e., “intentional collisions”), making it possible that multiple numbers produce the same hashed results (and thus offering some privacy protection to non-users), the small amount of overlapping values does not, in our view, provide a sufficiently practical form of anonymity.
+
+44. although personal information collected by whatsapp during the contact discovery process is appropriately limited to that necessary for legitimate purposes, as specified by whatsapp in its terms of service, the company's retention of out-of-network numbers remains, in our view, unnecessary and may create the potential for inappropriate or unintended uses of non-user mobile numbers.
+
+45. based on the above, and whereas out-of-network numbers are being retained for longer than required for purposes of contact discover, we find concerns relating to the retention of non-user numbers to be well founded.
+
+46. notwithstanding the above, further to recommendations in our preliminary report, whatsapp now provides iphone users with the option to manually add contacts, thus by-passing the application's contact discovery process. our tests confirm that such functionality has now been built into its latest apple ios application (version 2.8.7). according to whatsapp, the same functionality is to be integrated into its implementation plan for other operating systems, though the company could not provide us with a firm commitment date for that implementation.
+
+automatic sharing of status messages
+
+issue
+
+47. based on a technical review of the application, our office initiated a complaint to investigate whether whatsapp was failing to obtain the knowledge and consent of individuals prior to disclosing their personal information, contrary to principle 4.3 of schedule 1 of the act. more specifically, we investigated whether whatsapp was broadcasting the “status updates” of its users to individuals the user may not know (or may not wish to share personal information with), without their knowledge and consent.
+
+summary of investigation
+
+48. whatsapp allows its users to populate and share “user status submissions” (e.g., brief expressions of a user's state of mind, his or her location, and or opinion). in order to enter his or her status, a user must open the application's “status” tab where he or she may input a personalized message or select one of several default status settings. standard messages include “available”, “busy”, “at school”, “at work”, “sleeping”, “in a meeting”, and “urgent calls only”.
+
+49. personalized status submissions are limited to 139 characters. while a user's status field cannot be left blank (except for users of apple's iphone), it can be populated with random characters, punctuation or graphic illustrations (i.e., so called “emoticons”) so as to render the status message meaningless. once the user has input his or her status submission, he or she is prompted to “save” the status or cancel its entry.
+
+50. once saved, a user's status submission is ready for broadcast. except for the legal terms attached to user status submissions, as provided for in whatsapp terms of service and privacy policy, no further prompts or instructions are provided to users prior to the broadcast of a status message.
+
+51. in contrast to some social networking platforms which allow an individual to limit or control the broadcast of status submissions to only certain people, status messages shared using the whatsapp messenger service are, by design, broadcast to all whatsapp users who have the broadcasting user's telephone number in their contact list. as such, a sender may not have knowledge of the identity of all those application users who may be receiving or monitoring the sender's status messages. any individual, whether for friendly or nefarious purposes, may track a user's status, so long as that individual has the message sender's telephone number.
+
+52. at the time that our investigation was initiated, whatsapp provided users with a lengthy explanation of the terms of use associated with user status submissions. whatsapp disclosed the non-confidential nature of status submissions to all users in its terms of use and privacy policy, as follows:
+
+the whatsapp service permits the submission of status text and other communications submitted by you and other users.
+
+you understand that whether or not such user status submissions are published, whatsapp does not guarantee any confidentiality with respect to any submissions.
+
+you shall be solely responsible for your own user status submissions and the consequences of posting or publishing them.
+
+any status content that you submit to the whatsapp sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
+
+53. according to whatsapp, status updates are refreshed periodically over the course of a day. where a user manually refreshes his or her contact list, the status update for that specific user's in-network list will also be updated.
+
+54. status messages are not shared with individuals who are blocked by the sender (i.e., individuals added to the user's “blocked contacts” list).
+
+55. in addition to user defined status updates, whatsapp may also provide “last seen” activity notifications to those listed in a subscriber's in-network. “last seen” activity reflects the approximate time at which a user last used the application or otherwise brought the application to the foreground. unlike the broadcast of user status submissions, the distribution or publication of last seen activity can be limited through a user's profile settings.
+
+application of the act
+
+56. in making our determination on this issue, we applied principles 4.3, 4.3.2, 4.3.4 and 4.3.5 of schedule 1 of the act. under principle 4.3, the knowledge and consent of an individual are required for the collection, use or disclosure of personal information, except where inappropriate. under principle 4.3.2, in order make consent meaningful, the purposes for which personal information is to be used must be stated in such a manner that an individual can reasonably understand how the information will be used or disclosed.
+
+57. principle 4.3.4 speaks to the form of consent an organization must seek prior to the collection, use or disclosure of personal information. recognizing that forms of consent may vary, principle 4.3.4 requires that an organization take into account the sensitivity of the personal information in question. principle 4.3.5 states that the reasonable expectations of the individual are also relevant in obtaining consent. although some information is almost always considered sensitive, any information can be sensitive depending on the context.
+
+58. in investigating the matter, we first considered whether or not a user's status submission constitutes “personal information” under the act. as previously stated, subsection 2(1) of the act defines personal information as information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization.
+
+59. consistent with relevant jurisprudence, our office is of the view that information will be about an “identifiable individual” where there is a serious possibility that an individual could be identified through the use of that information, alone or in combination with other information. even subjective information about an individual may still be personal information, whether or not that information is held to be accurate.
+
+60. we note further that information is still personal information even where it is publicly available within the meaning of the act's regulations (though such information may be exempt from applicable consent requirements).
+
+61. in keeping with the interpretation of personal information above, we believe that information contained in a user's status submission may constitute personal information. there are innumerable instances where a user may elect to share information about him or her self – whether location, opinion, the status of a relationship, or some other self-expression – and where such information, alone or in combination with other data, would render the individual identifiable.
+
+62. accepting that a user's status submission may constitute personal information, the act requires that whatsapp ensure and obtain the knowledge and consent of an individual prior to the collection, use or disclosure of that information. consent must be meaningful and, whether implied or express, must bear in mind the potential sensitivity of the personal information in question and the reasonable expectations of the individual involved.
+
+63. in the complaint at hand, our primary concern rests with the inability of the user to limit and control the broadcast of his or her status messages. while we accept that a user who chooses to supply personal information in his or her status submission is electing to share or broadcast that information with others, the unlimited or unknown dissemination of that information is not in our view within the reasonable expectations of the application user.
+
+64. bearing in mind the nature of the application – a peer to peer messaging platform, where users may only communicate with those listed in their private address books – we find it hard to believe that a user would consent to the sharing or broadcast of personal information beyond his or her contacts, and/or to application users unknown to him or her. while the application allows for the suppression of status broadcasts to individuals listed in a user's “blocked contact” list, that list can only be populated with individuals who the user knows.
+
+65. unlike some micro-blogging services, whose primary function is to enable both users and non-users to read or receive text-based messages through a range of services and platforms, whatsapp's mobile messaging system (as described by whatsapp itself) is first and foremost an sms replacement. it allows for the instant communication of messages to targeted or specific individuals, as identified by the application user. while the application may also provide a user with the ability to more widely share personal expressions or status messages, it does so under the umbrella of peer to peer communications, conveying the general impression that such messages are being shared only with those people the user knows.
+
+66. as explained in paragraph 51, whatsapp does not allow for granular control over the distribution of status submissions. while the application is functionally capable of blocking users from receiving status messages (including “online” and “last seen” information), the effective use of the blocking feature requires a user to list or identify that person who he or she wishes to block. doing so may not be possible however where the unwanted user is unknown to the message sender.
+
+67. given the above, and where status messages are likely to be seen as being shared only with specific and known recipients, we would have expected whatsapp to have provided better notice of the potentially indiscriminate nature of status broadcasts.
+
+68. notwithstanding whatsapp's efforts to describe status submissions as non-confidential, in our view, information pertaining to the application's status functionality was not (at the time our investigation was initiated) sufficiently clear and visible to users. where the application's design precludes a user from limiting or controlling the dissemination of status messages, whatsapp has a duty to ensure that users of status submissions are informed in the simplest and clearest terms that what they say on whatsapp may be viewed by any and all whatsapp users around the world instantly.
+
+69. during the course of our investigation, whatsapp amended its terms of service and privacy policy to better inform users of the public nature of broadcast messages. as of september 2012, the policy disclosed, in part, the following:
+
+status submissions…may be visible to other users of the service who have your mobile phone number in their mobile phone and which you have not expressly blocked. for clarity…status submissions may be globally viewed by whatsapp users that have your mobile phone number on their smartphone, unless the user is blocked by you.
+
+currently, we have no method of providing different levels of visibility of your status submissions among users that have your mobile phone number – you acknowledge and agree that any status submissions may be globally viewed by users that have your mobile phone number, so don't submit or post status messages or profile photos that you don't want to be seen globally.
+
+a good rule of thumb is if you don't want the whole world to know something or see something, don't submit it as a status submission to the service…you understand that whether or not such status submissions are published, whatsapp does not guarantee any confidentiality with respect to any submissions. [our emphasis]
+
+recommendation and finding
+
+70. as previously noted, principle 4.3.2 requires knowledge and consent for the collection, use and disclosure of personal information. notwithstanding recent efforts to update whatsapp's terms of service and privacy policy, in our view, further efforts are required to advise users of the potentially widespread or indiscriminate broadcast of personal information through status submissions.
+
+71. whereas whatsapp's terms of service and privacy policy may not be readily available to users on mobile devices, and whereas whatsapp is not yet able to avail its users with more granular control over the broadcast of status messages, in our preliminary report we recommended that whatsapp provide real-time notification for broadcast messages. it is our view that real-time or active notification would allow for more meaningful consent for the broadcast of status submissions. we appreciate of course that, to avoid a disruption of application enjoyment, users should be given control over notification prompts and default settings.
+
+72. in response to our recommendation, whatsapp has stated that it has added real-time notification (e.g., pop-ups) for user status submissions to its future implementation plan. according to whatsapp, real-time notification is to be integrated into future application releases beginning september 30, 2013.
+
+73. where whatsapp has committed to advising users of the widespread dissemination of personal information through status submissions in its terms of service and privacy policy and by way of real-time pop-ups, we find the complaint on the matter of the automatic sharing of status messages to bewell founded and conditionally resolved.
+
+offline storage of messages
+
+issue
+
+74. based on a technical review of the application, our office initiated a complaint to investigate whether whatsapp was contravening the retention provisions of the act. more specifically, we investigated whether whatsapp did not have appropriate guidelines in place to govern the retention of undelivered messages, contrary to principle 4.5.3 of schedule 1 of the act.
+
+summary of investigation
+
+75. messages sent using the whatsapp service are first transmitted to corporate servers co-located at secured facilities in washington dc and virginia using a subscriber's regular data service. where the intended recipient is online, those messages are routed by whatsapp to their designated addressee.
+
+76. delivered messages are not retained by whatsapp. according to whatsapp, the company does not maintain a record or archive of messages delivered. records of delivered messages are saved only on the user's mobile device and may be deleted or retained by the user at will.
+
+77. in cases where the intended recipient of a message is found to be off-line, messages sent to that recipient by other whatsapp users are stored by whatsapp, pending delivery. an undelivered message may be saved by whatsapp for up to 30 days, after which the message is automatically deleted.
+
+78. messages not delivered are mapped to one of four server partitions. within each partition, one file is reserved for each user. according to whatsapp, silo ‘ing is controlled on a per user basis by nature of the operating system file. in its representations to our office, whatsapp confirmed that it limits its retention of undelivered messages to 30 days.
+
+79. at the time our investigation was initiated, whatsapp did not provide users with information relating to its retention policy for personal information, whether in its terms of service, privacy policy or licensed application end user license agreement.
+
+application of the act
+
+80. in making our determination on this issue, we applied principles 4.5.2, 4.5.3 and 4.8 of schedule 1 of the act. principle 4.5.2 provides in part that organizations should develop guidelines and implement procedures with respect to the retention of personal information. these guidelines should include minimum and maximum retention periods. principle 4.5.3 states in part that an organization shall develop guidelines and implement procedures with respect to the destruction of personal information. under principle 4.8, an organization is obliged to make specific information about its policies and practices relating to the management of personal information readily available.
+
+81. where messages may be archived or maintained by a user on his or her mobile device following delivery, and where communications between users are intended primarily for instant messaging, we find whatsapp's retention period of 30 days for undelivered messages to be satisfactory in the circumstances.
+
+82. notwithstanding the above, we would have expected whatsapp to have described its general retention policy for personal information in its terms of service, privacy policy or licensed application end user license agreement. as required under principle 4.8, individuals should be able to acquire information about an organization's policies and practices without unreasonable effort. as well, given that message delivery is central to whatsapp's management of personal information, and in light of principle 4.5.2, whatsapp ought to have developed, implemented and communicated procedures for the retention and destruction of personal information contained therein.
+
+recommendations and finding
+
+83. in light of the above, we recommended in our preliminary report that whatsapp develop guidelines and ensure the implementation of procedures with respect to the retention of personal information. we further recommended that whatsapp make readily available to users information relating to whatsapp's retention policy surrounding the off-line storage of messages.
+
+84. in response to our recommendations, whatsapp has committed to further develop its retention policy for personal information and to make the revised policy publicly available. whatsapp has agreed to update and expand its terms of service and privacy policy by march 31, 2013 so as to provide better notification of those policies to its users.
+
+85. based on the above, we find the complaint on the matter of message retention to be well founded and conditionally resolved.
+
+transmission security
+
+issue
+
+86. based on a technical analysis of the application, our office initiated a complaint to investigate whether whatsapp was adequately protecting personal information, in contravention of principle 4.7 of schedule 1 of the act. more specifically, it was alleged that messages sent and received using the whatsapp service were not being encrypted, rendering personal information contained in such messages subject to eavesdropping or interception.
+
+summary of investigation
+
+87. as previously stated, whatsapp's messaging system is intended to replace standard sms. the application uses a mobile user's data service (rather than telephone service) to send and receive instant messages.
+
+88. at the time that our investigation was initiated, messages sent using the application were not encrypted. as such, messages sent and received using the application ran the risk of interception, especially where a user elected to use the service through unprotected wi-fi networks.
+
+89. in the course of our investigation we confirmed that messages sent between application users were not secure. even in cases where data was sent over ports used for secure https (ssl/tls) communications, personal data including the content of user messages and telephone numbers were clearly visible.
+
+application of the act
+
+90. in making our determination on this issue, we applied principle 4.7 of schedule 1 of the act. principle 4.7 requires that personal information be protected by security safeguards appropriate to the sensitivity of the information. principle 4.7.1 provides that security safeguards must protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+
+91. recognizing that the contents of messages sent between application users may at times be sensitive personal information, we would have expected whatsapp to have employed sufficient safeguards to ensure the security of those messages.
+
+92. in its representations to our office, whatsapp confirmed that messages sent and received using the application were not being encrypted – affirming the need to introduce safeguards to ensure the security of instant messages and any other personal information attached to those messages.
+
+93. in partial response to our concerns, in september 2012 whatsapp began adding protocol encryption to its mobile messaging service. if properly applied, the end-to-end encryption would appropriately safeguard messages from eavesdropping or interception.
+
+94. as at the time our investigation concluded, whatsapp had implemented encryption for several devices, including nokia's s40, research in motion's blackberry, apple's iphone, and all windows and android based phones.
+
+recommendation and finding
+
+95. notwithstanding changes made by whatsapp to encrypt user messages, in the course of our investigation we noted that whatsapp was using the mac addresses of iphone devices to auto generate passwords for message exchanges with the whatsapp service. on other mobile smart phones, the imei number of the phone was being used instead. mac and imei numbers are identifiers that are unique to each phone and which are typically assigned by device manufacturers.
+
+96. in light of the risks associated with the exposure of imei numbers and mac addresses, and where methods of generating passwords using imei and mac addresses are relatively well known, the use of the imei or mac for the purpose of generating a password on behalf of the user does not, in our view, provide sufficient security for personal information exchanged using the whatsapp service. according to our technical experts, this practice created a serious risk that a user's password could be replicated without authorization and that messages might be intercepted by a third party without the user's knowledge or consent.
+
+97. based on the above, in our preliminary report we recommended that whatsapp develop new protocols for the creation of encryption passwords for iphone devices. in response to our recommendation, whatsapp has stopped using imei and mac numbers for authentication on all mobile platforms. whatsapp has stated that the application is now using a 160-bit randomly generated key.
+
+98. in order to confirm the implementation of the newly developed password process, we reviewed technical flowcharts and functional narratives supporting whatsapp's authentication process. we also reviewed and studied real examples of that process with the assistance of technical experts. our goal was to understand how the underlying logic supporting authentication worked so as to assess whether or not the process, as designed by whatsapp, was sufficiently safeguarding personal information.
+
+99. based on the results of our investigation, and as at the time that our investigative work ended, the security safeguards employed by whatsapp appeared to be commensurate with the sensitivity of personal information at risk. as such, we find the complaint on the matter of transmission security to be well founded and resolved. we nonetheless encourage whatsapp to remain vigilant when protecting personal information in light of a constantly changing threat environment.
+
+data retention and account termination
+
+issue
+
+100. based on a technical review of the application, our office initiated a complaint to investigate whether whatsapp was retaining the personal information of its users following account deactivation, contrary to principle 4.5 of schedule 1 of the act. more specifically, we investigated whether whatsapp continued to retain the personal information of its users even where the application had been uninstalled.
+
+summary of investigation
+
+101. at the time our investigation was initiated, both technical and user reviews of the application alleged that whatsapp was retaining the personal information of subscribers subsequent to the removal of the messenger service from their mobile devices.
+
+102. according to these reviews, in order to have their personal information deleted, users were required to notify whatsapp of their request by email. these procedures, often onerous, were not publicly available, whether in whatsapp's frequently asked questions document, or in whatsapp's terms of service and privacy policy.
+
+application of the act
+
+103. in making our determination on this issue, we applied principles 4.5.2, 4.5.3 and 4.8 of schedule 1 of the act. principle 4.5.2 states in part that an organization should develop guidelines and implement procedures with respect to the retention of personal information. these guidelines should include minimum and maximum retention periods. principle 4.5.3 states in part that an organization shall develop guidelines and implement procedures with respect to the destruction of personal information. under principle 4.8, an organization must make specific information about its policies and practices relating to the management of personal information readily available.
+
+104. as previously discussed, messages delivered using the whatsapp service are not retained by whatsapp. only undelivered message are saved by whatsapp, and then only for 30 days pending delivery, after which time such messages are automatically deleted.
+
+105. further to the above, it is whatsapp's policy to delete or destroy all personal information belonging to a user, including any applicable payment information, 30 days after termination of the service. according to whatsapp, the retention of billing information, if any, for 30 days after termination is to provide users with a short period of time for ease of renewals or registration. after the 30-day period post account expiry, a user may sign up again for whatsapp's service, but will have to go through the registration process anew.
+
+106. an exception to whatsapp's 30-day retention period exists where an individual uses the application for a one year free trial period and fails to subscribe as a paying user. where a trial user elects not to renew his or her subscription following one year of service, select personal information of that individual (including the trial user's name, telephone number, and account type) may be retained for up to one year. according to whatsapp, this information is retained so as to ensure that a trial user cannot re-subscribe for a successive free trial period.
+
+107. while we find whatsapp's retention guidelines for personal information to be satisfactory on the whole, once again we would have expected whatsapp to have described its retention policy for personal information in its privacy policy or other readily accessible documentation.
+
+108. as required under principle 4.8, individuals should be able to acquire information about an organization's policies and practices without unreasonable effort. where data retention is central to whatsapp's management of personal information, whatsapp ought to have developed, implemented and communicated procedures for the retention and destruction of personal information.
+
+recommendations and finding
+
+109. based on the above, in our preliminary report we recommended that whatsapp develop guidelines and ensure the implementation of procedures with respect to the retention and destruction of personal information. we further recommended that whatsapp make readily available to users information relating to whatsapp's retention policy for personal data.
+
+110. as previously stated, in response to our recommendations, whatsapp has committed to further developing its retention policy for personal information and to making this policy publically available. whatsapp has agreed to update and expand its terms of service and privacy policy by march 31, 2013 so as to provide better notification of those policies to its users.
+
+111. based on the above, we find the complaint on the matter of user data retention to be well founded and conditionally resolved.
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+8:56 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thursday, march 06, 2014
+
+
+
+
+
+
+
+privacy paternalism - epic's ftc complaint against facebook's acquisition of whatsapp
+
+
+
+
+
+not all privacy lawyers or advocates always agree. this is one of those times. a well-respected privacy advocacy/watchdog group filed a complaint before the ftc in the us to stop fb's acquisition of whatsapp.
+
+they allege that facebook's use of users' data would fly in the face of whatsapp's pro-privacy approach.
+
+"epic has filed a complaint to the federal trade commission concerning facebook's proposed purchase of whatsapp.whatsapp is a messaging service that gained popularity based on its strong pro-privacy approach to user data. whatsapp currently has 450 million active users, many of whom have objected to the proposed acquisition. facebook regularly incorporates data from companies it has acquired." (from epic's announcement page)
+
+epic states that the ftc has "looked favorably" on its prior complaints against industry leaders, such as google, microsoft and facebook. it has, but not in the way implied. the ftc has never stopped an acquisition based on the fear that the purchaser might change an acquisition's privacy practices.
+
+to ask them to do so now doesn't make sense. and it is disrespectful to users who can make choices and vote by the dollars. epic shouldn't decide what data collection and use practices whatsapp should have, as long as they don't violate existing applicable law. and these don't.
+
+anything else is privacy paternalism.
+
+epic stated that whatsapp is pro-privacy. it is. the canadian office of the privacy commissioner investigated them and concluded that whatsapp could improve its privacy practices, which it voluntarily did. they collect only what they need, and often discard that after use.
+
+the are also anti-advertising, ad free, and say that they hope to keep it that way forever.
+
+at the same time, they reserve the right to change the terms of service at any time, which includes their privacy notice which is entirely incorporated into its terms of service.
+
+to do that, they must provide notice of any changes and users must agree to those changes or stop using the service.
+
+if users don't like the facebook acquisition or don't like any changes made to them after the acquisition, they can use a different mobile messaging app. they can do what consumers always do, vote with their dollars.
+
+there are many choices available to users - how they want their data collected and used and which provider they want to use based on the foregoing.
+
+facebook wants value for the $19 billion. it is highly unlikely that it intends to alienate the hundreds of millions of users whatsapp has.
+
+if you're not sure what to think, read what i set forth below. the policies are clear and explain it all in a way all users can understand. and all users accepted.
+
+while few people ever read the terms of service or privacy policies, i have collected the relevant provisions from each and pasted them below.
+
+
+relevant provisions from whatsapp current terms of service and
+privacy notice (march 6, 2014)
+
+(selected by parry aftab, esq.)
+
+
+
+10. assignment
+
+these terms of
+service, and any rights and licenses granted hereunder, may not be transferred
+or assigned by you, but may be assigned by whatsapp without restriction.
+
+privacy notice:
+
+this privacy policy is
+incorporated into and is subject to the whatsapp terms of service. your use of
+the whatsapp site, whatsapp software and the whatsapp service and any personal
+information you provide on the whatsapp site or whatsapp service remains subject
+to the terms of this privacy policy and our terms of service.
+
+what
+does this privacy policy cover?
+
+this privacy policy is part
+of whatsapp’s terms of service and covers the treatment of user information,
+including personally identifying information, obtained by whatsapp, including
+information obtained when you access the whatsapp’s site, use the whatsapp
+service or any other software provided by whatsapp.
+
+the
+information whatsapp does not collect
+
+whatsapp does not collect
+names, emails, addresses or other contact information from its users’ mobile
+address book or contact lists other than mobile phone numbers—the whatsapp
+mobile application will associate whatever name the whatsapp user has assigned
+to the mobile telephone number in his/her mobile address book or contact list —
+and this occurs dynamically on the mobile device itself and not on whatsapp’s
+servers and is not transmitted to whatsapp. this means that if you have your
+friend’s mobile phone number associated with the name “shakespeare” in your
+mobile address book, that’s the name that will appear for that mobile phone
+number in your whatsapp contact list. we do not collect location data, but
+users may voluntarily share their location with other users via the whatsapp
+service.
+
+the contents of messages
+that have been delivered by the whatsapp service are not copied, kept or
+archived by whatsapp in the normal course of business. the whatsapp service is
+meant to be a sms replacement, using data service through a user’s phone
+(either via cell network or wifi). users type their messages, which are sent
+via data service to our servers, and routed to the intended recipient (who must
+also be a whatsapp user), if that recipient is online. if the recipient is not
+online, the undelivered message is held in whatsapp’s server until it can be
+delivered. if the message is undelivered for thirty (30) days, the undelivered
+message is deleted from our servers. once a message has been delivered, it no
+longer resides on our servers. the contents of any delivered messages are not
+kept or retained by whatsapp — the only records of the content of any delivered
+messages reside directly on the sender’s and recipient’s mobile devices (and
+which may be deleted at the user’s option). notwithstanding the above, whatsapp
+may retain date and time stamp information associated with successfully
+delivered messages and the mobile phone numbers involved in the messages, as
+well as any other information which whatsapp is legally compelled to collect.
+files that are sent through the whatsapp service will reside on our servers
+after delivery for a short period of time, but are deleted and stripped of any
+identifiable information within a short period of time in accordance with our
+general retention policies.
+
+third-party
+advertisers, links to other sites
+
+we
+are not fans of advertising.
+whatsapp is currently ad-free and we hope to keep it that way forever. we have
+no intention to introduce advertisement into the product, but if we ever do,
+will update this section.
+
+
+
+in the event of merger, sale, or bankruptcy
+
+in the event that whatsapp
+is acquired by or merged with a third party entity, we reserve the right to
+transfer or assign the information we have collected from our users as part of
+such merger, acquisition, sale, or other change of control. in the (hopefully)
+unlikely event of our bankruptcy, insolvency, reorganization, receivership, or
+assignment for the benefit of creditors, or the application of laws or
+equitable principles affecting creditors' rights generally, we may not be able
+to control how your personal information is treated, transferred, or used.
+
+changes and updates to this privacy notice
+
+this privacy policy may be
+revised periodically and this will be reflected by the "effective
+date" below. please revisit this page to stay aware of any changes. your
+continued use of the whatsapp site and whatsapp service constitutes your
+agreement to this privacy policy and any amendments.
+
+date last modified:
+
+this privacy notice was
+last modified july 7th, 2012
+
+
+
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+11:59 pm
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tuesday, march 04, 2014
+
+
+
+
+
+
+
+the care and feeding of advisory boards – from the advisor’s perspective part 5
+
+
+
+
+
+
+it is important to take these roles seriously. i limit my
+advisory board seats and carefully define the expectations on both sides. i
+make sure that i am connected to the company and that it fits with my own
+professional and personal strategic plans. companies i work with have learned
+that i am more likely to accept a role if peoples’ lives are improved by the
+services, products or offerings of the company (for-profit, social
+entrepreneurship or non-profit).
+
+
+
+if i think the company has merit, but is not a good fit for
+me personally, i may recommend and help recruit someone else for that role. i
+also let them know that if things change, and i feel that my time is not being
+valued or no longer believe in the company’s vision or practices, i will
+resign.
+
+
+
+i need to know whom else is on the advisory board or whom
+else will be asked. do existing members have a say about any new or replacement
+members? how big is the board? is it big enough that we aren’t imposed upon
+more than is fair and still small enough that our voice is heard?
+
+
+
+i ask how often we are expected to attend f2f meetings. how
+much prep work there will be before a meeting and follow-up after those
+meetings. how many time should i be expected to attend conference calls or
+review documentation. how much am i expected to learn about the business
+operations of the company? how do we interact, if at all, with the board of
+directors or ceo?
+
+
+
+how will my sitting on an advisory board affect my ability
+to consult for or provide legal advice for a competitor or anyone else in the
+same or similar space? am i insured or indemnified for any liability resulting
+from my role as an advisory board member? am i compensated? do i receive stock
+options or equity? is there an honorarium? a donation to my charity, in lieu of
+an honorarium? are my travel expenses covered? are other expenses covered? are
+all members compensated equally? if not, are all aware of any unequal
+compensation packages?
+
+
+
+is there a point person to help manage our communications or
+are we on our own? is there someone to help us navigate our way around the
+company and get us information when i need it?
+
+
+
+bottomline, i say yes to companies and people i like. a very
+high consulting fee may get my attention in the short term, but if i don’t
+trust the company or management or my fellow board members, i’m gone as soon as
+the contract ends. i will help a friend if i think they really need my help and
+don’t waste my time. and i will devote myself to causes and ngos who make a
+difference and value my contribution.
+
+i suspect,  others do
+the same.
+
+
+
+
+
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+8:36 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the care and feeding of an advisory board – the good, the bad and the what were they thinking? part 4
+
+
+
+
+
+
+i sit and have sat on many high powered advisory boards and,
+aside from my own companies, one high-powered board of directors. my role or
+facebook and mtv is different than my role with mcafee, trustee or the ad
+council, which in turn is different from my role with children’s television
+workshop.
+
+
+
+sometimes the advisory board i am joining has been up and
+running for years. but often, i was the first member or asked to set it up for
+the company as well as serving as chair. but, in each case the conversation needs
+to focus on why the company wants the advisory board, what we are expected to
+do and how we are expected to do it.
+
+
+
+i have had some disastrous experiences with middle
+management appointed to oversee the board and our suggestions being above their
+pay grade. once i had a middle manager who passed off our ideas as his
+own.  i have had some riddled with egos
+and personal agendas that weren’t worth the angst.  but, have had many more that were managed
+right and used my time and expertise with respect.
+
+
+
+i have been well-compensated and i have served without
+charge. in a couple cases, i even covered my own expenses. (these are boards
+for non-profits.) some take tons of time, and the others seem to just want my
+name on a list.
+
+
+
+i receive on average, one advisory board or board of
+directors offer a week. some companies, especially start-ups, pass these out
+like candy. sometimes they saw me on dr. phil, the today show, gma or cnn. they
+may have read an article by or about me in a newspaper, or heard about an award
+i received. sometimes we meet at a conference or at a cocktail party. they are
+looking for “names,” however they define them.
+
+
+
+i am nice about it, but explain
+that i am limited in my advisory roles and thank them for asking. 
+
+then, i write them off for anything serious. their reaching
+out to me when they know nothing more than a headline is bad management. and
+bad management and strategic planning rarely succeeds in the long term.
+
+
+
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+8:29 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+care and feeding of advisory board members - controlling media. communications and information part 3
+
+
+
+
+
+
+if you are looking to redeem your reputation or build a new
+one, and have selected advisory board members to do that, communications and
+media will be very important. when and how can you use advisory board members’
+names? will there be a media alert or press release announcing their addition
+to the board? is the advisory board member expected or invited to do media
+interviews on the company’s behalf. are they prohibited or discouraged from
+doing interview when the company is involved? how are they supposed to
+introduce themselves or disavow formal spokesperson capacity?
+
+
+
+it is crucial, if the company has selected a member to help
+support its reputation that the advisory board member not be seen as bought or
+harnessed. that’s where a solid alignment and ongoing trust between the members
+and the company are essential. the relationship must be  credible. 
+
+
+
+in some cases, having a honest naysayer in a limited
+advisory board role may be warranted. watchdog groups are sometimes tapped to
+play an oversight role within an advisory board. but, be careful of hidden or
+political agendas. some groups may get more attention and improve funding by
+appearing to leave the board in protest against the company. even when asked to
+leave, they may spread rumors that they left voluntarily. little is gained by
+the company announcing that they have terminated an advisory board member.
+
+
+
+how much information should be shared with the board? while
+there are critical fiduciary rules that apply to boards of directors, there are
+no similar legal restrictions for advisory boards. they are creatures of
+business, not law. that means that any non-disclosure, non-compete and
+non-circumvention agreements must be entered into. but this can be tricky.
+don’t want to be seen as buying off watchdog groups or honest criticism? gag
+agreements may give the wrong impression.
+
+
+
+and, given the high profile of a typical advisory board
+member, structuring a non-compete, non-circumvention and non-disclosure
+agreement that doesn’t cripple the board member’s activities where they can be
+helpful to the company and acceptable to the member is a challenge.
+
+
+
+
+you brought them in for their ideas. but their ideas have
+earned them well-respected reputations and attention. can you really expect
+them to share lucrative ideas and use valuable connections to help the company,
+instead of themselves? that’s why ascertaining their alignment and loyalty and
+repaying it in kind is so important.
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+8:25 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the care and feeding of advisory boards – swot selection part 2
+
+
+
+
+
+
+swot. strengths, weaknesses, opportunities and threats. we
+all use this or some form of this when deciding on business strategies or
+investments. but, how many of us use this when choosing an advisory board?
+
+
+
+each advisory board member should address the weaknesses or
+threats, or further expand the strengths and opportunities. perhaps some
+address one and others address the others, but each swot item should generally
+be represented. 
+
+
+
+are you looking to change your reputation? want a warm and
+fuzzy rep? choose the kings and queens of warm and fuzzy. looking to expand
+through m&a? who has deep networks where you want to acquire? a problem
+with street-cred? appoint those with street-cred. going public, looking for new
+markets, need some heavy duty loans, or having problems with a particular
+stakeholder group?
+
+
+
+are you hoping to be able to stave off threats by bolstering
+your team with an advisory board? seeking new opportunities that the board can
+help you access more effectively?
+
+
+
+
+sometimes, just showing off your ability to gather big names
+for your board is what you are hoping to achieve. and sometimes the members
+want to show off their ability to attract board positions with big name
+providers. the advisory board benefits have to be mutual to work. and that
+mutuality has to be carefully nurtured and maintained. the moment one or the
+other feels that they are being mistreated or undervalued, things can go south,
+fast!
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+8:21 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the care and feeding of advisory board members part 1
+
+
+
+
+
+
+ why are you considering creating an advisory
+board? is it to add expertise? to provide air cover by letting their
+reputations speak for yours? do your competitors have advisory boards of their
+own? is it to better understand your important markets or stakeholders? is it
+for good will? or media attention?
+
+
+
+if you are serious about having one, make
+sure that you have clear goals, articulate those goals and get your prospective
+members to commit to those goals. 
+
+
+
+2.      
+is your goal worth it? there is a cost to
+developing and maintaining an advisory board. compensation is an obvious cost,
+as are stock grants or options. but other costs aren’t so obvious.  
+
+
+
+there are opportunity costs. for every
+advisory board member you appoint, there is one that you didn’t. this may
+involve hurt feelings and the possibility that the ones you passed over may not
+be there when you need them. 
+
+
+
+political scrabbles are a cost as well.
+working with advisory board members can be like herding cats. each has their
+own perspective, experience and agendas. when you hire people like this, you
+have better control over them than you do when they are asked to contribute
+their brand, networks, media clout and reputation outside of their fulltime
+work.
+
+
+
+scheduling is always a challenge. the
+busier and more important your board members, the harder to schedule a time
+when they can all meet face-to-face. virtual meetings can be scheduled instead,
+but are rarely good to real advice, sharing of ideas or directions. email
+communications are too often handled by handlers, not the person who holds the
+seat. but real life meetings put enough strain on the already overburdened
+schedule of the top choices for advisory boards that the preferred appointees
+may not be able to commit.
+
+
+
+your managers will devote substantial time
+to informing the advisory board, getting their input and developing
+communications. can anyone reach out to an advisory board member, or are they
+managed by a department, division or person? there are manpower and structural
+hard costs for creating a system and adhering to it. legal and compliance teams
+have to be involved in creating the policies for the advisory board members and
+the board itself. conflict-of-interest policies, indemnification terms and
+insurance coverage should be considered and, if appropriate, adopted.
+
+
+
+
+more to follow…
+
+
+
+
+
+posted by
+
+
+
+parry aftab
+
+
+
+
+at
+
+8:17 am
+
+
+
+no comments:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+email thisblogthis!share to xshare to facebookshare to pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+older posts
+
+home
+
+
+
+
+subscribe to:
+posts (atom)
+
+
+
+
+
+
+
+
+
+about parry
+
+
+parry aftab
+stopcyberbullying
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search parry's blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+parry aftab
+
+
+
+
+
+
+parry aftab's blog archive
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2014
+
+(141)
+
+
+
+
+
+        ▼ 
+      
+
+
+
+may 2014
+
+(1)
+
+canada's cyberbullying/sexting protection legislat...
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2014
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2014
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2014
+
+(115)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2014
+
+(12)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2013
+
+(40)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2013
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct 2013
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2013
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2013
+
+(15)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2013
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may 2013
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2013
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2013
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2013
+
+(5)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(11)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2012
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2012
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2012
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2012
+
+(2)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(104)
+
+
+
+
+
+        ► 
+      
+
+
+
+nov 2011
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2011
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2011
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2011
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun 2011
+
+(12)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may 2011
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2011
+
+(15)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2011
+
+(18)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2011
+
+(21)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2011
+
+(20)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2010
+
+(344)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2010
+
+(33)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov 2010
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct 2010
+
+(35)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2010
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2010
+
+(19)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2010
+
+(43)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun 2010
+
+(26)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may 2010
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2010
+
+(42)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2010
+
+(61)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2010
+
+(40)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2010
+
+(7)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2009
+
+(497)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2009
+
+(60)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov 2009
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct 2009
+
+(29)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2009
+
+(104)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2009
+
+(20)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2009
+
+(40)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun 2009
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may 2009
+
+(29)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2009
+
+(41)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2009
+
+(51)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2009
+
+(45)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2009
+
+(50)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2008
+
+(234)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2008
+
+(36)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov 2008
+
+(18)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct 2008
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2008
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2008
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2008
+
+(11)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun 2008
+
+(31)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may 2008
+
+(34)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2008
+
+(24)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2008
+
+(12)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2008
+
+(17)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2008
+
+(39)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2007
+
+(154)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2007
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov 2007
+
+(24)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct 2007
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2007
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2007
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2007
+
+(5)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun 2007
+
+(12)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may 2007
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2007
+
+(5)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2007
+
+(21)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2007
+
+(23)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2007
+
+(25)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2006
+
+(196)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2006
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov 2006
+
+(22)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct 2006
+
+(35)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2006
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2006
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2006
+
+(18)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2006
+
+(17)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2006
+
+(52)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2006
+
+(35)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2005
+
+(160)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2005
+
+(13)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov 2005
+
+(16)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct 2005
+
+(6)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2005
+
+(15)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2005
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2005
+
+(14)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun 2005
+
+(33)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+may 2005
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+apr 2005
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+mar 2005
+
+(10)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+feb 2005
+
+(17)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jan 2005
+
+(14)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2004
+
+(84)
+
+
+
+
+
+        ► 
+      
+
+
+
+dec 2004
+
+(4)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+nov 2004
+
+(7)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+oct 2004
+
+(9)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+sep 2004
+
+(8)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+aug 2004
+
+(3)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jul 2004
+
+(37)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+jun 2004
+
+(16)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+awesome inc. theme. powered by blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

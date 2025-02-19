@@ -1,0 +1,552 @@
+
+
+
+
+
+
+paul miller – don't panic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+paul miller
+don't panic
+
+
+
+
+
+
+
+
+
+
+this title is missing a 
+
+i loved this interview with author steven johnson. it covers a lot about the way he writes and how he structures his books and articles. it also reminded me about the piece he wrote back in 2022 on chatgpt which has a wonderful opening paragraph that illustrates the simple premise behind large language models – predicting the next word.
+the article still rings true even though the technology has moved on a lot. re-reading it reinforced my view that what people are calling ‘ai’ is really just ‘applied statistics’ (as ted chiang calls it. that doesn’t make it any less interesting but it does put some boundaries around how we should think about it.
+
+
+
+
+paul miller 
+
+thoughts 
+leave a comment
+
+28 february 2024
+
+1 minute 
+
+
+
+
+what warren buffett’s annual letter tells us about business and climate change 
+
+the ft’s lex points out that warren buffett’s annual letter to berkshire hathaway shareholders is riddled with inconsistencies on climate change. 
+
+even as insurers have benefited from sharply raising premiums, increasing “convective” (severe) thunderstorms or hurricanes are making insurance another business facing day-to-day climate risks. buffett in the same letter took a bow for his stake in occidental petroleum, one he expects to maintain “indefinitely”.
+
+i’ve always had a huge amount of respect for buffett, particularly the way he does business, based on a reputation for good and ethical behaviour. but i’ve also long noticed that he (and the late, great charlie munger) have never ‘got’ social or environmental issues. 
+perhaps that’s because they don’t look at the future, just the past and the present. there are a lot of business people like them so perhaps it’s a sign that, at the moment, it still makes little sense to go ‘all in’ on sustainability if you have profits to protect. i think until regulation changes and the standards for reporting and accounting are updated (perhaps good news on that), big business will continue to do lots of contradictory things on social and environmental issues.
+it’s different when you’re a startup (or an investor in startups) where the majority of the value will be created in the future. you have to look at where things are going and you’d be mad to ignore social and environmental issues. 
+
+
+
+
+paul miller 
+
+impact investment, thoughts 
+leave a comment
+
+26 february 2024
+
+1 minute 
+
+
+
+
+ghost writers in the machine 
+
+i get a lot of odd emails pitching me services i don’t want. private jets and yachts aren’t really my thing. 
+but one offering to ‘build my audience without spending hours writing content’ intrigued me so i followed the rabbit hole to see what was down there. it turns out there’s a whole industry of people who will pretend to be a better version of you on social media, especially on linkedin.  
+i have to admit it hadn’t really crossed my mind but it was only when i spotted someone i’ve been following as a (semi-anonymised) case study in materials that i realised i’d been taken in. it didn’t feel good.
+if you’re a founder, be careful. not all those vcs posting on linkedin are who you think they are. 
+does it matter? i can see the temptation – it takes a lot of time and headspace to think of things to write. but i think it does break trust and ultimately the reason i’m still on some of those platforms is to maintain and create new relationships. and trust is important for those. 
+
+
+
+
+paul miller 
+
+thoughts 
+leave a comment
+
+15 february 2024
+
+1 minute 
+
+
+
+
+big tech malaise 
+
+i loved that the ft published a version of cory doctorow’s marshall mcluhan lecture in the ft magazine. on the surface it seems so ‘unft’ – both in style and approach – but it’s reflective of a lot of conversations i have with people in the tech and finance worlds. 
+they’re often called ‘big tech’ but the biggest tech firms aren’t just big, they’re ginormous – both in terms of their financial power and influence over our lives and politics. they’re big with a capital b. and i don’t think it will last forever.
+the backlash among activists and people in the industry has been going on for a while but as cory points out, now the experience of users and customers (often advertisers) is getting worse and worse. at some point, people and governments will break.
+it strikes me that the moves by some of those large companies to do share buybacks and even (whisper it) pay dividends smacks of desperation. it’s a defensive play to prop up share prices for a bit longer and an admission that they’re not the best allocators of capital for innovation.
+i think that leaves lots of space for new startups to create value in a more sustainable way. and if those startups learn what the current generation of giants forgot (that you need to be able to demonstrate that you have a positive impact on the world), then the future of tech is rosy. those companies that success will still be big but not big. 
+
+
+
+
+paul miller 
+
+predictions 
+leave a comment
+
+13 february 2024
+
+1 minute 
+
+
+
+
+weary giants and ai 
+
+the tech world has a strange relationship with regulation. often characterised as a libertarian crowd, silicon valley leaders used to be vehemently against government involvement. written in 1996, john perry barlow’s declaration of the independence of cyberspace began:
+“governments of the industrial world, you weary giants of flesh and steel, i come from cyberspace, the new home of mind. on behalf of the future, i ask you of the past to leave us alone. you are not welcome among us. you have no sovereignty where we gather.”
+fast forward to 2023 and the new generation of silicon valley’s tech leaders are making calls for generative ai to be regulated. many of them will be in london in the autumn for the prime minister’s ai summit. what’s changed?
+there’s no doubting that the pervasiveness and economic impact of technology have upped the stakes for governments. but the tech world has also realised that trust is vital for its survival and effective regulation is essential for that.
+the debate about ai regulation currently focuses on trying to stop really bad things from happening. others far smarter than me will have to work out how you do that. but for what it’s worth, i’m sceptical of apocalyptic near term predictions for ai. i feel more affinity with science fiction author ted chiang and his advice to replace the words ‘artificial intelligence’ with ‘applied statistics’ in headlines and see whether they have the same power.
+but if you’re going to regulate technology, could you regulate it ‘for good’? i’d argue that if you’re a government you’re better off shaping incentives for the direction of innovation in the future than trying to shut the stable door after the proverbial horse has bolted.
+and that’s where policy towards impact investing comes in. by tilting large capital allocators – particularly those with a public subsidy like pension funds and endowments – towards deliberate and measurable social and environmental impact, the next generation of innovations in ai and other fields will be more likely to have a public benefit.
+the days of the declaration of independence of cyberspace are long gone. technology, government and finance are all now interdependent. a future where tech is used for good must recognise that.
+this article first appeared in the practical optimist, a newsletter i send out once a month from bgv for investors with an interest in tech for good.
+
+
+
+
+
+paul miller 
+
+impact investment 
+leave a comment
+
+19 june 202319 june 2023
+
+2 minutes 
+
+
+
+
+a campfire in the dark forest 
+
+when i posted that i’d started blogging again, andy thornton posted a link to an article he’s written called “into the woods…”. it’s a really interesting piece and made me pause to reflect.
+i wondered why i stopped blogging and using social media so much a few years ago. in my head there were many reasons – a different routine, different responsibilities a lack of time and so on. 
+but one, if i’m honest was that i was scared. 
+the ‘woods’ in andy’s title refers to the dark forest theory which i first came across in in liu cixin’s books. it’s one of the most unsettling ideas you’ll find in science fiction and was created to try to answer one of the oddest questions in astrobiology. in an infinite universe which we now know has plenty of other planets, there is a very strong probability of other intelligent life, so why haven’t we made contact with any? it’s called fermi’s paradox.
+the dark forest theory says the reason for this is that intelligent civilisations keep quiet. in a dark forest you don’t want the really scary beasts to know where you are, or even that you exist.
+over the last decade the open web and social media seemed to become more full of scary beasts for me. as andy puts it: 
+
+this state of mutual suspicion and caution towards exposure is also one with echoes in our wider contemporary zeitgeist, in which rational paranoia is increasingly becoming the default mindset.
+
+i guess i became scared of putting ideas and opinions out there. partly in case people were rude about them, but also because i felt the chances of things being misunderstood unless you made  your writing ‘perfect’ had increased. 
+so what’s changed? the spectre of almost everything on the web being written by chatgpt and the like somehow fired me up. the forest is about to get much denser and darker. 
+it made me want to fight back and start to share things again. after all, the other way of looking after yourself in a dark forest, isn’t to hide, but to light a campfire. to do something that the scary beasts don’t understand. 
+
+
+
+
+paul miller 
+
+uncategorized 
+leave a comment
+
+11 june 202311 june 2023
+
+1 minute 
+
+
+
+
+current email, calendar and task list setup 
+
+i use a few tools to help me keep on top of my email, calendar and task list. these are in addition to the basic gmail and google calendar services. 
+airmail – i’ve always preferred having my email in a client rather than in the browser and the cleaner and simpler the better. airmail does the job very nicely if you’re a mac user.
+sanebox – the filters/tabs for ‘promotions’ and so on in gmail don’t really cut the mustard for my inbox – i need something that can spot just the important messages and filter out the rest. i also like to be able to have a set up where i only look at unimportant messages once a day. sanebox does all of that and has some great other features too.
+textexpander – part of my job involves saying the same thing to lots of different people and so saving snippets in textexpander saves me a lot of time. you soon remember the keyboard shortcuts to paste whole messages and then tweak before sending.
+motion – i’ve found that the best way for me to manage my task list is to allocate time for things directly on my calendar. motion is the most intelligent way of doing that i’ve come across. you add things to the task list and then it automatically allocates them to a free slot in your calendar and updates as things change. really helpful for less urgent but important recurring tasks.
+hubspot – we use hubspot for a lot of things at work and i prefer their meeting booking experience over the other options i’ve tried. it means you can send a link to people for them to choose a time for a call. 
+i recommend all of them but also keen to hear if there’s anything else i should be trying!
+
+
+
+
+paul miller 
+
+gadgets and tools 
+1 comment
+
+30 may 202330 may 2023
+
+1 minute 
+
+
+
+
+some thoughts on ai and tech for good 
+
+i’ve been working around the edges of machine learning and ai for many years now. we implemented some basic machine learning in the startup i was running in 2006 and i watched as many other startups implemented similar things during the 2010s. as an investor at bgv i’ve seen our portfolio companies use ai to differing extents to build successful businesses and have a positive impact.so i knew that the recent spate of llm innovation was coming. it’s impressive to see what companies like openai and others have achieved. there’s something uncanny about the interactions you have with chatgpt or bard and the like and i’ve watched it already have an impact on the stuff i read. 
+unfortunately, the most obvious thing in my case is inbound unsolicited marketing emails. as i’m fairly public about my contact details, i’ve always had a fair amount of speculative sales messages from recruiters, outsourced software development houses, lead generation and many other services that i just never use. it doesn’t get flagged as spam but i use software called sanebox (itself an interesting application of machine learning) to filter it and then have a quick scan once a day.
+in the last couple of months, the nature of those emails has changed. they are now mainly generated by chatgpt and the like. because there is enough information about me and bgv in the public domain, they can ‘personalise’ the approaches in a way that wasn’t possible. i’ve also noticed a fair amount of chatgpt generated posts on linkedin, twitter and the like. it’s an interesting twist to sales and marketing but it leaves me underwhelmed. 
+despite how impressive the technology is, so far i’ve found limited use cases for chatgpt in ‘doing’ any part of my job. i find it useful for sense checking and improving the quality of output but it’s not capable of fundraising or making investment decisions. it can help but it’s a long way from being a direct replacement for human activity.
+i’ve been asked quite a few times in the last six month about the relationship between tech for good and ai. the short answer is that it’s no different from any other technology. a tech for good ai startup will set out to intentionally solve a particular social or environmental issue and it will measure its impact as it tries to do that. no other ai startup will be tech for good. you can’t accidentally be tech for good.
+part of the reason for this post is that i think chatgpt and the like will lead to people writing less and that is a shame. seeing it in action has spurred me to do something which i’ve been thinking about for a while and start blogging again. 
+i’m going to try to write a weekly post, usually about tech or impact investing. maybe i’ll just be talking to the bots. does anybody ready blogs anymore? i’m not sure!everything on the internet is wrong so don’t take me too seriously. but i hope it will help me improve my thinking which is something that leaving everything to ai certainly won’t.
+
+
+
+
+paul miller 
+
+gadgets and tools 
+leave a comment
+
+21 may 202321 may 2023
+
+2 minutes 
+
+
+
+
+my favourite books of 2021 
+
+for the first part of 2021, my reading mainly consisted of agatha christie and john le carré novels which i found were very easy to read with a tiny baby asleep on you. but as the year went on i found more time to read non-fiction and some more contemporary fiction. my top few of each were:
+non-fiction
+our lady of perpetual hunger by lisa donovan – best known as a pastry chef whose work in new orleans gained her international acclaim, this is a book about far more than cooking. it’s a phenomenal memoir and inspiring parenting and professional tale. but it also makes you want to try some of those old fashioned desserts from the american south.the premonition by michael lewis – there’s still nobody better at taking a technical and often bureaucratic system and making it into a gripping yarn. the premonition is the story of the people who helped make sure that covid wasn’t as bad as it could have been under donald trump’s presidency. the key man – brilliant reportage about something very close to home in my day job. abraaj was one of the first high profile international investment firms that called themselves impact investors. they had billions under management – the trouble was, it was all based on lies and fraud. there are lessons for all of us in the impact investing world from the book but it’s also a cracking good read as wall street journal journalists clark and louch piece together what really happened.everything i learned about life i learned from powerpoint. russell davies settled down in lockdown to write this love letter to a piece of software that is both a wonderful piece of social commentary and a compendium of tips for how to give better presentations. i remember first seeing russell do a presentation at a conference in newcastle years ago and knowing straight away that he was a master of the craft. 
+fiction
+contacts by mark watson – i think mark watson is one of the best comedians of his generation but he’s also a fantastic novelist. this is an alternative take on the power of social media and smart phones. i can’t work out whether it will feel dated in a few years time or whether it will still make sense. having read all those agatha christie novels earlier in the year i think it might last. broken stars by ken liu. i’ve developed a liking for chinese sci-fi and this year i read another collection of short stories. there are several that have stuck with me, particularly one where lives run in the opposite direction through chinese history since 1945. it’s a phenomenal piece of creativity.children of time by adrian tchaikovsky – this however was the best sci-fi i read in 2021. adrian tchaikovsky deservedly won the arthur c clarke award for this. so many nooks and crannies of imagination and you’re left thinking very differently about our possible place in the universe.
+
+
+
+
+
+paul miller 
+
+book reviews 
+leave a comment
+
+24 january 202224 january 2022
+
+2 minutes 
+
+
+
+
+my favourite books of 2020 
+
+it was an odd year but i really enjoyed reading. i made it through a book every couple of weeks – 26 in total – and these were my favourites. maybe this year i’ll make it to a book a week. 
+non-fiction
+wilding by isabella tree – my review here. this genuinely changed the way i think about nature and the countryside. the man who solved the market by gregory zuckerman. a brilliantly written story of renaissance, the incredibly successful investment firm created by jim simons. the problem was it didn’t have a purpose other than making money and that eventually made monsters or bitter men of its senior staff – including one of them becoming the biggest backer of donald trump’s election 2016 campaign.eat a peach by david chang – a great book about business and mental health with the odd bit of cooking thrown in. 
+fiction
+exhalation by ted chiang – chiang is the author of the piece that became the movie arrival. this collection of short stories is a great selection of new writing.the great fire by shirley hazzard. it won the us national book award in 2004 and is set in the aftermath of the second world war in asia and europe. agency by william gibson. he’s still cyberpunk and still great. his new novel is set in near-future/current san francisco and a future london. i loved it. 
+
+
+
+
+paul miller 
+
+book reviews 
+leave a comment
+
+3 january 2021
+
+1 minute 
+
+
+
+posts navigation
+older posts
+
+
+
+
+pages
+
+about
+
+popular posts
+ biosphere 2 and the joy of ‘failed’ experiments 
+ this title is missing a 
+ the second half of the chessboard 
+ wilding by isabella tree 
+ ghost writers in the machine 
+search
+
+search for:
+
+
+
+categories
+
+bgv
+
+book reviews
+
+gadgets and tools
+
+goodgym
+
+impact investment
+
+predictions
+
+thoughts
+
+uncategorized
+
+
+
+
+
+
+
+
+search
+
+search for:
+
+
+
+categoriescategories
+select category
+bgv
+book reviews
+gadgets and tools
+goodgym
+impact investment
+predictions
+thoughts
+uncategorized
+
+
+archives archives
+
+select month
+ february 2024  (4)
+ june 2023  (2)
+ may 2023  (2)
+ january 2022  (1)
+ january 2021  (1)
+ november 2020  (1)
+ october 2020  (2)
+ september 2020  (2)
+ april 2020  (3)
+ november 2019  (1)
+ january 2019  (3)
+ december 2018  (1)
+ november 2018  (9)
+ august 2018  (1)
+ july 2018  (1)
+ october 2017  (2)
+ september 2017  (6)
+ august 2017  (9)
+ may 2017  (11)
+ february 2017  (1)
+ january 2017  (5)
+ august 2016  (1)
+ may 2016  (2)
+ january 2016  (4)
+ september 2015  (1)
+ august 2015  (3)
+ july 2015  (7)
+ june 2015  (3)
+ march 2015  (3)
+ february 2015  (8)
+ january 2015  (25)
+ december 2014  (2)
+ november 2014  (6)
+ september 2014  (5)
+ august 2014  (1)
+ july 2014  (12)
+ june 2014  (8)
+ may 2014  (3)
+ march 2014  (1)
+ february 2014  (5)
+ january 2014  (2)
+ december 2013  (3)
+ november 2013  (5)
+ october 2013  (1)
+ september 2013  (4)
+ august 2013  (7)
+ july 2013  (6)
+ june 2013  (13)
+ may 2013  (3)
+ april 2013  (4)
+ march 2013  (8)
+ february 2013  (13)
+ january 2013  (12)
+ december 2012  (8)
+ november 2012  (13)
+ october 2012  (13)
+ september 2012  (1)
+ august 2012  (3)
+ july 2012  (1)
+ june 2012  (1)
+ may 2012  (4)
+ april 2012  (3)
+ march 2012  (4)
+ february 2012  (1)
+ january 2012  (2)
+ november 2011  (3)
+ october 2011  (2)
+ september 2011  (1)
+ august 2011  (4)
+ june 2011  (3)
+ may 2011  (2)
+ april 2011  (2)
+ march 2011  (2)
+ january 2011  (8)
+ november 2010  (2)
+ october 2010  (3)
+ august 2010  (2)
+ july 2010  (8)
+ june 2010  (1)
+ april 2010  (1)
+ january 2010  (2)
+ december 2009  (3)
+ november 2009  (4)
+ october 2009  (3)
+ september 2009  (2)
+ august 2009  (6)
+ july 2009  (1)
+ june 2009  (2)
+ may 2009  (3)
+ april 2009  (3)
+ march 2009  (5)
+ february 2009  (3)
+ january 2009  (7)
+ december 2008  (8)
+ november 2008  (8)
+ october 2008  (4)
+ september 2008  (3)
+ august 2008  (2)
+ july 2008  (4)
+ june 2008  (4)
+ april 2008  (5)
+ march 2008  (3)
+ february 2008  (2)
+ january 2008  (10)
+ december 2007  (3)
+ november 2007  (4)
+ october 2007  (5)
+ september 2007  (2)
+ august 2007  (7)
+ july 2007  (2)
+ june 2007  (3)
+ may 2007  (13)
+ april 2007  (3)
+ march 2007  (12)
+ february 2007  (2)
+ january 2007  (5)
+ december 2006  (3)
+ november 2006  (2)
+ october 2006  (3)
+ september 2006  (6)
+ august 2006  (3)
+ july 2006  (7)
+ june 2006  (2)
+ may 2006  (4)
+ april 2006  (3)
+ march 2006  (9)
+ february 2006  (4)
+ january 2006  (4)
+ december 2005  (1)
+ november 2005  (2)
+ october 2005  (5)
+ september 2005  (1)
+ august 2005  (3)
+ june 2005  (7)
+ may 2005  (1)
+ april 2005  (1)
+ february 2005  (5)
+ january 2005  (6)
+ december 2004  (5)
+ november 2004  (1)
+ september 2004  (4)
+ august 2004  (5)
+ july 2004  (2)
+ june 2004  (4)
+ may 2004  (4)
+ april 2004  (3)
+ march 2004  (3)
+ february 2004  (2)
+ january 2004  (4)
+ december 2003  (3)
+ november 2003  (8)
+ october 2003  (6)
+ september 2003  (6)
+ august 2003  (5)
+ july 2003  (8)
+ june 2003  (7)
+ may 2003  (3)
+ april 2003  (4)
+ march 2003  (2)
+ february 2003  (3)
+ january 2003  (8)
+ december 2002  (3)
+ november 2002  (8)
+ october 2002  (4)
+ september 2002  (1)
+ august 2002  (1)
+
+
+ 
+
+
+
+proudly powered by wordpress
+ | 
+				theme: independent publisher 2 by raam dev.			
+
+
+
+
+
+
+
+
+
+
+

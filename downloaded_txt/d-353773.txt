@@ -1,0 +1,106 @@
+
+
+
+
+
+
+knuckledragger's treehouse – a senior network engineers thoughts…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+knuckledragger's treehouse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mindblown: a blog about philosophy.
+
+
+samsung ir codes
+samsung has some odd proprietary codes… dvd player – 42 bit blu-ray player: 37-bit tv: 32-bit 
+june 8, 2024
+
+
+sdrtrunk monitor 1.0.9 released
+latest version of sdrttunk monitior has been released. https://github.com/ldzpln1/sdrtrunk-monitor sdrtrunk monitor is a windows-only tray app to start, stop, and monitor sdrtrunk running under windows. it can auto-restart sdrtrunk if it detects an error. 
+march 23, 2023
+
+
+ender 3v2 printer notes
+overture pla pro .4mm nozzle, 205c, 80mm/sec, 20mm/sec .2mm nozzle, 200c, 40mm/sec, 20mm/sec 
+october 30, 2022
+
+
+
+
+
+
+got any book recommendations?		
+
+
+
+				get in touch				
+
+
+
+
+
+
+
+
+
+
+
+knuckledragger's treehouse
+
+		proudly powered by wordpress 
+
+
+
+
+
+
+

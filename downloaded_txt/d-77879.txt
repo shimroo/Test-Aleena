@@ -1,0 +1,222 @@
+
+
+
+        web hosting - faculty and staff - university of victoria
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to global menu.skip to primary navigation.skip to secondary navigation.skip to page content.
+
+
+
+sign outsign in  to online tools
+
+
+uvic
+
+
+search
+
+
+
+uvic home
+covid-19
+admissions
+academics
+research
+library
+students
+faculty & staff
+online tools
+
+
+
+
+
+
+
+return to global menu.
+skip to primary navigation.
+skip to secondary navigation.
+skip to page content.
+
+
+
+
+
+universityof victoriauniversitysystemsa-zdirectoriesmapssearchsearchsearchsearchsearch systemssearch service cataloguesearch help centresearch uvicsearch for peoplenavigation
+
+
+homeservice cataloguehelp centrestatus updateabout us
+
+
+
+
+
+homeservice catalogueweb publishing & hostingweb hosting - faculty and staff
+web hosting - faculty and staffweb publishing and hostinguniversity systems offers a faculty and staff web hosting service that allows individual homepages for faculty and staff on web.uvic.ca. this service can be used to create web pages, where you can add and maintain content, as well as set permissions. all computing usage at uvic, including individual web spaces, are subject to uvic policies including im7200 and im7800. review the terms of service for further details. 
+
+service expiry and renewal: your website will be active for 1 year. you will receive email notifications near the end of the subscription period prompting you to renew your website.
+ownership responsibilities: you are responsible for maintaining the content and applications hosted on your website.
+
+prior to signing up for the service, please consider the following alternative web-related services available to meet the needs of students at uvic.
+
+cascade: this web content management system (cms) allows for easy addition and editing of content by many different authorized users of a web space.
+online academic community (oac) wordpress service: all employees and students at the university of victoria have the ability to create centrally supported wordpress sites through the online academic community (oac).
+brightspace: a cloud-based collection of learning tools that allows course instructors to host all of their course-related content in one place.
+
+who can use this service?
+
+faculty
+staff
+
+how do i request or access this service?
+online services allows you to view, sign up for and renew your available services, including the faculty and staff website service.  
+sign up for your individual website
+the url for your website will include your netlink id: https://web.uvic.ca/~netlinkid. once you have signed up for the service, get started on your website by visiting the help centre web hosting – faculty and staff page.
+ 
+what is the cost for this service?
+this service is provided free of charge up to 1gb of storage.
+when is this service available?
+this service is available 24 hours a day, 7 days a week, except during scheduled and unscheduled maintenance. you can be informed of service interruptions by subscribing to informed.how do i get help with this service?
+for assistance with this service, please contact the computer help desk:
+email: helpdesk@uvic.ca telephone: 250-721-7687 in person: clearihue a037related supportrelated serviceshow-toschange access permissions of an item using an sftp clientchanging php and python versionsrestrict access to your website: macosrestrict access to your website: windowssetupsweb hosting - faculty and staffweb hosting terms of servicedownloadsinstall an sftp clientweb publishing & hostingweb content managementmatomo web analyticssurveymonkeyweb hosting - students
+
+
+
+navigation
+content
+quick links
+
+
+
+
+in this sectionnew to uvic?audiovisual & multimediaon campus event supportav design, integration and consultationclassroom technologyecho360equipment rentalsvideo conferencingvideo productionvideo recordingvirtual event supportwebcastingzoom video conferencingbusiness applicationsbannerco-op and career portalbanner financebanner hrbanner studentevent management software card-based door access controlclockwork self servefast budgetfast finance reportingfast hr reportingfast student reportingfast web requisitioningfmis self-serviceimagingmanage your personal informationonline toolsmyuviconecardsas student enrollment reporting the raiser’s edgeuvic online directoryworkflowcomputers & softwareadobe campus license agreementdepartmental printinggeneric remote desktopgreen computingbuying hardware for employeesmicrosoft 365microsoft software licensingmicrosoft licensing serviceprinting & duplicating for studentssoftware distributionacquiring software for employeesstudent computing facilitiesmanaged workstation servicetechnology solutions centreemail & calendarmicrosoft 365 email for employeesmicrosoft 365 email for studentslegacy emailrole-based emailresource calendarsemail listsemail distribution listshelp & supportapplication designcomputer help deskdesktop support serviceshardware repairproject managementrequest tracker (rt)traininginformation securityanti-virus and endpoint protectioncybersecurity communicationscybersecurity awareness for studentscybersecurity remote worksecure your datasecurity designwhole disk encryptionemail warning bannersexchange activesync policiesnetwork protectionphishingsecurity camera recording servicesecurity standardssecurity threat and risk assessmentvirtual payment terminalinternet & telephonedomain namesip message broadcastingcell phonesremote access (vpn)residence internettelephonesvoicemailwired internetwireless internetbyod wirelesslearning & teachingrespondus lockdown browserbrightspaceelectronic grade submissioni>clickeronline academic communitylogins & passphrasesuvic mfanetlink idnetlink ids for affiliatespassphrase managementsecondary netlink idsresearch computingservers & storagedata centre server co-locationdata recoverydepartmental file storagepersonal home file storageuniversity computer backupvirtual serversystem administrationdatabase & application administrationweb publishing & hostingweb hosting - studentsweb hosting - faculty and staffweb content managementsurveymonkeymatomo web analyticscontact us
+
+ view work order need a computer? secure your data
+
+
+request
+ help now
+notices & bulletins
+apple macos sequoia (macos 15.0)nov 2024 banner maintenancerole based email service changeemail delivery issuesexchange online upgrade for employees notices & bulletins
+links of interest
+emergency services
+problem tracking
+system status
+learning and teaching support and innovation
+network services
+audio visual services
+subscribe to rss
+informed rss feed stay informed of current system status.
+systems notices important notices from university systems
+uvic media releases rss feed uvic press releases
+twitter@uvichelpdesk computer help desk@uvichelpdesk19 janrt @cybercentre_ca: if you've received a spam message by text, the next step is to report it. 
+you can forward the message to 7726 (spa… https://t.co/0jls4gu2mhfavoriteretweetreplycomputer help desk@uvichelpdesk31 octcome see us in the cove for our last @uvic cyberaware booth of #cybermonth2022! https://t.co/zwqqzcajwhfavoriteretweetreplycomputer help desk@uvichelpdesk28 octtune in to the @uvic instagram
+tomorrow to see our acting
+ciso work the 'gram and answer all
+your cybersecurity que… https://t.co/nwgh1gypa3favoriteretweetreply
+ 
+status of our services
+
+
+
+service
+status
+
+
+e-mail
+
+
+connectivity
+
+
+webapps
+
+
+storage
+
+
+telephone
+
+
+
+
+
+
+
+return to global menu.
+return to primary navigation.
+return to secondary navigation.
+return to page content.
+
+
+
+contactuniversity systems
+ clearihue a037
+ phone: 1-250-721-7687
+ toll free: 1-844-721-7687
+ fax: 1-250-721-8778
+ email: helpdesk@uvic.cacopyright© university of victoriacopyright infolegal noticesaccessibilitywebsite accessibility infocampus accessibility infojoin the conversation
+@uvichelpdesk
+@uvicsystems
+stay informed
+website feedback
+
+
+
+
+
+back to top
+
+
+
+
+campus maps
+
+
+
+
+campus security
+
+
+
+
+contact us
+
+
+
+
+uvic.ca
+
+
+
+
+studentresources
+
+
+
+
+faculty & staffresources
+
+
+
+
+sign in
+
+
+
+
+
+
+

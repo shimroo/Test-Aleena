@@ -1,0 +1,421 @@
+
+
+
+
+
+
+
+
+
+
+everol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+my account 
+login / register 
+
+
+
+
+ 
+ 0 items
+ - $0.00  
+
+
+
+
+
+
+home
+why buy everol?
+online store
+everol university
+our company
+reel support
+contact us
+ 
+
+
+
+
+
+
+
+
+http://teameverol.com/wp-content/uploads/slideshow-gallery/specialbanner.jpg
+
+
+
+
+
+http://teameverol.com/wp-content/uploads/slideshow-gallery/twospeedbanner.jpg
+
+
+
+
+
+http://teameverol.com/wp-content/uploads/slideshow-gallery/waterproofbanner.jpg
+
+
+
+
+
+http://teameverol.com/wp-content/uploads/slideshow-gallery/banner1.jpg
+
+
+
+
+
+http://teameverol.com/wp-content/uploads/slideshow-gallery/everol t-shot 1.jpg
+
+
+
+
+
+http://teameverol.com/wp-content/uploads/slideshow-gallery/banner2.jpg
+
+
+
+
+
+http://teameverol.com/wp-content/uploads/slideshow-gallery/reel_specialbanner.jpg
+
+
+
+
+
+
+previous image
+
+next image
+
+
+info heading
+info content
+
+
+
+			jquery.noconflict();	tid('slideshowcustom586').style.display = "none";	tid('slideshow-wrappercustom586').style.display = 'block';	tid('slideshow-wrappercustom586').style.visibility = 'hidden';	var spinnerdiv = document.createelement('div');	spinnerdiv.setattribute('id', 'spinnercustom586');	spinnerdiv.innerhtml = '';	jquery(spinnerdiv).appendto('#fullsizecustom586');	tid('spinnercustom586').style.visibility = 'visible';	var slideshowcustom586 = new tiny.slideshow("slideshowcustom586");	jquery(document).ready(function() {		slideshowcustom586.auto = true;		slideshowcustom586.speed = 10;		slideshowcustom586.effect = "fade";		slideshowcustom586.slide_direction = "lr";		slideshowcustom586.easing = "swing";		slideshowcustom586.alwaysauto = true;		slideshowcustom586.autoheight = false;		slideshowcustom586.autoheight_max = false;		slideshowcustom586.imgspeed = 10;		slideshowcustom586.navopacity = 13;		slideshowcustom586.navhover = 70;		slideshowcustom586.letterbox = "#000000";		slideshowcustom586.linkclass = "linkhover";		slideshowcustom586.imagesid = "imagescustom586";		slideshowcustom586.info = "informationcustom586";		slideshowcustom586.infoonhover = 0;		slideshowcustom586.infospeed = 10;		slideshowcustom586.infodelay = 0;		slideshowcustom586.infofade = 0;		slideshowcustom586.infofadedelay = 0;		slideshowcustom586.thumbs = "";		slideshowcustom586.thumbopacity = 70;		slideshowcustom586.left = "slideleftcustom586";		slideshowcustom586.right = "sliderightcustom586";		slideshowcustom586.scrollspeed = 5;		slideshowcustom586.spacing = 5;		slideshowcustom586.active = "#ffffff";		slideshowcustom586.imagesthickbox = "false";		jquery("#spinnercustom586").remove();		slideshowcustom586.init("slideshowcustom586","imagecustom586","imgprevcustom586","imgnextcustom586","imglinkcustom586");		tid('slideshow-wrappercustom586').style.visibility = 'visible';		jquery(window).trigger('resize');					});			jquery(window).resize(function() {			var width = jquery('#slideshow-wrappercustom586').width();			var resheight = 30;			var height = math.round(((resheight / 100) * width));			jquery('#fullsizecustom586').height(height);		});				        ul.slideshowcustom586 { list-style:none !important; color:#fff; }
+        ul.slideshowcustom586 span { display:none; }
+        #slideshow-wrappercustom586 { overflow: hidden; position:relative; width:100%; background:#ffffff; padding:0 0 0 0; border:1px solid #cccccc; margin:0; display:none; }
+        #slideshow-wrappercustom586 * { margin:0; padding:0; }
+        #slideshow-wrappercustom586 #fullsizecustom586 { position:relative; z-index:1; overflow:hidden; width:100%; height:30%; clear:both; border: none; }
+        #slideshow-wrappercustom586 #informationcustom586 { text-align:left; font-family:verdana, arial, helvetica, sans-serif !important; position:absolute; width:100%; height:0; background:#000000; color:#ffffff; overflow:hidden; z-index:300; opacity:.7; filter:alpha(opacity=70); }
+        #slideshow-wrappercustom586 #informationcustom586 h3 { color:#ffffff; padding:4px 8px 3px; margin:0 !important; font-size:16px; font-weight:bold; }
+        #slideshow-wrappercustom586 #informationcustom586 a { color:#ffffff; }
+        #slideshow-wrappercustom586 #informationcustom586 p { color:#ffffff; padding:0 8px 8px; margin:0 !important; font-size: 14px; font-weight:normal; }
+        #slideshow-wrappercustom586 .infotop { margin-bottom:8px !important; top:0!important; }
+        #slideshow-wrappercustom586 .infobottom { margin-top:8px !important; bottom:0!important; }
+                    #slideshow-wrappercustom586 #imagecustom586 { width:100%; }
+            #slideshow-wrappercustom586 #imagecustom586 img { border:none; border-radius:0; box-shadow:none; position:absolute; left:0%; right:0%; max-height:100%; max-width:100%; margin:0 auto; display:block; }
+                #slideshow-wrappercustom586 .imgnav { position:absolute; width:25%; height:100%; cursor:pointer; z-index:250; }
+        #slideshow-wrappercustom586 #imgprevcustom586:before { font-family:fontawesome; content:"\f053"; font-size:30px; color:white; visibility:visible; left:0; text-align:left; width: auto; height:auto; line-height:160%; top:50%; margin:-30px 0 0 0; border-radius:0 10px 10px 0; background:black; padding:3px 10px 0 10px; position: absolute; display: inline-block; }
+        #slideshow-wrappercustom586 #imgprevcustom586 { display:none; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; -o-user-select: none; left:0; font-size:0px; }
+        #slideshow-wrappercustom586 #imgnextcustom586:before { font-family:fontawesome; content:"\f054"; font-size:30px; color:white; visibility:visible; right:0; text-align:right; width: auto; height:auto; line-height:160%; top:50%; margin:-30px 0 0 0; border-radius:10px 0 0 10px; background:black; padding:3px 10px 0 10px; position: absolute; display: inline-block; }
+        #slideshow-wrappercustom586 #imgnextcustom586 { display:none; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; -o-user-select: none; right:0; font-size:0px; }
+        #slideshow-wrappercustom586 #imglinkcustom586 { position:absolute; zoom:1; background-color:#ffffff; height:100%; width:100%; left:0; z-index:149; opacity:0; filter:alpha(opacity=0); }
+        #slideshow-wrappercustom586 .linkhover:before { font-family:fontawesome; content:"\f14c"; font-size:30px; text-align:center; height:auto; line-height:160%; width:auto; top:50%; left:auto; right:auto; margin:-30px 0 0 0; padding:0px 12px; display: inline-block; position: relative; background:black; color:white; border-radius:10px; }
+        #slideshow-wrappercustom586 .linkhover { background:transparent !important; opacity:.4 !important; filter:alpha(opacity=40) !important; text-align:center; font-size:0px; }
+        #slideshow-wrappercustom586 #thumbnailscustom586 { background:#ffffff; height:89px; width:100%; position:relative; overflow:hidden; }
+        #slideshow-wrappercustom586 .thumbstop { margin-bottom:8px !important; }
+        #slideshow-wrappercustom586 .thumbsbot { margin-top:8px !important; }
+        #slideshow-wrappercustom586 #slideleftcustom586:before { font-family:fontawesome; content: "\f104"; color:#999; position: absolute; height: auto; line-height:160%; width: auto; display: inline-block; top: 50%; font-size: 30px; margin: -30px 0 0 0; padding: 0 5px; }
+        #slideshow-wrappercustom586 #slideleftcustom586 { text-align:left; float:left; position:absolute; left:0; z-index:150; width:20px; height:89px; background:#222; }
+        #slideshow-wrappercustom586 #slideleftcustom586:hover { background-color:#333; }
+        #slideshow-wrappercustom586 #sliderightcustom586:before { font-family:fontawesome; content: "\f105"; color:#999; position: absolute; height: auto; line-height:160%; width: auto; display: inline-block; top: 50%; font-size: 30px; margin: -30px 0 0 0; padding: 0 5px; }
+        #slideshow-wrappercustom586 #sliderightcustom586 { text-align:left; float:right; position:absolute; right:0; z-index:150; width:20px; height:89px; background:#222; }
+        #slideshow-wrappercustom586 #sliderightcustom586:hover { background-color:#333; }
+        #slideshow-wrappercustom586 #slideareacustom586 { float:left; position:absolute; z-index:149; background:#ffffff; width:100%; margin:0; height:89px; overflow:hidden; }
+        #slideshow-wrappercustom586 #slidercustom586 { position:absolute; width:837px !important; left:0; height:89px; padding:3px 20px 0 25px; }
+        #slideshow-wrappercustom586 #slidercustom586 img { width:100px; height:75px; cursor:pointer; border:1px solid #666; padding:2px; float:left !important; }
+        #slideshow-wrappercustom586 #spinnercustom586 { position:relative; top:50%; left:45%; text-align:left; font-size:30px; }
+        #slideshow-wrappercustom586 #spinnercustom586 img { border:none; }
+                @media (max-width:480px) { 	.slideshow-information { display: none !important; } }
+                        @media (max-width:480px) { 	.slideshow-thumbnails { display: none !important; } }
+             
+
+
+
+   
+   
+  
+
+
+ featured products 
+  
+
+
+ 
+$24.00
+
+          t-shirt          
+
+add to cart 
+
+
+
+
+
+
+
+the best money can buy
+no one buys a reel to eat.  it’s a want, not a need.  and you use it for a recreational sport . . .a very expensive sport.  however, those who want a reel in this class typically want the best…super high quality.  these are the people who buy everols.  they are willing to spend $400-2500 for a reel and in turn demand craftsmanship and rugged materials that will last not for years, but for decades or even lifetimes.  these people choose everol. 
+ everol makes handcrafted saltwater fishing reels.  we don’t make bikes or blenders.  most fishing equipment made today is produced in china or taiwan.  this is fine; if you want high volume and a cheap price.  everols are handmade, one at a time, in a small factory in italy.  imagine a grey haired man in a white shop coat.  rough hands.a sharp eye that misses.nothing.meticulous attention to detail.
+you can order chinese tackle by the container load.  order a 100 everols and you may have to wait.  but when they are ready you will have reel that will last.  take care of it and it will take care for a lifetime.  it may in fact be “your grandson’s next reel.”
+anglers who spend $600-$2000 per reel have many manufacturers to choose from.  penn international, shimano, accurate, alutecnos, avet, and fin-nor produce good fishing reels for big game fish like marlin, tuna, shark and swordfish.  instead of buying something that is cool, flashy or what a stranger recommends, ‘invest’ in a handmade piece of fishing artwork. everol’s battle tested fishing design has earned the world’s best fisherman countless i.g.f.a world record fish. 
+buy the best you can afford, anything short of that is a compromise.  you worked hard to earn your money, reward yourself with the absolute best.
+
+
+
+testimonials 
+
+
+
+
+“in competitive land-based shark fishing tournaments you are wasting your time unless you have an everol 14/0 or 18/0.  no one matches their line capacity and no one can touch their toughness.  everols are battle wagons.”
+-pete f., miami, fl
+
+
+
+“they are a little more expensive, but they are 100% worth it.  you get what you pay for.” 
+- stephen c., newport news, va
+
+
+
+“we use penn reels 361 days per year for our charter customers.  then for the money tournament once a year, we pull out our everols for when our own money is on the line.”
+-charter in the florida keys- name withheld by request.
+
+
+
+“we catch big tuna and marlin in little boats and you need a powerful reel to do it safely.  everol is #1.”
+-jarrod p., kailua, hi
+
+
+
+“i really did use these with my grandfather and have exclusively used the everol special for more than 40 years.” 
+jeffrey t., boston, ma 
+
+
+
+“they are f@#&ing awesome!”
+kyle b., baton rouge, la
+
+
+
+“our team has earned over $300,000 in prizes using your reels.  some of those fish we could have landed using another reel, but some of those fish never would have made it to the weigh station had we not been using everol.  thank you!”
+mike d., ft. lauderdale, fl
+
+
+
+“i had a choice between spending $600 for a shimano or penn or spending couple hundred more for an everol.  i need my gear to last for several years so i went with the everol investment.  so glad i did.”
+-kenneth e., mobile, al
+
+
+
+“i bought a 1970’s everol off of ebay.  i was too lazy to rebuild it or even put new line on it.  it caught 3 yellow fin tuna in the 90-120 pound range and was a smooth as any of the brand new reels.”
+john y., orange beach, al
+
+
+
+“we use penn reels 361 days per year for our charter customers.then for the big money tournament once a year, we pull out our everol reels when our own money is on the line.” 
+charter in the florida keys- name withheld by request.
+
+
+
+“they are a little more expensive, but they are  100% worth it.  you get what you pay for.” 
+stephen c., newport news,va
+
+
+
+“in competitive land-based shark fishing tournaments you are wasting your time unless you have an everol 14/0 or 18/0.  no one matches their line capacity and no one can touch their toughness.  everols are battle wagons.”  
+pete f., miami, fl
+
+
+
+“in hawaii we catch big tuna and marlin in little boats and you need a powerful reel to do it safely.  everol is #1.” 
+jarrod p., kailua, hi
+
+
+
+“i really did use these with my grandfather and have exclusively used the everol special for more than 40 years.” 
+jeffrey t., boston, ma
+
+
+
+“they are f@#&ing awesome!”
+kyle b., baton rouge, la
+
+
+
+“our team has earned over $300,000 in prizes using your reels.  some of those fish we could have landed using another reel, but some of those fish never would have made it to the weigh station had we not been using everol.  thank you!” 
+mike d., ft. lauderdale, fl
+
+
+
+“i had a choice between spending $650 for a shimano or penn or spending couple hundred more for an everol.  i need my gear to last for several years so i went with the everol investment.  so glad i did.”  
+kenneth e., mobile, al
+
+
+
+“i bought a 1970’s everol off of ebay.  i was too lazy to rebuild it or even put new line on it.  it caught 3 yellowfin tuna in the 90-120 pound range and was a smooth as any of our brand new reels.”  
+john y., orange beach, al
+
+
+
+view all testimonials 
+  
+
+
+
+
+
+
+ quick links
+
+ our company 
+ why everol?
+ knowledge
+ pricing
+ dealers
+ contact us
+  shop
+
+
+
+ newsletter subscription 
+ enter your e-mail address below to know about our product updates on monthly basis!
+
+
+
+
+    sign up for our email newsletters  
+
+
+
+
+
+
+
+
+
+
+
+ quick contact 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2014. everol.com. all rights reserved
+
+
+
+
+
+concept by numberone creations
+
+
+
+
+
+
+');
+            popupwin.document.close();
+                }
+     
+

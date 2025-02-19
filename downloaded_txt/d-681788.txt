@@ -1,0 +1,2588 @@
+
+
+
+
+
+
+
+
+
+n1530link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+math1530
+  resource page
+http://math.etsu.edu/1530
+information you will find in this web page: 
+        
+  the basics: 
+
+general
+       information about the course including grading and attendance policy
+list of places where you can get help with this course
+instructions to use of
+       calculator
+links to  pages of 
+       individual instructors
+material for each chapter 
+also:
+links to applets collections
+links to reference on-line
+       material 
+information about careers in statistics
+'against all odds ' videos
+
+
+for instructors: links to journals on the teaching of statistics and other sources of data sets in the web
+
+
+old final exams:
+
+final exam from
+  the fall 2009 solution
+final exam from
+  the spring 2010 solution
+final exam from the fall 2010 solution
+final
+  exam from the spring 2011
+solution
+final exam from the fall 2011
+solution
+final
+  exam from the spring 2012
+solution
+ 
+
+
+
+ 
+the stat cave at etsu  - 
+created with a grant from the national science foundation 
+  (nsf-due 0126682) and etsu (taf) funds
+study
+  guide for fall 2012 final exam 
+
+
+
+  
+
+
+
+·  information for each
+  chapter 
+o    list of recommended problems 
+o    labs and data sets to be used in class, assignments or for
+  individual study for each chapter
+o    links to web pages or data sets of applications of statistics
+  in the real world 
+o    worksheets that can be used without computers for activities in
+  the classroom or for review.
+
+
+material for each chapter
+
+
+
+chapter 1 picturing distributions
+    with graphs
+chapter 2 describing distributions with numbers
+chapter 3 normal
+    distribution 
+chapters 4 & 5 scatterplots , correlation, and regression 
+chapter 6 review
+chapter 7 producing data:
+    sampling
+chapter 8 producing
+    data: experiments
+chapter 9 introducing
+    probability 
+chapter
+    10 sampling distributions  
+
+
+
+
+chapter 11 general rules of probability 
+    
+
+chapter 12 binomial distributions
+
+chapter 13 introduction to inference  
+
+chapter 14 thinking about inference
+
+chapter 15 review
+ 
+chapter 16 inference about a population
+    mean
+
+chapter 17 two-sample problems 
+
+chapter 18 inference about a population proportion
+ 
+chapter 20 review
+
+chapter 21 two categorical variables: the
+    chi-square test 
+     
+
+
+
+
+links
+  to on-line resources: 
+collections of applets                references for students & instructors 
+other data sources                    information about careers in stats
+
+
+
+ 
+
+
+
+general information
+  course goal: to develop a basic understanding of probability and statistics and
+  how they relate to the world around us.  
+final exam in the fall semester 2012
+  will follow the regular exam schedule.  
+(see more information about grading
+  and attendance policy below) 
+textbook for fall semester 2012:  
+moore, d.s.  (2010) essential statistics.
+  1st edition. 
+software: most sections will
+  use minitab in class. minitab is available in all the computer labs at
+  etsu.  
+note.  students who acquired the 'bundle' have on
+  addition to the textbook and study guide a student version of minitab. there
+  are other options available to acquire or rent minitab for students that want
+  to have it at home but this is not required, students will find minitab in
+  all the computers on campus under 'statistical software. 
+
+calculator
+  (instructions prepared by c. robe) can be found in 
+  requirements of the calculator vary with instructor. for those sections that
+  require the sharp calculator,
+instructions
+  for the sharp calculator for  mean, standard deviation 
+instructions to
+  use the sharp calculator for regression and  correlation
+for students who already have a ti-83 calculator:
+  instructions for texas instrument calculator: mean and variance  
+                                                                    
+  regression and
+  correlation
+
+
+
+data sets   the data sets mentioned in the textbook are
+    in the cd-rom that comes with the book.  data sets from sources other
+    than the textbook are accessible through this web page.
+
+
+
+formula
+  sheet  
+    the formula sheet and tables to be
+  used on the final exam will be the card that comes with the text book. 
+  here there is also a page with the main formulas.
+
+
+where to get help
+  with this course?
+
+1) your instructor (check your instructor's office hours
+  in the syllabus for your section)  
+2) math lab:   
+location: 123 sherrod library cfaa
+  hours: 1 hour after library opens to 1 hour before library closes.
+center for academic achievement (cfaa)
+provides free individual, group, and online
+  tutoring.
+website: http://www.etsu.edu/uged/cfaa/default.aspx
+phone: 423-439-7111
+need to make an appointment.
+3) free cfaa
+  group tutoring:
+location: in the sherrod library (behind
+  einstein's)
+hours: mondays 7:00-9:00 pm  and wednesdays
+  & thursdays, 2:45-4:45 pm
+check: elearn.etsu.edu  & click tutr-stat-001-probability
+  & statistics tutoring for exceptions and additional resources.
+if tutr-stat-001-probability & statistics tutoring
+  does not appear under admn, call 439-4748 to enroll.
+your tutor
+  is alan karp (zamk3@goldmail.etsu.edu) 
+4) student
+  support services, nurse center, athletics, disability services, and others offer
+  tutoring services.  check with them to see if you qualify. 
+   
+your
+  success in this course depends on the time in the course. we recommend:
+
+study and read before attending the
+       lectures. keep up with the course.
+devote a little time to studying
+       statistics each day, rather than a large amount once a week.
+take an active role in learning. come
+       to class and participate.
+tutor each other. if you feel that you
+       are lost help is out there; see your instructor/tutor early. don't wait
+       until the last minute.
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+  
+  
+
+
+
+grading and
+  attendance policy
+
+    
+
+departmental final examination requirement
+  for math 1530: 
+
+a comprehensive
+       departmental final examination will be administered in math 1530
+       (probability & statistics).  
+for the fall semester 2012 the exam will be held during
+       the regular final exam schedule.
+the room will be
+       announced by your instructor during dead week.
+important: each student
+       must have a current, official etsu id card to take final exam.
+the final
+       examination will count 20% of each students grade.  for extremely
+       low scores on the final examination (less than 80 points (or less than
+       40%) of the maximum of 200 points), the student will be assigned a
+       semester grade of f. 
+the purposes of this
+       program are to increase learning, enhance quality control and minimize
+       grade disparity among instructors.
+
+grading for the course:  the grade will be based on a possible 1000 points (200
+  from the final examination, 100 from capstone project, 50 from practice
+  quizzes and 650 determined by the instructor).  the scale follows: 
+
+
+
+a
+
+
+950 
+    1000             
+
+
+ 
+
+
+c+
+
+
+780 
+    799               
+
+
+
+
+a-
+
+
+900  949
+
+
+ 
+
+
+c
+
+
+720 
+    779               
+
+
+
+
+b+
+
+
+880 
+    899              
+
+
+ 
+
+
+c-
+
+
+700  719 
+
+
+
+
+b
+
+
+820 
+    879               
+
+
+ 
+
+
+d+
+
+
+650 
+    699              
+
+
+
+
+b-
+
+
+800  819 
+
+
+ 
+
+
+d
+
+
+600  649 
+
+
+
+
+f total less than 600 or for academic
+    misconduct or an extremely low grade (less
+    than 80) on the final examination.
+
+
+
+practice quizzes:  there are 16
+  chapter quizzes in desire2learn (d2l). there is no time commitment and
+  unlimited attempts to complete these quizzes but you must get at least 75% of
+  the questions correct on a chapter quiz to get full credit (3 points) on that
+  quiz.  you will receive 2 points for
+  attempting all quizzes.  all quizzes must be taken one hour prior to the final exam. 
+bonus points for good attendance (after the
+  first week of classes):  you may receive a bonus
+  for good attendance (we
+  dont count absences occurring during the first week of the semester).  an
+  absence can only be excused by presenting instructor with an official etsu
+  class absence authorization for student participation in a
+  university-sponsored activity prior to the occurrence of the
+  absence.  no other types of absences will be excused even if
+  you have an impeccable reason for not being in class.  we interpret the
+  number of absences recorded for a student as an indication of the amount of
+  lecture material they have missed during the semester, not as a critical judgment
+  of that students character, motivation and honesty.  bonus points will
+  be awarded in the following manner:
+                                   
+  5 absences or more                
+  zero bonus points
+                                   
+  4 absences                              
+  10 bonus points
+                                   
+  3 absences                              
+  20 bonus points
+                                   
+  2 absences                              
+  30 bonus points
+                                   
+  1
+  absence                                 40 bonus points
+                                   
+  0 absences                              
+  50 bonus points  
+departmental attendance
+  requirements: 
+(approved by department vote on
+  february 28, 1994; revised july 1999*) 
+the department of
+  mathematics strongly advises students to attend all mathematics classes when
+  physically able.  because there is a positive correlation between
+  attendance and student success in mathematics, the following attendance
+  guidelines will be used in all mathematics courses.  regardless of the
+  reasons for the absences, should a student exceed the following limits, the
+  instructor has the authority to assign a grade of fn or f; this policy takes
+  precedence  over the grade assignment policy for math 1710 and math
+  1530: 
+7 absences for
+  classes scheduled for mwf. 
+5 absences for
+  classes scheduled for tr or mw classes or
+
+    any other 2 day/night classes. 
+3 absences for classes
+  scheduled for one evening per week. 
+9 absences for all
+  daytime sections of 4-hour classes. 
+* for summer
+  courses:       5 absences for classes scheduled
+  mtwxf. 
+ 
+
+
+
+links to individual instructors
+
+
+
+
+web pages 
+
+corlis
+  robe
+susan
+  hosler
+    
+ 
+
+
+desire2learn connection
+
+   
+
+
+
+
+ 
+material chapter by chapter 
+
+
+
+chapter
+  1
+ picture
+  distributions with graphs
+
+
+
+skills
+    &
+    knowledge
+    in chapter 1
+
+
+
+
+
+
+chapter
+    1. after reading this chapter make sure you can:
+
+identify
+         individuals and variables in a given story. (see who? how many? what?
+         why? questions on page 4)
+distinguish
+         between categorical and quantitative variables 
+based
+         on the nature of the variable, be able to decide which graph is
+         appropriate for a given data set: 
+
+·        
+    histograms
+    and stemplots (stem-and-leaf display)? 
+·        
+    bar
+    and/or pie charts?
+·        
+    time
+    plots?
+
+understand what a
+         histogram or stemplot tells you about the
+         behavior of the variable. what is a bimodal or a skewed left or skewed
+         right distribution telling you?  
+
+
+
+
+ 
+
+
+
+
+    homework chapter 1
+
+
+we recommend that you practice with exercises:
+    1,3-7,9,10,12-18,19,20,22,23,26,28,29,30,34,35
+ 
+your
+    instructor might assign specific homework to be graded. 
+      
+
+
+
+  
+
+
+
+
+in the lab 
+    chapter  1
+
+
+
+ideas that can be used in the stat
+cave for graphing and displaying data
+1)     
+    lab
+    'drugs' : 
+    the purpose of this lab is to get familiar with data files and do basic
+    graphs for categorical and quantitative variables
+data file:  drugsurv.mtw
+(data from drug and alcohol survey in a state for
+    the midwest) 
+(variables in this data set are: gender, years of education, smoking
+    status, having tried marijuana and alcohol dependency)
+      a more simple version of that lab that can be used the first day in
+    the lab to introduce students to the use of minitab can be found in : plabdrugs.doc
+2)     
+    work  1.33, 1.34, 1.44 from the book
+3)     
+    explore and discuss the distribution of the
+    variables in one or more of these data files
+a)     
+    surveys02.mtw  (has categorical
+    and quantitative variables: gender, age, number of siblings etc. of
+    students in a section of math 1530) 
+b)    
+    pulse rates of 210 students of a math 1530 course pulserat.mtw    
+    pulserat.sav
+(interpret the shape, what pulse rates are more common? which ones are
+    less frequent?) 
+c)     
+    age at time of death, sample of 135
+    graves from greenhill cemetery laramie, wyo, data include people who died
+    in the period 1860-1998) (why
+    does the distribution of age at time of death looks bimodal? get
+    separate graphs for those who died before and after 1950. )  greenhill.mtw   
+d)    
+     unemployment in tennessee. this data set contains the
+    monthly unemployment rate in tennessee
+    from january 1978 to april 1999. tennunem.mtw
+     obtain a histogram
+    and interpret it. obtain a time plot and interpret it.
+4)     
+    using applets from the www. the applet
+    (from rice
+university) at http://www.ruf.rice.edu/%7elane/stat_sim/histogram/index.htm
+allows you to explore how a interval width
+    affects the shape of the histogram
+  
+
+
+
+ 
+
+
+
+
+in the real world
+    chapter 1
+
+
+statistics is a
+    useful tool to explore the real world. 
+here are some data files with real data. think of the context of
+    the data, get acquainted with the variables and identify the type of each
+    variable. 
+1) sat related variables for 50 states and dc (moore's basic practice of statistics) minitab: sat.mtw spss:
+    sat.sav
+2) demographic and economic data from for 97 countries
+    (from rouncefield)
+rouncefield, m. (1995)  the statistics of poverty and
+    inequality . journal of statistics education v.3, n.2 (1995)  
+(data source : united nations
+    in 1990). (variables in this data file are: 
+(birth rate, death rate, infant mortality rate, life expectancy
+    for males and females, gross national product) 
+minitab:  poverty.mtw  spss: poverty.sav
+
+3)
+real data from the usa:
+    census bureau
+    web site, unemployment data bureau of labor statistics, the university of chicagos national opinion research
+    center 
+ 
+
+
+
+ 
+
+
+
+related  readings  
+for instructors 
+
+
+ideas
+    on how to use a data set with demographic and economic variables for 97
+    countries produced by the united nations: 
+rouncefield, m. (1995)  the statistics
+    of poverty and inequality. journal of statistics education v.3, n.2
+    (1995)
+
+
+
+
+
+
+
+
+  top of the document
+ 
+
+
+
+chapter
+  2
+ describing
+  distributions with numbers
+
+
+
+skills & 
+    knowledge
+    in chapter2
+
+     
+
+
+chapter
+    2. after reading this chapter make sure you know how to:
+
+calculate
+         and interpret the values of mean, median, quartiles, five number
+         summary, standard deviation
+draw
+         a boxplot & compare several data sets in
+         terms of center and spread by looking at the side by side boxplots.
+decide
+         if an observation is an outlier using the 1.5 iqr rule
+relate
+         the skewness of the distribution to the
+         relative position of the mean and the median
+relate
+         the standard deviation with a histogram
+
+also you should be
+    aware of how extreme observations affect numerical summaries.
+
+
+
+
+
+homework
+chapter 2
+
+
+we recommend you practice with exercises:
+    2-5,7,9-11,13-19,20,21,26,28,30-32,37,39,41
+your instructor might assign specific homework
+    to be graded. 
+
+
+
+
+
+in the classroom
+
+
+these are activities/worksheets that can be worked in the
+    classroom. they do not require the use of computers.
+1) doctors
+(5-number
+    summaries, stemplots, histograms, mean, outliers;
+    with emphasis in interpretations)
+2) softdrinks version 1. (stem-and-leaf displays)
+3) softdrinks version 2. (stem-and-leaf displays, median,
+    quartiles and boxplots)
+4) income of ceos a worksheet to practice
+    calculating by hand basic statistics and interpreting them. 
+5)
+gasoline use by state interpreting computer output with graphs and
+    basic statistics 
+6) numerical
+    comparison and histograms mean vs. median,
+    the effect of an outlier on summary statistics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in the lab 
+    chapter 2
+
+
+ideas that can be used in the stat
+cave for summarizing distributions with numbers
+
+1) lab
+    big toe this lab reviews topics of chapters 1 and 2.
+
+2) lab infant mortality the objective of this lab is to interpret the shape of
+    histograms, interpret side by side boxplots,
+    calculate and interpret basic statistics. it reviews topics from chapters 1
+    and 2.  it  uses rouncefield's poverty
+    data (variables in this data set are birth rate, death rate, infant
+    mortality rate, life expectancy for males and females, gross national
+    product for each one of 97countries)  
+    
+minitab: poverty.mtw 
+3) lab sat scores
+(statistics and graphs for quantitative variables) sat scores  for
+    50 states and dc (moore's basic practice of statistics) (variables
+    are sat math and verbal average scores, % of high school seniors
+    taking the sat,  etc.)  minitab:
+sat.mtw
+4) lab baseball 
+    a short lab with the baseball players salaries (histogram, median,
+    mean, side-by-side boxplots)
+5) lynx spiders 
+    a biologist wants to compare the lengths of female and
+    male green lynx spiders.  [probability and statistical inference, 7th
+    ed.]  
+6)
+    the minitab data file oldfaithful contains data
+    on eruptions of the old faithful geyser in yellowstone national park. the
+    variable named "duration" records how long 299 of these eruptions
+    lasted, in minutes. describe the shape, center, and spread of the
+    distribution. [the basic practice of statistics, 3rd ed.]
+7) the
+    minitab data file calories contains
+    data from a study showing that foods advertised as "low calorie"
+    often contain more calories than the label states. is the degree of
+    understatement of calories the same for national (n) brands, regional (r)
+    brands, and locally (l) prepared foods? the variable measured is the
+    percent difference between true and label calories (i.e., true% - label%). [the basic practice of statistics, 3rd ed.]
+8) open the applets (statistical applets) from the
+    bps4e cd. the mean and median applet
+    on the bps4e cd allows you to place points (data) where ever you want and
+    it shows the dotplot and locates the mean and the
+    median. useful to explore the relationship among mean, median and the skewness of the distribution.
+
+
+
+
+
+in the real world
+
+
+1)
+    olympic files:
+    data files with results from the 2004 olympic games prepared by susan
+    hosler.  
+different strokes for different folks: finish times for swimmers
+    competing in various distance final events. side-by-side boxplots make a nice display.
+                                                          
+    women's 100m back, breast, butterfly & freestyle      
+               olymf100_swim.mtw
+                                                          
+    women's 200m back, breast, butterfly, freestyle &
+    medley    olymf200_swim.mtw
+                                                          
+    men's 100m back, breast,butterfly &
+    freestyle                       
+    olymm100_swim.mtw
+                                                          
+    men's 200m  back, breast, butterfly, breestyle
+    & medley        olymm200_swim.mtw
+smells like team spirit: 
+    compare the finish times of individuals versus teams for the 800meter
+    women's swimming events.  olymf800_swim.mtw
+beam me up scottie: compare scores earned by gymnasts competing in
+    the all-around events on different apparatus. which apparatus gives the
+    most difficulty to each gender? olymgymnast.mtw
+ 
+2)
+look at exercise 2.33. data of the census can be found at http://www.census.gov
+    interesting data originally published by the united nations can be found
+    in minitab: poverty.mtw   source:  rouncefield, m. (1995)  the statistics of poverty and
+    inequality. journal of statistics education v.3, n.2 (1995) 
+
+(birth rate, death rate, infant mortality rate, life
+    expectancy for males and females, gross national product for 97 countries
+    in 1990)
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ top of the document
+ 
+
+
+
+chapter 3 
+ normal
+  distribution
+
+
+
+
+skills & knowledge 
+    in chapter 3
+
+
+after studying this chapter, you should:
+
+know what is a
+         density curve and what is the total area under it
+be able to sketch
+         the density curve given the mean and standard deviation of a normal
+         distribution 
+apply the 
+         68-95-99.7 rule
+be able to
+         calculate z-scores ('standardization')
+find
+         the area (proportions & percentiles)  to the left or right of
+         a given value of x or z .
+given an area (to
+         the left or the right) under the normal curve, find the value of z
+         (and x)
+use your knowledge
+         of the normal distribution to solve word problems (example: exercises
+         3.20-3.22)
+
+
+ 
+
+
+
+
+homework
+for chapter 3
+
+
+we recommend that you practice with exercises: 3.1-3.6,
+    3.8-3.10, 3.12, 3.14, 3.15-3.21, 3.22, 3.23, 3.26, 3.31-3.33, 3.35, 3.37,
+    3.38, 3.40, 3.50
+your instructor might assign
+    specific homework to be graded. 
+
+ 
+
+
+
+ 
+    in the classroom
+    chapter 3
+
+
+ 
+these activities do not require the use of computers.
+1) a
+    worksheet to introduce the idea of standardization 
+2)
+exercises 
+    to practice the use of the normal table and problems related to the normal
+    distribution 
+
+    for instructors: standnorm.gif 
+    a file with the graph of the normal distribution that can be used when
+    preparing material on this topic
+
+
+
+ 
+
+
+
+
+in the lab
+chapter 3 
+
+
+ideas that can
+    be used in the stat cave about the normal distribution
+1) lab normal given a value finding an area, given an area
+    finding a value, checking for normality (pulserat.mtw) & emulating normal data  
+2)  normal model
+    and the soda data. a
+    lab to discuss if the normal model is appropriate for a given case, 
+    data file soda.mtw
+3)
+    applets from different sources :
+                 applet to calculate areas under the normal curve   (u. berkeley)
+                    
+    applet to draw normal curves (input: mean and std) and calculate areas under the
+    curve (rossman-chance collection)
+                
+    applet about normal approximation to histograms  (u. berkeley)
+4) exercises 3.51-3.53 use the normal
+    curve
+    applet from statistical applets
+    on the bps4e cd. 
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+#top of the
+document
+
+
+
+chapters
+  4 & 5   
+scatter plots,  correlation,
+  regression
+
+
+
+
+
+skills in chapters
+     4 & 5 
+
+
+after studying these chapters, you should:
+
+know for what type of variables r can be
+         calculated, its main properties and limitations,  and how to
+         interpret it
+be able to interpret an scatter plot and its
+         relation with the value of r
+know how to interpret the value of the slope
+         (don't forget the units), and the intercept (when interpretation is
+         appropriate)
+understand the least square principle and know how
+         to calculate (using computer or calculator) the estimated
+         value of slope and intercept
+know what residuals are and be able to interpret
+         residual plots
+know how to evaluate a model using r-square
+be familiar with the notion of outliers,
+         influential data, lurking variable, extrapolation
+understand that association does not imply
+         necessarily a cause-effect relationship
+be
+         aware of the dangers of extrapolation and the possible existence of
+         lurking variables.
+
+
+
+
+
+
+homework
+    chapters 4 & 5
+
+
+we recommend that you practice with the following
+    exercises: 
+
+
+chapter 4: 4.1-4.3, 4.5, 4.9, 4.11-4.18, 4.21-4.23, 4.26,
+    4.27, 4.29, 4.31-4.36 
+chapter 5: 5.1,
+    5.3-5.8, 5.10, 5.12, 5.14, 5.15-5.24, 5.26, 5.27, 5.29, 5.31, 5.33,
+    5.35-5.39, 5.41 5.45, 5.46 
+
+your instructor might assign specific homework to be graded.
+
+    in this note you can see the calculation of
+    the correlation coefficient (r) step by step
+
+
+
+
+
+in the lab 
+chap. 4 & 5
+
+
+ideas
+    that can be used in the stat
+cave for correlation
+    and regression.
+1)
+lab body
+    fat (correlation and regression) which is better
+    predictor of body fat; waist or weight?  uses the data file bodyfat.mtw 
+ 
+2) lab
+    wine-heart (correlation and regression) are wine consumption and
+    heart disease related? uses the data file wineheart.mtw  
+
+ 
+3)
+lab oldfaithful correlation 
+    are the length of eruption and the time until next eruption related? 
+    oldfaithful.mtw 
+4) lab oldfaithful regression  can we predict when the
+    next eruption of old faithful will be? 
+    data: oldfaithful.mtw
+5)
+    this is a very appropriate data set to discuss outliers in regression:
+    obtain the scatter plot, fit the regression equation with and without the
+    observation for the usa
+    and compare r-square for both models. cigarette and lung cancer (friedman
+    et. al) cigaret.mtw   cigarret.sav  
+6) lifeexpect.mtw
+(cause-effect relationship?)
+7) using applets  in the www:
+     a)
+guessing the value of r from a scatter plot  (university of illinois) 
+     b) rice u 'regression by eye' applet 
+     c) to
+    discuss leverage and influential points:
+           you place the points with
+    the mouse where you want and the (u of
+    illinois) applet calculates r and the regression line  
+       you move the points, displays
+    r, sse and line calpoly linear regression
+    applet 
+       you move one point, displays r
+    and line
+west's regression applet
+      d)  correlation and regression applet  from
+    a. strader of texas a & m university 
+8)  explore the correlation and regression applet from
+    (statistical
+    applets) on the bps4e cd.
+
+ 
+
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+    in the classroom
+    chapters 4 & 5
+
+
+1)     
+    class
+    summary to introduce correlation (step by step calculation) and regression intcorreg.doc
+
+
+2)     
+    a summary
+    of the ideas of outliers & influential points in regression using the
+    famous cigarette & lung cancer example: outliers.doc
+    this worksheet can be worked in the classroom, no computer is required
+
+
+3)     
+    are
+    drinking wine and heart disease associated? a worksheet (wineheart.doc)
+    based on a data set  from moore, d "the basic practice of
+    statistics" (data file  wineheart.mtw  or wine-heart.sav
+) 
+
+
+
+
+
+
+
+
+
+in the real world
+
+
+
+
+
+more olympic files: data files with results
+      from the 2004 olympic games prepared by susan hosler. 
+
+it ain't over till it's (almost) over: olymm20k_walk.mtw
+which increment of the men's 20 km walk best predicts the amount
+      of time required to finish the race? walker's times at
+      2,4,6,8,10,12,15,16,18 and 20 km. (hint: look at scatter plots, look at
+      the squared correlation at 18 km and 20 km)
+
+
+
+
+
+ 
+
+
+
+
+readings for instructors
+
+
+a brief history of regression
+
+
+
+
+
+
+
+
+#top of the document
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+ chapter 6
+review
+ 
+we recommend that you practice with the following
+  exercises: 
+
+
+
+#top of the document
+
+
+
+chapter 7 
+producing data:
+  sampling
+
+
+
+
+ 
+skills in 
+    chapter 8
+
+
+after studying this chapter, you should:  
+
+distinguish between an experiment and a survey
+know the difference between population and a
+         sample
+understand how bias can enter into samples or
+         results
+be familiar with the survey & sampling basic
+         vocabulary including types of random sampling
+know that individuals in the sample have to be
+         randomly selected
+be able to select a simple random sample from a
+         sampling frame
+know the consequences of incomplete/dated sampling
+         frames and non-random sampling
+
+
+
+
+
+
+homework
+
+
+ we recommend that you practice with the
+    following exercises: 7.1-7.5, 7.7-7.9,
+    7.11-7.20, 7.22, 7.24, 7.27, 7.28 7.30-7.34, 7.36, 7.38, 7.41 
+
+the following exercises require the use of random number tables,
+    applet, or other software: 8.9,8.11,8.12,8.36,8.44
+your instructor might assign specific homework to be
+    graded.
+ 14 multiple choice questions on experimental and observational
+    studies  hwsurexp.doc
+
+
+
+
+
+in the lab
+    in chapter 8
+
+
+ideas that can be used in the stat cave for surveys
+
+1) a class summary on
+    surveys to introduce the topic using internet and software (minitab)
+    resources surveys in lab
+2) short lab on random sampling,  uses the data set:  agepop.mtw 
+3) random
+    selection activity/lab:  selecting things at random:
+    from raffles to samples- hats, dice, tables and computers 
+this lab introduces in a 'hands on way' random generation of numbers by
+    different random mechanisms and the selection of random samples 
+4) lab on random
+    samples using the data set:  agepop.mtw to learn how to select samples using the computer and to
+    explore the ideas of sampling variability and sampling distributions
+
+
+
+
+ 
+    in the real world
+
+
+to learn 
+    more about organizing surveys: asa brochures on surveys (detailed brochures on
+    different aspects of surveys)
+two opposite examples of surveys:
+national geographic's survey 2000 (large
+    sample but not random, for whom are the results valid? ) 
+the gallup poll (relatively
+    small random sample, for whom are the results
+    valid?) give a look to the gallup
+    poll of the week 
+more about the census in the usa :     census:
+    main page and
+    teacher's page
+for links to more national surveys places
+what went wrong? literary digest survey
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+#top of the
+document
+ 
+
+
+
+chapter 8 
+producing data:
+  experiments
+
+
+
+
+
+skills in 
+    chapter 9
+
+
+ after
+    studying this chapter, you should:                
+    
+
+distinguish between an experiment and an
+         observational study
+be familiar with the basic vocabulary of
+         experimental design
+understand what constitutes a randomized
+         comparative experiment
+be able to identify subjects, factors &
+         treatments in a given story
+know the basic types of experimental designs
+         (double blind, completely randomized, block, matched pairs, etcetera)
+know
+         the basic principles of experimental design: control , randomize, replication.
+understand the meaning of statistical significance
+         and when does it imply causation
+
+
+
+
+
+ 
+    homework
+
+
+we recommend that you practice with the following
+    exercises: 9.1-9.4,9.9,9.10,9.12,9.13,9.16-9.26,9.36,9.39,9.41,9.45,9.47
+    the following exercises require the use of random number tables, applet, or
+    other software: 9.5,9.29,9.32
+your instructor might assign specific homework to be graded
+
+
+
+
+ 
+    in the classroom
+    chapter 9
+
+
+these activities can be done in the classroom or
+    assigned as homework, no computer is required 
+1) activity
+    on experimental design 
+the vocabulary of experimental design and the
+    principles of randomization, replication and control, as well as the
+    strategy of blocking to control for sources of variability are reviewed in
+    this activity using three cases.
+
+2) 14
+    multiple choice questions on experimental
+    and observational studies   hwsurexp.doc
+
+
+
+
+ 
+in the lab
+    chapter 9
+
+
+ideas that can
+    be used in the stat cave for experiments 
+  lab on experimental design  
+    this lab focuses on the application of the randomization principle to select
+    which individuals will be assigned to each treatment and in which order the
+    experiment will be conducted; but other issues involved in designing
+    experiments are also reviewed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+#top of the
+document
+ 
+
+
+
+ chapter  10  
+introducing probability
+
+
+
+
+
+skills in 
+    chapter 10
+
+
+ after studying
+    this chapter, you should:
+
+know what a
+         random phenomenon or a random experiment are
+know
+         that chance behavior is unpredictable in the short run but has a
+         regular and predictable pattern in the long run.
+be familiar
+         with the basic probability vocabulary (sample space, outcomes, event,
+have an
+         intuitive idea of probability (in the long run....) and a more formal
+         idea through the basic rules of probability 
+be able to
+         solve simple probability problems 
+know what a
+         random variable and a probability distribution are
+be able to
+         interpret and use the information given in a simple probability table
+         for one variable
+be able to
+         answer simple probability questions based on the information given
+         in  a two-way table
+know what independent and mutually events are 
+have an idea of
+         what a probability model is
+know how to
+         find the probability of an event for the normal probability model
+
+
+
+
+
+ 
+homework
+
+
+ we recommend that you practice with the
+    following exercises: 10.4,10.5,10.8-10.13,10.15-10.17,10.19-10.28,10.31,10.39,10.40,10.43,10.44,10.46,10.49,10.51,10.53
+the following exercises require the use of an applet or other software: 10.3b,10.35,10.55
+    your instructor might assign specific homework to be graded
+
+
+
+
+ 
+in the lab
+    in chapter 10
+
+
+ideas
+    that can be used in the stat cave for probability
+    want to (virtually) flip a coin?
+1) using applets from the cd. explore
+    the probability applet
+    from (statistical applets)
+    on the bps4e cd. this
+    applet simulates flipping a coin and keeps track of heads and tails.
+
+2) using applets in the www. 
+    you will also find generators of random numbers in  http://www.random.org
+probability as relative frequency in the long run:  go to
+http://www.random.org
+    and flip the coin 50 times. keep track of the number of heads that you get.
+    based on this experience, what is your estimate for the probability of
+    heads for that coin? (50 realizations of the random experiment of flipping
+    a coin is not really the 'long run'). each student can report how many head
+    he/she got in his/her 50 trials and we can come up with another estimate of
+    the probability.
+
+http://www.etsu.edu/math/seier/agepop.mtw
+
+
+
+
+
+    in the classroom
+    chapter 10
+
+
+1)      class summary to introduce the basic of probabilities
+    including random variable intprobrv.doc 
+2)     
+    this
+    is a class summary to introduce, via examples, probability related topics such as :
+    venn diagrams, calculating conditional & marginal probabilities from
+    two-way tables,  false positives and false negatives in medical
+    tests,  the birthday problem. moreprobability.doc  
+
+these
+    activities can be done in the classroom and do not require the use of
+    computers
+
+3)  introducing
+    the idea of random variable 
+
+4) false positives in the eliza test for aids
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+#top of the
+document
+ 
+
+
+
+ chapter 11 
+sampling distributions
+
+
+
+
+
+skills in
+    chapter 11
+
+
+ after studying
+    this chapter, you should:    
+
+be able to distinguish between parameter and
+         statistic in a given story
+know what the sampling distribution of an
+         statistic (for example, the sample mean) is 
+have a basic understanding of the meaning of the
+         law of large numbers
+have
+         a basic understanding of the meaning of the central limit theorem and
+         know how to apply it to problems of the type 'what is the probability
+         that the sample mean takes a value greater (or lower) than some value.
+understand the relationship between sample size
+         and the variability  of the sample mean
+know what the distribution of the sample mean is
+         for the two cases: x is normal & we don't know if x is normal
+be
+         able to solve problems of the type: what is the probability that the
+         sample mean takes a value greater (or lower) than.........?
+
+
+
+
+
+ 
+homework
+
+
+we recommend that you practice with the following
+    exercises: 11.1-11.3,11.5,11.7-11.13,11.17-11.24,11.26,11.31-11.34,11.36,11.38,11.41,11.42.
+the following exercises require the use of random
+    number tables, applet, or other software: 11.6,11.29,11.44
+     
+your instructor might assign specific homework to be
+    graded
+
+
+
+
+ 
+in the lab
+    chapter 11
+
+
+ideas
+    that can be used in the stat cave for sampling distribution
+1) a 'hands on' introduction to sampling distributions 
+    intsamdist.doc
+    it uses the worksheet sampmeanspop.mtw and applets from the web
+2) a lab to
+    introduce step by step the ideas related to sampling distribution.  
+           the file with the population to be
+    used in this lab is in agesmoke.mtw 
+       the program to
+    do the simulations in the lab samdismp.mtb 
+
+3) applets in the www 
+   a) rice university lab
+    to do simulations and observe the distribution of the sample mean 
+   b) applet from u. berkeley to
+    understand the law of large
+    numbers 
+   c) an applet from
+    the rossman & chance collection that randomly
+    selects words from the gettysburg address and depicts the sampling
+    distribution of a categorical (noun or not noun) and a quantitative (length
+    of word) variable 
+ 
+ http://statweb.calpoly.edu/chance/applets/gettysburgsample/gettysburgsample.html
+
+4) using applets in the cd.
+explore the law of large numbers
+    applet from (statistical applets)
+    on the bps4e cd  this applet simulates rolling die/dice and could be
+    used for the law of large numbers
+http://statweb.calpoly.edu/chance/applets/gettysburgsample/gettysburgsample.html
+
+
+
+
+
+    in the classroom
+    chapter 11
+
+
+
+    a set of 10 multiple choice questions to review the topic of sampling
+    distribution of a mean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+#top
+of the document
+ 
+
+
+
+ chapter
+  12 
+binomial distribution
+
+
+
+
+
+    skills in
+     chapter 12
+
+
+
+after studying this chapter, you should:    
+
+know what
+         type of situations is that you can apply the binomial distribution
+         to  ('binomial setting')
+be able to
+         use the binomial table to answer simple binomial probability
+         problems 
+know the
+         binomial mean and standard deviation
+
+
+
+
+
+ 
+
+
+
+
+
+    in the classroom
+
+
+these
+    activities can be worked in the classroom, no computer is needed.
+ 
+binomial
+    tables  n=2...9    n=10...20
+
+1) list of additional problems on binomial distribution 
+       
+2)
+    more problems
+    on the application of probability models
+ 
+ 
+
+
+
+
+
+
+
+
+homework
+
+
+ here
+    is a one page introduction to the binomial distribution xxxx
+we recommend that you practice with the following exercises:
+    1,2,4,6,8,12,13,15-19,21,23,24,27-29,34
+your instructor might assign specific homework to be graded
+
+
+
+
+
+in
+    the lab
+    chapter 12
+
+
+ideas that can be used in the stat cave for
+    binomial distribution
+
+1) how to create a with minitab using the frogs
+    story:  frogsbinomial.doc 
+this example prepares the ground for an easy
+    introduction of the idea of test of hypothesis.
+ 
+2)
+a set of 3 questions, applying binomial probabilities, that help us
+    to understand that events considered 'rare' are not necessarily rare. 
+
+
+
+   
+
+
+
+ 
+#top
+of the document
+ 
+
+
+
+ chapter
+  13
+introduction to inference
+
+
+
+
+
+    skills in
+     chapter 13
+
+
+after
+    studying this chapter, you should:   
+    
+
+know how to
+         calculate and interpret confidence intervals for the population mean
+have very
+         clear the meaning of 'confidence'
+understand
+         how the width of the confidence interval and the 'margin of error'
+         depend on sample size, variability and confidence
+be able to
+         find the appropriate sample size knowing the standard deviation of the
+         population and given the desired confidence and margin of error
+be aware that
+         the 'margin of error' only accounts for the 'sampling error' (the fact
+         that not all the element of the population are in the sample) , it
+         does not account for errors in the design and implementation of
+         the survey such as undercoverage or low
+         response rate.
+
+
+
+
+
+
+
+
+
+
+homework
+     
+
+
+we
+    recommend that you practice with the following exercises: 1,2,4,5,7,9-11,14,20-29,31,33,37,38,40,41,44,46,50,51
+your instructor might assign specific homework to be graded
+
+
+
+
+
+    in the classroom
+    chapter 13
+
+
+ class summary: an introduction to the
+    ideas of inference using the frogs example.  frogsbinomial.doc
+
+    a set of 10 multiple choice questions about test of hypothesis and
+    confidence intervals for the mean.  actinfmean.doc
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+in
+    the lab 
+    chapter 13
+
+
+ideas
+    that can be used in the stat cave for confidence intervals
+
+1) using applets to understand the
+    meaning of confidence 
+2) using
+    applets in the cd. explore the confidence interval applet from (statistical applets) on the bps4e
+    cd  the
+    applet simulates  the total number of samples and number that
+    "hit" (i.e., confidence interval did contain µ).
+     
+
+
+
+
+
+
+ 
+#top
+of the document
+ 
+
+
+
+chapter
+  14 
+    thinking about inference
+
+
+
+
+
+skills in 
+    chapters 13 & 14
+
+
+after studying these chapters, you should:    
+
+be able to
+         identify and write the null and alternative hypotheses in a given
+         story
+know how to
+         perform a test of hypotheses about the population mean 
+be able to
+         make a decision about the null hypothesis based on the p-value and
+         to  interpret the value of the p-value
+be familiar
+         with the basic vocabulary of hypothesis testing (one-sided & two-sided
+         hypothesis, test statistic, p-value, statistical significant,
+         significance level)
+know the
+         connection between a test of hypothesis and a confidence interval
+be aware of the difference between statistical
+         significance and practical significance
+
+
+
+
+
+
+
+
+
+ 
+ homework
+    chapters 13 & 14
+
+
+we
+    recommend that you practice with the following exercises:
+    1-9,12-20,22,24,26,27,30,31,34,35
+your instructor might assign specific homework to be graded
+ 
+
+
+
+ 
+
+
+
+
+in
+    the lab chapter 14
+
+
+ideas that can be used in the stat cave for test of
+    hypothesis
+
+the new ducks story: 
+    introduces the ideas of hypothesis testing, shows how to do it using the
+    exact (binomial) and approximate (normal) method by hand and using minitab.
+    it covers also the material of chapter 18
+
+
+
+
+
+
+
+
+
+
+
+
+    in the classroom
+    in chapter 14
+
+
+a
+    worksheet to introduce the ideas of testing hypothesis based on the
+    binomial distribution
+ test of hypothesis (the ducks story)
+
+    a set of 10 multiple choice questions about test of hypothesis and
+    confidence intervals for the mean: actinfmean.doc.
+
+
+
+
+
+
+ 
+#top of the
+document
+ 
+
+
+
+   
+ 
+
+
+chapter
+  15
+part
+  ii review
+review
+  the topics from chapters 8 to 14.
+we
+  recommend that you practice with the following exercises: 
+
+
+
+ 
+#top
+of the document
+ 
+
+
+
+ chapter
+  16 
+  inference about the
+  population mean
+
+
+
+
+
+skills chapter 16
+
+
+after
+    studying this chapter, you should:   
+
+have an idea of what is
+         the t-distribution and its relationship to the normal distribution
+the necessary
+         conditions to apply the t-test and t-confidence interval
+know what
+         the standard error is
+know how to perform and interpret the results of a
+         one sample t-test
+know  to perform and
+         interpret the results of matched pairs  t-test
+be able to calculate
+         and interpret a t-confidence interval
+be aware of the
+         robustness of the t-procedures
+
+
+
+
+
+ 
+ homework
+    chapters 16
+
+
+we recommend that you practice with the following exercises:  (when
+    possible use minitab to
+    solve.) 1,2,6,7,10,13-17,19-21,27,31-33,39-41,43
+ 
+     
+
+
+
+
+ 
+  
+ 
+
+
+
+
+    in the lab in chapter 16
+
+
+a lab
+    on inference for the mean based on 4 exercises from the book. it reviews
+    test of hypothesis and confidence intervals for the population mean , both
+    when we know sigma and when we don't know it (including matched pairs)
+ lab
+    inference
+it uses the data files   boneloss.mtw, redwine.mtw  and  genvsref.mtw 
+
+     
+
+
+
+
+
+in the classroom 
+    chapter 16
+
+
+
+
+
+
+
+
+chapter 17 
+two-sample problems#top
+of the document 
+ 
+
+
+
+ chapter
+  18 
+inference about a population proportion
+ 
+
+
+
+
+    skills in chapter 18
+
+
+ after
+    studying this chapter, you should :  
+
+   be
+         informed about the sampling distribution of the sample proportion
+ know how to calculate a confidence interval for
+         the population proportion (normal approximation) and be aware of its limitations
+         and possible ways of handle those limitations
+ be able to calculate the appropriate sample size
+         when the purpose of the study is to estimate the population
+         proportion, given the desired confidence and precision (margin of
+         error)
+ know how to perform tests of hypotheses about a
+         population proportion
+
+
+
+
+
+
+
+
+   
+  homework
+    chapter 18
+
+
+we
+    recommend that you practice with the following exercises: 1-5,8,9,11-19,20,21,23,25-28,31,33,34,35,37
+ 
+
+your instructor might assign specific homework to be
+    graded
+
+
+
+
+  
+ in the lab
+    chapter 18
+
+
+1) the
+    new ducks story: introduces the ideas of hypothesis testing, shows how to
+    do it using the exact and approximate method by hand and using
+    minitab.  
+ 
+2) additional
+    problems
+     
+
+
+
+
+
+
+
+
+
+in the classroom
+    chapter 18
+
+
+1)
+    a worksheet to introduce the ideas of testing hypothesis (it also shows
+    what to do in case the assumptions needed to use the normal model are not
+    attained) test of hypothesis (the ducks story) (same as posted in chapter
+    18.)
+ 
+2)
+    examples of testing a population proportion: testing_proportion.pdf
+ 
+3)
+    a guide to review inference for proportions by solving exercises from the
+    book rwinfp.doc
+ 
+4)
+    a set of 10 multiple
+    choice questions to review confidence intervals and tests of
+    hypotheses for proportions.
+
+
+
+
+
+
+ 
+
+
+
+   
+ 
+
+
+chapter
+  20
+review
+ 
+1. addit_test_ci_probs.pdf
+ 
+2.
+   a
+  review lab for all the chapters on   testing
+  hypothesis , it uses the data files  sulfur.xls  
+  and power.xls 
+  (excel files can be read from minitab) 
+ 
+
+
+
+ 
+#top
+of the document
+ 
+
+
+
+chapter
+  21
+chi-square
+  test
+
+
+
+
+
+    skills in chapter 21
+
+
+ after studying
+    this chapter, you should :  
+        
+    know how to produce a two
+    way table from raw data for two categorical (or categorized) variables
+        
+    be able to get marginal and
+    conditional distributions from a two way table 
+        
+    feel comfortable
+    interpreting 'row and column percentages' (conditional distributions) and
+    compare groups based on that interpretation 
+        
+    an association or comparison
+    that holds for all of several groups can reverse direction when the data
+    are combined to form a single group. this reversal is called simpson's
+    paradox.
+        
+    know how to write the null
+    and alternative hypotheses given a research question about independence
+        
+    know how the expected values
+    are calculated in a test of independence and what they mean
+        
+    understand the formula of
+    the chi-square statistic
+        
+    be able to fully interpret
+    the results (minitab output) of a chi-square test
+
+
+
+
+ 
+ 
+
+
+
+ 
+    homework
+    chapter 21
+
+
+here
+    you will find an introduction to the chisquare test chisq.doc
+we recommend that you practice with the following exercises: (when
+    possible use minitab to solve.) 1,2,4-9,13,15-18,21-23,27,31,35,37-39
+ 
+ 
+your instructor might assign specific homework to be graded
+
+
+
+
+   
+in the lab
+    chapter 21
+
+
+ideas
+    that can be used in the stat cave for the chi-square test
+ 
+1)
+    lab on test of independence with the drug survey example. data are in drugsurv.mtw
+2) labchisq.doc is
+    a lab that includes the goodness of fit test and the test of independence.
+3)
+    use the titanic data (dawson): produce two-way tables and chi-square tests
+    to find out if
+   
+    a) gender made a difference in survival 
+   
+    b) class made a difference in survival
+ 
+
+
+
+
+
+
+
+
+
+
+   
+in the classroom
+    chapter 21
+
+
+no
+    computer is needed. 
+tests of
+    independence & goodness of fit   a worksheet that
+    includes presentation of the topic and computer output and shows how
+    calculations are done by hand and asks for interpretations.
+
+
+
+
+readings
+    for instructors
+
+
+robert j. macg. dawson   (1995 the
+    "unusual episode" data revisited journal of statistics education
+    v.3, n.3 )
+
+
+
+
+
+
+
+
+ 
+chapter 6 
+two-way tables
+
+
+
+
+skills in 
+  chapter 6
+
+
+after studying this chapter, you should:
+
+know how to produce a two way table from raw data
+       for two categorical (or categorized) variables
+be able to get marginal and conditional
+       distributions from a two way table 
+feel comfortable interpreting 'row and column
+       percentages' (conditional distributions) and compare groups based on
+       that interpretation 
+an association or
+       comparison that holds for all of several groups can reverse direction
+       when the data are combined to form a single group. this reversal is
+       called simpson's paradox.
+
+
+
+
+
+ 
+  homework
+  for chap. 6
+
+
+we recommend that you practice with the following
+  exercises: 6.1-6.3,6.5,
+  6.7-6.18,6.24,6.28,6.30,6.31
+simpson's paradox exercises: 6.7,6.8,6.30,6.31
+
+your instructor might assign specific homework to be graded.
+
+
+
+
+
+ 
+in the lab
+  chapter 6
+
+
+ideas that can
+  be used in the stat
+cave for two-way tables
+1) lab drugs-two
+  way. we work again with the file
+drugsurv.mtw (data from drug and alcohol survey in a state
+  for the midwest) now trying to compare
+  females and males and to observe associations between variables. 
+
+2) you can produce your own two-way tables for
+  gender or class and survival with the titanic data. did the same percent of
+  males and females survived? did the same percent of women survive in the
+  first class than in the third class? minitab: atitanic.mtw
+
+  titanic data: gender, class, and survival for the titanic adult passengers
+  (crew not included).  
+ 
+3) a study was
+  conducted to see if there was an increased risk of contracting hepatitis c
+  associated with having a tattoo. tattoos (source: intro stats by de veax & velleman 2004)
+ 
+4)  a large
+  sample survey interviewed a random sample of young adults in 2000 and 2001.
+  one questions asked was, where do you live now? that is, where do you stay
+  most often? where do
+  college-age young adults live?  (source:
+  the basic practice of statistics)
+ 
+
+
+
+
+readings for instructors
+
+
+robert j. macg.
+  dawson   (1995 the "unusual episode" data revisited
+  journal of statistics education v.3, n.3  )
+
+
+
+
+  #top of the document
+ 
+
+
+
+  applets & others
+u. berkeley
+  applets 
+rice virtual lab in
+  statistics 
+rossman chance applet collection 
+university of
+  illinois applets  
+university of south
+  carolina applets 
+random numbers
+
+
+references
+ for students: 
+'against all odds ' videos
+a glossary  of statistical terms (u. berkeley) 
+rice university hypertext
+  on-line
+  
+journals
+  for instructors: 
+
+
+journal of statistical education
+teaching
+  statistics
+statistics
+  education research journal
+chance  (index,
+
+links
+  to other web pages for instructors
+
+
+http://www.causeweb.org
+http://ore.gen.umn.edu/artist/pilots/
+
+
+
+
+
+
+data 
+journal of
+  statisical education data archive 
+data and story library 
+case
+  studies from the rice university lab 
+chance data
+  sets
+http://www.causeweb.org
+
+
+ careers
+  in statistics 
+
+careers in statistics  
+american statistical association web page
+
+
+
+
+  
+
+
+
+active stats 
+
+active stats is a multimedia instruction
+  software,  that came with the
+  previous textbook.  
+  it is intended for study at home and you might find it  useful to study in an interactive way at
+  your
+own pace. among other features it has videos
+  that
+you can activate by clicking on icons, and
+  exercises that you can practice with. 
+if
+  you own one, here 
+you
+  will find hints on how to use it.
+
+
+installing activestats  : 
+
+insert the cd-rom that comes with the book in your
+       computer
+have at hand the activstats quick start card, you
+       will need the number there
+use windows explore to click on the active stats icon
+
+the first time select
+  new student, enter your name, the folder in your computer where you want to
+  keep track your results and enter the number when asked. where 'no bundle'
+  appears as option, use the arrow to scroll and select the option moore who is
+  the author  of our textbook. 
+now  you can get familiar with active stats by going
+  through the introduction and section 2.1 defining data. 
+below,
+  in the material for each chapter, you will find a reference to active stats.
+
+
+
+ 
+
+
+
+

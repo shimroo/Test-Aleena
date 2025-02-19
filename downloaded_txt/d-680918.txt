@@ -1,0 +1,696 @@
+
+deprecated:  return type of requests_cookie_jar::offsetexists($key) should either be compatible with arrayaccess::offsetexists(mixed $offset): bool, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\cookie\jar.php on line 63
+
+deprecated:  return type of requests_cookie_jar::offsetget($key) should either be compatible with arrayaccess::offsetget(mixed $offset): mixed, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\cookie\jar.php on line 73
+
+deprecated:  return type of requests_cookie_jar::offsetset($key, $value) should either be compatible with arrayaccess::offsetset(mixed $offset, mixed $value): void, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\cookie\jar.php on line 89
+
+deprecated:  return type of requests_cookie_jar::offsetunset($key) should either be compatible with arrayaccess::offsetunset(mixed $offset): void, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\cookie\jar.php on line 102
+
+deprecated:  return type of requests_cookie_jar::getiterator() should either be compatible with iteratoraggregate::getiterator(): traversable, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\cookie\jar.php on line 111
+
+deprecated:  return type of requests_utility_caseinsensitivedictionary::offsetexists($key) should either be compatible with arrayaccess::offsetexists(mixed $offset): bool, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\utility\caseinsensitivedictionary.php on line 40
+
+deprecated:  return type of requests_utility_caseinsensitivedictionary::offsetget($key) should either be compatible with arrayaccess::offsetget(mixed $offset): mixed, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\utility\caseinsensitivedictionary.php on line 51
+
+deprecated:  return type of requests_utility_caseinsensitivedictionary::offsetset($key, $value) should either be compatible with arrayaccess::offsetset(mixed $offset, mixed $value): void, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\utility\caseinsensitivedictionary.php on line 68
+
+deprecated:  return type of requests_utility_caseinsensitivedictionary::offsetunset($key) should either be compatible with arrayaccess::offsetunset(mixed $offset): void, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\utility\caseinsensitivedictionary.php on line 82
+
+deprecated:  return type of requests_utility_caseinsensitivedictionary::getiterator() should either be compatible with iteratoraggregate::getiterator(): traversable, or the #[\returntypewillchange] attribute should be used to temporarily suppress the notice in d:\home\greenlounge.tv\wwwroot\wp-includes\requests\utility\caseinsensitivedictionary.php on line 91
+
+
+
+
+
+
+
+greenloungetv – toyota approved digital signage for toyota dealers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+home
+about
+process
+kiosk
+skills
+testimonials
+contact
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+watch the video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+increase awareness. increase sales.
+
+
+
+
+
+introducing greenloungetv, a toyota-approved digital signage for toyota dealers. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about
+digital signage has truly become the "sign of the times"! greenloungetv digital signage is a platform that enables you to target your audience and capture their attention, exploiting the power of rich, digital content to increase the impact of your message. the flexibility of digital signage makes it especially useful in your dealership to effectively capture customers' attention in a way that was not possible with traditional media. greenloungetv digital signage allows you to reach the right people at the right time with the right message.
+increase sales using greenloungetv digital signage by engaging your customers in the lounge area with service, parts and accessories advertising content.
+ 
+value proposition
+• turnkey solution
+• no software training, no content management
+• request custom dealer ads to display via email or call us directly
+• produce and display ads within 24 hours
+• it's affordable
+ 
+a simple concept
+use the cloud to push advertising content to toyota dealers.
+
+
+
+
+
+• reinforce toyota's brand and product messaging campaign
+• inform, educate and engage
+• opportunity for influence, "right-moment" marketing
+• save costs in printing, packaging, fulfillment and shipping on most national and regional pop materials
+• reduce carbon footprint – toyota's green initiative
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. discovery meeting 
+discuss number of lcd panels, screen sizes and install locations.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. schedule installation 
+once hardware and installation costs have been approved, our team and your dealership it professional will coordinate either in person or remotely for software installation and tests.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. post content 
+once we have all systems working properly, we will begin posting content to your software playlist which is installed in your windows pc.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. monthly update 
+we will send a lists of any new toyota ads for review each month to post in your lcd panels. you may also provide us with your own dealership ads that you would like to include in the playlist.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interactive kiosk
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we got skills!
+
+
+
+
+
+
+
+
+
+
+with a unique mixture of talent; equal parts design, print and motion graphics. we bring creative vision and technical expertise as vital elements to any creative projects.
+greenloungetv is a digital signage solution for toyota dealers — created and managed by canon design group (cdg), an approved business partner of toyota motor north america. cdg has produced many creative marketing materials for toyota accessories, parts and service, fleet, certified used vehicles, toyota rent a car and other toyota business units.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+graphic design  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+motion design  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+video production & editing  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interactive mobile & kiosks  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what people say about us
+
+
+
+
+
+our clients love us! 
+
+
+
+
+
+
+
+
+
+
+
+“greenloungetv integrates with our monthly marketing programs very well.” 
+
+erik paulson 
+								vice president & general managermichael's toyota of bellevue (bellevue, wa)							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“it’s great to get our special ads out quickly and efficiently to our in-house customers – helps reinforce our monthly mailers as well.” 
+
+rick depke 
+								service directorlarry h. miller toyota (peoria, az)							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“with microsoft in our backyard, we wanted a state-of-the art dynamic panels in our parts & service area to get our message out, greenloungetv provides that solution as well as the creative ads they produce.” 
+
+dave scott 
+								parts managermichael's toyota of bellevue (bellevue, wa)							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“definitely a turnkey solution with very little to no i.t. management time.” 
+
+lex little 
+								i.t. & networkinglarry h. miller toyota (peoria, az)							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+get in touch
+
+
+
+
+
+for pricing information or to schedule a demo, please contact us today.toll-free: 877-972-5383   direct: 623-225-9004   fax: 623-223-7217 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+invalid email
+
+
+
+
+
+
+
+
+
+
+
+
+send your message
+
+
+
+message failed. please try again.
+
+thanks for your message! we’ll be in touch soon.
+
+
+
+
+
+greenloungetv
+1400 preston road suite 491
+plano, texas  75093
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+copyright © 2025 canon design group | site by metaglyphics.com
+ 
+
+
+
+
+scroll to top
+
+
+
+
+
+
+
+
+
+
+
+

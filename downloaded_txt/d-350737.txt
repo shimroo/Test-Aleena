@@ -1,0 +1,114 @@
+
+conducting behavioral and psychological research over the internet | r. chris fraley
+
+
+
+
+
+
+ 
+ 
+
+
+how 
+      to conduct behavioral research over the internet: a beginner's guide to 
+      html and cgi/perl
+
+internet resource 
+      for the book by r. chris fraley, published by guilford 
+      press 
+
+
+
+
+chapter 
+      overviews and demonstrations
+      learn more about the topics covered by the book and see live demonstrations 
+      of the exercises
+downloads
+        download the html, cgi/perl, and image files used in the book
+faq
+        read answers to frequently asked questions about conducting research online
+ discussion 
+        forum
+        share ideas, scripts, and questions with others on the online forum. [temporarily down]
+order 
+        the book
+        order a copy of the book via the guilford 
+        press 
+
+resources 
+        and links
+        links to programs that may be of interest to online researchers
+ 
+ 
+
+  
+
+
+overview 
+        of the book 
+
+        during the last few years, an increasing number of behavioral scientists 
+        have expressed an interest in using the world wide web as a tool for conducting 
+        psychological research. it is easy to understand the appeal of using "the 
+        web" for research purposes. just about any study that can be conducted 
+        via traditional pencil-and-paper methods can be implemented on-line, but 
+        without the hassles of explicit transcription or data entry, the scheduling 
+        of participants, and paper costs. moreover, behavioral scientists who 
+        use computers in their experiments for manipulating visual or narrative 
+        stimuli, randomizing trials, or creating customized assessments can easily 
+        implement their studies on-line. finally, although researchers can use 
+        the web simply as an efficient way to collect data from undergraduates 
+        in their departmental subject pools, the web allows us to open our laboratory 
+        doors to participants from across the world.
+
+        unfortunately, there are very few resources available to the behavioral 
+        scientist who wishes to create on-line research studies. some books provide 
+        excellent reviews of the many tools that can be used for internet research, 
+        but do not serve as a useful guides for how to program on-line studies. 
+        other books provide wonderful introductions to cgi programming--a technique 
+        that is necessary for most kinds of on-line research--but are not written 
+        with the research scientist in mind. 
+
+        my objective in writing this book was to create a basic, step-by-step 
+        guide for behavioral scientists who are interested in using the internet 
+        to conduct empirical research. this book has been written to be a one-stop 
+        shop, if you will, for moving from square one to the point at which the 
+        reader can create dynamic and interactive studies online. with the help 
+        of this book, any researcher with access to nothing more than a desktop 
+        computer and an internet connection should be able to conduct on-line 
+        research within two weeks or less. 
+
+        the book begins by showing the reader how to obtain access to a web server 
+        and design rudimentary web pages in html. once the reader has mastered 
+        these basic skills, the book introduces cgi programming in perl. cgi programs 
+        are designed to run on a web server, and, unlike standard html web pages, 
+        these programs can be used to create a dynamic, interactive web experience 
+        for the user. by using cgi programs, researchers can (a) randomize the 
+        presentation order of stimuli, (b) randomly assign subjects to conditions, 
+        (c) automatically save response data to a file for data analysis, (d) 
+        provide subjects with customized feedback based on their responses, (e) 
+        exploit both text and image-based stimuli, (f) measure reaction times, 
+        and (e) employ complex branching operations within a project. chapters 
+        5 through 14 of the book teach the reader how to accomplish these things 
+        through the use of detailed examples. each chapter presents one or two 
+        examples on how to implement a "generic" research technique (i.e., random 
+        assignment), explains the code in depth, and describes how the code can 
+        be tailored to different applications. the final chapter of the book reviews 
+        some of the advantages and disadvantages of web research. 
+
+        the intended audience for this book is anyone who currently conducts research 
+        in the behavioral sciences. although many of the techniques and applications 
+        i discuss focus on psychological applications, non-psychologists should 
+        have no trouble understanding how these tools can be used to serve their 
+        purposes. 
+r. chris fraley | 
+        http://www.psych.uiuc.edu/~rcfraley/
+
+
+
+
+
+ 
+  

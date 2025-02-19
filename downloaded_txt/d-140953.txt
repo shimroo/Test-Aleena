@@ -1,0 +1,647 @@
+
+
+
+
+
+
+
+
+	professional gui tools and solutions for mfc & .net desktop applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home
+
+
+products
+
+
+purchase
+
+
+downloads
+
+
+tech support
+
+
+company
+
+ 
+
+
+
+
+prof-uis
+
+
+
+
+elegant ribbon
+
+
+
+
+elegant grid
+
+
+
+
+frame features
+
+
+
+
+
+
+
+
+online store
+
+
+
+
+subscription renewal
+
+
+
+
+resellers
+
+
+
+
+
+
+
+
+mfc downloads
+
+
+
+
+.net downloads
+
+
+
+
+white papers
+
+
+
+
+
+
+
+
+prof-uis
+
+
+
+
+elegant ribbon
+
+
+
+
+elegant grid
+
+
+
+
+frame features
+
+
+
+
+feedback
+
+
+
+
+
+
+
+
+about us
+
+
+
+
+what's new
+
+
+
+
+our customers
+
+
+
+
+testimonials
+
+
+
+
+contact us
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+feature tour
+
+
+
+
+samples
+
+
+
+
+purchase benefits
+
+
+
+
+version history
+
+
+
+
+license agreement
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+feature tour
+
+
+
+
+samples
+
+
+
+
+version history
+
+
+
+
+license agreement
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+feature tour
+
+
+
+
+samples
+
+
+
+
+version history
+
+
+
+
+license agreement
+
+
+
+
+
+
+
+
+overview
+
+
+
+
+feature tour
+
+
+
+
+samples
+
+
+
+
+version history
+
+
+
+
+license agreement
+
+
+
+
+
+
+
+
+general forum
+
+
+
+
+support forum
+
+
+
+
+feature articles
+
+
+
+
+faq
+
+
+
+
+
+
+
+
+support forum
+
+
+
+
+feature articles
+
+
+
+
+faq
+
+
+
+
+
+
+
+
+support forum
+
+
+
+
+feature articles
+
+
+
+
+faq
+
+
+
+
+
+
+
+
+support forum
+
+
+
+
+faq
+
+
+
+
+
+
+site map login
+ / 
+register
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 
+
+
+
+
+home
+
+
+
+
+                             
+                        
+
+
+
+
+
+
+
+                     
+
+
+
+
+our customers
+ 
+
+more customers...
+latest news 
+may 28, 2020/prof-uis 3.4.0.9 released!
+prof-uis 3.4.0.9 released! ...
+may 05, 2019/prof-uis 3.4.0.8 released!
+prof-uis 3.4.0.8 released! ...
+
+
+subscribe
+to receive prof-uis news, type in your e-mail below:
+
+subscribe / unsubscribe
+
+
+
+
+
+
+
+
+mfc
+prof-uis
+prof-uis is an easy-to-use mfc extension library that enables you to deliver windows applications with a professional 
+       		and user-friendly interface. more than 200 thoroughly tested and documented c++ classes, templates and interfaces will 
+       		help you take the time  and complexity out of incorporating rich and up-to-date gui facilities in your projects.
+       		[...]
+
+
+ribbon ui
+grids
+
+
+rich set of themes
+report grid
+
+
+skinable ui
+property grid
+
+
+customizable ui
+image editing
+
+
+dynamic control bars
+ole automation
+
+
+tabbed page containers
+real-life samples
+
+
+enhanced controls
+39 languages
+
+
+
+
+
+
+latest samples
+
+
+rich contentdemonstrates the rich capablities of the html everywhere engine.
+prof-uiscontrolsillustrates the primary controls including toolbars and the menu bar in the dialog window, user-defined toolbar buttons.
+
+
+ 
+
+
+formula griddemonstrates the features of  the formula grid control like on-the-fly formula evaluation, syntax highlighting formula editor with an auto complete popup list box and more.
+geo controlsdemonstrates the geographic longitude and latitude input controls with on-the-fly customizable options and behavior.
+
+
+latest articles and faq
+
+
+            [may 14, 2013]
+
+size control introduction
+
+
+            [nov 25, 2009]
+
+how to turn on/off sorting for category and property names in the property grid?
+
+
+            [may 25, 2009]
+
+any of mfc and/or prof-uis projects cannot be compiled in visual studio 2010 beta 1. what's wrong?
+
+
+            [may 15, 2008]
+
+how to merge a group of grid cells?
+
+
+
+
+
+.net
+elegant ribbon
+
+
+
+elegant ribbon is a suite of windows forms controls that allows you quickly and easily provide your application with a ribbon user interface like in microsoft office 2013/2010/2007. it is written in 100% managed c# and is cls compliant [...]
+
+
+
+ribbon ui
+context-sensitive controls
+
+
+adaptive layout
+rich set of themes
+
+
+pop-up menus
+command interface
+
+
+rich set of controls
+keytips and screentips
+
+
+ribbon galleries
+contextual tabs
+
+
+wysiwyg designer
+guidelines compliant
+
+
+latest articles and faq
+
+
+            [aug 24, 2010]
+
+using a backstage view
+
+
+            [apr 02, 2010]
+
+how to select a tab or get a selected tab in the ribbon programmatically?
+
+
+            [feb 10, 2010]
+
+how to make controls in a ribbon group collapse into a single column?
+
+
+            [nov 25, 2009]
+
+how to load a visual theme?
+
+
+latest samples
+
+
+navigation barillustrates how you can combine similar items in vertically stacked groups so that the user can easily navigate through and access these items.
+ribbon uidemonstrates most of run-time and design-time features of the ribbon control. this includes automatic scaling, adaptive layout, windowless controls, contextual tabs, themes, rtl layout and more.
+
+ 
+
+form controlsdemonstrates how you can use elegant ribbon controls on a form. the sample also allows you to see what the controls look like in rtl layout mode and with different themes.
+image viewerallows you to load images locally or using the google image search web service as well as to view and manipulate loaded images. the sample illustrates how to use galleries and contextual tabs and demonstrates some advanced techniques.
+
+
+
+
+
+
+
+testimonials
+
+
+
+have i mentioned how awesome your product [elegant ribbon] is lately?  i know i can be critical at times but i want you guys to know without your control my product would be nothing.  there are still a few things that i need but your product is fantastic.  my product could not look any better than it does.  i will be sending you guys a beta of my software in a few weeks.  you might use it because it is for developers.  once it is finished i will give you guys a few license keys for your use.  i really appreciate you guys and the changes you have made for me." chris herrington, css, inc, usa
+
+
+
+"prof-uis is an excellent professional software library that let’s the developer have the focus on the functionality rather the user interface. in combination with the perfect technical support it is unbeatable. if you ever want to sell your software product prof-uis library is a must. i’m looking forward to the next version of this outstanding software." roland ehlert, maxcrc gmbh, germany
+
+
+
+"thanks guys, renewing was a no-brainer for us.  we are definitely happy with our decision to go with prof-uis.  after two long years of effort on our new product, the quality and reliability of prof-uis along with your excellent support allowed us to concentrate on the things we do best.  keep up the good work!" bob sabiston, canfit-x software architect, canada
+
+
+
+"i am also impressed as to how easy it was to create a custom cell type.  i had originally set about creating one from scratch that would provide a combo box that listed line drawing styles (solid, dashed, dot, etc) as actual lines.  but have since learned that i could just derive my custom type from cextgridcellcombobox and override the onpopuplistboxdrawitem and onpainttext methods to handle the drawing.  so what had started out being a 1.5 day project to create it from scratch, due to learning what had to be included in the class, turned into a ½ hour project." marty barringer, senior principal engineer, usa
+
+
+more testimonials...
+
+
+
+
+
+
+
+
+                    © 2002-2025
+                    foss software, inc. all rights reserved.
+
+
+feedback
+
+                            terms of use
+privacy policy
+contact us
+
+
+
+
+
+
+
+
+
+
+
+

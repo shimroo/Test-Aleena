@@ -1,0 +1,2007 @@
+
+
+
+mile zero ::
+  this space intentionally left blank  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        mile
+        zero
+      
+
+this space intentionally left blank
+
+
+july 18, 2024
+filed under: journalism»data
+
+a letter to fellow data journalists about "ai"
+
+
+
+            
+we need to talk, friends. things have gotten weird out there, and you're not dealing with it well at all.
+
+
+
+i'm in a lot of data journalist social spaces, and a couple of years ago i started to notice a lot of people 
+starting to use large language models for things that, bluntly, didn't make any sense. for example, in response 
+to a question about converting between json and csv, someone would inevitably pipe up and say "i always just ask 
+chatgpt to do this," meaning that instead of performing an actual transfer between two fully machine-readable 
+and well-supported formats, they would just paste the whole thing into a prompt window and hope that the 
+statistics were on their side.
+
+
+
+i thought this was a joke the first time i saw it. but it happened again and again, and gradually i realized 
+that there's an entire group of people — particularly younger reporters — who seem to genuinely 
+think this is a normal thing to do, not to mention all the people relying on llm-powered code completion. amid 
+the hype, there's been a gradual abdication of responsibility to "chatgpt said" as an answer.
+
+
+
+the prototypical example of this tendency is simon willison, a long-time wanderer across the line between tech 
+and journalism. willison has produced a significant amount of public output since 2020 "just asking questions" 
+about llms, and wrote a post in the 
+context of data journalism earlier this year that epitomizes both the trend of adoption and the dangers that 
+it holds:
+
+
+ he demonstrates a plugin for his datasette exploration tool that uses an llm to translate a question in 
+english into a sql query. "it deliberately makes the query visible, in the hope that technical users might be 
+able to spot if the sql looks like it's doing the right thing," he says. this strikes me as wildly optimistic: 
+since joining chalkbeat, i write sql on a weekly basis, collaborating with a team member who has extensive 
+database experience, and we still skip over mistakes in our own handwritten queries about a third of the 
+time.
+
+ generally, the queries that he's asking the chatbot to formulate are... really simple? it's all select 
+x, y from table group by z in terms of complexity. these kinds of examples are seductive in the same way 
+that front-end framework samples are: it's easy to make something look good on the database equivalent of a 
+to-do app. they don't address the kind of architectural questions involved in real-world problems, which 
+(coincidentally) language models are really bad at answering.
+
+ to his credit, simon points out a case in which he tried to use an llm to do ocr on a scanned document, and 
+notes that it hallucinates some details. but i don't think he's anywhere near critical enough. the chatbot not 
+only invents an entirely new plaintiff in a medical disciplinary order, it changes the name from "laurie beth 
+krueger" to "latoya jackson" in what seems to me like a pretty clear case of implicit bias that's built into 
+these tools. someone's being punished? better generate a black-sounding name!
+
+ he uses text from a web page as an example of "unstructured" data that an llm can extract. but... it's not 
+unstructured! it's in html, which is the definition of structured! and it even has meaningful markup with 
+descriptive class names! just scrape the page!
+
+
+
+
+i really started to think i was losing my mind near the end of the post, when he uploads a dataset and asks it 
+to tell him "something interesting about this data." if you're not caught up in the ai bubble, the idea that any 
+of these models are going to say "something interesting" is laughable. they're basically the warm, beige gunk 
+that you have to eat when you get out of the matrix.
+
+
+
+more importantly, llms can't reason. they don't actually have opinions, or even a mental model of anything, 
+because they're just random word generators. how is it supposed to know what is "interesting?" i know that 
+willison knows this, but our tendency to anthropomorphize these interactions is so strong that i think he can't 
+help it. the eliza effect is a hell of a drug.
+
+
+
+i don't really want to pick on willison here — i think he's a much more moderate voice than this makes him 
+sound. but the post is emblematic of countless pitch emails and conversations that i have in which these tools 
+are presumed to be useful or interesting in a journalism context. and as someone who prides themself on 
+producing work that is accurate, reliable, and accountable, the idea of adding a black box containing a bunch of 
+randomized matrix operations in my process is ridiculous. that's to say nothing of the ecological impact that 
+they have in aggregate, or the fact that they're trained on stolen data (including the work of fellow 
+journalists).
+
+
+
+i know what the responses to this will be, particularly for people who are using copilot and other coding 
+assistants, because i've heard from them when i push back on the hype: what's wrong with using the llm to get 
+things done? do i really think that the answer to these kinds of problems should be "write code yourself" if a 
+chatbot can do it for us? does everyone really need to learn to scrape a website, or understand a file format, 
+or use a programming language at a reasonable level of competency?
+
+
+
+and i say: well, yes. that's the job.
+
+
+
+but also, i think we need to be reframing the entire question. if the problem is that the pace and management of 
+your newsroom do not give you the time to explore your options, build new skills, and produce data analysis on a 
+reasonable schedule, the answer is not to offload your work to openai and shortchange the quality of journalism 
+in the process. the answer is to fix the broken system that is forcing you to cut corners. comrades, you don't 
+need a code assistant — you need a union and a better manager.
+
+
+of course your boss is thrilled that you're using an llm to solve problems: that's easier than fixing the 
+mismanagement that plagues newsrooms and data journalism teams, keeping us overworked and undertrained. solving 
+problems and learning new things is the actual fun part of this job, and it's mind-boggling to me that 
+colleagues would rather give that up to the robots than to push back on their leadership.
+
+
+
+of course many managers are fine with output that's average at best (and dangerous at worst)! but why are people 
+so eager to reduce themselves to that level? the most depressing tic that llm users have is answering a question 
+with "well, here's what the chatbot said in response to that" (followed closely by "i couldn't think of how to 
+end this, so i asked the chatbot"). have some self-respect! speak (and code) for yourself!
+
+
+
+of course ceos and ceo-wannabes are excited about llms being able to take over work. their jobs are answering 
+e-mails and trying not to make statements that will freak anyone out. most of them could be replaced by a 
+chatbot and nobody would even notice, and they think that's true of everyone else as well. but what we do is not 
+so simple (google search and facebook content initiatives notwithstanding).
+
+
+
+if you are a data journalist, your job is to be as correct and as precise as possible, and no more, in a world 
+where human society is rarely correct or precise. we have spent forty years, as an industry niche, developing 
+what philip meyer referred to as "precision journalism," in which we adapt the techniques of science and math to 
+the process of reporting. i am begging you, my fellow practitioners, not to throw it away for a random token 
+selection process. organize, advocate for yourself, and be better than the warm oatmeal machine. because if you 
+act like you can be replaced by the chatbot, in this industry, i can almost guarantee that you will be.
+
+        
+
+          9:09 x 
+          permalink
+
+april 4, 2024
+filed under: tech
+
+spam, scam, scale
+
+
+
+            
+i got my first cell phone roughly 20 years ago, a nokia candybar with a color screen that rivaled the original 
+gba for illegibility. at the time, i was one of the last people my age i knew who had relied entirely on a 
+landline. even for someone like me, who resisted the tech as long as i could (i still didn't really text for 
+years afterward), it was clear that this was a complete paradigm shift. you could call anyone from anywhere 
+— well, as long as you were in one of the (mostly urban) coverage areas. it was like science fiction.
+
+
+
+today i almost never answer the phone if i can help it, since the only people who actually place voice calls to 
+me are con artists looking to buy houses that i don't actually own, political cold-calls, or recorded messages 
+in languages i don't speak. the waste of this infurates me: we built, as a civilization, a work of communication 
+infrastructure that was completely mind-boggling, and then abandoned it to rot apart in only a few short years.
+
+
+
+if you think that can't happen to the internet — that it's not in danger of happening now — you need 
+to think again. shrimp jesus is coming for us.
+
+
+welcome to the scam economy
+
+
+according to a 
+report from 404 media, the hot social media trend is a scam based around a series of ludicrous 
+computer-generated images, including the following subjects:
+
+
+
+...ai-deformed women breastfeeding, tiny cows, celebrities with amputations that they do not have in real life, 
+jesus as a shrimp, jesus as a collection of fanta bottles, jesus as sand sculpture, jesus as a series of ramen 
+noodles, jesus as a shrimp mixed with sprite bottles and ramen noodles, jesus made of plastic bottles and posing 
+with large-breasted ai-generated female soldiers, jesus on a plane with ai-generated sexy flight attendants, 
+giant golden jesus being excavated from a river, golden helicopter jesus, banana jesus, coffee jesus, goldfish 
+jesus, rice jesus, any number of ai-generated female soldiers on a page called “beautiful military,” a page 
+called everything skull, which is exactly what it sounds like, malnourished dogs, indigenous identity pages, 
+beautiful landscapes, flower arrangements, weird cakes, etc.
+
+
+
+
+these "photos," bizarre as they may be, aren't just getting organic engagement from people who don't seem 
+particularly discerning about their provenance or subject matter. they're also being boosted by facebook's 
+algorithmic feeds: if you comment on or react to one of these images, more are recommended to you. people who 
+click on the link under the image are then sent to a content mill site full of fraudulent ads provided through 
+google's platform, meaning that at least two major tech companies are effectively complicit.
+
+
+
+shrimp jesus is an obvious and deeply stupid scam, but it's also a completely predictable one. it's exactly what 
+experts and bystanders said would happen as soon as generative tools started rolling out: people would start 
+using it to run petty scams by producing mass amounts of garbage in order to trawl for the tiny percentage of 
+people foolish enough to engage. 
+
+
+
+this was predictable precisely because we live in a scam economy now, and that fact is inextricable from the 
+size and connectivity of the networked world. there's a fundamental difference between a con artist who has to 
+target an individual over a sustained period of time and a spammer who can spray-and-pray millions of e-mails in 
+the hopes that they find a few gullible marks. spam has become the business model: venture capitalists 
+strip-mine useful infrastructure (taxis and public transit, housing, electrical power grids, communication 
+networks) with artificial cash infusions until the result is too big to fail.
+
+big trouble
+
+
+it's not particularly original to argue that modern capitalism eats itself, or that the vc obsession with 
+growth distorts everything it touches. but there's an implicit assumption by a lot of people that it's the 
+money that's the problem — that big networks and systems on their own are fine, or are actually good. i'm 
+increasingly convinced that's wrong, and that in fact scale itself is the problem.
+
+
+
+dan luu has a post on the "diseconomies of scale" where he 
+makes a strong argument along the same lines, essentially stating that (counter to the conventional wisdom) big 
+companies are worse than small companies at fighting abuse, for a variety of reasons:
+
+
+ at a certain size they automate anti-fraud efforts, and the automation is worse at it than humans are.
+
+ moderation is expensive, and it's underfunded to maintain the profits expected from a multinational tech 
+company.
+
+ the systems used by these companies are so big and complicated that they actually can't effectively debug 
+their processes or fully understand how abuse is occurring.
+
+
+
+
+the last is particularly notable in the context of our lord of perpetual crayfish, given that large language 
+models and other forms of ml in use now are notoriously chaotic, opaque, unknowably complicated math equations.
+
+
+
+as we've watched company after company this year, having reached either market saturation or some perceived 
+level of user lock-in, pivot to exploitation (jacking up prices, reducing perks, shoveling in ads, or all three) 
+you have to wonder: maybe it's not that these services are hosts for scams. maybe at a certain size, a 
+corporation is functionally indistinguishable 
+from a scam.
+
+
+
+the conventional wisdom for a long time, at least in the us, was that big companies were able to find 
+efficiencies that smaller companies couldn't manage. but luu's research seems to indicate that in software, 
+that's not the case, and it's probably not true elsewhere. instead, what a certain size actually does is hide 
+externalities by putting distance — physical, emotional, and organizational — between people making 
+decisions (both in management and at the consumer level) and the negative consequences.
+
+
+
+corporate ai is basically a speedrun of this process: it depends on vast repositories of structured training 
+data, meaning that its own output will eventually poison it, 
+like a prion disease from cannibalism. but the fear of endless ai-generated content is itself a scam: running 
+something like chatgpt isn't cheap or physically safe. it guzzles down vast quantities of water, power, and human misery 
+(that ai "alignment" that people talk about so often is just 
+sparkling sweatshop labor). it can still do a tremendous amount of harm while the investors are willing to 
+burn cash on it, but in ways that are concrete and contemporary, not "paperclip optimizer" scaremongering.
+
+
+what if we made scale illegal?
+
+
+i know, that sounds completely deranged. but hear me out.
+
+
+
+a few years ago, writer/cartoonist ryan north said something that's stuck with me for a while:
+
+
+
+sometimes i feel like my most extreme belief is that if a website is too big to moderate, then it shouldn't be 
+that big. if your website is so big that you can't control it, then stop growing the website until you can.
+
+
+
+
+a common throughline of silicon valley ideology is a kind of blinkered free speech libertarianism. some of this 
+is probably legitimately ideological, but i suspect much of it also comes from the fact that moderation is 
+expensive to build out compared to technical systems, and thus almost all tech companies have automated it. this 
+leads to the kind of sleight of hand that we see regularly from facebook, which erin kissane noted in her series of posts on 
+myanmar. facebook regularly states that their automated systems "detect more than 95% of the hate speech 
+they remove." kissane writes (emphasis in the original):
+
+
+
+
+at a glance, this looks good. ninety-five percent is a lot! but since we know from the disclosed material that 
+based on internal estimates the takedown rates for hate speech are at or below 5%, what’s going on here?
+
+
+
+here’s what meta is actually saying: sure, they might identify and remove only a tiny fraction of dangerous and 
+hateful speech on facebook, but of that tiny fraction, their ai classifiers catch about 95–98% before 
+users 
+report it. that’s literally the whole game, here.
+
+
+
+so…the most generous number from the disclosed memos has meta removing 5% of hate speech on facebook. 
+that would mean that for every 2,000 hateful posts or comments, meta removes about 100–95 
+automatically and 5 via user reports. in this example, 1,900 of the original 2,000 messages remain up and 
+circulating. so based on the generous 5% removal rate, their ai systems nailed…4.75% of hate speech. that’s the 
+level of performance they’re bragging about.
+
+
+
+
+the claim that these companies are making is that automation is the only way to handle a service for millions or 
+billions of users. but of course, the automation isn't handling it. for all intents and purposes, 
+especially outside of oecd member nations, facebook is basically unmoderated. that's why it got so big, not the 
+other way around.
+
+
+
+more knowledgeable people than me have written about the complicated debate over section 230, the law that 
+provides (again, in the us) a safe harbor for companies around user-generated content. i'm vaguely convinced 
+that it would be a bad idea to repeal it entirely. but i think, as north argues, that a stronger argument is not 
+to legislate the content directly, but to require companies to meet specific thresholds for human moderation 
+(and while we're at it, to pay those moderators a premium wage). if you can't afford to have people in the loop 
+to support your product, shut it down.
+
+
+
+we probably can't make "being a big company" illegal. but we can prosecute for large-scale pollution and climate 
+damage. we can regulate bait-and-switch pay models and worker exploitation. we can require companies to pay for 
+moderation when they launch services in new markets. it can be more costly to run on a business model like 
+advertising, which depends on lots of eyeballs, if there is stronger data privacy governance. we can't make 
+scale illegal, but we could make it pay its actual bills, and that might be enough.
+
+
+
+in the meantime, i'd just like to be able to answer my phone again.
+        
+
+          9:04 x 
+          permalink
+
+february 12, 2024
+filed under: gaming»portable
+
+pocket change
+
+
+
+            
+the lower-right corner of my desk, where i keep my retro console hardware, contains:
+
+
+ a dreamcast, yellowed
+ an nvidia shield portable, barely charges these days
+ a gameboy pocket color, lime green
+ two nintendo ds systems, in stereotypical colors (pink for belle, blue for me)
+ a nintendo 3ds, black
+ various controllers and power cables
+ a gba sp, red, with the original screen
+ a gba with an aftermarket screen, speaker, and usb-c battery pack, black
+ an enormous hori fight stick for the xbox 360, largely untouched
+
+
+
+
+i wouldn't say i'm a collector so much as i just stopped getting rid of anything at some point. i was lucky 
+enough to have held onto the systems that i bought in college, long before the covid speculative bubble drove 
+all the prices up. and most of these have sentimental value: i wasn't allowed to have anything that hooked up to 
+the tv as a kid, but i saved up and bought an original gameboy, and it got me through a lot of long car trips 
+back in the day.
+
+
+
+still, this is a lot of stuff that i barely use, and most of which is redundant. so of course, i gave into 
+my worst impulses, and ordered an analogue pocket. 
+
+a brief review of the analogue pocket
+
+
+if you don't have original cartridges, the pocket is hard to justify: emulation has reached the point where it 
+may not be flawless, but it's certainly good enough, and there are much cheaper handhelds that can imitate more 
+powerful consoles. but i do own about 20 gb/gba carts that i go back to fairly frequently, and although i did 
+rip them to rom files last year just in case, i like playing them on actual hardware. about half of the systems 
+listed above were purchased with that in mind.
+
+
+
+a modded gba will actually cost more than the pocket in 2024, which is wild, and the result is an uneven 
+experience. retrofitted hardware is still old, meaning that the buttons on mine can be sticky, the d-pad is a 
+little stiff, and i had to re-solder the power switch this winter. obviously the pocket might age poorly too, 
+but if you're examining your options today and you don't actually want to do console repair as a hobby, it's 
+probably the more reliable choice.
+
+
+
+but the big draw on the pocket is the screen, a high-range panel that's sized specifically to display classic 
+gameboy games with integer scaling (at a 10:1 ratio), including a number of uncanny display filters to mimic 
+different original hardware color aberrations, refresh rates, and quirks. it's very good, and even on systems 
+that don't round evenly to the 1600x1440 resolution, it's so sharp that you'd be hard-pressed to see any scaling 
+errors.
+
+
+
+you can, of course, also run roms and non-portable hardware systems on the pocket through openfpga plugins, as 
+long as they don't exceed the complexity that the internal fpga chips can model (topping out at around the 
+16-bit era, including some arcade machines like cps-2). it does this quickly and accurately, and with relatively 
+little fuss. i'm more suprised that it borrows some traditional emulation features for actual cartridges: since 
+the pocket runs its "virtual hardware" on an fpga, it actually offers save states for physical media, which is 
+frankly unhinged (but entirely welcome).
+
+permacomputing and modern roms
+
+uxn is a virtual machine designed by and for the hundred 
+rabbits artist collective, a two-person team that lives on a boat. it's a stack-based graphical runtime with 
+four colors, so more like a simplified assembly with sdl bindings than, say, a forth. like a lot of fantasy 
+consoles, it runs "rom" files even though there are obviously no actual read-only memory chips involved. in 
+other words, there are a lot of aesthetic choices here.
+
+
+
+this may seem like an unconnected topic, but uxn was designed in conversation with gaming and its preservation. 
+hundred rabbits had worked on ios games and seen how they had a lifetime of about three years, between apple's 
+aggressive backwards incompatibility efforts and the complexity of the tech stack. they were inspired by the 
+nes, as well as the history of game-specific virtual machines. out of this world and the z-machine, for example, are artifacts of an era where 
+computing was so heterogenous that it made sense (even on limited, slow hardware) to run on a vm. this works: we 
+have access to a vast library of text-based gaming history on modern platforms, because they were built from the 
+start to be emulated.
+
+
+
+there are two conceptual threads running through the design and community of uxn. the first is  permacomputing, shading into collapse computing: the idea that when we revert 
+to an agrarian society, we'll still want to build and use computers based on leftover z-80 or 6502 chips or 
+something. this is, generously, nonsense. it's a prepper daydream for nerds, who imagine themselves as 
+tech-priests of their local village.
+
+
+
+the other thread is implementation-first computing, which 
+comes out of the nautical experience of living with extremely limited connectivity. devine lu linvega, the 
+developer for uxn, has a very good talk about the 
+inspirations and thought process behind this. living at sea, they can't rely on stack overflow to answer 
+questions, and they certainly can't spare gigabytes of bandwidth to update your compiler or install 
+dependencies. whereas it takes about a week to write a uxn interpreter, and from that point a person is 
+basically self-sufficient and future-proof.
+
+
+
+most of us do not live on boats, or in a place where we can't get to mdn, so the emphasis on minimalism and 
+self-implementation comes across as a little overdramatic. at the same time, i don't think it's entirely naive 
+to see the appeal of uxn as a contrast to the quicksand foundations of contemporary software design. i'm always 
+tempted to be very smug about building for the web and browser compatibility, until i remind myself that every 
+six months safari breaks a significant feature like indexeddb or media playback for millions of users.
+
+
+
+in a very real sense, regardless of the abstract threads underpinning the philosophy of uxn, what it really 
+means is choosing a baseline where things are "good enough" and sticking with them — both in terms of the 
+platform itself, but also the software it runs. it trades efficiency for resiliency, which is something you 
+maybe can't fully appreciate until you've had cloud software fall over in transferring data between applications 
+or generating backups.
+
+the end of history
+
+
+in addition to old gba carts, this month i also started replaying halo infinite, a game that i think is 
+generally underrated. it was panned by hardcore fans for a number of botched rollout decisions, but none of 
+those matter much to me because the only thing i really wanted out of halo is "a whole game that's made 
+out of silent cartographer" and that's largely what infinite delivers.
+
+
+
+unfortunately, sometime between launch and today, microsoft decided that single-player halo was not a 
+corporate priority. so now the game starts in a dedicated multiplayer mode, and you have to wait for all that to 
+load in before you can click a button and have the executable literally restart with different data. 
+there's some trickery that it does to retain some shared memory, so the delay isn't as bad the second time, but 
+i haven't been able to discover a flag or environment variable that will cause it to just start in single-player 
+directly. it's a real pain.
+
+
+
+i think about this a lot in the context of the modern software lifecycle, and i hate it. i don't think this is 
+just me getting older, either. every time my phone gets an os upgrade, i know something is going to break or get 
+moved around — or worse, it's going to have ai crammed into it somewhere, which will be a) annoying and b) 
+a huge privacy violation waiting to happen. eventually i just know i'm going to end up on linux solely because 
+it's the only place where a venture capitalist can't force an llm to monitor all my keystrokes.
+
+
+
+in other words, the read-only nature of old hardware isn't just a charming artifact. it ends up being what makes 
+the retro experience possible at all. the cartridge (or rom) is the bits that shipped, nothing more and nothing 
+less. i'm never going to plug in link's awakening and find that it's now running a time-limited 
+cross-promotion with a movie franchise, or that it's no longer compatible with the updated os on my device, or 
+that it won't start because it can't talk to a central server. it'll never get better, or worse. that's 
+nostalgia, but it's also sadly the best i can hope for in tech these days.
+        
+
+          16:40 x 
+          permalink
+
+january 17, 2024
+filed under: journalism»data
+
+add it up
+
+
+
+            
+a common misconception by my coworkers and other journalists is that people like me — data journalists, 
+who help aggregate accountability metrics, find trends, and visualize the results — are good at math. i 
+can't speak for everyone, but i'm not. my math background taps out around mid-level algebra. i disliked calculus 
+and loathed geometry in high school. i took one math class in college, my senior year, when i found out i hadn't 
+satisfied my degree requirements after all. 
+
+
+
+i do work with numbers a lot, or more specifically, i make computers work with numbers for me, which i 
+suspect is where the confusion starts. most journalists don't really distinguish between the two, thanks in part 
+to the frustrating stereotype that being good at words means you have to be bad at math. personally, i think the 
+split is overrated: if you can go to dinner and split a check between five people, you can do the numerical part 
+of my job. 
+
+
+
+(i do know journalists who can't split a check, but they're relatively few and far between.)
+
+
+
+i've been thinking lately about ways to teach basic newsroom numeracy, or at least encourage people to think of 
+their abilities more charitably. certainly one perennial option is to do trainings on common topics: percentages 
+versus percentage points, averages versus medians, or risk ratios. in my experience, this helps lay the 
+groundwork for conversations about what we can and can't say, but it doesn't tend to inspire a lot of 
+enthusiasm for the craft.
+
+
+
+the thing is, i'm not good at math, but i do actually enjoy that part of my job. it's an interesting puzzle, it 
+generally provides a finite challenge (as opposed to a story that you can edit and re-edit forever), and i 
+regularly find ways to make the process better or faster, so i feel a sense of growth. i sometimes wonder if i 
+can find equivalents for journalists, so that instead of being afraid of math, they might actually anticipate it 
+a little bit.
+
+
+
+unfortunately, my particular inroads are unlikely to work very well for other people. take trigonometry, for 
+example: in a mathematician's lament, teacher paul lockhart describes trig as "two weeks of content 
+[...] stretched to semester length," and he's not entirely wrong. but it had one thing going for it when i 
+learned about sine and cosine, which was that they're foundational to projecting a unit vector through space 
+— exactly what you need if you're trying to write a wolf3d clone on your ti-82 during class.
+
+
+
+or take pixel shader art, which has captivated me for years. writing code from the book of shaders inverts the way we normally think about math. 
+instead of solving a problem once with a single set of inputs, you're defining an equation that — across 
+millions of input variations — will somehow resolve into art. i love this, but imagine pointing a reporter 
+at inigo quilez's very cool "painting a character with 
+maths." it's impressive, and fun to watch, and utterly intimidating.
+
+
+
+(one fun thing is to look at quilez's channel and find that he's also got a video on "painting in google 
+sheets." this is funny to me, because i find that working in spreadsheet and shaders both tend to use the same 
+mental muscles.)
+
+
+
+what these challenges have in common is that they appeal directly to my strengths as a thinker: they're largely 
+spatial challenges, or can be visualized in a straightforward way. indeed, the math that i have the most trouble 
+with is when it becomes abstract and conceptual, like imaginary numbers or statistical significance. since i'm a 
+professional data visualization expert, this ends up mostly working out well for me. but is there a way to think 
+about math that would have the same kinds of resonance for verbal thinkers?
+
+
+
+so that's the challenge i'm percolating on now, although i'm not optimistic: the research i have been able to do 
+indicates that math aptitude is tied pretty closely to spatial imagination. but obviously i'm not the only 
+person in history to ask this question, and i'm hopeful that it can be possible to find scenarios (even if only 
+on a personal level) that can either relate math concepts to verbal brains, or get them to start thinking of the 
+problems in a visual way.
+        
+
+          13:09 x 
+          permalink
+
+december 31, 2023
+filed under: random»personal
+
+2023 in review
+
+
+
+            
+i mean, it wasn't an altogether terrible year.
+
+work life
+
+
+this was my second full year at chalkbeat, and it remains one of the best career decisions i've ever made. i 
+don't think we tell young people in this industry nearly often enough that you will be much happier working 
+closer to a local level, in an organization with good values that treats people sustainably, than you ever will 
+in the largest newsrooms in the country.
+
+
+
+i did not have a background in education reporting, so the last two years have been a learning experience, but i 
+feel like i'm on more solid ground now. it's also been in interesting change: the high-profile visual and 
+interactive storytelling that i did most often at npr or the seattle times is the exception at chalkbeat, and 
+more often i'm doing data analysis and processing. i miss the flashier work, but i try to keep my hand in via 
+personal projects, and there is a certain satisfaction in really embracing my inner spreadsheet pervert.
+
+
+
+you can read more about the work we did this year over in our retrospective 
+post as well as our list of data 
+crimes.
+
+blogging
+
+
+blogging's back, baby! i love that it feels like this is being revitalized as twitter collapses. i really 
+enjoyed writing more on technical topics in the latter half of the year, and i still have a series i'd like to 
+do on my experiences writing templating libraries. technically, i never really stopped, but in recent years it's 
+been more likely to be on work outlets than here on mile zero.
+
+
+
+next year this blog will be twenty years old, if i've done my math right. that's a long time. a little while 
+back, i cleared out a bunch of the really old posts, since i was a little nervous about the attack surface from 
+things i wrote in my twenties, especially post-gamergate. but the underlying tech has mostly stayed the same, 
+and if i'm going to be writing here more often, i've been wondering if i should upgrade.
+
+
+
+when i first converted this from a band site to a blog, i went with a publishing tool called blosxom, which 
+basically reads files in chronological order to generate the feed. i rewrote it in php a few years later, and 
+that's still what it's using now. the good news is that i know it scales — i got linked by boing boing a 
+few times back in the day, and never had a reliability problem — but it's still a pretty primitive 
+approach. i'm basically writing html by hand, there's no support for things like syntax highlighting, and i 
+haven't run a backup in a while.
+
+
+
+that said, if it's not broke, why fix it? i don't actually mind the authoring experience — my pickiness 
+about markup means using something like pandoc to generate post markup makes me a little queasy. i may instead 
+aim for some low-effort improvements, like building a process for generating a post index file that the template 
+can use instead of recursing through the folder heirarchy on every load.
+
+games
+
+splatoon 3 ate up a huge amount of time this year, but i burned out on it pretty hard over the summer. 
+the networking code is bad, and the matchmaking is wildly unpredictable, so it felt like i was often either 
+getting steamrolled or cruising to victory, and never getting the former when i really needed it to rank up. i 
+still have a preorder for the single-player dlc, and i'm looking forward to that: nintendo isn't much for 
+multiplayer, but the bones of the game are still great.
+
+
+
+starting in september (more on that in a bit), i picked up street fighter 6 and now have almost 400 hours 
+logged in it, almost all of it in the ranked mode. i'd never been very good at fighting games, and i'm still not 
+particularly skilled, but i've gotten to the point where i'd almost like to try a local tournament at some 
+point. sf6 strikes a great balance between a fairly minimal set of mechanics and a surprisingly deep 
+mental stack during play. it also has an incredibly polished and well-crafted training mode and solid networking 
+code — it's really easy to "one more round" until early in the morning. i've tried a few other fighting 
+games, but this is the only one that's really stuck so far.
+
+
+
+the big release of the year was tears of the kingdom, which was... fine. it's a technical marvel, but i 
+didn't enjoy it as a game nearly as much, and for all its systemic freedom it's still very 
+narratively-constrained — i ended up several times in places where i wasn't supposed to be yet, and had to 
+go back to resume the intended path instead of being able to sequence break. totk mainly just made me 
+want to replay dragon's dogma, which gets better every time i go through it, including beating the 
+bitterblack isle dlc for the first time this year.
+
+movies
+
+
+what did i read in 2023? i barely remember, and i didn't keep a spreadsheet this time around. i did record my 
+shocktober, as usual, so at least i have a record of that. my theme was "the vhs racks at the front of the food 
+lion in lexington, kentucky," meaning all the box art six-year-old me stared at when my parents were being rung 
+up.
+
+
+
+some of these were actually pretty good: critters is surprisingly funny and well-made, monkey 
+shines is not at all what was promised, and the stuff holds up despite its bizarre insistence that 
+michael moriarty is a leading man. on the other hand, nightmare on elm street 3 doesn't really survive 
+heather langenkamp's acting, and c.h.u.d. has actually gotten worse since the last time i watched it.
+
+
+
+outside of the theme, the strongest recommendation i can make is for when evil lurks, a little 
+post-pandemic gem from argentina about a plague of demon possession. eschewing the traditional trappings of 
+exorcism movies (no priests, no crosses, and no projectile vomiting), it alternates between pitch-black comedy 
+and gruesome violence. i love it, and really hope it sees a wider release (i think it's currently only on 
+shudder).
+
+touring spain
+
+
+belle's been studying spanish for a few years now, and headed to spain in september to work on her catalan and 
+get certified as an english teacher there. i joined her in november, and we took a grand tour of the southeast 
+side of the country. we saw barcelona, sevilla, granada, valencia, and madrid. my own spanish is serviceable at 
+best, but i skated by.
+
+
+
+they say that when you travel, mostly what you learn are the things you've taken for granted in your own 
+culture. on this trip, the thing that really stood out was the degree to which spanish cities prioritize people 
+over cars. this varies, of course — the older cities are obviously much more pedestrian friendly, because 
+they were never planned around automobile travel — but even in madrid and barcelona, it still feels so 
+much safer and less aggressive than the car-first culture of chicago and other american metro areas.
+
+
+
+given the experience, we've started thinking about whether spain might be a good place to relocate, at least for 
+a little while. while i'm cautiously optimistic about the 2024 election cycle, i wouldn't mind watching it on 
+european time, just in case.
+        
+
+          9:48 x 
+          permalink
+
+december 13, 2023
+filed under: tech»web»components
+
+what, when, where: event-driven apps from modern browser primitives
+
+
+
+            
+react's big idea was always the render function. even at its initial presentation in 2013, the developers were 
+very clear that the original class syntax was just a thing they added to meet contemporary expectations. they 
+also, at the time, stressed that react could be mixed into other code. you could migrate your application over 
+to it piecemeal, taking advantage of the speed improvements they promised in hot spots.
+
+
+
+over the following decade, react took over the whole application space, but conceptually it never moved past 
+render(), and in fact almost everything else was gradually stripped away. when the deprecation of 
+class components removed local state and lifecycle methods, they were replaced with stores like redux, or 
+contexts, and eventually hooks — all of which are complex and come with a laundry lists of caveats and 
+limitations, but they "solve" the problems caused by eliminating everything that isn't a pure function. the 
+history of the entire project has been constant, downward pressure, moving everything into the view callback. 
+it's all one undifferentiated slab of jsx now.
+
+
+
+perhaps this marks me as a radical, but my thesis is that it may not be beneficial to try to reduce your 
+solutions until they can fit in a cramped, ideologically-constrained display layer. i think it's a good thing 
+when an application has a little flexibility depending on the problems relevant to each part, just as it's good 
+to build a house out of different materials instead of just pouring concrete into a giant mold and calling it a 
+day.
+
+
+
+when critics say that web components are incomplete compared to react and its competitors, they're not wrong: if 
+you want one weird trick for your entire codebase, you'll be disappointed. but if you're using web components, 
+it may be useful to ask whether you can get many of the benefits of frameworks — live updates, 
+cross-cutting data, loose coupling — without going down the same rabbit holes or requiring the extensive 
+build infrastructure they depend on. it's worth thinking about what we could do if we used the platform to fill 
+those gaps, and for me that starts with events.
+
+subscribable stores
+
+
+a common problem: i want to share some state across components that are not located close to each other in the 
+ui tree, and be notified when that state changes so i can re-render.
+
+
+
+the most basic solution to this is an event emitter with getter/setter methods wrapping its value. back in the 
+bad old days, you'd have to roll your own, but eventtarget (the common interface for all dom classes 
+that dispatch events) has been widely subclassable for a few years now. our store definition probably looks 
+something like this:
+
+class store extends eventtarget {
+  state = undefined;
+  
+  constructor(initial) {
+    super();
+    this.state = initial;
+  }
+
+  get value() {
+    return this.state;
+  }
+  
+  set value(state) {
+    if (this.state == state) return;
+    this.state = state;
+    this.notify("update", state);
+  }
+  
+  //convenience method for atomic get/set
+  update(fn) {
+    this.value = fn(this.state)
+  }
+  
+  notify(type, detail) {
+    this.dispatchevent(new customevent(type, { detail }));
+  }
+}
+
+
+when we want to use this, it's largely similar to the way that a "context" works in other frameworks. you set up 
+a store in a module, and then in places where that data is important, you import it and either subscribe, update 
+its value, or both. depending on your base class and your templating, you can even auto-subscribe to it in the 
+course of rendering — remember, addeventlistener() automatically de-duplicates listeners, so 
+it's safe to call it redundantly as long as you're passing in the same reference (i.e., use a bound method or a 
+handler object, not a fresh arrow function).
+
+
+
+this particular store would need to be adapted if your data is deeply-nested, or if you're planning to mutate it 
+in place, since it only notifies subscribers if the reference identity of its data changes. one option would be 
+to build a proxy-based reactive object, similar to what vue uses, which can be done in about a hundred lines of code for the 
+basics. you could just import @vue/reactivity, of course, but it's educational to do it yourself.
+
+
+
+the subscribable store can be designed with a particular shape of object or collection in mind, and offer 
+methods for working with that shape. in my podcast client, i use a table class that 
+provides promised-based indexeddb access and fires events whenever feeds are added, removed, or updated in the 
+database.
+
+
+
+my other favorite use case for subscriptions is anything based on external stimuli, such as network polling or 
+push notifications, especially if that external source has rich, non-uniform behavior (say, a socket that syncs 
+state with the server, but also lets you know when your app doesn't have network connectivity so that the ui can 
+disable some features).
+
+
+
+this design for reactivity is no longer fashionable, but the pace of javascript's pop culture makes it easy to 
+forget that it was only 2019 when svelte v3 (to pick an example) moved from an explicitly event-driven stores to the current syntax sugar. behind the scenes, 
+the store contract is still basically an event dispatcher with only one event, it's just hidden by the compiler. 
+if we don't use a compiler, we may have to subscribe by hand, but on the other hand we won't be caught on an 
+update treadmill when the framework devs discover observables (sorry, "runes") four years later.
+
+
+
+personally, i don't think it actually matters very much how you get notified for low-level re-renders — if 
+you wanted to argue that a 
+modern framework uses signals for granular reactivity, that's fine by me — but what i like about 
+standardizing on eventtarget for news about high-level concerns is that it's already familiar, 
+it's free with the browser, and it encourages us to think about changes to data more coherently than "a single 
+value" or "a slice of a big state object."
+
+broadcast messages
+
+
+the preoccupation with reducing everything to data transformation is a common blind spot in current front-end 
+frameworks. data is important, of course — i'm a firm believer in the linus torvalds maxim that good 
+programmers worry more about structure than they do code — but sometimes something happens that doesn't 
+create a notable change, or it creates different kinds of changes in different places, or it's a long-running 
+process that we just want to keep an eye on. not everything is a noun! we need verbs, too!
+
+
+
+when i worked on caret from 2014 to 2018 or so, i was learning a 
+lot about how to structure a relatively large, complex application — certainly it was the biggest thing 
+i'd ever built on my own. but one of the best decisions i made early on was to have different parts of the 
+editor communicate with each other using command 
+messages sent over a central pub/sub (publish and subscribe) channel.
+
+
+
+this had a lot of advantages. major systems didn't need to be tightly coupled together, especially around menus 
+and keyboard shortcuts, which effectively transformed streams of input events into higher-level commands. some 
+web apps may be able to pretend that the real work is safely isolated from side effects and statefulness, but a 
+programmer's text editor has to deeply care about making input both easy and extensible. and as caret went from 
+a basic notepad.exe replacement to a much more full-featured editor, its vocabulary of commands expanded 
+naturally.
+
+
+
+take live settings, for example: caret saved user preferences in json "files," which were persisted to chrome's 
+synchronized storage. when these changed, the settings provider would send an "init:restart" announcement over 
+the command bus, and modules that used these files would reload their configuration to match. importantly, the 
+provider did not need to know which systems were listening, or what specific options they cared about (if any). 
+the command was explicit, auditable, and self-explanatory, as opposed to a reactive framework where the settings 
+object changes and a half-dozen other modules spontaneously reload themselves.
+
+
+
+like our subscribable store, the message channel is a subclass of eventtarget. it doesn't retain a 
+value, but it can have a method to simplify the event creation and dispatch process. instantiate that class, 
+export it from the module, and import it anywhere you want to listen to messages.
+
+class messagebus extends eventtarget {
+  broadcast(type, detail) {
+    var e = new customevent(type, { detail });
+    this.dispatchevent(e);
+    return e;
+  }
+}
+
+export const channel = new messagebus();
+
+
+
+i recommend namespacing (and probably defining constants for) your type strings early, since they're going to be 
+sent far and wide: "change" or "update" isn't very useful when lots of things could be changing/updating, but 
+"session:saved" (with the filename attached to the event detail) means you're less likely to collide with other 
+messages, especially on a team.
+
+
+
+the main thing i regret from caret was not having a way for event consumers to send values back to the 
+broadcaster directly. there was an optional callback in the event emitter code, but it was awkward to use, 
+especially if multiple listeners wanted to return values. if i were building it now, i would imitate the service 
+worker api and offer a respondwith() method on events:
+
+class respondableevent extends event {
+  #responses = [];
+  
+  constructor(type, data) {
+    super(type);
+    this.data = data;
+  }
+  
+  respondwith(response) {
+    this.#responses.push(response);
+  }
+  
+  // make responses add-only and async
+  get responses() {
+    return promise.all(this.#responses);
+  }
+}
+
+
+listeners that need additional time to prepare can respond with a promise instead of a direct value, meaning 
+that this also doubles as a waituntil() method. on the other end, the broadcasting module holds onto 
+a reference to the event, and checks to see if it needs to take further action. in caret, this would have been 
+really useful for providing extension points like language servers or build automation:
+
+var e = new respondableevent("file:beforesave", filecontents);
+channel.dispatchevent(e);
+// check to see if any plugins responded
+var annotations = await e.responses;
+// add annotations to the editor control
+for (var annotation of annotations) {
+  /* ... */
+}
+
+
+
+scenarios where asynchronous event responses are necessary are rare, but when you need them, they're invaluable, 
+and this design doesn't add any overhead when not used.
+
+software as metaphor
+
+
+conway's law in software development says that the systems designed by an organization are a reflection of its 
+communication structures. i would take that further: the systems we design are, at least a little, a reflection 
+of the way we want the world to work. part of the reason i like using event-driven architectures is because they 
+effectively create chatty little communities within the program — colonial organisms, like a portuguese 
+man o' war (though hopefully less dangerous) — and for all my misanthropic tendencies, i do still believe 
+we live in a society.
+
+
+
+more importantly, this is a way to think about high-level architecture, but it does not have to be the single 
+method for every part of the app. as i said at the start, i'm suspicious of all-encompassing framework 
+paradigms. if our software is a microcosm of our ideal environment, there's something worrying about reducing 
+all processes to a "pure" transform of input and output.
+
+
+
+web components are not a complete framework in the way that react (or vue, or svelte) is. they're just one layer 
+of an application. you can see that as a flaw, but i think it's an opportunity to go back to software that has 
+texture to it, where the patterns that are used at the top level do not have to be the exact same as those used 
+in individual modules, or at lower layers of the stack, if it turns out that they're not well-suited to the 
+problem at hand.
+
+
+
+and to be fair, outside of react we see a lot more experimentation with forms of coordination that aren't tied 
+so tightly to one particular vdom. preact's signals, for example, provide a level of reactivity that can be used 
+anywhere, and which you could easily integrate with the architecture i've described (listeners updating signal 
+values, and effect functions dispatching events).
+
+
+
+i don't think web components are the only reason for that, but i do think their existence as a valid alternative 
+— a kind of perpetual competition to framework code, in which you can get started without a single import 
+statement or npm install — means that there's greater incentive to build primitives that are 
+interoperable, not locked to a single ecosystem.
+
+
+
+in the context of that reset, events make sense to me in terms of organizing my code, but i'm hopeful that we'll 
+soon find other techniques re-emerging from the vast prior art of ui toolkits, both native and on the web. 
+there's a lot more out there than closures and currying, and i can't wait to see it.
+        
+
+          11:08 x 
+          permalink
+
+december 10, 2023
+filed under: tech»web»components
+
+cheap and cheerful: trivial tricks for custom elements
+
+
+
+            
+i have one draft written about framework-free architecture, but it gets a little heavy, and i don't want to go 
+there yet. so instead, here are some minor uses of custom elements that, for me, spark joy.
+
+set dynamic css variables
+
+
+one of the things that cracks me up when i've been reading about react contexts is how they're almost always 
+demonstrated on (and encouraged for) visual theming. did nobody tell the developers that css... cascades? it's 
+in the name! this is what custom properties are for! (actual answer: they know and they don't care, because 
+react was designed by people who would rather build countless levels of ideological abstraction than actually 
+use the browser in front of them.)
+
+
+
+css custom properties have been fairly well-supported since 2016, which is when chrome and safari shipped them. 
+when i first started using them, they felt like a step back from the less variables that i was used to, with the 
+clunky var() syntax required to unwrap them, and calc() to operate on their contents. but 
+custom properties are actually a lot more powerful because they do cascade — you can override them for 
+sections of the dom tree selectively — and because they can be updated on the fly, either using media 
+queries or values from javascript.
+
+
+
+web components are a great way to take dynamic information and make it available for styling, since any css
+properties they set on themselves will then cascade down through the rest of the tree. imagine we have the 
+following markup:
+
+<mouse-colorizer>
+  <h1 style="color: var(--mouse-color, salmon)">
+    this space intentionally left blank.
+  </h1>
+</mouse-colorizer>
+
+
+
+if we don't do anything, the inner <h1> will be salmon-colored. but if we define the mouse 
+colorizer element...
+
+class mousecolorizer extends htmlelement {
+  constructor() {
+    super();
+    this.addeventlistener("mousemove", this);
+  }
+
+  handleevent(e) {
+    var normalx = e.offsetx / this.offsetwidth;
+    var normaly = e.offsety / this.offsetheight;
+    this.style.setproperty(
+      "--mouse-color",
+      `rgb(${255 * normalx}, 255, ${255 * normaly})`
+    );
+  }
+}
+
+customelements.define("mouse-colorizer", mousecolorizer);
+
+
+
+now moving the mouse around inside the <mouse-colorizer>'s bounding box will set the color of the 
+headline, between green, cyan, yellow, and white at each corner. other elements inside this branch of dom can 
+also use this variable, for any style where a color value is valid: borders, background, shadows, whatever. 
+there are lots of serious uses for being able to set dynamic cascade values, but i think it's just as valuable 
+when it's a little mischievious:
+
+
+ parallax effects that shift with the device orientation (github's 404 page used to do this, but they seem to have dropped it 
+lately)
+
+ animations that progress as the page scrolls
+
+ tinting images based on the time of day
+
+ fonts that get just a little blurrier every time you touch the screen
+
+
+
+
+while at npr, i was working on a project for louder than a riot (rip), one of the company's music 
+podcasts. we wanted to give the page some life, and tie the visuals to the heavy use of audio samples. animating 
+the whole page with javascript was possible, but css custom properties gave us an easier solution. i hooked up 
+the player to a webaudio analyzer node, and had it dispatch events with the average amplitude of the sample 
+window. then, i set up a <speaker-boxxx> element that listened for those events, and set its 
+--volume property to match. styles inside of a <speaker-boxxx> could use that value to 
+set color mixes and transforms (or any other style), so that when a track was playing, ui elements all over the 
+page grooved along with it.
+
+wrap old libraries
+
+
+a couple of weeks ago i needed a map for a story (people love maps, and although they're rarely the appropriate 
+choice for data visualization, in this case it made sense). actually, i needed two maps: the reporter wanted to 
+compare the availability of 8th grade algebra over the last ten years. 
+
+
+
+my go-to library for mapping is leaflet. it's long in the tooth at this 
+point, and i'm sure that there are other libraries that would offer features like vector tiles or 
+gpu-accelerated rendering. but leaflet is fast, and it's well-proven, so i've stuck with it.
+
+
+
+the thing is, if you need multiple maps, leaflet can be kind of a pain. it works on the jquery ui model, where 
+you have to point it at an element and call a factory function to set it up, and then you have a map object 
+that's separate from the dom that it's attached to. it sure would be nice if the page just took care of that 
+— i don't know, like a callback when the right element gets connected or something.
+
+
+
+well.
+
+class mapelement extends htmlelement {
+
+  connectedcallback() {
+    this.map = new leaflet.map(this, {
+      zoomsnap: .1,
+      scrollwheelzoom: false,
+      zoomcontrol: false,
+      attributioncontrol: false
+    });
+    this.map.focus = () => null;
+
+    leaflet.tilelayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png", {
+      subdomains: "abcd".split("")
+    }).addto(this.map);
+  }
+}
+
+
+now i can get a list of maps just by running a query for leaflet-map elements, and populate them 
+based on a filter value that i take from their data-year attributes. it's not that you can't write this in a dry 
+way, but it feels cleaner to me if i can just hand off the setup to the browser.
+
+
+
+we talk a lot about using web components as glue between modern frameworks, but they're also really useful for 
+wrapping up non-framework code that you don't want to think about. if you're maintaining a legacy site that uses 
+older widget libraries, it's worth thinking about whether some of them can be replaced with custom elements to 
+clean up some of the boilerplate and lifecycle management you're currently managing manually.
+
+add harmless interaction effects
+
+
+when custom elements were first introduced, google tried to make them more palatable by packaging them as 
+polymer, a library of tags and tools. it's hard to say why google kills anything, but it didn't help that 
+the framework leaned heavily on html imports, which (sadly) did not make it out of standardization.
+
+
+
+i was pretty lukewarm on polymer, but one thing i did like was that it had a set of paper-x tags that 
+implemented bits of material design, like the ripple effect for clicks that you can still see in some google ui. 
+these are good candidates for custom elements, because they're client-only and if javascript doesn't load, they 
+just don't do anything, but the page still works. they're an easy way to add personality to a design system.
+
+
+
+let's set up our own ripple layer tag as a demonstration. we'll start by creating some shadow dom and injecting 
+a canvas that's positioned absolutely within its container. we'll also register for pointer events, and bind the 
+"tick" method that runs our animations:
+
+var template = `
+<style>
+  :host {
+    position: relative;
+    display: block;
+  }
+
+  canvas {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+  }
+</style>
+<canvas></canvas>
+<slot></slot>
+`;
+
+class ripplelayer extends htmlelement {
+  ripple = null;
+
+  constructor() {
+    super();
+    var root = this.attachshadow({ mode: "open" });
+    root.innerhtml = template;
+    var canvas = root.queryselector("canvas");
+    this.context = canvas.getcontext("2d");
+    this.tick = this.tick.bind(this);
+    this.addeventlistener("pointerdown", this);
+  }
+}
+
+
+with the infrastructure in place, we'll watch for pointer events and start a ripple when one occurs, storing 
+the important information about when and where the click or tap occurred:
+
+handleevent(e) {
+  this.releasepointercapture(e);
+  this.ripple = {
+    started: date.now(),
+    x: e.offsetx,
+    y: e.offsety
+  }
+  this.tick();
+}
+
+
+finally, we'll add the tick() method that actually draws the ripple. our animation basically just 
+looks at the current time and draws a circle based on where it should be at that point — we don't need to 
+retain any information from one frame to the next. 
+
+tick() {
+  // resize the canvas buffer 1:1 with its css size
+  var { canvas } = this.context;
+  canvas.width = this.offsetwidth;
+  canvas.height = this.offsetheight;
+  // find out how far in the ripple we've gotten
+  var elapsed = date.now() - this.ripple.started;
+  var duration = this.getattribute("duration") || 300;
+  var delta = elapsed / duration;
+  // if the ripple is complete, don't draw and stop animating
+  if (delta >= 1) return;
+  // determine the size of the ripple
+  var eased = .5 - math.cos(delta * math.pi) / 2;
+  var rmax = canvas.width > canvas.height ? canvas.width * .8 : canvas.height * .8;
+  // draw a darker outline and lighter inner circle
+  this.context.arc(this.ripple.x, this.ripple.y, rmax * eased, 0, math.pi * 2);
+  this.context.globalalpha = (1 - delta) * .5;
+  this.context.stroke();
+  this.context.globalalpha = (1 - delta) * .2;
+  this.context.fill();
+  // schedule the next update
+  requestanimationframe(this.tick);
+}
+
+
+once this element is defined, you can put a <ripple-layer> anywhere you want the effect to occur, 
+such as absolutely positioned in a button. this does require the "layer" to be on top — if you need to 
+have multiple clickable items within a ripple zone, invert the tag by adding a slot, so that the layer wraps 
+around content and adds an effect to it instead of vice-versa.
+        
+
+          14:45 x 
+          permalink
+
+november 28, 2023
+filed under: tech»web»components
+
+goodbytes: designing custom element base classes
+
+
+
+            
+in my mind, michael crichton's jurassic park marks the last time object-oriented programming was cool. 
+dennis nedry, the titular park's sole computer engineer, adds a backdoor to the system disguised as "a block of 
+code that could be moved around and used, the way you might move a chair in a room." running 
+whte_rabt.obj as a shell script turns off the security systems and electric fences, kicking off the 
+major crisis that drives the novel forward. per usual for crichton, this is not strictly accurate, but it is 
+entertaining.
+
+
+
+(crichton produced reactionary hack work — see: rising sun, disclosure, and state of 
+fear — roughly as often as he did classic high-tech potboilers, but my favorite petty grudge is in 
+the lost world, the cash-grab sequel to jurassic park, which takes a clear potshot at the "this is a unix system, i know this!" scene from spielberg's 
+film: under siege by dinosaurs, a young woman frantically tries to reboot the security system before suddenly 
+realizing that the 3d graphics onscreen would require a high-bandwidth connection, implying — for some 
+reason — a person-sized maintenance tunnel she can use as an escape route. i love that they can clone 
+dinosaurs, but jurassic park engineers do not seem to have heard of electrical conduits.)
+
+
+
+in the current front-end culture, class-based objects are not cool. react is (ostensibly) functional wherever 
+possible, and svelte and vue treat the module as the primary organizational boundary. in contrast, web 
+components are very much built on the browser platform, and browsers are object-oriented programs. you just 
+can't write vanilla javascript without using new, and i've always wondered if this, as much as 
+anything else, is the reason a lot of framework authors seem to view custom elements with such disdain.
+
+
+
+last week, i wrote about slots 
+and shadow dom as a way to build abstract domain-specific languages and expressive web components. in this 
+post, i want to talk about how base classes and inheritance can smooth out its rough edges, and help organize 
+and arrange the shape of your application. call me a dinosaur (ha!), but i think they're pretty neat.
+
+dino dna
+
+
+criticisms of custom elements often center around the amount of code that it takes to write something fairly 
+simple: comparing the 20-line boilerplate of a completely fresh web component against, say, a function with some 
+jsx in it. for some reasons, these comparisons never discuss how that jsx is transpiled and consumed by 
+thousands of lines of framework dependencies — that's just taken for granted — or that some 
+equivalent could also exist for custom elements.
+
+
+
+that equivalent is your base class. rather than inheriting directly from htmlelement, you inherit 
+from a middleware class that extends it, and fills in the gaps that the browser doesn't directly provide. almost 
+every project i work on either starts with a base element, or eventually acquires one. typically, you'll want to 
+include:
+
+
+ some kind of templating for the shadow dom, and optionally for the light dom.
+
+ code that reflects observed attributes to properties, or vice versa.
+
+ method binding, for event listeners and callbacks.
+
+ event dispatching, using either customevent or a subclass for your application.
+
+
+
+
+if you don't feel capable of providing these things, or you're worried about the maintenance burden, you can 
+always use someone else's. web component libraries like lit or stencil basically provide a starter class for you to extend, already packed 
+with things like reactive state and templating. especially if you're working on a really big project, that might 
+make sense.
+
+
+
+but writing your own base class is educational at the very least, and often easier than you might think, 
+especially if you're not working at big corporate scale. in most of my projects, it's about 50 lines (which i 
+often copy verbatim from the last project), and you can see an example in my guidebook. the templating is the 
+largest part, and the part where just importing a library makes the most sense, especially if you're doing any 
+kind of iteration. that said, if you're mostly manipulating individual, discrete elements, a pattern i 
+particularly like is:
+
+class templatedelement extends htmlelement {
+  elements = {};
+
+  constructor() {
+    super();
+    // get the shadow root
+    // in other methods, we can use this.shadowroot
+    var root = this.attachshadow({ mode: "open" });
+    // get the template from a static class property
+    var { template } = new.target;
+    if (template) {
+      root.innerhtml = template;
+      // store references to marked template elements
+      for (var element of root.queryselectorall("[as]")) {
+        var name = element.getattribute("as");
+        this.#elements[name] = element;
+      }
+    }
+  }
+}
+
+
+
+from here, a class extending templatedelement can set a string as the static template 
+property, which will then be used to set up the shadow dom on instantiation. any tag in that template with an 
+"as" attribute will be stored on the elements lookup object, where we can then add event listeners or 
+change its content:
+
+class counterelement extends templatedelement {
+  static template = `
+<div as="counter">0</div>
+<button as="increment">click me!</button>
+  `;
+  
+  #count = 0;
+  
+  constructor() {
+    // run the base class constructor
+    super();
+    // get our cached shadow elements
+    var { increment, counter } = this.elements;
+    increment.addeventlistener("click", () => {
+      counter.innerhtml = this.#count++;
+    });
+  }
+}
+
+
+
+it's simple, but it works pretty well, especially for the kinds of less-intrusive use cases that we're seeing in 
+the new wave of html components.
+
+
+
+for the other base class responsibilities, a good tip is to try to follow the same api patterns that are used in 
+the platform, and more specifically in javascript in general (a valuable reference here is the web platform design principles). for example, when providing 
+method binding and property reflection, i will often build the interface for these as arrays assigned to static 
+properties, because that's the pattern already being used for observedattributes:
+
+class customelement extends baseclass {
+  static observedattributes = ["src", "controls"];
+  static boundmethods = ["handleclick", "handleupdate"];
+  static reflectedattributes = ["src"];
+}
+
+
+i suspect that once decorators are standardized, 
+they'll be a more pleasant way to handle some of this boilerplate, especially since a lot of the web component 
+frameworks are already doing so via typescript. but if you're using custom elements, there's a reasonable chance 
+that you're interested in no-build (or minimal build) systems, and thus may want to avoid features that 
+currently require a transpiler.
+
+clever girl
+
+if you are building web components entirely as leaf nodes that are meant to be inserted into an arbitrary page, 
+or embedded into another framework, mimicking the platform is probably enough. for example, on an input-related 
+element you might add a getter to your class that provides the valueasnumber property just like the 
+browser's own input tags.
+
+
+
+but if you're designing larger applications, then your components will need to interact with each other. and in 
+that case, a class is not just a way of isolating some dom code, it's also a contract between application 
+modules for how they manage state and communication. this is not new or novel — it's the foundation of 
+model-view-controller ui dating back to smalltalk — but if you've learned web development in the era since 
+backbone fell out of popularity, you may have never really had to think about state and interaction between 
+components, as opposed to ui functions that all access slices of a common state store (or worse, call out to 
+hooks and magically get served state from the aether).
+
+
+
+here's an example of what i mean: the base class for drawing 
+instructions in tarot, chalkbeat's social media 
+image generator, does the normal templating/binding dance in its constructor. it also has some utility methods 
+that most canvas operations will need, such as converting between normalized coordinates and pixels or turning 
+variable-length css padding strings into a four-item array. finally, it defines a number of "stub" methods that 
+subclasses are expected to override:
+
+
+ persist() and restore() transfer values between elements with the same id when the 
+user switches card layouts, triggered by the connected and disconnected callbacks.
+
+ getlayout() returns a domrect with the bounding box that the component plans to 
+render to, so that parent elements can perform layout tasks like flex spacing.
+
+ draw() actually renders to a canvas context, usually based on the information that 
+getlayout() provided.
+
+
+
+
+when tarot needs to re-render the canvas, it starts at the top level of the input form, loops through each 
+direct child, and calls draw(). some instructions, like images or rectangle fills, render immediately 
+and exit. the layout brushes, <vertical-spacer> and <vertical-stack>, first call 
+getlayout() on each of their children, and use those measurements to apply a transform to the canvas 
+context before they ask each child to draw. putting these methods onto the base class in tarot makes the process 
+of adding a new drawing type clear and explicit, in a way that (for me) the "grab bag of props" interface in 
+react does not.
+
+
+
+two brushes actually take this a little further. the <series-logo> and <logo-brush> 
+elements don't inherit directly from the brush base class, but from a specialized subclass of it 
+with properties and methods for storing and tinting bitmaps. as a result, they can take a single-color input png 
+and alter its pixels to match any of the theme colors selected while preserving alpha, which means we can add 
+new brand colors to the app and not have to generate all new logo art.
+
+
+
+planning the class as an api contract means that when they're slotted or placed, we can use duck-typing in our 
+higher-level code to determine whether elements should participate in a given operation, by checking whether 
+they have a method name that matches our condition. we can also use instanceof to check if they have 
+the required base class in their prototype chain, which is more strict.
+
+hold onto your butts
+
+
+it's worth noting that this approach has its detractors, and has for a (relatively) long time. in 2015, the 
+react team published a blog post 
+claiming that traditional object-oriented code inherently creates tight coupling, and the code required grows 
+"as the square of the number of possible states of the component." personally i find this disingenuous, 
+especially when you step back and think about the scale of the infrastructure that goes into the "easier" 
+rendering method it describes. with a few small changes, it'd be indistinguishable from the posts that have been 
+written discounting custom elements themselves, so i guess at least they're consistent.
+
+
+
+as someone who cut their teeth working in actionscript 3, it has never been obvious to me that stateful objects 
+are a bad foundation for creating rich interfaces, especially when we look at the long history of animation 
+libraries for react — eventually, every pure functional gui seems to acquire a bunch of pesky escape 
+hatches in order to do anything useful. weird how that happens! my hot take is that humans are messy, and so 
+code that interacts directly with humans tends to also be a little messy, and trying to shove it into an 
+abstract conceptual model is likely to fail in frustrating ways. objects are often untidy, but they give us more 
+slack, and they're easier to map to a mental model of dom and state relationships.
+
+
+
+that said, you can certainly create bad class code, as the jokes about abstractfactoryfactoryadapter 
+show. i don't claim to be an expert on designing inheritance — i've never even drawn a uml diagram (one 
+person in the audience chuckles, glances around, immediately quiets). but there are a few basic guidelines 
+that i've found useful so far.
+
+
+remember that state is inspectable. if you select a tag in the dev tools and then type 
+$0.something in the console, you can examine a js value on that element. you can also use 
+console.dir($0) to browse through the entire thing, although this list tends to be overwhelming. in 
+chrome, the dev tools can even examine private fields. this is great for debugging: i personally love being able 
+to see the values in my application via its ui tree, instead of needing to set breakpoints or log statements in 
+pure rendering functions.
+
+
+class instances are great places for related platform objects. when you're building custom elements, a 
+big part of the appeal is that they give you automatic lifecycle hooks for the section of the page tree that 
+they wrap. so this might be obvious, but use your class to cache references to things like mutation observers or 
+drawing contexts that are related to the dom subtree, even if they aren't technically its state, and use the 
+lifecycle to set them up and tear them down.
+
+
+use classes to store local state, not application state. in a future post, i want to write about how to 
+create vanilla code that can fill the roles of stores, hooks, and other framework utilities. the general idea, 
+however, is that you shouldn't be using web components for your top-level application architecture. you probably 
+don't need <application-container> or <database-connection>. that's why you...
+
+
+don't just write classes for your elements. in my podcast client, a lot of the ui is driven by shared 
+state that i keep in indexeddb, which is notoriously frustrating to use. rather than try to access this through 
+a custom element, there's a table class that 
+wraps the database and provides subscription and manipulation/iteration methods. the components in the page use 
+instances of table to get access to shared storage, and receive notification events when something 
+else has updated it: for example, when the user adds a feed from the application menu, the listing component 
+sees that the database has changed and re-renders to add that podcast to the list.
+
+
+be careful with property/method masking. this is far more relevant when working with other people than if 
+you're writing software for yourself, but remember that properties or methods that you create in your class 
+definitions will supplant any existing fields that exist on htmlelement for example, on one project, 
+i stored the default slot for a component on this.slot, not realizing that element.slot already exists. since no code on the 
+page was checking that property, it didn't cause any problems. but if you're working with other people or 
+libraries that expect to see the standard dom value, you may not be so lucky.
+
+
+consider symbols over private properties to avoid masking. one way to keep from accidentally overwriting 
+a built-in field name is by using private properties, which are prefixed with a hash. however, these have some 
+downsides: you can't see them in the inspector in firefox, and you can't access them from subclasses or through 
+proxies (i've written a deeper dive on that here). if you want to store 
+something on an element safely, it may be better to use a symbol instead, and export that with your base class 
+so that subclasses can access it.
+
+export const canvas = symbol("#canvas");
+export const context = symbol("#context");
+
+export class bitmapelement extends htmlelement {
+  constructor() {
+    super();
+    this.attachshadow({ mode: "open" });
+    this[canvas] = document.createelement("canvas");
+    this[context] = this[canvas].getcontext("2d");
+  }
+}
+
+
+the syntax itself looks a little clunkier, but it offers encapsulation closer to the protected 
+keyword in other languages (where subclasses can access the properties but external code can't), and i 
+personally think it's a nice middle ground between actual private properties and "private by convention" naming 
+practices like this._privatebutnotreally.
+
+
+inherit broadly, not deeply. here, once again, it's instructive to look at the browser itself: although 
+there are some elements that have extremely lengthy prototype chains (such as the svg elements, for historical 
+reasons), most html classes inherit from a relatively shallow list. for most applications, you can probably get 
+away with just one "framework" class that everything inherits from, sometimes with a second derived class for 
+families of specific functionality (such as embedded dsls).
+
+
+
+there's a part of me that feels like jumping into a wave of interest in web components with a tribute to 
+classical inheritance has real "how do you do, fellow kids?" energy. i get that this isn't the sexiest thing you 
+can write about an api, and it's very javascript-heavy for people who are excited about the html component 
+trend.
+
+
+
+but it also seems clear to me, reading the last few years of commentary, that a lot of front-end folks just 
+aren't familiar with this paradigm — possibly because frameworks (and react in particular) have worked so 
+hard to isolate them from the browser itself. if you try to turn web components into react, you're going to have 
+a bad time. embrace the platform, learn its design patterns on their own terms, and while it still won't make 
+object orientation cool, you'll find it's a much more pleasant (and stable) environment than it's been made out 
+to be.
+        
+
+          8:48 x 
+          permalink
+
+november 21, 2023
+filed under: tech»web»components
+
+chiaroscuro, or expressive trees in web components
+
+
+
+            
+over the last few weeks, there's been a remarkable shift in the way that the front-end community talks about web 
+components. led by a number of old-school bloggers, this conversation has centered around so-called "html 
+components," which primarily use custom elements as a markup hook to progressively enhance existing light dom 
+(e.g., creating tabs, tooltips, or sortable tables). zach leatherman's taxonomy includes 
+links to most of the influential blog posts where the discussions are taking place.
+
+
+(side note: it's so nice to see blogging start to happen again! although it's uncomfortable as we all try to 
+figure out what our new position in the social media landscape is, i can't help but feel optimistic about these 
+developments.)
+
+
+overall, this new infusion of interest is a definite improvement from the previous state of affairs, which was 
+mostly framework developers insisting that anything less than a 1:1 recreation of react or svelte in the web 
+platform was a failure. but the whiplash from "this api is useless because it doesn't bundle enough complexity" 
+to "this api can be used in the simplest possible way" leaves a huge middle ground unexplored, including its 
+most intriguing possibilities.
+
+
+
+so in the interest of keeping the blog train rolling, i've been thinking about writing some posts about how i 
+build more complex web components, including single-page apps that are traditionally framework territory, while 
+still aiming for technical accessibility. let's start by talking about slots, composition, and structure.
+
+starting from slots
+
+
+i wrote a little about shadow 
+dom in 2021, right before npr published the science of joy, 
+which used shadow dom pretty extensively. since that time, i've rewritten my podcast client and rss reader, thrown together an offline media player, developed (for no apparent reason) 
+a eurorack-esque synthesizer, and written a social card image generator just in 
+time for twitter to fall apart. between them, plus the web 
+component book i wrote while wrapping up at npr, i've had a chance to explore the shadow dom in much more 
+detail.
+
+
+
+i largely stand by what i said in 2021: shadow dom is a little confusing, not quite as bad as people make it out 
+to be, and best used in moderation. page content wants to be in the light dom as much as possible, so that it's 
+easier to style, inspect, and access for scripting. shadow dom is analagous to private properties or symbol keys 
+in js: it's where you put stuff that only that element (and its user) needs to access but the wider page doesn't 
+know about. but with the addition of slots, shadow dom is also the way that we can define the relationships of 
+an element to its contents in a way that follows the grain of html itself.
+
+
+
+to see why, let's imagine a component with what seems like a pointless shadow dom:
+
+class emptyelement extends htmlelement {
+  constructor() {
+    super();
+    var root = this.attachshadow({ mode: "open" });
+    root.innerhtml = "<slot></slot>";
+  }
+}
+
+
+this class defines an element with a shadow root, but no private content. instead, it just has a slot that 
+immediately reparents its children. why write a no-op shadow root like this?
+
+
+
+one (minor) benefit is that it lets you provide automatic fallback content for your element, which is hard to do 
+in the light dom (think about a list that shows a "no items" message when there's nothing in it). but the more 
+relevant reason is because it gives us access to the slotchange 
+event, as well as methods to get the assigned elements for each slot. slotchange is basically 
+connectedcallback, but for direct children instead the custom element itself: you get notified 
+whenever the elements in a slot are added or removed.
+
+
+
+simple slotting is a great pattern if you are building wrapper elements to enhance existing html (similar to the 
+"html components" approach noted above). for example, in my offline media player app, the visualizer 
+that creates a joy division-like graph from the audio is just a component that wraps an audio tag, like so:
+
+<audio-visuals>
+  <audio src="file.mp3"></audio>
+</audio-visuals>
+
+
+
+when it sees an audio element slotted into its shadow dom, it hooks it into the analyzer node, and there you go: 
+instant winamp visualizer panel. i could, of course, query for the audio child element in 
+connectedcallback, but then my component is no longer reactive, and i've created a tight coupling 
+between the custom element and its expected contents that may not age well (say, a clickable html component that 
+expects a link tag, but gets a button for semantic reasons instead). 
+
+configuration through composition
+
+
+child elements that influence or change the operation of their parent is a pattern that we 
+see regularly in built-ins:
+
+
+ media elements (audio, video, and picture) get live input configuration from <source>
+ subtitles are also loaded by placing a <track> inside an audio or video tag 
+
+ selectbox options on mobile are native ui generated from child elements
+
+ svg filters contain a list of operation elements, some of which have their own child config tags (think 
+<fepointlight> for the lighting effects, or the <fefuncx> elements in a component 
+transfer)
+
+
+
+
+tarot, chalkbeat's social card generator, takes this approach a little further. i talk about this a little in the team blog post, but essentially 
+each card design is defined as an html template 
+file containing a series of custom elements, each of which represents a preset drawing instruction (text 
+labels, colored rectangles, images, logos, that kind of thing). for example, a very simple template might be 
+something like:
+
+<vertical-spacer padding="20 0">
+
+  <series-logo color="accent" x=".7" scale=".4"></series-logo>
+
+  <vertical-stack dx="40" anchor="top" x=".4">
+
+    <text-brush
+      size="60"
+      width=".5"
+      padding="0 0 20"
+      value="insert quote text here."
+      >quotation</text-brush>
+
+    <image-brush
+      recolor="accent"
+      src="./assets/chalkline-teal-dark.png"
+      align="left"
+    ></image-brush>
+    
+  </vertical-stack>
+
+  <logo-brush x=".70" color="text" align="top"></logo-brush>
+
+</vertical-spacer>
+
+<photo-brush width=".4"></photo-brush>
+
+
+
+each of the "brush" elements has its customization ui in its shadow dom, plus a slot that lets its children show 
+through. the app puts the template html into a form so the user can tweak it, and then it asks each of the 
+top-level elements to render. some of them, like the photo brush, are leaf nodes: they draw their image to the 
+canvas and exit. but the wrapper elements, like the spacer and stack brushes, alter the drawing context and then 
+ask each of their slotted elements to render with the updated configuration for the desired layout.
+
+
+
+the result is a nice little domain-specific language for drawing to a canvas in a particular way. it's easy to 
+write new layouts, or tweak the ones we already have. my editor already knows how to highlight the template, 
+because it's just html. i can adjust coordinate values or brush nesting in the dev tools, and the app will 
+automatically re-render. you could do this without slots and shadow dom, but it would be a lot messier. instead, 
+the separation is clean: user-facing ui (i.e., private configuration state) is in shadow, drawing instructions 
+are in the light.
+
+patchwork languages
+
+
+i really started to see the wider potential of custom element dsls when i was working on my synthesizer, which 
+represents the webaudio signal path using the dom. child elements feed their audio signal into their parents, on 
+up the tree until they reach an output node. so the following code creates a muted sine wave, piping the 
+oscillator tone through a low-pass filter:
+
+&ltaudio-out>
+  <fx-filter type="lowpass">
+    <source-osc frequency=440></source-osc>
+  </fx-filter>
+</audio-out>
+
+
+
+the whole point of a rack synthesizer is that you can rearrange it by running patch cords between various inputs 
+and outputs. by using slots, these components effectively work the same way: if you drag the oscillator out of 
+the filter in the inspector, the old and new parents are notified via slotchange and they update the 
+audio graph accordingly so that the sine wave no longer runs through the lowpass. the dev tools are basically 
+the patchbay for the synth, which was a cool way to give it a ui without actually writing any visual code.
+
+
+
+okay, you say, but in a eurorack synthesizer, signals aren't just used for audible sound: the same outputs can 
+be used as control voltage, say to trigger an envelope or sweep a frequency. webaudio basically replicates this 
+with parameter inputs that accept the same connections as regular audio nodes. all i needed to do to expose this 
+to the document was provide named slots in components:
+
+<fx-filter frequency=200>
+  <fx-gain gain=50 slot=frequency>
+    <source-osc frequency=1></source-osc>
+  </fx-gain>
+  <source-osc frequency=440></source-osc>
+</fx-filter>
+
+
+
+here we have a similar setup as before, where a 440hz tone is fed into a filter, but there's an additional 
+input: the <fx-gain> is feeding a control signal with a range of -50 to 50 into the filter's 
+frequency parameter once per second. the building blocks are the same no matter where we're routing a 
+signal, and the code for handling parameter inputs ends up being surprisingly 
+concise since it's able to lean on the primitives that slots provide for us.
+
+the mask of the demon
+
+
+in photography and cinema, the term "chiaroscuro" refers to the interplay and contrast between light and dark 
+— mario bava's black sunday is one of my favorite examples, with its inky black hallways and 
+innovative color masking effects. i think of the shadow dom the same way: it's not a replacement for the light 
+dom, but a complement that can be used to give it structure.
+
+
+
+as someone who loves to inject metaphor into code, this kind of thing is really satisfying. by combining slots, 
+shadow dom, and markup patterns, we can embed a language in html that produces either abstract data structures, 
+user interface, or both. without adding any browser plugins, we're able to manipulate this tree just using the 
+dev tools, so we can easily experiment with our application, and it's compatible with our existing editor 
+tooling too.
+
+
+
+part of the advantage of custom elements is that they have a lower usage floor: they do 
+really well at replacing the kinds of widgets that jqueryui and bootstrap used to provide, which don't by 
+themselves justify a full single-page app architecture. this makes them more accessible to the kinds of people 
+that react has spent years alienating with js-first solutions — and by that, i mean designers, or people 
+who primarily use the kinds of html/css skills that have been gendered as feminine and categorized 
+as "lesser" parts of the web stack.
+
+
+
+so i understand why, for that audience, the current focus is on custom elements that primarily use the light 
+dom: after all, i started using custom elements in 2014, and it took six more years before i was comfortable 
+with adding shadow dom. but it's worth digging a little deeper. shadow dom and slots are some of my favorite 
+parts of the web component api now, because of the way that they open up html as not just a presentational 
+toolkit, but also as an abstraction for expressing myself and structuring my code in a language that's 
+accessible to a much broader range of people.
+        
+
+          11:23 x 
+          permalink
+
+march 21, 2023
+filed under: tech»mobile
+
+enthusiasm gap
+
+
+
+            
+if i had to guess, i'd say the last time there was genuine grassroots mania for "apps" as a general concept was 
+probably around 2014, a last-gasp burst of energy that coincides with a boom of the "sharing economy" before it 
+became clear the whole thing was just sparkling exploitation. for a certain kind of person, specifically people 
+who are really deeply invested in having a personal favorite software company, this was a frustrating state of 
+affairs. if you can't count the apps on each side, how can you win?
+
+
+
+then twitter started its slow motion implosion, and mastodon became the beneficiary of the exodus of users, and 
+suddenly last month there was a chance for people to, i don't know, get real snotty about tab 
+animations or something again. this ate up like a week of tech punditry, and lived rent-free in my head for 
+a couple of days.
+
+
+
+it took me a little while to figure out why i found this entire cycle so frustrating, other than just general 
+weariness with the key players and the explicit "people who use android are just inherently tasteless" attitude, 
+until i read this post by game dev 
+liz ryerson about gdc, and specifically the conference's experimental games workshop session. ryerson notes 
+the ways that commercialization in indie games led to a proliferation of "one clever mechanic" platformers at 
+egw, and an emphasis on polish and respectability — what she calls "portfolio-core" — in service of 
+a commercial ideology that pushed quirkier, more personal titles out:
+
+
+
+
+there is a danger here where a handful of successful indie developers who can leap over this invisible standard 
+of respectability are able to make the jump into the broader industry and a lot of others are expected not to 
+commercialize their work that looks less 'expensive' or else face hostility and disinterest. this would in a way 
+replicate the situation that the commercial indie boom came out of in the 2000's. 
+
+
+
+however there is also an (i'd argue) even bigger danger here: in a landscape where so many niche indie 
+developers are making moves to sell their work, the kind of audience of children and teenagers that flocked to 
+the flash games and free web games that drove the earlier indie boom will not be able to engage with this 
+culture at large anymore because of its price tag. as such, they'll be instead sucked into the ecosystem of 
+free-to-play games and 'ugc' platforms like roblox owned by very large corporate entities. this could 
+effectively destroy the influence and social power that games like yume nikki have acquired that have driven 
+organic fan communities and hobbyist development, and replace them with a handful of different online ecosystems 
+that are basically 'company towns' for the corporations who own them. and that's not a good recipe if you want 
+to create a space that broadly advocates for the preservation and celebration of art as a whole.
+
+
+
+
+it's worth noting that the blog post that kicked off the design conversation refers to a specific category of 
+"enthusiast" apps. this doesn't seem to be an actual term in common use anywhere — searching for this 
+provides no prior art, except in the vein of "apps for car enthusiasts" — and i suspect that it's largely 
+used as a way of excluding the vast majority of software people actually use on mobile: cross-platform 
+applications written by large corporations, which are largely identical across operating systems. and of course, 
+there's plenty of shovelware in any storefront. so if you want to cast broad aspersions across a userbase, you 
+have to artificially restrict what you're talking about in a vaguely authoritative way to make sure you can 
+cherry-pick your examples effectively.
+
+
+
+in many ways, this distinction parallels the distinction ryerson is drawing, between the california ideology game devs that focus on 
+polish and "finish your game" advice, and (to be frank) the weirdos, like stephen "thecatamites" gillmurphy or michael brough, designers infamous for creating great 
+games that are "too ugly" to sell units. it's the idea that a piece of software is valuable primarily because it 
+is a artifact that reminds you, when you use it, that you spent money to do so.
+
+
+
+of course, it's not clear that the current pace of high-definition, expansive scope in game development is 
+sustainable, either: it requires grinding up huge amounts of human capital (including contract labor in 
+developing countries) and wild degrees of investment, with no guarantee that the result will satisfy the 
+investor class that funded it. and now you want to require every little trivial smartphone app have that level 
+of detail? in 
+this economy?
+
+
+to be fair, i'm not the target audience for that argument. i write a lot of my own software. i like a lot of it, 
+and some of it even sparks joy, but not i suspect in the way that the "enthusiast app" critics are trying to 
+evoke. sometimes it's an inside joke for an audience of one. maybe i remember having a good time getting 
+something to work, and it's satisfying to use it as a result. in some cases (and really, social media networks 
+should be a prime example of this), the software is not the point so much as what it lets me read or listen to 
+or post. being a "good product" is not the sum total through which i view this experience.
+
+
+
+(i would actually argue that i would rather have slightly worse products if it meant, for example, that i didn't 
+live in a surveillance culture filled with smooth, frictionless, disposable objects headed to a landfill and/or 
+the bottom of the rapidly rising oceans.)
+
+
+
+part of the reason that the california ideology is so corrosive is because it can dangle a reward in front of 
+anything. even now, when i work on silly projects 
+for myself, i find myself writing elaborate readme files or thinking about how to publish to a package 
+manager — polish that software, and maybe it'll be a big hit in the marketplace, even though that's 
+actually the last thing i would honestly want. i am trying to unlearn these urges, to think of the things i 
+write as art or expression, and not as future payday. it's hard.
+
+
+
+but right now we are watching software companies tear themselves apart in a series of weird hype spasms, from 
+nfts to chatbots to incredibly ugly vr environments. it's an incredible time to be alive. i can't imagine 
+anything more depressing than to look at twitter's period of upheaval, an ugly transition from the worldwide 
+embodiment of context collapse to smaller, (potentially) healthier communities, and to immediately ask "but how 
+can i turn this into a divisive, snide comment?" maybe i'm just not enough of an enthusiast to understand.
+        
+
+          18:26 x 
+          permalink
+
+
+
+past - 
+        present
+
+
+
+
+
+
+detours
+about me
+caret
+github
+channels
+
+rss feed
+
+
+          mile zero is the personal website of thomas wilburn. all statements and opinions here are my own, 
+          and do not represent the views or policies of my employers at civic news or 
+          elsewhere.
+
+      
+
+
+
+

@@ -1,0 +1,250 @@
+
+
+
+
+noeld.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+javascript dhtml menu powered by milonic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    no drop-down menu? click here for a map of the site.
+                
+
+
+© 1995-2020, noël danjou.
+
+
+
+
+
+
+
+
+
+
+
+
+                                    years of presence on the web.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+amcap
+amcap is a still and video capture application with advanced preview and recording features.
+
+
+
+
+
+dynsite
+
+                dynsite is an advanced dynamic ip updater that allows you to 
+				host your own public server or to easily get access to your  pc from 
+              anywhere in the world.
+
+
+
+
+
+other programs
+
+                other popular programs for windows includes
+              display,
+              motion detection,
+              universal converter,
+              upnp tester, 
+  			wakeup, or
+			webcam diagnostics.
+				programmers may also be interested in my
+				developer tools. 
+				click the download menu for more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+latest news 
+
+
+
+
+
+
+
+
+ 
+            saturday, march 09, 2019:
+            wakeup v2.1 released
+                        
+
+
+ 
+
+
+wakeup is a tool that controls the automatic suspend and resume 
+        feature of your system and can possibly prevent suspend or invoke actions on 
+        automatic resume. version 2.1 now runs natively on both 32-bit and 64-bit systems.   read more
+
+
+
+
+
+
+
+ 
+            saturday, march 09, 2019:
+            display v1.5 released
+                        
+
+
+ 
+
+
+display is a small command-line tool that allows you to change 
+		either the display orientation or the brightness or contrast of a specified display monitor or to 
+		turn all the monitors or the screen saver on and off to save power. 
+		version 1.5 now runs natively on both 32-bit and 64-bit systems.   read more
+
+
+
+
+
+
+
+ 
+            monday, december 11, 2017:
+            amcap v9.23 released
+                        
+
+
+ 
+
+
+amcap is a still and video capture application with advanced preview 
+            and recording features. it is a desktop application designed for computers running 
+            windows 7 sp1 or later. most video-for-windows and 
+            directshow-compatible devices are supported whether they 
+            are cheap webcams or advanced video capture cards.   read more
+
+
+
+
+
+
+
+ 
+            monday, october 26, 2015:
+            dynsite v1.13 released
+                        
+
+
+ 
+
+
+                                this version of dynsite is a maintenance build with a new 
+	      installer compatible with windows 10.   read more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+last update:
+      
+                            saturday january 11, 2020 12:00:52
+                            © 1995-2020, noël danjou. all rights reserved.
+
+
+
+
+
+
+

@@ -1,0 +1,949 @@
+
+
+
+nvd - home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+you are viewing this page in an unauthorized frame window.
+
+		this is a potential security issue, you are being redirected to 
+		https://nvd.nist.gov
+
+
+
+
+
+
+
+you have javascript disabled. this site requires javascript to be enabled for complete site functionality.
+
+
+		             
+		            an official website of the united states government
+
+here's how you know
+
+
+
+
+
+
+
+
+
+
+
+official websites use .gov
+
+		                                a .gov website belongs to an official government organization in the united states.
+		                            
+
+
+
+
+
+
+
+
+
+
+secure .gov websites use https
+
+		                            a lock () or https:// means you've safely connected to the .gov website. share sensitive information only on official, secure websites.
+		                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ nvd menu
+
+
+
+
+
+
+
+
+
+ general  expand or collapse
+
+
+
+
+
+
+nvd dashboard
+
+
+news and status updates
+
+
+
+
+faq
+
+
+
+
+visualizations
+
+
+legal disclaimer
+
+
+
+
+ vulnerabilities 
+expand or collapse
+
+
+
+
+
+
+search & statistics
+
+
+weakness types
+
+
+
+
+legacy data feeds
+
+
+vendor comments
+
+
+
+
+cvmap
+
+
+
+
+ vulnerability metrics  expand or collapse
+
+
+
+
+
+
+cvss v4.0
+											calculators
+
+
+
+
+cvss v3.x
+											calculators
+
+
+
+
+cvss v2.0
+											calculator
+
+
+
+
+ products  expand or collapse
+
+
+
+
+
+
+cpe dictionary
+
+
+cpe search
+
+
+
+
+cpe statistics
+
+
+swid
+
+
+
+
+
+
+developers expand or collapse
+
+
+
+
+
+
+start here
+
+
+request an api key
+
+
+
+
+vulnerabilities
+
+
+products
+
+
+
+
+data sources
+
+
+terms of use
+
+
+
+
+
+ contact nvd 
+ other sites  expand or collapse
+
+
+
+
+
+
+checklist (ncp) repository
+
+
+configurations (cce)
+
+
+800-53 controls
+
+
+
+
+scap
+											validated tools
+
+
+scap
+
+
+
+
+usgcb
+
+
+
+
+ search  expand or collapse
+
+
+
+
+
+
+vulnerability search
+
+
+
+
+cpe search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+information technology laboratory
+
+
+national vulnerability database
+
+national vulnerability database
+nvd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+general expand or collapse
+
+
+
+
+nvd dashboard
+news and status updates
+faq
+visualizations
+legal disclaimer
+
+
+ vulnerabilities 
+expand or collapse
+
+
+
+
+search & statistics
+weakness types
+legacy data feeds
+vendor comments
+cvmap
+
+
+ vulnerability metrics  expand or collapse
+
+
+
+
+cvss v4.0
+							calculator
+cvss v3.x
+								calculators
+cvss v2.0
+								calculator
+
+
+ products  expand or collapse
+
+
+
+
+cpe dictionary
+cpe search
+cpe statistics
+swid
+
+
+
+developers
+expand or collapse
+
+
+
+
+start here
+request an api key
+vulnerabilities
+products
+data sources
+terms of use
+
+
+
+ contact nvd 
+ other sites 
+expand or collapse
+
+
+
+
+checklist (ncp)
+								repository
+configurations (cce)
+800-53 controls
+scap
+								validated tools
+scap
+usgcb
+
+
+ search  expand or collapse
+
+
+
+
+vulnerability search
+cpe search
+
+
+
+
+
+
+
+
+
+
+
+new communications page
+
+
+
+
+
+
+
+
+
+
+cvss v4.0 support
+
+
+
+
+
+
+
+
+
+
+
+2.0 apis
+
+
+
+
+
+ the nvd is the u.s. government repository
+			of standards based vulnerability management data represented using
+			the security content automation protocol (scap). this data enables
+			automation of vulnerability management, security measurement, and
+			compliance. the nvd includes databases of security checklist
+			references, security-related software flaws, product names, and 
+			impact metrics.  
+for information on how to cite the nvd, including the
+			database's digital object identifier (doi), please consult  
+			nist's public data repository.
+ 
+
+legal disclaimer:
+
+				here is where you can read the nvd legal disclaimer.
+			
+
+
+
+
+
+
+
+
+ last
+									20 scored vulnerability ids & summaries
+  cvss
+									severity 
+
+
+
+
+
+
+cve-2024-4975  - a vulnerability, which was classified as problematic, has been found in code-projects simple chat system 1.0. this issue affects some unknown processing of the component message handler. the manipulation leads to cross site scripting. the attack m...
+
+										read cve-2024-4975 published:
+										may 16, 2024; 6:15:12 am -0400
+									
+
+
+
+ v3.1: 6.1 medium
+
+
+
+
+
+
+
+cve-2024-4974  - a vulnerability, which was classified as problematic, was found in code-projects simple chat system 1.0. affected is an unknown function of the file /register.php. the manipulation of the argument name leads to cross site scripting. it is possible...
+
+										read cve-2024-4974 published:
+										may 16, 2024; 6:15:11 am -0400
+									
+
+
+
+ v3.1: 6.1 medium
+
+
+
+
+
+
+
+cve-2024-13867  - the listivo - classified ads wordpress theme theme for wordpress is vulnerable to reflected cross-site scripting via the 's' parameter in all versions up to, and including, 2.3.67 due to insufficient input sanitization and output escaping. this ma...
+
+										read cve-2024-13867 published:
+										february 13, 2025; 5:15:09 am -0500
+									
+
+
+
+ v3.1: 6.1 medium
+
+
+
+
+
+
+
+cve-2024-4973  - a vulnerability classified as critical was found in code-projects simple chat system 1.0. this vulnerability affects unknown code of the file /register.php. the manipulation of the argument name/number/address leads to sql injection. the attack ca...
+
+										read cve-2024-4973 published:
+										may 16, 2024; 6:15:10 am -0400
+									
+
+
+
+ v3.1: 9.8 critical
+
+
+
+
+
+
+
+cve-2025-22480  - dell supportassist os recovery versions prior to 5.5.13.1 contain a symbolic link attack vulnerability. a low-privileged attacker with local access could potentially exploit this vulnerability, leading to arbitrary file deletion and elevation of p...
+
+										read cve-2025-22480 published:
+										february 13, 2025; 11:16:48 am -0500
+									
+
+
+
+ v3.1: 7.8 high
+
+
+
+
+
+
+
+cve-2024-4972  - a vulnerability classified as critical has been found in code-projects simple chat system 1.0. this affects an unknown part of the file /login.php. the manipulation of the argument email/password leads to sql injection. it is possible to initiate ...
+
+										read cve-2024-4972 published:
+										may 16, 2024; 5:15:18 am -0400
+									
+
+
+
+ v3.1: 9.8 critical
+
+
+
+
+
+
+
+cve-2024-13639  - the read more & accordion plugin for wordpress is vulnerable to unauthorized modification and loss of data due to a missing capability check on the expmdeletedata() function in all versions up to, and including, 3.4.2. this makes it possible for a...
+
+										read cve-2024-13639 published:
+										february 13, 2025; 4:15:07 am -0500
+									
+
+
+
+ v3.1: 4.3 medium
+
+
+
+
+
+
+
+cve-2025-1199  - a vulnerability was found in sourcecodester best church management software 1.1. it has been classified as critical. this affects an unknown part of the file /admin/app/role_crud.php. the manipulation of the argument id leads to sql injection. it ...
+
+										read cve-2025-1199 published:
+										february 12, 2025; 8:15:09 am -0500
+									
+
+
+
+ v3.1: 6.5 medium
+
+
+
+
+
+
+
+cve-2025-1202  - a vulnerability classified as critical has been found in sourcecodester best church management software 1.1. affected is an unknown function of the file /admin/edit_slider.php. the manipulation of the argument id leads to sql injection. it is poss...
+
+										read cve-2025-1202 published:
+										february 12, 2025; 10:15:17 am -0500
+									
+
+
+
+ v3.1: 6.5 medium
+
+
+
+
+
+
+
+cve-2025-1201  - a vulnerability was found in sourcecodester best church management software 1.1. it has been rated as critical. this issue affects some unknown processing of the file /admin/app/profile_crud.php. the manipulation leads to sql injection. the attack...
+
+										read cve-2025-1201 published:
+										february 12, 2025; 9:15:32 am -0500
+									
+
+
+
+ v3.1: 6.5 medium
+
+
+
+
+
+
+
+cve-2025-1192  - a vulnerability was found in sourcecodester multi restaurant table reservation system 1.0. it has been classified as critical. affected is an unknown function of the file select-menu.php. the manipulation of the argument table leads to sql injecti...
+
+										read cve-2025-1192 published:
+										february 12, 2025; 6:15:10 am -0500
+									
+
+
+
+ v3.1: 8.8 high
+
+
+
+
+
+
+
+cve-2025-1191  - a vulnerability was found in sourcecodester multi restaurant table reservation system 1.0 and classified as critical. this issue affects some unknown processing of the file /dashboard/approve-reject.php. the manipulation of the argument breject_id...
+
+										read cve-2025-1191 published:
+										february 12, 2025; 6:15:08 am -0500
+									
+
+
+
+ v3.1: 8.8 high
+
+
+
+
+
+
+
+cve-2024-3613  - a vulnerability was found in sourcecodester warehouse management system 1.0. it has been rated as problematic. affected by this issue is some unknown functionality of the file supplier.php. the manipulation of the argument nama_supplier/alamat_sup...
+
+										read cve-2024-3613 published:
+										april 10, 2024; 8:15:07 pm -0400
+									
+
+
+
+ v3.1: 5.4 medium
+
+
+
+
+
+
+
+cve-2024-3614  - a vulnerability classified as problematic has been found in sourcecodester warehouse management system 1.0. this affects an unknown part of the file customer.php. the manipulation of the argument nama_customer/alamat_customer/notelp_customer leads...
+
+										read cve-2024-3614 published:
+										april 10, 2024; 10:15:46 pm -0400
+									
+
+
+
+ v3.1: 5.4 medium
+
+
+
+
+
+
+
+cve-2024-3612  - a vulnerability was found in sourcecodester warehouse management system 1.0. it has been declared as problematic. affected by this vulnerability is an unknown functionality of the file barang.php. the manipulation of the argument nama_barang/merek...
+
+										read cve-2024-3612 published:
+										april 10, 2024; 8:15:07 pm -0400
+									
+
+
+
+ v3.1: 5.4 medium
+
+
+
+
+
+
+
+cve-2024-7845  - a vulnerability was found in sourcecodester online graduate tracer system 1.0 and classified as critical. affected by this issue is some unknown functionality of the file /tracking/admin/fetch_it.php. the manipulation of the argument request leads...
+
+										read cve-2024-7845 published:
+										august 15, 2024; 10:15:18 pm -0400
+									
+
+
+
+ v3.1: 7.5 high
+
+
+
+
+
+
+
+cve-2024-3363  - a vulnerability was found in sourcecodester online library system 1.0. it has been classified as critical. this affects an unknown part of the file admin/borrowed/index.php. the manipulation of the argument bookpublisher/booktitle leads to sql inj...
+
+										read cve-2024-3363 published:
+										april 06, 2024; 5:15:08 am -0400
+									
+
+
+
+ v3.1: 9.8 critical
+
+
+
+
+
+
+
+cve-2024-7843  - a vulnerability, which was classified as problematic, was found in sourcecodester online graduate tracer system 1.0. affected is an unknown function of the file /tracking/admin/exportcs.php. the manipulation leads to information disclosure. it is ...
+
+										read cve-2024-7843 published:
+										august 15, 2024; 7:15:10 pm -0400
+									
+
+
+
+ v3.1: 7.5 high
+
+
+
+
+
+
+
+cve-2024-7931  - a vulnerability was found in sourcecodester online graduate tracer system 1.0 and classified as critical. this issue affects some unknown processing of the file /tracking/admin/view_csprofile.php. the manipulation of the argument id leads to sql i...
+
+										read cve-2024-7931 published:
+										august 19, 2024; 6:15:06 pm -0400
+									
+
+
+
+ v3.1: 8.8 high
+
+
+
+
+
+
+
+cve-2024-7844  - a vulnerability has been found in sourcecodester online graduate tracer system 1.0 and classified as problematic. affected by this vulnerability is an unknown functionality of the file /tracking/admin/add_acc.php. the manipulation of the argument ...
+
+										read cve-2024-7844 published:
+										august 15, 2024; 7:15:10 pm -0400
+									
+
+
+
+ v3.1: 5.4 medium
+
+
+
+
+
+
+
+
+
+
+
+
+				created 
+				
+september 20, 2022
+, 
+			
+			updated 
+			
+august 27, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+ twitter (link
+										is external)
+
+ facebook (link
+										is external)
+ linkedin (link
+										is external)
+ youtube (link
+										is external)
+
+rss
+
+
+govdelivery (link is external)
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+
+
+headquarters
+
+					100 bureau drive
+					
+					gaithersburg, md 20899
+					
+(301) 975-2000
+
+
+webmaster | contact us
+					| our other offices
+
+
+
+incident response assistance and non-nvd relatedtechnical cyber security questions:
+
+						us-cert security operations center
+						 email: soc@us-cert.gov
+ phone:	1-888-282-0870
+					
+
+
+
+
+
+
+site privacy
+			        |
+			          accessibility
+			        |
+			          privacy program
+			        |
+			          copyrights
+			        |
+			          vulnerability disclosure
+			        |
+			          no fear act policy
+			        |
+			          foia
+			        |
+			          environmental policy
+					|
+			          scientific integrity
+			        |
+			          information quality standards
+			        |
+			          commerce.gov
+			        |
+			          science.gov
+			        |
+			          usa.gov
+
+
+
+
+
+

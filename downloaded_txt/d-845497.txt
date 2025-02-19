@@ -1,0 +1,379 @@
+
+
+
+
+home | invisible tattoo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+        home
+      
+
+
+
+        about
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+testing gravity
+hobbyist tries to learn a new cms
+
+
+
+
+
+
+
+
+
+home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 11th aug 2017
+    
+
+
+
+body & hero classes
+
+
+
+the quark theme has the ability to allow pages to override some of the default options by letting the user set body_classes for any page.  the theme will merge the combination of the defaults with any body_classes set. this allows you to easily add hero classes to give your blog post some bling.
+
+
+
+journal
+photography
+
+
+
+
+
+
+
+
+ 23rd jul 2017
+    
+
+
+
+
+
+df style article link
+
+
+
+
+the blog skeleton also supports daring fireball style link posts.  simply add a link setting in your page header:
+link: http://daringfireball.net
+and your blog title becomes a link directly to that link you specified. easy peasy!
+
+
+
+journal
+link
+
+
+
+
+
+
+
+
+
+
+
+ 19th jul 2017
+    
+
+
+
+text & typography
+
+
+
+the quark theme is the new default theme for grav built with spectre.css the lightweight, responsive and modern css framework. spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
+
+
+
+journal
+
+
+
+
+
+
+
+
+
+
+
+ 4th jul 2017
+    
+
+
+
+the urban jungle
+
+
+
+lorem markdownum credas animos nec phoeboque; de iuris creverat et finis ad
+remis. mox hanc innixus actum dabitur amorum; esse erat paventem. cum sole deque
+manu memores neu aurea sit est, ira.
+
+
+
+travel
+photography
+city
+
+
+
+
+
+
+
+
+
+
+
+ 27th jun 2017
+    
+
+
+
+classic modern architecture
+
+
+
+lorem markdownum timore in, dant litora texit late fecisse. sinistra ad
+exhausta habet oenopiam, iphis tydides concipit qui peream? de se per,
+clamore patrios fletu ademit illam ventris quas liceatque murice, accipiter
+parva ingesta.
+
+
+
+photography
+architecture
+
+
+
+
+
+
+
+
+
+
+
+ 21st jun 2017
+    
+
+
+
+focus and blur
+
+
+
+lorem markdownum incessere hostem coronae properant. perque matrem sic
+flammiferis venit memorabat pompa, esse per. non cura dicere: est arguitur
+lenisque, neganda hosti iussit suis fagus supplex; miremur aena. pastum patri,
+misit tenui erile conciderant dictis me mora!
+
+
+
+mushroom
+photography
+
+
+
+
+
+
+«
+1
+2
+»
+
+
+
+
+
+
+
+
+
+
+
+
+random article
+ i'm feeling lucky!
+
+some text widget
+you can edit this by modifying the modules/sidebar/default.md page. 
+to reorder things in the sidebar you need to modify the partials/sidebar.html.twig template file.
+
+popular tags
+
+photography
+journal
+city
+mushroom
+architecture
+travel
+night
+link
+
+
+
+archives
+
+
+
+1
+august 2017 
+
+
+
+
+3
+july 2017 
+
+
+
+
+3
+june 2017 
+
+
+
+
+1
+may 2017 
+
+
+
+
+
+syndicate
+ atom 1.0
+ rss
+
+
+
+
+
+
+
+
+
+
+grav was  with  by trilby media.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+        home
+      
+
+
+
+        about
+      
+
+
+
+
+
+
+
+
+
+

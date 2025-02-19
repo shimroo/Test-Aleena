@@ -1,0 +1,180 @@
+
+
+
+
+
+welcome - jason weill
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skip to primary navigation
+skip to content
+skip to footer
+
+
+
+
+
+
+
+          jason weill
+          ð¥ ð© ð¦
+
+
+book
+
+articles
+
+resume
+
+about
+
+
+toggle menu
+
+
+
+
+
+
+
+
+
+
+
+        
+          welcome
+
+        
+      
+i like software, housing, cities, data visualization, and personal finance.
+
+
+photo by thom milkovic on unsplash
+
+
+
+
+
+
+
+
+
+
+
+
+hi. my name is jason weill (pronounced âwhileâ). iâm a software engineer on a career break since december 2024. i visualize election data and advocate for more housing. iâve also written a book on personal finance.
+
+
+
+
+
+newest article: âa fixed-income redemption ladder for a career break paycheck,â posted 
+february  2, 2025.
+one of the most immediate challenges associated with a career break is that there is no more direct deposit coming into my checking account to pay bills every month. there are a few ways to keep cash flowing. i opted for a redemption ladder with a mix of fixed-income investmentsâ¦. (read more)
+see articles for past articles.
+
+
+
+
+
+
+
+personal finance for people in tech
+
+a book for high-earning techies to learn about spending, saving, retirement, and other topics to help make the best use of their incomes. the second edition of personal finance for people in tech is now available in e-book, print, and audiobook formats.
+
+book home page
+
+
+
+
+
+
+
+
+
+
+
+election visualizations
+
+in my spare time, i visualize the results of elections in king county, washington, including the city of seattle. these maps have been featured in articles on the urbanist and capitol hill seattle, and have tens of thousands of views on twitter. all of my visualizations are on my tableauâ public profile.
+
+my visualizations
+
+
+
+
+housing
+iâm passionate about making seattle, my home since 2006, accessible and 
+livable for everyone. i am a supporter of the urbanist, both financially and with my election visuals. i have also dedicated money to the construction and upkeep of affordable housing through two local organizations, bellwether housing and forterraâs strong communities fund i.
+work
+iâm currently on a career break, not pursuing new employment.
+from october 2021 to december 2024, i was a senior front end engineer at 
+amazon web services, working on open source software for 
+project jupyter. i joined the jupyter frontends council in 2022, and was named a jupyter distinguished contributor in 2023.
+for information about my work history, see my resume.
+other projects
+since 2017, iâve been the administrator of 
+seattleâs pittsburgh steelers meetup group,
+one of the countryâs largest groups for steelers fans. we watch games at
+slim goody sports bar in ballard.
+in 2020, as the covid-19 epidemic forced companies to rethink their office 
+strategy, i wrote work from home forever, a 
+list of companies that permit at least employees to wfh in perpetuity. 
+i welcome additions and corrections on its github repository.
+also check out weill in japan, my travelogue from a six-week study abroad and homestay program in tokyo in 2002, which includes hundreds of photos and thousands of words from the trip.
+in 2001 i wrote livestat, a perl system for tracking statistics for quiz bowl games.  livestat is available freely and has been used to track many events years after i finished work on the most recent version.
+
+
+
+
+
+
+the opinions expressed on this site are mine alone.
+as an amazon associate, i earn from qualifying purchases.
+i get commissions for purchases made through links on this page.
+
+
+follow:
+ bluesky
+ mastodon
+ linkedin
+ github
+ twitter
+ feed
+
+
+© 2025 jason weill. powered by jekyll & minimal mistakes.
+
+
+
+
+

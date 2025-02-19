@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+chuggnutt! - blogging, beer, php, books, rants, and more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+chuggnutt!
+
+
+
+
+
+
+aboutarchivescontact
+
+
+
+
+
+
+
+
+
+blog
+
+
+
+bittywiki revisited
+
+a long time ago i wrote about bittywiki, detailing my efforts to write a simple php wiki engine based on the shortest wiki contest, which asks the question:
+
+what’s the shortest piece of source you can write that will implement a fully-featured wiki?
+
+looking over that old code i’d posted, it’s pretty basic, and doesn’t adhere to the general wiki principles posited by the swc. basically, that early version simply took hand-coded html entered into the form, stripped all but a few of the basic tags, and called it good.
+it’s not, though, and over the years i’ve actually updated the code to actually adhere to (many of) the principles as well as working to reduce the size within that constraint. and i recently realized i’d never revisited this topic to share the better code!
+(more…)
+february 4, 2025
+
+
+
+happy public domain day!
+
+today, january 1, is public domain day, marking the legal transition of works into the public domain. for this year it seems that the characters of popeye and tintin are both entering the public domain along with the usual list of books, music, film, and more from nearly 100 years ago.
+the duke university school of law post is a good roundup of what’s now public, with a couple of the big name books including faulkner’s the sound and the fury and hemingway’s a farewell to arms.
+i love the idea of celebrating the public domain like this, as an informal holiday, and in the last several years it’s been getting really interesting (in my opinion) with the public domaining of mickey mouse and winnie the pooh, along with early works of agatha christie, and so on. it’s only going to keep getting better each year.
+so celebrate by reading a public domain book, or watching a movie, or whatever catches your fancy. there’s a lot of great stuff to find out there.
+related, if outdated: i used to convert and (still) host freely available ebooks (in the public domain, largely via project gutenberg) for the palm ebook reader. i don’t know if anyone is still using that for reading ebooks (i very much doubt it, but you never know), but the files are still available.
+
+january 1, 2025
+
+
+
+let’s be clear: if you voted for trump, you’re racist.
+
+ugh, are we really doing this again? really? again??
+a second trump presidency is a descent into fascism, full stop. america is about to become nazi germany in the 1930s and it’s only going to get worse.
+if you voted for harris, voted for sanity and safety and against fascism, i see you, and i’m sorry for how this turned out.
+if you voted for trump? i don’t have the patience nor inclination to deal with any of you idiots any more. a vote for trump, particularly in 2024, marks you for what you are: a racist piece of shit, devoted to maintaining white supremacy and comfortable with fascism. gtfo.
+that’s it, that’s the post.
+
+november 9, 2024
+
+
+
+
+living in a cyberpunk dystopia is weird
+
+living in a cyberpunk dystopia is weird. most of the time we don’t even realize we are. we forget because it’s become so mundane, but we live in a highly connected online society largely influenced by giant corporations, and not for the better.
+
+cyberpunk is a subgenre of science fiction in a dystopian futuristic setting that tends to focus on a “combination of lowlife and high tech”, featuring futuristic technological and scientific achievements, such as artificial intelligence and cybernetics, juxtaposed with societal collapse, dystopia or decay.
+…
+cyberpunk plots often center on conflict among artificial intelligences, hackers, and megacorporations, and tend to be set in a near-future earth, rather than in the far-future settings or galactic vistas found in novels such as isaac asimov’s foundation or frank herbert’s dune. the settings are usually post-industrial dystopias but tend to feature extraordinary cultural ferment and the use of technology in ways never anticipated by its original inventors (“the street finds its own uses for things”).
+wikipedia: cyberpunk
+it’s important to understand that “cyberpunk” as a genre and a concept got its start generally in the late 1970s/early 1980s, and enjoyed a popular heyday through the ’80s and early ’90s. many—most—stories were written before much of the internet and everything that spun out of that even existed (things like wifi, webpages, smartphones, social media, and so on). william gibson wrote neuromancer without ever having used a computer; cellphones weren’t even invented yet.
+go back and read some of those early works. stylistically they are terrific, conceptually brilliant when done right, but much of the technology, extrapolated and imagined, well, it can be quaint.
+the point being, the online, near-future, “cyberspace” technologies imagined in most of those defining cyberpunk stories were for all intents and purposes surpassed in the mid-aughts. the cyberpunk “near future” is our “now future.” we’re living it.
+with that in mind, scroll back up and re-read that description again. we can pretty much tick every box. artificial intelligence? check. hackers? check. megacorporations? check. extraordinary cultural ferment? check.
+these don’t all look exactly like what was described in the books, of course. instead of cyberdecks we have tablets and laptops; in lieu of cybernetic brain jacks, we have smartphones and wifi. but let’s face it: we’re living in a science fiction genre.
+and yes—dystopia? check. our day to day experience may not seem particularly dystopic, but taking a step back and looking over the big picture, there are definitely elements of a slow motion dystopia in action that come into view. consider climate disaster, the creeping rise of fascism, the influence wielded over society by billionaires and corporations, the erosion and active suppression of individual freedoms, privacy, and education… small pieces that we just live with, rather than the overarching dystopian societies of the genre, but still present.
+it’s a strange time, and just to top off this post and emphasize how weird it all really is, i asked chatgpt to write a paragraph on this very subject:
+
+as we enter the year 2023, it’s becoming increasingly clear that the real world we live in is starting to resemble the dystopian cyberpunk futures that once only existed in fiction. from ubiquitous surveillance and the erosion of privacy, to the increasing influence of mega-corporations and the ever-widening gap between the rich and the poor, the signs are all around us. the world feels both familiar and alien at the same time, with strange new technologies and societal norms emerging faster than we can keep up. it’s a world where people are more connected than ever, yet more isolated and disconnected from each other. the pace of change and uncertainty is dizzying, and it’s hard to know what the future will hold. it’s a strange and surreal feeling to be living in a world that seems so out of step with the one we once imagined.
+
+there you have it.
+
+february 17, 2023
+
+
+
+
+sunflower
+january 16, 2023
+
+
+
+mastodon notes
+
+so i’ve been using mastodon a bit for the past few months, and with the latest influx of users via the great twitter migration of late 2022 i thought i’d jot down some of my notes on the platform.
+i have two active accounts, on different servers:
+
+my personal one, @chuggnutt@mastodon.cloud, which i originally created in 2018 when twitter’s dysfunction was becoming increasingly apparent.
+the brew site account at @brewsite@mastodon.online, created earlier this year to start hedging my social media bets in earnest and also to work to expand the beer blog’s reach and learn the new platform in the process.
+
+the first thing all new users encounter when creating a mastodon account is server (or “instance”) selection, which can be confusing and mystifying. it took a minute to get my head around the concept, but once i did, i realized that except for a few caveats, it doesn’t matter which server you choose. here’s why:
+
+each server is running its own instance of the core software, and has its own set of rules.
+all of them can connect and share data in a manner similar to rss.
+this interconnectivity, known in mastodon parlance as federating, essentially consolidates it all into a more-or-less seamless social media experience, just like you’d expect without knowing anything about different servers at all.
+
+now, here are those caveats i mentioned:
+
+because a server instance can be run by anyone, including bad actors, unsavories, and deplorables, you’ll want to check the rules of a given server before deciding if you want to join. many of these “bad” servers end up being blocked by the good ones, and these good ones have rules of conduct. pick one with good moderation and content policies.
+with the spotlight on mastodon and the big growth surge that’s been happening recently, some servers are undergoing growing pains and performance issues. for instance, the mastodon.online server that i have the brew site on is one of the popular ones, and its performance had slowed quite a bit at one point, seeming to be about 12 hours behind in updates. (of course the next day it was much improved and working in close to realtime again.) it’s hard to know ahead of time which servers are going to perform better but it’s something to keep in mind; you may want to pick a smaller, newer instance to join that isn’t getting hammered.
+if you decide you don’t want to be on that particular server, you can move to a new one and the process for doing so it supposed to be fairly easy, though i haven’t done it. one thing i’m unsure of for this process, however, is if you can move any content you created (posts, photos, etc.) to the new server as well, and if so how that works.
+
+i’ve been using both the website interface and the official android app and find both to be perfectly usable and fine. for the web, i activated the “enable advanced web interface” setting and i like it better than the default interface; it sets up multiple configurable columns for easier viewing and seems to be more responsive. you can enable this in “edit profile,” “preferences,” and “appearance.”
+overall i like it so far; the multiple servers issue i mentioned above isn’t an issue for me at all (other than occasional performance) as my home timeline shows me posts (“toots” in mastodon parlance, as opposed to “tweets” on twitter) from every user i follow, regardless of what server they are on, and i can favorite (“like”) and boost or reblog (same as retweet) any of those posts just fine.
+i don’t notice any algorithm issues, because there are none; that is, there’s no algorithm showing you customized content. to be fair, i always view my twitter timeline in chronological order and don’t let the algorithm mess with it, so there’s no change for me there.
+but hashtags (words prefixed with the “#” character, like “#hashtag” or “#craftbeer“) are super important on mastodon, because the search features are more limited, and hashtags are one of the few things you can search for. so if you want any of your content searchable, liberal use of hashtags is key. also, you can follow specific hashtags, similar to following people, which is something i’m still exploring.
+when posting images, two things to be mindful of: you should include descriptive “alt” text for the image, which is important for screen readers for visually impaired users; and images which could be considered sensitive should be flagged as such, which allows for people to decide to click to reveal an image they may not want appearing directly in their timeline for whatever reason.
+the alt text is simply another term for “text description” and it’s pretty straightforward to add a description to an image—either via the “edit” button on the image, or even an “add image description” option (or something similar). it’s good practice to caption all of your imagery this way to make your posts more accessible.
+i’ve been making sure to caption all images i’ve posted in this way, and so far have only flagged one image as sensitive on my @chuggnutt account; there’s probably an argument to be made about flagged pictures of beer as sensitive on @brewsite but i haven’t done much of that, except for setting “content warning” on my beer advent calendar posts (emulating a surprise reveal each day).
+a lot of these best practices and faqs can be found on fedi.tips, by the way, which i’ve found to be a useful resource.
+content warnings are the other area of note. i’ll just quote the fedi.tips site for these:
+
+content warnings (cws) are optional fediverse features which hide the content of a post behind a warning message. the post can be revealed by clicking on the warning.
+content warnings are for any kind of content where the person reading may not want to read it right that minute, but they may want to read later. it could be something serious like upsetting news, or less serious like film spoilers. there’s also a very strong fediverse tradition that those who are able to should use cws when talking about emotive topics such as politics or religion. it is also often used for potentially “not safe for work” content such as gore or nudity.
+
+they’re very easy to add when you’re writing a post, and are entirely optional, though considered polite and considerate to use them.
+so is mastodon going to replace twitter? yes and no. “yes” in that many twitter users, disgruntled with how the service and safety have degraded under the new management, are migrating to mastodon as a potential alternative. but “no” because mastodon is its own beast (so to speak), similar but different and isn’t trying to be twitter. it’s just another step in the ongoing evolution of social media.
+i noted this fact on twitter even, not long ago:
+
+everything ends. and nothing is as ephemeral and transient as social media.
+
+
+december 31, 2022
+
+
+
+
+prescription
+december 23, 2022
+
+
+
+
+pinecone
+november 18, 2022
+
+
+
+
+potato blossoms
+november 12, 2022
+
+
+
+
+chicken feet 75¢
+november 6, 2022
+
+
+
+
+
+
+1
+2
+3
+…
+114
+next page→
+
+
+
+
+
+
+
+
+
+
+check out my book!
+
+
+
+
+
+
+
+this is the personal website and online identity of jon abernathy, aka chuggnutt. this front page and most of this site consists of my blog wherein i post my musings on geeky stuff, technology, pop culture, and whatever else piques my interest, as well as occasional original fiction. i also have two other blogs: the brew site (i write about beer) and hack bend (i write about bend, oregon, where i live).
+i also maintain a number of online presences:
+
+mastodon
+facebook
+untappd
+instagram
+my amazon wishlist
+
+you can try to get in touch with me on any of those sites, or you can fill out my contact form to reach me directly.
+
+
+
+
+
+
+
+
+				designed with wordpress 
+
+
+
+
+
+
+
+
+
+
+
+

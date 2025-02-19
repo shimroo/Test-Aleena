@@ -1,0 +1,378 @@
+
+
+
+
+
+
+kyle mulka's blog  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kyle mulka's blog
+
+
+
+
+
+
+dynamodb, explained
+april 30th, 2012 
+
+what is dynamodb?
+dynamodb is a nosql database service offered by amazon web services. it is designed to seamlessly scale in terms of the amount of data and the read/write request volume. you tell it how many writes per second and how many reads per second you want to be able to handle, and it takes care of partitioning your data across the required amount of hardware.
+it is a key-value store meaning that the primary way of putting and getting data is by the primary index. there are no secondary indexes. (yet?) the primary index is the main key which can either be a single hash key, or a hash key and a range key. the hash key is what dynamodb uses to partition your data across machines. because of this, you should make sure that that the read/write request volume is evenly distributed across different hash keys. if you have one hash key that gets a lot of writes, all those writes will go to the same partition, and use up all of your write throughput for that partition even if you have more writes per second available in other partitions.
+in addition to getting items out of dynamodb by using their key, there are two other ways you can get items. dynamodb implements scan and query functions. the scan is like a full table scan. every item in the datastore is looked at. you can filter based on attributes in the item, but the performance will still be based on the total number of items in the table, not the number of items returned. query retrieves a subset of items from the table based on key. you specify a single hash key, and a condition for the range key such that all the range keys returned in the query are next to each other in the table. query performance is based on how many items are returned, not how many are in the table.
+hopefully that helps! leave a comment if you have questions.
+
+posted in general | tags: aws dynamodb |    no comments »
+
+
+how to install sqoop on amazon elastic map reduce (emr)
+april 23rd, 2012 
+
+it is possible to install sqoop on amazon emr. you can use sqoop to import and export data from a relational database such as mysql. here’s how i did it with mysql. if you are using a different database, you’ll probably need a different jdbc connector for that database.
+i’m using amazon’s hadoop versionâ 0.20.205, which, i think, was the default. you can see all supported versions of amazon’s hadoop here:
+http://docs.amazonwebservices.com/elasticmapreduce/latest/developerguide/usingemr_config_supportedversions.html
+i downloaded sqoop-1.4.1-incubating__hadoop-0.20.tar.gz from here:â http://www.apache.org/dyn/closer.cgi/sqoop/
+i downloaded mysql-connector-java-5.1.19.tar.gz from here: http://www.mysql.com/downloads/connector/j/
+once i downloaded these two tar.gz files, i uploaded them to an s3 bucket. i also put this script below in the s3 bucket. make sure to replace <bucket_name> with your own bucket name.
+#!/bin/bash
+#install sqoop - s3://<bucket_name>/install_sqoop.sh
+cd
+hadoop fs -copytolocal s3://<bucket_name>/sqoop-1.4.1-incubating__hadoop-0.20.tar.gz sqoop-1.4.1-incubating__hadoop-0.20.tar.gz
+tar -xzf sqoop-1.4.1-incubating__hadoop-0.20.tar.gz
+hadoop fs -copytolocal s3://<bucket_name>/mysql-connector-java-5.1.19.tar.gz mysql-connector-java-5.1.19.tar.gz
+tar -xzf mysql-connector-java-5.1.19.tar.gz
+cp mysql-connector-java-5.1.19/mysql-connector-java-5.1.19-bin.jar sqoop-1.4.1-incubating__hadoop-0.20/lib/
+after i started a job flow, i added this script as a step to the job flow. you can do this via the api, or the cli like this:
+./elastic-mapreduce -j <jobflow_id> --jar s3://elasticmapreduce/libs/script-runner/script-runner.jarâ --arg s3://<bucket_name>/install_sqoop.sh
+once the step completes, you can run sqoop imports and exports. here’s an example of a sqoop export:
+./sqoop-1.4.1-incubating__hadoop-0.20/bin/sqoop export --connect jdbc:mysql://<mysql_host>/<database_name> --table <table_name> --export-dir <hdfs_path> --fields-terminated-by , --input-null-non-string '\\n' --username <username> --password <password>
+hope that helped. let me know if you have any questions.
+
+posted in general |    14 comments »
+
+
+script to delete all tables in hive
+april 18th, 2012 
+
+hive -e ‘show tables’ | xargs -i ‘{}’ hive -e ‘drop table {}’
+
+posted in general | tags: hive |    2 comments »
+
+
+what #newtwitter means for twilk
+september 27th, 2010 
+
+welp… #newtwitter is coming out. part of the “enhancement” of the new twitter layout is the fact that the space in the middle is larger. they basically took the small right column and doubled the size. they also put a bar across the top of the page and kept the main content in about the same spot. so, there is less room for the twitter background, both on the sides and on the top. this means that the effectiveness of the twitter background is reduced. it also means that there are less people showing up on twilk backgrounds. i’ve seen a small drop in traffic to twilk.com, and a few twilk pro cancelations because of this new layout. what does this mean for twilk? it means i have to innovate. it means that twilk is probably going to branch out from doing just twitter backgrounds. we’ll probably have to have a separate web page to display twitter followers profile photos. (and more) if you have any ideas, or want to be updated when we launch these changes shoot us an email.
+
+posted in general |    3 comments »
+
+
+how to scale a web application
+april 28th, 2010 
+
+in my mind there are two scaling patterns that are used to scale a typical web application. one handles the computation requirements, the other handles the storage requirements. another way to think about this is stateful vs stateless scaling.
+if you don’t need to handle any state (storage beyond each web request) in your web application, you can use the stateless scaling approach. the stateless scaling approach is pretty simple. you get what is called a load balancer and put a bunch of servers behind it. a good load balancer can handle hundreds if not thousands of servers, so you should be good for quite a lot of traffic before you’d need a different strategy such as dns round robin or multi-homed ips. of course, the load balancer here is a single point of failure, so if you are worried about downtime if the load balancer ever fails, you should look into some other high availability solutions. you can keep adding (and removing servers) from the load balancer as traffic goes up and down. a good way to do this is with amazon ec2’s auto-scaling feature.
+if you need to store state in your web application (which is usually the case) you need a different strategy for scaling out the storage. a good strategy here is what is know as partitioning or sharding. the idea is to split up the data onto different servers in some way. what you need is some form of a distributed hash table. the data is typically split based on the primary key, in other words, the identifier that is most often used to access the data. once you get a large enough set of data, you’ll need a way to split up the data such that when you add or remove a server, you don’t have to shuffle all the data around. for this, i would suggest using a concept known as consistent hashing. if you are just storing files, i’d recommend going with amazon’s s3 which does this sharding for you, basically infinitely. if you need faster access to a bunch of smaller pieces of data look at mysql or try one of the many nosql database systems out there, some of which have built in sharding.
+
+posted in general |    no comments »
+
+
+why i switched from svn to git
+january 7th, 2010 
+
+a huge benefit of git (or any other distributed source code control system) is that the entire repository is stored in each developer’s environment. this means that you automatically have as many backups of the source code as you have developers. if you use a hosted service such as github, this means that even if github looses all of your data, you still have all your source code (and revision history) on your own machines.
+in a software startup, your source code is like your crown jewels. losing your source code can be disastrous. 
+this is primarily why i switched from svn to git, and why you should too.
+
+posted in general | tags: backups, git, svn |    1 comment »
+
+
+umich caen wireless on snow leopard
+november 11th, 2009 
+
+i was just told how to get on to the university of michigan caen wireless with the vpn client built into mac osx snow leopard, so i thought i would share.
+if there’s anyone actually subscribed to my blog that doesn’t care about this… sorry, i just use it as a dumping ground for information.
+since some of this info is protected, i’ll just refer you to the protected url that has the info:
+https://www.itcom.itd.umich.edu/vpn/software/um-on-campus-wireless.pcf
+go to system preferences, network.
+click the plus sign in the lower left to add a new connection.
+interface: vpn
+vpn type: cisco ipsec (if this doesn’t show up, try downloading the cisco vpn client from here)
+server address: <host in the pcf file>
+account name: <your uniqname>
+password: <your regular umich password>
+click “authentication settings…”
+shared secret: <grouppwd in the pcf file>
+group name: <groupname in the pcf file>
+
+posted in general | tags: caen, cisco, snow leopard, umich, vpn |    1 comment »
+
+
+my thoughts on startup weekend redmond
+september 2nd, 2009 
+
+so, startup weekend redmond happened last weekend. it was hosted by bizspark on microsoft’s campus, and heavily branded that way. 14 out of the 15 startups were built using microsoft technologies [edit] likely because of the $5,000 prize from bizspark[/edit]. guess who won the popular vote! the only team that didn’t build using microsoft. they built an iphone app, a palm pre app, and i believe a web app using something other than asp or azure. (correct me if i’m wrong) apparently that team was disqualified not eligible for the prize money from bizspark because of that and the prize was given instead to the #2 team. more info can be found on the techflash report about startup weekend redmond.
+microsoft/bizspark got a lot of bad press as a result. clint nelson, one of the guys behind of the national startup weekend organization posted a blog entry called sticking up for the big guy. you might want to read that since what follows is basically my response to that article.
+startup weekend is a great concept. it’s a great community building event where people in the same city interested in the same thing (namely building a startup) get together for a weekend and work together. you get to meet new people, and get to know people better that you’ve already met. but, the fact of the matter is most teams formed at startup weekend don’t continue working together on the startup after the weekend is over. so, saying that “we launched 15 startups that otherwise would not exist” is kind of a misnomer. it’s not about the startups that are launched that weekend. it’s about the connections made between the people. hopefully those people will continue the conversation and partner to form their own startups later.
+it’s great that microsoft wants to support the startup community via bizspark, but i feel that microsoft is being disingenuous by only giving an award to a startup that uses microsoft’s technology at startup weekend.
+if they want to have their own bizspark weekend or whatever, that’s fine. they can run it themselves. they have enough money, they have enough people, they have a big enough marketing budget. microsoft doesn’t need startup weekend to run their own event that is similar that is restricted to building on the microsoft stack.
+“bizspark is absolutely being crucified for giving us the community exactly what we asked for.” really? you asked them to disqualify anyone not using microsoft technology?
+in the future, please keep prize money out of startup weekend. kthxbye
+
+posted in general |    10 comments »
+
+
+twilk, a twitter background generator
+july 4th, 2009 
+
+twilk is a web service i’ve been working for a couple months now. i launched it a few weeks ago at a twitter conference. it automatically creates a twitter background made up of the profile photos of the people you follow on twitter. if you are on twitter, you have to check it out! i’d love to hear your feedback on the service so that i can continue to iterate and make it better. so, leave a comment, or use the feedback form after using the service. if you’d like an example, check out my twitter page. the background has a bunch of my friends’ photos on it, like this:
+
+
+posted in general |    2 comments »
+
+
+list of sites affected by fisher plaza data center fire
+july 3rd, 2009 
+
+i’m keeping a list of the sites that were/are seemingly affected by the fisher plaza data center fire last night sorted by alexa traffic rank. comment if you have more information. sites marked with a * appear to be back up. follow me (@mulka) on twitter to get notified when i update this list.
+http://bing.com/travel 57 *
+http://allrecipes.com 871 *
+http://bigfishgames.com 1,822 *
+http://geocaching.com 4,233 *
+http://authorize.net 5,345 *
+http://komonews.com 13,306 *
+http://dotster.com 27,895 *
+http://waymarking.com 38,446 *
+http://kcls.org 41,085 *
+http://marshillchurch.org 63,317 *
+http://ideascale.com 85,951 *
+http://adhost.com 180,491 *
+http://onlinemetals.com 180,846 *
+http://tomsofmaine.com 247,800 *
+http://pacsci.org 285,570 *
+http://pccnaturalmarkets.com 300,451 *
+http://avayausers.com 413,083 *
+http://pspinc.com 556,777 *
+http://bartelldrugs.com 471,734 *
+http://ovaleye.com 3,392,698 *
+http://newsdata.com 3,456,473 *
+http://tradetech.net 7,113,570 *
+even more in the comments including:
+http://www.portentinteractive.com
+http://www.momagenda.com
+http://www.princesslodges.com
+http://www.goiam.org
+http://www.ringor.com
+http://www.nettica.com/
+http://www.motherjones.com
+http://www.questionpro.com
+http://micropoll.com
+http://www.square1books.com
+
+
+
+posted in general | tags: fisherfire |    135 comments »
+
+
+« older entries
+
+
+
+
+
+
+archives
+
+april 2012
+september 2010
+april 2010
+january 2010
+november 2009
+september 2009
+july 2009
+may 2009
+april 2009
+december 2008
+november 2008
+september 2008
+july 2008
+june 2008
+may 2008
+april 2008
+february 2008
+december 2007
+november 2007
+october 2007
+august 2007
+june 2007
+may 2007
+april 2007
+march 2007
+january 2007
+december 2006
+november 2006
+october 2006
+august 2006
+july 2006
+june 2006
+may 2006
+april 2006
+march 2006
+february 2006
+january 2006
+december 2005
+november 2005
+october 2005
+september 2005
+august 2005
+july 2005
+june 2005
+may 2005
+april 2005
+march 2005
+february 2005
+january 2005
+december 2004
+
+
+categories ajax (11)
+
+cartiki (2)
+
+computer science (114)
+
+cool (100)
+
+events (7)
+
+facebook (3)
+
+funny (39)
+
+games (4)
+
+general (43)
+
+geocaching (2)
+
+google maps (44)
+
+hacks (3)
+
+links (25)
+
+music (2)
+
+my projects (62)
+
+news (15)
+
+personal (60)
+
+pictures (10)
+
+quotes (10)
+
+random thought (28)
+
+reviews (1)
+
+seattle (8)
+
+site status (10)
+
+social networking (3)
+
+uofm students (56)
+
+videos (12)
+
+voip (1)
+
+weird (16)
+
+wifi (1)
+
+wordpress (2)
+
+
+blogroll
+
+andrew turner
+frederic barthelemy
+jack li
+matt hampel
+matt pizzimenti
+pete giencke
+travis howe
+
+
+links
+
+ann arbor
+kyle mulka
+today’s events in aa
+university of michigan
+
+
+my site
+
+contact me
+delicious bookmarks
+google maps
+main
+
+
+projects
+
+cartiki
+gmap uploader
+mschedule
+scrapwalls
+
+
+meta
+
+log in
+valid xhtml
+xfn
+wordpress
+
+
+
+
+search for:
+
+
+ 
+
+
+
+
+
+
+		kyle mulka's blog is powered by wordpress with white as milk designed by azeem azeez. entries (rss) and comments (rss).
+		
+
+
+
+
+
+
+
+

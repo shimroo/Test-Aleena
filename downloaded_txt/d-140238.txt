@@ -1,0 +1,1182 @@
+
+
+
+server operating systems technical comparison
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+music
+
+ osdata.com
+
+free computer programming text book
+programming computers using any programming language
+free book on unix/linux system administration
+teach yourself unix/linux system administration and shell programming written by milo 
+
+new project
+    this website written and maintained by milo.***
+    this website is about sharing knowledge. the one thing the government can never take away from you is knowledge. the school systems are about training you for utility to big government and big business. this is the real information. knowledge has no known economic value to business or government. this is information independent of the military-industrial complex. just information. know how to program computers. learn on your own.
+    to add a detailed real world example for the still unfinished college text book on computer programming (table of contents), i am going to post heavily commented and described open source code for a free music player. a working example (still very new and under construction) is at www.thissideofsanity.com. this source code is free for any legal non-commercial and/or non-profit and/or educational and/or private purpose.
+    as of 1 july 2013, the united states federal trade commission makes individual websites responsible for any data gathering of information from children done by large company’s ads or plug-ins, while relieving those big companies of any responsibility. therefore, as much as i’d like to share this website with anyone of any age, i must ban everyone under the age of 13 from being allowed to visit this website or read any of the material on this website.
+
+operating system technical comparison
+
+overview
+    this web site compares and contrasts operating systems. it originally started out on a small server in the engineering department of ohio state university to answer a single question: “on technical considerations only, how does  rhapsody (also known as  mac os x server) stack up as a server operating system (especially in comparison to  windows nt)?” the web site now compares and contrasts server operating systems and will in the near future expand to compare other kinds of operating systems.
+    for non-technical persons: a general overview of operating systems for non-technical people is located at: kinds of operating systems. brief summaries of operating systems are located at: summaries of operating systems. there is an entire section of pages on individual operating systems, all formatted in the same order for easy comparison. the holistic area looks at operating systems from a holistic point of view and particular subjects in that presentation may be useful for comparison. some of the charts and tables may also be useful for specific comparisons.
+    for technical persons: the system components area goes into detail about the inner workings of an operating system and the individual operating systems pages provide some technical information.
+    this site is organized as an unbalanced tree structure, with cyclic graph hyperlinks and a sequential traversal path through the tree.
+    this website will make use of cp/m (an early microcomputer os) to illustrate the functions of an operating system. cp/m has the teaching advantage of being very small and simple (and therefore easier to understand) while also having at least rudimentary examples of most operating system functions (excluding graphic user interfaces).
+    international programmer pay comparison.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+osdata.com is used in more than 300 colleges and universities around the world
+find out how to get similar high web traffic and search engine placement.
+free downloadable text bookon computer programmingwork in progress
+
+
+site outline
+computer programming
+section 1: introduction
+
+chapter 1: scholastic matters
+
+goal of this textbook
+copyright information last updated: 15 dec 2010
+using this text book
+picking a class last updated: 1 sept 2007
+syllabus last updated: 2 sept 2007
+tools last updated: 15 feb 2012
+chapter 2: critical reasoning
+introduction to critical reasoning last updated: 8 oct 2012
+classifications last updated: 8 oct 2012
+definitions last updated: 8 oct 2012
+engineering last updated: 5 aug 2014
+chapter 3: introduction to computers and programming
+computer programming last updated: 3 aug 2014
+size of programs last updated: 15 aug 2014
+basics of computer hardware last updated: 14 july 2006
+
+parts of a computer
+processor
+main storage
+external storage
+input/output
+input
+output
+
+kinds of programming last updated: 5 sept 2007
+programming languages last updated: 12 aug 2014
+
+direct programming
+machine and object code
+assemblers
+high level languages
+interpreters
+compilers
+linkers
+loaders
+editors
+command line interface
+development environment
+
+standards and variants last updated: 7 sept 2007
+hello world last updated: 3 oct 2010
+history of programming languages last updated: 2 feb 2011
+chapter 4: html
+html (hyper text markup language) last updated: 17 june 2012
+chapter 5: css
+css (cascading style sheets) last updated: 17 june 2012
+chapter 6: shell programming
+shell programming last updated: 8 nov 2010
+cool shell tricks last updated: 25 dec 2013
+unix and linux history last updated: 17 jan 2014
+choice of shells last updated: 11 aug 2014
+connecting to a shell last updated: 8 jun 2014
+shell basics last updated: 5 jun 2014
+login/logout last updated: 25 dec 2013
+passwd last updated: 13 aug 2014
+command structure last updated: 10 mar 2013
+quicktour.html last updated: 25 aug 2012
+man last updated: 11 aug 2014
+cat last updated: 30 aug 2012
+command separator (semicolon) last updated: 27 aug 2012
+less, more, pg last updated: 30 aug 2012
+file system basics last updated: 21 aug 2013
+pwd last updated: 28 aug 2013
+command history last updated: 4 july 2012
+built-in commands last updated: 2 sept 2012
+ls last updated: 28 aug 2013
+cd last updated: 28 aug 2013
+cp last updated: 1 sept 2013
+mv last updated: 20 aug 2013
+rm last updated: 10 jan 2014
+shred last updated: 22 june 2012
+mkdir last updated: 2 feb 2014
+alias last updated: 6 sept 2012
+pipe last updated: 16 oct 2012
+scripts last updated: 2 jan 2014
+sysadmin and root/superuser last updated: 25 july 2012
+sudo last updated: 25 dec 2013
+su last updated: 3 sept 2012
+who last updated: 3 sept 2012
+advanced file systems last updated: 1 oct 2012
+major directories last updated: 9 july 2012
+network file system (nfs) last updated: 8 jan 2014
+tail last updated: 12 aug 2014
+wc last updated: 20 aug 2013
+chmod last updated: 6 sept 2012
+chown last updated: 6 sept 2012
+shell levels and subshells last updated: 6 june 2014
+substitutions last updated: 26 aug 2013
+command substitutions last updated: 27 aug 2013
+arithmetic substitutions last updated: 27 aug 2013
+flow control last updated: 27 aug 2013
+management tools last updated: 19 nov 2012
+df last updated: 21 aug 2013
+du last updated: 2 july 2012
+ps last updated: 1 oct 2012
+ps last updated: 25 june 2012
+kill last updated: 30 july 2014
+nice last updated: 4 oct 2012
+w last updated: 8 july 2012
+date last updated: 23 nov 2013
+uname last updated: 10 sept 2012
+uptime last updated: 10 july 2012
+top last updated: 9 july 2012
+lsof last updated: 11 sept 2012
+free last updated: 10 july 2012
+vmstat last updated: 11 july 2012
+polkit last updated: 9 jan 2014
+defaults last updated: 30 aug 2012
+init last updated: 30 june 2012
+sendmail last updated: 28 sept 2012
+ifconfig last updated: 1 july 2012
+arp last updated: 3 july 2012
+netstat last updated: 29 june 2012
+route last updated: 23 june 2012
+ping last updated: 26 june 2012
+nslookup last updated: 27 june 2012
+traceroute last updated: 21 june 2012
+ftp and sftp last updated: 20 jan 2014
+curl last updated: 28 feb 2013
+sysstat last updated: 12 july 2012
+at last updated: 22 june 2012
+back ups last updated: 16 oct 2012
+tar last updated: 11 jan 2012
+touch last updated: 18 july 2014
+find last updated: 13 jan 2012
+text processing last updated: 13 jan 2014
+basename last updated: 30 july 2014
+sed last updated: 15 jan 2012
+awk last updated: 16 jan 2012
+screencapture last updated: 24 aug 2012
+signals last updated: 20 nov 2012
+kernel modules last updated: 5 mar 2013
+lamp last updated: 23 july 2014
+mysql last updated: 29 aug 2014
+php last updated: 27 aug 2013
+perl last updated: 2 june 2014
+tcl last updated: 1 june 2014
+java last updated: 30 aug 2014
+installing software from source last updated: 27 aug 2012
+test bed last updated: 27 aug 2012
+grep last updated: 12 jan 2012
+ssh last updated: 14 jan 2012
+vim last updated: 17 jan 2012
+diff last updated: 18 jan 2012
+sort last updated: 19 jan 2012
+export last updated: 20 jan 2012
+xargs last updated: 21 jan 2012
+gzip last updated: 25 jan 2012
+bzip2 last updated: 26 jan 2012
+unzip last updated: 27 jan 2012
+unzip last updated: 28 jan 2012
+crontab last updated: 30 jan 2012
+service last updated: 31 jan 2012
+mount last updated: 10 feb 2012
+whereis last updated: 17 feb 2012
+whatis last updated: 18 feb 2012
+locate last updated: 19 feb 2012
+yum last updated: 25 feb 2012
+rpm last updated: 26 feb 2012
+wget last updated: 29 feb 2012
+file permissions last updated: 21 aug 2012
+nano last updated: 29 june 2012
+troff last updated: 31 july 2012
+commandsummaries last updated: 5 sept 2012
+forth-like routines last updated: 3 sept 2012
+chapter 7: matters of form
+creating a program last updated: 3 oct 2010
+listings and errors last updated: 22 feb 2011
+free form vs. columns last updated: 12 jan 2011
+whitespace last updated: 3 oct 2010
+comments last updated: 31 oct 2013
+program structures last updated: 9 oct 2010
+
+control structures last updated: 15 oct 2012
+data structures last updated: 14 nov 2010
+
+building blocks of a program last updated: 3 oct 2010
+building blocks of a program last updated: 3 oct 2010
+chapter 8: first simple programs
+first program last updated: 30 oct 2010
+program format last updated: 13 nov 2010
+lexical elements last updated: 3 jan 2011
+character set last updated: 21 mar 2011
+valid identifiers last updated: 19 mar 2011
+reserved words last updated: 21 mar 2011
+program headers last updated: 20 mar 2011
+statements last updated: 20 mar 2011
+variables last updated: 6 jan 2011
+simple input last updated: 30 oct 2010
+sequence last updated: 14 nov 2010
+chapter 9: numbers
+numbers last updated: 18 sept 2010
+rational numbers last updated: 18 sept 2010
+irrational numbers last updated: 18 sept 2010
+elementary algebra last updated: 14 sept 2010
+chapter 10: data types
+data types last updated: 16 june 2012
+number systems last updated: 20 dec 2010
+declarations last updated: 21 sept 2012
+integer data type last updated: 14 sept 2012
+binary numbers last updated: 13 sept 2011
+decimal numbers last updated: 15 sept 2011
+fixed point numbers last updated: 18 sept 2012
+arbitrary precision integers last updated: 17 sept 2011
+floating point numbers last updated: 12 sept 2012
+complex numbers last updated: 12 dec 2010
+enumerated values last updated: 19 sept 2012
+bits last updated: 17 sept 2012
+characters last updated: 15 dec 2012 
+character strings last updated: 16 sept 2012
+boolean last updated: 15 dec 2010
+time date last updated: 12 dec 2010
+void and null last updated: 5 nov 2010
+constants last updated: 15 dec 2010
+chapter 11: calculations
+calculations last updated: 23 sept 2012
+operators last updated: 25 sept 2012
+assignment last updated: 22 sept 2012
+initialization last updated: 31 oct 2010
+addition last updated: 29 dec 2010
+subtraction last updated: 24 nov 2010
+multiplication last updated: 12 dec 2010
+division last updated: 15 dec 2010
+modula last updated: 31 oct 2010
+exponentiation last updated: 4 nov 2010
+expressions last updated: 29 nov 2010
+order of precedence last updated: 24 sept 2012
+augmented assignment last updated: 23 mar 2011
+chain assignment last updated: 15 mar 2011
+parallel assignment last updated: 17 mar 2011
+built-in functions last updated: 28 sept 2012
+transfer functions last updated: 27 sept 2012
+arithmetic functions last updated: 10 dec 2010
+logarithmic functions last updated: 4 nov 2010
+trigonometric functions last updated: 11 dec 2010
+chapter 12: modular programming
+modular programming last updated: 16 feb 2012
+simple procedures last updated: 6 nov 2010
+code blocks last updated: 15 dec 2010
+scope last updated: 31 oct 2010
+step-wise refinement last updated: 11 nov 2010
+no operation last updated: 29 mar 2011
+chapter 13: stream i/o
+stream i/o last updated: 24 nov 2010
+stream input last updated: 5 nov 2010
+stream output last updated: 4 nov 2010
+chapter 14: decisions
+decisions last updated: 14 nov 2010
+relation expressions last updated: 16 oct 2012
+if-then last updated: 14 oct 2012
+else last updated: 14 oct 2012
+nested if last updated: 21 mar 2011
+compound if last updated: 20 nov nov 2010
+ternary operator last updated: 3 mar 2011
+case/switch last updated: 17 oct 2012
+chapter 15: boolean expressions
+boolean programming last updated: 15 dec 2010
+boolean and last updated: 13 dec 2010
+boolean or last updated: 13 dec 2010
+boolean not last updated: 7 dec 2010
+boolean expressions last updated: 16 oct 2012
+chapter 16: loops
+loops last updated: 17 oct 2012
+iterative (do/for) loop last updated: 4 mar 2011
+counters, increment, and decrement last updated: 12 dec 2010
+while loop last updated: 3 mar 2011
+until loop last updated: 16 dec 2010
+early exits last updated: 5 mar 2011
+branching last updated: 19 dec 2010
+chapter 17: subprograms
+subprograms and subroutines last updated: 16 feb 2012
+procedures last updated: 14 nov 2010
+functions last updated: 14 nov 2010
+parameters last updated: 14 nov 2010
+coroutines last updated: 8 nov 2010
+chapter 18: exception handling
+exception handling last updated: 14 nov 2010
+breaks, stops, and ends last updated: 16 nov 2010
+chapter 19: characters and strings
+character strings last updated: 16 oct 2012
+characters last updated: 19 dec 2010
+strings last updated: 29 nov 2010
+string comparison last updated: 14 aug 2013
+chapter 20: arrays
+arrays last updated: 11 sept 2012
+vectors last updated: 27 feb 2011
+matrix last updated: 8 dec 2010
+array slice last updated: 1 jan 2011
+associative arrays last updated: 18 dec 2010
+horner’s method last updated: 23 nov 2010
+chapter 21: number thoery
+number theory last updated: 12 dec 2010
+prime numbers last updated: 5 feb 2011
+amicable numbers last updated: 25 nov 2010
+chapter 22: records
+records/structures last updated: 1 mar 2011
+combining arrays and records last updated: 25 mar 2011
+chapter 23: file operations
+file operations last updated: 30 mar 2011
+record i/o last updated: 15 nov 2010
+chapter 24: boolean logic and bit operations
+boolean logic and bit operations last updated: 15 dec 2010
+and last updated: 5 dec 2010
+or last updated: 6 dec 2010
+not last updated: 7 dec 2010
+exclusive or last updated: 8 dec 2010
+not and last updated: 9 dec 2010
+not or last updated: 10 dec 2010
+not exclusive or last updated: 10 dec 2010
+boolean logic last updated: 5 nov 2010
+boolean postulates last updated: 5 nov 2010
+chapter 25: ternary logic and operations
+ternary logic and operations last updated: 3 mar 2011
+chapter 26: enumerated ordinal types
+enumerated ordinal types last updated: 15 sept 2012
+chapter 27: sets
+sets last updated: 1 nov 2010
+chapter 28: memory classes
+memory classes last updated: 9 sept 2012
+chapter 29: pointers
+pointers last updated: 13 sept 2012
+chapter 30: stacks
+stacks last updated: 16 sept 2011
+chapter 31: queues
+queues last updated: 1 dec 2010
+chapter 32: lists
+lists last updated: 13 dec 2010
+association lists last updated: 13 dec 2010
+chapter 33: trees
+trees last updated: 21 dec 2010
+tree lookup last updated: 13 dec 2010
+tree insert last updated: 14 dec 2010
+chapter 34: graphs
+graphs last updated: 1 nov 2010
+chapter 35: recursion
+recursion last updated: 616 june 2012
+eight queens last updated: 2 dec 2010
+chapter 36: objects
+objects last updated: 14 aug 2013
+chapter 37: program units
+program units last updated: 19 sept 2012
+libraries last updated: 15 nov 2010
+packages last updated: 15 nov 2010
+tasks last updated: 14 nov 2010
+chapter 38: real time
+real time processing last updated: 15 nov 2010
+schediling last updated: 15 nov 2010
+interrupts last updated: 15 nov 2010
+chapter 39: distributed processing
+distributed processing last updated: 15 nov 2010
+multitasking last updated: 3 dec 2010
+shared data last updated: 14 nov 2010
+synchronization last updated: 15 nov 2010
+chapter 40: ethics
+ethics last updated: 5 dec 2010
+exploiting labor last updated: 5 dec 2010
+innovation last updated: 5 dec 2010
+
+section 2: advanced
+
+chapter 41: assembly language
+intro to assembly language last updated: 31 mar 2004
+data representation and number systems last updated: 15 feb 2002
+registers last updated: 12 mar 2001
+addressing modes last updated: 19 feb 2001
+data and address movement last updated: 26 feb 2001
+integer arithmetic last updated: 27 mar 2001
+floating arithmetic last updated: 29 mar 2001
+binary coded decimal (bcd) arithmetic last updated: 16 sept 2001
+advanced math last updated: 29 nov 2010
+data conversion last updated: 21 feb 2001
+logical last updated: 28 mar 2001
+shift and rotate last updated: 29 mar 2001
+bit manipulation last updated: 28 mar 2001
+character and string last updated: 28 nov 2010
+table operations last updated: 3 mar 2001
+high level language support last updated: 1 dec 2010
+program control and condition codes last updated: 30 nov 2010
+input/output last updated: 21 feb 2001
+system control last updated: 21 feb 2001
+coprocessor and multiprocessor last updated: 1 dec 2010
+trap generating last updated: 5 mar 2001
+real world programming last updated: 15 aug 2013
+example code - from the early days of computing last updated: 28 nov 2013
+example code - building a web game last updated: 28 nov 2013
+
+
+
+major sections
+
+introduction
+general information
+individual operating systems
+holistic issues
+system components
+
+
+
+
+introduction
+
+site overview
+site outline
+charts and tables
+site goals
+using this site
+
+
+
+
+operating systems (general information) last updated: 19 nov 2006
+
+kinds of operating systems last updated: 21 mar 2001
+operating system summaries last updated: 31 dec 2001
+history of operating systems last updated: 3 oct 2010
+unix last updated: 7 oct 2007
+ macintosh last updated: 8 oct 2007
+ windows last updated: 10 sept 2004
+bill gates
+
+
+
+
+individual operating systems
+
+admiral last updated: 21 feb 2004
+ aix last updated: 21 mar 2004
+ amigaos last updated: 21 mar 2004
+atlas i supervisor last updated: 21 feb 2004
+b1 last updated: 23 feb 2004
+b2 last updated: 23 feb 2004
+b3 last updated: 23 feb 2004
+b4 last updated: 23 feb 2004
+basic executive system last updated: 1 mar 2004
+ beos last updated: 14 jan 2002
+bky last updated: 10 mar 2004
+bos/360 last updated: 11 mar 2004
+bps/360 last updated: 12 mar 2004
+ bsdi bsd/os last updated: 17 feb 2002
+ bsdi internet super server last updated: 13 feb 2002
+cal last updated: 13 mar 2004
+chios last updated: 14 mar 2004
+chippewa last updated: 15 mar 2004
+cp/m last updated: 7 oct 2007
+digital unix (or dunix, compaq tru64 unix, osf/1) last updated: 14 feb 2002
+dos/360 last updated: 16 mar 2004
+dos/vs last updated: 18 mar 2004
+dos/vse last updated: 19 mar 2004
+emas 2900 last updated: 20 mar 2004
+exec i last updated: 21 mar 2004
+exec ii last updated: 21 mar 2004
+exec 3 last updated: 22 mar 2004
+exec 4 last updated: 22 mar 2004
+exec 8 last updated: 23 mar 2004
+fms last updated: 1 mar 2004
+fortran monitor system last updated: 1 mar 2004
+ freebsd last updated: 21 mar 2004
+gcos last updated: 24 mar 2004
+general comprehensive os last updated: 24 mar 2004
+gecos iii last updated: 25 mar 2004
+general motors operating system last updated: 3 nov 2009
+george 1 last updated: 26 mar 2004
+george 2 last updated: 26 mar 2004
+george 3 last updated: 26 mar 2004
+george 4 last updated: 26 mar 2004
+gmos last updated: 1 mar 2004
+ gnu hurd last updated: 14 july 2000
+hes last updated: 1 mar 2004
+honeywell executive system last updated: 1 mar 2004
+ hp-ux last updated: 25 mar 2004
+ hurd last updated: 14 july 2000
+ibm 1410/1710 os last updated: 2 mar 2004
+ibsys last updated: 3 mar 2004
+ida last updated: 27 mar 2004
+idasys last updated: 27 mar 2004
+input output control system last updated: 6 mar 2004
+iocs last updated: 6 mar 2004
+input output selector last updated: 4 mar 2004
+input output system last updated: 5 mar 2004
+ irix last updated: 31 dec 2001
+ linux last updated: 21 mar 2004
+ macintosh last updated: 14 feb 2002
+ macintosh os 6 last updated: 5 feb 2002
+ macintosh os 7 last updated: 9 aug 2001
+ macintosh os 8 last updated: 23 apr 2001
+ macintosh os 9 last updated: 14 feb 2002
+ mac os x last updated: 4 mar 2002
+mac os x server last updated: 14 feb 2002
+master last updated: 28 mar 2004
+master control program last updated: 29 mar 2004
+mcp last updated: 29 mar 2004
+mft last updated: 30 mar 2004
+mft-ii last updated: 31 mar 2004
+ms-dos last updated: 28 mar 2001
+ mvs last updated: 4 apr 2004
+mvt last updated: 1 apr 2004
+ mxs last updated: 4 nov 2000
+ netbsd last updated: 17 feb 2002
+netware last updated: 9 aug 2001
+ next last updated: 8 oct 2007
+ nextstep last updated: 14 apr 2004
+ openbsd last updated: 17 feb 2002
+openserver last updated: 29 may 2001
+ openstep last updated: 14 apr 2004
+ openvms (or ovms) last updated: 14 feb 2002
+ os/2 last updated: 14 aug 2001
+ os/2 warp last updated: 14 aug 2001
+ os/2 warp server last updated: 14 aug 2001
+os/1100 last updated: 2 apr 2004
+osf/1 (or digital unix, dunix, compaq tru64 unix) last updated: 14 feb 2002
+os/mft last updated: 30 mar 2004
+os/mft-ii last updated: 31 mar 2004
+ os/mvs last updated: 4 apr 2004
+os/mvt last updated: 1 apr 2004
+os/pcp last updated: 3 apr 2004
+os/vs1 last updated: 1 feb 2006
+pc-dos-2000 last updated: 28 mar 2001
+pyramid last updated: 14 july 2000
+rca dos last updated: 25 mar 2004
+ rhapsody last updated: 30 mar 2001
+sabre last updated: 7 mar 2004
+sage last updated: 8 mar 2004
+sco openserver last updated: 12 aug 2001
+sco unixware last updated: 12 aug 2001
+semi-automatic business related environment last updated: 7 mar 2004
+semi-automatic ground environment last updated: 8 mar 2004
+ solaris last updated: 17 feb 2002
+sos last updated: 9 mar 2004
+ sunos last updated: 17 feb 2002
+syllable last updated: 12 sept 2004
+tru64 unix (or digital unix, dunix, osf/1) last updated: 14 feb 2002
+ultrix last updated: 10 apr 2002
+unix last updated: 27 july 2004
+unixware last updated: 5 apr 2001
+ vms last updated: 14 feb 2002
+vs1 last updated: 1 feb 2006
+ windows last updated: 27 mar 2004
+ windows 3.1 last updated: 22 may 2004
+ windows 95 last updated: 23 apr 2001
+ windows 98 last updated: 23 apr 2001
+ windows me (millenium edition) last updated: 14 jan 2002
+ windows nt last updated: 27 mar 2004
+ windows nt server last updated: 27 mar 2004
+ windows nt server enterprise edition last updated: 27 mar 2004
+ windows 2000 professional last updated: 27 mar 2004
+ windows 2000 server last updated: 27 mar 2004
+ windows 2000 advanced server last updated: 27 mar 2004
+ windows server 2003 last updated: 10 sept 2004
+ windows xp last updated: 27 mar 2004
+
+
+
+
+holistic issues last updated: 17 feb 2002
+
+cost last updated: 9 aug 2001
+hardware supported last updated: 1 may 2004
+hardware-software integration last updated: 4 mar 2002
+installation and set-up last updated: 14 feb 2002
+
+plug and play
+live swapping
+upgrades
+
+upgrading macintosh
+upgrading to mac os x
+upgrading windows
+
+default settings
+
+utilization of resources last updated: 25 july 2001
+scalability last updated: 26 may 2001
+connectivity last updated: 1 june 2001
+
+file systems last updated: 13 oct 2001
+
+reliability last updated: 27 mar 2004
+
+downtime costs
+stability
+blue screen of death
+windows registry
+windows dlls
+device drivers
+
+failure handling and failure recovery last updated: 4 may 2001
+security last updated: 27 mar 2004
+
+general notes on security
+need for security
+kinds of security
+
+physical security
+
+lack of givernment support
+“under the radar”
+internet security
+unix vs. windows security
+windows c2 certification
+openvms security
+man-in-the-middle attacks last updated: 8 may 2005
+race condition attacks last updated: 9 may 2005
+denial of service attacks
+password attacks
+security logs
+spoofing
+smb and firewalls 
+
+speed last updated: 17 feb 2002
+sophistication last updated: 27 apr 2001
+ease of use last updated: 5 feb 2002
+maintenance and administration last updated: 22 may 2004
+
+reliability
+costs of maintenance
+changing parts
+live installation
+system patches
+automation and scheduled tasks
+remote administration
+zero administration windows
+
+disabled access last updated: 21 oct 2001
+release dates last updated: 12 sept 2004
+development and apis last updated: 5 feb 2002
+
+
+
+
+system components last updated: 11 jan 2004
+
+network and internet services last updated: 10 oct 2007
+
+internet
+tcp/ip
+server choices
+tuning web servers
+dhcp
+print serving
+file serving
+ftp
+samba
+mail transport agents (e-mail servers)
+majordomo
+application serving
+
+hardware (physical) level of operating system last updated: 1 may 2004
+
+basics of computer hardware last updated: 14 july 2006
+
+processor
+arithmetic and logic
+control
+main storage
+external storage
+input/output overview
+input
+output
+
+processors last updated: 22 feb 2002
+
+cisc
+risc
+dsp
+hybrid
+
+processes and jobs last updated: 11 sept 2006
+
+general information
+linking
+loading
+run/execute
+
+buses last updated: 24 mar 2001
+
+kinds of buses
+bus standards
+
+memory last updated: 11 sept 2006
+
+memory hardware issues
+
+main storage
+external storage
+buffers
+
+basic memory software approaches
+
+static and dynamic approaches
+absolute addressing
+overlay
+relocatable software
+demand paging and swapping
+program counter relative
+base pointers
+indirection, pointers, and handles
+stack frames
+virtual memory
+
+os memory services
+
+memory maps last updated: 28 mar 2001
+low memory last updated: 11 apr 2001
+character codes last updated: 7 oct 2007
+
+logical level of operating system last updated: 6 feb 2002
+
+files last updated: 1 sept 2006
+file systems last updated: 18 nov 2006
+resource manager last updated: 6 feb 2002
+cut and paste last updated: 9 feb 2002
+
+graphics engine last updated: 7 february 2002
+
+font management last updated: 7 february 2002
+
+user interface last updated: 5 feb 2002
+
+command line user interfaces
+graphic user interfaces
+
+aqua
+common desktop environment
+irix interactive desktop
+macintosh toolbox
+motif
+visual user environment
+workbench
+xfree86
+
+spoken user interfaces
+screen shots
+
+ amigaos screen shots last updated: 25 nov 2000
+  beos screen shots last updated: 25 nov 2000
+ mac os 8 screen shots last updated: 25 nov 2000
+ mac os x screen shots last updated: 25 nov 2000
+ms-dos screen shots last updated: 25 nov 2000
+ next screen shots last updated: 25 nov 2000
+ os/2 screen shots last updated: 25 nov 2000
+syllable screen shots last updated: 12 sept 2004
+ windows 3.1 screen shots last updated: 25 nov 2000
+x window screen shots last updated: 25 nov 2000
+
+event management last updated: 7 feb 2002
+windows last updated: 20 mar 2002
+controls last updated: 7 feb 2002
+menus last updated: 8 feb 2002
+text display and editing last updated: 8 feb 2002
+dialog boxes last updated: 8 feb 2002
+alerts
+
+system services last updated: 4 jun 1998
+command shell last updated: 16 feb 2002
+
+command line command shells
+
+dcl
+dos
+jcl
+unix shells
+
+scripting
+graphic command shells
+screen shots
+
+system utilities last updated: 13 oct 1998
+programs last updated: 4 mar 2002
+
+desk accessories last updated: 9 feb 2002
+
+
+special topics last updated: 26 aug 2000
+programming languages last updated: 10 oct 2007
+
+assembly (huge web page, consider using one of the subtopics below) last updated: 10 feb 2002
+
+intro to assembly language last updated: 10 feb 2002
+data representation and number systems last updated: 15 feb 2002
+registers last updated: 12 mar 2001
+addressing modes last updated: 19 feb 2001
+executable instructions (huge web page, consider using one of the subtopics below) last updated: 29 mar 2001
+data and address movement last updated: 26 feb 2001
+integer arithmetic last updated: 27 mar 2001
+floating arithmetic last updated: 29 mar 2001
+binary coded decimal (bcd) arithmetic last updated: 16 sept 2001
+advanced math last updated: 29 mar 2001
+data conversion last updated: 21 feb 2001
+logical last updated: 28 mar 2001
+shift and rotate last updated: 29 mar 2001
+bit manipulation last updated: 28 mar 2001
+character and string last updated: 3 mar 2001
+table operations last updated: 3 mar 2001
+high level language support last updated: 28 mar 2001
+program control and condition codes last updated: 5 mar 2001
+input/output last updated: 21 feb 2001
+system control last updated: 21 feb 2001
+coprocessor and multiprocessor last updated: 24 mar 2001
+trap generating last updated: 5 mar 2001
+
+programming languages last updated: 10 oct 2007
+a-0 last updated: 10 oct 2007
+ada last updated: 6 oct 2007
+algol last updated: 9 oct 2007
+alphard last updated: 10 oct 2007
+altran last updated: 10 oct 2007
+apl last updated: 10 oct 2007
+aspectj last updated: 10 oct 2007
+autocode last updated: 10 oct 2007
+awk last updated: 10 oct 2007
+b last updated: 10 oct 2007
+basic last updated: 10 oct 2007
+bcpl last updated: 10 oct 2007
+bliss last updated: 10 oct 2007
+c last updated: 4 oct 2007
+c# last updated: 10 oct 2007
+c++ last updated: 7 oct 2007
+caml last updated: 10 oct 2007
+clos last updated: 10 oct 2007
+cobol last updated: 1 oct 2007
+concurrent prolog last updated: 10 oct 2007
+cpl last updated: 10 oct 2007
+csp last updated: 10 oct 2007
+dbase ii last updated: 10 oct 2007
+design system language last updated: 10 oct 2007
+dylan last updated: 10 oct 2007
+ecmascript last updated: 10 oct 2007
+eiffel last updated: 10 oct 2007
+euler last updated: 10 oct 2007
+flow-matic last updated: 10 oct 2007
+forth last updated: 10 oct 2007
+fortran last updated: 9 oct 2007
+fp last updated: 10 oct 2007
+gap last updated: 10 oct 2007
+haskell last updated: 10 oct 2007
+html last updated: 10 oct 2007
+hypertalk last updated: 10 oct 2007
+icon last updated: 10 oct 2007
+ipl last updated: 10 oct 2007
+iswim last updated: 10 oct 2007
+java last updated: 9 oct 2007
+javascript last updated: 10 oct 2007
+lisp last updated: 10 oct 2007
+logo last updated: 10 oct 2007
+math-matic last updated: 10 oct 2007
+mathmatica last updated: 10 oct 2007
+miranda last updated: 10 oct 2007
+ml last updated: 10 oct 2007
+modula last updated: 10 oct 2007
+modula-2 last updated: 10 oct 2007
+oberon last updated: 10 oct 2007
+objective c last updated: 10 oct 2007
+ops5 last updated: 10 oct 2007
+parlog last updated: 10 oct 2007
+pascal last updated: 3 oct 2007
+perl last updated: 8 oct 2007
+php last updated: 10 oct 2007
+plankalkül last updated: 10 oct 2007
+pl/i last updated: 2 oct 2007
+postscript last updated: 10 oct 2007
+pov-ray last updated: 10 oct 2007
+prolog last updated: 10 oct 2007
+python last updated: 10 oct 2007
+ratfor last updated: 10 oct 2007
+rebol last updated: 10 oct 2007
+relational language last updated: 10 oct 2007
+rpg last updated: 10 oct 2007
+ruby last updated: 10 oct 2007
+sasl last updated: 10 oct 2007
+scala last updated: 10 oct 2007
+scheme last updated: 10 oct 2007
+scriptol last updated: 10 oct 2007
+shell script last updated: 13 oct 2007
+short code last updated: 10 oct 2007
+simula last updated: 10 oct 2007
+smalltalk last updated: 10 oct 2007
+snobol last updated: 10 oct 2007
+sql last updated: 10 oct 2007
+standard ml last updated: 10 oct 2007
+uml last updated: 10 oct 2007
+uncol last updated: 6 june 2013
+unix shell script last updated: 13 oct 2007
+
+
+forth in javascript last updated: 23 oct 2014
+source code example last updated: 22 may 2014
+
+virtual web pages last updated: 22 may 2014
+404 page not found redirects last updated: 23 may 2014
+timer/clock last updated: 26 may 2014
+
+music player example last updated: 13 feb 2012
+
+simple player last updated: 13 feb 2012
+simple player source code last updated: 13 feb 2012
+adding songs last updated: 16 feb 2012
+local server last updated: 15 feb 2012
+adding start time last updated: 14 feb 2012
+data base last updated: 14 feb 2012
+number of songs last updated: 14 feb 2012
+song information last updated: 14 feb 2012
+music player php last updated: 14 feb 2012
+preprocess last updated: 14 feb 2012
+
+real world programming last updated: 15 aug 2013
+comments last updated: 7 july 2007
+data security last updated: 7 july 2007
+quantum computing and quantum pollution last updated: 21 july 2007
+amateur mistakes last updated: 19 aug 2007
+social media last updated: 14 aug 2007
+one time pad last updated: 7 july 2013
+engineering and business last updated: 5 may 2014
+example code - from the early days of computing last updated: 28 nov 2013
+example code - building a web game last updated: 28 nov 2013
+legacy control language last updated: 10 dec 2013
+universal message format last updated: 31 oct 2011
+transformations of shapes of datum last updated: 31 oct 2010
+children’s operating system project last updated: 24 sept 1998
+book of the week last updated: 2 sept 1998
+privacy policy last updated: 21 july 2000
+footnotes last updated: 10 sept 2004
+contact last updated: feb 2 2007
+web site notices last updated: 3 mar 2001
+most popular pages last updated: 1 aug 2001
+blog last updated: 15 may 2014
+average pay last updated: 5 may 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+charts and tables
+
+operating system summaries
+most popular pages
+summaries at the beginning of each operating system web page
+holistic issues (section header)
+unix systems
+initial purchase price comparison
+processors supported
+file systems supported
+release dates
+posix compatible
+standardized graphic user interface apis
+object oriented programming apis
+ musicians using macintoshes
+ live shows using macintoshes
+software system components (section header)
+software system components
+kernels in use
+kernels by operating system
+number of processors supported
+character codes
+
+
+osdata.com is used in more than 300 colleges and universities around the world
+read details here.
+
+
+free downloadable text bookon computer programmingwork in progress
+
+
+
+
+site goals
+    this site is intended as a neutral technical evaluation, comparing and contrasting rhapsody with other server operating systems. all humans have biases. i am a fan of rhapsody, vms, macintosh, amigaos, next, and beos.
+    i will attempt to be as complete, accurate, and precise as possible. i welcome correction, feedback, and additional information from informed sources.
+    one of the really cool things about the internet is that once you achieve a certain critical mass of data, experts in the subject matter will just show up from all over the world and make constructive criticisms and provide all kinds of useful additional information.
+    all web sites are either in a state of construction or dead, so comments about being “under construction” are generally extraneous. this site is not yet complete enough answer the question as stated. the goal is to have this site sufficiently complete to answer that question by the time apple releases rhapsody in fall of 1998.
+    most of the work so far has been in catalogueing information about each operating system (see individual os pages for details). i have started charts on costs, hardware supported, file systems, release dates, and music.
+    lots of thanks go out to the many persons who have taken the time to answer questions and provide url references. a complete list of persons and web sites and books quoted is found in the site footnotes. to contribute additional information or to make constructive criticism of any kind, send a message to milo.
+    i will attempt to stick to the facts as much as possible. i will provide only as much editorial commentary as is necessary to make the technical facts clear. all opinions are mine unless otherwise attributed.
+    it is unlikely that any single individual has all the knowledge necessary to complete an accurate technical survey of all operating systems that can be used as server oss. so, i need and welcome and appreciate all of volunteer help.
+    i (milo) have edited the material into a web site and michael m is the new artist.
+
+
+using this site
+    a few quick caveats about a technical evaluation:
+
+pure technical concerns are not the only or even the most important considerations in the choice of an operating system. economic, environmental, psychological, and political factors can come into play. for example, a particular operating system may be the best technical choice, but may be too expensive. this web site only examines technical issues.
+
+interpretation of raw facts requires some degree of technical expertise. no conclusions are provided in this site. interpretation and conclusions are left to the reader.
+
+not all technical issues are equal. and the weighting of technical issues varies by application and environment. for example, a particular feature may be absolutely essential to one organization, important to another, trivial to a third, and an unacceptable impediment to a fourth.
+hardware and the interactions between hardware and software can play a significant factor in both quantifiable and anecdotal results.
+variations in software, even software that shares the same name and version number, can play a significant factor in both quantifiable and anecdotal results.
+variations in the personnel creating, administering, and maintaining the computer system (the human factor) can play a significant factor in both quantifiable and anecdotal results.
+
+    this site is organized in an unbalanced tree structure, with cyclic graph hyperlinks and a sequential traversal path through the tree.
+
+holistic issues: a look at issues regarding an operating system as a whole, such as reliability, speed, ease of use, etc.
+system components: a look at the specific components of a computer system.
+special topics: a look at the specific topics, including content creation, programming languages, and assembly language.
+
+1.1 mb quicktime movie of bill gates explaining his criteria for selecting the best operating system.(transcribed below for those who don’t want to take the download time to see the video clip)
+
+    “to create a new standard, it takes something that’s not just a little bit different, it takes something that’s really new and really captures people’s imagination and the macintosh, of all the machines i’ve ever seen, is the only one that meets that standard.” — bill gates
+
+
+    “the computer revolution is the most advertised revolution in world history. yet one of the funny things about it is that we probably still underestimate its impact.” — herman kahnm7
+
+
+tweets by @osdata
+
+
+
+
+osring
+[next][skip next][next 5][list sites] 
+
+
+    a web site on dozens of operating systems simply can’t be maintained by one person. this is a cooperative effort. if you spot an error in fact, grammar, syntax, or spelling, or a broken link, or have additional information, commentary, or constructive criticism, please e-mail milo. if you have any extra copies of docs, manuals, or other materials that can assist in accuracy and completeness, please send them to milo, po box 1361, tustin, ca, usa, 92781.
+    click here for our privacy policy.
+
+click here to skip over the summaries of individual operating systems.
+
+
+
+
+
+
+
+previous page
+next page
+
+
+
+comments, suggestions, corrections, criticisms
+
+
+please contact us
+your name:
+email address:
+phone number:
+message:
+
+
+comments
+
+
+    this web site handcrafted on macintosh  computers using tom bender’s tex-edit plus  and served using freebsd .
+ 
+
+
+    †unix used as a generic term unless specifically used as a trademark (such as in the phrase “unix certified”). unix is a registered trademark in the united states and other countries, licensed exclusively through x/open company ltd.
+    names and logos of various oss are trademarks of their respective owners.
+    copyright © 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2014 milo 
+    last updated: october 27, 2014
+    created: may 31, 1998
+    if you spot an error in fact, grammar, syntax, or spelling, or a broken link, or have additional information, commentary, or constructive criticism, please e-mail milo.
+
+
+
+
+
+
+click here to skip over the summaries of individual operating systems.
+
+
+
+
+
+
+
+previous page
+next page
+
+
+
+topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

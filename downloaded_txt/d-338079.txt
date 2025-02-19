@@ -1,0 +1,1534 @@
+
+
+
+
+spectroscopy - wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jump to content
+
+
+
+
+
+
+
+main menu
+
+
+
+
+
+main menu
+move to sidebar
+hide
+
+
+
+		navigation
+	
+
+
+main pagecontentscurrent eventsrandom articleabout wikipediacontact us
+
+
+
+
+
+		contribute
+	
+
+
+helplearn to editcommunity portalrecent changesupload filespecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+donate
+
+create account
+
+log in
+
+
+
+
+
+
+
+
+personal tools
+
+
+
+
+
+donate create account log in
+
+
+
+
+
+		pages for logged out editors learn more
+
+
+
+contributionstalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contents
+move to sidebar
+hide
+
+
+
+
+(top)
+
+
+
+
+
+1
+introduction
+
+
+
+
+
+
+
+
+2
+theory
+
+
+
+
+
+
+
+
+3
+classification of methods
+
+
+
+
+toggle classification of methods subsection
+
+
+
+
+
+3.1
+type of radiative energy
+
+
+
+
+
+
+
+
+3.2
+nature of the interaction
+
+
+
+
+
+
+
+
+3.3
+type of material
+
+
+
+
+
+
+3.3.1
+atoms
+
+
+
+
+
+
+
+
+3.3.2
+molecules
+
+
+
+
+
+
+
+
+3.3.3
+crystals and extended materials
+
+
+
+
+
+
+
+
+3.3.4
+nuclei
+
+
+
+
+
+
+
+
+
+
+
+
+4
+other types
+
+
+
+
+
+
+
+
+5
+applications
+
+
+
+
+
+
+
+
+6
+history
+
+
+
+
+
+
+
+
+7
+see also
+
+
+
+
+
+
+
+
+8
+notes
+
+
+
+
+
+
+
+
+9
+references
+
+
+
+
+
+
+
+
+10
+external links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle the table of contents
+
+
+
+
+
+
+
+spectroscopy
+
+
+
+78 languages
+
+
+
+
+afrikaansالعربيةasturianuazərbaycancaবাংলাбеларускаябългарскиbosanskicatalàчӑвашлаčeštinacymraegdanskالدارجةdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisgaeilgegalego한국어հայերենहिन्दीhrvatskiidobahasa indonesiaitalianoעבריתಕನ್ನಡқазақшакыргызчаlatviešulëtzebuergeschlietuviųlombardmagyarмакедонскиമലയാളംbahasa melayunederlandsनेपाली日本語norsk bokmålnorsk nynorskoccitanoromoooʻzbekcha / ўзбекчаਪੰਜਾਬੀpolskiportuguêsromânăрусскийسرائیکیsimple englishslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsundasuomisvenskatagalogதமிழ்ไทยtürkçeукраїнськаاردوtiếng việtwinaray吴语ייִדישyorùbá粵語中文
+
+edit links
+
+
+
+
+
+
+
+
+
+
+
+articletalk
+
+
+
+
+
+english
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+readeditview history
+
+
+
+
+
+
+
+tools
+
+
+
+
+
+tools
+move to sidebar
+hide
+
+
+
+		actions
+	
+
+
+readeditview history
+
+
+
+
+
+		general
+	
+
+
+what links hererelated changesupload filepermanent linkpage informationcite this pageget shortened urldownload qr code
+
+
+
+
+
+		print/export
+	
+
+
+download as pdfprintable version
+
+
+
+
+
+		in other projects
+	
+
+
+wikimedia commonswikibookswikiquotewikiversitywikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+study involving matter and electromagnetic radiation
+this article needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "spectroscopy" – news · newspapers · books · scholar · jstor (april 2016) (learn how and when to remove this message)
+an example of spectroscopy: a prism analyses white light by dispersing it into its component colors.
+spectroscopy is the field of study that measures and interprets electromagnetic spectra.[1][2] in narrower contexts, spectroscopy is the precise study of color as generalized from visible light to all bands of the electromagnetic spectrum.
+spectroscopy, primarily in the electromagnetic spectrum, is a fundamental exploratory tool in the fields of astronomy, chemistry, materials science, and physics, allowing the composition, physical structure and electronic structure of matter to be investigated at the atomic, molecular and macro scale, and over astronomical distances.
+historically, spectroscopy originated as the study of the wavelength dependence of the absorption by gas phase matter of visible light dispersed by a prism. current applications of spectroscopy include biomedical spectroscopy in the areas of tissue analysis and medical imaging. matter waves and acoustic waves can also be considered forms of radiative energy, and recently gravitational waves have been associated with a spectral signature in the context of the laser interferometer gravitational-wave observatory (ligo).[3]
+
+
+introduction[edit]
+spectroscopy is a branch of science concerned with the spectra of electromagnetic radiation as a function of its wavelength or frequency measured by spectrographic equipment, and other techniques, in order to obtain information concerning the structure and properties of matter.[4] spectral measurement devices are referred to as spectrometers, spectrophotometers, spectrographs or spectral analyzers. most spectroscopic analysis in the laboratory starts with a sample to be analyzed, then a light source is chosen from any desired range of the light spectrum, then the light goes through the sample to a dispersion array (diffraction grating instrument) and captured by a photodiode. for astronomical purposes, the telescope must be equipped with the light dispersion device. there are various versions of this basic setup that may be employed.
+spectroscopy began with isaac newton splitting light with a prism; a key moment in the development of modern optics.[5] therefore, it was originally the study of visible light that we call color that later under the studies of james clerk maxwell came to include the entire electromagnetic spectrum.[6] although color is involved in spectroscopy, it is not equated with the color of elements or objects that involve the absorption and reflection of certain electromagnetic waves to give objects a sense of color to our eyes. rather spectroscopy involves the splitting of light by a prism, diffraction grating, or similar instrument, to give off a particular discrete line pattern called a "spectrum" unique to each different type of element. most elements are first put into a gaseous phase to allow the spectra to be examined although today other methods can be used on different phases. each element that is diffracted by a prism-like instrument displays either an absorption spectrum or an emission spectrum depending upon whether the element is being cooled or heated.[7]
+until recently all spectroscopy involved the study of line spectra and most spectroscopy still does.[8] vibrational spectroscopy is the branch of spectroscopy that studies the spectra.[9] however, the latest developments in spectroscopy can sometimes dispense with the dispersion technique. in biochemical spectroscopy, information can be gathered about biological tissue by absorption and light scattering techniques. light scattering spectroscopy is a type of reflectance spectroscopy that determines tissue structures by examining elastic scattering.[10] in such a case, it is the tissue that acts as a diffraction or dispersion mechanism.
+spectroscopic studies were central to the development of quantum mechanics, because the first useful atomic models described the spectra of hydrogen, which include the bohr model, the schrödinger equation, and matrix mechanics, all of which can produce the spectral lines of hydrogen, therefore providing the basis for discrete quantum jumps to match the discrete hydrogen spectrum. also, max planck's explanation of blackbody radiation involved spectroscopy because he was comparing the wavelength of light using a photometer to the temperature of a black body.[11] spectroscopy is used in physical and analytical chemistry because atoms and molecules have unique spectra. as a result, these spectra can be used to detect, identify and quantify information about the atoms and molecules. spectroscopy is also used in astronomy and remote sensing on earth. most research telescopes have spectrographs. the measured spectra are used to determine the chemical composition and physical properties of astronomical objects (such as their temperature, density of elements in a star, velocity, black holes and more).[12] an important use for spectroscopy is in biochemistry. molecular samples may be analyzed for species identification and energy content.[13]
+
+theory[edit]
+the underlying premise of spectroscopy is that light is made of different wavelengths and that each wavelength corresponds to a different frequency. the importance of spectroscopy is centered around the fact that every element in the periodic table has a unique light spectrum described by the frequencies of light it emits or absorbs consistently appearing in the same part of the electromagnetic spectrum when that light is diffracted. this opened up an entire field of study with anything that contains atoms. spectroscopy is the key to understanding the atomic properties of all matter. as such spectroscopy opened up many new sub-fields of science yet undiscovered. the idea that each atomic element has its unique spectral signature enabled spectroscopy to be used in a broad number of fields each with a specific goal achieved by different spectroscopic procedures. the national institute of standards and technology maintains a public atomic spectra database that is continually updated with precise measurements.[14]
+the broadening of the field of spectroscopy is due to the fact that any part of the electromagnetic spectrum may be used to analyze a sample from the infrared to the ultraviolet telling scientists different properties about the very same sample. for instance in chemical analysis, the most common types of spectroscopy include atomic spectroscopy, infrared spectroscopy, ultraviolet and visible spectroscopy, raman spectroscopy and nuclear magnetic resonance.[15] in nuclear magnetic resonance (nmr), the theory behind it is that frequency is analogous to resonance and its corresponding resonant frequency. resonances by the frequency were first characterized in mechanical systems such as pendulums, which have a frequency of motion noted famously by galileo.[16]
+
+classification of methods[edit]
+a huge diffraction grating at the heart of the ultra-precise espresso spectrograph.[17]
+spectroscopy is a sufficiently broad field that many sub-disciplines exist, each with numerous implementations of specific spectroscopic techniques. the various implementations and techniques can be classified in several ways.
+
+type of radiative energy[edit]
+the types of spectroscopy are distinguished by the type of radiative energy involved in the interaction. in many applications, the spectrum is determined by measuring changes in the intensity or frequency of this energy. the types of radiative energy studied include:
+
+electromagnetic radiation was the first source of energy used for spectroscopic studies. techniques that employ electromagnetic radiation are typically classified by the wavelength region of the spectrum and include microwave, terahertz, infrared, near-infrared, ultraviolet-visible, x-ray, and gamma spectroscopy.
+particles, because of their de broglie waves, can also be a source of radiative energy. both electron and neutron spectroscopy are commonly used. for a particle, its kinetic energy determines its wavelength.
+acoustic spectroscopy involves radiated pressure waves.
+dynamic mechanical analysis can be employed to impart radiating energy, similar to acoustic waves, to solid materials.
+nature of the interaction[edit]
+the types of spectroscopy also can be distinguished by the nature of the interaction between the energy and the material. these interactions include:[2]
+
+absorption spectroscopy: absorption occurs when energy from the radiative source is absorbed by the material. absorption is often determined by measuring the fraction of energy transmitted through the material, with absorption decreasing the transmitted portion.
+emission spectroscopy: emission indicates that radiative energy is released by the material. a material's blackbody spectrum is a spontaneous emission spectrum determined by its temperature. this feature can be measured in the infrared by instruments such as the atmospheric emitted radiance interferometer.[18] emission can also be induced by other sources of energy such as flames, sparks, electric arcs or electromagnetic radiation in the case of fluorescence.
+elastic scattering and reflection spectroscopy determine how incident radiation is reflected or scattered by a material. crystallography employs the scattering of high energy radiation, such as x-rays and electrons, to examine the arrangement of atoms in proteins and solid crystals.
+impedance spectroscopy: impedance is the ability of a medium to impede or slow the transmittance of energy. for optical applications, this is characterized by the index of refraction.
+inelastic scattering phenomena involve an exchange of energy between the radiation and the matter that shifts the wavelength of the scattered radiation. these include raman and compton scattering.
+coherent or resonance spectroscopy are techniques where the radiative energy couples two quantum states of the material in a coherent interaction that is sustained by the radiating field. the coherence can be disrupted by other interactions, such as particle collisions and energy transfer, and so often require high intensity radiation to be sustained. nuclear magnetic resonance (nmr) spectroscopy is a widely used resonance method, and ultrafast laser spectroscopy is also possible in the infrared and visible spectral regions.
+nuclear spectroscopy are methods that use the properties of specific nuclei to probe the local structure in matter, mainly condensed matter, molecules in liquids or frozen liquids and bio-molecules.
+quantum logic spectroscopy is a general technique used in ion traps that enables precision spectroscopy of ions with internal structures that preclude laser cooling, state manipulation, and detection. quantum logic operations enable a controllable ion to exchange information with a co-trapped ion that has a complex or unknown electronic structure.
+type of material[edit]
+spectroscopic studies are designed so that the radiant energy interacts with specific types of matter.
+
+atoms[edit]
+atomic spectra comparison table, from "spektroskopische methoden der analytischen chemie" (1922).
+atomic spectroscopy was the first application of spectroscopy. atomic absorption spectroscopy and atomic emission spectroscopy involve visible and ultraviolet light. these absorptions and emissions, often referred to as atomic spectral lines, are due to electronic transitions of outer shell electrons as they rise and fall from one electron orbit to another. atoms also have distinct x-ray spectra that are attributable to the excitation of inner shell electrons to excited states.
+atoms of different elements have distinct spectra and therefore atomic spectroscopy allows for the identification and quantitation of a sample's elemental composition. after inventing the spectroscope, robert bunsen and gustav kirchhoff discovered new elements by observing their emission spectra. atomic absorption lines are observed in the solar spectrum and referred to as fraunhofer lines after their discoverer. a comprehensive explanation of the hydrogen spectrum was an early success of quantum mechanics and explained the lamb shift observed in the hydrogen spectrum, which further led to the development of quantum electrodynamics.
+modern implementations of atomic spectroscopy for studying visible and ultraviolet transitions include flame emission spectroscopy, inductively coupled plasma atomic emission spectroscopy, glow discharge spectroscopy, microwave induced plasma spectroscopy, and spark or arc emission spectroscopy. techniques for studying x-ray spectra include x-ray spectroscopy and x-ray fluorescence.
+
+molecules[edit]
+the combination of atoms into molecules leads to the creation of unique types of energetic states and therefore unique spectra of the transitions between these states. molecular spectra can be obtained due to electron spin states (electron paramagnetic resonance), molecular rotations, molecular vibration, and electronic states. rotations are collective motions of the atomic nuclei and typically lead to spectra in the microwave and millimetre-wave spectral regions. rotational spectroscopy and microwave spectroscopy are synonymous. vibrations are relative motions of the atomic nuclei and are studied by both infrared and raman spectroscopy. electronic excitations are studied using visible and ultraviolet spectroscopy as well as fluorescence spectroscopy.[2][19][20][21][22]
+studies in molecular spectroscopy led to the development of the first maser and contributed to the subsequent development of the laser.
+
+crystals and extended materials[edit]
+the combination of atoms or molecules into crystals or other extended forms leads to the creation of additional energetic states. these states are numerous and therefore have a high density of states. this high density often makes the spectra weaker and less distinct, i.e., broader. for instance, blackbody radiation is due to the thermal motions of atoms and molecules within a material. acoustic and mechanical responses are due to collective motions as well.
+pure crystals, though, can have distinct spectral transitions, and the crystal arrangement also has an effect on the observed molecular spectra. the regular lattice structure of crystals also scatters x-rays, electrons or neutrons allowing for crystallographic studies.
+
+nuclei[edit]
+nuclei also have distinct energy states that are widely separated and lead to gamma ray spectra. distinct nuclear spin states can have their energy separated by a magnetic field, and this allows for nuclear magnetic resonance spectroscopy.
+
+other types[edit]
+this section is in list format but may read better as prose. you can help by converting this section, if appropriate. editing help is available. (april 2016)
+other types of spectroscopy are distinguished by specific applications or implementations:
+
+acoustic resonance spectroscopy is based on sound waves primarily in the audible and ultrasonic regions.
+auger electron spectroscopy is a method used to study surfaces of materials on a micro-scale.  it is often used in connection with electron microscopy.
+cavity ring-down spectroscopy
+circular dichroism spectroscopy
+coherent anti-stokes raman spectroscopy is a recent technique that has high sensitivity and powerful applications for in vivo spectroscopy and imaging.[23]
+cold vapour atomic fluorescence spectroscopy
+correlation spectroscopy encompasses several types of two-dimensional nmr spectroscopy.
+deep-level transient spectroscopy measures concentration and analyzes parameters of electrically active defects in semiconducting materials.
+dielectric spectroscopy
+dual-polarization interferometry measures the real and imaginary components of the complex refractive index.
+electron energy loss spectroscopy in transmission electron microscopy.
+electron phenomenological spectroscopy measures the physicochemical properties and characteristics of the electronic structure of multicomponent and complex molecular systems.
+electron paramagnetic resonance spectroscopy
+force spectroscopy
+fourier-transform spectroscopy is an efficient method for processing spectra data obtained using interferometers. fourier-transform infrared spectroscopy is a common implementation of infrared spectroscopy. nmr also employs fourier transforms.
+gamma spectroscopy
+hadron spectroscopy studies the energy/mass spectrum of hadrons according to spin, parity, and other particle properties. baryon spectroscopy and meson spectroscopy are types of hadron spectroscopy.
+multispectral imaging and hyperspectral imaging is a method to create a complete picture of the environment or various objects, each pixel containing a full visible, visible near infrared, near infrared, or infrared spectrum.
+inelastic electron tunneling spectroscopy uses the changes in current due to inelastic electron-vibration interaction at specific energies that can also measure optically forbidden transitions.
+inelastic neutron scattering is similar to raman spectroscopy, but uses neutrons instead of photons.
+laser-induced breakdown spectroscopy, also called laser-induced plasma spectrometry
+laser spectroscopy uses tunable lasers[24] and other types of coherent emission sources, such as optical parametric oscillators,[25] for selective excitation of atomic or molecular species.
+light scattering spectroscopy (lss) is a spectroscopic technique typically used to evaluate morphological changes in epithelial cells in order to study mucosal tissue and detect early cancer and precancer.[10][26]
+mass spectroscopy is a historical term used to refer to mass spectrometry. the current recommendation is to use the latter term.[27] the term "mass spectroscopy" originated in the use of phosphor screens to detect ions.
+mössbauer spectroscopy probes the properties of specific isotopic nuclei in different atomic environments by analyzing the resonant absorption of gamma rays. see also mössbauer effect.
+multivariate optical computing is an all optical compressed sensing technique, generally used in harsh environments, that directly calculates chemical information from a spectrum as analogue output.
+neutron spin echo spectroscopy measures internal dynamics in proteins and other soft matter systems.
+nuclear quadrupole resonance is a chemical spectroscopy method mediated by nmr of the electric field gradient (efg) in the absence of magnetic field
+perturbed angular correlation (pac) uses radioactive nuclei as probe to study electric and magnetic fields (hyperfine interactions) in crystals (condensed matter) and bio-molecules.
+photoacoustic spectroscopy measures the sound waves produced upon the absorption of radiation.
+photoemission spectroscopy
+photothermal spectroscopy measures heat evolved upon absorption of radiation.
+pump-probe spectroscopy can use ultrafast laser pulses to measure reaction intermediates in the femtosecond timescale.
+raman optical activity spectroscopy exploits raman scattering and optical activity effects to reveal detailed information on chiral centers in molecules.
+raman spectroscopy
+saturated spectroscopy
+scanning tunneling spectroscopy
+spectrophotometry
+spin noise spectroscopy traces spontaneous fluctuations of electronic and nuclear spins.[28]
+time-resolved spectroscopy measures the decay rates of excited states using various spectroscopic methods.
+time-stretch spectroscopy[29][30]
+thermal infrared spectroscopy measures thermal radiation emitted from materials and surfaces and is used to determine the type of bonds present in a sample as well as their lattice environment.  the techniques are widely used by organic chemists, mineralogists, and planetary scientists.
+transient grating spectroscopy measures quasiparticle propagation. it can track changes in metallic materials as they are irradiated.
+ultraviolet photoelectron spectroscopy
+ultraviolet–visible spectroscopy
+vibrational circular dichroism spectroscopy
+video spectroscopy
+x-ray photoelectron spectroscopy
+applications[edit]
+uves is a high-resolution spectrograph on the very large telescope.[31] 
+there are several applications of spectroscopy in the fields of medicine, physics, chemistry, and astronomy.  taking advantage of the properties of absorbance and with astronomy emission, spectroscopy can be used to identify certain states of nature.  the uses of spectroscopy in so many different fields and for so many different applications has caused specialty scientific subfields. such examples include:
+
+determining the atomic structure of a sample[32]
+studying spectral emission lines of the sun and distant galaxies[33]
+space exploration
+cure monitoring of composites using optical fibers.
+estimating weathered wood exposure times using near infrared spectroscopy.[34]
+measurement of different compounds in food samples by absorption spectroscopy both in visible and infrared spectrum.
+measurement of toxic compounds in blood samples
+non-destructive elemental analysis by x-ray fluorescence.
+electronic structure research with various spectroscopes.
+redshift to determine the speed and velocity of a distant object
+determining the metabolic structure of a muscle
+monitoring dissolved oxygen content in freshwater and marine ecosystems
+altering the structure of drugs to improve effectiveness
+characterization of proteins
+respiratory gas analysis in hospitals[7]
+finding the physical properties of a distant star or nearby exoplanet using the relativistic doppler effect.[35]
+in-ovo sexing: spectroscopy allows to determine the sex of the egg while it is hatching. developed by french and german companies, both countries decided to ban chick culling, mostly done through a macerator, in 2022.[36]
+process monitoring  in industrial process control[37]
+history[edit]
+main article: history of spectroscopy
+the history of spectroscopy began with isaac newton's optics experiments (1666–1672). according to andrew fraknoi and david morrison, "in 1672, in the first paper that he submitted to the royal society, isaac newton described an experiment in which he permitted sunlight to pass through a small hole and then through a prism. newton found that sunlight, which looks white to us, is actually made up of a mixture of all the colors of the rainbow."[38] newton applied the word "spectrum" to describe the rainbow of colors that combine to form white light and that are revealed when the white light is passed through a prism.
+fraknoi and morrison state that "in 1802, william hyde wollaston built an improved spectrometer that included a lens to focus the sun's spectrum on a screen. upon use, wollaston realized that the colors were not spread uniformly, but instead had missing patches of colors, which appeared as dark bands in the spectrum."[38] during the early 1800s, joseph von fraunhofer made experimental advances with dispersive spectrometers that enabled spectroscopy to become a more precise and quantitative scientific technique. since then, spectroscopy has played and continues to play a significant role in chemistry, physics, and astronomy. per fraknoi and morrison, "later, in 1815, german physicist joseph fraunhofer also examined the solar spectrum, and found about 600 such dark lines (missing colors), are now known as fraunhofer lines, or absorption lines."[38][better source needed]
+in quantum mechanical systems, the analogous resonance is a coupling of two quantum mechanical stationary states of one system, such as an atom, via an oscillatory source of energy such as a photon. the coupling of the two states is strongest when the energy of the source matches the energy difference between the two states. the energy e of a photon is related to its frequency ν by e = hν where h is the planck constant, and so a spectrum of the system response vs. photon frequency will peak at the resonant frequency or energy. particles such as electrons and neutrons have a comparable relationship, the de broglie relations, between their kinetic energy and their wavelength and frequency and therefore can also excite resonant interactions.
+spectra of atoms and molecules often consist of a series of spectral lines, each one representing a resonance between two different quantum states. the explanation of these series, and the spectral patterns associated with them, were one of the experimental enigmas that drove the development and acceptance of quantum mechanics. the hydrogen spectral series in particular was first successfully explained by the rutherford–bohr quantum model of the hydrogen atom. in some cases spectral lines are well separated and distinguishable, but spectral lines can also overlap and appear to be a single transition if the density of energy states is high enough. named series of lines include the principal, sharp, diffuse and fundamental series.
+
+see also[edit]
+
+applied spectroscopy
+astronomical spectroscopy
+atomic spectroscopy
+biomedical spectroscopy
+coronium
+frances lowater
+least-squares spectral analysis
+list of spectroscopists
+metamerism (color)
+operando spectroscopy
+scattering theory
+spectral line ratios
+spectral power distribution
+spectral theory
+spectroscopic notation
+telluric contamination
+virtually imaged phased array
+notes[edit]
+
+
+^ duckett, simon; gilbert, bruce (2000). foundations of spectroscopy. oxford science publications. isbn 978-0198503354.
+
+^ a b c crouch, stanley r.; skoog, douglas a.; holler, f. j. (2007). principles of instrumental analysis. australia: thomson brooks/cole. isbn 9780495012016.
+
+^ bartusiak, marcia (2017-06-27), "einstein's unfinished symphony: the story of a gamble, two black holes, and a new age of astronomy", einstein’s unfinished symphony, yale university press, doi:10.12987/9780300228120, isbn 9780300228120, oclc 1039140043, s2cid 246149887, retrieved 2023-05-22 google books
+
+^ the oxford american college dictionary. g.p. putnam's sons. 2002. isbn 9780399144158. oclc 48965005.
+
+^ "isaac newton and the problem of color", steven a. edwards, aaas.
+
+^ "1861: james clerk maxwell's greatest year". king's college london. 18 april 2011. archived from the original on 22 june 2013. retrieved 28 march 2013.
+
+^ a b pasco, "what is spectroscopy?"
+
+^ sutton, m. a. "sir john herschel and the development of spectroscopy in britain". the british journal for the history of science, vol. 7, no. 1, [cambridge university press, the british society for the history of science], 1974, pp. 42–60.
+
+^ lazić, dejan. "introduction to raman microscopy/spectroscopy". application of molecular methods and raman microscopy/spectroscopy in agricultural sciences and food technology, edited by dejan lazić et al., ubiquity press, 2019, pp. 143–50, http://www.jstor.org/stable/j.ctvmd85qp.12.
+
+^ a b perelman, l. t.; backman, v.; wallace, m.; zonios, g.; manoharan, r.; nusrat, a.; shields, s.; seiler, m.; lima, c.; hamano, t.; itzkan, i.; van dam, j.; crawford, j. m.; feld, m. s. (1998-01-19). "observation of periodic fine structure in reflectance from biological tissue: a new technique for measuring nuclear size distribution". physical review letters. 80 (3): 627–630. bibcode:1998phrvl..80..627p. doi:10.1103/physrevlett.80.627.
+
+^ kumar, manjit. quantum: einstein, bohr, and the great debate about the nature of reality / manjit kumar.—1st american ed., 2008. chap.1.
+
+^ "spectra and what they can tell us". imagine the universe!. nasa goddard space flight center. august 2013.
+
+^ nonell, santi; viappiani, cristiano. "basic spectroscopy". photobiological sciences online.
+
+^ "atomic spectra database", nist.
+
+^ saul, louise. (april 6, 2020). "the different types of spectroscopy for chemical analysis". azooptics. retrieved on november 10, 2021.
+
+^ isaac asimov, understanding physics, vol. 1, p.108.
+
+^ "a taste of espresso". retrieved 15 september 2015.
+
+^ mariani, z.; strong, k.; wolff, m.; rowe, p.; walden, v.; fogal, p. f.; duck, t.; lesins, g.; turner, d. s.; cox, c.; eloranta, e.; drummond, j. r.; roy, c.; turner, d. d.; hudak, d.; lindenmaier, i. a. (2012). "infrared measurements in the arctic using two atmospheric emitted radiance interferometers". atmospheric measurement techniques. 5 (2): 329–344. bibcode:2012amt.....5..329m. doi:10.5194/amt-5-329-2012.
+
+^ kroto, h. w. (1975). molecular rotation spectra. wiley. isbn 9780471508533. oclc 793428.
+
+^ philip r. bunker and per jensen (1998),molecular symmetry and spectroscopy, 2nd ed.  nrc research press, ottawa [1] isbn 9780660196282
+
+^ papoušek, dušan; aliev, mamed ragimovich (1982). molecular vibrational-rotational spectra: theory and applications of high resolution infrared, microwave, and raman spectroscopy of polyatomic molecules. amsterdam: elsevier scientific publishing company. isbn 9780444997371. oclc 7278301.
+
+^ wilson, edgar b.; decius, john c.; cross, paul c. (1980-03-01). molecular vibrations: the theory of infrared and raman vibrational spectra. courier corporation. isbn 9780486639413. oclc 1023249001.
+
+^ evans, c. l.; xie, x. s. (2008). "coherent anti-stokes raman scattering microscopy: chemical imaging for biology and medicine". annual review of analytical chemistry. 1: 883–909. bibcode:2008arac....1..883e. doi:10.1146/annurev.anchem.1.031207.112754. pmid 20636101.
+
+^ w. demtröder, laser spectroscopy, 3rd ed. (springer, 2003).
+
+^ brian orr; j. g. haub; y. he; r. t. white (2016). "spectroscopic applications of pulsed tunable optical parametric oscillators". in f. j. duarte (ed.). tunable laser applications (3rd ed.). boca raton: crc press. pp. 17–142. isbn 978-1-4822-6106-6.
+
+^ backman, v.; wallace, m. b.; perelman, l. t.; arendt, j. t.; gurjar, r.; müller, m. g.; zhang, q.; zonios, g.; kline, e.; mcgillican, t.; shapshay, s.; valdez, t.; badizadegan, k.; crawford, j. m.; fitzmaurice, m. (july 2000). "detection of preinvasive cancer cells". nature. 406 (6791): 35–36. doi:10.1038/35017638. issn 1476-4687. pmid 10894529. s2cid 4383575.
+
+^ murray, kermit k.; boyd, robert k.; eberlin, marcos n.; langley, g. john; li, liang; naito, yasuhide (2013). "definitions of terms relating to mass spectrometry (iupac recommendations 2013)". pure and applied chemistry. 85 (7): 1. doi:10.1351/pac-rec-06-04-06. issn 0033-4545.
+
+^ n. a. sinitsyn; y. v. pershin (2016). "the theory of spin noise spectroscopy: a review". reports on progress in physics. 79 (10): 106501. arxiv:1603.06858. bibcode:2016rpph...79j6501s. doi:10.1088/0034-4885/79/10/106501. pmid 27615689. s2cid 4393400.
+
+^ solli, d. r.; chou, j.; jalali, b. (2008). "amplified wavelength–time transformation for real-time spectroscopy". nature photonics. 2 (1): 48–51. bibcode:2008napho...2...48s. doi:10.1038/nphoton.2007.253.
+
+^ chou, jason; solli, daniel r.; jalali, bahram (2008). "real-time spectroscopy with subgigahertz resolution using amplified dispersive fourier transformation". applied physics letters. 92 (11): 111102. arxiv:0803.1654. bibcode:2008apphl..92k1102c. doi:10.1063/1.2896652. s2cid 53056467.
+
+^ "media advisory: press conference to announce major result from brazilian astronomers". eso announcement. retrieved 21 august 2013.
+
+^ 
+brian bowers (2001). sir charles wheatstone frs: 1802–1875 (2nd ed.). iet. pp. 207–208. isbn 978-0-85296-103-2.
+
+^ 
+brand, john c. d. (1995). lines of light: the sources of dispersive spectroscopy, 1800 – 1930. gordon and breach publishers. p. 57. isbn 978-2884491624.
+
+^ wang, xiping; wacker, james p. (2006). "using nir spectroscopy to predict weathered wood exposure times" (pdf). wtce 2006 – 9th world conference on timber engineering. archived from the original (pdf) on 2021-03-01. retrieved 2009-06-22.
+
+^ sher, d. (1968). "the relativistic doppler effect". journal of the royal astronomical society of canada. 62: 105. bibcode:1968jrasc..62..105s.
+
+^ "germany and france will stop chick culling". 22 july 2021.
+
+^ grau-luque, enric; guc, maxim; becerril-romero, ignacio; izquierdo-roca, víctor; pérez-rodríguez, alejandro; bolt, pieter; van den bruele, fieke; ruhle, ulfert (march 2022). "thickness evaluation of alo x barrier layers for encapsulation of flexible pv modules in industrial environments by normal reflectance and machine learning". progress in photovoltaics: research and applications. 30 (3): 229–239. doi:10.1002/pip.3478. issn 1062-7995.
+
+^ a b c andrew fraknoi; david morrison (october 13, 2016). "openstax astronomy".
+
+
+references[edit]
+john m. chalmers; peter griffiths, eds. (2006). handbook of vibrational spectroscopy. new york: wiley. doi:10.1002/0470027320. isbn 978-0-471-98847-2.
+jerry workman; art springsteen, eds. (1998). applied spectroscopy. boston: academic press. isbn 978-0-08-052749-9.
+peter m. skrabal (2012). spectroscopy - an interdisciplinary integral description of spectroscopy from uv to nmr (e-book). eth zurich: vdf hochschulverlag ag. doi:10.3218/3385-4. isbn 978-3-7281-3385-4. s2cid 244026324.
+external links[edit]
+
+
+
+wikiquote has quotations related to spectroscopy.
+
+
+
+
+look up spectroscopy in wiktionary, the free dictionary.
+
+
+
+
+wikimedia commons has media related to spectroscopy.
+
+nist atomic spectroscopy databases
+mit spectroscopy lab's history of spectroscopy
+timeline of spectroscopy
+spectroscopy: reading the rainbow
+vteanalytical chemistryinstrumentation
+atomic absorption spectrometer
+flame emission spectrometer
+gas chromatograph
+high-performance liquid chromatograph
+infrared spectrometer
+mass spectrometer
+melting point apparatus
+microscope
+optical spectrometer
+spectrophotometer
+techniques
+calorimetry
+chromatography
+electroanalytical methods
+gravimetric analysis
+ion mobility spectrometry
+mass spectrometry
+spectroscopy
+titration
+sampling
+coning and quartering
+dilution
+dissolution
+filtration
+masking
+pulverization
+sample preparation
+separation process
+sub-sampling
+calibration
+chemometrics
+calibration curve
+matrix effect
+internal standard
+standard addition
+isotope dilution
+prominent publications
+analyst
+analytica chimica acta
+analytical and bioanalytical chemistry
+analytical chemistry
+analytical biochemistry
+
+ category
+ commons
+portal
+ wikiproject
+
+vtebranches of chemistry
+glossary of chemical formulae
+list of biomolecules
+list of inorganic compounds
+periodic table
+analytical
+instrumental chemistry
+electroanalytical methods
+spectroscopy
+ir
+raman
+uv-vis
+nmr
+mass spectrometry
+ei
+icp
+maldi
+separation process
+chromatography
+gc
+hplc
+crystallography
+characterization
+titration
+wet chemistry
+calorimetry
+elemental analysis
+theoretical
+quantum chemistry
+computational chemistry
+mathematical chemistry
+molecular modelling
+molecular mechanics
+molecular dynamics
+molecular geometry
+vsepr theory
+physical
+electrochemistry
+spectroelectrochemistry
+photoelectrochemistry
+thermochemistry
+chemical thermodynamics
+surface science
+interface and colloid science
+micromeritics
+cryochemistry
+sonochemistry
+structural chemistry
+chemical physics
+molecular physics
+femtochemistry
+chemical kinetics
+spectroscopy
+photochemistry
+spin chemistry
+microwave chemistry
+equilibrium chemistry
+mechanochemistry
+inorganic
+coordination chemistry
+magnetochemistry
+organometallic chemistry
+organolanthanide chemistry
+cluster chemistry
+solid-state chemistry
+ceramic chemistry
+organic
+stereochemistry
+alkane stereochemistry
+physical organic chemistry
+organic reactions
+organic synthesis
+retrosynthetic analysis
+enantioselective synthesis
+total synthesis / semisynthesis
+fullerene chemistry
+polymer chemistry
+petrochemistry
+dynamic covalent chemistry
+biological
+biochemistry
+molecular biology
+cell biology
+chemical biology
+bioorthogonal chemistry
+medicinal chemistry
+pharmacology
+clinical chemistry
+neurochemistry
+bioorganic chemistry
+bioorganometallic chemistry
+bioinorganic chemistry
+biophysical chemistry
+interdisciplinarity
+nuclear chemistry
+radiochemistry
+radiation chemistry
+actinide chemistry
+cosmochemistry / astrochemistry / stellar chemistry
+geochemistry
+biogeochemistry
+photogeochemistry
+environmental chemistry
+atmospheric chemistry
+ocean chemistry
+clay chemistry
+carbochemistry
+food chemistry
+carbohydrate chemistry
+food physical chemistry
+agricultural chemistry
+soil chemistry
+chemistry education
+amateur chemistry
+general chemistry
+clandestine chemistry
+forensic chemistry
+forensic toxicology
+post-mortem chemistry
+nanochemistry
+supramolecular chemistry
+chemical synthesis
+green chemistry
+click chemistry
+combinatorial chemistry
+biosynthesis
+chemical engineering
+stoichiometry
+materials science
+metallurgy
+ceramic engineering
+polymer science
+see also
+history of chemistry
+nobel prize in chemistry
+timeline of chemistry
+of element discoveries
+"the central science"
+chemical reaction
+catalysis
+chemical element
+chemical compound
+atom
+molecule
+ion
+chemical substance
+chemical bond
+alchemy
+quantum mechanics
+
+ category
+ commons
+ portal
+ wikiproject
+
+vteconcepts in organic chemistry
+aromaticity
+covalent bonding
+functional groups
+nomenclature
+organic compounds
+organic reactions
+organic synthesis
+publications
+spectroscopy
+stereochemistry
+list of organic compounds
+
+vtelasers
+list of laser articles
+list of laser types
+list of laser applications
+laser acronyms
+types of lasers
+chemical laser
+dye laser
+bubble
+liquid-crystal
+gas laser
+carbon dioxide
+excimer
+helium–neon
+ion
+nitrogen
+free-electron laser
+laser diode
+solid-state laser
+er:yag
+nd:yag
+raman
+ruby
+ti-sapphire
+x-ray laser
+laser physics
+active laser medium
+amplified spontaneous emission
+continuous wave
+laser ablation
+laser linewidth
+lasing threshold
+population inversion
+ultrashort pulse
+laser optics
+beam expander
+beam homogenizer
+chirped pulse amplification
+gain-switching
+gaussian beam
+injection seeder
+laser beam profiler
+m squared
+mode locking
+multiple-prism grating laser oscillator
+optical amplifier
+optical cavity
+optical isolator
+output coupler
+q-switching
+
+ category
+
+vtespectroscopyvibrational (ir)
+ft-ir
+raman
+resonance raman
+rotational
+rotational–vibrational
+vibrational
+vibrational circular dichroism
+nuclear resonance vibrational spectroscopy
+vibrational spectroscopy of linear molecules
+thermal infrared spectroscopy
+uv–vis–nir "optical"
+ultraviolet–visible
+fluorescence
+cold vapour atomic
+vibronic
+near-infrared
+resonance-enhanced multiphoton ionization (rempi)
+raman
+coherent anti-stokes
+raman optical activity
+laser-induced breakdown
+atomic
+emission
+glow-discharge optical
+absorption
+cavity ring-down spectroscopy
+saturated absorption spectroscopy
+x-ray and gamma ray
+x-ray
+energy-dispersive
+emission
+extended x-ray absorption fine structure
+gamma
+mössbauer
+conversion electron
+electron
+photoelectron/photoemission
+x-ray
+uv
+angle-resolved
+two-photon
+auger
+phenomenological
+paramagnetic
+beta spectroscopy
+nucleon
+alpha
+inelastic neutron scattering
+neutron spin echo
+radiowave
+nmr
+2d
+terahertz
+esr/epr
+ferromagnetic resonance
+othersdata collection, processing
+fourier-transform spectroscopy
+hyperspectral imaging
+spectrophotometry
+time-stretch
+time-resolved spectroscopy
+video spectroscopy
+measured phenomena
+acoustic resonance spectroscopy
+circular dichroism spectroscopy
+deep-level transient spectroscopy
+dual-polarization interferometry
+hadron spectroscopy
+inelastic electron tunneling spectroscopy
+scanning tunneling spectroscopy
+photoacoustic spectroscopy
+photothermal spectroscopy
+pump–probe spectroscopy
+applications
+astronomical spectroscopy
+force spectroscopy (a misnomer)
+
+ category
+ commons
+
+vtemolecules detected in outer spacemoleculesdiatomic
+aluminium monochloride
+aluminium monofluoride
+aluminium(ii) oxide
+argonium
+carbon cation
+carbon monophosphide
+carbon monosulfide
+carbon monoxide
+cyano radical
+diatomic carbon
+fluoromethylidynium
+helium hydride ion
+hydrogen chloride
+hydrogen fluoride
+hydrogen (molecular)
+hydroxyl radical
+imidogen
+iron(ii) oxide
+magnesium monohydride
+methylidyne radical
+nitric oxide
+nitrogen (molecular)
+oxygen (molecular)
+phosphorus monoxide
+phosphorus mononitride
+potassium chloride
+silicon carbide
+silicon monoxide
+silicon monosulfide
+sodium chloride
+sodium iodide
+sulfanyl
+sulfur mononitride
+sulfur monoxide
+titanium(ii) oxide
+    triatomic
+aluminium(i) hydroxide
+aluminium isocyanide
+amino radical
+carbon dioxide
+carbonyl sulfide
+ccp radical
+chloronium
+diazenylium
+dicarbon monoxide
+disilicon carbide
+ethynyl radical
+formyl radical
+hydrogen cyanide (hcn)
+hydrogen isocyanide (hnc)
+hydrogen sulfide
+hydroperoxyl
+iron cyanide
+isoformyl
+magnesium cyanide
+magnesium isocyanide
+methylene
+methylidynephosphane
+n2h+
+nitrous oxide
+nitroxyl
+ozone
+potassium cyanide
+sodium cyanide
+sodium hydroxide
+silicon carbonitride
+c-silicon dicarbide
+sinc
+sulfur dioxide
+thioformyl
+thioxoethenylidene
+titanium dioxide
+tricarbon
+trihydrogen cation
+water
+fouratoms
+acetylene
+ammonia
+cyanoethynyl
+formaldehyde
+fulminic acid
+hccn
+hydrogen peroxide
+hydromagnesium isocyanide
+isocyanic acid
+isothiocyanic acid
+ketenyl
+methyl cation
+methyl radical
+methylene amidogen
+propynylidyne
+protonated carbon dioxide
+protonated hydrogen cyanide
+silicon tricarbide
+thiocyanic acid
+thioformaldehyde
+tricarbon monosulfide
+tricarbon monoxide
+fiveatoms
+ammonium ion
+butadiynyl
+carbodiimide
+cyanamide
+cyanoacetylene
+cyanoformaldehyde
+cyanomethyl
+cyclopropenylidene
+formic acid
+isocyanoacetylene
+ketene
+methane
+methoxy radical
+methylenimine
+propadienylidene
+protonated formaldehyde
+silane
+silicon-carbide cluster
+sixatoms
+acetonitrile
+cyanobutadiynyl radical
+cyclopropenone
+diacetylene
+e-cyanomethanimine
+ethylene
+formamide
+hc4n
+ketenimine
+methanethiol
+methanol
+methyl isocyanide
+pentynylidyne
+propynal
+protonated cyanoacetylene
+sevenatoms
+acetaldehyde
+acrylonitrile
+vinyl cyanide
+cyanodiacetylene
+ethylene oxide
+glycolonitrile
+hexatriynyl radical
+methyl isocyanate
+methylamine
+propyne
+vinyl alcohol
+eightatoms
+acetic acid
+acrolein
+aminoacetonitrile
+cyanoallene
+ethanimine
+glycolaldehyde
+hexapentaenylidene
+methyl formate
+methylcyanoacetylene
+nineatoms
+acetamide
+cyanohexatriyne
+dimethyl ether
+ethanethiol
+ethanol
+methyldiacetylene
+n-methylformamide
+octatetraynyl radical
+propene
+propionitrile
+tenatomsor more
+acetone
+benzene
+benzonitrile
+buckminsterfullerene (c60, c60+, fullerene, buckyball)
+butyronitrile
+c70 fullerene
+cyanodecapentayne
+ethyl formate
+ethylene glycol
+heptatrienyl radical
+methyl acetate
+methyl-cyano-diacetylene
+methyltriacetylene
+propionaldehyde
+pyrimidine
+deuteratedmolecules
+ammonia
+ammonium ion
+formaldehyde
+formyl radical
+heavy water
+hydrogen cyanide
+hydrogen deuteride
+hydrogen isocyanide
+n2d+
+propyne
+trihydrogen cation
+unconfirmed
+anthracene
+dihydroxyacetone
+glycine
+graphene
+h2nco+
+hemolithin
+linear c5
+methoxyethane
+naphthalene cation
+phosphine
+pyrene
+silylidyne
+related
+abiogenesis
+astrobiology
+astrochemistry
+atomic and molecular astrophysics
+chemical formula
+circumstellar dust
+circumstellar envelope
+cosmic dust
+cosmic ray
+cosmochemistry
+diffuse interstellar band
+earliest known life forms
+extraterrestrial life
+extraterrestrial liquid water
+forbidden mechanism
+homochirality
+intergalactic dust
+interplanetary medium
+interstellar medium
+iron–sulfur world theory
+kerogen
+molecules in stars
+nexus for exoplanet system science
+organic compound
+outer space
+pah world hypothesis
+photodissociation region
+polycyclic aromatic hydrocarbon (pah)
+pseudo-panspermia
+rna world hypothesis
+spectroscopy
+tholin
+
+ category:astrochemistry
+ outer space portal
+ astronomy portal
+ chemistry portal
+
+portals: physics mathematics science stars spaceflight science
+authority control databases: national germanyunited statesfrancebnf datajapanczech republiclatviaisrael
+
+
+
+
+retrieved from "https://en.wikipedia.org/w/index.php?title=spectroscopy&oldid=1269069755"
+categories: spectroscopyobservational astronomyscattering, absorption and radiative transfer (optics)scientific techniquesconcepts in astronomygustav kirchhoffhidden categories: articles with short descriptionshort description is different from wikidataarticles needing additional references from april 2016all articles needing additional referencesarticles needing cleanup from april 2016all pages needing cleanuparticles with sections that need to be turned into prose from april 2016all articles lacking reliable referencesarticles lacking reliable references from november 2020commons category link from wikidata
+
+
+
+
+
+
+ this page was last edited on 12 january 2025, at 22:04 (utc).
+text is available under the creative commons attribution-sharealike 4.0 license;
+additional terms may apply. by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+code of conduct
+developers
+statistics
+cookie statement
+mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+toggle the table of contents
+
+
+
+
+
+
+
+spectroscopy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+78 languages
+
+
+add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+

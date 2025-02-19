@@ -1,0 +1,378 @@
+
+
+
+
+thinkwiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thinkwiki - linux thinkpad wiki 
+from thinkwiki 
+
+					jump to:					navigation, 					search
+
+
+
+
+
+introduction
+
+
+
+
+
+this is  thinkwiki, the wikipedia for ibm and lenovo thinkpad users.
+in here, you can find anything you need to install your favourite linux distribution on your thinkpad. windows users shouldn't run away, there's a lot of useful information for them as well. some linux information for mac users also can be found here.
+5,651 users have registered since september 2004 and created 1,433 articles, with 59,385 page edits so far. 
+please  support us and help to extend this wiki. thank you!
+account creation on thinkwiki
+
+more about thinkwiki
+
+
+hardware and software
+
+hardware specifications (hardware specs of thinkpad models)
+hardware modifications (modifications, usually in form of upgrades, for thinkpads)
+thinkpad technologies (features specific to thinkpads)
+components and addons (components and add-ons used in thinkpads)
+bios upgrade (how to keep your thinkpad's bios up to date)
+custom bios (modified bios images to remove restrictions and errors)
+error codes and beep codes (bios numerical and beep error codes)
+known problems (chronic problems which appear in thinkpads)
+maintenance (keeping your thinkpad alive)
+lenovo software (software preloaded by lenovo)
+thinkpad models
+
+
+howtos
+
+ thinkpad installation (how to install your favorite os)
+ driver installation (how to make certain drivers work)
+ preload recovery (how to recover the preloaded os)
+ power management (how to get suspend, speedstep etc. working)
+ special keys (how to setup/configure the extra keys)
+ performance (how to optimize your system)
+ bios-bootsplash (how to change the bios's boot splash image)
+how to read thinkwiki
+
+
+drivers and patches
+
+drivers (useful drivers for thinkpads)
+tools (useful tools for thinkpads)
+patches (thinkpad related patches)
+scripts (thinkpad related scripts)
+configs (useful configuration files for thinkpads)
+categories
+
+
+further information
+
+ glossary (explanations of special terms)
+ mailinglists  (talk to other people and get help)
+ important links (links to useful sites)
+ irc-channels  (for urgent help and chatter)
+
+
+
+
+thinkwiki news
+
+
+
+
+13.03.2024:
+thinkwiki is celebrating its 20th anniversary.
+
+
+08.09.2021:
+new server hardware.
+
+
+15.03.2021:
+thinkwiki has been upgraded to mediawiki 1.31.12.
+
+
+01.08.2020:
+scheduled downtime due to service maintenance
+
+
+31.03.2018:
+major security update on server software.
+
+
+10.05.2017:
+all insecure elements have been removed from thinkwiki.
+
+
+08.03.2017:
+thinkwiki now uses ssl/tls by default.
+
+
+01.01.2016:
+thinkwiki wishes all users a happy new year!
+
+
+08.02.2015:
+thinkwiki got new awesome hardware!
+
+
+31.01.2015:
+thinkwiki has been upgraded to mediawiki 1.24.1.
+
+
+06.08.2013:
+cleanup action: all users with no page edits older than 90 days will get purged.
+
+
+01.05.2013:
+thinkwiki has been upgraded to mediawiki 1.20.5.
+
+
+01.05.2013:
+sorry for some downtime today (and yesterday)
+
+
+13.08.2012:
+thinkwiki got new hardware!
+
+
+13.08.2012:
+thinkwiki suffered a partial data loss
+
+
+03.02.2012:
+thinkwiki has been upgraded to mediawiki 1.18.1.
+
+
+15.10.2011:
+we are pleased to announce our new partnership with thinkpads.com
+
+
+28.06.2011:
+thinkwiki has been upgraded to mediawiki 1.17.0.
+
+
+07.06.2011:
+ibm.com migr doc links are dead! please convert any dead links to use the ibmdocurl or lnvdocurl template
+
+
+20.03.2011:
+user account creation temporarily disabled, until we have an effective way to reduce spam.
+
+
+08.02.2011:
+thinkwiki has been upgraded to mediawiki 1.16.2.
+
+
+17.05.2010:
+thinkwiki got shiny new hardware!
+
+
+more news
+
+
+industry watch
+
+
+
+
+30.07.2020:
+new fglrx driver version 20.30 released
+
+
+18.12.2015:
+new fglrx driver version 15.12 released
+
+
+24.04.2012:
+new fglrx driver version 12.4 released
+
+
+28.09.2011:
+new fglrx driver version 11.9 released
+
+
+19.02.2009:
+ubuntu 10.04 will use nouveau drivers for nvidia gpus. see this phoronix article .
+
+
+29.01.2009:
+new fglrx driver version 9.1 released with support for opengl 3.0, hybrid crossfile and multiview.
+
+
+18.09.2008:
+new fglrx driver version 8.9 (8.532) released.
+
+
+10.06.2008:
+engadget got some leaked technical specs of the new thinkpads.
+
+
+16.04.2008:
+new fglrx driver version 8.1 (8.476) released.
+
+
+14.04.2008:
+lenovo's entire new thinkpad line leaked, x300 gets siblings. see gizmodo for details.
+
+
+18.01.2008:
+new fglrx driver version 8.1 (8.454) released.
+
+
+more news
+
+
+recent changes
+
+16 february 2025
+     16:56  category:380z‎ (diff | hist) . . (+208)‎ . . cobra (talk | contribs) (mention extra battery pin)
+
+more changes
+
+
+advertisment
+
+
+advertising on thinkwiki
+
+
+
+
+to experiment with this wiki please try thinkwiki:sandbox. 
+see the user's guide for usage and configuration help.
+
+
+
+ 
+						retrieved from "https://www.thinkwiki.org/w/index.php?title=thinkwiki&oldid=62074"					
+ 
+
+
+
+navigation menu
+
+
+personal tools
+
+log in 
+
+
+
+namespaces
+
+main pagediscussion 
+
+
+
+
+variants
+
+
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+thinkwikithinkpad modelscategoriesrecent changesrandom pagehelpliteraturesupport thinkwiki 
+
+
+
+tools
+
+
+what links hererelated changesspecial pagesprintable versionpermanent linkpage information 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ this page was last edited on 17 september 2022, at 21:27.
+
+
+privacy policy
+about thinkwiki
+terms of use
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

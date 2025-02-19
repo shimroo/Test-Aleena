@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+lorrie faith cranor's home page
+
+
+
+
+
+
+this page: 
+
+contact |
+news |
+research | 
+publications |
+affiliations |
+teaching  |
+students |
+consulting |
+personal
+
+elsewhere: blog |
+bio |
+resume |
+press |
+videos |
+columns |
+
+quilts |
+photos |
+academic genealogy |
+everything else 
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+lorrie faith cranor
+director and bosch distinguished professor in security and privacy
+  technologies, cylab security and privacy institute
+fore systems university professor,
+  computer science and
+  engineering & public
+  policy
+
+ 
+  director, cylab usable privacy and security
+  laboratory
+
+co-director, msit-privacy engineering masters
+      program
+
+
+
+
+
+    
+
+contact
+
+mailing address:
+carnegie mellon
+        university, cic 2107,
+        4720 forbes avenue,
+        pittsburgh, pa 15213
+
+office: cic 2107 (4720 forbes ave [directions])
+phone: 412-268-7534 (i rarely check voice mail)
+        email: lorrie at  cmu dot edu
+       
+administrative assistant: 
+allison fatla afatla@andrew.cmu.edu
+how should you address me? professor cranor and dr. cranor
+  are both fine if this is a professional context where titles are
+  used. outside of professional contexts you may use dr. cranor
+  or ms. cranor. please do not address me as mrs. cranor in any
+  context. if we're not using
+  titles, then lorrie is just fine. if you can't decide whether
+  to be formal or not, professor lorrie will also do. i use my
+  full name lorrie faith cranor in my publications, but no need to
+  include my middle name elsewhere.
+   pronouns: she/her.
+
+important information for
+prospective students and visitors
+
+research focus
+
+usable privacy and security, technology and public
+    policy - see the cylab usable privacy and security laboratory
+    website for more information or 
+watch
+      a short video about my research
+
+
+highlights
+
+
+illustrating
+      privacy engineering concepts with potty talk - 20-minute
+      talk i presented at the 2021 conference on privacy engineering
+      practice and respect (pepr) - see also my potty page
+my ieee security and privacy podcast with bob blakely - over
+      the rainbow
+2019 mckelvey school of
+    engineering alumni achievement award video
+lots of videos and news
+    articles 
+advice for women in computer science: an interview i did with students from the cmu women@scs organization
+tales from an accidental
+    computer science professor - 60 minute talk plus questions, indiana university, february 8, 2018
+read about cmu
+    research on usable and secure passwords
+cbs
+    sunday morning video featuring me and my password dress - also
+       text
+       version
+the now-famous password
+		      dress, the companion security
+		      blanket quilt that was featured in science
+		      magazine, the cnet
+		      article, password
+		      chairs and more and you can order the
+		      fabric and ties
+		      and read about our
+passwords research
+my tech@ftc blog post time
+			     to rethink mandatory password changes
+watch my 5-minute davos video on personal privacy assistants and the internet of
+  things, and read my trip report
+check out our privacy
+		     illustrated website featuring illustrations
+		     of privacy from kindergartners through adults
+
+my
+    tedxcmu 2014 talk on passwords (as featured on delta airlines
+       inflight entertainment)
+a 60-minute presentation i gave in fall 2013: computers,
+    quilts, and privacy
+
+
+
+
+current projects
+
+usable privacy choices, 
+usable privacy policy
+  project, 
+usable and secure
+ passwords, 
+privacy
+ decision making,
+user-controllable
+ security and privacy, usable cyber
+	trust indicators
+
+previous research
+anti-phishing, p3p, electronic voting, and
+  security
+  vulnerabilities in movie distribution
+
+publications
+
+
+
+ see publications section of my
+      resume (sorted by publication type)
+ cups
+      website publication list (sorted by topic, includes other
+      peoples' publications as well)
+my cmu scholars page
+my google
+      scholar page 
+my acm
+      digital library author page
+my dblp page
+
+cmu affiliations
+
+
+software and societal systems
+      department (s3d) in the school of computer science
+engineering and public
+      policy department in the college of engineering
+cylab usable privacy and
+      security laboratory (cups) (director) in cylab
+msit-privacy engineering masters
+      program (co-director)
+ph.d. program in societal computing
+electrical & computer engineering
+      department (affiliate faculty)
+human-computer interaction
+      institute (affiliate faculty)
+heinz college (affiliate
+  faculty)
+(former) founding co-director, collaboratory against hate: research and
+  action center
+studio for
+    creative inquiry (former fellow and member of deep lab)
+
+other affiliations
+
+
+center for distributed
+    confidential computing (cdcc) - nsf funded project with iu,
+  purdue, cmu, osu, spelman, duke, yale, and penn state
+center for democracy and technology (cdt)
+  - board of directors, 2024-
+electronic privacy information center
+    (epic) - advisory board member, 2024-
+aspen
+    us cybersecurity group
+consumer
+       reports innovation - advisor
+computing research
+    association board of directors, 2019-2025
+elate
+       fellow, 2014-15
+electronic frontier foundation
+      board of directors, 2007-2015 
+the future of privacy forum
+      advisory board, 2009-2015, 2017-
+deep lab, founding member
+wombat security technologies,
+      co-founder 
+ at&t labs-research, 1996 -
+      2003
+
+teaching
+
+
+
+17-734 /
+    17-334 [previously 08-534 / 08-734 ] / 5-436 / 5-836
+    /  19-534 / 19-734 usable privacy and
+    securitysp23, sp22, sp21, sp20, sp19, sp18, sp17, sp15, sp14, fa11, fa09, sp08, sp07, sp06
+ 17-733 /17-333
+  [previously 8-533 / 8-733] /
+  19-608 / 95-818: privacy policy, law, and technology
+fa15,fa14, fa13, fa10,fa08, fa07, fa05,
+  fa04, sp04
+8-602:
+    current topics in privacy seminarfa13, fa14, fa15, sp17,
+    sp18
+8-606 privacy by design workshop / 8-607 privacy by design
+  practicum
+fa17, summer15, summer14
+15-290 /
+  17-290 /
+  19-211: special topics: computers and societysp07, sp06,
+  sp05
+epp
+    undergraduate projectsp09 carrying capacity, sp10 privacy,
+       sp11 green printing, sp12 emergency messaging with social media
+cos phd seminarsp06, fa05, sp05, fa04
+08-709 privacy technology (msit
+    ebusiness program)sp15, sp14, sp13, sp12, sp11, sp10, sp09, sp08, sp07, sp06
+
+
+students
+
+
+current phd students:
+    wendy bickersteth (societal
+    computing),
+  elijah bouma-sims (societal
+  computing), 
+),
+andy gallardo (societal
+    computing),
+  megan li (societal
+    computing),
+
+  veronica lin (societal
+    computing),
+  alexandra nisenoff  (societal
+  computing,
+sarah pearman (societal computing), ellie young (societal computing)
+ 
+graduated phd students (advisor):
+rebecca balebako (epp phd 2014),
+    cristian bravo lillo
+    (epp phd 2014),
+    jessica colnago (societal
+      computing phd 2021),
+    kyle crichton (epp phd 2023),
+ serge
+   egelman (cos phd 2009),
+ pardis emami-naeini
+ (societal computing phd 2020),
+ hana habib (societal computing phd 2021),
+patrick kelley (cos phd 2013, co-advisor w/ 
+n.
+    sadeh),
+ saranga komanduri (societal computing phd 2016),
+  ponnurangam 
+  kumaraguru (cos phd
+ 2009),
+ pedro
+ leon (epp phd 2014),
+ abby marsh (societal computing phd 2018),
+ aleecia mcdonald (epp phd 2010),
+  rob reeder (csd phd
+ 2008),
+ rich shay (cos phd 2015),
+   steve
+    sheng (epp phd 2009),
+   
+    manya sleeper (societal
+							       computing
+							       phd
+							       2016), 
+josh tan (societal computing phd 2020, co-advisor w/ l. bauer), 
+      janice
+      tsai (epp phd 2009),
+ blase ur (societal computing phd 2016),
+kami vaniea (csd
+    phd 2012, co-advisor w/ l. bauer)
+
+
+
+consulting
+
+i have consulted for companies and non-profits on
+privacy policies, p3p, usable privacy and security, and technology policy. i have also served as an
+expert witness in patent litigation and in privacy cases, and in cases
+ challenging the constitutionality of internet harmful-to-minors laws,
+including the aclu's successful challenge to the 1998 children's online
+protection act. i currently do expert witness consulting through
+    harbor labs.
+personal
+
+i walk to work, play recreational soccer, practice yoga, take lots
+      of photos, sew clothes with pockets, 
+      and design and create quilts. i also
+      play the bass flute in the city flutes flute choir, 
+      serve as an allegheny county elections poll
+      worker,  and organized the  dynamoms women's
+      soccer club.
+
+"i started quilting in grad school because i wanted to create
+  something beautiful and see tangible progress when i got frustrated
+  writing my dissertation. thirty years later, i continue to design
+  and sew quilts and now also clothing. figuring out how to construct
+  an idea i have in my mind out of fabric is a bit of an engineering
+  challenge, but it is very different from what i do all day at
+  work. i find it both relaxing and exciting, and i love the tactile
+  nature of working with fabric. i enjoy designing and sewing clothing
+  that meets all the requirements of the wearer: comfortable, perfect
+  fit, looks great on, washable and of course it has to have
+  functional pockets! and it is lots of fun when someone compliments
+  me on my outfit, and i tell them i sewed it myself!" -- (cmu arts
+  in education week 2024)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+blog |
+bio |
+resume |
+press |
+
+quilts |
+photos |
+
+everything else 
+
+
+
+
+
+
+
+

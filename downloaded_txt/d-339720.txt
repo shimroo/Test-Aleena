@@ -1,0 +1,398 @@
+
+
+
+
+quadratic expressions
+  
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+   home
+   a summary of factoring polynomials
+   factoring the difference of 2 squares
+   factoring trinomials
+   quadratic expressions
+   factoring trinomials
+   the 7 forms of factoring 
+   factoring trinomials
+   finding the greatest common factor (gcf)
+   factoring trinomials 
+   quadratic expressions
+   factoring simple expressions
+   polynomials
+   factoring polynomials
+   fractoring polynomials
+   other math resources
+   factoring polynomials
+   polynomials
+   finding the greatest common factor (gcf)
+   factoring trinomials
+   finding the least common multiples
+
+
+
+
+
+
+try the free math solver or scroll down to tutorials!expressionequationinequalitycontact ussimplifyfactorexpandgcflcm
+
+
+
+
+
+
+enter expression, e.g.  (x^2-y^2)/(x-y) 
+sample problem 
+
+ 
+
+ 
+
+  
+
+ 
+simplify 
+
+ 
+
+ 
+
+  
+
+enter expression, e.g.  x^2+5x+6 
+sample problem 
+
+ 
+
+ 
+
+  
+
+ 
+factor 
+
+ 
+
+ 
+
+  
+
+enter expression, e.g.  (x+1)^3 
+sample problem 
+
+ 
+
+ 
+
+  
+
+ 
+expand 
+
+ 
+
+ 
+
+  
+
+enter a set of expressions, e.g.  ab^2,a^2b 
+sample problem 
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+ 
+find gcf 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+enter a set of expressions, e.g.  ab^2,a^2b 
+sample problem 
+
+ 
+
+ 
+
+  
+
+ 
+find lcm 
+
+ 
+
+ 
+
+  
+
+solvegraphsystem
+
+
+
+
+
+
+enter equation to solve, e.g. 2x+3=4 
+sample problem 
+
+ 
+
+ 
+
+  
+
+ 
+solve 
+
+ 
+ 
+
+ 
+
+ 
+
+  
+
+enter equation to graph, e.g. y=3x^2-1 
+sample problem 
+
+ 
+
+ 
+
+  
+
+depdendent variable 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+draw 
+
+ 
+
+ 
+
+  
+
+ number of equations to solve:23456789sample problem 
+equ. #1:
+
+  
+equ. #2:
+
+  
+equ. #3:
+
+  
+equ. #4:
+
+  
+equ. #5:
+
+  
+equ. #6:
+
+  
+equ. #7:
+
+  
+equ. #8:
+
+  
+equ. #9:
+
+  solve for:auto fill 
+
+ 
+
+solve 
+
+ 
+
+ 
+
+  
+
+solvegraphsystem
+
+
+
+
+
+
+enter inequality to solve, e.g. 2x+3>4 
+sample problem 
+
+ 
+
+ 
+
+  
+
+ 
+solve 
+
+ 
+
+ 
+
+  
+
+enter inequality to graph, e.g. y<3x^2-1 
+sample problem 
+
+ 
+
+ 
+
+  
+
+dependent variable 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+draw 
+
+ 
+
+ 
+
+  
+
+ number of inequalities to solve:23456789sample problem 
+ineq. #1:
+
+  
+ineq. #2:
+
+  
+ineq. #3:
+
+  
+ineq. #4:
+
+  
+ineq. #5:
+
+  
+ineq. #6:
+
+  
+ineq. #7:
+
+  
+ineq. #8:
+
+  
+ineq. #9:
+
+  solve for:auto fill 
+
+solve 
+
+ 
+
+ 
+
+  
+
+math solver on your site
+
+
+
+
+
+
+please use this form if you would like to have this math solver on your website, free of charge. 
+
+name: 
+
+ 
+
+email: 
+
+ 
+
+your website: 
+
+ 
+
+msg: 
+
+ 
+
+send 
+
+ 
+
+ 
+
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+complete squares exercisewrite each of the following as a complete square. (a) x - 10x + 25(b) z + 8z + 16 (c) w - w + 1/4(d) y + 5y + 25/4 solution(a) comparing x - 2ax + a with x - 10x + 25 we see that 2a = 10 , and a = 25 . thus a = 5 is the solution. it may easily be checked that (x - 5) = x - 10x + 25 . (b) comparing z - 2az + a with z + 8z + 16, it follows that -2a = 8 , and a = 16 . in this case a = -4. checking(z - ( -4)) = (z + 4) = z + 8z + 16 . (c) comparing w - 2aw + a with w - w + 1/4, we must have -2a = -1 , and a = 4 . in this case a = 1/2 , and it is now easy to check that(d) comparing y - 2ay + a with y + 5y + 25/4 we must have -2a = 5 , and a = 25/4 . from this it must follow that a = -5/2 . note thatit is now easy to check that quiz which of the following quadratic expressions is a complete square? (a) z + 3 z - 9 /4 (b) z + 3 z + 9 /2 (c) z - 3 z + 9 /4 (d) z - 3 z + 9 /2 solutioncomparing z - 3z + 9/4 with the general form of a complete square (z - a) = z - 2az + a if -2a = -3 then  , and now it is easily checked that 
+
+
+
+ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117  
+ 1 2 3 4 5 6 7  
+ 1 2 3 4 5 6  
+ 1 2 3 4 5 6  
