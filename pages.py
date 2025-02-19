@@ -150,9 +150,7 @@ def process_urls_from_csv(doc_df, limit):
 
     try:
 
-        remaining_df = doc_df.iloc[completed_count:]
-
-        new_urls = [(row["Url"], row["DocIndex"]) for _, row in remaining_df.iterrows() if row["Url"] not in dict_urls]
+        new_urls = [(row["Url"], row["DocIndex"]) for _, row in doc_df.iterrows() if row["Url"] not in dict_urls]
         new_urls = new_urls[:limit]  # Limit processing to the user-specified number
     except KeyError:
         save_backup_progress2()
@@ -203,5 +201,5 @@ if __name__ == "__main__":
         print("Please enter a valid integer for the number of new URLs to process.")
         sys.exit(1)
     
-    doc_df = pd.read_csv('test_doc.csv', delimiter='\t', usecols=['Url', 'DocIndex'])
+    doc_df = pd.read_csv('doc.csv', delimiter='\t', usecols=['Url', 'DocIndex'])
     process_urls_from_csv(doc_df, limit)
