@@ -1,0 +1,3763 @@
+
+
+
+planet lisp
+
+
+
+
+
+
+
+
+ planet lisp is a meta blog that collects the contents of various
+  lisp-related blogs.
+about planet lisp
+@planet_lisp
+related sites
+
+ planet sbcl
+ planet scheme
+
+archives
+
+ february, 2025
+ january, 2025
+ december, 2024
+ november, 2024
+ october, 2024
+ september, 2024
+ august, 2024
+ july, 2024
+ june, 2024
+ may, 2024
+ april, 2024
+ march, 2024
+
+subscriptions
+
+
+abcl dev
+
+paolo amoroso
+
+marco antoniotti
+
+victor anyakin
+
+alexander artemenko
+
+zach beane
+
+fernando borretti
+
+tim bradshaw
+
+scott l. burson
+
+cl test grid
+
+common-lisp.net news
+
+pascal costanza
+
+drmeister
+
+vsevolod dyomkin
+
+ecl news
+
+thomas fitzsimmons
+
+dimitri fontaine
+
+michael forster
+
+nathan froyd
+
+andreas fuchs
+
+eitaro fukamachi
+
+tycho garen 
+
+
+jonathan godbout
+
+chaitanya gupta
+
+yukari hafner
+
+liam healy
+
+michał herda
+
+hans hübner
+
+ben hyde
+
+stelian ionescu
+
+john jacobsen
+
+kaveh kardan
+
+paul khuong
+
+turtleware
+
+pavel korolev
+
+nick levine
+
+common lisp tips
+
+lispers.de
+
+lispjobs
+
+colin lupton
+
+joe marshall
+
+nicolas martyanoff
+
+mcclim
+
+gábor melis
+
+neil munro
+
+wimpie nortje
+
+luís oliveira
+
+tamas k papp
+
+quicklisp news
+
+max-gerd retzlaff
+
+christophe rhodes
+
+françois-rené rideau
+
+tobias rittweiler
+
+paul rodriguez
+
+jochen schmidt
+
+timofei shatrov
+
+nikodemus siivola
+
+sirherrbatka
+
+slime tips
+
+patrick stein
+
+jorge tavares
+
+eric timmons
+
+daniel vedder
+
+didier verna
+
+vindarel
+
+eugene zaikonnikov
+
+charles zhang
+
+leo zovic
+
+
+
+
+joe marshall — advent of code 2024: day 8
+@2025-02-19 08:02 · 14 minutes ago
+
+day 8 is another grid puzzle.  we are given a map of antennas.  two
+  antennas operate on the same frequency have the same ascii character
+  on the map.  a “node” is a location on the map that is
+  in line with two antennas of the same frequency and is twice as far
+  from one antenna as the other.  we are to count the nodes.
+we can create an alist from antenna frequency to antenna locations
+  by inverting the map:
+(defun read-grid (pathname)
+  (read-file-into-grid
+    (char-interner #’identity (find-package "advent2024/day8"))
+    pathname))
+
+(defun grid->antenna-list (grid)
+  (hash-table-alist (invert-grid grid ’|.|)))
+this solution makes use of first class
+  functions.  antinode-answer takes a function that
+  produces an answer on one side of an antenna pair and applies it to
+  the pair and swapped pair to produce answers on both sides.
+(defun antinode-answer (antinode-half-answer)
+  (lambda (grid left right)
+    (append (funcall antinode-half-answer grid left right)
+            (funcall antinode-half-answer grid right left))))
+antinode-list takes a function that produces an
+  answer for pair a single pair of antennas and maps it over all pairs
+  of antennas on a frequency.
+(defun antinode-list (antinode-answer)
+  (lambda (grid node-list)
+    (map-pairs (lambda (left right)
+                 (funcall antinode-answer grid left right))
+               node-list)))
+all the antinodes can be obtained by
+  invoking an antinode-list-generator over a set of node
+  lists and appending the results.
+(defun antinodes (antinode-list-generator)
+  (lambda (grid node-list)
+    (fold-left #’append nil
+               (funcall antinode-list-generator grid node-list))))
+so to solve the puzzle, we call an antinode generator on all the
+  antennas.
+(defun puzzle (grid antinode-generator)
+  (length
+   (remove-duplicates
+    (fold-left (lambda (antinodes entry)
+                 (append antinodes (funcall antinode-generator grid (cdr entry))))
+               nil
+               (grid->antenna-list grid))
+    :test #’equal)))
+in part 1, there is one node to the left and right of each pair,
+  twice the distance from one antenna to the other.
+(defun antinode (grid left right)
+  (let* ((delta (2v- right left))
+         (antinode (2v- left delta)))
+    (when (on-grid? grid antinode)
+      (list antinode))))
+
+(defun part-1 ()
+  (puzzle (read-grid (input-pathname))
+          (antinodes (antinode-list (antinode-answer #’antinode)))))
+for part two, the antinodes are at “resonant”
+  points, i.e., spaced out equidistantly beyond the antenna
+  pairs.
+(defun resonant-antinodes (grid left right)
+  (let* ((delta (2v- right left)))
+    (do ((antinode left (2v- antinode delta))
+         (answer ’() (cons antinode answer)))
+        ((not (on-grid? grid antinode)) answer))))
+
+(defun part-2 ()
+  (puzzle (read-grid (input-pathname))
+          (antinodes (antinode-list (antinode-answer #’resonant-antinodes)))))
+lisp was the first computer language to have first-class functions and lambda expressions.
+
+joe marshall — advent of code 2024: day 7
+@2025-02-18 08:51 · 23 hours ago
+
+you don’t have to use named-lets for tail recursive loops.  you can
+  use them for any recursive function.  here is an example of a named
+  let that computes the factorial of 5:
+(let fact ((n 5))
+  (if (= n 0)
+      1
+      (* n (fact (- n 1)))))
+
+day 7 is an unremarkable puzzle.  on each line of input we are
+  given a target number and some terms.  we work on the terms from left to
+  right and we can add the next term or multiply by it.  we are to sum
+  the target numbers which can be identified as a result of some combination
+  of adding and multiplying.
+;;; -*- lisp -*-
+
+(in-package "advent2024/day7")
+
+(defun can-satisfy? (target ops terms)
+  (let recur ((accum (first terms))
+              (terms (rest terms)))
+       (cond ((and (> accum target)
+                   (not (find-if #’zerop terms)))
+              nil)
+             ((consp terms)
+              (find-if
+               (lambda (op)
+                 (recur (funcall op accum (first terms)) (rest terms)))
+               ops))
+             ((null terms) (= target accum))
+             (t (error "dotted list.")))))
+
+(defun parse-integer-list (str)
+  (map ’list #’parse-integer (str:split #\space str :omit-nulls t)))
+
+(defun parse-line (str)
+  (let ((key+value (str:split #\: str)))
+    (cons (parse-integer (first key+value))
+          (parse-integer-list (second key+value)))))
+
+(defun puzzle (ops)
+  (collect-sum
+    (let* ((equations
+             (#mparse-line
+              (scan-file (input-pathname) #’read-line)))
+           (satisfied (#m(lambda (equation)
+                           (can-satisfy? (car equation) ops (cdr equation)))
+                         equations)))
+      (#mcar (choose satisfied equations)))))
+
+(defun part-1 ()
+  (puzzle (list #’+ #’*)))
+part two allows us to concatenate the digits in addition to
+  muliplying or adding.
+(defun concatenate-digits (left right)
+  (+ (* left (expt 10 (1+ (integer-log right 10))))
+     right))
+
+(defun part-2 ()
+  (puzzle (list #’+ #’* #’concatenate-digits)))
+
+vindarel — these years in common lisp: 2023-2024 in review
+@2025-02-17 17:06 · 39 hours ago
+
+
+this is a personal pick of the most interesting projects, tools,
+libraries and articles that popped-up in common lisp land in the last
+two years.
+newcomers might not realize how the common lisp ecosystem, though
+stable in many ways, actually evolves, sharpens, tries new solutions,
+proposes new tools, ships new libraries, revives projects. and
+everyone might enjoy a refresher.
+here’s my previous overview for 2022.
+the same warnings hold: i picked the most important links, in my
+view, but this list is by no means a compilation of all new cl
+projects or articles published on the topic. look for yourself on reddit,
+quicklisp releases, github, and use your favourite search engine.
+there are too many great news and achievements to pick 3. i love
+what’s happening around sbcl (and ecl, and clozure’s revival), i
+love everything that got included into lem and the work on all
+other editors, i love the webviews and i love the scripting
+tools that are emerging. what are your top picks?
+ok, there’s a news i want to put at the forefront: hackernews now runs on top of sbcl ;)
+
+if you are discovering the ecosystem, my recommendaton is to not miss
+these two resources:
+
+awesome-cl - a curated list of libraries (there might be more than you think)
+
+
+if you are looking for a list of recommended libraries on each topic, look here.
+
+the cl cookbook
+
+now let’s dive in and thanks to everyone involved.
+
+
+
+
+table of contents
+
+community
+documentation
+implementations
+
+sbcl
+abcl
+ccl
+allegro
+lispworks
+ecl
+clasp
+new implementations
+historical: medley interlisp
+
+companies and jobs
+projects
+
+editors
+
+about emacs
+about vscode
+about lem and rooms pair programming environment
+about lispworks
+about the jetbrains plugin
+about jupyter
+other tools
+
+coalton
+package managers
+gamedev
+gui
+web
+
+more libraries
+
+scripting
+software releases
+
+other articles
+videos
+
+
+community
+we could start with some reddit stats: 2025 - a new year for an old programming language! (numbers are up).
+the els team kept organizing the conference. we have a date and place for 2025: european lisp symposium 2025 in zürich, may 19⁄20
+we saw new and regular lisp ireland meetups.
+here’s one of their videos: lisp ireland, february 2024 meetup - lisp & hardware verification with acl2
+@djha-skin ran a survey, which is not an established practice in the community, and analysed the results: common lisp community survey 2024 results .
+@shinmera (yukari), the author of many useful libraries and an active member of the els, and even the host of the next one, opened a patreon. “if you’d like to help me continue my full-time open source lisp work, please consider supporting me.”. sponsoring yukari is money well spent. she is on gh sponsors and ko-fi too.
+the community is on reddit, discord, mastodon, linkedin... and also on xmpp.
+documentation
+the cl cookbook is a collaborative resource with new contributors each year: new cookbook epub and pdf release: 2025-01.
+we got a great contribution: cookbook: building dynamic libraries with sbcl-librarian · by em7
+paip is a classic, now available on the web: peter norvig: paradigms of artificial intelligence programming, case studies in common lisp (web version).
+new resource: web apps in lisp: know-how: i wanted a resource specialized for web development in common lisp. i mean to continuously extend it from now on.
+i’ll include a couple general videos in this section. more videos and more documentation improvements are to be found in their respective sections.
+freecodecamp released an extensive common lisp course on youtube: lisp programming language - full course for beginners - freecodecamp.org - youtube.
+david botton of clog fame released more beginner material, among which common lisp - the tutorial - fast, fun and practical (with clog).
+i carry on the work on my common lisp course in videos, on the udemy platform. lately, i worked on a clos tutorial: i published 9 videos (1h 22min) on my course. you’ll know enough to read the sources of hunchentoot or the kandria game 🎥 comments. the course is comprised of more than 7 hours of short videos, with a code first approach, divided in 9 chapters. we see some basics but we quickly dive into more advanced common lisp topics. you can learn more about it here on github. students can send me an email for a free link.
+here’s the feedback of redditors:
+
+i can vouch for the udemy course. from the very first lesson, just firing up the repl and emacs/slime i was taught something new. it’s a great course.
+
+fuzzmonkey35, january 2025 (reddit)
+
+it is an amazing tutorial. what is really strange is i thought clos was complicated. i guess it can be but vincent is amazing at explaining everything and demystifying it.
+
+intergallactic_llama, january 2025 (reddit)
+;)
+implementations
+great times for common lisp implementations.
+sbcl
+sbcl ships monthly releases. you really should look at and appreciate all the activity and the continous improvements.
+one noticeable addition: its new garbage collector. sbcl: merge of the mark-region gc.
+more improvements include:
+
+“the mark-region parallel garbage collector can be enabled on arm64. (thanks to hayley patton)”,
+new contrib module sb-perf, “a performance-analysing tool for linux. (thanks to luke gorrie and philipp marek)”
+support for cross-compiling the system to android has been added (thanks to gleefre)
+“support for memory allocation arenas is now available on the arm64 platform.”
+haiku support
+
+
+porting common lisp to haiku os
+
+sb-simd improvements
+
+more good stuff with sbcl:
+
+porting sbcl to the nintendo switch
+sbcl as part of an android application!
+simple repl app. (sbcl, android - wip)
+40ants/tree-shaker: experimental tree shaker for sbcl
+sbcl can now be installed on windows via chocolatey (unofficial)
+sbcl-builds: nightly builds of sbcl for windows using msys2 ucrt64.
+sbcl-goodies: distributing binaries with common lisp and foreign libraries. libssl, libcrypto and libfixposix are statically baked in.
+
+
+
+
+
+
+
+there are open bounties to improve sbcl:
+
+$2000 usd bounty to see by-value struct passing implemented in sbcl’s native ffi.
+
+it may be more than $2000 usd now.
+you wouldn’t start from zero, there is existing work. see the thread.
+
+another $700+ bounty to add coroutines in sbcl
+
+
+same link. no official bounty page yet, i may work on it.
+
+
+abcl
+new release: abcl 1.9.1 “never use a dot oh”: cffi compatibilities, java virtual threads, asdf 3.3.6, fixed loading of fricas0 and maxima...
+new release abcl 1.9.2.
+new tool: announcing the first release of abcl-memory-compiler - now available!
+ccl
+clozure was a bit active, but rather dormant.
+great news: clozure is back
+clozure cl 1.13 released.
+allegro
+allegro common lisp 11.0 from franz inc.
+lispworks
+i didn’t spot a patch release (they had a major release in 2022), so let’s link to a discussion: is lispworks worth it? you might learn some things about lw’s feature set.
+ecl
+embeddable, targetting wasm... is it the future?
+
+ecl 24.5.10
+ecl runs maxima in a browser with wasm
+
+clasp
+clasp targets c++ on llvm.
+release: clasp v2.5.0
+they realeased clasp v2.7.0 in january, 2025.
+for context:
+
+christian schafmeister talk - brief update about his “molecular lego” supported by his lisp compiler
+there’s less funding than in the 80s for common lisp, but still funding: “clasp was supported by the defense threat reduction agency, the national institutes of health, the national science foundation”.
+
+new implementations
+
+a common lisp implementation in development in c89 (no compiler so far)
+
+called alisp, “breakpoints and stepping work quite well”
+
+gsou/lcl: lua common lisp. an implementation of common lisp targeting lua.
+
+historical: medley interlisp
+we can run the medley interlisp lisp machine in a browser o_o the work achieved by this group is phenomenal, look:
+
+2023 medley interlisp project annual report
+2024 medley interlisp project annual report
+
+i suggest to follow @interlisp@fosstodon.org on mastodon.
+companies and jobs
+yes, some companies still choose common lisp today, and some hire with a public job posting.
+it’s of course the visible top of the iceberg. if you dream of a lisp
+job, i suggest to be active and make yourself visible, you might be
+contacted by someone without a proper job announce. this could be for
+an open-source project with funding (happened to me), for a
+university, etc.
+
+a new product: oracle aconex accelerator · “over 5 years of development and scaling, the entire conceptual ai linked data platform is built on common lisp (sbcl).”
+experience report: the world’s loudest lisp program to the rescue, by eugene zaikonnikov 
+job: common lisp developer job | backend | keepit | kraków
+job: (same company, later) common lisp developer job offer at keepit
+job: freelance job posting at upwork for a common lisp developer/engineer.
+job: lisp job: cognitive software engineer - chelmsford, ma, at triton systems
+job: implement the “convex hull covering of polygonal scenes” paper.
+job: senior lisp developer (m/f/d), software & applications at dxc technology, work on sara (superagent robotic application), an automation tool designed to streamline complex and repetitive business processes for major airlines.
+job: senior common lisp developer | 3e, brussels
+
+we knew these companies since awesome-lisp-companies -it’s only a list of companies we know about, nothing offical. additions welcome.
+discussions on the topic:
+
+anyone using common lisp for freelance work? where we learn about cool websites made in cl and cool experience reports.
+running my 4th common lisp script in production© - you can do it too aka “you don’t need crazily difficult needs to make yourself a favour and use cl instead of python in your projects”
+
+projects
+editors
+please check out the cookbook: editors for a list of good editors for common lisp. you migth be surprised.
+let’s highlight a new editor in town: neomacs: structural lisp ide/computing environment . mariano integrated it in his moldable web desktop: integrating neomacs into my clog-powered desktop.
+about emacs
+
+slime 2.30 · better i/o performance, macroexpand for macrolet (and more)- better common lisp highlighting in emacs
+learning lisp - making sense of xrefs in slime
+
+about vscode
+
+experience report using vs code + alive to write common lisp
+
+about lem and rooms pair programming environment
+
+lem 2.0.0 released
+
+released in may 2023, this version added the sdl2 frontend, adding mouse support, graphic capabilities, and windows support.
+it brought the possibility to draw images and shapes at any location on a buffer or window.
+addition of many base16 color themes (180), by @lukpank.
+
+lem 2.1.0 released, with many new contributors. lem 2.0 definitely caught the eyes of many developers imo.
+
+
+this is when lem got its website: https://lem-project.github.io/
+@sasanidas worked on supporting other implementations: “ecl and ccl should work fairly well”, “abcl and clasp are still work in progress, working but with minor bugs.”.
+i added project-aware commands, find-file-recursively
+@cxxxr added (among everything else) great lisp mode additions (just look at the release notes and the screenshots)
+added a sidebar / filer
+and much more. just look at the release.
+
+then came out lem 2.2.0
+
+the release notes are less organized ;)
+added libvterm integration
+this is when i added the interactive git mode.
+
+
+unfortunately these latest releases do not ship a readily usable executable. but the installation recipes have been greatly simplified and use qlot instead of roswell. there’s a one-liner shell command to install lem on unixes.
+lem’s creator cxxxr is now on github sponsors.
+he is also working on rooms, aka lem on the cloud: it’s a lem-based “pair programming environment where you can share your coding sessions”. only the client is open-source, so far at least.
+demo: https://www.youtube.com/watch?v=imn7feoqoak
+those are the lem related articles that popped up:
+
+oh no, i started a magit-like plugin for the lem editor
+lem customizable dashboard
+lem has a subreddit
+lem in clim “1.0” · now with mouse events and smoother performance. (august 2024)
+lem on the cloud: powerful web-based editor with collaborative editing
+
+
+about lispworks
+
+lispworks plugins by april & may
+version control for lispworks
+
+about the jetbrains plugin
+
+slt jetbrains plugin v0.2.0 and 0.2.1 - first version of inspector, macro-expand, basic completion
+
+about jupyter
+
+jupyter and common lisp: a powerful combination for data science
+
+other tools
+
+cl-repl now supports multiline editing
+
+it also comes as a ready-to-use binary
+
+
+coalton
+i found coalton-related projects:
+
+https://github.com/garlic0x1/coalton-threads
+https://github.com/garlic0x1/coalton-rope
+https://github.com/jbouwman/coalton-lsp
+
+e. fukamachi added coalton support for lem: https://lem-project.github.io/modes/coalton-lang/. this adds completion, syntax highlighting, interactive compilation and more inside “coalton-toplevel” forms.
+package managers
+quicklisp had a one year hiatus, because it relies on one man. it
+finally got an update after 1 year: quicklisp libraries were updated
+2024-10-12. despite
+a call for
+collaboration,
+we don’t really know how we can help.
+but quicklisp isn’t the only library manager anymore.
+
+introducing ocicl: an experimental modern quicklisp alternative built on tools from the world of containers  may 2023
+
+
+ocicl no longer depends on the external oras binary
+ocicl: now with ai powers
+
+ultralisp now supports any git repositories as project sources
+qlot 1.4.1 - added script for manual installation without roswell, “qlot install” runs in parallel
+qlot 1.5.0 - added a repl interface
+introducing vend: just vendor your dependencies
+
+also:
+
+announcing deptree | list and archive dependency snapshots of (asdf-defined) projects
+
+gamedev
+the kandria game was released: https://kandria.com/
+
+trial game engine documentation website and examples
+my lisp physics engine for trial is finally working! 
+
+if you are into game dev, this is a paper you cannot miss: kandria: experience report, presented at the els 2023.
+great articles:
+
+gamedev in lisp. part 1: ecs and metalinguistic abstraction 
+gamedev in lisp. part 2: dungeons and interfaces · wiki · andrew kravchuk / cl-fast-ecs · gitlab
+
+and more:
+
+multiplayer game with common lisp + sdl2 on webassembly (short demo video)
+
+i almost forgot the lisp game jams and the new cool little games. for example: nano towers
+
+a simple tower defense game written in common lisp with the eon framework based on raylib, submitted for the spring lisp game jam 2024.
+
+
+links to the jams:
+
+https://itch.io/jam/autumn-lisp-game-jam-2024
+https://itch.io/jam/spring-lisp-game-jam-2023
+
+gui
+many solutions exist. disclaimer: the perfect gui library doesn’t exist. please see the cookbook/gui and awesome-cl. also don’t miss the web views available today.
+releases:
+
+mcclim 0.9.8 yule
+shirakumo/glfw: an up-to-date common lisp bindings library to the most recent glfw opengl context management library 
+nodgui 0.4 released - multithread main loop, auto-completion entry, extended text widget, better image support
+nodgui v0.6.0 - added an sdl frame as an alternative for tk canvas when fast rendering is needed. both 2d (pixel based) and a 3d rendering (the latter using opengl) are available.
+pretty guis now: nodgui comes with a pre-installed nice looking theme
+
+as always, we might not highlight the work achieved on existing
+libraries that didn’t get a proper announce. there are more gui
+libraries for cl.
+demos:
+
+“cl-gtk4 combines strength of gtk and common lisp interactive development.” (short screencast)
+
+web
+clog appeared in 2022 and is kicking. its api has been stable for 4 years.
+you know hacker news, the website, right? hacker news now runs on top of sbcl
+
+hn runs on top of arc, the language.
+arc was implemented on top of racket (-> mzscheme).
+a new, faster / more efficient, implementation of arc in sbcl was in the works by a hacker news site maintainer for some time: called clarc. its source code has not been published.
+since [late september, 2024], the official hacker news site runs using clarc and sbcl.
+
+here’s (again) my new resource for web development in common lisp: web apps in lisp: know-how.
+now the links:
+
+clog clog 2.0 - now with a complete common lisp ide and gui builder (with or w/o emacs)
+clog os shell
+
+
+
+clog clog builder video manual video 5 - using projects & plugins
+clog debug tools https://github.com/rabbibotton/clog/discussions/361
+clog got emacs-like tabs
+
+projects built with clog:
+
+mold desktop - a programmable desktop.
+clog moldable inspector, “a moldable common lisp object inspector based on clog”
+
+
+
+
+weblocks (continued in the reblocks project):
+
+height weblocks (reblocks) extensions - now with documentation
+video: weblocks demo: a staff onboarding web app written in common lisp (en subs)
+
+more:
+
+a wasm common lisp repl
+
+articles:
+
+ningle tutorial 3: static files middleware
+towards a django-like database admin dashboard for common lisp
+add stripe billing to your common lisp app
+building a highly-available web service without a database
+building with parenscript and preact
+i18n in my lisp web app with djula templates and gettext 
+
+videos:
+
+how to create new cl library or web-application using the mystic project generator 
+
+libraries:
+
+jzon hits 1.0 and is at last on the latest ql release: a correct and safe json parser, packed with features, and also faster than the latest json library advertised here.
+openapi client generator
+pulling portableaserve (portable allegroserve) into sharplispers
+scrapycl - the web scraping framework for writing crawlers in common lisp 
+nobody knows shoes but ryo shoes (a simple gui dsl upon clog)
+
+the web views i mentioned: electron is a thing, but today we have bindings to webview.h and webui:
+
+three web views for common lisp: build cross platform guis with electron, webui or clog frame
+
+more libraries
+data structures:
+
+fset 1.4 - bug fixes and minor improvements 
+comparison: fset vs. sycamore (and fset speed-up)
+
+language extensions, core libraries:
+
+dynamic let (common lisp, mop)
+equality and comparison in fset, cdr8, generic-cl
+generic-cl 1.0
+cl-ppcre 2.1.2 - new function: count-matches
+
+iteration:
+
+cl-transducers 1.0 - operating over and into plists, hash-tables, csv
+cl-transducers 1.2.0 - fset support
+štar: an iteration construct for common lisp
+
+developer tools:
+
+brake, an extended breakpoint facility for common lisp
+
+threads, actors:
+
+bordeaux-threads api v2
+sento actor framework 3.0 released - no new features, many api changes: cleanups, obstacles removed, and hopefully a more consistent way of doing things.
+sento 3.2 · allows a throughput of almost 2m messages per second
+
+documentation builders:
+
+add documentation, please… with github flavoured markdown · supports cross references and table of contents.
+
+databases:
+
+allegrograph 8
+postmodern v1.33.10 and 1.33.11 released
+endatabas/endb v0.2.0-beta.1 · sql document database with full history (lisp, rust)
+mito-validate
+
+relational database and first order logic:
+
+ap5 - an extension to commonlisp which allows users to “program” in a model of first order logic or a relational database (1990, last update 2024)
+
+numerical and scientific:
+
+cl-waffe2: (experimental) graph and tensor abstraction for deep learning all in common lisp
+numericals` has a slightly better documentation now!
+common lisp: numerical and scientific computing - call for needs
+lisp stats 2023 end of year summary
+more notes on using maxima in a lisp runtime
+maxima-interface - simple interface between common lisp and maxima
+
+plotting:
+
+gurafu: a simple (just usable) plot program for common lisp
+plotly-user: use plotly in your browser to explore data from a common lisp repl
+
+“a week-end hack and an excuse to learn clog”
+
+
+bindings and interfaces:
+
+marcoheisig/lang: a library for seamless multi-language programming. the currently supported languages are python and lisp.
+bike (.net interface for cl) version 0.14.0. documentation! .net-callable classes. ecl support. and more.
+cl-cxx-jit: write c++ functions within common lisp
+common lisp implementation of the forth 2012 standard
+
+serialization:
+
+new binary serialization/deserialization library: cl-binary-store
+cl-naive-store: new version
+
+date and time:
+
+precise time - hooking into the operating system to give sub-seconds precise timing information
+calendar-times - a calendar time library implemented on top of local-time
+
+utilities:
+
+cl-ansi-term: print tables with style, and other script utilities
+command-line-args - turn your common lisp function into a command which you can use from the command line. (similar to defmain)
+file-finder: rapid file search and inspection
+consfigurator 1.4.1 released, including new support for freebsd
+
+bindings and interfaces to other software:
+
+cl-git 2.0 - an interface to the c library libgit2. the api is an almost complete exposure of the underlying library
+cl-telegram-bot - telegram bot api (now with documentation)
+claw-raylib - fully auto-generated common lisp bindings to raylib and raygui using claw and cffi-object
+
+networking:
+
+aether · distributed system emulation in common lisp  els talk
+
+scripting
+(i love what’s being done here)
+
+ruricolist/kiln: infrastructure for scripting in common lisp to make lisp scripting efficient and ergonomic.
+ciel is an extended lisp, hacker news
+unix-in-lisp -  mount unix system into common lisp image.
+
+software releases
+
+opusmodus 3.0, first windows version released
+
+hn discussion
+
+tamurashingo/reddit1.0: refactored old reddit source code (with recent commits and a docker setup)
+release 1.0.0 · calm - canvas and lisp magic
+lisa: a production-ready expert-system shell, written in thoroughly modern common lisp.
+todolist-cl 3.0 - a todolist web ui, written in common lisp, with hunchentoot, spinneret templates, mito orm. (by a cl newcomer)
+iescrypt: a tool to encrypt and/or sign files. lisp and c versions.
+
+other articles
+
+a tour of the lisps
+why i chose common lisp
+practicing statistics with common lisp (jupyter notebook)
+full common lisp (sbcl) and a clog dev environment on/from an android device
+
+videos
+demos:
+
+audiovisual in commonlisp (cl-collider, cl-visual) (screencast)
+cheesy trailer for recent kons-9 3d graphics features.
+drum n bass in commonlisp
+drum and bass with a counterpoint - how to tutorial - opusmodus
+how lisp is designing nanotechnology (developer voices, with prof. christian schafmeister) (youtube)
+how to package common lisp software for linux? en subs (alien-works-delivery, linux-packaging)
+melodic techno - how to tutorial - opusmodus
+the opusmodus studio - everything i didn’t know i needed - subject sound (youtube) 
+welcome to opusmodus (youtube)
+identicons and clozure common lisp, by r. matthew emerson
+
+web:
+
+dynamic page with htmx and common lisp
+common lisp web development tutorial: how to build a web app in lisp · part 2 part 1
+missing clack guide! build a web application in common lisp like a pro! 
+url shortener using hunchentoot and bknr
+web page graphics with lisp-stat, data-frame and vega plot
+
+more from the els (see their youtube channel):
+
+an introduction to array programming in petalisp, by marco heisig, els 2024 
+lightning talk: julia functions, now in lisp
+lightning talk: valtan: write webapp everything in common lisp: european lisp symposium
+els2023: common lisp foundation
+
+learning:
+
+i published 17 videos about common lisp macros - learn lisp with a code-first tutorial comments
+common lisp study group: experiments with cffi
+clos: introduction and usage of defclass
+nekoma talks #19 - common lisp from a clojurian perspective part 2 (youtube), part 1
+review of 8 common lisp ides! which one to choose? (en subs)
+
+aaaand that’s it for the tour of the last couple years. tell me if i missed something. i’ll keep updating this post for a few days.
+happy lisping and show us what you build!
+
+joe marshall — advent of code 2024: day 6
+@2025-02-17 08:33 · 47 hours ago
+
+a named-lambda is a lambda expression that has a name
+  bound to it only within the scope of the lambda expression.  you can
+  use the name to refer to the lambda expression from within the body
+  of the lambda expression.  this allows you to recursively call the
+  lambda expression.  named-lambdas are easily created with a macro
+  that expands into a labels form.
+named-lambdas are an alternative to using the y operator to 
+  create recursive lambda expressions.  named-lambdas are a special
+  form, so if you are uncomfortable with adding new special forms to
+  the language, you’ll probably prefer to use the y operator.
+recall that let expressions are just syntactic sugar
+  for lambda expressions.  if you expand
+  a let expression using a named-lambda, you get a
+  named-let expression.  the name is bound to the lambda that binds
+  the let variables.  invoking the name will re-invoke the let
+  expression with different values for the bound variables.
+named lets take a moment to get used to, but once you get the hang
+  of them, they are incredibly handy.  they are especially useful when
+  you use them for tail recursive loops.  here is an example where we
+  use a named let to partition a list with a predicate:
+
+(let next ((tail list)
+           (yes ’())
+           (no  ’()))
+  (cond ((consp tail) 
+         (if (predicate (car tail))
+             (next (cdr tail) (cons (car tail) yes) no)
+             (next (cdr tail) yes (cons (car tail) no))))
+        ((null? tail) (values yes no))
+        (t (error "improper list."))))
+when we invoke the name next, we re-invoke the let
+  expression with the new values for the bound variables.  in this
+  example, the calls to next are in tail position, so the
+  compiler turns them into jumps, making this a tail recursive loop.
+the named-let syntax, with the name being the symbol before the
+  bindings, is borrowed from mit-scheme.  this syntax is easily
+  implemented with a macro that expands into a labels
+  form if the name is present, but expands into a cl:let
+  if it is absent.  you shadowing-import the let symbol
+  into your package so that the macro will override the
+  standard binding of let.
+
+
+for day 6, we have a guard patrolling a warehouse.  the guard moves
+  in straight lines unless he encounters an obstacle, where he will
+  turn clockwise 90 degrees.  if he moves off the grid, he goes home
+  for the evening.
+first, we’ll read the grid and find the initial position of the
+  guard:
+(defun read-input (pathname)
+  (read-file-into-grid 
+    (char-interner #’char-upcase (find-package "advent2024/day6"))
+    pathname))
+
+(defun get-initial-position (grid)
+  (let ((coord (collect-first
+                (choose-if
+                 (lambda (coord) (member (grid-ref grid coord) ’(^ < > v)))
+                 (scan-grid-coords grid)))))
+    (ocoord coord
+           (ecase (grid-ref grid coord)
+             (^ +north+)
+             (> +east+)
+             (v +south+)
+             (< +west+)))))
+in the second part of the problem, we’ll be allowed to place a
+  single additional obstacle in the grid.  patrol-step
+  attempts to move the guard one step forward, and turns him clockwise
+  if he cannot move forward.  obstacle-coord is the
+  additional obstacle or nil:
+(defun patrol-step (grid obstacle-coord oriented-position)
+  (let ((next-ocoord (ocoord-advance oriented-position)))
+    (cond ((not (on-grid? grid (ocoord-coord next-ocoord))) nil)
+          ((or (eq (grid-ref grid (ocoord-coord next-ocoord)) ’|#|)
+               (equal (ocoord-coord next-ocoord) obstacle-coord))
+           (ocoord-cw oriented-position))
+          (t next-ocoord))))
+patrol places the guard at his initial position and
+  repeatedly calls patrol-step until the guard either
+  walks off the grid or returns to an ocoord he has visited before
+  (with the same orientation).  we keep the history of visited ocoords
+  in two ways:  as a list and a hash table.  the list gives us the
+  history in order, while the hash table allows us to quickly check if
+  we have visited an ocoord before (otherwise we’d have an o(n^2)
+  algorithm).  if the guard walks off the grid, we return the history
+  list.  if the guard returns to a previously visited ocoord, we
+  return the symbol :loop.  note the use of a named-let to loop
+  the patrol steps.
+(defun patrol (grid obstacle-coord start-opos)
+  (let ((history-hash (make-hash-table :test ’equal)))
+    (setf (gethash start-opos history-hash) t)
+    (let iter ((opos start-opos)
+               (history (list start-opos)))
+      (let ((next (patrol-step grid obstacle-coord opos)))
+        (cond ((null next) history)
+              ((gethash next history-hash nil) :loop)
+              (t (setf (gethash next history-hash) t)
+                 (iter next (cons next history))))))))
+for part 1, we simply call patrol with the initial
+  position and nil as the obstacle:
+(defun unique-cells (history)
+  (length (remove-duplicates (map ’list #’ocoord-coord history) :test #’equal)))
+
+(defun part-1 ()
+  (let* ((grid (read-input (input-pathname)))
+         (initial-position (get-initial-position grid)))
+    (unique-cells (patrol grid nil initial-position))))
+for part 2, we iterate over the cells in the paths and see what
+  happens if we place an obstacle there.  we accumulate the locations
+  that result in a loop:
+(defun part-2 ()
+  (let* ((grid (read-input (input-pathname)))
+         (initial-position (get-initial-position grid))
+         (unmodified-path (patrol grid nil initial-position))
+         (answer nil))
+    (dolist (obstacle (remove-duplicates (map ’list #’ocoord-coord unmodified-path) :test #’equal)
+                      (length (remove-duplicates answer :test #’equal)))
+      (unless (and obstacle
+                   (equal obstacle (ocoord-coord initial-position)))
+        (when (eq (patrol grid obstacle initial-position) :loop)
+          (pushnew obstacle answer :test #’equal))))))
+
+joe marshall — advent of code 2024: day 5
+@2025-02-16 08:24 · 2 days ago
+
+for day 5, the input comes in two parts:  there are rules of the
+  form n|m, where n and m are numbers, and there are
+  “updates” which are lists of numbers separated by
+  commas.  the rules are used to determine which updates are valid.
+  an update is valid if it passes all applicable rules.  a rule is
+  applicable if the two numbers in the rule appear in the update.  an
+  update passes an applicable rule if the two numbers in the rule
+  appear in the update in the same order as they appear in the
+  rule.
+to read the input, we read the lines and collect them into two
+  lists.  the rule list is all the lines that contain a pipe
+  character, and the updates list is all the lines that contain a
+  comma:
+(defun read-input (input-file)
+  (let ((lines (scan-file input-file #'read-line)))
+    (let ((is-rule (#m(lambda (line) (find #\| line)) lines))
+          (is-update (#m(lambda (line) (find #\, line)) lines)))
+      (values (collect ’list (#m(lambda (rule)
+                                  (map ’list #’parse-integer (str:split #\| rule)))
+                                (choose is-rule lines)))
+              (collect ’list (#m(lambda (update)
+                                  (map ’list #’parse-integer (str:split #\, update)))
+                                (choose is-update lines)))))))
+to test a rule, we find the location of the two numbers in the
+  update and check that they are in the same order as they appear in
+  the rule.  if either number is not found, the rule is not applicable
+  and trivially passes.
+(defun test-rule (rule update)
+  (let ((left-position (position (first rule) update))
+        (right-position (position (second rule) update)))
+    (or (null left-position)
+        (null right-position)
+        (< left-position right-position))))
+
+(defun test-rules (rules update)
+  (collect-and
+   (#mtest-rule
+    (scan ’list rules)
+    (series update))))
+part 1 is to sum the middle numbers of all the updates that pass
+  all the rules:
+(defun middle-number (list)
+  (elt list (/ (1- (length list)) 2)))
+
+(defun part-1 ()
+  (multiple-value-bind (rules updates) (read-input (input-pathname))
+    (collect-sum
+     (#mmiddle-number
+      (choose-if
+       (lambda (update) (test-rules rules update))
+       (scan ’list updates))))))
+for part 2, we select the updates that fail the rules.  we repair
+  the update by sorting it using the rules as a sort predicate, then
+  we sum the middle numbers of the repaired updates:
+(defun sort-using-rules (rules list)
+  (sort list (lambda (left right)
+               (find (list left right) rules :test #’equal))))
+
+(defun part-2 ()
+  (multiple-value-bind (rules updates) (read-input (input-pathname))
+    (collect-sum
+     (#mmiddle-number
+      (#m(lambda (update) (sort-using-rules rules update))
+       (choose-if
+        (lambda (update) (not (test-rules rules update)))
+        (scan ’list updates)))))))
+
+joe marshall — advent of code 2024: day 4
+@2025-02-15 07:09 · 4 days ago
+
+day 4 part 1 is your standard word search.  first we read the grid
+  of letters:
+(defun read-input (input-pathname)
+  (read-file-into-grid
+    (char-interner #'char-upcase (find-package "advent2024/day4"))
+    input-pathname))
+a “trace” is a row, column, or diagonal of letters.  to
+  search a trace for the word, we examine each suffix of the trace to
+  see if starts with the word.  we also check the reverse of the
+  word:
+(defun search-trace (trace target)
+  (let ((rev (reverse target)))
+    (collect-sum
+     (#m(lambda (suffix)
+          (if (or (starts-with-subseq target suffix)
+                  (starts-with-subseq rev suffix))
+              1
+              0))
+        (scan-suffixes trace)))))
+then we search all the traces:
+(defun search-trace-list (trace-list target)
+  (collect-sum
+   (#m(lambda (trace)
+        (search-trace trace target))
+    (scan 'list trace-list))))
+
+(defun search-grid (grid target)
+  (collect-sum
+   (#m(lambda (get-trace-list)
+        (search-trace-list (funcall get-trace-list grid) target))
+      (scan ’list
+         (list (lambda (grid) (collect ’list (scan-rows grid)))
+               (lambda (grid) (collect ’list (scan-columns grid)))
+               (lambda (grid) (collect ’list (scan-falling-diagonals grid)))
+               (lambda (grid) (collect ’list (scan-rising-diagonals grid))))))))
+
+(defun part-1 ()
+  (search-grid (read-input (input-pathname)) #(x m a s)))
+
+note that since scan-rows etc.
+  and collect are macros, so we cannot pass them as first
+  class functions.  instead we pass lambdas that call them so that the
+  full macro expression is visible to the compiler.
+for part 2, we are searching for xs of “mas” in the
+  grid.  we search for as, then check for m
+  and s in the diagonals.
+m-s1? is a helper function that checks if a pair of
+  coords contains an m and an s.
+(defun m-s1? (grid coord1 coord2)
+  (and (on-grid? grid coord1)
+       (on-grid? grid coord2)
+       (eql (grid-ref grid coord1) 'm)
+       (eql (grid-ref grid coord2) 's)))
+m-s? checks if a pair of coords contains an m
+  and an s in any order.
+(defun m-s? (grid coord1 coord2)
+  (or (m-s1? grid coord1 coord2)
+      (m-s1? grid coord2 coord1)))
+x-mas? checks whether an a is surrounded
+  by an m and an s.
+(defun x-mas? (grid coord)
+  (and (on-grid? grid coord)
+       (eql (grid-ref grid coord) 'a)
+       (and (m-s? grid (coord-northwest coord) (coord-southeast coord))
+            (m-s? grid (coord-northeast coord) (coord-southwest coord)))))
+then we just count the occurrances:
+(defun search-x-mas (grid)
+  (collect-sum
+   (#m(lambda (coord)
+        (if (x-mas? grid coord)
+            1
+            0))
+      (scan-grid-coords grid))))
+
+(defun part-2 ()
+  (search-x-mas (read-input (input-pathname))))
+
+joe marshall — advent of code 2024: day 3
+@2025-02-12 13:49 · 6 days ago
+
+for day 3, we are given a “corrupted” block of memory
+  as a string.  we are to find the “uncorrupted
+  instructions” in the block and emulate them.
+for this problem, we don’t attempt to force things into the
+  series paradigm.  the cl-ppcre library provides a bunch
+  of functions for working with regular expressions, and
+  the do-register-groups macro is ideal for this problem.
+  it iterates over all the matches of a regular expression, binding
+  submatches to some variables, with some optional processing of the
+  submatch.  (if the cl-ppcre library offered a function that
+  returned a series of matches, we could use that, but it offers a
+  do macro.)
+first, we read the input:
+(defun read-input (input-pathname)
+  (read-file-into-string input-pathname))
+next, we define a regular expression to match the instructions:
+(defparameter *mul-instruction* "(mul\\((\\d{1,3}),(\\d{1,3})\\))")
+now we just iterate over all the matches:
+(defun part-1 ()
+  (let ((answer 0))
+    (cl-ppcre:do-register-groups (whole (#’parse-integer left) (#’parse-integer right))
+        (*mul-instruction* (read-input (input-pathname)))
+      (declare (ignore whole))
+      (incf answer (* left right)))
+    answer))
+do-register-groups is an example of a macro where the
+  parenthesized subexpressions do not indicate function calls.  the
+  first parenthesized subgroup is a variable list, and within the
+  variable list, a parenthesized subgroup indicates a transformer to
+  be applied before binding the variable.  so in this case, we are
+  binding the variables whole, left,
+  and right, and we run the matching subgroup
+  through parse-integer before binding
+  the left and right variables.
+the second parenthesized subgroup is a list of the regular
+  expression to match and the string to match within.  after these
+  irregular parenthesized subgroups, the remaining is a body of code
+  that is executed for each match.
+in the body of the code, we ignore the whole variable
+  (which is the whole match) and increment the answer by the product
+  of the left and right variables.  as is
+  usual for a do macro, we transport the data out of the
+  loop by side effecting a lexically scoped variable.
+for part 2, we have additional instructions to emulate.  our loop
+  will now have some state to it, and we will side effect the state as
+  we iterate over the matches.  we can
+  just extend the regular expression and add a cond
+  to the body of the do-register-groups to handle the
+  new instructions.  as we iterate over the matches, we side
+  effect the emulation state:
+(defparameter *do-mul-instruction* "(do\\(\\))|(don’t\\(\\))|(mul\\((\\d{1,3}),(\\d{1,3})\\))")
+
+(defun part-2 ()
+  (let ((answer 0)
+        (on t))
+    (cl-ppcre:do-register-groups (turn-on turn-off whole (#’parse-integer left) (#’parse-integer right))
+        (*do-mul-instruction* (read-input (input-pathname)))
+      (declare (ignore whole))
+      (cond (turn-on (setq on t))
+            (turn-off (setq on nil))
+            (on (incf answer (* left right)))
+            (t nil)))
+    answer))
+strictly speaking, we don’t need to use side effects.  we
+  could rework this to be purely functional, but this seems unnatural.
+  yes, there is a bit of cognitive overhead in remembering that there
+  is a state variable that determines whether or not we are executing
+  an instruction, but the code is quite understandable.
+“do” macros usually need some side effects, but we can
+  localize the side effects by using a let to lexically
+  bind the state variables and then side effecting them from within
+  the loop.  this is an effective compromise between the functional
+  and imperative programming paradigms.
+
+joe marshall — advent of code 2024: day 2
+@2025-02-12 12:54 · 6 days ago
+
+for day 2 in the advent of code, we are given a file where each
+  line in the file contains a list of integers separated by spaces.
+  we will be performing some manipulations on these lists.
+first, we need to read the file.  we make a function to read a line
+  as a string, then read the integers from the string and collect
+  the result into a list.
+(defun read-levels (stream eof-error-p eof-value)
+  (let ((line (read-line stream eof-error-p eof-value)))
+    (if (eq line eof-value)
+        eof-value
+        (with-input-from-string (stream line)
+          (collect ’list (scan-stream stream))))))
+we use this function to read the entire file into a list of lists
+  of integers.
+(defun read-input (input-pathname)
+  (collect ’list (scan-file input-pathname #’read-levels)))
+we are concerned with the deltas between adjacent elements in a
+  series of integers.  we make a function to calculate the deltas.
+  this will be an optimizable-series-function because it
+  returns a series of deltas.  we declare the argument to
+  be an “off-line” input series as well.  this code will
+  be transformed into the equivalent loop code where we consume the
+  deltas.
+chunk is a series function that takes a series and
+  produces n series of chunks that are offset by a
+  specified amount.  we produce chunks of size 2, offset by 1.  this
+  returns two series, the left number of each pair of numbers and the
+  right number of each pair of numbers.  by mapping #’- over
+  these series, we get the series of deltas between adjacent
+  numbers.
+(defun deltas (series)
+  (declare (optimizable-series-function)
+           (off-line-port series))
+  (multiple-value-bind (left right) (chunk 2 1 series)
+    (#m- right left)))
+as per the puzzle, a series of deltas is considered
+  “safe” if it is strictly ascending or descending, and
+  each step by which it ascends or descends is between 1 and 3
+  inclusive.  we get the series of deltas, map #’plusp to get a
+  series of booleans indicating whether each delta is positive,
+  and collect-and on the series of booleans.  likewise
+  with #’minusp for descending.  finally, we create a series of
+  booleans indicating whether the absolute value of the delta is <=
+  3 and collect-and this as well.  whether the deltas are
+  considered “safe” is just a boolean operation on these
+  three boolean values:
+(defun safe-levels? (list)
+  (let ((deltas (deltas (scan list))))
+    (let ((ascending (collect-and (#mplusp deltas)))
+          (descending (collect-and (#mminusp deltas)))
+          (small (collect-and (#m<= (mmabs deltas) (series 3)))))
+      (and small
+           (or ascending descending)))))
+the first part of the puzzle asks us to count the number of lines
+  considered “safe”:
+(defun part-1 ()
+  (count-if #’safe-levels? (read-input (input-pathname))))
+the second part of the puzzle relaxes the safety restriction by
+  saying that you are allowed to ‘dampen’ the list by
+  removing a single outlier before checking for safety.
+(defun safe-dampened-levels? (levels)
+  (find-if #’safe-levels? (remove-one-element levels)))
+
+(defun part-2 ()
+  (count-if #’safe-dampened-levels? (read-input (input-pathname))))
+
+joe marshall — advent of code 2024: day 1
+@2025-02-12 12:45 · 6 days ago
+
+half the problem of solving an advent of code puzzle is dealing
+  with the puzzle input.  it is generally in some ad hoc format that
+  requires a bespoke parser.  there are a few approches you can
+  take.
+read the input as a string and directly call string manipulation
+    functions to extract the data.
+read the input as a string and use regular expressions to
+    extract the data.
+use the lisp reader to read the input as a lisp data
+  structure.  this requires that the input looks like lisp
+    objects.
+tweak the lisp reader to read the data in a custom format.
+    this works if the input looks a lot like lisp objects.
+for day 1, the input is two columns of numbers.  if we just scan
+  the file with the lisp reader, we'll get a single list of numbers.
+  we can convert this into two lists with the
+  series chunk function:
+(defun read-input (input-pathname)
+  (multiple-value-bind (left-column right-column)
+      (chunk 2 2 (scan-file input-pathname))
+    (values (collect ’list left-column)
+            (collect ’list right-column))))
+for part 1 of the puzzle, we sort both columns and then walk
+  through them in parallel finding the absolute difference between the
+  columns and summing that.
+(defun part-1 ()
+  (multiple-value-bind (left-column right-column)
+      (read-input (input-pathname))
+    (collect-sum
+     (#mabs
+      (#m-
+       (scan (sort left-column #’<))
+       (scan (sort right-column #’<)))))))
+for part 2, we look at each number in the left column and multiply
+  it by how many times it appears in the right column.  we sum these
+  quantities.
+(defun part-2 ()
+  (multiple-value-bind (left-column right-column)
+      (read-input (input-pathname))
+    (collect-sum
+     (#m(lambda (item) (* item (count item right-column)))
+        (scan left-column)))))
+these examples show how we can use series and built-in sequence
+  functions to eliminate loops.
+
+joe marshall — advent of code 2024: day 0
+@2025-02-11 13:39 · 7 days ago
+
+i wanted to write some blog posts, but i was short of material.
+  for the fun of it, i’ve decided to write a series of posts
+  about solving the 2024 advent of code problems in common lisp.  i
+  see that other people were doing this in real time, but it is too
+  late for that.  besides, i didn’t want the stress of trying to
+  solve the problems as part of a competition.  i wanted to take my time
+  and focus on code quality rather than on how fast i can write
+  it.
+i noticed that some programmers were less experienced in common
+  lisp.  they tended to code up solutions that used low-level common
+  lisp operations instead of using one of common lisp’s powerful
+  sequence operations.  for example, they might use a loop to iterate
+  over a list and incf a counter instead of just using a
+  call to count.  i want to show how to effectively use
+  the rich set of common lisp library functions to write concise,
+  readable, and efficient code.
+i’m trying to decide what i think of the series
+  package that provides a more functional approach to iteration
+  without sacrificing performance.  for a lot of iterations, it is
+  easy to write series code, but it for other iterations it isn’t so
+  obvious.  i wanted a little practice in using series and seeing its
+  limitations.
+conventions
+one of the features of common lisp is that you can tailor the
+  language to fit the problem space.  the first step in solving the
+  problem suite is to configure the language.  since i wanted to
+  explore using the series package, i set up my lisp so
+  that series was available in all the packages.  i also
+  installed the alexandria library, which is a collection
+  of utilities that flesh out the common lisp standard library with
+  some obvious “missing” functions.
+the series package includes an
+  optional #m reader macro that gives you a shorthand for
+  writing mapping expressions.  i added the “named” let syntax
+  which attaches a name to the binding lambda of a let
+  expression allowing you to invoke the reinvoke the let
+  as a recursive function.  the default delarations were set to ensure
+  that the compiler could would generate tail recursive code.  tail
+  recursion coupled with named-let is a powerful iteration facility.
+i set up the directory structure to have a subdirectory for each
+  day.  each problem in the entire advent of code could fit in its own
+  solution.lisp file, so each subdirectory had
+  files input.txt and solution.lisp, and
+  usually sample-input.txt and maybe one or more
+  sample-input-n.txt
+the parent directory had an advent2024.asd file, a package.lisp
+  file that defined all the packages, an initialize.lisp
+  file that customized common lisp and installed some bootstrap values
+  in each package, and a misc.lisp file that contained
+  some common definitions that were exported to all the packages.
+i set up my lisp to have a separate package for each day.  the
+  package definition file contained 25 package definitions, each one
+  virtually identical, e.g.:
+(defpackage "advent2024/day16"
+  (:shadow "validate")
+  (:import-from "alexandria"
+                "flatten"
+                "hash-table-alist"
+                "hash-table-keys"
+                "hash-table-values"
+                "length="
+                "mappend"
+                "map-permutations"
+                "map-product"
+                "read-file-into-string"
+                "starts-with-substring"
+                )
+  (:shadowing-import-from "named-let" "let")
+  (:shadowing-import-from "series"
+                          "defun"
+                          "funcall"
+                          "let*"
+                          "multiple-value-bind"
+                          )
+  (:export "part-1" "part-2" "+solution-1+" "+solution-2+" "validate")
+  (:use "advent2024" "common-lisp" "fold" "function" "named-let" "series"))
+this basically set up lisp to have series available,
+  and imported a few symbols from alexandria.
+each day’s puzzle has two parts, so each package exports the
+  symbols part-1 and part-2 to be defined as
+  zero argument functions that compute and return the solution to
+  the respective parts.  the symbols +solution-1+
+  and +solution-2+ are defined
+  as defparameter values.  the initialization function
+  installs a validate function checks
+  that (part-1) returns +solution-1+
+  and (part-2) returns +solution-2+ in each package.
+misc.lisp
+the misc.lisp file contains code that is common to
+  more than one puzzle.
+the grid abstraction
+the problem space of many of the puzzles is two dimensional, and
+  it is natural to use a two-dimensional lisp array for the
+  representation.  i enhance this with a lightweight abstraction
+  called a grid.
+a grid is adressed by a coord, which is an ordered pair
+  of column and row.  these are simply the car
+  and cdr of a cons cell.  the functions that construct
+  and select from a coord are all
+  given compiler-macro definitions.  in the 99% of the
+  cases where you simply call the constructor or selector, the
+  compiler macro will expand the code.  in the 1% case, where you pass
+  the constructor or selector as a first-class function, the function
+  definition is passed.
+(deftype grid-index ()
+  ‘(integer ,(- array-dimension-limit) (,array-dimension-limit)))
+
+(deftype coord ()
+  ’(cons (grid-index) (grid-index)))
+
+(eval-when (:compile-toplevel :load-toplevel :execute)
+(defun coord (column row)
+  (check-type column grid-index)
+  (check-type row grid-index)
+  (cons column row))
+)
+
+(define-compiler-macro coord (column row)
+  ‘(cons ,column ,row))
+
+(defun column (coord)
+  (check-type coord coord)
+  (car coord))
+
+(define-compiler-macro column (coord)
+  ‘(car ,coord ))
+
+(defun row (coord)
+  (check-type coord coord)
+  (cdr coord))
+
+(define-compiler-macro row (coord)
+  ‘(cdr ,coord))
+
+(defun scan-coords (row-count col-count)
+  (declare (optimizable-series-function))
+  (multiple-value-bind (rows cols)
+      (map-fn ’(values grid-index grid-index)
+              #’floor
+              (scan-range :below (* row-count col-count))
+              (series col-count))
+    (declare (type (series grid-index) rows cols))
+    (map-fn ’coord #’coord cols rows)))
+
+a grid is just a two-dimensional array of atoms:
+(deftype grid () ‘(array atom 2))
+
+(defun make-grid (height width &rest keys)
+  (apply #’make-array (list height width) keys))
+
+(defun row-list->grid (row-list)
+  (make-grid (length row-list) (length (first row-list)) :initial-contents row-list))
+
+(defun grid-height (grid)
+  (check-type grid grid)
+  (array-dimension grid 0))
+
+(define-compiler-macro grid-height (grid)
+  ‘(array-dimension ,grid 0))
+
+(defun grid-width (grid)
+  (check-type grid grid)
+  (array-dimension grid 1))
+
+(define-compiler-macro grid-width (grid)
+  ‘(array-dimension ,grid 1))
+
+a coord is on a grid if it is within the bounds of the grid:
+(defun on-grid? (grid coord)
+  (and (>= (column coord) 0)
+       (< (column coord) (grid-width grid))
+       (>= (row coord) 0)
+       (< (row coord) (grid-height grid))))
+you may want to check if the coord is on the grid before calling grid-ref.
+
+(defun grid-ref (grid coord)
+  (check-type grid grid)
+  (check-type coord coord)
+  (aref grid (row coord) (column coord)))
+
+(define-compiler-macro grid-ref (grid coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (aref ,grid (row ,coord-var) (column ,coord-var)))))
+
+(defsetf grid-ref (grid coord) (value)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (setf (aref ,grid (row ,coord-var) (column ,coord-var)) ,value))))
+
+(defun scan-grid-coords (grid)
+  (declare (optimizable-series-function))
+  (scan-coords (grid-height grid) (grid-width grid)))
+
+(defun scan-grid (grid)
+  (declare (optimizable-series-function 2))
+  (#2m(lambda (grid coord)
+        (values coord (grid-ref grid coord)))
+      (series grid)
+      (scan-coords (grid-height grid) (grid-width grid))))
+
+you can invert a grid.  this will give you a hash table that maps
+  the atoms in the grid to a list of their coords.
+(defun invert-grid (grid &optional initial-value)
+  (if initial-value
+      (multiple-value-bind (coords vals) (scan-grid grid)
+        (collect-hash-push-except vals coords (list initial-value)))
+      (multiple-value-bind (coords vals) (scan-grid grid)
+        (collect-hash-push vals coords))))
+you can extract a row, column, or diagonal from a grid:
+(defun grid-row (grid row-number)
+  (check-type grid grid)
+  (make-array (list (grid-width grid))
+              :displaced-to grid
+              :displaced-index-offset (array-row-major-index grid row-number 0)))
+
+(defun grid-column (grid columm-number)
+  (check-type grid grid)
+  (let ((answer (make-array (grid-height grid))))
+    (dotimes (row (grid-height grid) answer)
+      (setf (svref answer row)
+            (grid-ref grid (coord columm-number row))))))
+
+(defun grid-falling-diagonal (grid diagonal-number)
+  (check-type grid grid)
+  (let ((start-column (if (minusp diagonal-number)
+                          0
+                          diagonal-number))
+        (start-row (if (minusp diagonal-number)
+                       (- diagonal-number)
+                       0)))
+    (let ((limit (min (- (grid-width grid) start-column)
+                      (- (grid-height grid) start-row))))
+      (let ((answer (make-array (list limit))))
+        (do ((row    start-row    (+ row 1))
+             (column start-column (+ column 1))
+             (index 0 (+ index 1)))
+            ((>= index limit) answer)
+          (setf (svref answer index)
+                (grid-ref grid (coord column row))))))))
+
+(defun grid-rising-diagonal (grid diagonal-number)
+  (check-type grid grid)
+  (let ((start-column (if (minusp diagonal-number)
+                          (- diagonal-number)
+                          0))
+        (start-row (if (minusp diagonal-number)
+                       (1- (grid-height grid))
+                       (- (grid-height grid) diagonal-number 1))))
+    (let ((limit (min (- (grid-width grid) start-column)
+                      (1+ start-row))))
+      (let ((answer (make-array (list limit))))
+        (do ((row    start-row    (- row 1))
+             (column start-column (+ column 1))
+             (index 0 (+ index 1)))
+            ((>= index limit) answer)
+          (setf (svref answer index)
+                (grid-ref grid (coord column row))))))))
+
+given a grid, you can get the series of rows, columns, or
+  diagonals:
+(defun scan-rows (grid)
+  (declare (optimizable-series-function))
+  (map-fn ’vector #’grid-row (series grid) (scan-range :below (grid-height grid))))
+
+(defun scan-columns (grid)
+  (declare (optimizable-series-function))
+  (map-fn ’vector #’grid-column (series grid) (scan-range :below (grid-width grid))))
+
+(defun scan-falling-diagonals (grid)
+  (declare (optimizable-series-function))
+  (map-fn ’vector
+          #’grid-falling-diagonal
+          (series grid)
+          (scan-range :from (1+ (- (grid-height grid))) :below (grid-width grid))))
+
+(defun scan-rising-diagonals (grid)
+  (declare (optimizable-series-function))
+  (map-fn ’vector
+          #’grid-rising-diagonal
+          (series grid)
+          (scan-range :from (- 1 (grid-width grid)) :below (grid-height grid))))
+
+an orientation is a unit coord.
+(deftype unit ()
+  ‘(integer -1 1))
+
+(deftype orientation ()
+  ’(cons (unit) (unit)))
+
+(defun unit-vector (column row)
+  (check-type column unit)
+  (check-type row unit)
+  (cons column row))
+
+(defparameter +north+ (unit-vector 0 -1))
+(defparameter +northeast+ (unit-vector 1 -1))
+(defparameter +east+  (unit-vector 1 0))
+(defparameter +southeast+ (unit-vector 1 1))
+(defparameter +south+ (unit-vector 0 1))
+(defparameter +southwest+ (unit-vector -1 1))
+(defparameter +west+  (unit-vector -1 0))
+(defparameter +northwest+ (unit-vector -1 -1))
+
+you can do 2d-vector arithmetic on a coord
+(defun 2v+ (left right)
+  (coord (+ (column left) (column right))
+         (+ (row left) (row right))))
+
+(defun 2v- (left right)
+  (coord (- (column left) (column right))
+         (- (row left) (row right))))
+given a coord, you can get the coord of the
+  adjacent cell in a given orientation.  note that the
+  new coord might not be on the grid if you’re at the edge.
+(defun coord-north (coord)
+  (check-type coord coord)
+  (2v+ coord +north+))
+
+(define-compiler-macro coord-north (coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (coord (column ,coord-var) (1- (row ,coord-var))))))
+
+(defun coord-northeast (coord)
+  (check-type coord coord)
+  (2v+ coord +northeast+))
+
+(define-compiler-macro coord-northeast (coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (coord (1+ (column ,coord-var)) (1- (row ,coord-var))))))
+
+(defun coord-east (coord)
+  (check-type coord coord)
+  (2v+ coord +east+))
+
+(define-compiler-macro coord-east (coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (coord (1+ (column ,coord-var)) (row ,coord-var)))))
+
+(defun coord-southeast (coord)
+  (check-type coord coord)
+  (2v+ coord +southeast+))
+
+(define-compiler-macro coord-southeast (coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (coord (1+ (column ,coord-var)) (1+ (row ,coord-var))))))
+
+(defun coord-south (coord)
+  (check-type coord coord)
+  (2v+ coord +south+))
+
+(define-compiler-macro coord-south (coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (coord (column ,coord-var) (1+ (row ,coord-var))))))
+
+(defun coord-southwest (coord)
+  (check-type coord coord)
+  (2v+ coord +southwest+))
+
+(define-compiler-macro coord-southwest (coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (coord (1- (column ,coord-var)) (1+ (row ,coord-var))))))
+
+(defun coord-west (coord)
+  (check-type coord coord)
+  (2v+ coord +west+))
+
+(define-compiler-macro coord-west (coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (coord (1- (column ,coord-var)) (row ,coord-var)))))
+
+(defun coord-northwest (coord)
+  (check-type coord coord)
+  (2v+ coord +northwest+))
+
+(define-compiler-macro coord-northwest (coord)
+  (let ((coord-var (gensym "coord-")))
+    ‘(let ((,coord-var ,coord))
+       (coord (1- (column ,coord-var)) (1- (row ,coord-var))))))
+
+an ocoord is a coord that has a direction associated
+  with it.  it is a coord plus
+  an orientation.
+(deftype ocoord ()
+  ’(cons coord orientation))
+
+(defun ocoord (coord orientation)
+  (check-type coord coord)
+  (check-type orientation orientation)
+  (cons coord orientation))
+
+(define-compiler-macro ocoord (coord orientation)
+  ‘(cons ,coord ,orientation))
+
+(defun ocoord-coord (ocoord)
+  (check-type ocoord ocoord)
+  (car ocoord))
+
+(define-compiler-macro ocoord-coord (ocoord)
+  ‘(car ,ocoord))
+
+(defun ocoord-orientation (ocoord)
+  (check-type ocoord ocoord)
+  (cdr ocoord))
+
+(define-compiler-macro ocoord-orientation (ocoord)
+  ‘(cdr ,ocoord))
+
+the point of an ocoord is to be able to take a step
+  forward in the direction of the orientation, or to turn
+  clockwise or counterclockwise.
+(defun ocoord-advance (ocoord)
+  (check-type ocoord ocoord)
+  (ocoord (2v+ (ocoord-coord ocoord) (ocoord-orientation ocoord))
+          (ocoord-orientation ocoord)))
+
+(define-compiler-macro ocoord-advance (ocoord)
+  (let ((ocoord-var (gensym "ocoord-")))
+    ‘(let ((,ocoord-var ,ocoord))
+       (ocoord (2v+ (ocoord-coord ,ocoord-var) (ocoord-orientation ,ocoord-var))
+               (ocoord-orientation ,ocoord-var)))))
+
+(defun ocoord-cw (ocoord)
+  (check-type ocoord ocoord)
+  (ocoord (ocoord-coord ocoord)
+          (cond ((equal (ocoord-orientation ocoord) +north+) +east+)
+                ((equal (ocoord-orientation ocoord) +east+) +south+)
+                ((equal (ocoord-orientation ocoord) +south+) +west+)
+                ((equal (ocoord-orientation ocoord) +west+) +north+))))
+
+(defun ocoord-ccw (ocoord)
+  (check-type ocoord ocoord)
+  (ocoord (ocoord-coord ocoord)
+          (cond ((equal (ocoord-orientation ocoord) +north+) +west+)
+                ((equal (ocoord-orientation ocoord) +east+) +north+)
+                ((equal (ocoord-orientation ocoord) +south+) +east+)
+                ((equal (ocoord-orientation ocoord) +west+) +south+))))
+
+the grid input to many of the puzzles is presented as “ascii
+  art” characters in a file.  for example, the input might look
+  like this:
+....#.....
+.........#
+..........
+..#.......
+.......#..
+..........
+.#..^.....
+........#.
+#.........
+......#...
+
+to read this into a grid, we’ll need a function that converts a
+  string into a list of atoms.  we’ll need a function that converts a
+  char to an atom:
+(defun string-mapper (char-fn)
+  "returns a function that maps strings to lists."
+  (lambda (line)
+    (collect ’list
+      (map-fn ’t
+        char-fn
+        (scan ’string line)))))
+we can use this to read the input file into a grid:
+(defun read-file-into-grid (char-fn filename)
+  "returns the contents of the file as a two-dimensional array."
+  (row-list->grid
+   (collect ’list
+     (map-fn ’list
+             (string-mapper char-fn)
+             (scan-file filename #’read-line)))))
+char-fn is called on each character in the file.  if
+  it is #’identity, then the grid will be a grid of
+  characters.  however, we usually want a grid of atoms, so we supply
+  a function that converts a character to an atom.
+
+(defun char->decimal (char)
+  (- (char-code char) (char-code #\0)))
+
+(defun char-interner (char-folder package)
+  (lambda (char)
+    (if (digit-char-p char)
+        (char->decimal char)
+        (intern (string (funcall char-folder char)) package))))
+we can use this to read the input file into a grid:
+;; case folding
+(read-file-into-grid (char-interner #’char-upcase *package*) "input.txt")
+
+;; case preserving
+(read-file-into-grid (char-interner #’identity *package*) "input.txt")
+other miscellaneous functions
+advent-pathname converts a relative pathname to an absolute pathname in the
+  advent2024 directory.  advent-pathname is
+  used to find the input files.
+(defun advent-pathname (pathname)
+  (merge-pathnames pathname
+                   (asdf/system:system-source-directory "advent2024")))
+cartesian-product-list takes a list of lists and returns a list of
+  lists that are the cartesian product of the input lists.  for
+  example, (cartesian-product-list ’((1 2) (3 4))) returns
+  ((1 3) (1 4) (2 3) (2 4)).
+(defun map-cons (car cdrs)
+  (map ’list (lambda (cdr) (cons car cdr)) cdrs))
+
+(defun cartesian-product (&rest lists)
+  (cartesian-product-list lists))
+
+(defun cartesian-product-list (lists)
+  (fold-left (lambda (tails terms)
+               (mappend (lambda (term)
+                          (map-cons term tails))
+                        terms))
+             (list nil)
+             (reverse lists)))
+integer-log is used to find the number of digits an
+  integer has in a given base.
+(defun integer-log (n base)
+  "returns two values, the integer-log of <n> in <base>, and the leftmost digit
+in <base>."
+  (if (< n base)
+      (values 0 n)
+      (multiple-value-bind (ilog l) (integer-log n (* base base))
+        (if (< l base)
+            (values (* ilog 2) l)
+            (values (+ (* ilog 2) 1) (/ l base))))))
+miscellaneous list functions
+i gave the miscellaneous list functions as a puzzle in a previous post.
+  i’ll repeat them here for convenience.
+map-pairs takes a list of items and maps a function
+  over all pairs of items.  for example: 
+(map-pairs #’list ’(1 2 3))
+
+((1 2) (1 3) (1 4) (2 3) (2 4) (3 4))
+revmap is like map, but it returns a list in
+  reverse order.
+revmap-cons, given a car and list of cdrs, returns a
+  list of lists where each list has the car and one of the cdrs.  the
+  lists are returned in reverse order.
+revmappend is like mappend, but it returns the list in
+  reverse order.
+remove-one-element returns a list of lists.  each sublist
+  is the input list with one element removed.
+miscellaneous scanner
+scan-suffixes takes a sequence and returns a series of
+  the suffixes of the sequence.  if include-empty? is
+  true (the default), then the empty sequence is the last suffix.
+  if proper? is true (default false), then the original
+  full sequence is omitted from the series.
+
+
+armed with these miscellaneous functions, we can tackle the puzzles.
+i’ll write up some solutions in the next few posts.
+
+joe marshall — out of practice list-fu
+@2025-02-10 19:45 · 8 days ago
+
+how is your list-fu?  mine gets rusty when i don’t manipulate lists
+  for a while.  here are some simple puzzles to get the rust out.
+1. write a function that takes a list of items and maps a function
+  over the pairs of items in the list, in the following way:  the
+  first argument to the function is taken from one of the elements in
+  the list.  the second argument is taken from one of the subsequent
+  elements in the list.  e.g., if the list is (a b c d),
+  then
+(map-pairs (lambda (x y) ‘(f ,x ,y)) ’(a b c d))
+
+((f a b) (f a c) (f a d) (f b c) (f b d) (f c d))
+2.  write a function revmap that is
+  like mapcar, but the result is in reverse order.
+3.  write a function map-cons that takes
+  a car and a list of cdrs, and returns a
+  list of the car consed on each of
+  the cdrs.
+4.  write a function revmappend that is
+  like alexandria:mappend but is more efficient because it doesn’t
+  try to preserve the order of the elements.
+5.  write a function remove-one-element that takes a
+  list of n elements and returns n lists of n-1 elements, where each
+  sublist has one element removed from the original list.
+
+tim bradshaw — the modern real programmer
+@2025-01-31 19:17 · 18 days ago
+
+this is adapted from an email from my friend zyni, used with her permission. don’t take it too seriously.
+
+real programmers do not write programs like this. if a real programmer has to deal with a collection of particles, they do not have some silly object which represents a particle, perhaps made up of other objects representing physical vectors, and then some array of pointers to these particle objects. that is a bourgeois fantasy and the people who do that will not long survive the revolution. they will die due to excessive pointer-chasing; many of them have already died of quiche.
+real programmers do today as they have always done: if they have some particles to simulate a galaxy they make an array of floating point numbers, in which the particles live.
+this is how it has always been done, and how it always will be done, by people who care about performance.
+and this is why lisp is so superb. because you can write this:
+(for* ((i1 (in-particle-vector-indices pv))
+       (i2 (in-particle-vector-indices pv i1)))
+  (declare (type particle-vector-index i1 i2))
+  (with-particle-at (i1 pv :name p1)
+    (with-particle-at (i2 pv :name p2)
+      (let/fpv ((rx (- p2-x p1-x))
+                (ry ...)
+                ...)
+        ... compute interactions ...))))
+and this is:
+
+very fast1, because it all turns into optimized loops over suitable (simple-array double-float (*)) with no silly objects or consing;
+relatively easy for a human to read, since you can see, for instance what (for ((i (in-particle-vector-indices v))) ...) is doing and do not have to second-guess some idiot loop form which will be full of obscure bugs;
+quiche-compatible: you can easily write a function particle-at which will construct a particle object from a particle vector entry (such a function will later be excised as it has no callers, of course);
+perhaps most important it is possible for a program to take this code and to look at it and to say, ‘ok, this is an iteration over a particle vector - it is not some stupid hard-to-parse (loop for ... oh i have no idea what this is ...) as used by the quiche people, it is (for ((i (in-particle-vector-indices v))) ...) and it is very easy to see what this is - and there are things i can do with that’ and generate fortran which can be easily (or, less difficultly — is ‘difficultly’ a word? english is so hard) be made to run well on proper machines with sensible numbers of processors.
+and this is the thing they still do not see. you write your program which uses the only useful data structure, but you also write your program in a language you have built designed so that both a human and another program can understand it, and do useful things with it, because your program says what it means. every construct in your program should be designed so that this other program can get semantic information from that construct to turn it into something else.
+and this is why lisp is so uniquely useful for real orogrammers. lisp has only one interesting feature today: it is a language not for writing programs, but for writing languages.
+that is what real programmers do: they build languages to solve their problems. the real programmer understands only two things:
+
+the only data structure worth knowing about is the array;
+her job as a programmer is to write languages which will make writing programs to manipulate arrays easy for a human to understand;
+and her other job is to write other programs which will take these programs and turn them into fortran;
+and when that is done she can go and ride her lovely cob to the fair.
+real programmers also can count only to two.
+
+
+
+
+i (tim, not zyni, who would use a cleverer integrator) wrote a mindless program to integrate systems of gravitating particles to test some of the things we’ve written that are mentioned in this email. on an apple m1 it sustains well over 1 double precision gflop. without using the gpu i think this is about what the processor can do. ↩
+
+neil munro — ningle tutorial 3: static files middleware
+@2025-01-30 23:55 · 19 days ago
+
+contents
+
+part 1 (hello world)
+part 2 (basic templates)
+part 3 (introduction to middleware and static file management)
+
+introduction
+welcome back to this tutorial series, in this chapter we will be looking at the topic of static files, before we begin, we need to come to an understanding on just what static files are. static files are files that do not need to be further processed by your application; images, videos, css, javascript files all generally do not need to be processed by your web applications, and thus can simply be served as is. files that must be processed by your web application (like the templates from the previous tutorial) typically need further processing by your web application and thus are not static files, and could be called dynamic files (although this term isn't really used).
+while developing an application there's often a requirement to de-couple these static files from the main application code, you might want to serve these separately in production and many web servers help you do this for performance reasons (in fact nginx is very good at this), however you might not need the scalability locally while you are working on your application, and so ningle has a middleware module to serve these static files when you don't need a dedicated static file server.
+another, more practical consideration of serving static files is that if you don't have a way to serve these files for you, you would have to write a controller for every image, or css file in your application, this wont scale well at all, and you'll spend most of the time writing code to serve files rather than building your application. static file management allows you to serve a directory of files and reference them by path, but you must set it up correctly in the first place.
+note: we will be using djula, as we did before, however as of 2025-01-15 this has not yet been merged into quicklisp, you may need to clone the latest djula from github into your quicklisp/local-projects directory to gain access to the latest version needed for this tutorial.
+introducing middleware
+in reality ningle deligates the responsibility of serving static files to the underlying lack package by way of the lack middleware. there are a number of different lack middleware modules available by default and throughout this tutorial we will look at most (if not all) of them.
+in most web frameworks (ningle included) middleware runs between the request being accepted and the code in your controller running. it is similar to a controller in that it has access to the request and response objects, and it may pass its response onto the next middleware function or a controller, it depends on what the middleware function is written to do.
+in the case of static files here, the end goal will be that a request for a file will come to your webserver, and the static middleware module will run before any controllers, and if the static resource is found, the middleware function will return a response and with our not-found method, if the url couldn't be found, our not-found method runs instead.
+simple middleware example
+to illustrate how this works in practice, we will write a piece of custom middleware that will add a new variable to the request environment, which we will then extract in a controller and display in a template, we'll use a number that gets incremented each time the middleware is run. in effect we will implement a hit counter in middleware!
+please note: this will not actually be used in the tutorial overall and serves only as a guide for how to write custom middleware generally, please follow this section to complete your understanding and feel free to include it (if you wish), but it will not be featured in the accompanying github code or used anywhere else in this tutorial.
+in our main application code we define an app objects, under this we will define a new variable to track our count.
+(defvar *app* (make-instance 'ningle:app))
+(defvar *count* 0)
+now in order to take advantage of using middleware we must restructure how we built the ningle app, you may recall writing a start function that looked like the following.
+(defun start (&key (server :woo) (address "127.0.0.1") (port 8000))
+    (clack:clackup
+     *app*
+     :server server
+     :address address
+     :port port))
+we will need to edit this and introduce the idea of a lack builder. this is a way of building an application with more capabilities. instead of simply passing our *app* object to the clackup function, we instead wrap our *app* object in the lack builder function which allows us to plug in middleware.
+(clack:clackup
+     (lack.builder:builder *app*)
+     :server server
+     :address address
+     :port port)
+it may not be immediately obvious, but where previously the first argument to clackup was our *app* object, we instead call lack.builder.builder passing in *app*, it is in this builder call that we will hook in our middleware. before we can do that however, we must write some middleware!
+above our start function i will write our middleware function:
+(defun hit-counter-middleware (app)
+  (lambda (env)
+    (setf (getf env :hit-counter) (incf *count*))
+    (funcall app env)))
+this is all it needs, we need to define a function that first accepts a ningle application object, and it returns a function (a lambda in this instance) that accepts the env (the request environment), because there may be a chain of middleware functions that potentially terminate with our controller, the lambda must return the result of calling the next middleware function with the app and environment.
+within the body of the lambda, however, we are free to begin doing whatever we want!
+in this example, we only do one thing, we add a new entry into the environment and assign it to be the incremented (incf) value of *count* with this line (setf (getf env :hit-counter) (incf *count*)).
+we next must edit the controller to retrieve this stored value and render it into the template (which means we'll also need to edit the template).
+thankfully editing our controller is easy, we need only add a new keyword argument to the render-template* function.
+(setf (ningle:route *app* "/")
+      (lambda (params)
+        (let ((user  (list :username "nmunro"))
+              (posts (list (list :author (list :username "bob")  :content "experimenting with dylan" :created-at "2025-01-24 @ 13:34")
+                           (list :author (list :username "jane") :content "wrote in my diary today" :created-at "2025-01-24 @ 13:23"))))
+          (djula:render-template* "index.html" nil :title "home"
+                                                   :user user
+                                                   :posts posts
+                                                   :hit-counter (getf (lack/request:request-env ningle:*request*) :hit-counter)))))
+the only addition is the :hit counter (getf (lack/request:request-env ningle:*request*) :hit-counter) line. this will retrieve the :hit-counter value from the request environment.
+in our index.html template, in the div with the class="container", we will add the following:
+    <div class="row">
+        <div class="col-12">
+            <h4>hits</h4>
+            <p>{{ hit-counter }}</p>
+        </div>
+    </div>
+the last thing we must do is return to the lack.builder section of our start function and hook the middleware into the app.
+(lack.builder:builder #'hit-counter-middleware *app*)
+it must be included before *app* as the hit-counter-middleware will be wrapping our application and run before anything in our app does. as this tutorial (and your own applications) grow, this line and the different middleware modules will change as requirements do.
+if you save and load the project, you should see that there is a div in your template that updates a count every time the page is refreshed. at this point you may notice that the counter is incremented by 2 each time, this is not a mistake, this is because your web browser will request the page itself, and a favicon.ico file (and hit the not-found controller).
+for clarity here is the edited main.lisp file:
+(defpackage ningle-tutorial-project
+  (:use :cl)
+  (:export #:start
+           #:stop))
+
+(in-package ningle-tutorial-project)
+
+(defvar *app* (make-instance 'ningle:app))
+(defvar *count* 0)
+
+(setf (ningle:route *app* "/")
+      (lambda (params)
+        (let ((user  (list :username "nmunro"))
+              (posts (list (list :author (list :username "bob")  :content "experimenting with dylan" :created-at "2025-01-24 @ 13:34")
+                           (list :author (list :username "jane") :content "wrote in my diary today" :created-at "2025-01-24 @ 13:23"))))
+          (djula:render-template* "index.html" nil :title "home"
+                                                   :user user
+                                                   :posts posts
+                                                   :hit-counter (getf (lack/request:request-env ningle:*request*) :hit-counter)))))
+
+(defmethod ningle:not-found ((app ningle:<app>))
+    (declare (ignore app))
+    (setf (lack.response:response-status ningle:*response*) 404)
+    (djula:render-template* "error.html" nil :error "not found"))
+
+(defun hit-counter-middleware (app)
+  (lambda (env)
+    (setf (getf env :hit-counter) (incf *count*))
+    (funcall app env)))
+
+(defun start (&key (server :woo) (address "127.0.0.1") (port 8000))
+    (djula:add-template-directory (asdf:system-relative-pathname :ningle-tutorial-project "src/templates/"))
+    (clack:clackup
+        (lack.builder:builder #'hit-counter-middleware *app*)
+     :server server
+     :address address
+     :port port))
+
+(defun stop (instance)
+    (clack:stop instance))
+understanding how to write custom middleware is very important, and i hope that this has served as a good foundation, however, as mentioned at the beginning of this section we will not be using this piece of custom middleware in our application. you are free to include it if you wish, but it will not feature in the companion code in github.
+aceesslog middleware
+now that we have discussed what middleware is, work it does, how it works, and how to implement it, we will look at some of the middleware modules included in lack which ningle therefore has access to.
+we will start with what is known as accesslog middleware, it's a very simple piece of middleware that just logs requests as they come in.
+as we did in the previous section, we must adjust the lack.builder line, however, this time we do not need to write any function, the middleware that comes with lack uses some simplified syntax.
+(defun start (&key (server :woo) (address "127.0.0.1") (port 8000))
+    (djula:add-template-directory (asdf:system-relative-pathname :ningle-tutorial-project "src/templates/"))
+    (clack:clackup
+        (lack.builder:builder :accesslog *app*)
+     :server server
+     :address address
+     :port port))
+if you recompile and run your application, and view the terminal output, you will see information about the incoming requests to the web server.
+this is a simple example, but it highlights an important distinction that the bundled lack middleware isn't a reference to a function, it's a keyword, as we will see in the next section, they can be a little more complicated than just a keyword, but this particular piece of middleware, it is just a keyword to turn it on. other pieces of middleware may be a list that include configuration options, if needed.
+static files middleware
+what we would like to do, when we write our templates is to be able to tell our template that a file is a static file and must be served from the static location. we will need to use a special djula tag to inform our templates that a file is a static file, which may seem a little counter intuitive, however, if for some reason we need to change where static files are served from (for example we may initially host them locally, but then switch to s3 or cloudflare or something), we'd have to go through all our templates changing the url, whereas using static file middleware, we'd set up a base once, and if we need to change it, we change it in one place and then our templates wouldn't need to change at all.
+while this sounds like a lot of work, remarkably, it isn't!
+there's only really three steps to setting up static file handling in ningle!
+as we are using djula (and a reminder quicklisp may not yet have the latest version of djula, you may need to use git to clone it into your quicklisp/local-projects), we must configure djula to be aware of where our static files will be mounted. so, just as we added a template directory, we must also add a static directory, in our example this is in the start function:
+(djula:add-template-directory (asdf:system-relative-pathname :ningle-tutorial-project "src/templates/"))
+(djula:set-static-url "/public/")
+this second line is the one we have added, when we use the static tag later on, it will know to use "/public/" as our static path.
+note: be mindful to ensure there's a trailing slash when calling set-static-url!
+the second thing we must do is hook into the lack static middleware.
+(lack.builder:builder :accesslog
+                      (:static
+                       :root (asdf:system-relative-pathname :ningle-tutorial-project "src/static/")
+                       :path "/public/")
+                      *app*)
+mentioned previously, some middleware setup will be lists, in this instance, a list where the first item is a keyword naming the lack middleware module to use (this will be a common pattern with other lack middleware) and then any arguments that the middleware module uses. in this case, we need to define where on our host file system we will be storing our static files, this is the :root argument and we specify that relative to our project, static files will be stored in /src/static and we need to have these mounted on a path which is exactly what the :path argument does, we will hide the physical location of our static files (good security) and state that they're available behind "/public/".
+for clarity, this is what the start function should look like:
+(defun start (&key (server :woo) (address "127.0.0.1") (port 8000))
+    (djula:add-template-directory (asdf:system-relative-pathname :ningle-tutorial-project "src/templates/"))
+    (djula:set-static-url "/public/")
+    (clack:clackup
+      (lack.builder:builder :accesslog
+                            (:static
+                             :root (asdf:system-relative-pathname :ningle-tutorial-project "src/static/")
+                             :path "/public/")
+                            *app*)
+     :server server
+     :address address
+     :port port))
+the final thing we need to do is, in our templates, use the static tag to load a given static file. in the base.html file, you might want to display an image. you can use whatever image you like, but if you want to use the one i've created, you can use this.
+you should put this file (or the image of your choice) in the src/static/images/ directory (and create it, if you have not), i have called the image logo.jpg and have stored it in src/static/logo.jpg. this will exposed it as /public/images/logo.jpg and from here we can place these into our templates.
+<img src='{% static "images/logo.jpg" %}' alt='logo'>
+if you save, reload, and view this project in your web browser, you should see the image rendered as you might expect. inspecting the page you will see that the src attribute will be src="/public/images/logo.jpg". the image is being served without writing having to write a controller, and is served from the root you defined.
+tidying up
+now that we have the ability to serve images, css etc, we might want to take this time to writing some css (although i personally hate writing css), and making the site look good. although it is beyond this tutorial to teach bootstrap or other css frameworks (although i will use bootstrap), i will be using bootstrap to make my site look a little nicer, you can refer to the github code to see exactly what i have done regarding frontend styling.
+there is something i will do to help our application look a little better...
+i will create a nicer looking error page that will take advantage of our new staticfiles middleware, so the contents of src/templates/error.html will be:
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1>{{ error }}</h1>
+                <img src="{% static "images/lua.jpg" %}" alt="a picture of a dog looking sad and confused" class="error-404">
+            </div>
+        </div>
+    </div>
+{% endcontent %}
+
+i will save this photo to src/static/images/lua.jpg.
+and in the main.lisp file, i will modify the not-found method:
+(defmethod ningle:not-found ((app ningle:<app>))
+    (declare (ignore app))
+    (setf (lack.response:response-status ningle:*response*) 404)
+    (djula:render-template* "error.html" nil :error "not found"))
+i have also edited the controller for the index page:
+(setf (ningle:route *app* "/")
+      (lambda (params)
+        (let ((user  (list :username "nmunro"))
+              (posts (list (list :author (list :username "bob")  :content "experimenting with dylan" :created-at "2025-01-24 @ 13:34")
+                           (list :author (list :username "jane") :content "wrote in my diary today" :created-at "2025-01-24 @ 13:23"))))
+          (djula:render-template* "index.html" nil :title "home"
+                                                   :user user
+                                                   :posts posts))))
+in my frontend i have edited the html to include a created-at attribute to the posts and included it as we did before with the post author and content:
+<h5 class="card-title">{{ post.author.username }}</h5>
+<p class="card-text">{{ post.content }}</p>
+<p class="text-muted small">posted on: {{ post.created-at }}</p>
+
+the exact styling i leave up to you, but i wanted to be clear that there is a small content change to the html.
+conclusion
+to recap, after working your way though this tutorial you should be able to:
+
+describe what static files are.
+describe what application middleware is.
+explain why it is advantagous to handle static files differently.
+explain how middleware works.
+create and use simple middleware functions.
+incorporate lack static middleware into your application.
+incorporate djula static tags in your html templates to serve static content.
+
+github
+the link for this tutorial is available here.
+resources
+
+clack
+class
+div
+djula
+djula documentation
+favicon
+function
+getf
+incf
+keyword
+quicklisp
+setf
+lack
+ningle
+format
+lambda
+middleware
+nginx
+
+
+zach beane — maxima in the browser with ecl and wasm
+@2025-01-27 16:37 · 22 days ago
+
+via raymond toy on the ecl mailing list, maxima in the browser.
+
+joe marshall — valid use case for copilot
+@2025-01-18 05:38 · 32 days ago
+
+our compay proides us with github copilot, which is yet another
+  example of an “ai” engine.  i’ve reviewed it before and i wasn’t
+  particulary impressed.  it writes mediocre code.
+however, i found a use case where it really shines.  i was setting
+  up the blank project repositories for our upcoming hackathon.  this
+  involved creating a bunch of otherwise empty repositories with a
+  customize readme.md file.  the simple solution was to automate this with an ad
+    hoc shell script.
+i don’t make a practice of writing shell scripts.  i write a few
+  every now and then, but i don’t live and breathe bash.  it takes me
+  a while because i forget the flags.  i have to look up the exact
+  syntax for things like the find command.  then i have
+  to fight with the shell to get the quoting and escaping right.  it’s
+  a tedious chore.  no doubt i would become adept at it if it were
+  something i did daily, but it’s not.
+so i decided to ask github copilot to write some scripts for me.  i
+  gave it my problem statement:  start with a file with a list of
+  repository and description pairs.  for each pair, look for the
+  subdirectory with that name and descend into it.  use the sed
+  command to modify the readme.md file in the subdirectory to add the
+  repository discription.  then use git to commit and push the change.
+copilot gave this a couple of seconds thought and came up with this script:
+while ifs= read -r line; do
+  dir_name=$(echo "$line" | cut -d' ' -f1)
+  description=$(echo "$line" | cut -d' ' -f2-)
+  if [ -d "$dir_name" ]; then
+    sed -i "s/\[\[github_repo_description\]\]/$description/g" "$dir_name/readme.md"
+  else
+    echo "directory $dir_name does not exist."
+  fi
+done < descriptions.txt
+
+find . -type d -name "hack*" -exec sh -c '
+  cd "$0"
+  if [ -f readme.md ]; then
+    git add readme.md
+    git commit -m "update description."
+    git push
+  fi
+' {} \;       
+
+it isn’t a script that’d i’d write home about, but it got the job
+  done.  i ran the script and had the repositories set up in couple of
+  minutes.  i could have written the script myself, but it would have
+  take me longer.  i had forgotten the options to
+  the find command.  i had forgotten the arguments to
+  the cut command.  i would have had to look them up.
+  copilot saved me that time.
+a co-worker of mine questioned the engineering tradeoff of using a
+  resource hog like generative ai to write crappy, throwaway shell
+  scripts.  from the standpoint of an indiviual developer, though,
+  this is the first use case for copilot that i’ve where it actualy
+  saved me time and effort.
+
+joe marshall — iteration
+@2025-01-17 20:36 · 32 days ago
+
+iteration is simply that special case of recursion that doesn’t
+  accumulate storage in the long term.  it’s a notable special case
+  because computer storage is finite, and you want to be able to write
+  agorithms that are bound by constant space.
+there are two common strategies that computer languages use to
+  approach iteration.  functional languages like scheme and haskell
+  make sure that normal function calls do not accumulate
+  storage per se.  function calls can be used to direct the
+  control flow, and if they direct the control flow in a loop, you
+  will iterate.  most other languages achieve iteration via
+  special iteration constructs that you must use if you want to
+  iterate.  each of these approaches has its own advantages and
+  disadvantages.
+the advantage of using special iteration constructs are these:
+it is clear that you are iterating.
+special constructs are usually optimized for iteration and have
+  particular compiler support to make them efficient.
+special constructs are constrained so that you cannot accidentally
+  write non-iterative code.
+the disadvantage of using special iteration constructs are
+  these:
+special constructs are drawn from a fixed set of constructs
+  that are built in to the language.  if you want to iterate differently, you
+    are out of luck.
+special constructs usually do not cross function boundaries.
+    iteration must reside in a single function.
+you have to decide beforehand that you want to iterate and
+    choose an iteration construct.
+special constructs are usually imperative in nature and operate
+    via side effects.
+the alternative approach used by functional languages is to make
+  the language implementation tail recursive.  this has these
+  advantages:
+iteration is automatic.  you don’t have to decide that you
+    want to iterate, it just happens when it can.
+iteration can cross function boundaries.
+you can write your own iteration constructs and build them out
+    of ordinary functions.
+iteration can be done purely functionally, without side
+    effects.
+the disadvantages of using tail recursion for iteration are
+  these:
+it is not obvious that you are iterating or intended to.
+you have to be careful to place all the iteration in tail
+  position or you will blow the stack.  beginner programmers often
+  have difficulty recognizing which calls are tail calls and can find
+    it hard to avoid blowing the stack.
+small, innocent looking changes in the code can change its
+    behavior to be non tail recursive, again blowing the stack.
+the stack no longer contains a complete call history.  if you
+  rely on the stack as a call history buffer for debugging, you may
+  find debugging more difficult.
+the code in an iteration can be classified as being part of the
+  machinery of iteration — the part that sets up the itertion,
+  tests the ending conditional, and advances to the next iteration
+  — or part of the logic of the iteration — the specific
+  part that you are repeating.  the machinery of the iteration is
+  usually the same across many iterations, while the logic of the
+  iteration is idiomatic to the specific instance of iteration.  for
+  example, all iterations over a list will have a null test, a call
+  to cdr to walk down the list, and a call to car to fetch the current
+  element, but each specific iteration over a list will do something
+  different to the current element.
+there are several goals in writing iterative code.  one is to have
+  efficient code that performs well.  another is to have clear code
+  that is easy to understand, debug, and maintain.  you choose how to
+  iterate based on these considerations.  for the highest performing
+  code, you will want detailed control over what the code is doing.
+  you may wish to resort to using individual assignments
+  and goto statements to squeeze the last clock cycles
+  out of an inner loop.  for the clearest code, you will want to use a
+  high degree of abstraction.  a clever compiler can generate
+  efficient code from highly abstracted code, and experienced
+  programmers know how to write abstract code that can be compiled to
+  efficient code.
+here are some examples of iteration strategies lisp.  to make these
+  examples easy to compare i chose a simple problem to solve: given a
+  list of numbers, return both a list of the squares of the numbers
+  and the sum of the squares.  this is a simple problem that can be
+  solved in many ways.
+tagbody and go
+a tagbody is a block of code that is labeled with
+  tags.  you can jump to a tag with a go statement.  this
+  is a very low level form of iteration that is not used much in
+  modern lisp programming.  here is an example of
+  a tagbody:
+
+(defun iteration-example-with-tagbody (numbers)
+  (let ((squares ’())
+        (total 0)
+        (nums numbers))
+    (tagbody
+     start
+       (if (null nums)
+           (go end))
+       (let ((square (* (car nums) (car nums))))
+         (setq squares (cons square squares))
+         (incf total square))
+       (setq nums (cdr nums))
+       (go start)
+     end
+       (values (nreverse squares) total))))
+
+this is like programming in assembly code.  the go
+  instructions turn into jumps.  this code is
+  very efficient, but it is not particularly clear.  the
+  machinery of the iteration is mixed in with the logic of the
+  iteration, making it hard to see what is going on.  the code is not
+  very abstract.
+state machine via mutual tail recursion
+here we use tail recursion to iterate.  the compiler will turn the
+  tail recursive call into a jump and the variable rebinding into
+  assignments, so this code will be about as efficient as
+  the tagbody code above.
+
+(defun iteration-example-tail-recursive (numbers &optional (squares ’()) (total 0))
+  (if (null numbers)
+      (values (nreverse squares) total)
+      (let ((square (* (car numbers) (car numbers))))
+        (iteration-example-tail-recursive
+         (cdr numbers)
+         (cons square squares)
+         (+ total square)))))
+
+this state machine only has one state, so it is not a very
+  interesting state machine.  the ultimate in iteration control is to
+  write an iterative state machine using mutually tail recursive
+  functions.  the compiler will generate very efficient code for this,
+  and you can write the code in a very abstract way.  here is an
+  example of a state machine that simulates the action of a turnstile:
+(defun turnstile (actions)
+  "state machine to simulate a turnstile with actions ‘push’, ‘coin’, and ‘slug’."
+  (locked-state actions ’() ’()))
+
+(defun locked-state (actions collected return-bucket)
+  (cond ((null actions) (list collected return-bucket))
+        ((eql (car actions) ’coin)
+         (unlocked-state (cdr actions) collected return-bucket))
+        ((eql (car actions) ’push)
+         (locked-state (cdr actions) collected return-bucket))  ;; ignore push in locked state
+        ((eql (car actions) ’slug)
+         (locked-state (cdr actions) collected (append return-bucket ’(slug)))) ;; return slug
+        (t (locked-state (cdr actions) collected return-bucket))))
+
+(defun unlocked-state (actions collected return-bucket)
+  (cond ((null actions) (list collected return-bucket))
+        ((eql (car actions) ’push)
+         (locked-state (cdr actions) (append collected ’(coin)) return-bucket))
+        ((eql (car actions) ’coin)
+         (unlocked-state (cdr actions) collected (append return-bucket ’(coin)))) ;; return coin
+        ((eql (car actions) ’slug)
+         (unlocked-state (cdr actions) collected (append return-bucket ’(slug)))) ;; return slug
+        (t (unlocked-state (cdr actions) collected return-bucket))))
+
+;; example usage:
+(turnstile ’(coin push coin push))  ;; => ((coin coin) ())
+(turnstile ’(push coin push))       ;; => ((coin) ())
+(turnstile ’(coin coin push push))  ;; => ((coin) (coin))
+(turnstile ’(push))                 ;; => (nil nil)
+(turnstile ’(coin push push))       ;; => ((coin) ())
+(turnstile ’(coin coin coin push))  ;; => ((coin) (coin coin))
+(turnstile ’(slug coin push))       ;; => ((coin) (slug))
+(turnstile ’(coin slug push))       ;; => ((coin) (slug))
+(turnstile ’(slug slug push coin push)) ;; => ((coin) (slug slug))
+
+the iteration machinery is still interwoven with the logic of
+  the code.  we’re still finding calls to null
+  and cdr sprinkled around the code.  nonetheless,
+  structuring iterative code this way is a big step up from using a
+  tagbody and go.  this is my go-to method
+  for compex iterations that cannot easily be expressed as
+  a map or reduce.
+loop macro
+common lisp’s loop macro is a very powerful iteration
+  construct that can be used to express a wide variety of iteration
+  patterns.
+defun loop-iteration-example (numbers)
+  (loop for num in numbers
+        for square = (* num num)
+        collect square into squares
+        sum square into total
+        finally (return (values squares total))))
+call me a knee-jerk anti-loopist, but this doesn’t look like lisp
+  to me.  it has some major problems:
+it is highly imperative.  to understand what is going on, you
+    have to follow the code in the order it is written.  you need to
+    have a mental model of the state of the loop at each point in the
+    iteration.  running into a loop when reading functional
+    code takes you out of the zen of functional programming.
+the bound variables are not lexical, they are scattered around
+  the code.  you have to carefully examine each clause to figure out what
+    variables are being bound.
+you need a parser to walk the code.  there is nothing that
+  delimits the clauses of the loop; it is a flat list of random
+  symbols and forms.  you couldn’t easily write a program that takes a
+  loop form and transforms it in some way.
+do and friends
+the do macro, and its friends dolist,
+  dotimes, and do*, etc., are the most common
+  iteration constructs in common lisp.
+(defun iteration-example-with-do (numbers)
+  (let ((squares ’())
+        (total 0))
+    (do ((nums numbers (cdr nums)))
+        ((null nums) (values (nreverse squares) total))
+      (let ((square (* (car nums) (car nums))))
+        (setq squares (cons square squares))
+        (incf total square)))))
+the do macros have some drawbacks:
+they are imperative.  the body of a do loop
+    ultimately must have some sort of side effect or non-local exit to
+    “get a value out”.  notice how we bind accumulator
+    variables in an outer scope and assign them in the inner one.
+    this is a common pattern in a do loop.
+they do not compose.  you can nest a dotimes inside
+  a dolist, e.g., but you cannot run
+    a dotimes in parallel with a dolist.
+they are incomplete.  there is no do-array
+    or do-string, for example.
+but at least you can parse them and transform them.  they are
+  structured, and you can write a program that walks the clauses of a
+  do loop and does something with them.
+map and reduce
+map and reduce abstract the machinery of iteration away from the
+  logic of the iteration through use of a monoid (a higher order
+  function).  the resulting code is clear and concise:
+(defun iteration-example-with-map-reduce (numbers)
+  (let* ((squares (map ’list (lambda (num) (* num num)) numbers))
+         (total (reduce #’+ squares)))
+    (values squares total)))
+the looping is implicit in the mapcar and
+  reduce functions.  you can usually make the assumption
+  that the language implemetors have optimized these functions to be
+  reasonably efficient.
+i often see programmers writing looping code when a perfectly good
+  library function exists that does the same thing.  for example, it
+  is common to want to count the number of items in a sequence, and
+  commmon lisp supplies the count function just for this
+  purpose.  there is no need to write a loop.
+common lisp provides a filter function, but it is
+  called remove-if-not.
+the drawback of using these functions is that large intermediate
+  sequences can be created.  in our example code, the entire list of
+  squares is constructed prior to reducing it with #’+.  of course the
+  entire list is one of the return values, so you need it anyway, but
+  if you only needed the sum of the squares, you would prefer to sum
+  it incrementally as you go along rather than constructing a list of
+  squares and then summing it.  for small sequences, it doesn’t make
+  a difference.
+series
+the series macro suite attempt to bring you best of both worlds.
+  you write series expressions that look like sequence functions, but
+  the macro recognizes that you are iterating and generates efficient
+  incremental code.
+(defun iteration-example-with-series (numbers)
+  (let ((squares (map-fn ’integer (lambda (n) (* n n)) (scan ’list numbers)))
+    (values (collect ’list squares)
+            (collect-sum squares))))
+this code is very similar to the sequence case, but the series
+  macro will generate code that does not construct the entire list of
+  squares before summing them.  it will sum them incrementally as it
+  goes along.  
+series will expand into a tagboy.  for example, the
+  above code will expand into something like this:
+(common-lisp:let* ((#:out-1015 numbers))
+  (common-lisp:let (#:elements-1012
+                    (#:listptr-1013 #:out-1015)
+                    (squares 0)
+                    #:seq-1018
+                    (#:limit-1019
+                     (common-lisp:multiple-value-bind (series::x series::y)
+                         (series::decode-seq-type (list ’quote ’lists))
+                       (declare (ignore series::x))
+                       series::y))
+                    (#:lst-1020 nil)
+                    (#:sum-1023 0))
+    (declare (type list #:listptr-1013)
+             (type integer squares)
+             (type (series::null-or series::nonnegative-integer) #:limit-1019)
+             (type list #:lst-1020)
+             (type number #:sum-1023))
+    (tagbody
+     #:ll-1026
+      (if (endp #:listptr-1013)
+          (go series::end))
+      (setq #:elements-1012 (car #:listptr-1013))
+      (setq #:listptr-1013 (cdr #:listptr-1013))
+      (setq squares ((lambda (n) (* n n)) #:elements-1012))
+      (setq #:lst-1020 (cons squares #:lst-1020))
+      (setq #:sum-1023 (+ #:sum-1023 squares))
+      (go #:ll-1026)
+     series::end)
+    (common-lisp:let ((series::num (length #:lst-1020)))
+      (declare (type series::nonnegative-integer series::num))
+      (setq #:seq-1018 (make-sequence ’lists (or #:limit-1019 series::num)))
+      (do ((series::i (1- series::num) (1- series::i)))
+          ((minusp series::i))
+        (setf (elt #:seq-1018 series::i) (pop #:lst-1020))))
+    (values #:seq-1018 #:sum-1023)))
+90% of the time, the series macro will produce very efficient code,
+  but 10% of the time the macro loses its lunch.  it takes a little
+  practice to get use to when the series macro will work and to write
+  code that the series macro can handle.
+conclusion
+there are many ways to iterate in lisp, some are more efficient
+  than others, some are more abstrac than others.  you choose the way
+  that suits your needs.  i like the abstraction of the series macro,
+  but i will also use a library function like count when
+  it is appropriate.  when i need tight control, i’ll write a state machine.
+    
+vindarel — new resource specialized on web development in common lisp
+@2025-01-15 09:39 · 34 days ago
+
+i just released a new documentation website specialized on web development in common lisp:
+
+🚀 https://web-apps-in-lisp.github.io/
+
+i’d be embarrassed to tell how long it took me to grasp all the
+building blocks and to assemble a resource that makes sense. i hope it
+serves you well, now don’t hesitate to share what you are building, it
+creates emulation!
+in the first tutorial we build a simple app that shows a web
+form that searches and displays a list of products.
+
+we see many necessary building blocks to write web apps in lisp:
+
+how to start a server
+how to create routes
+how to define and use path and url parameters
+how to define html templates
+how to run and build the app, from our editor and from the terminal.
+
+in doing so, we’ll experience the interactive nature of common lisp.
+in the user log-in section, we build a form that checks a user name and a password:
+
+we also introduce databases, and more topics.
+the sources are here: https://github.com/web-apps-in-lisp/web-apps-in-lisp.github.io/ and the github discussions are open.
+
+joe marshall — &lambda; calculus
+@2025-01-14 23:04 · 35 days ago
+
+a lambda calculus is a set of rules and strategies for manipulating
+  logical expressions.  as church defined them, these logical
+  expressions are linear lists of symbols.  a symbol is effectively a
+  variable.  two expressions in sequence indicate a function
+  application.  the special symbol λ is just a marker to
+  indicate a function.  parenthesis can be used to group
+  expressions.
+mccarthy’s s-expressions are an alternative representation of a
+  logical expression that is more suitable for a computer.  rather
+  than a linear list of symbols, s-expressions use a tree structure of
+  linked lists in memory.  symbols are still variables, lists
+  represent function application, the special
+  symbol lambda at the beginning of a list indicates a
+  function, and grouping is achieved by nesting a list within
+  another.
+when mccarthy invented s-expressions, he wanted to show that the
+  nested list structure of s-expressions could faithfully represent
+  the logical expressions from lambda calculus.  (it can.)  a lambda
+  calculus can be restated as a set of rules and strategies for
+  manipulating s-expressions.  this makes it easier for a computer to
+  do lambda calculus.  as a lisp hacker, i find it also makes it
+  easier for me to think about lambda calculus.
+your basic lambda calculus just has symbols, lists, and λ
+  expressions.  that’s it.  but let us introduce one more element.
+  recall that we can think of a let expression as
+  syntactic sugar for a list (function call) where the first element
+  (the operator) is a lambda expression.  we’ll keep our s-expressions
+  fully sugared and write all such lists as let
+  expressions.  so now our s-expressions have symbols, lists, λ
+  expressions, and let expressions.
+the two basic rules for manipulating s-expressions are α, which
+  is a recursive rule for renaming a symbol in an s-expression,
+  and β, which gets rid of a selected let
+  expression.  a basic lambda calculus consists of these two rules
+  and a strategy for selecting which let expressions to
+  get rid of.  β reduces a let expession
+  by substituting the variables for their bindings in the body of
+  the let.  α is used as needed to avoid
+  unwanted variable capture
+  during β-reduction.  β eliminates
+  one let expression, but it can introduce more if you
+  end up substituting a λ expression into operator position.
+if an expression contains no let expressions, we say
+  it is in “normal form”.  a common task in lambda
+  calculus is to try to reduce an expression to normal form by attempting to
+  eliminate all the let expressions.  sometimes you
+  cannot achieve this goal because every time you apply
+  the β rule to eliminate a let
+  expression, it ends up introducing further let
+  expressions.
+there are many strategies for selecting let
+  expressions to eliminate.  not all strategies will necessarily end
+  up getting you to a normal form, but all strategies
+  that do end up at a normal form end up at the same normal
+  form (modulo the variable names).  one strategy is of note:
+  selecting the leftmost, outermost let expression and
+  reducing it first is called “normal order”.  it is
+  notable because if any strategy converges to normal form,
+  then the normal order strategy will, too.  however, the normal order
+  strategy can lead to an exponential explosion of intermediate
+  expressions.  there are other strategies that avoid the exponential
+  explosion, but they don’t always converge to normal form.  pick your
+  poison.
+α and β are the only rules we need
+  to compute with s-expressions.  the simple lambda calculus
+  with α and β is universal —
+  it can compute anything that can be computed.  it is turing
+  complete.
+i don’t know about you, but i find it quite remarkable that
+  this can compute anything, let alone everything.
+  nothing is going on here.  α just renames symbols.
+  using α-conversion to rename all
+  the foos to bars doesn’t change
+  anything but the symbol names.  we define
+  expression equivalence modulo α, so the actual
+  names of the symbols isn’t important.
+  apparently β-reduction does computation, but it is hard to say how,
+  exactly. it is just simplifying let expressions by
+  replacing variables with what they are bound to.  but a variable is simply a
+  name for a binding.  when you replace a variable with what it is
+  bound to, you don’t change any values.  the resulting
+  expression may be simpler, but it means the same thing as the
+  original.
+we use β reduction as a model of subroutine
+  (function) calls.  in a subroutine call, the values of the arguments
+  are bound to the names of the arguments before evaluating the body
+  of the subroutine.  in β reduction, the body of the
+  expression is substituted with the names bound to the value
+  expressions.  the lambda calculus model of a computer program will
+  have a β reduction wherever the program has a
+  subroutine call.  a lambda calculus expression with opportunities
+  for β reduction can be translated into a computer
+  program with subroutine calls at those locations.  it’s a one-to-one
+  mapping.  since we can compute anything using just
+  the α and β rules, we can likewise
+  compute anything with just function calls.  i think that’s pretty
+  remarkable, too.
+turing’s machine formalism was designed to be understandable
+  as a physical machine.  turing was particular that his machine could
+  be realized as a mechanical object or electronically.  it is far
+  less clear how to make a lambda calculus into a physical machine.
+  once we recognize that β can be realized as a
+  subroutine in software, we can see that church’s lambda calculus
+  formalism can be understable as a virtual machine.
+church’s calculi of lambda conversion is a cool book
+  where he lays out the principals of lambda calculus.  it is pretty
+  accessible if you have experience in lisp, and the examples in the
+  book will run in a scheme interpreter if you translate them.
+
+joe marshall — substitution vs. state transition
+@2025-01-06 23:18 · 43 days ago
+
+with a traditional curly-brace language, you have a model of a
+  machine.  a program specifies a sequence of state transitions that
+  the machine should go through.  when all the state transitions have
+  taken place, the machine is in a final state, and the program is
+  done.
+as a programmer, you have to keep a mental model of the state of
+  the machine at various points in the program.  your mental model has
+  to include a temporal element — you have to remember what
+  instruction you are working on, and what comes next.  for each
+  instruction, you have to consider the state before and after
+  executing the instruction.
+lisp is very different from this.  a lisp program isn't a series of
+  instructions, it is a tree of symbols.  if you don’t use side
+  effects, you can think of the lisp interpreter as a simple
+  substitution engine that operates on this tree.  the interpreter
+  just substitutes symbols with their values.  you don’t have to
+  consider any state before and after substitution because
+  substitution doesn’t change anything.
+even if you do use side effects, you can still think of
+  the interpreter as a substitution engine, but the substitution
+  algorithm is more complicated.  you will need a mental model that
+  includes state and a temporal component, but it is still basically a
+  substitution model.
+substitution models are easier to reason about than state
+  transition models.  this is why lisp is so powerful.  it takes a
+  little practice to get used to programming with a simple
+  substitution model.  that’s why lisp has a learning curve,
+  especially for people who expect, and are used to, a state
+  transition model.
+you can also reason about a lisp program using a state
+  transition model.  you can switch between the two models and use
+  whatever mental model is most appropriate for the problem at
+  hand.
+you can impose a substitution model on curly-brace language, but it
+  is more difficult.  curly-brace languages are designed to make you
+  think about state transitions — indeed, many such languages
+  force you to use a state transition to accomplish even the most
+  simple conditionals and iterations — and the language
+  doesn’t make it easy to ignore them and focus on the final
+  value.
+if lisp is your first computer language, you learn the simple
+  substitution model first.  you’ll eventually have to learn
+  about state transitions because they are needed to explain side
+  effects.  but you’ll mostly want to write programs that you
+  can reason about using a substitution model.  if you learn a
+  curly-brace language first, you’ll have to think beyond the
+  state transition model you have been taught and are using to reason
+  about programs.
+many people find it difficult to learn how to reason with a new
+  model.  after all, the old model should work — it is
+  universal.  “just assign the variable, don’t make me jump
+  through hoops.”  people who have a hard time wrapping their heads
+  around substitution will probably find lisp confusing and
+  frustrating.  but some people are able to embrace the substitution
+  model and learn how it relates to the state transition model.  these
+  people will find lisp to be a mind-expanding, powerful, expressive
+  language.
+
+zach beane — ocr from common lisp
+@2025-01-06 13:19 · 43 days ago
+
+neat use of cl for ocr by nick faro. it leverages ffi and run-program nicely to get the job done.i think run-program or equivalent is amazingly handy at getting quick cl access to outside functionality.i ran a busy website that used imagemagick a lot, but i never bothered to use ffi. i called “convert” and friends via run-program, and it had the advantage that incorrect use of the c api never crashed my cl session.run-program is not particularly fast, but for my application (and many others) it can be fast enough.
+
+joe marshall — github glitch bites hard (and update)
+@2025-01-05 17:38 · 44 days ago
+
+update:  possible rogue process
+github reports that the call that removed the users was not the copilot api
+  but rather a call to the org membership api made by one of our bots.
+we have a cron job that runs daily and keeps github in sync with our internal databases.
+  when github and our internal databases disagree, the cron job makes api calls to
+  reconcile the difference.  it has the ability to remove users if it think they are
+  no longer supposed to be members of the org.
+it seems to have erroneously removed a large number of members.  it was purely
+  coincidence that i was editing copilot licenses at or around the time.
+the question now is why?  my hypothesis is that a query to our internal database only produced a partial result.
+  the number of people determined to be valid users was far fewer than it should have been, and the
+  cron job acted (correctly) and removed the users that were not verified by the database query.  but it is hard to say for sure.
+  i’ll need to check the cron job logs to see if i can determine what went wrong.  it is very unusual, though.
+  i’ve been here for years and i’ve never seen the cron job glitch out before.  this is my working
+  hypothesis for the moment.  perhaps it was some other error that made it think that the membership was greatly reduced.
+
+i got bit hard by a github bug last week.
+now github has “organizations” which are owners of
+  groups of repositories.  github carefully handles organization
+  membership.  you cannot directly join an organization, you must be
+  invited by the organization.  this gives the organization control
+  over who can join the organization.  but an organization also cannot
+  directly add you as a member.  it can invite you to join, but you
+  must choose to accept the invitation. this gives you control over
+  which organizations you are associated with.  membership in an
+  organization is jointly controlled by the organization and the
+  member.  there is no way to bypass this.
+this is source of friction in the onboarding process in our
+  company.  we have a few repositories on github that are owned by the
+  company.  when a new hire joins the company, we want to make them
+  members of the organization.  github does not provide any way to
+  automate this.  instead, we direct new hires to an internal web site
+  that will authenticate and authorize them and then let them issue an
+  invitation to join the organization.  github won’t give them
+  access until they accept the invitation.  this is a manual process
+  that is error prone and places the burden of doing it correctly on
+  the new hire.  we often have to intervene and walk them through the process.
+keep this in mind.
+our company provides github copilot to our developers.  some
+  developers like it, but many of our developers choose not to use it.
+  while copilot licenses are cheap, there is no point in paying for a
+  license that is not used.  the ui for github copilot will display
+  the last time a person used copilot.  it is easy to see a small set
+  of our users who have never logged on to copilot.  we decided to
+  save a few bucks by revoking unused copilot licenses.  we reasoned
+  that we could always turn it back on for them if they wanted to use it.
+to test this out, i selected a few of the users who had never
+  logged in to copilot.  i turned off the checkbox next to their names
+  in the copilot ui and clicked the save button.  it appeared to
+  work.
+within an hour i started getting complaints.  people who claimed to
+  be active copilot users were getting messages that their copilot
+  access was revoked.  it seems that the ui had listed several active
+  users as “never logged in” and i had just revoked their access.
+it got worse.  i had only revoked a few licenses, but dozens of
+  people had had their access revoked.  it seems that github had
+  eagerly revoked the licenses of far more people than i had
+  selected.
+it got even worse.  i have a list of everyone who should have
+  access, so i know who to re-enable.  but i cannot re-enable them.
+  it seems that in addition to revoking their copilot access, github
+  had taken the extra step of removing their membership in the
+  organization.  i cannot restore their membership because of the way
+  github handles organization membership, so until they visit our
+  internal web site and re-issue the invitation to the organization, i
+  cannot restore their copilot access.  this has been a monumental
+  headache.
+i’ve spent the week trying to explain to people why their copilot
+  access and organization membership was revoked, what steps they need
+  to take to restore it, and why i cannot restore it for them.
+it looks like i’m going to be spending a lot of time on this next
+  week as well.
+
+github has an enterprize offering that allows you to automate
+  account creation and organization membership.  we've been
+  considering this for a while.  unfortunately, you cannot mix legacy
+  accounts with enterprize accounts, so we would have to atomically
+  migrate the entire company and all the accounts to the enterprize
+  offering.  this would be a risky endeavor for only a little gain in
+  convenience.
+
+joe marshall — fold-&hellip; and monoids
+@2025-01-05 02:00 · 45 days ago
+
+suppose you satisfy these axioms:
+you have a binary function · and a set that · is closed
+  over (i.e. for all x, y in the
+set, x·y is in the set)
+· is associative, ((a · b) · c) = (a · (b · c))
+there is an an identity element i: a · i = i · a =
+  a
+then · is called a semigroup or “monoid”.
+monoids come from abstract algebra, but they are ubiquitous in
+  computer science.  here are some monoids:  string-append over
+  strings, addition over integers, state transition over machine
+  states, compose over unary functions.
+alternatively, we can define a monoid as a binary function · that
+  is closed under folds fold-left or fold-right.
+  that is, (fold-left #’· i list-of-set-elements) is an
+  element of the set.  folds abstract the processing lists of set
+  elements.  the walk through the list, the end test, and the
+  accumulation of the result are all taken care of by the
+  implementation of fold.  you get to focus on the monoid that acts
+  on each element.
+folds come in two flavors: fold-left
+  and fold-right.  fold-left has an obvious
+  iterative implementation, but the result is accumulated left to
+  right, which can come out backwards.  fold-right has an
+  obvious recursive implementation which accumulates right to left,
+  the result comes out in the right order, but the recursion can
+  cause problems if the stack space is limited.
+here are some stupid tricks you can do with folds and monoids.
+create n-ary functions
+if we curry the call to fold, we extend the binary function of two
+  arguments to an n-ary function of a list of arguments.  for example,
+  n-ary addition is just a fold over binary
+  addition.  (fold-left #’+ 0 list-of-integers).
+  likewise, n-ary compose is just a fold over
+  binary compose.
+fold-… is self documenting
+if i haven’t used fold-left or fold-right
+  in a while, i sometimes forget which one computes what.
+  but fold-left and fold-right can document
+  themselves:  use a combining function that returns the list (f a
+    b) to indicate a call to f:
+> (fold-left (lambda (a b) (list ’f a b)) ’|...| ’(c b a))
+(f (f (f |...| c) b) a)
+
+> (fold-right (lambda (a b) (list ’f a b)) ’(a b c) ’|...|)
+(f a (f b (f c |...|)))
+you can see the structure of the recursion by
+  using list as the combining function:
+> (fold-left #’list ’|...| ’(c b a))
+(((|...| c) b) a)
+
+> (fold-right #’list ’(a b c) ’|...|)
+(a (b (c |...|)))
+fold-… works on groups
+a group is a special case of a monoid where the combining function
+  is also invertible.  fold-… can be used on a
+  group as well.  for example, fold-left can be used on
+  linear fractional transformations, which are a group under function
+  composition.
+fold-… as an accumulator
+the combining function in fold-left must be at least
+  semi-closed:  the output type is the same as the type of the left
+  input. (in fold-right, the output type is the same as
+  the type of the right input.)  this is so we can use the output of
+  the prior call as the input to the next call.  in effect, we set up
+  a feedback loop between the output to one of the inputs of the
+  binary function.  this feedback loop has a curious property:  it
+  behaves as if it has state.  this is happens even
+  though both fold-… and the combining functions are pure
+  functions.  the state appears to arise from the feedback loop.
+we can use fold-… to accumulate a value.
+  for fold-left, at each iteration, the accumulator is
+  passed as the first (left) argument to the combining function while
+  the next element of the list is the second (right) argument.  the combining function returns a new
+  value for the accumulator (it can return the old value if nothing is to be
+  accumulated on this step).  the result of the fold-left
+  is the final value of the accumulator.
+note that because the accumulated value is passed as the first
+  argument, you cannot use cons as the combining function
+  to accumulate a list.  this is unfortunate because it seems obvious
+  to write (fold-left #’cons ’() ...) to accumulate a
+  list, but that isn’t how it works.  however, if you swap the
+  arguments to cons you’ll accumulate a list:
+(defun xcons (cdr car) (cons car cdr))
+
+(defun revappend (elements base)
+  (fold-left #’xcons base elements))
+fold-… as a state machine
+although fold-left is commonly used to accumulate
+  results, it is more general than that.  we can
+  use fold-left as a driver for a state machine.  the second
+  argument to fold-left is the initial state, and the
+  combining function is the state transition function.  the list
+  argument provides a single input to the state machine on each state
+  transition.
+for example, suppose you have a data structure that is a made out
+  of nested plists.  you want to navigate down through the plists to
+  reach a final leaf value.  we set up a state machine where the
+  state is the location in the nested plists and the state transition
+  is navigation to a deeper plist.
+(defun getf* (nested-plists path)
+  (fold-left #’getf nested-plists path))
+alternatively, we could drive a state machine by
+  calling fold-left with an initial state and list of
+  state transtion functions:
+(defun run-state-machine (initial-state transitions)
+  (fold-left (lambda (state transition)
+               (funcall transition state))
+             initial-state
+             transitions))
+visualizing fold-left
+if we unroll the recursion in fold-left, and introduce
+  a temp variable to hold the intermediate result, we see the
+  following:
+(fold-left f init ’(c b a))
+
+temp ← init
+temp ← f(temp, c)
+temp ← f(temp, b)  
+temp ← f(temp, a)
+i often find it easier to write the combining function in
+  a fold-… by visualizing a chain of combining
+  functions wired together like this.
+generating pipelines
+now let’s partially apply f to its right argument.  we do this by
+  currying f and immediately supplying an argument:
+(defun curry-left (f)
+  (lambda (l)
+    (lambda (r)
+      (funcall f l r))))
+
+(defun curry-right (f)
+  (lambda (r)
+    (lambda (l)
+      (funcall f l r))))
+
+(defun partially-apply-left (f l)
+  (funcall (curry-left f) l))
+
+(defun partially-apply-right (f r)
+  (funcall (curry-right f) r))
+
+we can partially apply the combining function to the elements in
+  the list.  this gives us a list of one argument functions.  in fact,
+  for each set element in the set associated with our monoid, we can
+  associate a one-argument function.  we can draw from this set of
+  one-argument functions to create pipelines through function
+  composition.  so our visualization
+temp ← init
+temp ← f(temp, c)
+temp ← f(temp, b)  
+temp ← f(temp, a)
+becomes
+temp ← init
+temp ← fc(temp)
+temp ← fb(temp)  
+temp ← fa(temp)
+we can write this pipeline this way:
+result ← fa ← fb ← fc ← init
+or this way:
+result ← (compose fa fb fc) ← init
+we can pretend that the elements of the set associated with monoid
+  are pipeline stages.  we can treat lists of set elements as
+  though they are pipelines.
+notice how we never write a loop.  we don’t have the
+  typical list loop boilerplate
+(if (null list)
+         ... base case ...
+  (let ((element (car list))
+        (tail (cdr list)))
+    ... ad hoc per element code ...
+    (iter tail)))
+instead, we have a function that processes one element at a time
+  and we “lift” that function up to process lists of
+  elements.
+pipelines are easier to reason about than loops.  fold-… converts loops into pipelines.
+it takes a little practice to use fold-… in the less obvious ways.
+  once you get used to it, you’ll see them everywhere.  you can eliminate many loops by replacing them with fold-….
+  
+monoids vs. monads
+a monad is a monoid over a set of curried functions.  you use a variant of compose to combine the curried functions.  monads force sequential processing because you set up a pipeline and the earlier stages of the pipeline naturally must run first.  that is why monads are used in lazy languages to embed imperative subroutines.
+
+zach beane — toilet lisp
+@2025-01-04 17:36 · 45 days ago
+
+this seems like an interesting old incomplete project - toilet lisp with some old source code too.
+
+joe marshall — a newbie is exposed to common lisp
+@2025-01-04 16:08 · 45 days ago
+
+at changesafe our product was written in common lisp.  but for
+  "black box" testing, we didn't need the test code to be written in
+  common lisp.  in fact, we wanted the test code to be written in an
+  unrelated language so that we could be sure that the product's api
+  was language neutral.
+skill in common lisp was simply not a requirement — not even
+  relevant — for qa jobs.  we were a startup company, so the
+  initial hires for qa would set the culture for the department.  we
+  were looking for people who had initiative, were self-motivated,
+  could work with vague and underspecified guidance, figure out the
+  job that needed to be done, and then do it.  we found a young guy
+  named eric who fit the bill.
+eric set up our qa efforts and wrote the initial black box test
+  code for the product.  in his spare time, off the clock, he got
+  curious about common lisp and why we chose to develop the product
+  using it.  he had never heard of the language.  he decided to pick
+  up the common lisp specification and teach himself the language.  i
+  told him that it was unnecessary for the job, but i didn't
+  discourage him from broadening his horizons.
+eric came to me early on and asked me to explain some details about
+  common lisp.  he had just learned about lambda
+  expressions and was trying them out with mapcar and
+  other higher-order functions.  it
+  was obvious to him that a lambda expression was
+  capturing the local stack variables.  when the lambda
+  was passed downwards to mapcar, it was able to access
+  the variables from its point of origin further up the stack.  he
+  could see the potential, and  thought it was an interesting feature.
+then, just to see what would happen, he returned
+  a lambda expression up the stack.  to his suprise, it
+  still worked, even though the stack frame was no longer there.  he
+  had three questions for me the next day:  was this intentional?  how
+  did it work?  and why would anyone do this?
+i assured him that it was intentional.  the feature worked by the
+  compiler generating code to move the captured variables off of the
+  stack and into the heap.  the designers of lisp
+  wanted lambda expressions to “just work”,
+  regardless of how you passed them around.  the correct engineering
+  decision — the “right thing” — was to place
+  the burden of making this happen on the language implementor, not
+  on the user of lambda expressions.
+i told him that the reason we used common lisp was because the
+  designers of the language placed a high value on doing thing
+  “the right way”.  things were carefully designed to be
+  easy to use and to work correctly, even in the corner cases.  it was
+  recognized that this would make it more difficult to implement the
+  language, but a lot easier to program in it.
+eric was, quite frankly, impressed by this.  it was clear to him
+  that the designers of lisp were in a league of their own.  he
+  couldn't wait to learn more about the language.
+incidentaly, eric wasn't the least bit put off by the paretheses.
+  he considered them to be a quirk that was ideomatic of the language.
+  some languages use infix notation, some calculators use postfix.
+  lisp happened to use prefix notation.  it was no big deal.
+eric was a great hire and had the potential to go far had the
+  company not gone under when the internet bubble burst.
+
+joe marshall — dvorak and lisp
+@2025-01-04 00:35 · 46 days ago
+
+i use a slightly modified dvorak keyboard.  it is like a standard dvorak keyboard, but the parentheses 
+  have been relocated to be unshifted keys.i don't believe dvorak is any faster than qwerty, but it feels more comfortable to me, and the unshifted parens make lisp a lot easier to type.except for the word lambda.  the m, b, and d, are all right index finger.alas.
+
+joe marshall — rebol 1.0 was slow
+@2025-01-03 23:55 · 46 days ago
+
+rebol 1.0 was slow.  i paid little attention to speed in the
+  implementation — i was concerned with correctness.  the
+  intepreter was intended to be a reference implementation, with
+  well-defined behavior on every edge case.  my intent was to add
+  a compiler at a later date.
+once source of slowness was the liberal use of first-class
+  continuations in the interpreter.  rebol 1.0 used a “cheney on the
+  mta” interpretation strategy, where no function ever returned a
+  value and the stack simply got deeper and deeper.  when the stack
+  overflowed, a stack garbage collection was triggered.  since most of
+  the stack was garbage, this was a fast operation (i used a garbage
+  collector that used time proportional to live storage).  with such
+  an implementation, first-class continuations were trivial to
+  implement — all continuations were first-class, it
+  was just a question of whether you surfaced them to the user.  i
+  didn’t have an ideological belief either way, but there they were,
+  so why not?  many control flow constructs that would otherwise
+  require an ad hoc implementation can be easily implemented
+  with first-class continuations.
+rebol had return statements that would return control to the caller
+  from within the function.  99% of the time, the caller is sitting on
+  the stack just above the current frame.  but 1% of the time, the
+  user would do something weird like create a lexical closure over the
+  return statement and pass it downward.  like as not he
+  didn’t deliberately do this, but rather used some library that was
+  implemented in continuation-passing style.  if this happened,
+  the return statement might have to unwind an arbitrary
+  amount of stack.  to implement this, i captured the current
+  continuation at the entry of each function and bound it to the
+  implicit “return” variable.
+  invoking return invoked the continuation and returned
+  control to the caller.
+  the advantage of doing it this way was that return
+  statements had the correct semantics under all circumstances.  there
+  were no special rules governing use of return and no
+  code had to have special cases for unexpected returns.
+a similar thing happened in the implementation of break and
+  continue in loops.  these were implemented by capturing the
+  continuation at the entry of the loop and binding it to the implicit
+  break variable, and capturing the continuation on each
+  iteration and binding it to the implicit continue
+  variable.  because these were first-class continuations, they could
+  be used to restart the loop after it exited.  that wasn’t a
+  requirement.  i was perfectly happy to stipulate
+  that break and continue only work while a
+  loop is in progress, but in rebol 1.0, they’d continue to work after
+  the loop finished.
+worrying about continuations captured in lexical closures may seem
+  weird, but it’s a real issue.  it is common to introduce implicit
+  lexical contours in a program:  even a let expression does it.  you
+  would like to be able to use break
+  and continue in the body of a let expression in a
+  loop.  some rebol constructs were implemented by implicitly
+  macroexpanding the code into a call to a helper
+  function.  break and continue would work
+  across function call boundaries, so there were no limitations on
+  introducing helper functions within a loop.
+a more traditional language has a handful of ad
+  hoc iteration constructs that are implemented with special
+  purpose code.  the special purpose code knows it is a loop and can
+  be optimized for this.  break and continue
+  statements have a special dependency on the enclosing loop.
+rebol 1.0 was properly tail recursive, so there was no special
+  implementation of loops.  they were ordinary functions that happened
+  to call themselves.  non-standard iteration constructs could be
+  created by the user by simply writing code that called itself.
+  break and continue
+  just surfaced the interpreter’s continuation to the user.  as a
+  consequence, loops in rebol 1.0 were implemented completely in rebol
+  code but had signifcant interpreter overhead.
+rebol 2.0 and later are not properly tail recusive.  as a consequence,
+  special looping constructs are required to be written in c to support
+  iteration.  common iteration constucts such as for
+  and while are provided and do not have interpreter
+  overhead, but if you want a non-standard iteration construct,
+  there is no way to achieve it.  you have to re-write your code to
+  use one of the built-in iteration constructs or go without and risk
+  blowing the stack.
+my intent was to eventually write a compiler for rebol.  i wrote a
+  prototype called sherman that compiled to mit-scheme and was
+  supported by the mit-scheme runtime library.  loops compiled with
+  sherman ran quickly as expected.
+
+joe marshall — github copilot revisited
+@2025-01-02 18:03 · 47 days ago
+
+it’s been a year since i wrote a review of github copilot.  a
+  reader asked me to write an update.  he wanted to know what i
+  thought of the apparent negative effects of copilot on the quality
+  of code in several codebases.
+github copilot acts as an autocomplete tool.  suggested completions
+  appear in the editor as you enter code.  you can accept the
+  suggestion or ignore it.  but your frame of mind informs how you
+  decide whether to accept or ignore a suggestion.  here are a few of
+  the ways you can interact with github copilot.
+the stackoverflow mode.  on the stackoveflow web site, you’ll find
+  questions about coding and answers that often contain sample code.
+  as an engineer, you craft the solution to your specific problem by
+  adapting some of the sample code to your specific needs.  the
+  problem with stackoverflow is that the quality of the answers varies
+  widely.  some answers come with some well written and well tested
+  sample code.  other times you’ll find that someone posts a code
+  snippet that they didn’t even attempt to run.  sometimes the code in
+  the answer is just plain wrong.  you have to draw on your
+  engineering skills to carefully evaluate and adapt the code you find
+  on stackoverflow.
+in stackoverflow mode, you pretend that github copilot is a
+  stackoverflow search engine.  you prompt copilot to generate
+  snippets of code.  you evaluate the generated code as though it were
+  taken from a stackoverflow answer.  the code may be fairly well
+  written and work as is, it might be completely wrong, or it might be
+  somewhere inbetween.  you have to be be prepared to evaluate the
+  code critically.  you may need to tweak the code to make it work in
+  your specific context.  there may be subtle bugs you need to watch
+  for.
+the autocomplete mode.  when using copilot in this mode, you treat
+  copilot as an autocomplete tool.  as you type your program, copilot
+  will attempt to complete the snippet you are typing.  the best way
+  to interact with copilot in this mode is to ignore most of the
+  suggested completions and only accept the ones that are obviously
+  right.  often copilot suggests exactly what you were going to type
+  anyway.  accept those suggestions.  you don’t want to spend the time
+  and intellectual energy evaluating and adapting suggested code in
+  this mode.  you just to want to get your code written quickly.
+  accept the code that saves you typing and reject everything
+  else.
+code generation mode.  copilot is pretty good at discovering
+  repeated patterns in your code.  in code generation mode, you craft
+  some prompt code attempting to induce copilot to generate templated
+  output.  typically writing out one or two examples of a repeating
+  pattern of code is sufficient for copilot to get the gist of what
+  you are doing and have it automatically generate the next few
+  repetitions.
+each of these modes of interacting with github copilot requires
+  different amounts of attention and focus, and applying your
+  attention and focus to different areas.  to get the most out of
+  copilot, you need to be able to switch your attention and focus
+  between the interaction modes.  the better you can do this, the more
+  you will get out of copilot.  it takes practice.
+copilot produces mediocre code.  it’s not imaginative, it doesn’t
+  have the big picture.  it writes the same code that j. random
+  neckbeard would write.  mr. neckbeard will hack out servicable
+  solutions, but won’t craft elegant ones.  if you let copilot take
+  over writing large sections of code, you’ll end up with a pile of
+  bad code.  it may run, but it will be hard to read, understand, and
+  maintain.  you have to assert yourself and not let copilot take
+  control.
+when you use copilot, you have to be the boss.  it’s too easy to be
+  lazy and accept suggestons that copilot makes because although they
+  aren’t great, and they aren’t what you would have written, they are
+  adequate.  do this enough and the resulting code won’t be great, but
+  instead barely adequate.  resist the temptation to be lazy and
+  reject suggestions that aren’t what you want.
+i’ve been using copilot for over a year now.  i’ve used it in anger
+  on a medium sized go project.  it turns out that if you point copilot
+  at a text file or html file, it will generate prose as well as
+  source code.  as you write, copilot will try to finish your
+  sentences.  if you let it do this too much, you’ll end up sounding
+  like a section of a wikipedia article.  it is best to already have
+  some text in mind and let copilot try to guess what it is.  reject
+  the suggestion when it guesses wrong.  this way you can use copilot to
+  save you typing, but you sound like yourself.   copilot does
+  however, occasionally suggest continuations that raise points you
+  hadn’t addressed.  the suggestion may be a bit of a non-sequitur at
+  the point where it is made, but i’ve found that copilot can remind
+  me of things i’ve forgotten to mention.
+copilot is not a pair programmer.  it is a complex program
+  generation model with a front-end that appears to have a deceptively
+  shallow learning curve.  there are several different ways to
+  effectively use copilot, but they all present themselves as
+  autocomplete.  it takes time and practive to learn the different
+  effective ways to use copilot and to switch between them as you
+  program.
+if you are j. random neckbeard, copilot will help you become much
+  more prolific without a lot of effort.  but if your standards are
+  higher, you’ll have to  work harder to get the most out of copilot,
+  and you’ll find yourself rejecting it more.  be prepared to put a
+  few months of effort into practicing the different ways to use
+  copilot.  like any complex tool, it takes time to get good at using
+  it.
+can you trust copilot?  can you trust an engineer who uses copilot?
+  ask yourself, do you trust stackoverflow?  do you trust an engineer
+  who uses stackoverflow?  do you trust your engineers?  copilot may
+  be the ultimate source of buggy code, but the engineer is
+  responsible.
+many codebases have reported a decrease in quality since copilot
+  has come on the scene.  i think it is reasonable to discourage its
+  use in these codebases.  but i don’t think copilot makes programmers
+  worse.  it makes lazy programmers more prolific, which is probably
+  not what you want.  if you are a good programmer, copilot can be a
+  useful tool in your toolbox.  if you are careful to not let copilot
+  write too much of your code, you can save time without your code
+  suffering.
+
+joe marshall — scheme interpreter: conclusions
+@2025-01-02 10:22 · 47 days ago
+
+this experiment with writing an mit-scheme s-code interpreter in c#
+  was successful in these ways:
+it showed that the s-code interpreter is an independent
+    component of the scheme system.  the interpreter substrate can be
+    replaced with a new implementation, written in a different
+    language, using a different evaluation strategy, without replacing
+    the scheme runtime system written in scheme.
+it showed that the s-code interpreter can, on small segments of
+  code, perform as fast as compiled code.  however, growing the size
+  of these small segment causes an exponential increase in the number
+  of interpreter specializations.  the obvious solution of
+  automatically generating interpreter specializations on demand is
+    the equivalent of jit compilation.
+it validated the idea that the lexical environment can be
+  represented as a flattened vector of values.  mutable variables can
+  be implemented by cell conversion.  variable values are copied from
+  outer scopes to inner scopes when closures are created.  the
+  semantics of such an implementation is equivalent to the semantics
+    of a nested series of frames as used in mit-cscheme.
+it showed that you can implement tail recursion via trampolines
+  at each call site, and that you can implement first-class
+  continuations by testing for a magic return value after the return
+  of each trampoline.  we don’t use the c# exception handling
+  mechanism to unwind the stack when implementing first-class
+  continuations, just a conditional branch and a normal return.  this
+    is far less complicated and expensive.
+it was a failure in these ways:
+although it showed one way in which we could take incremental
+    steps to increase the speed of the interpreter until it approached
+    the speed of compiled code, each step resulted in an exponential
+    increase in the number of specializations in the interpreter and
+    had diminishing returns.
+the ultimate outcome of this process would be an interpreter
+  with thousands of specializations.  small scheme programs could be
+  completely represented by a single specialization, and they would be
+  interpreted as fast as compiled code.  but this is because the
+  specialization is eessentially a compiled version of the scheme
+  program.  in other words, we ultimately will have an interpreter
+  that “optimizes” by looking up a program in a huge table that maps
+  small programs to their precomputed compiled bodies.  this is just
+    an unusual and inefficient way to implement a compiler.
+because c# offers no way to dump a the heap in binary format, we
+    must cold load the system each time we start it.
+one of the tasks in the cold load is to initialize the unicode
+  tables.  these are big tables that take a long time to
+    initialize.
+it took an annoyingly long time to get to scheme’s initial
+    top-level prompt.
+debugging crashes in the scheme system was annoying and slow
+  because we have to cold load the scheme system to reproduce
+    bugs.
+i have understated a large component of the work:  providing a
+  new c# implementation for each of the hundreds of primitives in the
+  scheme runtime.  i only bothered to implement those primitives
+  called as part of the cold lood boot sequence, but still there were
+  a lot of them.  for many of these primitives, the c# implementation
+  just achieved the same effect “in spirit” as the
+  mit-cscheme implementation.  these were easy to implement.  but some
+  were more persnickety where it was vital that the c# implementation
+  produced exactly the same bits as the mit-cscheme implementation.
+  for instance, the code used to hash the types for generic method
+  dispatch had to produce the exact same hash values in both
+  implementations.  this is because there is code that depends on the
+  hashed multimethod ending up at a precomputed location in a method
+    cache.
+the c# interpreter was complete enough to boot a scheme cold
+  load and run it to the top-level prompt.  it could run the top-level
+  repl.  but much was missing.  it could not host the sf program,
+  which generates the s-code for the scheme runtime.  you’d have to
+    run an original instance of mit-cscheme to generate the s-code
+    that you would then run in the c# interpreter.
+i think the next lisp system i will try should be based around a
+  simple, portable jit compiler.
+
+joe marshall — calling conventions in the interpreter
+@2025-01-02 02:41 · 48 days ago
+
+c# is not tail recursive.  it could be.  the il that it compiles to
+  supports tail recursion, but the c# compiler doesn’t generate the
+  tail call instruction.  it would be a simple thing to add:  when the
+  compiler emits a call instruction, it could check if the next
+  instruction is a return, and if so, emit a tail call instruction.
+  this could be controlled by a compiler flag so only us weirdos who
+  want this feature would enable it.
+but until the c# compiler adds this feature, we have to resort to
+  other methods.  i chose to use a trampoline at each call site.  this
+  is a small segment of code that awaits the result of the function
+  call.  if the callee wants to tail call, it returns the tail call
+  target to the caller, which performs the call on the callee’s behalf.
+  this requires a modification to the calling conventions.
+evalstep is the virtual method that all s-code objects
+  implement to perform an evaluation.  its signature is this:
+
+abstract class control : schemeobject
+{
+     public abstract tailrecursionflag evalstep (out object answer, 
+                                                 ref control expression, 
+                                                 ref environment environment);
+}
+the result of the evaluation is returned in the answer
+  parameter.  this is an out parameter, so the answer is
+  allocated in the caller and a pointer to it is passed to the callee.
+  the callee returns the answer by modifying it in the callers
+  stack frame.
+the expression and environment parameters
+  are the expected parameters for a call to eval.  they,
+  too, are allocated in the caller’s frame and references to them are
+  passed to the callee.  the callee is allowed to modify the caller’s
+  values of these variables.
+the returned value is a tailrecursionflag.  this is
+  either 1, indicating that a value has been returned in the answer,
+  or 0, indicating that the caller should perform
+  another evalstep.  to return a value, the callee
+  modifies the answer.  to perform a tail call, the callee
+  modifies the expression and environment
+  references and returns 0.
+any caller must call evalstep as follows:  the caller
+  allocates an answer variable to receive the answer of
+  the call.  it also allocates an expression,
+  and environment variable to pass to the callee.  it
+  then calls evalstep in a loop until the callee returns
+  a tailrecursionflag of 1, indicating that
+  the answer has been set to the return value.
+in the evalstep for an s-code conditional
+  we see an example of the calling convention:
+
+  object ev;
+  control unev = predicate;
+  environment env = environment;
+
+  while (unev.evalstep (out ev, ref unev, ref env) == tailrecursionflag.tailcall) { };
+
+we are making a recursive call to evaluate
+  the predicate.  we set up ev to receive
+  the result of the evaluation.  we set up unev
+  and env to hold the expression and environment to pass
+  to evalstep.  unev.evalstep does the eval
+  dispatch via virtual function dispatch.
+if the predicate returns a tailrecursionflag
+  of returnvalue, the loop will exit.  the predicate is
+  assumed to have put the return value in the ev
+  variable.
+if the predicate wants to tail call, it will modify the values
+  of unev and env to the new expression and
+  new environment, and return a tailrecursionflag
+  of tailcall.  the loop will iterate, using the new
+  value of unev and env to again dispatch a
+  call to evalstep.
+when the while loop exits, the ev
+  variable will contain the return value of the predicate.  control
+  may be returned to the while loop several times before
+  the loop exits.  this is the trampoline in action.
+conditional expressions don’t return a value.  they either tail call
+  the consequent or the alternative.  the evalstep for a
+  conditional ends like this:
+
+  answer = null;
+  expression = (ev is bool evb && evb == false) ? alternative :
+  return tailrecursionflag.tailcall;
+}
+the answer variable in the caller is set to null.
+  out parameters must always be assigned to before the
+  function exits, so this just keeps the compiler happy.  if the
+  return value of calling evalstep on the predicate is
+  the boolean false, we set the expression in the caller
+  to the alternative, otherwise the consequent.  this is the target of
+  our tail call to evalstep.  for the scode for a
+  conditional, we leave the environment alone — the
+  tail call uses the same environment unchanged.  we finally
+  return tailrecursionflag.tailcall so that the caller’s
+  trampoline makes another iteration around its while.
+  it will call evalstep on the alternative or consequent
+  that we stuffed in the caller’s expression.
+this little song and dance is performed at every recursive call
+  to evalstep making evalstep behave as a
+  tail-recursive function.  this calling convention is about half the
+  speed of a normal c# method call.  it is the cost of using a
+  trampoline for tail recursion.
+first class continuations
+there is one more obscure reason that the control might return to
+  us when evaluating the predicate.  if some function further down the
+  call chain invokes call-with-current-continuation, we
+  need to copy the stack.  the callee indicates this by returning a
+  magic return value of special.unwindstack.  the callee
+  sets the caller’s environment to
+  an unwinderstate that will accumulate the stack frames
+  as we unwind the stack.  so our calling convention says we need to
+  check the return value of evalstep, and if it
+  is special.unwindstack, we allocate
+  a conditionalframe on the heap that will contain the
+  state of the current stack frame.  we addframe to
+  the unwinderstate.  we propagate this up the stack by
+  putting it in the caller’s environment, setting the
+  caller’s value of answer
+  to special.unwindstack and
+  returning tailrecursionflag.returnvalue to stop the
+  caller’s trampoline loop.
+the full code of evalstep for an
+  s-code if expression is this:
+
+ public override tailrecursionflag evalstep (out object answer, 
+                                             ref control expression,
+                                             ref environment environment)
+{
+    object ev;
+    control unev = predicate;
+    environment env = environment;
+
+    // tail recursion trampoline.
+    while (unev.evalstep (out ev, ref unev, ref env) == tailrecursionflag.tailcall) { };
+    // support for first class continuations.
+    if (ev == special.unwindstack)
+    {
+        ((unwinderstate) env).addframe (new conditionalframe (this, environment));
+        environment = env;
+        answer = special.unwindstack;
+
+        return tailrecursionflag.returnvalue;
+    }
+
+    // tail call evalstep on the consequent or alternative.
+    answer = null;
+    expression = (ev is bool evb && evb == false) ? alternative : consequent;
+    return tailrecursionflag.tailcall;
+}
+
+first class continuations allow you unload and reload the pending
+  call chain.  we see that at each call site, we must check the return
+  value and, if it is special.unwindstack, we create a
+  new frame on the heap and add it to the unwinder state
+  befor we propagate the special.unwindstack up the call
+  chain.
+at the very top of the call chain, we have the outermost call
+  to evalstep.  if the special.unwindstack
+  value is returned to this call, the stack has been unwound and the
+  unwinderstate is sitting in the environment variable.
+  we need to rewind the stack and put the stack frames back on the
+  stack.  we create a rewindstate from
+  the unwinderstate.  each time we popframe
+  from the rewindstate, we get a deeper frame.  we reload
+  the stack by getting the outermost frame from
+  the rewindstate and calling evalstep on
+  it.  the evalstep for a frame sets up the
+  trampoline loop, calls popframe to get the next frame,
+  and calls evalstep on it.  when we run out of stack
+  frames to reload, the stack is reloaded and we return control the
+  innermost frame so it can continue where it left off.  this is the
+  rewind loop.
+the evalstep for a frame, after making
+  the recursive call to evalstep on the next frame,
+  continues with code that is a duplicate of the code in the original
+  frame before the cotinuation was captured.  a specific example will
+  make this clear.  if an if expression is on the stack
+  when it is uwound, a conditionalframe is created.
+  a conditionalframe is a subclass
+  of subproblemframe which has this evalstep
+  method:
+
+public override tailrecursionflag evalstep (out object answer,
+                                            ref control expression,
+                                            ref environment environment)
+{
+    object temp;
+    control expr = ((rewindstate) environment).popframe ();
+    environment env = environment;
+    while (expr.evalstep (out temp, ref expr, ref env) == tailrecursionflag.tailcall) { };
+    if (temp == special.unwindstack)
+    {
+        ((unwinderstate) env).appendcontinuationframes (continuation);
+        environment = env;
+        answer = special.unwindstack;
+
+        return tailrecursionflag.returnvalue;
+    }
+    expression = this.expression;
+    environment = this.environment;
+    return continue (out answer, ref expression, ref environment, temp);
+}
+
+public abstract tailrecursionflag continue (out object answer,
+                                            ref control expression,
+                                            ref environment environment,
+                                            object value);
+that is, the evalstep of
+  the subproblemframe establishes a trampoline, pops the
+  next frame from the rewindstate, and invokes
+  its evalstep method.  when an answer is returned,
+  the subproblemframe calls its continue
+  method.
+the continue method is a virtual method that is
+  implemented by each subclass of subproblemframe.  it
+  finishes the work of the frame.  in the case of
+  a conditionalframe, the continue method is
+  this:
+
+public override tailrecursionflag continue (out object answer,
+                                            ref control expression,
+                                            ref environment environment,
+                                            object value)
+{
+    answer = null;
+    expression = value is bool bvalue && bvalue == false
+      ? scode.ensurescode (this.expression.alternative)
+      : scode.ensurescode (this.expression.consequent);
+    return tailrecursionflag.tailcall;
+}
+
+compare this to the code in the original conditional:
+
+    // tail call evalstep on the consequent or alternative.
+    answer = null;
+    expression = (ev is bool evb && evb == false) ? alternative : consequent;
+    return tailrecursionflag.tailcall;
+
+there are only superficial differences:  the continue
+  method gets the value returned by the predicate in an argument
+  rather than in a local variable.  it type checks the alternative and
+  consequent components of the if expression by
+  calling scode.ensurescode.  otherwise, the code does
+  the same thing.
+it is not possible to actually rewind the stack with the original
+  set of pending methods.  what we do instead is rewind the stack with
+  methods that do the same thing as the original pending methods.  it
+  is close enough.  the same values will be computed.
+there is one place you can see the difference.  if you look at the
+  stack trace in the debugger before you capture a continuation, you
+  will see the pending recursive calls to the
+  s-code evalstep methods.  if you look at the stack
+  trace in the debugger after you capture a continuation, you will
+  instead see pending calls to the evalstep methods of a
+  set of frames.  the pending frames are in the same order and have
+  names similar to the original pending methods.  they compute the
+  same values, too.  but the debugger can notice that these are not
+  the originals.
+
+joe marshall — more inlining
+@2025-01-01 23:17 · 48 days ago
+
+calls to (null? x) usually appear as the predicate to
+  a conditional.  we can specialize the conditional.  instead of
+[if
+  [primitive-null?-argument0]
+  [quote 69]
+  [quote 420]]
+we create a new s-code construct, if-null?-argument0, and
+  construct the conditional as
+[if-null?-argument0 
+  [quote 69]
+  [quote 420]]
+we avoid a recursive call and generating a ’t or ’nil
+  value and testing it, we just test for null and jump to the
+  appropriate branch, just like the compiled code would have done.
+multiple arguments
+we can further specialize the conditional based on the types of the
+  consequent and alternative.  in this case, they are both quoted
+  values, so we can specialize the conditional to
+  [if-null?-argument0-q-q 69 420].  (where the name of
+  the s-code type is derived from the type of the consequent and
+  alternative.)
+if-null?-argument0-q-q is an esoteric s-code type that
+  codes a test of the first argument for null, and if it is null,
+  returns the first quoted value, otherwise the second quoted value.
+  this s-code type runs just as fast as compiled code.  indeed the
+  machine instructions for evaluating this s-code are the same as what
+  the compiler would have generated for the original lisp form.
+but there is a problem
+why not continue in this vein specializing up the s-code tree?
+  wouldn’t our interpreter be as fast as compiled code?  well it
+  would, but there is a problem.  every time we add a new s-code type,
+  we add new opportunities for specialization to the containing nodes.
+  the number of ways to specialize a node is the product of the number
+  of ways to specialize its children, so the number of ways to
+  specialize the s-code tree grows exponentially with the number of
+  s-code types.  the few specializations i’ve just mentioned end up
+  producing hundreds of specialized s-code types.  many of these
+  specialized s-code types are quite esoteric and apply at most to only
+  one or two nodes in the s-code tree for the entire program and
+  runtime system.  performing another round of inlining and
+  specialization would produce thousands of specialized s-code types
+  — too many to author by hand, and most of which would be too
+  esoteric to ever be actually used.
+the solution, of course, is to automate the specialization process.
+  we only generate a specialized s-code type when it is actually used
+  by a program.  the number of specialized s-code types will be
+  limited by the number of ways programs are written, which is
+  linear in the size of the program.
+but specializing the code when we first encounter it is just jit
+  compiling the code.  we’ve just reinvented the compiler.  we might
+  as well skip the multi-level specialization of the s-code tree and
+  write a simple jit compiler.
+
+
+
+
+for older items, see the planet
+lisp archives.
+
+
+
+last updated: 2025-02-19 08:02
+
+
+
+
+
+

@@ -1,0 +1,495 @@
+
+
+
+
+
+dorset house publishing
+
+
+
+
+
+
+ 
+ 
+ ordersour 
+blog  excerpts
+savings
+contact
+ 
+ 
+
+ 
+ 
+ 
+
+
+ 
+  
+book titles . . . 
+adaptive sw 
+        dev. ...
+adrenaline 
+        junkies
+agile sw dev. 
+        in the large
+amplifying your 
+        effect...
+the aremac 
+        project
+are your lights 
+        on?
+becoming a tech. 
+        leader
+best practices 
+        ...
+communication 
+        gaps ...
+complete systems 
+        anal.
+creating a sw 
+        eng. cult...
+data model patterns
+data struc. 
+        sw maint.
+the deadline: 
+        a novel ...
+designing quality 
+        dbs
+dr. peeling's 
+        principles
+everyday heroes 
+        ...
+exploring req.
+five core metrics
+fundamentals 
+        of o.o. des.
+general principles 
+        ...
+the gift of 
+        time
+hdbk. of walkthroughs 
+        ...
+hiring the 
+        best...
+how to plan, 
+        dev. & use ...
+an intro. to 
+        gen. sys.
+iteam
+just enough 
+        req. mgmt
+managing expectations
+measuring and 
+        mging. perf. ...
+more secrets 
+        of consulting
+object-oriented 
+        computation ...
+the one minute 
+        meth.
+peopleware, 2nd 
+        ed.
+perfect software 
+        ...
+practical 
+        guide to bpr ...
+practical proj. 
+        mgmt.
+process for 
+        sys. arch. ...
+productivity 
+        sand traps ...
+project retrospectives 
+        
+the psych. of 
+        comp. prog. ... 
+qsm, vol. 1: 
+        systems ...
+qsm, vol. 2: 
+        first-order ...
+qsm, vol. 3: 
+        congruent ...
+qsm, vol. 4: 
+        anticipating ...
+rethinking 
+        sys. anal. & des.
+roundtable on 
+        proj. ...
+roundtable on 
+        tech. ...
+to satisfy 
+        & delight ...
+the secrets 
+        of consulting
+slack
+software endgames
+sw state-of-the-art
+strat. for 
+        real-time ...
+surv. the top 
+        ten ...
+sys. modeling 
+        & req. spec.
+sys. testing 
+        with an attitude
+testing dirty 
+        systems
+understanding 
+        the prof. ...
+waltzing with 
+        bears
+weinberg on 
+        writing
+what every 
+        prog. sh. know
+why does sw. 
+        cost ... ?
+working up to 
+        proj mgmt
+. . . detailed list
+
+ 
+authors . . .
+. . . author 
+        news & events
+. . . author index
+austin, 
+        r.
+bach, j.
+benesh, 
+        m.
+bruce, t.
+bullock, 
+        j.
+davis, a.
+demarco, 
+        t.
+drabick, 
+        r.
+eckstein, 
+        j.
+feldmann, 
+        c.
+galen, r.
+gause, d.
+gluckman, 
+        p.
+hatley, 
+        d.
+hay, d.
+herron, 
+        s.
+higgins, 
+        d.
+highsmith, 
+        j.
+hruschka, 
+        p.
+karten, 
+        n.
+kerth, n.
+kudish, 
+        j.
+lavi, j.
+lister, 
+        t.
+mcmenamin, 
+        s.
+mills, h.
+myers, w.
+orr, k.
+page-jones, 
+        m.
+pardee, 
+        w.
+peeling, 
+        n.
+perry, w.
+petschenik, 
+        n.
+phillips, 
+        d.
+pirbhai, 
+        i.
+pressman, 
+        r.
+putnam, 
+        l.
+rice, r.
+robertson, 
+        j.
+robertson, 
+        s.
+roome, d.
+rothman, 
+        j.
+van 
+        steenis, h.
+walsh, m.
+weinberg, 
+        d.
+weinberg, 
+        g.
+weisert, 
+        c.
+wiegers, 
+        k.
+
+ 
+subjects . . .
+. . . detailed 
+        list
+communication 
+        skills
+computer 
+        consulting
+database 
+        design
+data 
+        modeling
+object-oriented 
+        des.
+programming
+requirements 
+        eng.
+sw design
+sw 
+        engineering
+sw industry
+sw 
+        maintenance
+sw 
+        mgmt.
+sw 
+        methodologies
+sw metrics
+sw project 
+        mgmt.
+sw project 
+        rev.
+sw qual. 
+        & prod.
+sw testing
+sys. 
+        analysis
+sys. 
+        architecture
+sys. 
+        design
+sys. 
+        thinking
+team mgmt.
+tech. 
+        leadership
+. . . detailed 
+        list 
+   
+
+ an 
+introduction to general systems thinking peopleware, 
+3rd ed.: productive projects and teams 
+waltzing 
+with bears: managing risk on software projects 
+  
+ 
+ 
+ 
+  
+ 
+
+
+
+
+
+
+
+ 
+
+
+enter your search terms
+
+
+
+ 
+
+
+
+
+
+web
+
+
+dorset
+
+
+submit search form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ savings
+ orders
+ find a store excerpts  titles  subjects  authors 
+ about us
+ proposals review us 
+ contact 
+                us 
+
+
+
+
+
+
+
+
+get our e-news
+delivered by feedburner
+
+
+
+    
+  
+
+   
+   agile 
+software development with distributed teams
+now available
+ jutta 
+eckstein's latest book is a highly praised guide to staying agile in a global 
+world, discussing how agile methods and the constant communication they require 
+are uniquely capable of solving the challenges of distributed projects. click 
+here to order the print edition book. new 
+at www.informit.com: ebooks now available for 23 select dorset house titles, including 
+the following seven!
+agile 
+software development with distributed teams, by jutta 
+eckstein   communication 
+gaps, by naomi karten complete 
+systems analysis, by james 
+and suzanne roberson hiring 
+the best knowledge workers, techies & nerds, by johanna 
+rothman  iteam, 
+by william e. perry  managing 
+expectations, by naomi karten project 
+retrospectives, by norman l. kerth  available 
+directly from dorset house:working 
+up! by dwayne phillips
+-- only $9.99! find 
+jerry weinberg's ebook nonfiction and 
+novels listed at amazon, apple, barnes & noble, and smashwords stores, and at 
+www.geraldmweinberg.com.
+ 
+   quick 
+links author 
+newsauthor 
+interviews
+book 
+excerpts permission 
+requests exam 
+and review copies
+write 
+a review  get 
+tom demarco's slack in hardcover for only $8.95 plus shipping
+
+(previously $19.95)read 
+reviews and order today!   perfect 
+software 
+jerry 
+weinberg debunks the myths of software testing. "i 
+consider jerry to be the greatest living tester. . . . read this and get your 
+head straight about testing."  —james 
+bach 
+    
+
+  from 
+the authors of peopleware  adrenaline 
+junkies and template zombies: understanding patterns of project behaviorby
+tom demarco, peter 
+hruschka, tim lister, steve 
+mcmenamin, james robertson, and
+suzanne robertson study 
+86 patterns of behavior on software projects  
+   free 
+pdf downloads  dorset 
+house catalog 
+faxable order formsample 
+chapters   
+    
+ 
+  write 
+a review our 
+authors, editors, and readers need your feedback. 
+
+     
+shop online with paypal  
+just visit any book page and 
+click the "add to cart" button. you 
+don't have to open or use a paypal account. your 
+books will ship fresh from the dorset house warehouse.international 
+customers: please request a shipping estimate 
+first—paypal is set for us shipping.
+
+     
+sci-fi 
+techno-thriller the 
+aremac project  by
+gerald m. weinbergfrom 
+the author of  the psychology of computer programming
+ watch the youtube 
+trailer. read 
+the review in asimov's science fiction.download 
+the first 5 chapters  toll-free 
+usa and canada  our order line 800-dh-books 
+ (800-342-6657) is toll-free in usa  and canada.  
+   dorset 
+house publishing co., inc. new:3143 
+broadway, suite 2b  new york, new york 10027  usa 1-800-dh-books
+or 212-620-4053, fax 212-727-1044 
+
+
+
+
+
+copyright © 1996-2008 
+            by dorset house publishing co., inc. all rights reserved. 
+
+
+
+
+
+
+
+
+
+home
+ |  blog  |  savings
+ | 
+stores
+ 
+            |  features
+ |  titles  | authors
+ |  subjects  
+            |  orders
+ |  about  | 
+contact  |  legal
+ 
+
+
+
+
+ 
+
