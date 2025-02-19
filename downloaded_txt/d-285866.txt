@@ -1,0 +1,634 @@
+
+
+
+
+
+
+sshock2.com - through the looking glass
+
+
+
+
+
+
+
+
+
+
+
+•  system shock: rewired - 7.2
+•  system shock reboot on hold - 2.18
+•  ss reboot update - january 2018 - 2.7
+•  system shock at gametripper - 1.29
+•  shock community patch beta 4 - 1.29
+•  system shock 3? - 12.10
+•  shock community patch beta 2 - 11.5
+•  system shock on  steam/gog - 11.5
+
+
+
+•  ultimate guide to ss2 mods - 6.10
+•  updated: shock2 ambient list - 6.3
+•  info:  commands dump - 11.24
+•  fan story: bringer o/t many - 10.22
+•  fan story: mind's eye - 8.8
+•  fan story: loyalties - 7.31
+•  fanart:  waiting for a shodan - 5.19
+•  fan story:  first hour - 5.19
+
+
+
+•  patch for system shock infinite  - 3.4
+•  fm - system shock infinite - 2.12
+•  adaob v0.3.0 - 5.18
+•  fm - unn nightwalker - 9.21
+•  fm - shocking ruins - 3.7
+•  fm - ponterbee station v2 - 2.1
+•  zygo's 'ultimate' spawn mod (ii) - 8.22
+•  zygo's 'ultimate' spawn mod (i) - 8.22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+electronic 
+              mail addresses
+
+dave - keeper of pygmies
+tim - chief leprechaun tamer
+d'arcy - news!
+
+the ttlg network
+
+through 
+              the looking glass
+ttlg 
+              forums
+thief-thecircle.com
+deusex-machina.com
+stygianabyss.com
+bioshock-online.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    monday, july 02, 2018 
+
+
+
+
+
+
+   system shock: rewired
+ - 4:49:00 pm est - d`arcy
+
+
+
+
+
+
+
+even though system shock is almost 25 years old, it just got its first ever fan mission: system shock: rewired. three brand new levels with branching paths, four new cyberspace sections, new puzzles, new audiologs (currently text only), new on-screen text and so much more awaits in the now dark corridors of the hospital ship unn bismarck. playable with all existing versions of system shock (enhanced edition recommended). what are you waiting for? shodan waits for your return! and she is eager to end your - in her opinion - useless existence.
+
+you can grab this fm from mod db, where you'll also find all the instructions on how to install it, and discuss it on the dedicated thread in our forums.
+a big thank you to 3rdplayer for his amazing work! 
+
+
+
+
+
+
+
+
+
+
+
+    sunday, february 18, 2018 
+
+
+
+
+
+
+   system shock reboot on hold
+ - 5:40:00 pm est - d`arcy
+
+
+
+
+
+
+
+bad news. stephen kick, ceo of nightdive studios, just announced in their last kickstarter update that the whole project has been put on hold.
+"i have put the team on a hiatus while we reassess our path so that we can return to our vision. we are taking a break, but not ending the project. please accept my personal assurance that we will be back and stronger than ever. system shock is going to be completed and all of our promises fulfilled."
+let's hope that this long anticipated project can get back on track soon. meanwhile, you can join the ongoing discussion in our forums. 
+
+
+
+
+
+
+
+
+
+
+
+    wednesday, february 07, 2018 
+
+
+
+
+
+
+   ss reboot update - january 2018
+ - 12:49:00 pm est - d`arcy
+
+
+
+
+
+
+
+		  a cool video from nightdive studios, showing the latest developments in the system shock reboot project.		  
+
+
+
+
+
+
+
+
+
+
+
+    monday, january 29, 2018 
+
+
+
+
+
+
+   system shock at gametripper
+ - 1:17:00 pm est - d`arcy
+
+
+
+
+
+
+
+		  an interesting read at gametripper for anyone  who likes to reminisce about system shock.		  
+
+
+
+
+
+
+
+
+
+   shock community patch (scp) beta 4
+ - 12:50:00 pm est - d`arcy
+
+
+
+
+
+
+
+the system shock 2 community patch (scp) beta 4 is now available. in the words of its authors:
+"scp is intended to serve as an unofficial patch for system shock 2 that delivers an authentic but also highly polished ss2 gameplay experience — hopefully approximating the form ss2 would have taken if irrational had had a few more months to work on it before release. all changes have been made with the intent of respecting irrational's original vision. the other goal of scp is to upgrade ss2 to take advantage of the enhanced graphical features of the newdark engine in those ways that are beyond the means of standalone mods.
+
+
+the guiding principle for scp has been that ss2's gameplay is fine as-is, and that its greatest strength is immersion — its ability to make players feel like they’re really trapped on board the von braun with all its horrors. so while we’ve tweaked game systems and made adjustments to the level geometry, the goal hasn’t been balancing gameplay, but rather eliminating those things that don’t make sense to the point that they take you out of the game. anything illogical, gamey, or otherwise immersion-breaking, we've tried to correct."
+scp requires system shock 2 patched to version 2.46+ and you need to start a new game.
+head on to systemshock.org, where you can find more details about this patch, download, and discuss it.
+great work guys! 
+
+
+
+
+
+
+
+
+
+
+
+    thursday, december 10, 2015 
+
+
+
+
+
+
+   system shock 3?
+ - 6:29:50 pm est - d`arcy
+
+
+
+
+
+
+
+it certainly looks so. not many details have been made available so far, but a tease site has been put up.
+join the ongoing discussion at our forums. 
+
+
+
+
+
+
+
+
+
+
+
+    thursday, november 05, 2015 
+
+
+
+
+
+
+   shock community patch (scp) beta 2
+ - 10:12:44 pm est - d`arcy
+
+
+
+
+
+
+
+the system shock 2 community patch (scp) beta 2 is now out. in the words of its authors:
+"scp is intended to serve as an unofficial patch for system shock 2 that delivers an authentic but also highly polished gameplay experience, hopefully approximating the form ss2 would have taken if irrational had had a few more months to work on it before release. it is not a total conversion, a source port, a reimagining, or a remake. it is not ss2 for experts, nor is it ss2 for newbies. it’s just ss2, but better."
+so head on to systemshock.org, where you can find more details about this patch, download, and discuss it.
+as always, great work guys! 
+
+
+
+
+
+
+
+
+
+   system shock on  steam/gog
+ - 10:03:54 pm est - d`arcy
+
+
+
+
+
+
+
+yes, the game that started it all in 1994, system shock, is now available on steam and gog.
+it's an enhanced edition (which also includes the classic version of the game), containing several of the community's mods and improvements on the original game and much more, such as mouselook support, remappable keys, or enhanced resolution.
+so go ahead, employee 2-4601, grab a copy and jump back into citadel station! 
+
+
+
+
+
+
+
+
+
+
+
+    tuesday, june 10, 2014 
+
+
+
+
+
+
+   ultimate guide to ss2 mods
+ - 5:32:35 pm est - d`arcy
+
+
+
+
+
+
+
+given the sheer amount of mods and enhancements that the community has made for system shock 2 over the years, it's pretty easy to get confused or lost deciding which ones we might wish to install. well, thanks to chris' work, that problem may very well be a thing of the past.
+ you can check out the excellent and thorough ultimate guide to ss2 mods that he has compiled for us, where every available mod is described in detail, helping you decide what best suits your needs.
+a big thank you for your hard work, chris! 
+
+
+
+
+
+
+
+
+
+
+
+    tuesday, march 04, 2014 
+
+
+
+
+
+
+   patch for system shock infinite 
+ - 10:08:23 am est - d`arcy
+
+
+
+
+
+
+
+a patch for the system shock infinite fm has been made available, that will fix several bugs in the full version.
+the patch is available here. 
+
+
+
+
+
+
+
+
+
+
+
+    monday, february 17, 2014 
+
+
+
+
+
+
+   system shock infinite trailer
+ - 10:58:11 am est - d`arcy
+
+
+
+
+
+
+
+the team who brought us system shock infinite has just released a new trailer.
+check it out! 
+
+
+
+
+
+
+
+
+
+
+
+    wednesday, february 12, 2014 
+
+
+
+
+
+
+   new fm - system shock infinite
+ - 7:26:26 pm est - d`arcy
+
+
+
+
+
+
+
+xdiesp has just announced over at our forums that a new fan mission for system shock 2, 'system shock infinite', is now available for download. this minimod is a collaboration between him,  phantasmagore, shephardreborn, and captainlkl.
+for more details, install instructions and discussions about this fm, you can check the relevant thread.
+the fan mission can be downloaded here.
+
+a big 'thank you' to all the team who made this! 
+
+
+
+
+
+
+
+
+
+
+
+    monday, july 15, 2013 
+
+
+
+
+
+
+   ss2 on steam/gog
+ - 10:01:23 am est - d`arcy
+
+
+
+
+
+
+
+system shock 2 is now available on steam, and also on gog.
+this is the 2.42 patched version, and if you hurry you can get it 50% cheaper on steam's summer sale! 
+
+
+
+
+
+
+
+
+
+
+
+    monday, october 01, 2012 
+
+
+
+
+
+
+   ss2 soundtrack original multi-tracks
+ - 6:54:17 pm est - d`arcy
+
+
+
+
+
+
+
+and the goodies just keep on coming. we have just received word from josh 'robotkid' randall, concerning the system shock 2 soundtrack:
+"josh randall here. i was the producer for thief and system shock 2 back in the day. i was also the guy who did the electro bits of the system shock 2 soundtrack.[...] i decided to post the original multi-track recordings that made up some of the songs from the ss2 soundtrack.  i also posted some thoughts about each track, and the gear i used. i hope you and your readers enjoy!"
+the files can be found on josh's site, and you can discuss this on our forums.
+thank you very much, josh! 
+
+
+
+
+
+
+
+
+
+
+
+    wednesday, september 26, 2012 
+
+
+
+
+
+
+   new patch: ss2 v2.4
+ - 10:55:53 am est - d`arcy
+
+
+
+
+
+
+
+we just got some delightful news: a new unofficial patch for system shock 2 has surfaced! this is huge! the patch (along with a similar patch for thief ii) was announced by a mysterious user named 'le corbeau' on the french forum ariane4ever. the list of changes introduced by this patch is simply amazing, making both games fully compatible with modern hardware and windows releases, and opening new horizons for the modding community.
+a small sample of changes and fixes (from the release notes):
+renderer:
+
+added windowed mode
+added single display mode option - no resolution change between menus and game
+added ingame support for all common resolutions, including widescreen
+added support for 32-bit color
+textures can now be automatically promoted to 32-bit, improving quality and effectively eliminating the palette limit
+added ui framerate cap option to avoid gpu fan spinning up in ui
+added dds/png image support
+added full 24/32-bit tga/bmp image support
+increased the maximum number of frames allowed in animated textures from 20 to 99, and increased the allowable filename length for animated textures (before the underscore) to support more than 7
+animated texture rate can now be specified via a material file for that texture
+fixed a bug where transparency property didn't (correctly) apply on objects that contain transparent polys
+
+general:
+
+replaced video player lib with an ffmpeg based one to play cutscenes. lgvid.ax or other codecs are no longer required
+option to use openal (if available) instead of directsound. includes support for audio effects in windows 7 without an eax-enabled driver (e.g. alchemy)
+added "head_bob" config var to control amount of head bob
+added mousewheel support to options menu
+fixed player ground contact tracking when walking off an object (caused footstep sounds to get "stuck" on previous material)
+fixed sound cap per schema type bug and upped max sound channels to 48
+changed screenshot output format to bmp and also added support for png screenshots
+changed mouselook sensitivity to be resolution independent
+added check to avoid trying to open files with reserved system name like com ports
+ais now breathe from their head instead of their stomachs. they will no longer drown when up to their waist in water.
+lowered player crouch height by a tiny fraction so he's less likely to get stuck on 4 unit tall spaces
+added better support for binding actions to the mouse wheel (can bind wheel up and wheel down as separate actions, with modifier key support)
+fixed star rendering
+added "log_player_pos" command that dumps current player pos to log file (when enabled)
+added the ability to detach from ladders by crouching
+improved mantling a bit and added optional new mantling algorithm with lower failure rate
+and much, much more...
+
+join the discussion at our forums, where we have threads dedicated to both thief and system shock 2. there you will also find links to download the patches and respective demos.
+we still don't know who is the author of this amazing work, but whoever you are, there aren't enough words to thank you for this! 
+
+
+
+
+
+
+
+
+
+
+
+
+browse old news in the news archive.
+
+
+
+
+
+			 	this site was designed and constructed by the same hack-crazy taffer who built and 
+				runs ttlg, thief-thecircle.com, and the irrational games website. it was coded 100% 
+			 	in a text editor, and the images were created using paint shop pro 5. for best viewing 
+				results, you should be using ie 4.x or greater, no less then 800x600 resolution, and 
+				hopefully  something greater then 256 colors. the author of this site would like to thank 
+				al for the good design advice, saam for getting him in the biz in the first place, and 
+				 lu for having such a sinister face!  all system shock related stuff is copyright looking 
+				glass studios, irrational games, and electronic arts.
+
+
+
+
+
+
+
+
