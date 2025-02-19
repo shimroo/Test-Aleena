@@ -1,0 +1,229 @@
+
+
+
+
+
+
+home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        open source content management                                        
+
+
+skip to content
+jump to main navigation and login
+
+nav view search
+navigation
+
+homesample sitesjoomla.org
+
+
+search
+
+
+search... 
+
+
+
+
+ 
+
+
+
+
+you are here: home
+
+
+
+about joomla!
+
+getting startedusing joomla!the joomla! projectthe joomla! community
+
+
+this site
+
+homesite maploginsample sitessite administratorexample pages
+
+
+login form
+
+
+
+user name
+
+
+
+password
+
+
+
+remember me
+
+
+
+
+
+
+ 
+
+
+
+			forgot your password?
+
+
+
+			forgot your username?
+
+
+
+				create an account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			joomla!
+
+congratulations! you have a joomla site! joomla makes it easy to build a website just the way you want it and keep it simple to update and maintain.
+joomla is a flexible and powerful platform, whether you are building a small site for yourself or a huge site with hundreds of thousands of visitors. joomla is open source, which means you can make it work just the way you want it to.
+
+
+
+
+
+
+
+			beginners
+
+if this is your first joomla! site or your first web site, you have come to the right place. joomla will help you get your website up and running quickly and easily.
+start off using your site by logging in using the administrator account you created when you installed joomla.
+
+
+					read more: beginners
+
+
+
+
+
+
+			upgraders
+
+if you are an experienced joomla! 1.5 user, this joomla site will seem very familiar. there are new templates and improved user interfaces, but most functionality is the same. the biggest changes are improved access control (acl) and nested categories. this release of joomla has strong continuity with joomla! 1.7 while adding enhancements.
+
+
+					read more: upgraders
+
+
+
+
+
+
+			professionals
+
+joomla! 2.5 continues development of the joomla framework and cms as a powerful and flexible way to bring your vision of the web to reality. with the administrator now fully mvc, the ability to control its look and the management of extensions is now complete.
+
+
+					read more: professionals
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+		contribute!	
+
+
+
+ 
+
+
+
+
+
+
+
+
+		books!	
+
+
+
+ 
+
+
+
+
+
+
+
+
+		shop!	
+
+
+
+
+
+
+
+
+                                                powered by joomla!®
+
+
+
+
+
+
